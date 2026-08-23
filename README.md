@@ -6,9 +6,18 @@ from other write-ups.
 
 ## Layout
 
-- `docs/` — hosted documents (Markdown write-ups and PDFs)
+- `docs/towns/<town-slug>/` — every document, filed by the town it's about.
+  This is the source of truth; each file lives in exactly one place here.
+- `docs/topics/<topic-slug>.md` — cross-town indexes. Each is a themed list
+  of links back into `docs/towns/`, e.g. "cameras implemented with no legal
+  process." A single document can be listed under several topics.
 
 ## Linking to a file
 
-- Rendered view: `https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/<file>`
-- Raw content: `https://raw.githubusercontent.com/unseenpower/ct-mass-surveillance/main/docs/<file>`
+- Rendered view: `https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/<town>/<file>`
+- Raw content: `https://raw.githubusercontent.com/unseenpower/ct-mass-surveillance/main/docs/towns/<town>/<file>`
+
+## Adding a document
+
+Use the `/publish-doc` skill in `life_os` — it files the doc under the right
+town, updates the relevant topic index(es), and pushes.
