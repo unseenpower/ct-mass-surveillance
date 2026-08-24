@@ -17,7 +17,4 @@ from other write-ups.
 - Rendered view: `https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/<town>/<file>`
 - Raw content: `https://raw.githubusercontent.com/unseenpower/ct-mass-surveillance/main/docs/towns/<town>/<file>`
 
-## Adding a document
 
-Use the `/publish-doc` skill in `life_os` — it files the doc under the right
-town, updates the relevant topic index(es), and pushes.
