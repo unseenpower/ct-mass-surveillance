@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Milford
 
 
-_Generated 2026-08-23T16:00:05 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Milford"`_
+_Generated 2026-08-27T15:39:48 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Milford"`_
 
 
 ## Coverage status
@@ -23,8 +23,8 @@ _Generated 2026-08-23T16:00:05 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| mgat | streams | 2026-08-23 15:50:40.950484 | 513 |
-| mgat | videos | 2026-08-23 15:50:46.087428 | 389 |
+| mgat | streams | 2026-08-27 12:15:49.796022 | 513 |
+| mgat | videos | 2026-08-27 12:15:55.041445 | 389 |
 
 
 ## Registered meeting bodies
@@ -760,6 +760,11 @@ _Generated 2026-08-23T16:00:05 -- regenerate with `.venv/bin/python3 analysis/ge
 ## Findings by topic
 
 
+### ai_data_fusion
+
+*(no findings)*
+
+
 ### alpr
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
@@ -1395,6 +1400,11 @@ _Generated 2026-08-23T16:00:05 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=1649s)  _(term: alpr_flock, unreviewed)_
 
 
+### biometrics_other
+
+*(no findings)*
+
+
 ### body_camera
 
 - **[2025-11-06] Board of Aldermen** -- Board Of Aldermen 11/06/2025
@@ -1482,7 +1492,17 @@ _Generated 2026-08-23T16:00:05 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PXEvQw8q390&t=1728s)  _(term: body_camera, unreviewed)_
 
 
+### cad
+
+*(no findings)*
+
+
 ### cell_site_sim
+
+*(no findings)*
+
+
+### data_broker
 
 *(no findings)*
 
@@ -1941,7 +1961,22 @@ _Generated 2026-08-23T16:00:05 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
+### mobile_forensics
+
+*(no findings)*
+
+
+### osint_social_monitor
+
+*(no findings)*
+
+
 ### predictive_policing
+
+*(no findings)*
+
+
+### purchasing_broker
 
 *(no findings)*
 
@@ -1956,11 +1991,26 @@ _Generated 2026-08-23T16:00:05 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
+### undercover_tools
+
+*(no findings)*
+
+
+### vehicle_forensics
+
+*(no findings)*
+
+
+### video_analytics
+
+*(no findings)*
+
+
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 121 (fetched: 101)
-- Date range covered: 2026-01-05 to 2026-08-24
+- Documents registered: 123 (fetched: 101)
+- Date range covered: 2026-01-05 to 2026-08-31
 
 
 ### Agenda sources
@@ -1971,6 +2021,11 @@ _Generated 2026-08-23T16:00:05 -- regenerate with `.venv/bin/python3 analysis/ge
 
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
+
+
+### ai_data_fusion
+
+*(no mentions)*
 
 
 ### alpr
@@ -2003,6 +2058,11 @@ meetings and using a participatory budgeting process...
   [View document ▸](https://www.milfordct.us/AgendaCenter/ViewFile/Minutes/_02112026-1706)  _(term: alpr_flock, unreviewed)_
 
 
+### biometrics_other
+
+*(no mentions)*
+
+
 ### body_camera
 
 - **[2026-02-17] Board of Finance** -- Board of Finance Minutes - 2026-02-17 (minutes)
@@ -2014,7 +2074,17 @@ questioned the lower training costs and whether officers rece...
   [View document ▸](https://www.milfordct.us/AgendaCenter/ViewFile/Minutes/_02172026-1707)  _(term: body_camera, unreviewed)_
 
 
+### cad
+
+*(no mentions)*
+
+
 ### cell_site_sim
+
+*(no mentions)*
+
+
+### data_broker
 
 *(no mentions)*
 
@@ -2039,7 +2109,22 @@ questioned the lower training costs and whether officers rece...
 *(no mentions)*
 
 
+### mobile_forensics
+
+*(no mentions)*
+
+
+### osint_social_monitor
+
+*(no mentions)*
+
+
 ### predictive_policing
+
+*(no mentions)*
+
+
+### purchasing_broker
 
 *(no mentions)*
 
@@ -2050,6 +2135,21 @@ questioned the lower training costs and whether officers rece...
 
 
 ### surveillance_general
+
+*(no mentions)*
+
+
+### undercover_tools
+
+*(no mentions)*
+
+
+### vehicle_forensics
+
+*(no mentions)*
+
+
+### video_analytics
 
 *(no mentions)*
 
