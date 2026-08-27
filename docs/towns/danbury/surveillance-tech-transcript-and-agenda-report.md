@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Danbury
 
 
-_Generated 2026-08-27T15:38:52 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Danbury"`_
+_Generated 2026-08-27T17:51:15 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Danbury"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T15:38:52 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 1
 - Active meeting bodies: 4
 - Videos registered: 20 (fetched: 20, no captions: 0)
-- Date range covered: None to None
+- Date range covered: 2020-05-05 to 2020-10-08 — **based on the 4 of 20 videos that carry a parseable upload date**; the other 16 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -157,7 +157,7 @@ _Generated 2026-08-27T15:38:52 -- regenerate with `.venv/bin/python3 analysis/ge
 
 - Agenda sources registered: 1
 - Documents registered: 0 (fetched: 0)
-- Date range covered: None to None
+- Date range covered: *no agenda document on file carries a parseable date yet*
 
 
 ### Agenda sources

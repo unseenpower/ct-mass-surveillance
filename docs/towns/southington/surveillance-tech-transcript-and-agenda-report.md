@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Southington
 
 
-_Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Southington"`_
+_Generated 2026-08-27T17:53:25 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Southington"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 1
 - Active meeting bodies: 4
 - Videos registered: 388 (fetched: 375, no captions: 13)
-- Date range covered: 2019-07-22 to 2026-08-13
+- Date range covered: 2019-07-22 to 2026-08-13 — **based on the 352 of 388 videos that carry a parseable upload date**; the other 36 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -47,13 +47,13 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
 | alpr | 52 | 11 | 2023-07-10 | 2026-05-11 |
 | biometrics_other | 1 | 1 | 2023-12-14 | 2023-12-14 |
 | body_camera | 2 | 1 | 2026-02-26 | 2026-02-26 |
-| drone | 84 | 18 | 2020-09-09 | 2026-07-13 |
+| drone | 84 | 18 | 2020-09-09 | 2026-07-14 |
 | facial_recognition | 1 | 1 | 2023-07-10 | 2023-07-10 |
 
 
 ## Timeline
 
-26 meetings surfaced a finding (25 dated, spanning 2020-09-09 to 2026-07-13; 1 of unknown date, listed last).
+26 meetings surfaced a finding (26 dated, spanning 2020-09-09 to 2026-07-14; 0 of unknown date, listed last).
 
 
 ### 2020-09-09 -- Board of Finance
@@ -459,7 +459,7 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
 - `drone` [▸](https://www.youtube.com/watch?v=9KLNpGTNXUw&t=720s)  > ...operations including the patrol services, criminal investigations, the canine unit, drone unit, hostage negotiation team, dispatch...
 
 
-### date unknown -- Town Council
+### 2026-07-14 -- Town Council
 
 **Town Council 7/14/26** _(topics: drone)_
 
@@ -485,16 +485,16 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=fAfweNcpY_w&t=1294s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-26] Board of Finance** -- Board of Finance 02/26/2026 Budget Hearing #2
-  > ...four years removed from it here. And significantly busier and more dangerous. >> The flock system was the greatest thing you ever gave us for police work, but it entails a lot of extra work. Well, we're...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UXsdKDB6MmI&t=5707s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-26] Board of Finance** -- Board of Finance 02/26/2026 Budget Hearing #2
   > ...where you >> Is that considered a downside to the whole thing? Are we the flock? >> No, not the flock. The whole um police accountability bill, a lot of the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UXsdKDB6MmI&t=5731s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-26] Board of Finance** -- Board of Finance 02/26/2026 Budget Hearing #2
   > ...>> Is that considered a downside to the whole thing? Are we the flock? >> No, not the flock. The whole um police accountability bill, a lot of the aspects of it, it it costs a lot of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UXsdKDB6MmI&t=5733s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-26] Board of Finance** -- Board of Finance 02/26/2026 Budget Hearing #2
+  > ...four years removed from it here. And significantly busier and more dangerous. >> The flock system was the greatest thing you ever gave us for police work, but it entails a lot of extra work. Well, we're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UXsdKDB6MmI&t=5707s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-28] Board of Finance** -- Board of Finance 1/28/2026
   > ...>> I post. Next one. Contingency transfer $12,000 even police flock system additional year. So it's paying the additional year....
@@ -509,20 +509,20 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=957s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-10-08] Board of Finance** -- Board of Finance 10/08/2025
-  > ...drone, a three-year pilot, and 12,000 for the uh Flock PTZ system and those are all of them....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=1699s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-10-08] Board of Finance** -- Board of Finance 10/08/2025
   > ...pilot program. So we'd fund three years of it. And then they'd have to >> And then there's some more flock specialized cameras for 12,000. Another item....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=1055s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-10-08] Board of Finance** -- Board of Finance 10/08/2025
-  > ...department, 12,000 for the generator at the animal control, 50,000 for the flock safety drone, a three-year pilot, and 12,000...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=1688s)  _(term: alpr_flock, unreviewed)_
+  > ...drone, a three-year pilot, and 12,000 for the uh Flock PTZ system and those are all of them....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=1699s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-10-08] Board of Finance** -- Board of Finance 10/08/2025
   > ...>> They keep it confidential, but well, what they actually do, but it's a different style of flock camera. >> And these were going to be in the downtown area if I'm right. and had an...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=1065s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-10-08] Board of Finance** -- Board of Finance 10/08/2025
+  > ...department, 12,000 for the generator at the animal control, 50,000 for the flock safety drone, a three-year pilot, and 12,000...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=1688s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
   > ...emergency happens and if we they lose power that currently has no generator. Um that was just an estimate. The flock safety's drone. Um that's one I'm it's it's thrown as a first responder. I know...
@@ -533,20 +533,32 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2111s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
-  > ...area where the uh stolen vehicle hit and it eyes in the skies. Our ability to find stolen vehicles. Flock was a gamecher. I think this is the ne next extension to that....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2124s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
   > ...the parks, put them on all the town buildings. Uh, cameras are incredible. Um, just like the flock system, it's incredible. And the last one's a vehicle carport. Very expensive. Uh, Cheshure...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2299s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
+  > ...area where the uh stolen vehicle hit and it eyes in the skies. Our ability to find stolen vehicles. Flock was a gamecher. I think this is the ne next extension to that....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2124s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-04-28] Town Council** -- Town Council 4/28/2025
   > ...uh the private duty fund at the police station. We're going to increase our support of that flock camera network. We're going to upgrade the police radio system. That's a constant...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=6SAVKEu75bE&t=1046s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
-  > ...left a note for her daughter that she was going to kill herself um found the car on the flock system it was right near a location in town every one flock flock there uh everyone went there and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3083s)  _(term: alpr_flock, unreviewed)_
+  > ...to put a pilot on it and as good I say this as good as the flock system is it's not not like this flock system could replace our cops you still need the boots on the ground to do the work the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3176s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
+  > ...that's that's what we are the difference we're the Envy of this state with our flock camera system okay um those license plate readers everyone thinks oh it's for...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3057s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
+  > ...car on the flock system it was right near a location in town every one flock flock there uh everyone went there and they located her as she was about to pull in a garage to kill herself they...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3088s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
+  > ...it's just all hands off until you want to put a pilot on it and as good I say this as good as the flock system is it's not not like this flock system could replace our cops you still need the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3173s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
   > ...incredible and all we get calls from all other towns hey can you run this in your flock system see if uh see if you you had this car um Sol solve the Waterberry murder it's uh it's incredible and our...
@@ -557,28 +569,16 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3086s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
-  > ...they located her as she was about to pull in a garage to kill herself they saved the life that flock system is incredible and all we get calls from all other towns hey can you run this in your...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3097s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
-  > ...that's that's what we are the difference we're the Envy of this state with our flock camera system okay um those license plate readers everyone thinks oh it's for...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3057s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
-  > ...it's just all hands off until you want to put a pilot on it and as good I say this as good as the flock system is it's not not like this flock system could replace our cops you still need the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3173s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
   > ...replace our cops you still need the boots on the ground to do the work the the flock system is a great tool to help them do their job but it's our quality cops that are are actually making it as...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3183s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
-  > ...to put a pilot on it and as good I say this as good as the flock system is it's not not like this flock system could replace our cops you still need the boots on the ground to do the work the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3176s)  _(term: alpr_flock, unreviewed)_
+  > ...left a note for her daughter that she was going to kill herself um found the car on the flock system it was right near a location in town every one flock flock there uh everyone went there and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3083s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
-  > ...car on the flock system it was right near a location in town every one flock flock there uh everyone went there and they located her as she was about to pull in a garage to kill herself they...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3088s)  _(term: alpr_flock, unreviewed)_
+  > ...they located her as she was about to pull in a garage to kill herself they saved the life that flock system is incredible and all we get calls from all other towns hey can you run this in your...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3097s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-12-11] Town Council** -- Town Council 12/11/2023
   > ...and other crimes and um that new era is upon us thanks to a an investment that Southington has made in flock cameras and then also uh you know some of the some of the neighboring communities as...
@@ -593,56 +593,12 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=3225s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...if you're in Southington and you're up to no good flock is going to tag you and then we're going to investigate to you so I guess some of the negatives could be like...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2086s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...and upfront which they are with the people explain to them what's going on nothing is perfect I think though flock does a good job of eliminating your false positives because it's always can...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2180s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...more to store than an Excel file listing the license plate you know what I mean and flock the company is very uh these things it's very sensitive to privacy so...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1097s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...um councilwoman depaolo did address the question that I was interested in as well and that is the you know the flock Software System we I want to make sure that that integrates with other software...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1866s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...front and if anything expanded um and that's that's kind of the vision that we've had because again flock has their experts we're going to look at our data and we're going to come up with...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1639s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...about what councilman triplinski just said I think on page two of our memo here it says what is the alpr technology the fourth bullet point down it says use to solve crime so I hope that uh and I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2542s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...to kind of work with the residents or landowners so the way flock is designed is they they pull all the permits and everything else so it usually goes within either...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2641s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...problem with someone who didn't want a camera in the area then we would work through that flock hasn't experienced that but where they're putting the camera it's a 12 foot nice black...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2655s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...Adonis we like to see at a minimum the 22 camera deployment and what flock does is flock has their their experts look at it and then they came up they came up with a basic deployment plan and then...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1569s)  _(term: alpr_flock, unreviewed)_
+  > ...can you tell uh how long have you been looking into and investigating this flock system we've probably been looking into it for over a year now...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2033s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-07-10] Town Council** -- Town Council 7/10/2023
   > ...rip versus a two yeah the four year is almost built in because it's technology and release what flock is saying is we have a two-year contract we'll guarantee you another two years with the same...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2701s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...with Chief Daley and and attorney Rick Adonis we like to see at a minimum the 22 camera deployment and what flock does is flock has their their experts look at it and then they came up they came up...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1567s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...commission hasn't had this I haven't spoken to it yet we've been told by flock's legal counsel that it's not voidable because it's a public safety exception...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2889s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...years so they actually have uh agreements with other surrounding areas like West Hartford this year their flock data so they could do it so yes we can share openly with other with other...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1531s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-07-10] Town Council** -- Town Council 7/10/2023
   > ...17 in the report you provided corporate Council found several more in flock integrates with our axon and they also don't sell they do not sell the information to the public so it's our...
@@ -653,36 +609,80 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1467s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...protection and answer any questions you have the community benefits of the an alpr system and then there'll be time for feedback and questions if you have any...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=441s)  _(term: alpr_flock, unreviewed)_
+  > ...if you're in Southington and you're up to no good flock is going to tag you and then we're going to investigate to you so I guess some of the negatives could be like...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2086s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-07-10] Town Council** -- Town Council 7/10/2023
   > ...the South Dakota West Hartford has had flax since 2022 they flock provided us with they do a very good job of detailing their success stories they've had 44 success stories...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1394s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...clearing rates will increase and our crime rates will decrease every uh police department that is used uh alpr systems have shown a reduction in the crime rate and it also moves us from a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=608s)  _(term: alpr_flock, unreviewed)_
+  > ...and upfront which they are with the people explain to them what's going on nothing is perfect I think though flock does a good job of eliminating your false positives because it's always can...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2180s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-07-10] Town Council** -- Town Council 7/10/2023
   > ...they had two people come through out of Dakota they had counterfeit warrants it was inside and uh ncic they got a flock hit pulled the car over made the arrests they're now on their way to sell uh to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1382s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...still need officers okay so an overview of an alpr system it's a high-speed cam system that can quickly capture photographs of license...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=526s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-07-10] Town Council** -- Town Council 7/10/2023
   > ...and we have a stolen or wanted vehicle that enters Our Town hasn't committed a crime yet flock now picks it up okay they identify it as a hot sheet vehicle dispatch gets notified all the MTD mdds...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1303s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-07-10] Town Council** -- Town Council 7/10/2023
+  > ...more to store than an Excel file listing the license plate you know what I mean and flock the company is very uh these things it's very sensitive to privacy so...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1097s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-07-10] Town Council** -- Town Council 7/10/2023
   > ...um in the Privacy portal it's a big one so if you're in the audience or if you're on the dice you can Google flock privacy portal Google Warwick Google anything it'll pop up and we have the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=869s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-07-10] Town Council** -- Town Council 7/10/2023
-  > ...can you tell uh how long have you been looking into and investigating this flock system we've probably been looking into it for over a year now...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2033s)  _(term: alpr_flock, unreviewed)_
+  > ...clearing rates will increase and our crime rates will decrease every uh police department that is used uh alpr systems have shown a reduction in the crime rate and it also moves us from a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=608s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-07-10] Town Council** -- Town Council 7/10/2023
+  > ...still need officers okay so an overview of an alpr system it's a high-speed cam system that can quickly capture photographs of license...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=526s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-07-10] Town Council** -- Town Council 7/10/2023
+  > ...front and if anything expanded um and that's that's kind of the vision that we've had because again flock has their experts we're going to look at our data and we're going to come up with...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1639s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-07-10] Town Council** -- Town Council 7/10/2023
+  > ...protection and answer any questions you have the community benefits of the an alpr system and then there'll be time for feedback and questions if you have any...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=441s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-07-10] Town Council** -- Town Council 7/10/2023
+  > ...years so they actually have uh agreements with other surrounding areas like West Hartford this year their flock data so they could do it so yes we can share openly with other with other...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1531s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-07-10] Town Council** -- Town Council 7/10/2023
+  > ...to kind of work with the residents or landowners so the way flock is designed is they they pull all the permits and everything else so it usually goes within either...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2641s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-07-10] Town Council** -- Town Council 7/10/2023
+  > ...with Chief Daley and and attorney Rick Adonis we like to see at a minimum the 22 camera deployment and what flock does is flock has their their experts look at it and then they came up they came up...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1567s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-07-10] Town Council** -- Town Council 7/10/2023
+  > ...about what councilman triplinski just said I think on page two of our memo here it says what is the alpr technology the fourth bullet point down it says use to solve crime so I hope that uh and I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2542s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-07-10] Town Council** -- Town Council 7/10/2023
+  > ...commission hasn't had this I haven't spoken to it yet we've been told by flock's legal counsel that it's not voidable because it's a public safety exception...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2889s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-07-10] Town Council** -- Town Council 7/10/2023
+  > ...Adonis we like to see at a minimum the 22 camera deployment and what flock does is flock has their their experts look at it and then they came up they came up with a basic deployment plan and then...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1569s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-07-10] Town Council** -- Town Council 7/10/2023
+  > ...um councilwoman depaolo did address the question that I was interested in as well and that is the you know the flock Software System we I want to make sure that that integrates with other software...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=1866s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-07-10] Town Council** -- Town Council 7/10/2023
+  > ...problem with someone who didn't want a camera in the area then we would work through that flock hasn't experienced that but where they're putting the camera it's a 12 foot nice black...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wOBECFljDf8&t=2655s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -695,12 +695,12 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
 ### body_camera
 
 - **[2026-02-26] Board of Finance** -- Board of Finance 02/26/2026 Budget Hearing #2
-  > ...picture, but it but the cost of it. And then then we get FOI requests for the body cam. So then someone has to take that body cam footage and watch it. And if there's any juveniles in it, they...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UXsdKDB6MmI&t=5971s)  _(term: body_camera, unreviewed)_
-
-- **[2026-02-26] Board of Finance** -- Board of Finance 02/26/2026 Budget Hearing #2
   > ...then then we get FOI requests for the body cam. So then someone has to take that body cam footage and watch it. And if there's any juveniles in it, they have to blot blot out their faces. It's...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UXsdKDB6MmI&t=5973s)  _(term: body_camera, unreviewed)_
+
+- **[2026-02-26] Board of Finance** -- Board of Finance 02/26/2026 Budget Hearing #2
+  > ...picture, but it but the cost of it. And then then we get FOI requests for the body cam. So then someone has to take that body cam footage and watch it. And if there's any juveniles in it, they...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UXsdKDB6MmI&t=5971s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -725,6 +725,10 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### drone
 
+- **[2026-07-14] Town Council** -- Town Council 7/14/26
+  > ...operations including the patrol services, criminal investigations, the canine unit, drone unit, host hostage negotiation team, dispatch operations, and several partner agencies. The...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=krEUwLSwgW0&t=1049s)  _(term: drone, unreviewed)_
+
 - **[2026-07-13] Town Council** -- Town Council 07/13/2026
   > ...operations including the patrol services, criminal investigations, the canine unit, drone unit, hostage negotiation team, dispatch...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9KLNpGTNXUw&t=720s)  _(term: drone, unreviewed)_
@@ -732,6 +736,10 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
 - **[2026-06-18] Board of Education** -- Board of Education 06/18/2026
   > ...celebrations that all the schools had and I think Darinowski had a separate day because they had a drone go over and I'm sure some of you have seen the pictures on Facebook. I know I have. But...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=WX-NARL_75o&t=2034s)  _(term: drone, unreviewed)_
+
+- **[2025-10-09] Board of Education** -- Board of Education 10/09/2025
+  > ...Month. >> So, as I learned today when we went outside for the drone picture, um it's starting to get really cold. Um so, with that, uh fall sports seasons are coming...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L3ycMiofouE&t=1028s)  _(term: drone, unreviewed)_
 
 - **[2025-10-09] Board of Education** -- Board of Education 10/09/2025
   > ...PSAT exam. Today, during BCAP advisory, um, the seniors took their overhead drone photos out on the turf field. Nice. Um, on October 21st, the music department will be hosting their annual...
@@ -745,25 +753,9 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
   > ...of the National Hispanic Heritage Month. >> So, as I learned today when we went outside for the drone picture, um it's starting to get really cold. Um so, with that, uh fall sports seasons are coming...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=w7j5qL6RtB8&t=1438s)  _(term: drone, unreviewed)_
 
-- **[2025-10-09] Board of Education** -- Board of Education 10/09/2025
-  > ...Month. >> So, as I learned today when we went outside for the drone picture, um it's starting to get really cold. Um so, with that, uh fall sports seasons are coming...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L3ycMiofouE&t=1028s)  _(term: drone, unreviewed)_
-
 - **[2025-10-08] Board of Finance** -- Board of Finance 10/08/2025
   > ...>> something new. Fire department, too, right? The drone in a box supposed to pop out and go to wherever the call is. >> Not for us. No, sir....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=990s)  _(term: drone, unreviewed)_
-
-- **[2025-10-08] Board of Finance** -- Board of Finance 10/08/2025
-  > ...>> Okay, that's We'll put that on the yes side of the list. The flock safety drone, the drone in a box. This is a um a three-year pilot where we we buy it for three years. We look at it. We test...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=959s)  _(term: drone, unreviewed)_
-
-- **[2025-10-08] Board of Finance** -- Board of Finance 10/08/2025
-  > ...>> and I'll amend my second. >> So, to approve the list as as um called out with it with the drone being a pilot for two years. >> Thank you for the clarification....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=1950s)  _(term: drone, unreviewed)_
-
-- **[2025-10-08] Board of Finance** -- Board of Finance 10/08/2025
-  > ...>> The learning curve and everything else. >> Yeah. to get it up to get the people. We got to get a drone pilot, somebody to keep an eye on it. >> Um,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=1789s)  _(term: drone, unreviewed)_
 
 - **[2025-10-08] Board of Finance** -- Board of Finance 10/08/2025
   > ...amend our motion to approve these things with the the same same items, but with a two-year on the flock drone. >> I will amend my original motion >> and I'll amend my second....
@@ -774,12 +766,60 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=1691s)  _(term: drone, unreviewed)_
 
 - **[2025-10-08] Board of Finance** -- Board of Finance 10/08/2025
+  > ...>> Okay, that's We'll put that on the yes side of the list. The flock safety drone, the drone in a box. This is a um a three-year pilot where we we buy it for three years. We look at it. We test...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=959s)  _(term: drone, unreviewed)_
+
+- **[2025-10-08] Board of Finance** -- Board of Finance 10/08/2025
+  > ...>> The learning curve and everything else. >> Yeah. to get it up to get the people. We got to get a drone pilot, somebody to keep an eye on it. >> Um,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=1789s)  _(term: drone, unreviewed)_
+
+- **[2025-10-08] Board of Finance** -- Board of Finance 10/08/2025
+  > ...>> and I'll amend my second. >> So, to approve the list as as um called out with it with the drone being a pilot for two years. >> Thank you for the clarification....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=1950s)  _(term: drone, unreviewed)_
+
+- **[2025-10-08] Board of Finance** -- Board of Finance 10/08/2025
   > ...>> We have a motion, a second. Any further discussion? >> Yeah, just one question. On the drone, it's 50,000 a year for three years. are are those also...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jq2Tr3odmIQ&t=1727s)  _(term: drone, unreviewed)_
 
 - **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
+  > ...what they see. It also could live feed to the cruisers. So the officers on the way there could see what the the drone sees. It's incredible. I was talking Milford is a town that currently has....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2148s)  _(term: drone, unreviewed)_
+
+- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
+  > ...flock system. So if a stolen vehicle comes in, you launch the drone, it goes to the area where the uh stolen vehicle hit and it eyes in the skies. Our ability to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2115s)  _(term: drone, unreviewed)_
+
+- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
+  > ...power that currently has no generator. Um that was just an estimate. The flock safety's drone. Um that's one I'm it's it's thrown as a first responder. I know I was told not to put in something with...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2060s)  _(term: drone, unreviewed)_
+
+- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
+  > ...look in someone's windows and things like that. So, it would wouldn't be any different than our current drone policy. >> Okay. Thank you. >> Um, next one is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2263s)  _(term: drone, unreviewed)_
+
+- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
+  > ...be used after a certain date. Um but those are they're at the station. If the drone pilots aren't working, then they have to come in, get called in, come in to work. the that drone the drone as a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2221s)  _(term: drone, unreviewed)_
+
+- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
+  > ...and then at the end of the 3 years, we can decide if we want to continue it. What it is is we would put a drone in a case somewhere in town, probably in the center of town, and with the push of a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2085s)  _(term: drone, unreviewed)_
+
+- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
   > ...Milford is a town that currently has. They're in the process of getting their third drone and uh they were telling me about the success stories. They they launched it where a a kayaker was out in...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2158s)  _(term: drone, unreviewed)_
+
+- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
+  > ...drone pilots aren't working, then they have to come in, get called in, come in to work. the that drone the drone as a first responder could be launched immediately and uh it would be there...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2225s)  _(term: drone, unreviewed)_
+
+- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
+  > ...>> Yep. >> What What's our current drone? What do we have for a drone now? >> We have two drones. They're the DJI, which are the Chinesemade drones. The...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2198s)  _(term: drone, unreviewed)_
+
+- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
+  > ...center of town, and with the push of a button, that drone would deploy based on our CAD system to the call. The drone would fly there, get there probably long before any officers. Um, at night, it...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2097s)  _(term: drone, unreviewed)_
 
 - **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
   > ...case somewhere in town, probably in the center of town, and with the push of a button, that drone would deploy based on our CAD system to the call. The drone would fly there, get there probably long...
@@ -790,56 +830,8 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2181s)  _(term: drone, unreviewed)_
 
 - **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
-  > ...and then at the end of the 3 years, we can decide if we want to continue it. What it is is we would put a drone in a case somewhere in town, probably in the center of town, and with the push of a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2085s)  _(term: drone, unreviewed)_
-
-- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
-  > ...center of town, and with the push of a button, that drone would deploy based on our CAD system to the call. The drone would fly there, get there probably long before any officers. Um, at night, it...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2097s)  _(term: drone, unreviewed)_
-
-- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
-  > ...look in someone's windows and things like that. So, it would wouldn't be any different than our current drone policy. >> Okay. Thank you. >> Um, next one is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2263s)  _(term: drone, unreviewed)_
-
-- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
-  > ...flock system. So if a stolen vehicle comes in, you launch the drone, it goes to the area where the uh stolen vehicle hit and it eyes in the skies. Our ability to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2115s)  _(term: drone, unreviewed)_
-
-- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
   > ...>> Has some heat seeeking. >> Yep. >> What What's our current drone? What do we have for a drone now? >> We have two drones. They're the DJI,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2197s)  _(term: drone, unreviewed)_
-
-- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
-  > ...power that currently has no generator. Um that was just an estimate. The flock safety's drone. Um that's one I'm it's it's thrown as a first responder. I know I was told not to put in something with...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2060s)  _(term: drone, unreviewed)_
-
-- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
-  > ...what they see. It also could live feed to the cruisers. So the officers on the way there could see what the the drone sees. It's incredible. I was talking Milford is a town that currently has....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2148s)  _(term: drone, unreviewed)_
-
-- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
-  > ...drone pilots aren't working, then they have to come in, get called in, come in to work. the that drone the drone as a first responder could be launched immediately and uh it would be there...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2225s)  _(term: drone, unreviewed)_
-
-- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
-  > ...be used after a certain date. Um but those are they're at the station. If the drone pilots aren't working, then they have to come in, get called in, come in to work. the that drone the drone as a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2221s)  _(term: drone, unreviewed)_
-
-- **[2025-08-06] Board of Finance** -- Board of Finance 8/6/2025
-  > ...>> Yep. >> What What's our current drone? What do we have for a drone now? >> We have two drones. They're the DJI, which are the Chinesemade drones. The...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lhyYbnrTSE&t=2198s)  _(term: drone, unreviewed)_
-
-- **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
-  > ...is okay so you don't have the smaller drones that are yeah we have you do have those we do have drone but it's not all we we go to scenes like we've had missing people and it it's uh but it's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3198s)  _(term: drone, unreviewed)_
-
-- **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
-  > ...um these drone hugs sit on top of uh their dispatch area when they get a call for uh shots fired in progress the Drone the someone enters something takes off from flies to the scene looks to see if...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3030s)  _(term: drone, unreviewed)_
-
-- **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
-  > ...they're trying it out I think in New York City out west and everything where um these drone hugs sit on top of uh their dispatch area when they get a call for uh shots fired in progress the Drone...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3024s)  _(term: drone, unreviewed)_
 
 - **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
   > ...missing people and it it's uh but it's one person that flies it yeah okay we we have a smaller drone that when our ER team goes out on sudden they can put it in a house and it can fly around the...
@@ -850,8 +842,20 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3015s)  _(term: drone, unreviewed)_
 
 - **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
+  > ...is okay so you don't have the smaller drones that are yeah we have you do have those we do have drone but it's not all we we go to scenes like we've had missing people and it it's uh but it's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3198s)  _(term: drone, unreviewed)_
+
+- **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
+  > ...they're trying it out I think in New York City out west and everything where um these drone hugs sit on top of uh their dispatch area when they get a call for uh shots fired in progress the Drone...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3024s)  _(term: drone, unreviewed)_
+
+- **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
   > ...trouble our our cops are still cops and our people love that so what does the Drone cost that you were talking about around what was the price per year per year oh it's a lease...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3150s)  _(term: drone, unreviewed)_
+
+- **[2025-02-20] Board of Finance** -- Board of Finance Budget Workshop 2/20/2025
+  > ...um these drone hugs sit on top of uh their dispatch area when they get a call for uh shots fired in progress the Drone the someone enters something takes off from flies to the scene looks to see if...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXZY8hjeIK4&t=3030s)  _(term: drone, unreviewed)_
 
 - **[2024-11-14] Board of Education** -- Board of Education 11/14/2024
   > ...[Music] that video was shot with assistance from a drone on the same day as our senior drone shot which will go in the yearbook all right let's...
@@ -866,168 +870,168 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=grxS0_ytWHc&t=3639s)  _(term: drone, unreviewed)_
 
 - **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...second drone um plans are to get a second drone like a patrol level drone um so they can give more pilots and they could take it out on the road...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1669s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
   > ...examples would be our auto theft task force which we remember with 12 other towns our drone program which you were witnessing tonight our Emergency Response Team or our SWAT and mobile...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=7212s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...sellington Bristol Plainville and Plymouth so when there's a ERT call out we use the Drone now to go out and assist with that this is just an image of a serious motor...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=929s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...and are there gonna are there computer upgrades of the Drone that you have to be cognizant of and prepare for during the life of the Drone and approximately how...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1863s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...of the Drone that you have to be cognizant of and prepare for during the life of the Drone and approximately how long will the Drone last until it has to be replaced...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1869s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...now that the investigators come out they close the road down and they do their own investigation we're using the Drone to give an overall view of the scene which you can see...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=944s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...cognizant of and prepare for during the life of the Drone and approximately how long will the Drone last until it has to be replaced help me out I might forget one or two of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1871s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...having me speak on our year in review with the Southington Police Department's drone program we uh just finished up I think it was August was a year and um I think it's been a pretty good year for...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=824s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...Connecticut between then in the spring we chose the dji's m30t it was their Flagship drone made specifically for Public Safety July 22 we went live with the program...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=882s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...working on that we're trying to get a second drone um plans are to get a second drone like a patrol level drone um so they can give more pilots and they...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1667s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...as well um the maintenance for the Drone is that where you're at no for your maintaining how much professional development do you...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1896s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...um and on your own time look that up and they have lifting uh videos of them using their drone it requires a lot of um other training and you'd have to get a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1443s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...people were going to run when they stopped the car if the car stopped we used the Drone you could see the the photo on the top left is the actual point of view from where the Drone was...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1073s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...mic so we can pick it up on the camera thank you um I wanted to know if the images you received from the Drone have they been successful in any Court proceedings have there been any issues...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1509s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...you had something else I'm sorry I'm sorry I like this how long will the Drone last so technology is is it would be a killer on that so what I the drone's life span is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1938s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...okay we're going to do this presentation in two parts first will be detective Marin Holtz we'll talk about our drone program that's a year old now and then I'll talk about the community survey...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=775s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...used the Drone you could see the the photo on the top left is the actual point of view from where the Drone was above a zoomed in uh view you're able to see the officers conduct the motor...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1078s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...Drone last so technology is is it would be a killer on that so what I the drone's life span is generally how long the manufacturer is producing batteries for it all right so...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1943s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...um licensed to fly right now we're working on that we're trying to get a second drone um plans are to get a second drone like a patrol level drone...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1666s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...the program this is the Drone that we ended up going with it's the DJI matrice m30t I had a comes with the camera as a laser range...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=836s)  _(term: drone, unreviewed)_
 
 - **[2023-09-25] Town Council** -- Town Council 9/25/2023
   > ...something like that that makes the determination and then who makes that decision on to actually deploy the Drone So currently um I'm the only one...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1653s)  _(term: drone, unreviewed)_
 
 - **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...some absent like huge huge uh something new in technology came where you'd want a new drone I think this one's going to last quite a while the software upgrades software upgrades...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=2001s)  _(term: drone, unreviewed)_
+  > ...demonstrated um unfortunately the this particular drone uh has a two battery system so you're able to fly 30 to 40 minutes flight time depending on what you're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1175s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...Drone last so technology is is it would be a killer on that so what I the drone's life span is generally how long the manufacturer is producing batteries for it all right so...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1943s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...you had something else I'm sorry I'm sorry I like this how long will the Drone last so technology is is it would be a killer on that so what I the drone's life span is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1938s)  _(term: drone, unreviewed)_
 
 - **[2023-09-25] Town Council** -- Town Council 9/25/2023
   > ...Haven assisted on a search warrant and a restaurant warrant for him in this complex and they asked for the Drone to be overhead there was a video here it's not going to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1139s)  _(term: drone, unreviewed)_
 
 - **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...demonstrated um unfortunately the this particular drone uh has a two battery system so you're able to fly 30 to 40 minutes flight time depending on what you're...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1175s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...um I arrived on scene and I think from deploying the Drone to the subject taking the custody was under 10 minutes so what could have been hours and hours...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1266s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...last quite a while the software upgrades software upgrades so every time the the Drone is fired up it connects um online and you'll see if there's a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=2009s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...I think it's been a pretty good year for the program this is the Drone that we ended up going with it's the DJI matrice m30t I had a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=834s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...one question we're very fortunate to have you so thank you for everything you do with the Drone it's it maybe this is for the chief is there a reason we don't have another officer I know you said...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=2074s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...this is all from outside so we provided um all this information in real time from the images from the Drone to the command post to the team the end the entry team outside and you can see...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1300s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...respond right away and I'm sure you probably do the same absolutely support you'll you'll fly our drone absolutely yep our patient down the road is like you said get a second drone of another...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=2117s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...back a lock box this way the Command Staff can see what's going on in the Drone as it's being flown up in the air the team leader was watching uh the video on that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1325s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...you'll you'll fly our drone absolutely yep our patient down the road is like you said get a second drone of another more people trained right very good it takes a while okay thank you okay yes...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=2122s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...thing that runs in the background so all our flights are tracked it tracks our uh the maintenance for the Drone the batteries and it gives us flight logs so every time our drone goes up in the air...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1352s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...more people trained right very good it takes a while okay thank you okay yes one final thing on the Drone topic again I view this as a leadership position for the Southington police department and I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=2131s)  _(term: drone, unreviewed)_
-
-- **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...you know is there anything prohibiting you at all any laws in place using the Drone or anything that would really kind of handicap the use that you have for it or maybe bringing certain...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1570s)  _(term: drone, unreviewed)_
+  > ...as well um the maintenance for the Drone is that where you're at no for your maintaining how much professional development do you...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1896s)  _(term: drone, unreviewed)_
 
 - **[2023-09-25] Town Council** -- Town Council 9/25/2023
   > ...look at what southington's doing look at what software they're using look at what actual drone brand that they're using and I think this is where you know there can be a lot of synchronization between...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=2150s)  _(term: drone, unreviewed)_
 
 - **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...the maintenance for the Drone the batteries and it gives us flight logs so every time our drone goes up in the air a flight logs created uh longitude latitude altitude everything is recorded...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1355s)  _(term: drone, unreviewed)_
+  > ...used the Drone you could see the the photo on the top left is the actual point of view from where the Drone was above a zoomed in uh view you're able to see the officers conduct the motor...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1078s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...um I arrived on scene and I think from deploying the Drone to the subject taking the custody was under 10 minutes so what could have been hours and hours...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1266s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...cognizant of and prepare for during the life of the Drone and approximately how long will the Drone last until it has to be replaced help me out I might forget one or two of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1871s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...mic so we can pick it up on the camera thank you um I wanted to know if the images you received from the Drone have they been successful in any Court proceedings have there been any issues...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1509s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...people were going to run when they stopped the car if the car stopped we used the Drone you could see the the photo on the top left is the actual point of view from where the Drone was...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1073s)  _(term: drone, unreviewed)_
 
 - **[2023-09-25] Town Council** -- Town Council 9/25/2023
   > ...how many you may have said this but how many officers are trained in the use of the Drone altogether um and I know you talked a little bit about response time but I'm just kind of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1632s)  _(term: drone, unreviewed)_
 
 - **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...last quite a while the software upgrades software upgrades so every time the the Drone is fired up it connects um online and you'll see if there's a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=2009s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...of the Drone that you have to be cognizant of and prepare for during the life of the Drone and approximately how long will the Drone last until it has to be replaced...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1869s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...shootings down in the New London area as well by using the Drone they thought that people were going to run when they stopped the car if the car stopped we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1067s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...this is all from outside so we provided um all this information in real time from the images from the Drone to the command post to the team the end the entry team outside and you can see...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1300s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...and are there gonna are there computer upgrades of the Drone that you have to be cognizant of and prepare for during the life of the Drone and approximately how...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1863s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...one question we're very fortunate to have you so thank you for everything you do with the Drone it's it maybe this is for the chief is there a reason we don't have another officer I know you said...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=2074s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...now that the investigators come out they close the road down and they do their own investigation we're using the Drone to give an overall view of the scene which you can see...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=944s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
   > ...whenever I hear something come in on the radio I'm really quick to jump in and apply the Drone if it's applicable I'm the one making that decision and that comes with you know evaluations of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1687s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...back a lock box this way the Command Staff can see what's going on in the Drone as it's being flown up in the air the team leader was watching uh the video on that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1325s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...you know is there anything prohibiting you at all any laws in place using the Drone or anything that would really kind of handicap the use that you have for it or maybe bringing certain...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1570s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...sellington Bristol Plainville and Plymouth so when there's a ERT call out we use the Drone now to go out and assist with that this is just an image of a serious motor...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=929s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...second drone um plans are to get a second drone like a patrol level drone um so they can give more pilots and they could take it out on the road...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1669s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...Connecticut between then in the spring we chose the dji's m30t it was their Flagship drone made specifically for Public Safety July 22 we went live with the program...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=882s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...respond right away and I'm sure you probably do the same absolutely support you'll you'll fly our drone absolutely yep our patient down the road is like you said get a second drone of another...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=2117s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...the program this is the Drone that we ended up going with it's the DJI matrice m30t I had a comes with the camera as a laser range...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=836s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...working on that we're trying to get a second drone um plans are to get a second drone like a patrol level drone um so they can give more pilots and they...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1667s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...I think it's been a pretty good year for the program this is the Drone that we ended up going with it's the DJI matrice m30t I had a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=834s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...thing that runs in the background so all our flights are tracked it tracks our uh the maintenance for the Drone the batteries and it gives us flight logs so every time our drone goes up in the air...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1352s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...having me speak on our year in review with the Southington Police Department's drone program we uh just finished up I think it was August was a year and um I think it's been a pretty good year for...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=824s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...um licensed to fly right now we're working on that we're trying to get a second drone um plans are to get a second drone like a patrol level drone...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1666s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...okay we're going to do this presentation in two parts first will be detective Marin Holtz we'll talk about our drone program that's a year old now and then I'll talk about the community survey...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=775s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...you'll you'll fly our drone absolutely yep our patient down the road is like you said get a second drone of another more people trained right very good it takes a while okay thank you okay yes...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=2122s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...um and on your own time look that up and they have lifting uh videos of them using their drone it requires a lot of um other training and you'd have to get a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1443s)  _(term: drone, unreviewed)_
 
 - **[2023-09-25] Town Council** -- Town Council 9/25/2023
   > ...that's about it and what's looking forward into the future for the program is um there's a drone is a first responder is a program that's you're seeing a lot now if you search up...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1424s)  _(term: drone, unreviewed)_
 
 - **[2023-09-25] Town Council** -- Town Council 9/25/2023
-  > ...shootings down in the New London area as well by using the Drone they thought that people were going to run when they stopped the car if the car stopped we...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1067s)  _(term: drone, unreviewed)_
+  > ...more people trained right very good it takes a while okay thank you okay yes one final thing on the Drone topic again I view this as a leadership position for the Southington police department and I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=2131s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...the maintenance for the Drone the batteries and it gives us flight logs so every time our drone goes up in the air a flight logs created uh longitude latitude altitude everything is recorded...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=1355s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Town Council** -- Town Council 9/25/2023
+  > ...some absent like huge huge uh something new in technology came where you'd want a new drone I think this one's going to last quite a while the software upgrades software upgrades...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5UsZqtZ_Yo&t=2001s)  _(term: drone, unreviewed)_
 
 - **[2022-08-15] Town Council** -- Town Council 08/15/2022
   > ...consider that type of a process um to ensure that that we're all uh beating to the same drone there's transparency not that there isn't transparency i know that this was...
@@ -1056,10 +1060,6 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
 - **[2020-09-09] Board of Finance** -- Board of Finance 09/09/2020
   > ...do we know if people are utilizing it i mean there's a lot of stuff to raise awareness we have the drone that video and other things do you guys ever get a sense of people are...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=xeeGYN8XET4&t=1036s)  _(term: drone, unreviewed)_
-
-- **[date unknown] Town Council** -- Town Council 7/14/26
-  > ...operations including the patrol services, criminal investigations, the canine unit, drone unit, host hostage negotiation team, dispatch operations, and several partner agencies. The...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=krEUwLSwgW0&t=1049s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -1123,7 +1123,7 @@ _Generated 2026-08-27T15:40:45 -- regenerate with `.venv/bin/python3 analysis/ge
 
 - Agenda sources registered: 2
 - Documents registered: 0 (fetched: 0)
-- Date range covered: None to None
+- Date range covered: *no agenda document on file carries a parseable date yet*
 
 
 ### Agenda sources

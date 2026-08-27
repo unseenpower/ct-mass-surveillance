@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: New Britain
 
 
-_Generated 2026-08-27T15:39:54 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Britain"`_
+_Generated 2026-08-27T17:52:23 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Britain"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T15:39:54 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 2
 - Active meeting bodies: 5
 - Videos registered: 153 (fetched: 146, no captions: 6)
-- Date range covered: 2020-04-20 to 2021-01-04
+- Date range covered: 2020-04-20 to 2021-01-04 — **based on the 7 of 153 videos that carry a parseable upload date**; the other 146 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -123,16 +123,16 @@ _Generated 2026-08-27T15:39:54 -- regenerate with `.venv/bin/python3 analysis/ge
 ### body_camera
 
 - **[date unknown] Common Council** -- Common Council Regular Meeting
-  > ...in securing uh money for body cams so Chief if you could just talk a little bit about the body cam system and how our our officers use it I know there was extensive training in in body cams and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3609s)  _(term: body_camera, unreviewed)_
+  > ...second floor with the detective division uh and they can come in and do that so it all connects to both our body cam video and our uh unlimited storage so we have that at our disposal moving forward...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3665s)  _(term: body_camera, unreviewed)_
 
 - **[date unknown] Common Council** -- Common Council Regular Meeting
   > ...it's from the Bureau of Justice assistance says funding available under the body worn camera policy and implementation program uh these are funds that will help...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7NIeUA7hZDA&t=1152s)  _(term: body_camera, unreviewed)_
 
 - **[date unknown] Common Council** -- Common Council Regular Meeting
-  > ...second floor with the detective division uh and they can come in and do that so it all connects to both our body cam video and our uh unlimited storage so we have that at our disposal moving forward...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3665s)  _(term: body_camera, unreviewed)_
+  > ...in securing uh money for body cams so Chief if you could just talk a little bit about the body cam system and how our our officers use it I know there was extensive training in in body cams and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3609s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -231,7 +231,7 @@ _Generated 2026-08-27T15:39:54 -- regenerate with `.venv/bin/python3 analysis/ge
 
 - Agenda sources registered: 1
 - Documents registered: 0 (fetched: 0)
-- Date range covered: None to None
+- Date range covered: *no agenda document on file carries a parseable date yet*
 
 
 ### Agenda sources

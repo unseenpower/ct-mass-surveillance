@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Newtown
 
 
-_Generated 2026-08-27T15:40:09 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Newtown"`_
+_Generated 2026-08-27T17:52:42 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Newtown"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T15:40:09 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 1
 - Active meeting bodies: 3
 - Videos registered: 8 (fetched: 8, no captions: 0)
-- Date range covered: None to None
+- Date range covered: 2020-12-07 to 2020-12-07 — **based on the 1 of 8 videos that carry a parseable upload date**; the other 7 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -164,7 +164,7 @@ _Generated 2026-08-27T15:40:09 -- regenerate with `.venv/bin/python3 analysis/ge
 
 - Agenda sources registered: 1
 - Documents registered: 0 (fetched: 0)
-- Date range covered: None to None
+- Date range covered: *no agenda document on file carries a parseable date yet*
 
 
 ### Agenda sources

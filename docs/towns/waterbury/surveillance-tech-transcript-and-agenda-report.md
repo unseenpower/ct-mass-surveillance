@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Waterbury
 
 
-_Generated 2026-08-27T15:40:55 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Waterbury"`_
+_Generated 2026-08-27T17:53:38 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Waterbury"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T15:40:55 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 2
 - Active meeting bodies: 6
 - Videos registered: 517 (fetched: 442, no captions: 13)
-- Date range covered: 2017-08-03 to 2026-08-20
+- Date range covered: 2017-07-27 to 2026-08-20 — **based on the 511 of 517 videos that carry a parseable upload date**; the other 6 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -24,8 +24,8 @@ _Generated 2026-08-27T15:40:55 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| city_of_waterbury | streams | 2026-08-27 15:10:26.648684 | 194 |
-| city_of_waterbury | videos | 2026-08-27 15:10:28.508393 | 117 |
+| city_of_waterbury | streams | 2026-08-27 17:42:19.325245 | 194 |
+| city_of_waterbury | videos | 2026-08-27 17:42:21.200738 | 117 |
 | waterbury_boe | streams | 2026-08-27 10:25:07.933166 | 144 |
 | waterbury_boe | videos | 2026-08-27 10:25:10.821582 | 205 |
 
@@ -399,10 +399,6 @@ _Generated 2026-08-27T15:40:55 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JW4CctusSWQ&t=2188s)  _(term: drone, unreviewed)_
 
 - **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
-  > ...bring up in a helicopter. Is that how or is it is that um with a drone? No, they uh they fly it with a plane and I I'm not technical, but they got I don't know 16 cameras or something...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12557s)  _(term: drone, unreviewed)_
-
-- **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
   > ...>> Thank you. >> And it would be nice to see if someday it was able to be put on a drone where you could just have somebody out there playing....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12923s)  _(term: drone, unreviewed)_
 
@@ -411,24 +407,32 @@ _Generated 2026-08-27T15:40:55 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12658s)  _(term: drone, unreviewed)_
 
 - **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
-  > ...that would be the difference >> right and I don't I don't I don't know of a drone I I don't know of a comparable program that a drone would be able to to accomplish that. It was just...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12692s)  _(term: drone, unreviewed)_
+  > ...bring up in a helicopter. Is that how or is it is that um with a drone? No, they uh they fly it with a plane and I I'm not technical, but they got I don't know 16 cameras or something...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12557s)  _(term: drone, unreviewed)_
 
 - **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
-  > ...this. So, maybe I'm off base, but just asking anyways. With drone technology now, would it be possible instead of having to have a plane...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12634s)  _(term: drone, unreviewed)_
+  > ...you ever seen it? Or you don't even know? >> I would think that a drone could fly. I don't know that it would get the same information as a a camera....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12652s)  _(term: drone, unreviewed)_
 
 - **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
   > ...>> right and I don't I don't I don't know of a drone I I don't know of a comparable program that a drone would be able to to accomplish that. It was just a thought. I mean, I'm not I don't know...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12694s)  _(term: drone, unreviewed)_
 
 - **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
-  > ...you ever seen it? Or you don't even know? >> I would think that a drone could fly. I don't know that it would get the same information as a a camera....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12652s)  _(term: drone, unreviewed)_
+  > ...this. So, maybe I'm off base, but just asking anyways. With drone technology now, would it be possible instead of having to have a plane...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12634s)  _(term: drone, unreviewed)_
+
+- **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
+  > ...that would be the difference >> right and I don't I don't I don't know of a drone I I don't know of a comparable program that a drone would be able to to accomplish that. It was just...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12692s)  _(term: drone, unreviewed)_
 
 - **[2026-05-12] Board of Aldermen** -- Waterbury Board of Aldermen First Special Department Heads Meeting - May 12, 2026
   > ...people can receive training in, such as our forensics unit, our accident reconstruction unit. We have a drone unit. We have a mounted unit. There's just...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=F7FVpUqMlTA&t=1111s)  _(term: drone, unreviewed)_
+
+- **[2025-12-15] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - December 15, 2025
+  > ...may have been watching some of the overviews from the recent water break that were provided by that drone system. It will also provide uh software for the real-time crime center that will connect...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UbSB_Gj3gOQ&t=10886s)  _(term: drone, unreviewed)_
 
 - **[2025-12-15] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - December 15, 2025
   > ...currently have going on and tools that we have at the police department. Uh, we have a very robust drone system. Many of you may be aware of that. Many of you may have been watching some of the...
@@ -437,10 +441,6 @@ _Generated 2026-08-27T15:40:55 -- regenerate with `.venv/bin/python3 analysis/ge
 - **[2025-12-15] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - December 15, 2025
   > ...grammar check, um kind of a report writing assistant program. Um AI is used uh you know uh in in the drone programs currently. um but on a limited basis. Um there is a lot of R&D that's going on uh...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UbSB_Gj3gOQ&t=25342s)  _(term: drone, unreviewed)_
-
-- **[2025-12-15] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - December 15, 2025
-  > ...may have been watching some of the overviews from the recent water break that were provided by that drone system. It will also provide uh software for the real-time crime center that will connect...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UbSB_Gj3gOQ&t=10886s)  _(term: drone, unreviewed)_
 
 - **[2025-06-23] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - June 23, 2025
   > ...day. The roof is cupped. The roof is cracked. The roof is starting to leak on the church. I put my son's drone up there. I'm not a structural engineer. I'm not a roofing contractor. You don't...
@@ -467,44 +467,44 @@ _Generated 2026-08-27T15:40:55 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=amslkxOvR2c&t=1301s)  _(term: drone, unreviewed)_
 
 - **[2022-05-02] Board of Education** -- Waterbury Board of Education Workshop - May 2, 2022
-  > ...t cluster this grant will be used to particularly support our drone kits and our raspberry pi kits in our schools and if you've...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=u4wv2u8WPqY&t=3840s)  _(term: drone, unreviewed)_
-
-- **[2022-05-02] Board of Education** -- Waterbury Board of Education Workshop - May 2, 2022
   > ...if i think mike marotti has come in front of you before but those drone kits are really exciting we have a lot of students applying for...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=u4wv2u8WPqY&t=3849s)  _(term: drone, unreviewed)_
+
+- **[2022-05-02] Board of Education** -- Waterbury Board of Education Workshop - May 2, 2022
+  > ...t cluster this grant will be used to particularly support our drone kits and our raspberry pi kits in our schools and if you've...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=u4wv2u8WPqY&t=3840s)  _(term: drone, unreviewed)_
 
 - **[2021-10-07] Board of Education** -- Waterbury Board of Education Workshop - October 7, 2021
   > ...you leverage that technology for learning um we also launched that engineering drone software development and amazon future engineering programs at our schools...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JdjVSdsvZM4&t=8160s)  _(term: drone, unreviewed)_
 
 - **[2021-07-15] Board of Education** -- Waterbury Board of Education Meeting - July 15, 2021
-  > ...b the new england laborers training association c drone technology d drone operator prep honors e manufacturing three honors f...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OpDQfJKw4ZY&t=1814s)  _(term: drone, unreviewed)_
-
-- **[2021-07-15] Board of Education** -- Waterbury Board of Education Meeting - July 15, 2021
   > ...association c drone technology d drone operator prep honors e manufacturing three honors f foundation of leadership post g...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=OpDQfJKw4ZY&t=1818s)  _(term: drone, unreviewed)_
+
+- **[2021-07-15] Board of Education** -- Waterbury Board of Education Meeting - July 15, 2021
+  > ...b the new england laborers training association c drone technology d drone operator prep honors e manufacturing three honors f...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OpDQfJKw4ZY&t=1814s)  _(term: drone, unreviewed)_
 
 - **[2021-05-06] Board of Education** -- Waterbury Board of Education Workshop  - May 6, 2021
   > ...education is one of the best in the state we are going to be offering drone technology engineering software development...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_758v_vaVS8&t=5873s)  _(term: drone, unreviewed)_
 
 - **[2021-04-01] Board of Education** -- Waterbury Board of Education Workshop  - April 1, 2021
-  > ...couldn't get this off the ground and running but uh this this this uh would allow us to to get those drone classes up and running for next year all...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ssXgJ3w5D4k&t=7748s)  _(term: drone, unreviewed)_
-
-- **[2021-04-01] Board of Education** -- Waterbury Board of Education Workshop  - April 1, 2021
-  > ...Mike no I mean it's it's going to supply the district with um at the high school level a full year of drone technology courses a full year of engineering courses and a full year of software...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ssXgJ3w5D4k&t=7790s)  _(term: drone, unreviewed)_
-
-- **[2021-04-01] Board of Education** -- Waterbury Board of Education Workshop  - April 1, 2021
   > ...students we had a lot of uh a lot of students interested in um um taking those drone classes last year we couldn't get this off the ground and running but uh this this this uh would...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ssXgJ3w5D4k&t=7742s)  _(term: drone, unreviewed)_
 
 - **[2021-04-01] Board of Education** -- Waterbury Board of Education Workshop  - April 1, 2021
+  > ...couldn't get this off the ground and running but uh this this this uh would allow us to to get those drone classes up and running for next year all...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ssXgJ3w5D4k&t=7748s)  _(term: drone, unreviewed)_
+
+- **[2021-04-01] Board of Education** -- Waterbury Board of Education Workshop  - April 1, 2021
   > ...also for physical pieces that go with the curriculum which includes robots and Robotics and drone technology for our students we had a lot of uh a lot of students interested in um um taking...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ssXgJ3w5D4k&t=7734s)  _(term: drone, unreviewed)_
+
+- **[2021-04-01] Board of Education** -- Waterbury Board of Education Workshop  - April 1, 2021
+  > ...Mike no I mean it's it's going to supply the district with um at the high school level a full year of drone technology courses a full year of engineering courses and a full year of software...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ssXgJ3w5D4k&t=7790s)  _(term: drone, unreviewed)_
 
 - **[2018-09-06] Board of Education** -- Waterbury Board of Education Workshop — September 6, 2018
   > ...in the area of tech ed we have one exciting initiative at Kennedy which is a drone pilot program where we watch some pretty fancy equipment for the visual video production teacher I didn't...
@@ -580,12 +580,12 @@ _Generated 2026-08-27T15:40:55 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TYt7tdsi9Fc&t=4966s)  _(term: rtcc, unreviewed)_
 
 - **[2024-07-11] Board of Education** -- Waterbury Board of Education Workshop - July 11, 2024
-  > ...Uniform laid out the same so that was and it's now we're all connected down to the real-time crime Center where somebody every day is watching the cameras and working with the schools so...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DTAKwD-c4Zk&t=4185s)  _(term: rtcc, unreviewed)_
-
-- **[2024-07-11] Board of Education** -- Waterbury Board of Education Workshop - July 11, 2024
   > ...working they were working off at different platforms um there was no connection to the real-time crime Center um we had no modern mapping for any of the schools which is an important key...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DTAKwD-c4Zk&t=4072s)  _(term: rtcc, unreviewed)_
+
+- **[2024-07-11] Board of Education** -- Waterbury Board of Education Workshop - July 11, 2024
+  > ...Uniform laid out the same so that was and it's now we're all connected down to the real-time crime Center where somebody every day is watching the cameras and working with the schools so...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DTAKwD-c4Zk&t=4185s)  _(term: rtcc, unreviewed)_
 
 - **[2023-08-03] Board of Education** -- Waterbury Board of Education Workshop & Special Meeting - August 3, 2023
   > ...access entries reduce camera and server issues and now all schools are connected to the real-time crime Center via the Milestone platform which was and continues to be something...
@@ -611,12 +611,12 @@ _Generated 2026-08-27T15:40:55 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UbSB_Gj3gOQ&t=10895s)  _(term: surveillance_general, unreviewed)_
 
 - **[2025-07-14] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - July 14, 2025
-  > ...Um next slide here we talk about the sanitary sewers. Again we we are we did some CCTV of the sanitary sewers. Um that is also part of this project to do more videotaping the pipe. Um and again...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=23AfCrh3ArQ&t=2884s)  _(term: surveillance_general, unreviewed)_
-
-- **[2025-07-14] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - July 14, 2025
   > ...sanitary goes into the storm. But basically we're trying to we we see all this in the CCTV um cross connections and um propose...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=23AfCrh3ArQ&t=2962s)  _(term: surveillance_general, unreviewed)_
+
+- **[2025-07-14] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - July 14, 2025
+  > ...Um next slide here we talk about the sanitary sewers. Again we we are we did some CCTV of the sanitary sewers. Um that is also part of this project to do more videotaping the pipe. Um and again...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=23AfCrh3ArQ&t=2884s)  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools
@@ -638,7 +638,7 @@ _Generated 2026-08-27T15:40:55 -- regenerate with `.venv/bin/python3 analysis/ge
 
 - Agenda sources registered: 1
 - Documents registered: 0 (fetched: 0)
-- Date range covered: None to None
+- Date range covered: *no agenda document on file carries a parseable date yet*
 
 
 ### Agenda sources

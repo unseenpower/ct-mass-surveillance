@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Ledyard
 
 
-_Generated 2026-08-27T15:39:38 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ledyard"`_
+_Generated 2026-08-27T17:52:06 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ledyard"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T15:39:38 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 1
 - Active meeting bodies: 7
 - Videos registered: 272 (fetched: 254, no captions: 13)
-- Date range covered: 2020-03-25 to 2020-05-29
+- Date range covered: 2011-07-30 to 2023-06-29 — **based on the 243 of 272 videos that carry a parseable upload date**; the other 29 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -44,57 +44,57 @@ _Generated 2026-08-27T15:39:38 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 1 | 1 |  |  |
-| drone | 2 | 2 |  |  |
-| facial_recognition | 1 | 1 |  |  |
-| predictive_policing | 2 | 2 |  |  |
+| alpr | 1 | 1 | 2013-07-24 | 2013-07-24 |
+| drone | 2 | 2 | 2020-04-15 | 2020-05-21 |
+| facial_recognition | 1 | 1 | 2022-03-09 | 2022-03-09 |
+| predictive_policing | 2 | 2 | 2012-08-22 | 2013-06-30 |
 
 
 ## Timeline
 
-6 meetings surfaced a finding (none have a known date).
+6 meetings surfaced a finding (6 dated, spanning 2012-08-22 to 2022-03-09; 0 of unknown date, listed last).
 
 
-### date unknown -- Administration Committee
+### 2012-08-22 -- Town Council
 
-**ADMIN MTG 2022 03 09** _(topics: facial_recognition)_
+**Regular Meeting of Ledyard Town Council Held on 8 22 2012 7 00 00 PM At Council Chambers   Annex Bui** _(topics: predictive_policing)_
 
-- `facial_recognition` [▸](https://www.youtube.com/watch?v=mlJnxUZqAYk&t=418s)  > ...people calling in and there was no video and you you didn't have the benefit of face recognition to know who was talking that every time somebody spoke they would say like okay this is counselor...
-
-
-### date unknown -- Farmers' Market Committee
-
-**Farmers' Market Cmt Special  Mtg 2020 05 21** _(topics: drone)_
-
-- `drone` [▸](https://www.youtube.com/watch?v=_QVc0gpCLpk&t=4346s)  > ...my brother earlier he's gonna meet me down at the lower town green tomorrow morning at 7:30 with his drone so we can get a picture and then I will email you guys the picture and then that way you...
+- `predictive_policing` [▸](https://www.youtube.com/watch?v=j9J6DBodaQY&t=740s)  > ...questions take a look at the map have we changed the map so that we can put a foundry thanks to your house or a dry cleaning establishment or a dog kennel or a factory what what have we done to...
 
 
-### date unknown -- Finance Committee
-
-**Finance Committee Meeting 2020 04 15** _(topics: drone)_
-
-- `drone` [▸](https://www.youtube.com/watch?v=X8BZOuUoDuU&t=802s)  > ...this for the whole meeting what's next just a texture for imagine you're up next on drone attacks in the council approve a proposed resolution regarding the tax deferment program pursuant to...
-
-
-### date unknown -- Town Council
+### 2013-06-30 -- Town Council
 
 **Public Hearing of Ledyard Town Council Held on 3 13 2013 6 30 00 PM At Council Chambers   Annex Buil** _(topics: predictive_policing)_
 
 - `predictive_policing` [▸](https://www.youtube.com/watch?v=W9Lr7Uh0fnA&t=2694s)  > ...things I wouldn't worry about former cable technician I've spent six years working in a foundry I've been inside face to face many of the early my career i I carried a feeling of disdain...
 
 
-### date unknown -- Town Council
+### 2013-07-24 -- Town Council
 
 **Regular Meeting of Ledyard Town Council Held on 7 24 2013 7 00 00 PM At Council Chambers   Annex Bui** _(topics: alpr)_
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=wk6XBZVryLw&t=4234s)  > ...example any further discussion well and you raise a good point because spirit of this for the first flock of people their first year so in fact we knew that for the second year maybe...
 
 
-### date unknown -- Town Council
+### 2020-04-15 -- Finance Committee
 
-**Regular Meeting of Ledyard Town Council Held on 8 22 2012 7 00 00 PM At Council Chambers   Annex Bui** _(topics: predictive_policing)_
+**Finance Committee Meeting 2020 04 15** _(topics: drone)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=j9J6DBodaQY&t=740s)  > ...questions take a look at the map have we changed the map so that we can put a foundry thanks to your house or a dry cleaning establishment or a dog kennel or a factory what what have we done to...
+- `drone` [▸](https://www.youtube.com/watch?v=X8BZOuUoDuU&t=802s)  > ...this for the whole meeting what's next just a texture for imagine you're up next on drone attacks in the council approve a proposed resolution regarding the tax deferment program pursuant to...
+
+
+### 2020-05-21 -- Farmers' Market Committee
+
+**Farmers' Market Cmt Special  Mtg 2020 05 21** _(topics: drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=_QVc0gpCLpk&t=4346s)  > ...my brother earlier he's gonna meet me down at the lower town green tomorrow morning at 7:30 with his drone so we can get a picture and then I will email you guys the picture and then that way you...
+
+
+### 2022-03-09 -- Administration Committee
+
+**ADMIN MTG 2022 03 09** _(topics: facial_recognition)_
+
+- `facial_recognition` [▸](https://www.youtube.com/watch?v=mlJnxUZqAYk&t=418s)  > ...people calling in and there was no video and you you didn't have the benefit of face recognition to know who was talking that every time somebody spoke they would say like okay this is counselor...
 
 
 ## Findings by topic
@@ -107,7 +107,7 @@ _Generated 2026-08-27T15:39:38 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### alpr
 
-- **[date unknown] Town Council** -- Regular Meeting of Ledyard Town Council Held on 7 24 2013 7 00 00 PM At Council Chambers   Annex Bui
+- **[2013-07-24] Town Council** -- Regular Meeting of Ledyard Town Council Held on 7 24 2013 7 00 00 PM At Council Chambers   Annex Bui
   > ...example any further discussion well and you raise a good point because spirit of this for the first flock of people their first year so in fact we knew that for the second year maybe...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=wk6XBZVryLw&t=4234s)  _(term: alpr_flock, unreviewed)_
 
@@ -144,18 +144,18 @@ _Generated 2026-08-27T15:39:38 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### drone
 
-- **[date unknown] Farmers' Market Committee** -- Farmers' Market Cmt Special  Mtg 2020 05 21
+- **[2020-05-21] Farmers' Market Committee** -- Farmers' Market Cmt Special  Mtg 2020 05 21
   > ...my brother earlier he's gonna meet me down at the lower town green tomorrow morning at 7:30 with his drone so we can get a picture and then I will email you guys the picture and then that way you...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_QVc0gpCLpk&t=4346s)  _(term: drone, unreviewed)_
 
-- **[date unknown] Finance Committee** -- Finance Committee Meeting 2020 04 15
+- **[2020-04-15] Finance Committee** -- Finance Committee Meeting 2020 04 15
   > ...this for the whole meeting what's next just a texture for imagine you're up next on drone attacks in the council approve a proposed resolution regarding the tax deferment program pursuant to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=X8BZOuUoDuU&t=802s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
 
-- **[date unknown] Administration Committee** -- ADMIN MTG 2022 03 09
+- **[2022-03-09] Administration Committee** -- ADMIN MTG 2022 03 09
   > ...people calling in and there was no video and you you didn't have the benefit of face recognition to know who was talking that every time somebody spoke they would say like okay this is counselor...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mlJnxUZqAYk&t=418s)  _(term: facial_recognition, unreviewed)_
 
@@ -177,13 +177,13 @@ _Generated 2026-08-27T15:39:38 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### predictive_policing
 
-- **[date unknown] Town Council** -- Regular Meeting of Ledyard Town Council Held on 8 22 2012 7 00 00 PM At Council Chambers   Annex Bui
-  > ...questions take a look at the map have we changed the map so that we can put a foundry thanks to your house or a dry cleaning establishment or a dog kennel or a factory what what have we done to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j9J6DBodaQY&t=740s)  _(term: predictive_policing, unreviewed)_
-
-- **[date unknown] Town Council** -- Public Hearing of Ledyard Town Council Held on 3 13 2013 6 30 00 PM At Council Chambers   Annex Buil
+- **[2013-06-30] Town Council** -- Public Hearing of Ledyard Town Council Held on 3 13 2013 6 30 00 PM At Council Chambers   Annex Buil
   > ...things I wouldn't worry about former cable technician I've spent six years working in a foundry I've been inside face to face many of the early my career i I carried a feeling of disdain...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=W9Lr7Uh0fnA&t=2694s)  _(term: predictive_policing, unreviewed)_
+
+- **[2012-08-22] Town Council** -- Regular Meeting of Ledyard Town Council Held on 8 22 2012 7 00 00 PM At Council Chambers   Annex Bui
+  > ...questions take a look at the map have we changed the map so that we can put a foundry thanks to your house or a dry cleaning establishment or a dog kennel or a factory what what have we done to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j9J6DBodaQY&t=740s)  _(term: predictive_policing, unreviewed)_
 
 
 ### purchasing_broker
@@ -220,7 +220,7 @@ _Generated 2026-08-27T15:39:38 -- regenerate with `.venv/bin/python3 analysis/ge
 
 - Agenda sources registered: 1
 - Documents registered: 0 (fetched: 0)
-- Date range covered: None to None
+- Date range covered: *no agenda document on file carries a parseable date yet*
 
 
 ### Agenda sources
@@ -349,18 +349,18 @@ _Generated 2026-08-27T15:39:38 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | title | upload_date |
 | --- | --- |
-| Public Hearing of Ledyard Town Council Held on 6 13 2012 6 15 00 PM At Council Chambers   Annex Buil |  |
-| Regular Meeting of Ledyard Town Council Held on 10 26 2011 7 30 00 PM At Council Chambers   Annex Bu |  |
-| Public Hearing of Ledyard Town Council Held on 1 8 2014 6 30 00 PM At Council Chambers   Annex Build |  |
-| Public Hearing of Ledyard Town Council Held on 6 25 2014 6 15 00 PM At Council Chambers   Annex Buil |  |
-| Public Hearing of Ledyard Town Council Held on 6 13 2012 6 00 00 PM At Council Chambers   Annex Buil |  |
-| Regular Meeting of Ledyard Town Council Held on 11 12 2014 7 00 00 PM At Council Chambers   Annex Bu |  |
-| Public Hearing of Ledyard Town Council Held on 3 12 2014 6 45 00 PM At Council Chambers   Annex Buil |  |
-| Public Hearing of Ledyard Town Council Held on 9 26 2012 6 45 00 PM At Council Chambers   Annex Buil |  |
-| Regular Meeting of Ledyard Town Council Held on 12 14 2011 7 00 00 PM At Council Chambers   Annex Bu |  |
-| Regular Meeting of Ledyard Town Council Held on 1 22 2014 7 00 00 PM At Council Chambers   Annex Bui |  |
-| Regular Meeting of Ledyard Town Council Held on 11 9 2011 7 30 00 PM At Council Chambers   Annex Bui |  |
-| Regular Meeting of Ledyard Town Council Held on 10 22 2014 7 00 00 PM At Annex Meeting Room, Annex B |  |
+| Regular Meeting of Ledyard Town Council Held on 11 12 2014 7 00 00 PM At Council Chambers   Annex Bu | 2014-11-12 |
+| Regular Meeting of Ledyard Town Council Held on 10 22 2014 7 00 00 PM At Annex Meeting Room, Annex B | 2014-10-22 |
+| Public Hearing of Ledyard Town Council Held on 1 8 2014 6 30 00 PM At Council Chambers   Annex Build | 2014-06-30 |
+| Public Hearing of Ledyard Town Council Held on 6 25 2014 6 15 00 PM At Council Chambers   Annex Buil | 2014-06-15 |
+| Public Hearing of Ledyard Town Council Held on 3 12 2014 6 45 00 PM At Council Chambers   Annex Buil | 2014-03-12 |
+| Regular Meeting of Ledyard Town Council Held on 1 22 2014 7 00 00 PM At Council Chambers   Annex Bui | 2014-01-22 |
+| Public Hearing of Ledyard Town Council Held on 9 26 2012 6 45 00 PM At Council Chambers   Annex Buil | 2012-09-26 |
+| Public Hearing of Ledyard Town Council Held on 6 13 2012 6 15 00 PM At Council Chambers   Annex Buil | 2012-06-15 |
+| Public Hearing of Ledyard Town Council Held on 6 13 2012 6 00 00 PM At Council Chambers   Annex Buil | 2012-06-13 |
+| Regular Meeting of Ledyard Town Council Held on 12 14 2011 7 00 00 PM At Council Chambers   Annex Bu | 2011-12-14 |
+| Regular Meeting of Ledyard Town Council Held on 11 9 2011 7 30 00 PM At Council Chambers   Annex Bui | 2011-07-30 |
+| Regular Meeting of Ledyard Town Council Held on 10 26 2011 7 30 00 PM At Council Chambers   Annex Bu | 2011-07-30 |
 | Ledyard Town Council Regular  Meeting  - 14 Aug 2019 |  |
 
 

@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Cromwell
 
 
-_Generated 2026-08-27T15:38:50 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Cromwell"`_
+_Generated 2026-08-27T17:51:13 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Cromwell"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T15:38:50 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 1
 - Active meeting bodies: 6
 - Videos registered: 86 (fetched: 85, no captions: 1)
-- Date range covered: 2025-03-18 to 2026-08-18
+- Date range covered: 2025-03-18 to 2026-08-18 (all 86 videos dated)
 
 
 ### Channels
@@ -23,8 +23,8 @@ _Generated 2026-08-27T15:38:50 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| cromwell_ct | streams | 2026-08-27 15:28:45.196799 | 20 |
-| cromwell_ct | videos | 2026-08-27 15:28:46.773444 | 86 |
+| cromwell_ct | streams | 2026-08-27 17:31:58.704789 | 20 |
+| cromwell_ct | videos | 2026-08-27 17:32:00.352030 | 86 |
 
 
 ## Registered meeting bodies
@@ -163,12 +163,12 @@ _Generated 2026-08-27T15:38:50 -- regenerate with `.venv/bin/python3 analysis/ge
 ### drone
 
 - **[2026-04-02] Board of Finance** -- Town of Cromwell Board of Finance Special Meeting 4-2-2026
-  > ...other kinds of things and it kind of ranged from like 7,000 to like 20,000. Uh we're also looking at a drone show which we just got some quotes this week. So we're trying to absorb that and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=9447s)  _(term: drone, unreviewed)_
-
-- **[2026-04-02] Board of Finance** -- Town of Cromwell Board of Finance Special Meeting 4-2-2026
   > ...So we're trying to absorb that and figure out what that is. But anything even the drone show it'll depend on how many drones you have, how long it is, so on and so forth. So we just don't have...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=9453s)  _(term: drone, unreviewed)_
+
+- **[2026-04-02] Board of Finance** -- Town of Cromwell Board of Finance Special Meeting 4-2-2026
+  > ...other kinds of things and it kind of ranged from like 7,000 to like 20,000. Uh we're also looking at a drone show which we just got some quotes this week. So we're trying to absorb that and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=9447s)  _(term: drone, unreviewed)_
 
 - **[2025-06-26] Board of Finance** -- Town of Cromwell Board of Finance Meeting 6-26-2025
   > ...meeting, I will email around the latest uh packet. There's loaded with with pictures uh you know, aerial drone photos of the building, you know, which at this point is um...
@@ -198,16 +198,16 @@ _Generated 2026-08-27T15:38:50 -- regenerate with `.venv/bin/python3 analysis/ge
 ### predictive_policing
 
 - **[2025-03-18] Planning & Zoning Commission** -- Town of Cromwell Planning and Zoning Meeting 3-18-2025
-  > ...believe in the late 18 or yeah late 1800s early 1900s it was originally a Foundry um and it has always had a water issue I I I guess...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_MYXrLBhMoY&t=4812s)  _(term: predictive_policing, unreviewed)_
+  > ...the walls because there's more doors there than there were when it was a Foundry so these uh temp these uh I'll call them slots where you would slide in a a piece of Steel uh which so you have...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_MYXrLBhMoY&t=5105s)  _(term: predictive_policing, unreviewed)_
 
 - **[2025-03-18] Planning & Zoning Commission** -- Town of Cromwell Planning and Zoning Meeting 3-18-2025
   > ...the The Vault system that there's some remnants of it existing from I guess when The Foundry had it um there's there's some concrete work that has to be done um some studs going into some of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_MYXrLBhMoY&t=5095s)  _(term: predictive_policing, unreviewed)_
 
 - **[2025-03-18] Planning & Zoning Commission** -- Town of Cromwell Planning and Zoning Meeting 3-18-2025
-  > ...the walls because there's more doors there than there were when it was a Foundry so these uh temp these uh I'll call them slots where you would slide in a a piece of Steel uh which so you have...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_MYXrLBhMoY&t=5105s)  _(term: predictive_policing, unreviewed)_
+  > ...believe in the late 18 or yeah late 1800s early 1900s it was originally a Foundry um and it has always had a water issue I I I guess...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_MYXrLBhMoY&t=4812s)  _(term: predictive_policing, unreviewed)_
 
 
 ### purchasing_broker
@@ -223,28 +223,28 @@ _Generated 2026-08-27T15:38:50 -- regenerate with `.venv/bin/python3 analysis/ge
 ### surveillance_general
 
 - **[2026-04-02] Board of Finance** -- Town of Cromwell Board of Finance Special Meeting 4-2-2026
-  > ...carries. All right. Can I have a motion then uh for uh to put on a future list for an appropriation uh the CCTV renewal at uh ECS phase one in the amount of $62,100....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=1971s)  _(term: surveillance_general, unreviewed)_
+  > ...a list for a future appropriation in the amount of $41,400 uh for the CCTV renewal at Woodside Intermediate School. >> So move second....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=2504s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-04-02] Board of Finance** -- Town of Cromwell Board of Finance Special Meeting 4-2-2026
   > ...on a list for a future appropriation uh in the amount of $51,750 for CCTV renewal at the at Crumbl High School? So moved. >> Second....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=2482s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-04-02] Board of Finance** -- Town of Cromwell Board of Finance Special Meeting 4-2-2026
-  > ...a list for a future appropriation in the amount of $41,400 uh for the CCTV renewal at Woodside Intermediate School. >> So move second....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=2504s)  _(term: surveillance_general, unreviewed)_
+  > ...carries. All right. Can I have a motion then uh for uh to put on a future list for an appropriation uh the CCTV renewal at uh ECS phase one in the amount of $62,100....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=1971s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-03-05] Town Council** -- Town of Cromwell Town Council Special Meeting Budget Workshop 3-05-2026
-  > ...>> I'll request that the IT manager also attend the board of finance meeting. >> Um next is the CT renewal CT CCTV renewals for the three schools phase one. Uh any discussion on this one or...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Itl2gX21H50&t=7755s)  _(term: surveillance_general, unreviewed)_
+  > ...>> Some of these are in phases as well. Yeah, I'm really I mean I know Tony you're recommending the re CT C CCTV renewals as well. That makes me really uncomfortable though. I mean not not the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Itl2gX21H50&t=8864s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-03-05] Town Council** -- Town of Cromwell Town Council Special Meeting Budget Workshop 3-05-2026
   > ...the IAQ, we did the replace the water heater, we agreed to 50,000 for the upgrade of telephones. We think the CCTV renewals are necessary, although we have significant questions about the cost...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Itl2gX21H50&t=8658s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-03-05] Town Council** -- Town of Cromwell Town Council Special Meeting Budget Workshop 3-05-2026
-  > ...>> Some of these are in phases as well. Yeah, I'm really I mean I know Tony you're recommending the re CT C CCTV renewals as well. That makes me really uncomfortable though. I mean not not the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Itl2gX21H50&t=8864s)  _(term: surveillance_general, unreviewed)_
+  > ...>> I'll request that the IT manager also attend the board of finance meeting. >> Um next is the CT renewal CT CCTV renewals for the three schools phase one. Uh any discussion on this one or...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Itl2gX21H50&t=7755s)  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools
@@ -266,7 +266,7 @@ _Generated 2026-08-27T15:38:50 -- regenerate with `.venv/bin/python3 analysis/ge
 
 - Agenda sources registered: 1
 - Documents registered: 0 (fetched: 0)
-- Date range covered: None to None
+- Date range covered: *no agenda document on file carries a parseable date yet*
 
 
 ### Agenda sources

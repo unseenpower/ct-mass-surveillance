@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Lisbon
 
 
-_Generated 2026-08-27T15:39:40 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Lisbon"`_
+_Generated 2026-08-27T17:52:08 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Lisbon"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T15:39:40 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 1
 - Active meeting bodies: 2
 - Videos registered: 22 (fetched: 22, no captions: 0)
-- Date range covered: 2026-02-18 to 2026-04-01
+- Date range covered: 2026-02-18 to 2026-04-01 — **based on the 3 of 22 videos that carry a parseable upload date**; the other 19 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
