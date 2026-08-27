@@ -4,6 +4,14 @@ Public reference documents on mass surveillance in Connecticut — research
 briefs, FOIA materials, and source PDFs, hosted here so they can be linked
 from other write-ups.
 
+## Start here
+
+**[Cross-town matrix](docs/cross-town-matrix.md)** — every town, every
+surveillance-tech topic, mention counts side by side, each linking through
+to that town's full report. The fastest way to see which towns are
+discussing ALPR, drones, facial recognition or real-time crime centres, and
+how one town compares to its neighbours.
+
 ## Layout
 
 - `docs/towns/<town-slug>/` — every document, filed by the town it's about.
