@@ -42,14 +42,28 @@ without opening a dozen town reports.
 
 The plain-text meeting transcripts behind every report are published as
 **[release assets](https://github.com/unseenpower/ct-mass-surveillance/releases)**,
-not in this tree — one `.zip` per town, named `<town>-meeting-transcripts-<range>.zip`.
-
-They live there rather than in `docs/towns/` because they are large and grow
-with every town onboarded; keeping them as release assets means cloning this
-repository stays cheap while the archives stay permanently linkable.
+not in this tree — one `.zip` per town, named `<town>-meeting-transcripts.zip`,
+covering **92 Connecticut towns**.
 
 Each report's findings are keyword matches against exactly these files, so
-they are the primary source for verifying any quote.
+they are the primary source for verifying any quote. Every archive contains a
+`MANIFEST.txt` giving its own transcript count, the meeting dates it covers,
+and what share of that town's known meetings have actually been transcribed —
+read that before drawing conclusions from what an archive does or does not
+contain.
+
+Filenames are stable and archives are replaced in place as each town's
+backlog fills, so a link to one keeps working and keeps returning the current
+version. The release tag is the dated snapshot.
+
+They live in releases rather than in `docs/towns/` because release assets sit
+outside git history: they can be replaced or removed, and cloning this
+repository does not drag every past version of every archive along with it.
+
+These are machine transcriptions of automatic captions, not official minutes.
+They contain mis-hearings, missing speaker attribution and dropped audio.
+Quote the video, not the transcript — each report links every finding to the
+exact second of the source recording.
 
 ## How to read the transcript reports
 
