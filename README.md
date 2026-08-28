@@ -12,13 +12,25 @@ to that town's full report. The fastest way to see which towns are
 discussing ALPR, drones, facial recognition or real-time crime centres, and
 how one town compares to its neighbours.
 
+**[Topic reports](docs/topics/mentions/)** — the same data cut the other
+way: one file per technology, gathering every town's mentions of it into a
+single document with a timestamped link to the exact second of the meeting
+video for each. Start here to read what a dozen towns said about ALPR
+without opening a dozen town reports.
+
 ## Layout
 
 - `docs/towns/<town-slug>/` — every document, filed by the town it's about.
   This is the source of truth; each file lives in exactly one place here.
-- `docs/topics/<topic-slug>.md` — cross-town indexes. Each is a themed list
-  of links back into `docs/towns/`, e.g. "cameras implemented with no legal
-  process." A single document can be listed under several topics.
+- `docs/topics/<topic-slug>.md` — hand-curated cross-town indexes. Each is
+  a themed list of links back into `docs/towns/`, e.g. "cameras implemented
+  with no legal process." A single document can be listed under several
+  topics. These are claims, assembled deliberately.
+- `docs/topics/mentions/<topic>.md` — **generated** per-technology mention
+  reports, one per topic, covering every town. These are not claims: they
+  are raw keyword matches with their source links attached, regenerated
+  automatically as more transcripts are fetched. They are kept in their own
+  directory precisely so the two are never mistaken for each other.
 
 ## Raw transcript archives
 
