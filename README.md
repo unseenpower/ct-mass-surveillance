@@ -18,6 +18,12 @@ towns whose transcripts were downloaded for the first time, and topics
 appearing for the first time in a town already being watched. Regenerated
 continuously.
 
+**[Meetings to watch](docs/meetings-to-watch.md)** — where surveillance
+technology is most likely to come up next: meetings towns have already
+scheduled at bodies that have raised it before, and the ~160 committees and
+councils across Connecticut that keep returning to the subject. For deciding
+which meeting is worth an evening.
+
 **[Topic reports](docs/topics/mentions/)** — the same data cut the other
 way: one file per technology, gathering every town's mentions of it into a
 single document with a timestamped link to the exact second of the meeting
