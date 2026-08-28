@@ -12,6 +12,12 @@ to that town's full report. The fastest way to see which towns are
 discussing ALPR, drones, facial recognition or real-time crime centres, and
 how one town compares to its neighbours.
 
+**[This Week in Surveillance](docs/this-week-in-surveillance.md)** — what
+entered the record in the last seven days: meetings actually held this week,
+towns whose transcripts were downloaded for the first time, and topics
+appearing for the first time in a town already being watched. Regenerated
+continuously.
+
 **[Topic reports](docs/topics/mentions/)** — the same data cut the other
 way: one file per technology, gathering every town's mentions of it into a
 single document with a timestamped link to the exact second of the meeting
