@@ -1,6 +1,6 @@
 # This Week in Surveillance — Connecticut
 
-_Covering the 7 days to 28 August 2026. 2,362 mentions newly surfaced, from 13,198 meeting transcripts added across 7 keyword scans._
+_Covering the 7 days to 28 August 2026. 2,362 mentions newly surfaced, from 13,258 meeting transcripts added across 7 keyword scans._
 
 
 > **Unreviewed keyword matches, not verified claims.** Every item below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous and auto-captions mis-transcribe. Follow the timestamped link and listen before citing anything.
@@ -77,13 +77,13 @@ _82 town(s) had their meeting transcripts downloaded for the first time. A large
 | Clinton | 24 | ALPR / Flock (20), Drones (4) |
 | Old Lyme | 24 | Drones (19), ALPR / Flock (5) |
 | Guilford | 22 | ALPR / Flock (12), Drones (5), Purchasing / procurement (2) |
-| Stonington | 21 | ALPR / Flock (9), Body cameras (4), Drones (3) |
+| Stonington | 21 | ALPR / Flock (9), Body cameras (4), Predictive policing (3) |
 | Kent | 20 | Drones (19), ALPR / Flock (1) |
 | Killingly | 18 | ALPR / Flock (12), Predictive policing (5), Facial recognition (1) |
 | Ansonia | 17 | Body cameras (7), Predictive policing (4), Drones (3) |
 | Naugatuck | 17 | Drones (11), ALPR / Flock (2), Body cameras (2) |
-| Bethany | 14 | ALPR / Flock (9), Drones (3), Predictive policing (1) |
-| [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | 14 | General surveillance (6), Drones (3), Predictive policing (3) |
+| Bethany | 14 | ALPR / Flock (9), Drones (3), Facial recognition (1) |
+| [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | 14 | General surveillance (6), Predictive policing (3), Drones (3) |
 | Lebanon | 13 | ALPR / Flock (9), Drones (4) |
 | Plainfield | 12 | Drones (8), Body cameras (4) |
 | North Branford | 11 | Drones (5), Body cameras (4), ALPR / Flock (2) |
@@ -95,15 +95,15 @@ _82 town(s) had their meeting transcripts downloaded for the first time. A large
 | Mansfield | 7 | Drones (3), ALPR / Flock (3), Predictive policing (1) |
 | Portland | 7 | Drones (6), ALPR / Flock (1) |
 | Deep River | 6 | ALPR / Flock (6) |
-| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | 6 | Predictive policing (2), Drones (2), ALPR / Flock (1) |
+| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | 6 | Drones (2), Predictive policing (2), Facial recognition (1) |
 | Canaan | 5 | General surveillance (3), Drones (2) |
 | Canterbury | 5 | Drones (5) |
 | Griswold | 5 | ALPR / Flock (4), Predictive policing (1) |
-| Ellington | 4 | ALPR / Flock (2), Drones (2) |
+| Ellington | 4 | Drones (2), ALPR / Flock (2) |
 | Sterling | 4 | Drones (3), Purchasing / procurement (1) |
 | Cornwall | 3 | Drones (2), ALPR / Flock (1) |
 | Suffield | 3 | Drones (2), Facial recognition (1) |
-| Bolton | 2 | Drones (1), ALPR / Flock (1) |
+| Bolton | 2 | ALPR / Flock (1), Drones (1) |
 | Coventry | 2 | Drones (2) |
 | East Granby | 2 | ALPR / Flock (2) |
 | Lyme | 2 | Drones (2) |
@@ -205,69 +205,101 @@ _See all 21 in the [Body cameras topic report](https://github.com/unseenpower/ct
 
 ## In the news
 
-_No new items this week: the most recent agenda-watch sweep on file ran **2026-08-04**. Shown below is the latest confirmed activity it recorded, which has not changed since. This section refreshes when a newer sweep is imported._
+_13 item(s) added by this week's agenda-watch sweep._
 
 
-- **[2026-08-04] Bristol** — Ordinance Committee
+- **[2026-09-01] Manchester** — Purchasing / Board of Directors
 
-  Bristol lists an Ordinance Committee meeting for Tuesday, August 4, 2026, at 5:00 p.m. The committee previously advanced automated traffic enforcement legislation and the Police Commission is actively tracking the red-light-camera RFP, but no August 4 agenda text was available in this run.
+  Manchester is soliciting implementation services for ATESD with a September 1 deadline; this is separate from the August 25 school-bus stop-arm camera solicitation.
 
-  _Confirmed meeting / topic unconfirmed_ · _Upcoming ATESD ordinance oversight_
-
-
-- **[2026-08-04] West Hartford** — Public Safety Committee
-
-  West Hartford Community Interactive lists a Public Safety Committee virtual meeting for Tuesday, August 4, 2026. The listing did not expose an agenda. West Hartford has an active Flock ALPR policy/portal and an OSTA-approved speed-camera plan now in vendor procurement, making manual agenda review high priority without assuming a camera item is on the agenda.
-
-  _Confirmed meeting / topic unconfirmed_ · _Meeting watch / ALPR and ATESD oversight_
+  [Source](https://www.manchesterct.gov/files/assets/public/v/2/bod/2026/april-2026-agenda-1.pdf) · _Confirmed procurement lead_ · _Automated Traffic Enforcement Safety Devices procurement_
 
 
-- **[2026-08-03] Cheshire** — Town Council Ordinance Review Committee
+- **[2026-09-01] Stamford** — City / Vision Zero implementation
 
-  Official calendar confirms the committee meets Monday, August 3, 2026, from 6:30–7:30 p.m. The linked agenda was not text-accessible during this run. Because Cheshire operates Flock ALPRs and this committee reviews ordinances, the agenda requires manual inspection; this row does not assert that a camera item is confirmed.
+  Stamford plans to launch 14 school-zone speed cameras in September 2026 with a 45-day warning period before fines.
 
-  _Confirmed meeting / topic unconfirmed_ · _Meeting watch / agenda topic unconfirmed_
+  [Source](https://www.stamfordadvocate.com/news/article/stamford-ct-speed-cameras-start-22375221.php) · _Confirmed implementation schedule_ · _Speed cameras / ATESD_
+
+
+- **[2026-08-25] Manchester** — Purchasing / Board implementation follow-up
+
+  Manchester has a separate solicitation for school-bus stop-arm camera enforcement equipment and services, due August 25, 2026. The April Board agenda separately discussed School Bus Violation Enforcement Systems (Stop-Arm Cameras).
+
+  [Source](https://www.manchesterct.gov/files/assets/public/v/2/bod/2026/april-2026-agenda-1.pdf) · _Confirmed camera program / procurement lead_ · _School Bus Stop-Arm Camera Enforcement_
+
+
+- **[2026-08-12] Columbia** — Town Meeting
+
+  Official town document calls an August 12 Town Meeting on the proposed automated traffic enforcement/speed-camera matter.
+
+  [Source](https://www.columbiact.gov/media/34131) · _Confirmed upcoming action_ · _Speed cameras / ATESD ordinance_
+
+
+- **[2026-08-11] Manchester** — Board of Directors
+
+  Manchester's official Board page confirms a Regular Meeting on August 11, 2026. Because the Granicus-powered page does not reliably expose agenda-attachment text to indexed search, this meeting is now a mandatory direct packet inspection for the active camera procurements and ordinance implementation.
+
+  [Source](https://www.manchesterct.gov/Government/Departments/Board-of-Directors) · _Meeting confirmed; packet-level verification required_ · _Automated traffic enforcement / camera implementation_
+
+
+- **[2026-08-05] Newtown** — Legislative Council
+
+  Legislative Council unanimously supported drafting a resolution opposing Flock cameras, referred the issue to ordinance committee, and discussed asking selectmen to cancel the contract.
+
+  [Source](https://www.newstimes.com/news/article/newtown-ct-flock-camera-moratorium-22378819.php) · _Confirmed council action_ · _ALPR / Flock moratorium_
+
+
+- **[2026-08-04] Bridgeport** — City administration / City Council policy context
+
+  Bridgeport officials cooled or paused speed-camera plans after earlier identifying priority intersections, citing privacy concerns and public resistance.
+
+  [Source](https://www.ctpost.com/news/article/bridgeport-ct-speed-camera-plan-22367683.php) · _Confirmed current status_ · _Speed cameras / ATESD_
+
+
+- **[2026-08-04] Cheshire** — Town Council
+
+  Dozens of residents urged Cheshire officials to stop using Flock license plate readers during the August 4 Town Council meeting.
+
+  [Source](https://www.nbcconnecticut.com/news/local/debate-over-flock-license-plate-readers-reaches-cheshire-town-council/3761714/) · _Confirmed meeting discussion_ · _ALPR / Flock public policy debate_
+
+
+- **[2026-08-04] West Hartford** — Town Council / Public Safety discussion
+
+  Officials defended continued use of 35 Flock cameras; police presented usage and audit practices.
+
+  [Source](https://www.ctinsider.com/westhartford/article/west-hartford-ct-flock-license-plate-cameras-22373433.php) · _Confirmed current policy position_ · _ALPR / Flock oversight_
 
 
 - **[2026-08-03] Middletown** — Common Council
 
-  Middletown posted Questions to Directors and a regular Common Council meeting for Monday, August 3, 2026. Because the Public Safety Commission recently reviewed a proposed Flock drone program and Middletown operates an approved ATESD program, both packets require review; this row does not claim a camera item is on either agenda.
+  Common Council put off a vote on a proposed $50,000 one-year Flock drone contract after public opposition and privacy concerns.
 
-  _Confirmed meetings / topic unconfirmed_ · _Upcoming Flock-drone and ATESD oversight_
-
-
-- **[2026-08-03] New London** — Administration Committee
-
-  New London's official meeting calendar confirms an Administration Committee meeting on Monday, August 3, 2026, at 6:30 p.m. in Council Chambers. The portal did not expose agenda text during this run, so no camera-related item is claimed.
-
-  _Confirmed meeting / topic unconfirmed_ · _Meeting watch / agenda topic unconfirmed_
+  [Source](https://ctexaminer.com/2026/08/04/facing-public-opposition-middletown-hits-pause-on-flock-drone/) · _Confirmed pause reported_ · _Flock drone / surveillance technology contract_
 
 
-- **[2026-08-03] New London** — City Council
+- **[2026-08-03] Milford** — Board of Aldermen
 
-  New London's official portal confirms a City Council meeting on Monday, August 3, 2026, at 7:00 p.m. in Council Chambers. The accessible event page did not include agenda text, so no camera-related item is claimed.
+  Official August 3 minutes record extensive public opposition to Flock/ALPR, red-light, and speed cameras. A temporary moratorium resolution was added and tabled to September.
 
-  _Confirmed meeting / topic unconfirmed_ · _Meeting watch / agenda topic unconfirmed_
-
-
-- **[2026-08-03] Norwich** — City Council
-
-  Norwich's official website lists a City Council meeting for Monday, August 3, 2026. Norwich recently held an ATESD ordinance public hearing and launched a Flock transparency portal, so the agenda requires direct review; this row does not assert a camera item is confirmed.
-
-  _Confirmed meeting / topic unconfirmed_ · _Upcoming Flock/ATESD oversight_
+  [Source](https://www.milfordct.us/AgendaCenter/ViewFile/Minutes/_08032026-1957) · _Confirmed_ · _ALPR / Flock moratorium; speed/red-light cameras_
 
 
-- **[2026-08-03] Waterford** — Representative Town Meeting
+- **[2026-07-29] Groton** — CTDOT / municipal program
 
-  Waterford posted an amended Representative Town Meeting agenda and packet for Monday, August 3, 2026. Because Waterford has confirmed recent ALPR activity, the packet requires review; this row does not assert that a camera item is present.
+  CTDOT lists Groton's municipal ATESD plan as approved July 29, 2026.
 
-  _Confirmed meeting / topic unconfirmed_ · _Upcoming ALPR oversight watch_
+  [Source](https://portal.ct.gov/dot/programs/automated-traffic-enforcement-safety-device/approved-plans) · _Confirmed approval listing_ · _Speed/red-light cameras / ATESD_
 
 
 Compiled by Eric Weiner from municipal agendas, minutes, packets, CTDOT filings and news coverage. An LLM-assisted sweep: official documents are marked confirmed, news and portal-only items are leads, and every row's own confidence label is printed above. Verify before citing.
 
 
 ## Coming up
+
+_Surveillance technology confirmed on a published agenda:_
+
+- **2026-09-01** — Manchester: [ATESD speed/red-light camera implementation procurement](https://www.manchesterct.gov/files/assets/public/v/2/bod/2026/april-2026-agenda-1.pdf) _(High)_
 
 
 _Meetings the towns have already scheduled, at bodies that have raised surveillance before:_
@@ -312,8 +344,8 @@ The full watch list — every body that keeps returning to the subject, and when
 | [Purchasing / procurement](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/purchasing_broker.md) | 9 | 4 |
 | [Other biometrics](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/biometrics_other.md) | 5 | 5 |
 | [Cell-site simulators](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/cell_site_sim.md) | 2 | 2 |
-| [OSINT / social-media monitoring](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/osint_social_monitor.md) | 1 | 1 |
 | [AI data fusion](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/ai_data_fusion.md) | 1 | 1 |
+| [OSINT / social-media monitoring](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/osint_social_monitor.md) | 1 | 1 |
 
 ---
 
