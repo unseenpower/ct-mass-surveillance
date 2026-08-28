@@ -24,6 +24,12 @@ scheduled at bodies that have raised it before, and the ~160 committees and
 councils across Connecticut that keep returning to the subject. For deciding
 which meeting is worth an evening.
 
+**[findings.csv](docs/data/findings.csv)** — every mention in one
+machine-readable file: 3,528 rows, 81 towns, 14 topics, each with a
+timestamped link to the exact second of the meeting video. The complete
+record, for spreadsheets, scripts, or pointing an AI assistant at. See
+[docs/data/](docs/data/) for the column reference and the caveats that apply.
+
 **[Topic reports](docs/topics/mentions/)** — the same data cut the other
 way: one file per technology, gathering every town's mentions of it into a
 single document with a timestamped link to the exact second of the meeting
