@@ -1,6 +1,6 @@
 # ALPR / Flock: every mention, every town
 
-_Generated 2026-08-29T12:19:16 — 1,440 mentions across 66 towns, 2013-07-24 to 2026-08-24._
+_Generated 2026-08-29T12:29:03 — 1,441 mentions across 66 towns, 2013-07-24 to 2026-08-24._
 
 
 Automated licence-plate readers — cameras that photograph every passing vehicle, read its plate, and log the time and place. Flock Safety is the dominant vendor in Connecticut.
@@ -23,7 +23,7 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| Orange ⁽ⁿᵖ⁾ | **176** | · | 8 | 99% | 2020-01-07 | 2026-08-13 |
+| [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **176** | · | 8 | 99% | 2020-01-07 | 2026-08-13 |
 | Berlin ⁽ⁿᵖ⁾ | **173** | · | 32 | 78% | 2022-03-02 | 2026-08-17 |
 | [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **160** | 2 | 10 | 95% | 2022-06-06 | 2026-08-03 |
 | [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **91** | · | 20 | 98% | 2022-05-26 | 2026-08-06 |
@@ -68,15 +68,16 @@ _No human review has been applied to any mention in this file._
 | Seymour ⁽ⁿᵖ⁾ | **6** | · | 5 | 75% | 2020-09-02 | 2026-02-09 |
 | Watertown ⁽ⁿᵖ⁾ | **6** | · | 3 | 71% | 2025-06-11 | 2026-08-17 |
 | East Windsor ⁽ⁿᵖ⁾ | **5** | · | 4 | 36% | 2024-05-16 | 2026-06-04 |
-| Griswold ⁽ⁿᵖ⁾ | **4** | · | 1 | 86% | 2025-11-26 | 2025-11-26 |
-| Old Saybrook ⁽ⁿᵖ⁾ | **3** | · | 3 | 99% | 2026-05-18 | 2026-08-24 |
+| [Griswold](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/griswold/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 1 | 86% | 2025-11-26 | 2025-11-26 |
+| [Old Saybrook](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 99% | 2026-05-18 | 2026-08-24 |
 | [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 85% | 2019-11-18 | 2024-05-15 |
-| Ansonia ⁽ⁿᵖ⁾ | **2** | · | 2 | 96% | 2022-06-23 | 2022-12-14 |
+| [Ansonia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 96% | 2022-06-23 | 2022-12-14 |
 | Coventry ⁽ⁿᵖ⁾ | **2** | 2 | 2 | 25% | 2026-08-17 | 2026-08-17 |
 | East Granby ⁽ⁿᵖ⁾ | **2** | · | 2 | 71% | 2026-04-22 | 2026-05-27 |
 | Ellington ⁽ⁿᵖ⁾ | **2** | · | 2 | 36% | 2023-09-28 | 2024-06-12 |
 | Monroe ⁽ⁿᵖ⁾ | **2** | · | 2 | 23% | 2025-03-24 | 2025-04-28 |
 | Naugatuck ⁽ⁿᵖ⁾ | **2** | · | 2 | 58% | 2025-12-18 | 2026-08-03 |
+| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 95% | 2022-11-09 | 2023-10-25 |
 | Ashford ⁽ⁿᵖ⁾ | **1** | · | 1 | 33% | 2024-12-09 | 2024-12-09 |
 | Bolton ⁽ⁿᵖ⁾ | **1** | · | 1 | 37% | 2024-05-09 | 2024-05-09 |
 | Bozrah ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-07-02 | 2026-07-02 |
@@ -85,7 +86,6 @@ _No human review has been applied to any mention in this file._
 | Kent ⁽ⁿᵖ⁾ | **1** | · | 1 | 39% | 2026-08-04 | 2026-08-04 |
 | [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 93% | 2013-07-24 | 2013-07-24 |
 | Middlebury ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-06-08 | 2026-06-08 |
-| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 95% | 2023-10-25 | 2023-10-25 |
 | Plainville ⁽ⁿᵖ⁾ | **1** | · | 1 | 33% | 2026-03-10 | 2026-03-10 |
 | Portland ⁽ⁿᵖ⁾ | **1** | · | 1 | 29% | 2026-02-18 | 2026-02-18 |
 | Waterford ⁽ⁿᵖ⁾ | **1** | 1 | 1 | 42% | 2026-03-23 | 2026-03-23 |
@@ -149,7 +149,7 @@ _Most recent first within each town. Every line links to the exact second of the
   [Watch ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=961s)  _(term: `alpr_flock`)_
 
 
-_164 further mentions in Orange not shown here — all of them are in Orange's full report (not yet published)._
+_164 further mentions in Orange not shown here — all of them are in [Orange's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Berlin — 173 mentions
@@ -2164,13 +2164,13 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
 
 ### Coventry — 2 mentions
 
-- **[2026-08-17] Town Council** — Town Council Agenda - 2026-08-17
-  > …Documents: RFP COUNCIL LETTER DRAFT.PDF 26-27 - 10 SUMMARY SHEET.PDF 9. Miscellaneous/Correspondence: 9.A. * Correspondence: Squires - Concern About Flock Camera Systems (E) Documents: SQUIRES FLOCK CAMERAS.PDF 9.B. * Monthly Statistics, Police & Fire Departments: June/July 2026 (E) Documents:…
-  [Open document ▸](https://www.coventry-ct.gov/AgendaCenter/ViewFile/Agenda/_08172026-4592)  _(agenda/minutes · term: `alpr_flock`)_
-
 - **[2026-08-17] Town Council** — Town Council Minutes - 2026-08-17
   > …s, the grant could be rejected. Voting: For: Kyer, Hand, Gallagher, Larson, and Wheaton. Against: Blanchard. Abstain: 9. Miscellaneous/Correspondence: 9.A. * Correspondence: Squires - concern about Flock camera systems: Wheaton commented that he is delighted the Council Chair Lisa Thomas has asserted that the Town of Coventry is not looking to install flock cameras. Other councilors agreed. 9.B…
   [Open document ▸](https://www.coventry-ct.gov/AgendaCenter/ViewFile/Minutes/_08172026-4592)  _(agenda/minutes · term: `alpr_flock`)_
+
+- **[2026-08-17] Town Council** — Town Council Agenda - 2026-08-17
+  > …Documents: RFP COUNCIL LETTER DRAFT.PDF 26-27 - 10 SUMMARY SHEET.PDF 9. Miscellaneous/Correspondence: 9.A. * Correspondence: Squires - Concern About Flock Camera Systems (E) Documents: SQUIRES FLOCK CAMERAS.PDF 9.B. * Monthly Statistics, Police & Fire Departments: June/July 2026 (E) Documents:…
+  [Open document ▸](https://www.coventry-ct.gov/AgendaCenter/ViewFile/Agenda/_08172026-4592)  _(agenda/minutes · term: `alpr_flock`)_
 
 
 ### East Granby — 2 mentions
@@ -2215,6 +2215,17 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
 - **[2025-12-18] Zoning Commission** — Borough of Naugatuck Zoning Meeting 12-18-25
   > …the time. It's a really nice sweating. Right now in Nagata, most of the people flock over to the golf course. It's a little tiny bunny thing. Only little tiny kids want to play there. This is…
   [Watch ▸](https://www.youtube.com/watch?v=NRgI9BBdiDM&t=4891s)  _(term: `alpr_flock`)_
+
+
+### New Britain — 2 mentions
+
+- **[2023-10-25] Common Council** — Common Council Regular Meeting Minutes - 2023-10-25
+  > …AXON 50 Fleet 3 Basic + Tap In-Car Cameras $101,400.00 WHEREAS, the New Britain Police Department requested a purchase order for the purchase of fifty (50) AXON Fleet 3 in-car video cameras from Axon Enterprise Inc. for patrol police vehicles as the current in-car camera equipment is over 10 years and is nearing the useful life of an in-car dash camera s…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=821&doc_id=a34b0638-b60b-11ee-bb82-0050569183fa)  _(agenda/minutes · term: `alpr_vendor`)_
+
+- **[2022-11-09] Common Council** — Common Council Regular Meeting Minutes - 2022-11-09
+  > …ro. So voted. Approved by Mayor Erin E. Stewart November 10, 2022. 35928 RE: BUDGET APPROPRIATION – POLICE DEPARTMENT – EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT (JAG) FOR AXON FLEET 3 IN-CAR VIDEO CAMERAS To Her Honor, the Mayor, and the Common Council of the City of New Britain: the undersigned beg leave to recommend the adoption of the following:…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=657&doc_id=bcaf0560-912c-11ed-96ab-0050569183fa)  _(agenda/minutes · term: `alpr_vendor`)_
 
 
 ### Ashford — 1 mention
@@ -2271,13 +2282,6 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
 - **[2026-06-08] (unassigned body)** — Police Commission Minutes - 2026-06-08
   > …re is a regulation on sharing poles? Deputy Chief Hunt noted that it can be looked into. Chief Deely stated that we have heard back from Frontier regarding the use of their poles for the department's Rekor cameras. Are there any restrictions on speed limit signs? Chairman Moreira advised that he can speak to this and that, as a general proposition, you are not supposed to put anything on the pole…
   [Open document ▸](https://www.middleburyct.gov/AgendaCenter/ViewFile/Minutes/_06082026-351)  _(agenda/minutes · term: `alpr_vendor`)_
-
-
-### New Britain — 1 mention
-
-- **[2023-10-25] Common Council** — Common Council Regular Meeting Minutes - 2023-10-25
-  > …AXON 50 Fleet 3 Basic + Tap In-Car Cameras $101,400.00 WHEREAS, the New Britain Police Department requested a purchase order for the purchase of fifty (50) AXON Fleet 3 in-car video cameras from Axon Enterprise Inc. for patrol police vehicles as the current in-car camera equipment is over 10 years and is nearing the useful life of an in-car dash camera s…
-  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=821&doc_id=a34b0638-b60b-11ee-bb82-0050569183fa)  _(agenda/minutes · term: `alpr_vendor`)_
 
 
 ### Plainville — 1 mention

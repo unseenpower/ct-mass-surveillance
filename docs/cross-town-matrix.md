@@ -1,6 +1,6 @@
 # CT surveillance-tech mentions: cross-town matrix
 
-_Generated 2026-08-29T12:18:40 — 89 towns, 3,719 total mentions across 15 topics._
+_Generated 2026-08-29T12:28:24 — 89 towns, 3,722 total mentions across 15 topics._
 
 
 > **Read the coverage column first.** Every number here is a raw keyword match, not a human-reviewed finding — keywords are ambiguous, so a count is a pointer to somewhere worth reading, not a conclusion. And a **low or zero count is not evidence a town has avoided surveillance technology**: it usually means that town's transcript backlog is not fetched yet, its meetings are not captioned, or its archive is on a platform this pipeline cannot read. Coverage is the share of that town's known meeting videos whose transcripts have actually been downloaded.
@@ -16,7 +16,7 @@ Town names link to the full per-town report, which carries the timestamped sourc
 | **[Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md)** | 95% | 27 | **292** | 3 | 107 | 160 | 22 | · | · | 1 | · | · | 2 | · | · | · | · | · | · |
 | Berlin ⁽ⁿᵖ⁾ | 78% | 61 | **228** | · | 38 | 173 | 7 | 4 | · | 1 | · | · | 4 | · | · | 1 | · | · | · |
 | **[Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md)** | 98% | 95 | **213** | · | 59 | 91 | 41 | 19 | · | · | · | · | 2 | · | · | 1 | · | · | · |
-| Orange ⁽ⁿᵖ⁾ | 99% | 27 | **211** | · | 30 | 176 | 1 | 1 | · | · | · | · | 3 | · | · | · | · | · | · |
+| **[Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md)** | 99% | 27 | **211** | · | 30 | 176 | 1 | 1 | · | · | · | · | 3 | · | · | · | · | · | · |
 | **[East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md)** | 95% | 73 | **186** | 32 | 59 | 86 | 27 | 6 | · | 2 | 1 | · | · | · | 3 | · | 2 | · | · |
 | **[New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)** | 91% | 39 | **176** | 4 | 87 | 6 | 17 | · | 1 | 2 | 51 | 11 | 1 | · | · | · | · | · | · |
 | **[Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md)** | 98% | 60 | **141** | · | 57 | 25 | 22 | 10 | 11 | 4 | · | 4 | · | 5 | 1 | 1 | · | 1 | · |
@@ -28,7 +28,7 @@ Town names link to the full per-town report, which carries the timestamped sourc
 | **[South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md)** | 98% | 11 | **80** | · | 3 | 72 | 1 | · | 3 | · | · | · | · | · | · | · | · | · | 1 |
 | **[Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md)** | 94% | 31 | **73** | · | 43 | 8 | 16 | 2 | 1 | · | · | · | 3 | · | · | · | · | · | · |
 | North Haven ⁽ⁿᵖ⁾ | 36% | 9 | **69** | · | 53 | 8 | 6 | 1 | · | 1 | · | · | · | · | · | · | · | · | · |
-| Old Saybrook ⁽ⁿᵖ⁾ | 99% | 30 | **68** | 11 | 64 | 3 | 1 | · | · | · | · | · | · | · | · | · | · | · | · |
+| **[Old Saybrook](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md)** | 99% | 30 | **68** | 11 | 64 | 3 | 1 | · | · | · | · | · | · | · | · | · | · | · | · |
 | Groton ⁽ⁿᵖ⁾ | 43% | 33 | **68** | · | 51 | · | · | 14 | 3 | · | · | · | · | · | · | · | · | · | · |
 | Rocky Hill ⁽ⁿᵖ⁾ | 47% | 23 | **63** | · | 21 | 18 | · | 1 | 22 | 1 | · | · | · | · | · | · | · | · | · |
 | North Stonington ⁽ⁿᵖ⁾ | 43% | 26 | **62** | 8 | 3 | 59 | · | · | · | · | · | · | · | · | · | · | · | · | · |
@@ -43,7 +43,7 @@ Town names link to the full per-town report, which carries the timestamped sourc
 | Kent ⁽ⁿᵖ⁾ | 39% | 7 | **38** | · | 37 | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Bethel ⁽ⁿᵖ⁾ | 38% | 12 | **34** | · | 2 | 24 | 1 | 7 | · | · | · | · | · | · | · | · | · | · | · |
 | Watertown ⁽ⁿᵖ⁾ | 71% | 4 | **34** | · | 28 | 6 | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| Simsbury ⁽ⁿᵖ⁾ | 22% | 20 | **30** | 3 | 13 | 15 | 1 | 1 | · | · | · | · | · | · | · | · | · | · | · |
+| Simsbury ⁽ⁿᵖ⁾ | 22% | 21 | **31** | 4 | 14 | 15 | 1 | 1 | · | · | · | · | · | · | · | · | · | · | · |
 | Westport ⁽ⁿᵖ⁾ | 41% | 13 | **30** | · | 30 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Somers ⁽ⁿᵖ⁾ | 40% | 10 | **29** | · | 29 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Columbia ⁽ⁿᵖ⁾ | 44% | 13 | **29** | · | 8 | 21 | · | · | · | · | · | · | · | · | · | · | · | · | · |
@@ -59,7 +59,7 @@ Town names link to the full per-town report, which carries the timestamped sourc
 | Stonington ⁽ⁿᵖ⁾ | 70% | 13 | **21** | · | 3 | 9 | 4 | 2 | 3 | · | · | · | · | · | · | · | · | · | · |
 | North Branford ⁽ⁿᵖ⁾ | 29% | 14 | **21** | 2 | 9 | 7 | 4 | 1 | · | · | · | · | · | · | · | · | · | · | · |
 | Naugatuck ⁽ⁿᵖ⁾ | 58% | 9 | **17** | · | 11 | 2 | 2 | 1 | · | 1 | · | · | · | · | · | · | · | · | · |
-| Ansonia ⁽ⁿᵖ⁾ | 96% | 15 | **17** | · | 3 | 2 | 7 | 1 | 4 | · | · | · | · | · | · | · | · | · | · |
+| **[Ansonia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ansonia/surveillance-tech-transcript-and-agenda-report.md)** | 96% | 15 | **17** | · | 3 | 2 | 7 | 1 | 4 | · | · | · | · | · | · | · | · | · | · |
 | **[Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md)** | 99% | 7 | **15** | 1 | 3 | 1 | 1 | 7 | 3 | · | · | · | · | · | · | · | · | · | · |
 | Bethany ⁽ⁿᵖ⁾ | 70% | 6 | **14** | · | 3 | 9 | · | · | 1 | 1 | · | · | · | · | · | · | · | · | · |
 | Windsor ⁽ⁿᵖ⁾ | 49% | 11 | **14** | 5 | 1 | 11 | 2 | · | · | · | · | · | · | · | · | · | · | · | · |
@@ -68,27 +68,27 @@ Town names link to the full per-town report, which carries the timestamped sourc
 | Beacon Falls ⁽ⁿᵖ⁾ | — | 11 | **12** | 12 | 3 | 6 | 1 | 2 | · | · | · | · | · | · | · | · | · | · | · |
 | Plainfield ⁽ⁿᵖ⁾ | 33% | 11 | **12** | · | 8 | · | 4 | · | · | · | · | · | · | · | · | · | · | · | · |
 | Mansfield ⁽ⁿᵖ⁾ | 28% | 8 | **11** | 2 | 3 | 6 | · | 1 | 1 | · | · | · | · | · | · | · | · | · | · |
-| **[New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md)** | 95% | 8 | **9** | 2 | · | 1 | 3 | 4 | · | · | · | · | · | 1 | · | · | · | · | · |
+| **[New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md)** | 95% | 10 | **11** | 4 | · | 2 | 3 | 4 | · | · | · | · | · | 2 | · | · | · | · | · |
 | Plainville ⁽ⁿᵖ⁾ | 33% | 9 | **9** | · | 8 | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Granby ⁽ⁿᵖ⁾ | 71% | 5 | **9** | · | 2 | 6 | · | 1 | · | · | · | · | · | · | · | · | · | · | · |
 | Ashford ⁽ⁿᵖ⁾ | 33% | 6 | **8** | · | 6 | 1 | · | · | 1 | · | · | · | · | · | · | · | · | · | · |
 | Portland ⁽ⁿᵖ⁾ | 29% | 7 | **7** | · | 6 | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | **[Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md)** | 93% | 6 | **6** | · | 2 | 1 | · | · | 2 | 1 | · | · | · | · | · | · | · | · | · |
 | Deep River ⁽ⁿᵖ⁾ | 32% | 2 | **6** | · | · | 6 | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| Sterling ⁽ⁿᵖ⁾ | 97% | 4 | **5** | 1 | 4 | · | · | · | · | · | · | · | · | 1 | · | · | · | · | · |
-| Griswold ⁽ⁿᵖ⁾ | 86% | 2 | **5** | · | · | 4 | · | · | 1 | · | · | · | · | · | · | · | · | · | · |
+| **[Sterling](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/sterling/surveillance-tech-transcript-and-agenda-report.md)** | 97% | 4 | **5** | 1 | 4 | · | · | · | · | · | · | · | · | 1 | · | · | · | · | · |
+| **[Griswold](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/griswold/surveillance-tech-transcript-and-agenda-report.md)** | 86% | 2 | **5** | · | · | 4 | · | · | 1 | · | · | · | · | · | · | · | · | · | · |
 | Canaan ⁽ⁿᵖ⁾ | 63% | 4 | **5** | · | 2 | · | · | 3 | · | · | · | · | · | · | · | · | · | · | · |
 | Canterbury ⁽ⁿᵖ⁾ | 39% | 2 | **5** | · | 5 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Ellington ⁽ⁿᵖ⁾ | 36% | 3 | **4** | · | 2 | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Coventry ⁽ⁿᵖ⁾ | 25% | 4 | **4** | 2 | 2 | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| Suffield ⁽ⁿᵖ⁾ | 89% | 2 | **3** | · | 2 | · | · | · | · | 1 | · | · | · | · | · | · | · | · | · |
+| **[Suffield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/suffield/surveillance-tech-transcript-and-agenda-report.md)** | 89% | 2 | **3** | · | 2 | · | · | · | · | 1 | · | · | · | · | · | · | · | · | · |
 | Cornwall ⁽ⁿᵖ⁾ | 22% | 2 | **3** | · | 2 | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Plymouth ⁽ⁿᵖ⁾ | 37% | 2 | **2** | · | 1 | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · |
-| North Canaan ⁽ⁿᵖ⁾ | 100% | 1 | **2** | · | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| **[North Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-canaan/surveillance-tech-transcript-and-agenda-report.md)** | 100% | 1 | **2** | · | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Bolton ⁽ⁿᵖ⁾ | 37% | 2 | **2** | · | 1 | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | East Granby ⁽ⁿᵖ⁾ | 71% | 2 | **2** | · | · | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| New Hartford ⁽ⁿᵖ⁾ | 43% | 1 | **2** | · | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Lyme ⁽ⁿᵖ⁾ | 75% | 2 | **2** | · | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| New Hartford ⁽ⁿᵖ⁾ | 43% | 1 | **2** | · | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Hebron ⁽ⁿᵖ⁾ | 37% | 1 | **1** | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Bozrah ⁽ⁿᵖ⁾ | — | 1 | **1** | 1 | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Brooklyn ⁽ⁿᵖ⁾ | — | 1 | **1** | 1 | · | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · |
@@ -98,10 +98,10 @@ Town names link to the full per-town report, which carries the timestamped sourc
 | Canton ⁽ⁿᵖ⁾ | — | 1 | **1** | 1 | · | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · |
 | Salem ⁽ⁿᵖ⁾ | — | 1 | **1** | 1 | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Middlebury ⁽ⁿᵖ⁾ | — | 1 | **1** | 1 | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| New Fairfield ⁽ⁿᵖ⁾ | 76% | 1 | **1** | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| East Haddam ⁽ⁿᵖ⁾ | 20% | 1 | **1** | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Waterford ⁽ⁿᵖ⁾ | 42% | 1 | **1** | 1 | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Bloomfield ⁽ⁿᵖ⁾ | 20% | 1 | **1** | · | · | · | · | · | 1 | · | · | · | · | · | · | · | · | · | · |
+| New Fairfield ⁽ⁿᵖ⁾ | 76% | 1 | **1** | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| East Haddam ⁽ⁿᵖ⁾ | 20% | 1 | **1** | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 
 ⁽ⁿᵖ⁾ = report generated but not yet published, so there is nothing to link to yet.
 
@@ -110,8 +110,8 @@ Town names link to the full per-town report, which carries the timestamped sourc
 
 | Topic | Mentions | Towns with ≥1 |
 | --- | --- | --- |
-| Drone | 1,548 | 77 |
-| ALPR/Flock | 1,440 | 66 |
+| Drone | 1,549 | 77 |
+| ALPR/Flock | 1,441 | 66 |
 | Body cam | 256 | 39 |
 | General | 176 | 36 |
 | Predictive | 83 | 24 |
@@ -119,7 +119,7 @@ Town names link to the full per-town report, which carries the timestamped sourc
 | Gunshot det | 60 | 3 |
 | RTCC | 34 | 5 |
 | Doorbell | 19 | 9 |
-| Purchasing | 9 | 4 |
+| Purchasing | 10 | 4 |
 | Biometrics | 8 | 6 |
 | Cell-site sim | 4 | 4 |
 | CAD | 2 | 1 |

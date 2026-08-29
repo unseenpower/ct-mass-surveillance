@@ -1,6 +1,6 @@
 # Body cameras: every mention, every town
 
-_Generated 2026-08-29T12:19:38 — 256 mentions across 39 towns, 2018-08-15 to 2026-08-10._
+_Generated 2026-08-29T12:29:31 — 256 mentions across 39 towns, 2018-08-15 to 2026-08-10._
 
 
 Officer-worn cameras, and the retention, release and redaction policies that govern their footage.
@@ -31,7 +31,7 @@ _No human review has been applied to any mention in this file._
 | [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **16** | · | 6 | 94% | 2022-04-13 | 2026-03-17 |
 | [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **13** | · | 9 | 93% | 2020-07-08 | 2026-06-02 |
 | [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **9** | · | 5 | 96% | 2019-05-01 | 2023-04-12 |
-| Ansonia ⁽ⁿᵖ⁾ | **7** | · | 6 | 96% | 2020-09-14 | 2026-02-11 |
+| [Ansonia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 6 | 96% | 2020-09-14 | 2026-02-11 |
 | Berlin ⁽ⁿᵖ⁾ | **7** | · | 6 | 78% | 2024-01-17 | 2026-04-15 |
 | Darien ⁽ⁿᵖ⁾ | **6** | 1 | 6 | 33% | 2022-11-03 | 2026-08-10 |
 | Killingly ⁽ⁿᵖ⁾ | **6** | · | 1 | 64% | 2024-04-06 | 2024-04-06 |
@@ -58,8 +58,8 @@ _No human review has been applied to any mention in this file._
 | New Milford ⁽ⁿᵖ⁾ | **1** | · | 1 | 39% | 2020-06-07 | 2020-06-07 |
 | Newington ⁽ⁿᵖ⁾ | **1** | · | 1 | 59% | 2025-08-27 | 2025-08-27 |
 | [Newtown](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newtown/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 100% | — | — |
-| Old Saybrook ⁽ⁿᵖ⁾ | **1** | 1 | 1 | 99% | 2026-04-27 | 2026-04-27 |
-| Orange ⁽ⁿᵖ⁾ | **1** | · | 1 | 99% | 2026-04-09 | 2026-04-09 |
+| [Old Saybrook](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 99% | 2026-04-27 | 2026-04-27 |
+| [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 99% | 2026-04-09 | 2026-04-09 |
 | Simsbury ⁽ⁿᵖ⁾ | **1** | · | 1 | 22% | 2024-06-10 | 2024-06-10 |
 | [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2021-12-06 | 2021-12-06 |
 

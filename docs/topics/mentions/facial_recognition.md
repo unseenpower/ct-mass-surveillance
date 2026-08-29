@@ -1,6 +1,6 @@
 # Facial recognition: every mention, every town
 
-_Generated 2026-08-29T12:19:53 — 78 mentions across 18 towns, 2021-11-09 to 2026-08-05._
+_Generated 2026-08-29T12:29:51 — 78 mentions across 18 towns, 2021-11-09 to 2026-08-05._
 
 
 Software that attempts to identify individuals by matching face images against a database.
@@ -40,7 +40,7 @@ _No human review has been applied to any mention in this file._
 | North Haven ⁽ⁿᵖ⁾ | **1** | · | 1 | 36% | 2025-09-29 | 2025-09-29 |
 | Rocky Hill ⁽ⁿᵖ⁾ | **1** | · | 1 | 47% | 2026-04-06 | 2026-04-06 |
 | [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2023-07-10 | 2023-07-10 |
-| Suffield ⁽ⁿᵖ⁾ | **1** | · | 1 | 89% | 2026-06-09 | 2026-06-09 |
+| [Suffield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/suffield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 89% | 2026-06-09 | 2026-06-09 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
