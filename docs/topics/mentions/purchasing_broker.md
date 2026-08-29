@@ -1,6 +1,6 @@
 # Purchasing / procurement: every mention, every town
 
-_Generated 2026-08-29T12:19:58 — 9 mentions across 4 towns, 2011-03-22 to 2026-04-20._
+_Generated 2026-08-29T12:29:57 — 10 mentions across 4 towns, 2011-03-22 to 2026-04-20._
 
 
 How surveillance equipment is bought: sole-source awards, grant funding, co-operative purchasing contracts and reseller arrangements that can bypass ordinary competitive bidding and the public votes that go with it.
@@ -25,8 +25,8 @@ _No human review has been applied to any mention in this file._
 | --- | --- | --- | --- | --- | --- | --- |
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 1 | 98% | 2011-03-22 | 2011-03-22 |
 | Guilford ⁽ⁿᵖ⁾ | **2** | · | 2 | 22% | 2025-10-20 | 2026-04-20 |
-| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 95% | 2025-06-26 | 2025-06-26 |
-| Sterling ⁽ⁿᵖ⁾ | **1** | · | 1 | 97% | 2026-02-11 | 2026-02-11 |
+| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **2** | 1 | 2 | 95% | 2022-12-14 | 2025-06-26 |
+| [Sterling](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/sterling/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2026-02-11 | 2026-02-11 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -70,11 +70,15 @@ _Most recent first within each town. Every line links to the exact second of the
   [Watch ▸](https://www.youtube.com/watch?v=7T4OxwX_Q5g&t=547s)  _(term: `purchasing_broker`)_
 
 
-### New Britain — 1 mention
+### New Britain — 2 mentions
 
 - **[2025-06-26] Common Council** — Common Council Regular Meeting
   > …we utilize for our firewalls. Um you'll actually see the following resolution is a CDWG um resolution for a UPS that equipment. If I would have you that…
   [Watch ▸](https://www.youtube.com/watch?v=1TL_61l6SI8&t=2615s)  _(term: `purchasing_broker`)_
+
+- **[2022-12-14] Common Council** — Common Council Regular Meeting Minutes - 2022-12-14
+  > …ore, the Acting Director of the Support Services Department, Facilities, IT and PSTC Divisions, is recommending that the bid be awarded for the Migration from Exchange to Google Workspace Services to Carahsoft Technology Corporation of Reston, VA who submitted lowest responsible bid and met all of the bid specifications for the Exchange to Google Workplace Services. The price for each year shall n…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=668&doc_id=a40baaa5-ac84-11ed-8145-0050569183fa)  _(agenda/minutes · term: `purchasing_broker`)_
 
 
 ### Sterling — 1 mention

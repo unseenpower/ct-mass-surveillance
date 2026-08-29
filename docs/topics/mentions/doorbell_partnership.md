@@ -1,6 +1,6 @@
 # Doorbell-camera partnerships: every mention, every town
 
-_Generated 2026-08-29T12:19:57 — 19 mentions across 9 towns, 2020-10-08 to 2026-08-17._
+_Generated 2026-08-29T12:29:56 — 19 mentions across 9 towns, 2020-10-08 to 2026-08-17._
 
 
 Formal partnerships between police departments and consumer doorbell-camera networks such as Ring.
@@ -25,7 +25,7 @@ _No human review has been applied to any mention in this file._
 | --- | --- | --- | --- | --- | --- | --- |
 | Berlin ⁽ⁿᵖ⁾ | **4** | · | 3 | 78% | 2024-02-21 | 2026-08-17 |
 | [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 94% | 2020-10-08 | 2023-10-12 |
-| Orange ⁽ⁿᵖ⁾ | **3** | · | 2 | 99% | 2025-08-26 | 2026-08-13 |
+| [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 99% | 2025-08-26 | 2026-08-13 |
 | [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 96% | 2022-08-16 | 2026-04-12 |
 | [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2022-04-25 | 2022-06-06 |
 | [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 98% | 2023-04-13 | 2023-04-13 |

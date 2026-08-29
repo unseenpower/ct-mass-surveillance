@@ -1,6 +1,6 @@
 # General surveillance: every mention, every town
 
-_Generated 2026-08-29T12:19:45 — 176 mentions across 36 towns, 2017-01-03 to 2026-08-18._
+_Generated 2026-08-29T12:29:40 — 176 mentions across 36 towns, 2017-01-03 to 2026-08-18._
 
 
 General discussion of surveillance, privacy and camera policy that is not specific to one technology.
@@ -44,7 +44,7 @@ _No human review has been applied to any mention in this file._
 | Seymour ⁽ⁿᵖ⁾ | **2** | · | 2 | 75% | 2021-01-08 | 2021-04-06 |
 | Stonington ⁽ⁿᵖ⁾ | **2** | · | 2 | 70% | 2021-02-23 | 2024-04-24 |
 | Wethersfield ⁽ⁿᵖ⁾ | **2** | · | 2 | 21% | 2024-04-24 | 2025-04-01 |
-| Ansonia ⁽ⁿᵖ⁾ | **1** | · | 1 | 96% | 2024-04-10 | 2024-04-10 |
+| [Ansonia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 96% | 2024-04-10 | 2024-04-10 |
 | Brooklyn ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-04-29 | 2026-04-29 |
 | Canton ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-06-01 | 2026-06-01 |
 | East Windsor ⁽ⁿᵖ⁾ | **1** | · | 1 | 36% | 2024-05-16 | 2024-05-16 |
@@ -55,7 +55,7 @@ _No human review has been applied to any mention in this file._
 | New Canaan ⁽ⁿᵖ⁾ | **1** | · | 1 | 29% | 2026-04-28 | 2026-04-28 |
 | North Branford ⁽ⁿᵖ⁾ | **1** | 1 | 1 | 29% | 2026-04-21 | 2026-04-21 |
 | North Haven ⁽ⁿᵖ⁾ | **1** | · | 1 | 36% | 2026-01-10 | 2026-01-10 |
-| Orange ⁽ⁿᵖ⁾ | **1** | · | 1 | 99% | 2025-06-26 | 2025-06-26 |
+| [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 99% | 2025-06-26 | 2025-06-26 |
 | Plymouth ⁽ⁿᵖ⁾ | **1** | · | 1 | 37% | 2024-01-10 | 2024-01-10 |
 | Rocky Hill ⁽ⁿᵖ⁾ | **1** | · | 1 | 47% | 2024-03-18 | 2024-03-18 |
 | Simsbury ⁽ⁿᵖ⁾ | **1** | · | 1 | 22% | 2024-09-10 | 2024-09-10 |

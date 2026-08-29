@@ -1,6 +1,6 @@
 # Computer-aided dispatch: every mention, every town
 
-_Generated 2026-08-29T12:19:59 — 2 mentions across 1 towns, 2020-06-03 to 2020-06-10._
+_Generated 2026-08-29T12:29:58 — 2 mentions across 1 towns, 2020-06-03 to 2020-06-10._
 
 
 > **These are unreviewed keyword matches, not verified claims.** Each receipt below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous — "drone" can mean a bee, "flock" a bird — and auto-captions mis-transcribe. **Follow the timestamped link and listen before citing anything here.**

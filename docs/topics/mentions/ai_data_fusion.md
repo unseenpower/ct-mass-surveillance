@@ -1,6 +1,6 @@
 # AI data fusion: every mention, every town
 
-_Generated 2026-08-29T12:19:59 — 1 mentions across 1 towns, 2026-03-16 to 2026-03-16._
+_Generated 2026-08-29T12:29:58 — 1 mentions across 1 towns, 2026-03-16 to 2026-03-16._
 
 
 Platforms that combine multiple data sources with AI analysis.

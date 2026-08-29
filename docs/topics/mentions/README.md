@@ -1,6 +1,6 @@
 # Surveillance topics: all towns, by technology
 
-_Generated 2026-08-29T12:19:59._
+_Generated 2026-08-29T12:29:58._
 
 
 Each file gathers every Connecticut town's mentions of one technology into a single document, with a timestamped link to the exact second of the meeting video for each. The [cross-town matrix](../../cross-town-matrix.md) is the count-only overview of the same data; the per-town reports under [`docs/towns/`](../../towns/) are the complete record for any one town.
@@ -18,8 +18,8 @@ _These files are generated automatically. No human review has been applied to an
 
 | Topic | Mentions | Towns |
 | --- | --- | --- |
-| [Drones](drone.md) | 1,548 | 77 |
-| [ALPR / Flock](alpr.md) | 1,440 | 66 |
+| [Drones](drone.md) | 1,549 | 77 |
+| [ALPR / Flock](alpr.md) | 1,441 | 66 |
 | [Body cameras](body_camera.md) | 256 | 39 |
 | [General surveillance](surveillance_general.md) | 176 | 36 |
 | [Predictive policing](predictive_policing.md) | 83 | 24 |
@@ -27,7 +27,7 @@ _These files are generated automatically. No human review has been applied to an
 | [Gunshot detection](gunshot_detection.md) | 60 | 3 |
 | [Real-time crime centres](rtcc.md) | 34 | 5 |
 | [Doorbell-camera partnerships](doorbell_partnership.md) | 19 | 9 |
-| [Purchasing / procurement](purchasing_broker.md) | 9 | 4 |
+| [Purchasing / procurement](purchasing_broker.md) | 10 | 4 |
 | [Other biometrics](biometrics_other.md) | 8 | 6 |
 | [Cell-site simulators](cell_site_sim.md) | 4 | 4 |
 | [Computer-aided dispatch](cad.md) | 2 | 1 |

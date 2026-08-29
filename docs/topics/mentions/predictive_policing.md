@@ -1,6 +1,6 @@
 # Predictive policing: every mention, every town
 
-_Generated 2026-08-29T12:19:50 — 83 mentions across 24 towns, 2012-08-22 to 2026-07-20._
+_Generated 2026-08-29T12:29:46 — 83 mentions across 24 towns, 2012-08-22 to 2026-07-20._
 
 
 Systems that attempt to forecast where crime will occur or who will be involved.
@@ -27,7 +27,7 @@ _No human review has been applied to any mention in this file._
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 6 | 98% | 2018-10-03 | 2026-07-16 |
 | Killingly ⁽ⁿᵖ⁾ | **6** | · | 4 | 64% | 2024-04-09 | 2026-05-12 |
 | Norwich ⁽ⁿᵖ⁾ | **6** | · | 6 | 53% | 2024-10-22 | 2026-02-02 |
-| Ansonia ⁽ⁿᵖ⁾ | **4** | · | 4 | 96% | 2020-07-07 | 2025-02-12 |
+| [Ansonia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 96% | 2020-07-07 | 2025-02-12 |
 | Darien ⁽ⁿᵖ⁾ | **4** | · | 2 | 33% | 2024-10-15 | 2024-12-17 |
 | [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 1 | 99% | 2025-03-18 | 2025-03-18 |
 | Groton ⁽ⁿᵖ⁾ | **3** | · | 3 | 43% | 2023-04-11 | 2025-06-24 |
@@ -42,7 +42,7 @@ _No human review has been applied to any mention in this file._
 | Bethany ⁽ⁿᵖ⁾ | **1** | · | 1 | 70% | 2026-05-06 | 2026-05-06 |
 | Bloomfield ⁽ⁿᵖ⁾ | **1** | · | 1 | 20% | 2018-09-11 | 2018-09-11 |
 | [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 94% | 2023-06-26 | 2023-06-26 |
-| Griswold ⁽ⁿᵖ⁾ | **1** | · | 1 | 86% | 2024-09-25 | 2024-09-25 |
+| [Griswold](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/griswold/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 86% | 2024-09-25 | 2024-09-25 |
 | Guilford ⁽ⁿᵖ⁾ | **1** | · | 1 | 22% | 2025-09-08 | 2025-09-08 |
 | Killingworth ⁽ⁿᵖ⁾ | **1** | · | 1 | 71% | 2026-07-20 | 2026-07-20 |
 | Mansfield ⁽ⁿᵖ⁾ | **1** | · | 1 | 28% | 2026-06-22 | 2026-06-22 |
