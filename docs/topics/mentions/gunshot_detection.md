@@ -1,6 +1,6 @@
 # Gunshot detection: every mention, every town
 
-_Generated 2026-08-28T07:34:50 — 55 mentions across 2 towns, 2019-05-07 to 2026-05-19._
+_Generated 2026-08-29T12:19:55 — 60 mentions across 3 towns, 2019-05-07 to 2026-08-05._
 
 
 Acoustic sensor networks, such as ShotSpotter, that attempt to detect and locate gunfire.
@@ -9,6 +9,8 @@ Acoustic sensor networks, such as ShotSpotter, that attempt to detect and locate
 > **These are unreviewed keyword matches, not verified claims.** Each receipt below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous — "drone" can mean a bee, "flock" a bird — and auto-captions mis-transcribe. **Follow the timestamped link and listen before citing anything here.**
 >
 > **A town appearing with few mentions, or not appearing at all, is not evidence that it has avoided this technology.** It far more often means that town's meeting backlog has not been downloaded yet, its meetings are not captioned, or its video archive lives on a platform this pipeline cannot read. The coverage figure beside each town is the share of its known meetings actually transcribed — read it first.
+>
+> Mentions come from two kinds of source. Most are meeting **transcripts** (auto-generated captions). Some are published **agenda or minutes documents**, marked `agenda/minutes` on the receipt and counted in the "From agendas" column — those are the town's own papers rather than a machine transcription of speech.
 
 
 _No human review has been applied to any mention in this file._
@@ -19,17 +21,26 @@ _No human review has been applied to any mention in this file._
 
 ## Towns, by volume
 
-| Town | Mentions | Meetings | Coverage | First | Most recent |
-| --- | --- | --- | --- | --- | --- |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **47** | 7 | 91% | 2020-07-06 | 2026-05-19 |
-| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **8** | 2 | 96% | 2019-05-07 | 2024-04-16 |
+| Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
+| --- | --- | --- | --- | --- | --- | --- |
+| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **51** | 4 | 11 | 91% | 2020-05-20 | 2026-07-06 |
+| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 2 | 96% | 2019-05-07 | 2024-04-16 |
+| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 95% | 2026-08-05 | 2026-08-05 |
 
 ## Receipts
 
 _Most recent first within each town. Every line links to the exact second of the meeting video._
 
 
-### New Haven — 47 mentions
+### New Haven — 51 mentions
+
+- **[2026-07-06] Board of Alders** — Board of Alders Agenda - 2026-07-06
+  > …Safety. Favorable. a. Order of the Board of Alders of the City of New Haven authorizing the Mayor of the City of New Haven to enter into a five-year agreement with SoundThinking, Inc., for an annual ShotSpotter subscription in the amount of Two Million, Eighty-Four Thousand, Four Hundred And Thirty-One Dollars ($2,084,431.00) to provide a gunfire detection system and software. b. Order of the Bo…
+  [Open document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2026/7/4832_A_Board_of_Alders_26-07-06_Meeting_Agenda.pdf)  _(agenda/minutes · term: `gunshot_detection`)_
+
+- **[2026-06-01] Board of Alders** — Board of Alders Agenda - 2026-06-01
+  > …n has already been taken by BOA REPORT: 1682-14 RE: ORDER OF THE BOARD OF ALDERS Authorizing the Mayor of The City of New Haven to Enter into A Five-Year Agreement with Soundthinking, Inc. For Annual ShotSpotter Subscription, in the Amount of Two Million, Eighty-Four Thousand, Four Hundred and Thirty-One Dollars ($2,084,431.00) to provide the Gunfire Detection System/Software. Submitted by: Acting…
+  [Open document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2026/6/4820_A_Board_of_Alders_26-06-01_Meeting_Agenda.pdf)  _(agenda/minutes · term: `gunshot_detection`)_
 
 - **[2026-05-19] Public Safety Committee** — BoA Public Safety Committee 5/19/2026
   > …of New Haven to enter into a five-year agreement with ShotSpotter, Inc. for annual ShotSpotter subscription in the amount of…
@@ -71,16 +82,8 @@ _Most recent first within each town. Every line links to the exact second of the
   > …about this last meeting, but one of the biggest values when it comes to ShotSpotter is that officers know exactly where to go immediately, right? So, we talk about our solvability rates…
   [Watch ▸](https://www.youtube.com/watch?v=wDg9WCWvuqI&t=775s)  _(term: `gunshot_detection`)_
 
-- **[2026-05-19] Public Safety Committee** — BoA Public Safety Committee 5/19/2026
-  > …I'm just curious. So, ShotSpotter, the main monitoring system goes directly to the…
-  [Watch ▸](https://www.youtube.com/watch?v=wDg9WCWvuqI&t=856s)  _(term: `gunshot_detection`)_
 
-- **[2026-05-19] Public Safety Committee** — BoA Public Safety Committee 5/19/2026
-  > …Um and it's dispatched out. Um and we get a lot of information just immediately from ShotSpotter. So, the officers have apps as well on their phone which show them exactly how many…
-  [Watch ▸](https://www.youtube.com/watch?v=wDg9WCWvuqI&t=909s)  _(term: `gunshot_detection`)_
-
-
-_35 further mentions in New Haven not shown here — all of them are in [New Haven's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)._
+_39 further mentions in New Haven not shown here — all of them are in [New Haven's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Hartford — 8 mentions
@@ -116,4 +119,11 @@ _35 further mentions in New Haven not shown here — all of them are in [New Hav
 - **[2019-05-07] Operation, Management, Budget & Government Accountability Committee** — City of Hartford FY 2019-2020 Recommended Budget Hearing May 07, 2019
   > …overall budget yeah give or take yeah alright do you support the help to support the ShotSpotter infrastructure were HPD yes yeah what analysis do you run for them we basically look at it at…
   [Watch ▸](https://www.youtube.com/watch?v=gCUpvCyqmYY&t=3952s)  _(term: `gunshot_detection`)_
+
+
+### East Lyme — 1 mention
+
+- **[2026-08-05] Board of Selectmen** — Board of Selectmen Minutes - 2026-08-05
+  > …; (e) biometric surveillance technology, including facial, voice, iris, and gait-recognition software and databases; (f) mobile DNA capture technology; (g) gunshot detection and location hardware and services; (h) x-ray vans; (i) video and audio monitoring or recording technology, such as surveillance cameras,…
+  [Open document ▸](https://eltownhall.com/wp-content/uploads/2026/08/BOS-August-5-2026-Minutes.pdf)  _(agenda/minutes · term: `gunshot_detection`)_
 

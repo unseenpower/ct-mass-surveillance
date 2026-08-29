@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: West Hartford
 
 
-_Generated 2026-08-27T17:53:42 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "West Hartford"`_
+_Generated 2026-08-29T10:21:28 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "West Hartford"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T17:53:42 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 1
 - Active meeting bodies: 8
 - Videos registered: 819 (fetched: 760, no captions: 50)
-- Date range covered: 2012-09-18 to 2026-09-22 — **based on the 694 of 819 videos that carry a parseable upload date**; the other 125 are undated, so the real corpus may extend beyond this range in either direction
+- Date range covered: 2012-09-18 to 2026-09-22 — **based on the 811 of 819 videos that carry a parseable upload date**; the other 8 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -23,8 +23,8 @@ _Generated 2026-08-27T17:53:42 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| whci | streams | 2026-08-27 17:25:55.024586 | 3756 |
-| whci | videos | 2026-08-27 17:26:26.190076 | 2467 |
+| whci | streams | 2026-08-29 08:18:13.190771 | 3757 |
+| whci | videos | 2026-08-29 08:18:41.807828 | 2469 |
 
 
 ## Registered meeting bodies
@@ -58,7 +58,7 @@ _Generated 2026-08-27T17:53:42 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ## Timeline
 
-55 meetings surfaced a finding (54 dated, spanning 2017-03-29 to 2026-08-04; 1 of unknown date, listed last).
+55 meetings surfaced a finding (55 dated, spanning 2017-03-29 to 2026-08-04; 0 of unknown date, listed last).
 
 
 ### 2017-03-29 -- Board of Education
@@ -183,6 +183,19 @@ _Generated 2026-08-27T17:53:42 -- regenerate with `.venv/bin/python3 analysis/ge
 - `drone` [▸](https://www.youtube.com/watch?v=_GH7XbMf8U0&t=4308s)  > ...weeks with the direction from the town manager we've utilized uh we expanded and started utilizing our drone uh to again a force multiplier so we can see what's going on and see who's dumping...
 
 - `drone` [▸](https://www.youtube.com/watch?v=_GH7XbMf8U0&t=4318s)  > ...what's going on and see who's dumping trash uh we actually it was a fight that was going to occur we had the drone that was up for officers can go in and prevented that fight...
+
+
+### 2021-08-18 -- (unassigned body)
+
+**Community Conversation: Public Safety Forum** _(topics: body_camera, drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=579s)  > ...to refine and improve them the chief will also talk about some of our newer strategies such as our drone and our video sharing program in addition i want to emphasize and i...
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=1340s)  > ...hartford since approximately 2013. uh we have currently selected a vendor axon for our body cam and for our new uh dash cams that will be implemented and we are currently in the funding phase...
+
+- `drone` [▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=1595s)  > ...safe so everyone can enjoy themselves over the evening hours most recently we've utilized a drone that gives us overall coverage again force multiplier not big brother but a...
+
+- `drone` [▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=1612s)  > ...more territory you know about three weeks ago uh under having the drone up we're able to see a fight that was starting and deploy resources there to prevent that fight...
 
 
 ### 2021-09-21 -- Board of Education
@@ -597,19 +610,6 @@ _Generated 2026-08-27T17:53:42 -- regenerate with `.venv/bin/python3 analysis/ge
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=5179s)  > ...have to go before a judge and secure a judicial\h warrant, serve that warrant to the data owner,\h\h which would be West Hartford in this case, and\h then they would have to choose whether or whether\h\h or not to comply. It takes flock, it takes\h the private side out of it completely.\h\h Uh but that is how the process will\h work once SP 397 goes into effect.\h\h Yeah. Okay. That's what I just ...
 
 
-### date unknown -- (unassigned body)
-
-**Community Conversation: Public Safety Forum** _(topics: body_camera, drone)_
-
-- `drone` [▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=579s)  > ...to refine and improve them the chief will also talk about some of our newer strategies such as our drone and our video sharing program in addition i want to emphasize and i...
-
-- `body_camera` [▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=1340s)  > ...hartford since approximately 2013. uh we have currently selected a vendor axon for our body cam and for our new uh dash cams that will be implemented and we are currently in the funding phase...
-
-- `drone` [▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=1595s)  > ...safe so everyone can enjoy themselves over the evening hours most recently we've utilized a drone that gives us overall coverage again force multiplier not big brother but a...
-
-- `drone` [▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=1612s)  > ...more territory you know about three weeks ago uh under having the drone up we're able to see a fight that was starting and deploy resources there to prevent that fight...
-
-
 ## Findings by topic
 
 
@@ -908,6 +908,10 @@ _Generated 2026-08-27T17:53:42 -- regenerate with `.venv/bin/python3 analysis/ge
   > ...secondly uh today we had representatives from axon if you recall we have the axon body cam system our body cams have been distributed throughout the police department today's installation dealt...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Je5LCHKewsU&t=1908s)  _(term: body_camera, unreviewed)_
 
+- **[2021-08-18] (unassigned body)** -- Community Conversation: Public Safety Forum
+  > ...hartford since approximately 2013. uh we have currently selected a vendor axon for our body cam and for our new uh dash cams that will be implemented and we are currently in the funding phase...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=1340s)  _(term: body_camera, unreviewed)_
+
 - **[2021-05-05] (unassigned body)** -- West Hartford Public Safety Standing Committee Virtual Meeting of May 5, 2021
   > ...force report that comes through was reviewed by training uh whether we have the body cam whether it's on the dash cams so that goes through and every report is...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TlNxg4Aqc1c&t=6610s)  _(term: body_camera, unreviewed)_
@@ -923,10 +927,6 @@ _Generated 2026-08-27T17:53:42 -- regenerate with `.venv/bin/python3 analysis/ge
 - **[2020-07-08] (unassigned body)** -- Virtual Public Safety Commission Meeting of July 8, 2020
   > ...through you madam chair I couldn't answer that question I'm not sure there's a Nexus between a body Cam and recruitment I think there's other factors that are...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZMbq7Y6RxcM&t=2765s)  _(term: body_camera, unreviewed)_
-
-- **[date unknown] (unassigned body)** -- Community Conversation: Public Safety Forum
-  > ...hartford since approximately 2013. uh we have currently selected a vendor axon for our body cam and for our new uh dash cams that will be implemented and we are currently in the funding phase...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=1340s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -1087,6 +1087,18 @@ _Generated 2026-08-27T17:53:42 -- regenerate with `.venv/bin/python3 analysis/ge
   > ...drone flying over all high school today i'm telling you it was amazing actually we can have density send us drone over and take film um i think i'm glad you bring it up because...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=HAd7M7SBK4Q&t=4252s)  _(term: drone, unreviewed)_
 
+- **[2021-08-18] (unassigned body)** -- Community Conversation: Public Safety Forum
+  > ...to refine and improve them the chief will also talk about some of our newer strategies such as our drone and our video sharing program in addition i want to emphasize and i...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=579s)  _(term: drone, unreviewed)_
+
+- **[2021-08-18] (unassigned body)** -- Community Conversation: Public Safety Forum
+  > ...safe so everyone can enjoy themselves over the evening hours most recently we've utilized a drone that gives us overall coverage again force multiplier not big brother but a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=1595s)  _(term: drone, unreviewed)_
+
+- **[2021-08-18] (unassigned body)** -- Community Conversation: Public Safety Forum
+  > ...more territory you know about three weeks ago uh under having the drone up we're able to see a fight that was starting and deploy resources there to prevent that fight...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=1612s)  _(term: drone, unreviewed)_
+
 - **[2021-08-12] (unassigned body)** -- West Hartford Public Safety Standing Committee Virtual Meeting of August 12, 2021
   > ...what's going on and see who's dumping trash uh we actually it was a fight that was going to occur we had the drone that was up for officers can go in and prevented that fight...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_GH7XbMf8U0&t=4318s)  _(term: drone, unreviewed)_
@@ -1167,18 +1179,6 @@ _Generated 2026-08-27T17:53:42 -- regenerate with `.venv/bin/python3 analysis/ge
   > ...it teaches us diversity our unified art classes are very important for many reasons uas or unified Arts are twice a day so you really get to know the people in your group and make new friends some...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=oTsmNOE9jyg&t=5805s)  _(term: drone, unreviewed)_
 
-- **[date unknown] (unassigned body)** -- Community Conversation: Public Safety Forum
-  > ...to refine and improve them the chief will also talk about some of our newer strategies such as our drone and our video sharing program in addition i want to emphasize and i...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=579s)  _(term: drone, unreviewed)_
-
-- **[date unknown] (unassigned body)** -- Community Conversation: Public Safety Forum
-  > ...safe so everyone can enjoy themselves over the evening hours most recently we've utilized a drone that gives us overall coverage again force multiplier not big brother but a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=1595s)  _(term: drone, unreviewed)_
-
-- **[date unknown] (unassigned body)** -- Community Conversation: Public Safety Forum
-  > ...more territory you know about three weeks ago uh under having the drone up we're able to see a fight that was starting and deploy resources there to prevent that fight...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=s-tBpRkUkjI&t=1612s)  _(term: drone, unreviewed)_
-
 
 ### facial_recognition
 
@@ -1254,8 +1254,8 @@ _Generated 2026-08-27T17:53:42 -- regenerate with `.venv/bin/python3 analysis/ge
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 82 (fetched: 0)
-- Date range covered: 2026-01-06 to 2026-08-26
+- Documents registered: 83 (fetched: 0)
+- Date range covered: 2026-01-06 to 2026-09-01
 
 
 ### Agenda sources

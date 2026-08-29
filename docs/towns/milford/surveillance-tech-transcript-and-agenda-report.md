@@ -1,15 +1,15 @@
 # Surveillance-tech transcript report: Milford
 
 
-_Generated 2026-08-27T17:52:16 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Milford"`_
+_Generated 2026-08-29T10:18:20 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Milford"`_
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 7
-- Videos registered: 344 (fetched: 327, no captions: 16)
-- Date range covered: 2015-01-05 to 2026-08-03 — **based on the 323 of 344 videos that carry a parseable upload date**; the other 21 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 345 (fetched: 327, no captions: 17)
+- Date range covered: 2015-01-05 to 2026-08-27 (all 345 videos dated)
 
 
 ### Channels
@@ -23,8 +23,8 @@ _Generated 2026-08-27T17:52:16 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| mgat | streams | 2026-08-27 12:15:49.796022 | 513 |
-| mgat | videos | 2026-08-27 12:15:55.041445 | 389 |
+| mgat | streams | 2026-08-29 08:35:36.887716 | 514 |
+| mgat | videos | 2026-08-29 08:35:41.838393 | 389 |
 
 
 ## Registered meeting bodies
@@ -32,7 +32,7 @@ _Generated 2026-08-27T17:52:16 -- regenerate with `.venv/bin/python3 analysis/ge
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 74 |
-| Board of Aldermen | council | True | 205 |
+| Board of Aldermen | council | True | 206 |
 | Board of Education | education | True | 64 |
 | Ordinance Committee | other | True | 0 |
 | Public Works Committee | other | True | 0 |
@@ -2009,7 +2009,7 @@ _Generated 2026-08-27T17:52:16 -- regenerate with `.venv/bin/python3 analysis/ge
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 123 (fetched: 101)
+- Documents registered: 124 (fetched: 102)
 - Date range covered: 2026-01-05 to 2026-08-31
 
 
@@ -2168,10 +2168,11 @@ questioned the lower training costs and whether officers rece...
 ## Gaps and caveats
 
 
-### Videos with no captions available (16 shown, max 25)
+### Videos with no captions available (17 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Board of Aldermen Special Meeting 08/27/2026 | 2026-08-27 |
 | Board Of Aldermen 05/13/2024 Budget Hearing  Vote FY 24-25 | 2024-05-13 |
 | Board Of Aldermen 05/13/2024 Budget Hearing  Vote FY 24-25 | 2024-05-13 |
 | Board Of Aldermen 04/29/2024 Budget Hearing FY 24-25 | 2024-04-29 |

@@ -1,6 +1,6 @@
 # Real-time crime centres: every mention, every town
 
-_Generated 2026-08-28T07:34:50 — 34 mentions across 5 towns, 2022-06-02 to 2026-07-23._
+_Generated 2026-08-29T12:19:55 — 34 mentions across 5 towns, 2021-11-23 to 2026-07-23._
 
 
 Real-time crime centres — control rooms that fuse many camera and data feeds into one live operational picture, often via platforms such as Axon's Fusus.
@@ -9,6 +9,8 @@ Real-time crime centres — control rooms that fuse many camera and data feeds i
 > **These are unreviewed keyword matches, not verified claims.** Each receipt below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous — "drone" can mean a bee, "flock" a bird — and auto-captions mis-transcribe. **Follow the timestamped link and listen before citing anything here.**
 >
 > **A town appearing with few mentions, or not appearing at all, is not evidence that it has avoided this technology.** It far more often means that town's meeting backlog has not been downloaded yet, its meetings are not captioned, or its video archive lives on a platform this pipeline cannot read. The coverage figure beside each town is the share of its known meetings actually transcribed — read it first.
+>
+> Mentions come from two kinds of source. Most are meeting **transcripts** (auto-generated captions). Some are published **agenda or minutes documents**, marked `agenda/minutes` on the receipt and counted in the "From agendas" column — those are the town's own papers rather than a machine transcription of speech.
 
 
 _No human review has been applied to any mention in this file._
@@ -19,13 +21,13 @@ _No human review has been applied to any mention in this file._
 
 ## Towns, by volume
 
-| Town | Mentions | Meetings | Coverage | First | Most recent |
-| --- | --- | --- | --- | --- | --- |
-| [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **13** | 11 | 85% | 2022-06-02 | 2026-07-23 |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **11** | 7 | 91% | 2023-08-15 | 2026-05-19 |
-| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **4** | 4 | 98% | 2023-11-15 | 2026-04-07 |
-| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **4** | 2 | 96% | 2024-04-16 | 2024-10-10 |
-| [Bridgeport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | **2** | 1 | 90% | — | — |
+| Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **13** | · | 11 | 85% | 2022-06-02 | 2026-07-23 |
+| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 7 | 91% | 2021-11-23 | 2026-05-19 |
+| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 98% | 2023-11-15 | 2026-04-07 |
+| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 96% | 2024-04-16 | 2024-10-10 |
+| [Bridgeport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 90% | 2026-05-02 | 2026-05-02 |
 
 ## Receipts
 
@@ -128,7 +130,7 @@ _1 further mention in Waterbury not shown here — all of them are in [Waterbury
   > …So today we're going to continue our response operations is a real-time crime Center cloud-based software solution which unifies all in all video levels and Technology systems…
   [Watch ▸](https://www.youtube.com/watch?v=RX7uzCOh0o0&t=3251s)  _(term: `rtcc`)_
 
-- **[date unknown] Board of Alders** — Board of Alders - Aldermanic Affairs Committee
+- **[2021-11-23] Board of Alders** — Board of Alders - Aldermanic Affairs Committee
   > …of the Connecticut Intelligence Center and during that time I visited the um realtime crime Center of with Harford police department and um so they explained fully how they use uh their…
   [Watch ▸](https://www.youtube.com/watch?v=z9omUd-OuMw&t=5520s)  _(term: `rtcc`)_
 
@@ -173,11 +175,11 @@ _1 further mention in Waterbury not shown here — all of them are in [Waterbury
 
 ### Bridgeport — 2 mentions
 
-- **[date unknown] Budget and Appropriations Committee** — 04.30. 2026 Budget & Appropriations Committee Meeting
+- **[2026-05-02] Budget and Appropriations Committee** — 04.30. 2026 Budget & Appropriations Committee Meeting
   > …as as my normal day job. Um but then u Melody comes in with when it comes to our real time crime center. So we'll talk about some of that. We have an an unfortunate expense that…
   [Watch ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5316s)  _(term: `rtcc`)_
 
-- **[date unknown] Budget and Appropriations Committee** — 04.30. 2026 Budget & Appropriations Committee Meeting
+- **[2026-05-02] Budget and Appropriations Committee** — 04.30. 2026 Budget & Appropriations Committee Meeting
   > …>> Okay. I mean I can explain some of this to you if you want but for that. So for real time crime center I'll turn it over to Melanie. >> Before Melanie goes I just wanted to…
   [Watch ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5584s)  _(term: `rtcc`)_
 

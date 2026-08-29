@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Ledyard
 
 
-_Generated 2026-08-27T17:52:06 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ledyard"`_
+_Generated 2026-08-29T10:17:55 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ledyard"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T17:52:06 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 1
 - Active meeting bodies: 7
 - Videos registered: 272 (fetched: 254, no captions: 13)
-- Date range covered: 2011-07-30 to 2023-06-29 — **based on the 243 of 272 videos that carry a parseable upload date**; the other 29 are undated, so the real corpus may extend beyond this range in either direction
+- Date range covered: 2011-07-30 to 2023-06-29 — **based on the 271 of 272 videos that carry a parseable upload date**; the other 1 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -23,8 +23,8 @@ _Generated 2026-08-27T17:52:06 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| ledyard_ct | streams | 2026-08-27 10:27:34.676008 | 18 |
-| ledyard_ct | videos | 2026-08-27 10:27:42.281518 | 562 |
+| ledyard_ct | streams | 2026-08-29 09:11:32.477867 | 18 |
+| ledyard_ct | videos | 2026-08-29 09:11:39.706638 | 562 |
 
 
 ## Registered meeting bodies
@@ -227,7 +227,7 @@ _Generated 2026-08-27T17:52:06 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | source_id | platform | base_url | status |
 | --- | --- | --- | --- |
-| ledyard_granicus | granicus | https://ledyardct.granicus.com/boards/ | unconfirmed |
+| ledyard_granicus | granicus | https://ledyardct.granicus.com/boards/ | blocked |
 
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)

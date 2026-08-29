@@ -1,15 +1,15 @@
 # Surveillance-tech transcript report: Brookfield
 
 
-_Generated 2026-08-27T17:50:57 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Brookfield"`_
+_Generated 2026-08-29T10:15:30 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Brookfield"`_
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 8
-- Videos registered: 529 (fetched: 497, no captions: 12)
-- Date range covered: 2018-05-15 to 2026-08-24 (all 529 videos dated)
+- Videos registered: 530 (fetched: 498, no captions: 12)
+- Date range covered: 2018-05-15 to 2026-08-27 (all 530 videos dated)
 
 
 ### Channels
@@ -23,8 +23,8 @@ _Generated 2026-08-27T17:50:57 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| brookfield_ct | streams | 2026-08-27 10:21:09.864368 | 668 |
-| brookfield_ct | videos | 2026-08-27 10:21:11.697839 | 100 |
+| brookfield_ct | streams | 2026-08-29 09:00:59.249340 | 669 |
+| brookfield_ct | videos | 2026-08-29 09:01:01.093116 | 100 |
 
 
 ## Registered meeting bodies
@@ -35,7 +35,7 @@ _Generated 2026-08-27T17:50:57 -- regenerate with `.venv/bin/python3 analysis/ge
 | Board of Selectmen | council | True | 74 |
 | Inland Wetlands Commission | other | True | 104 |
 | Planning Commission | other | True | 65 |
-| Planning and Zoning Commission | other | True | 13 |
+| Planning and Zoning Commission | other | True | 14 |
 | Zoning Board of Appeals | other | True | 59 |
 | Zoning Commission | other | True | 100 |
 | Police Commission | public_safety | True | 1 |

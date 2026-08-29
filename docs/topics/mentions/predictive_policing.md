@@ -1,6 +1,6 @@
 # Predictive policing: every mention, every town
 
-_Generated 2026-08-28T07:34:48 — 76 mentions across 23 towns, 2012-08-22 to 2026-07-20._
+_Generated 2026-08-29T12:19:50 — 83 mentions across 24 towns, 2012-08-22 to 2026-07-20._
 
 
 Systems that attempt to forecast where crime will occur or who will be involved.
@@ -9,6 +9,8 @@ Systems that attempt to forecast where crime will occur or who will be involved.
 > **These are unreviewed keyword matches, not verified claims.** Each receipt below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous — "drone" can mean a bee, "flock" a bird — and auto-captions mis-transcribe. **Follow the timestamped link and listen before citing anything here.**
 >
 > **A town appearing with few mentions, or not appearing at all, is not evidence that it has avoided this technology.** It far more often means that town's meeting backlog has not been downloaded yet, its meetings are not captioned, or its video archive lives on a platform this pipeline cannot read. The coverage figure beside each town is the share of its known meetings actually transcribed — read it first.
+>
+> Mentions come from two kinds of source. Most are meeting **transcripts** (auto-generated captions). Some are published **agenda or minutes documents**, marked `agenda/minutes` on the receipt and counted in the "From agendas" column — those are the town's own papers rather than a machine transcription of speech.
 
 
 _No human review has been applied to any mention in this file._
@@ -19,31 +21,32 @@ _No human review has been applied to any mention in this file._
 
 ## Towns, by volume
 
-| Town | Mentions | Meetings | Coverage | First | Most recent |
-| --- | --- | --- | --- | --- | --- |
-| Rocky Hill ⁽ⁿᵖ⁾ | **22** | 10 | 36% | 2022-11-22 | 2026-07-02 |
-| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **11** | 6 | 98% | 2018-10-03 | 2026-07-16 |
-| Norwich ⁽ⁿᵖ⁾ | **5** | 5 | 32% | 2025-02-03 | 2026-02-02 |
-| Ansonia ⁽ⁿᵖ⁾ | **4** | 4 | 96% | 2020-07-07 | 2023-09-13 |
-| Darien ⁽ⁿᵖ⁾ | **4** | 2 | 33% | 2024-10-15 | 2024-12-17 |
-| [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | **3** | 1 | 99% | 2025-03-18 | 2025-03-18 |
-| Groton ⁽ⁿᵖ⁾ | **3** | 3 | 41% | 2023-04-11 | 2025-06-24 |
-| [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | **3** | 2 | 98% | 2026-03-16 | 2026-04-06 |
-| Stonington ⁽ⁿᵖ⁾ | **3** | 3 | 70% | 2020-05-07 | 2026-03-04 |
-| Farmington ⁽ⁿᵖ⁾ | **2** | 1 | 38% | 2024-11-18 | 2024-11-18 |
-| Killingly ⁽ⁿᵖ⁾ | **2** | 1 | 29% | 2026-05-12 | 2026-05-12 |
-| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 93% | 2012-08-22 | 2013-06-30 |
-| New Milford ⁽ⁿᵖ⁾ | **2** | 2 | 39% | 2020-02-28 | 2026-05-11 |
-| Andover ⁽ⁿᵖ⁾ | **1** | 1 | 24% | 2025-11-19 | 2025-11-19 |
-| Ashford ⁽ⁿᵖ⁾ | **1** | 1 | 33% | 2020-05-29 | 2020-05-29 |
-| Bethany ⁽ⁿᵖ⁾ | **1** | 1 | 47% | 2026-05-06 | 2026-05-06 |
-| Bloomfield ⁽ⁿᵖ⁾ | **1** | 1 | 20% | 2018-09-11 | 2018-09-11 |
-| [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 94% | 2023-06-26 | 2023-06-26 |
-| Griswold ⁽ⁿᵖ⁾ | **1** | 1 | 65% | 2024-09-25 | 2024-09-25 |
-| Guilford ⁽ⁿᵖ⁾ | **1** | 1 | 7% | 2025-09-08 | 2025-09-08 |
-| Killingworth ⁽ⁿᵖ⁾ | **1** | 1 | 71% | 2026-07-20 | 2026-07-20 |
-| Mansfield ⁽ⁿᵖ⁾ | **1** | 1 | 7% | 2026-06-22 | 2026-06-22 |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 91% | 2026-06-30 | 2026-06-30 |
+| Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
+| --- | --- | --- | --- | --- | --- | --- |
+| Rocky Hill ⁽ⁿᵖ⁾ | **22** | · | 10 | 47% | 2022-11-22 | 2026-07-02 |
+| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 6 | 98% | 2018-10-03 | 2026-07-16 |
+| Killingly ⁽ⁿᵖ⁾ | **6** | · | 4 | 64% | 2024-04-09 | 2026-05-12 |
+| Norwich ⁽ⁿᵖ⁾ | **6** | · | 6 | 53% | 2024-10-22 | 2026-02-02 |
+| Ansonia ⁽ⁿᵖ⁾ | **4** | · | 4 | 96% | 2020-07-07 | 2025-02-12 |
+| Darien ⁽ⁿᵖ⁾ | **4** | · | 2 | 33% | 2024-10-15 | 2024-12-17 |
+| [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 1 | 99% | 2025-03-18 | 2025-03-18 |
+| Groton ⁽ⁿᵖ⁾ | **3** | · | 3 | 43% | 2023-04-11 | 2025-06-24 |
+| [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 98% | 2026-03-16 | 2026-04-06 |
+| Stonington ⁽ⁿᵖ⁾ | **3** | · | 3 | 70% | 2020-05-07 | 2026-03-04 |
+| East Hampton ⁽ⁿᵖ⁾ | **2** | 2 | 2 | 55% | 2026-01-13 | 2026-05-06 |
+| Farmington ⁽ⁿᵖ⁾ | **2** | · | 1 | 38% | 2024-11-18 | 2024-11-18 |
+| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 93% | 2012-08-22 | 2013-06-30 |
+| New Milford ⁽ⁿᵖ⁾ | **2** | · | 2 | 39% | 2020-02-28 | 2026-05-11 |
+| Andover ⁽ⁿᵖ⁾ | **1** | · | 1 | 39% | 2025-11-19 | 2025-11-19 |
+| Ashford ⁽ⁿᵖ⁾ | **1** | · | 1 | 33% | 2020-05-29 | 2020-05-29 |
+| Bethany ⁽ⁿᵖ⁾ | **1** | · | 1 | 70% | 2026-05-06 | 2026-05-06 |
+| Bloomfield ⁽ⁿᵖ⁾ | **1** | · | 1 | 20% | 2018-09-11 | 2018-09-11 |
+| [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 94% | 2023-06-26 | 2023-06-26 |
+| Griswold ⁽ⁿᵖ⁾ | **1** | · | 1 | 86% | 2024-09-25 | 2024-09-25 |
+| Guilford ⁽ⁿᵖ⁾ | **1** | · | 1 | 22% | 2025-09-08 | 2025-09-08 |
+| Killingworth ⁽ⁿᵖ⁾ | **1** | · | 1 | 71% | 2026-07-20 | 2026-07-20 |
+| Mansfield ⁽ⁿᵖ⁾ | **1** | · | 1 | 28% | 2026-06-22 | 2026-06-22 |
+| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 91% | 2026-06-30 | 2026-06-30 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -154,7 +157,34 @@ _10 further mentions in Rocky Hill not shown here — all of them are in Rocky H
   [Watch ▸](https://www.youtube.com/watch?v=IOygqmx5s6Y&t=1834s)  _(term: `predictive_policing`)_
 
 
-### Norwich — 5 mentions
+### Killingly — 6 mentions
+
+- **[2026-05-12] Town Council** — Killingly Town Council Meeting - May 12, 2026 (Part 2 of 2)
+  > …um some addition of handicap spaces, handicap parking, and some work in the uh what used to be the foundry building site. Take my glasses off maybe. I don't know.…
+  [Watch ▸](https://www.youtube.com/watch?v=ej9zkuLW1rE&t=2357s)  _(term: `predictive_policing`)_
+
+- **[2026-05-12] Town Council** — Killingly Town Council Meeting - May 12, 2026 (Part 2 of 2)
+  > …in the uh grant amount to award alternate one which is some continued plantins and improvements to the foundry building lot again for some plantins and some pavers and kind of a picnic area…
+  [Watch ▸](https://www.youtube.com/watch?v=ej9zkuLW1rE&t=2379s)  _(term: `predictive_policing`)_
+
+- **[2024-10-21] Planning & Zoning Commission** — Killingly Planning & Zoning Commission   10-21-2024 Regular Meeting
+  > …very soon and they will begin at the first at the furnace Street connection point and the former Foundry building was demolished and the underground oil tanks were…
+  [Watch ▸](https://www.youtube.com/watch?v=JW-nICWA5So&t=4228s)  _(term: `predictive_policing`)_
+
+- **[2024-10-08] Town Council** — Town Council   Regular Meeting 10-8-2024 - Part 1 of 2
+  > …looking for so that is definitely something that we're keeping an eye on the former Foundry building so that was that little um brick building that was um just off of the parking lot over…
+  [Watch ▸](https://www.youtube.com/watch?v=qFSzwy_zAog&t=3032s)  _(term: `predictive_policing`)_
+
+- **[2024-10-08] Town Council** — Town Council   Regular Meeting 10-8-2024 - Part 1 of 2
+  > …the other bulk components of that which is you know the um the Art Park area that was over by where The Foundry was um and the you know any pavement marking the section over behind the Elks that…
+  [Watch ▸](https://www.youtube.com/watch?v=qFSzwy_zAog&t=3165s)  _(term: `predictive_policing`)_
+
+- **[2024-04-09] Town Council** — Town Council - Regular Meeting April 9, 2024
+  > …so uh this is essentially going to be replacing um that structure um and it really runs from where The Foundry building is across that um small section of um parking lot and then exits uh…
+  [Watch ▸](https://www.youtube.com/watch?v=eJJPfgvNQgA&t=13863s)  _(term: `predictive_policing`)_
+
+
+### Norwich — 6 mentions
 
 - **[2026-02-02] City Council** — 2026-02-02 Council Meeting
   > …annual meeting. In addition, a city council goal setting session was held on Saturday, January 31st, 2026 at Foundry 66. The session included invited department…
@@ -176,8 +206,16 @@ _10 further mentions in Rocky Hill not shown here — all of them are in Rocky H
   > …tonight thank you the city council's goal setting information Workshop was held at Foundry 66 on SE on Saturday uh January 25th for the city council and invited…
   [Watch ▸](https://www.youtube.com/watch?v=dSRE55eGmNc&t=5647s)  _(term: `predictive_policing`)_
 
+- **[2024-10-22] Commission on the City Plan** — 2024-10-22 Commission on the City Plan
+  > …would be entering the facility all employees will park in our pre-designed tenant parking spots at 66 Foundry um and no traffic pattern should be affected and um number eight we have…
+  [Watch ▸](https://www.youtube.com/watch?v=SVLo8lBOlw0&t=6961s)  _(term: `predictive_policing`)_
+
 
 ### Ansonia — 4 mentions
+
+- **[2025-02-12] Board of Aldermen** — Ansonia Connecticut Board of Aldermen
+  > …noticed there's a chain link fence that has been recently put up around the church at the base of Foundry Hill and uh I'm wondering is is that to prepare for its…
+  [Watch ▸](https://www.youtube.com/watch?v=V0qSwkkxEso&t=1866s)  _(term: `predictive_policing`)_
 
 - **[2023-09-13] Board of Aldermen** — Ansonia Connecticut Board of Aldermen
   > …owner that owns two former feral buildings one is the one that you see here the form of The Foundry that abuts um the end of Main Street so as you go down right past the police station the…
@@ -190,10 +228,6 @@ _10 further mentions in Rocky Hill not shown here — all of them are in Rocky H
 - **[2020-07-07] Board of Aldermen** — Ansonia Connecticut Board of Aldermen
   > …this project and go out to rebid in the market that we were in we have Foundry bids end up to be a higher number a tree bid because sometimes the low bidders would back…
   [Watch ▸](https://www.youtube.com/watch?v=L6HPW0zJNeo&t=8472s)  _(term: `predictive_policing`)_
-
-- **[date unknown] Board of Aldermen** — Ansonia Connecticut Board of Aldermen
-  > …noticed there's a chain link fence that has been recently put up around the church at the base of Foundry Hill and uh I'm wondering is is that to prepare for its…
-  [Watch ▸](https://www.youtube.com/watch?v=V0qSwkkxEso&t=1866s)  _(term: `predictive_policing`)_
 
 
 ### Darien — 4 mentions
@@ -275,6 +309,17 @@ _10 further mentions in Rocky Hill not shown here — all of them are in Rocky H
   [Watch ▸](https://www.youtube.com/watch?v=R77V4Z-neLg&t=523s)  _(term: `predictive_policing`)_
 
 
+### East Hampton — 2 mentions
+
+- **[2026-05-06] Planning & Zoning Commission** — Planning & Zoning Commission Minutes - 2026-05-06
+  > …y and tax base. William House, property owner briefly provided a historical overview of commercial activity that had historically occurred on the property for many decades including: an ice house, a foundry, poultry farming, and Christmas tree farming. Attorney Barber additionally stated that no current contract or specific commercial user was proposed for the property at this time, and that the…
+  [Open document ▸](https://www.easthamptonct.gov/AgendaCenter/ViewFile/Minutes/_05062026-486)  _(agenda/minutes · term: `predictive_policing`)_
+
+- **[2026-01-13] Town Council** — Town Council Agenda - 2026-01-13
+  > …partment. • December was a busy month for teen and adult programming at the Library. In addition to regular monthly programs, the Library hosted a Music in the Library event featuring the Foundry Saxophone Quartet, a new session of Paint & Pastries, a Taylor Swift–themed craft night, a Lunch Bunch reunion, and a Percy Jackson–themed escape room. • Ms. Lancelot attend…
+  [Open document ▸](https://www.easthamptonct.gov/AgendaCenter/ViewFile/Agenda/_01132026-380)  _(agenda/minutes · term: `predictive_policing`)_
+
+
 ### Farmington — 2 mentions
 
 - **[2024-11-18] Zoning Board of Appeals** — Zoning Board of Appeals Meeting - November 18, 2024
@@ -284,17 +329,6 @@ _10 further mentions in Rocky Hill not shown here — all of them are in Rocky H
 - **[2024-11-18] Zoning Board of Appeals** — Zoning Board of Appeals Meeting - November 18, 2024
   > …was less offensive to have a Auto Body Shop than a fat rendering found uh um Foundry there okay yeah so that was interpreted to be okay so I'm again I'm I happen to be a lawyer as you know but…
   [Watch ▸](https://www.youtube.com/watch?v=XTT_ohDLxOs&t=3689s)  _(term: `predictive_policing`)_
-
-
-### Killingly — 2 mentions
-
-- **[2026-05-12] Town Council** — Killingly Town Council Meeting - May 12, 2026 (Part 2 of 2)
-  > …um some addition of handicap spaces, handicap parking, and some work in the uh what used to be the foundry building site. Take my glasses off maybe. I don't know.…
-  [Watch ▸](https://www.youtube.com/watch?v=ej9zkuLW1rE&t=2357s)  _(term: `predictive_policing`)_
-
-- **[2026-05-12] Town Council** — Killingly Town Council Meeting - May 12, 2026 (Part 2 of 2)
-  > …in the uh grant amount to award alternate one which is some continued plantins and improvements to the foundry building lot again for some plantins and some pavers and kind of a picnic area…
-  [Watch ▸](https://www.youtube.com/watch?v=ej9zkuLW1rE&t=2379s)  _(term: `predictive_policing`)_
 
 
 ### Ledyard — 2 mentions

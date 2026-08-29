@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Newtown
 
 
-_Generated 2026-08-27T17:52:42 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Newtown"`_
+_Generated 2026-08-29T10:19:04 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Newtown"`_
 
 
 ## Coverage status
@@ -23,8 +23,8 @@ _Generated 2026-08-27T17:52:42 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| newtown_ct_meeting | streams | 2026-08-27 11:13:26.435426 | 6 |
-| newtown_ct_meeting | videos | 2026-08-27 11:13:27.177165 | 9 |
+| newtown_ct_meeting | streams | 2026-08-29 08:28:54.888025 | 6 |
+| newtown_ct_meeting | videos | 2026-08-29 08:28:55.602756 | 9 |
 
 
 ## Registered meeting bodies

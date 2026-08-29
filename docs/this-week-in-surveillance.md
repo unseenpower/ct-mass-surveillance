@@ -3,11 +3,11 @@
 ## Headlines
 
 - **[Meetings held in the last 7 days](#meetings-held-in-the-last-7-days)** — 12 mention(s) across 3 town(s) — New Milford, Old Saybrook, Westport
-- **[Additional towns covered in the tracker this week](#additional-towns-covered-in-the-tracker-this-week)** — 82 town(s) entered the tracker
-- **[New signal: topics appearing for the first time in towns already being watched](#new-signal-topics-appearing-for-the-first-time-in-towns-already-being-watched)** — 5 town/topic pairing(s) — East Lyme (Body cameras), Fairfield (Other biometrics)
+- **[Additional towns covered in the tracker this week](#additional-towns-covered-in-the-tracker-this-week)** — 84 town(s) entered the tracker
+- **[New signal: topics appearing for the first time in towns already being watched](#new-signal-topics-appearing-for-the-first-time-in-towns-already-being-watched)** — 9 town/topic pairing(s) — East Lyme (Other biometrics), East Lyme (Body cameras)
 - **[In the news](#in-the-news)** — 13 item(s) added by this week's sweep; latest: Manchester — Manchester is soliciting implementation services for ATESD with a September 1 deadline; this is separate from…
-- **[Coming up](#coming-up)** — 1 confirmed agenda item(s); 11 scheduled meeting(s)
-- **[Volume surfaced this week, by topic](#volume-surfaced-this-week-by-topic)** — 2,362 mentions across 12 topics — Drones 1,044, ALPR / Flock 990, General surveillance 112
+- **[Coming up](#coming-up)** — 1 confirmed agenda item(s); 12 scheduled meeting(s)
+- **[Volume surfaced this week, by topic](#volume-surfaced-this-week-by-topic)** — 2,553 mentions across 14 topics — Drones 1,124, ALPR / Flock 1,047, General surveillance 135
 
 
 > **Unreviewed keyword matches, not verified claims.** Every item below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous and auto-captions mis-transcribe. Follow the timestamped link and listen before citing anything.
@@ -17,7 +17,7 @@
 
 ## Meetings held in the last 7 days
 
-_Covering the 7 days to 28 August 2026. 2,362 mentions newly surfaced, from 13,258 meeting transcripts added across 7 keyword scans._
+_Covering the 7 days to 29 August 2026. 2,424 mentions newly surfaced, from 16,464 meeting transcripts added across 21 keyword scans._
 
 _12 mention(s) across 3 town(s) — the genuinely current slice._
 
@@ -49,86 +49,88 @@ _12 mention(s) across 3 town(s) — the genuinely current slice._
 
 ## Additional towns covered in the tracker this week
 
-_82 town(s) entered the tracker this week — their meeting transcripts were downloaded for the first time. A large mention count here reflects a backlog newly opened up, not a sudden change in the town._
+_84 town(s) entered the tracker this week — their meeting transcripts were downloaded for the first time. A large mention count here reflects a backlog newly opened up, not a sudden change in the town._
 
 
 | Town | Mentions found | Top topics |
 | --- | --- | --- |
-| Berlin | 228 | ALPR / Flock (173), Drones (38), Body cameras (7) |
-| Orange | 211 | ALPR / Flock (176), Drones (30), Doorbell-camera partnerships (3) |
-| [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | 140 | Drones (84), ALPR / Flock (52), Body cameras (2) |
-| East Windsor | 119 | Drones (111), ALPR / Flock (5), Other biometrics (1) |
-| Darien | 110 | General surveillance (40), Drones (37), ALPR / Flock (22) |
-| [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | 80 | ALPR / Flock (72), Predictive policing (3), Drones (3) |
-| [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | 73 | Drones (43), Body cameras (16), ALPR / Flock (8) |
-| North Haven | 69 | Drones (53), ALPR / Flock (8), Body cameras (6) |
-| Groton | 68 | Drones (51), General surveillance (14), Predictive policing (3) |
-| Rocky Hill | 63 | Predictive policing (22), Drones (21), ALPR / Flock (18) |
-| Cheshire | 62 | ALPR / Flock (32), Drones (27), Body cameras (2) |
-| [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | 61 | Drones (33), General surveillance (13), ALPR / Flock (9) |
-| North Stonington | 54 | ALPR / Flock (51), Drones (3) |
-| Old Saybrook | 54 | Drones (51), ALPR / Flock (3) |
-| Norwich | 49 | ALPR / Flock (23), Drones (16), Predictive policing (6) |
-| Farmington | 47 | Drones (31), ALPR / Flock (13), Predictive policing (2) |
-| New Canaan | 39 | Drones (21), ALPR / Flock (16), Doorbell-camera partnerships (1) |
-| East Hampton | 38 | ALPR / Flock (27), Drones (6), General surveillance (3) |
-| Newington | 37 | ALPR / Flock (23), Drones (13), Body cameras (1) |
-| Bethel | 34 | ALPR / Flock (24), General surveillance (7), Drones (2) |
-| Watertown | 34 | Drones (28), ALPR / Flock (6) |
-| Westport | 30 | Drones (30) |
-| Columbia | 29 | ALPR / Flock (21), Drones (8) |
-| Somers | 29 | Drones (29) |
-| New Milford | 27 | Drones (13), ALPR / Flock (10), Predictive policing (2) |
-| Simsbury | 27 | ALPR / Flock (14), Drones (11), Body cameras (1) |
-| Killingworth | 26 | ALPR / Flock (14), Drones (11), Predictive policing (1) |
-| Monroe | 25 | Drones (22), ALPR / Flock (2), Other biometrics (1) |
-| Wethersfield | 25 | Drones (23), General surveillance (2) |
-| Clinton | 24 | ALPR / Flock (20), Drones (4) |
-| Old Lyme | 24 | Drones (19), ALPR / Flock (5) |
-| Guilford | 22 | ALPR / Flock (12), Drones (5), Purchasing / procurement (2) |
-| Stonington | 21 | ALPR / Flock (9), Body cameras (4), Predictive policing (3) |
-| Kent | 20 | Drones (19), ALPR / Flock (1) |
-| Killingly | 18 | ALPR / Flock (12), Predictive policing (5), Facial recognition (1) |
-| Ansonia | 17 | Body cameras (7), Predictive policing (4), Drones (3) |
-| Naugatuck | 17 | Drones (11), ALPR / Flock (2), Body cameras (2) |
-| Bethany | 14 | ALPR / Flock (9), Drones (3), Predictive policing (1) |
-| [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | 14 | General surveillance (6), Predictive policing (3), Drones (3) |
-| Lebanon | 13 | ALPR / Flock (9), Drones (4) |
-| Plainfield | 12 | Drones (8), Body cameras (4) |
-| North Branford | 11 | Drones (5), Body cameras (4), ALPR / Flock (2) |
-| Seymour | 11 | ALPR / Flock (4), Body cameras (3), General surveillance (2) |
-| Granby | 9 | ALPR / Flock (6), Drones (2), General surveillance (1) |
-| Plainville | 9 | Drones (8), ALPR / Flock (1) |
-| Windsor | 9 | ALPR / Flock (7), Drones (1), Body cameras (1) |
-| Ashford | 8 | Drones (6), ALPR / Flock (1), Predictive policing (1) |
-| Mansfield | 7 | Drones (3), ALPR / Flock (3), Predictive policing (1) |
-| Portland | 7 | Drones (6), ALPR / Flock (1) |
-| Deep River | 6 | ALPR / Flock (6) |
-| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | 6 | Drones (2), Predictive policing (2), ALPR / Flock (1) |
-| Canaan | 5 | General surveillance (3), Drones (2) |
-| Canterbury | 5 | Drones (5) |
-| Griswold | 5 | ALPR / Flock (4), Predictive policing (1) |
-| Ellington | 4 | ALPR / Flock (2), Drones (2) |
-| Sterling | 4 | Drones (3), Purchasing / procurement (1) |
-| Cornwall | 3 | Drones (2), ALPR / Flock (1) |
-| Suffield | 3 | Drones (2), Facial recognition (1) |
-| Bolton | 2 | ALPR / Flock (1), Drones (1) |
-| Coventry | 2 | Drones (2) |
-| East Granby | 2 | ALPR / Flock (2) |
-| Lyme | 2 | Drones (2) |
-| New Hartford | 2 | Drones (2) |
-| North Canaan | 2 | Drones (2) |
-| Plymouth | 2 | Drones (1), General surveillance (1) |
-| Andover | 1 | Predictive policing (1) |
-| Bloomfield | 1 | Predictive policing (1) |
-| East Haddam | 1 | Drones (1) |
-| Hebron | 1 | Drones (1) |
-| New Fairfield | 1 | Drones (1) |
-| [Newtown](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newtown/surveillance-tech-transcript-and-agenda-report.md) | 1 | Body cameras (1) |
+| Darien | 225105 | General surveillance (51), Drones (44), ALPR / Flock (22) |
+| Berlin | 214092 | ALPR / Flock (173), Drones (38), Body cameras (7) |
+| Orange | 103179 | ALPR / Flock (176), Drones (30), Doorbell-camera partnerships (3) |
+| Groton | 97308 | Drones (51), General surveillance (14), Predictive policing (3) |
+| New Canaan | 80984 | Drones (30), ALPR / Flock (21), Doorbell-camera partnerships (1) |
+| East Windsor | 58560 | Drones (112), ALPR / Flock (5), General surveillance (1) |
+| Simsbury | 55920 | ALPR / Flock (15), Drones (13), General surveillance (1) |
+| [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | 54320 | Drones (84), ALPR / Flock (52), Body cameras (2) |
+| North Haven | 43677 | Drones (53), ALPR / Flock (8), Body cameras (6) |
+| [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | 38690 | Drones (43), Body cameras (16), ALPR / Flock (8) |
+| Kent | 35720 | Drones (37), ALPR / Flock (1) |
+| Farmington | 34968 | Drones (31), ALPR / Flock (13), Predictive policing (2) |
+| Bethel | 33592 | ALPR / Flock (24), General surveillance (7), Drones (2) |
+| Guilford | 32575 | ALPR / Flock (12), Drones (8), Purchasing / procurement (2) |
+| [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | 32391 | Drones (33), General surveillance (13), ALPR / Flock (9) |
+| Newington | 29684 | ALPR / Flock (25), Drones (15), Body cameras (1) |
+| North Stonington | 27714 | ALPR / Flock (59), Drones (3) |
+| Cheshire | 27094 | ALPR / Flock (32), Drones (27), Body cameras (2) |
+| Westport | 25800 | Drones (30) |
+| Rocky Hill | 25452 | Predictive policing (22), Drones (21), ALPR / Flock (18) |
+| Norwich | 24232 | ALPR / Flock (23), Drones (17), Predictive policing (6) |
+| Old Saybrook | 23120 | Drones (64), ALPR / Flock (3), Body cameras (1) |
+| Old Lyme | 23062 | Drones (20), ALPR / Flock (6) |
+| Monroe | 21100 | Drones (22), ALPR / Flock (2), Other biometrics (1) |
+| Wethersfield | 19550 | Drones (23), General surveillance (2) |
+| Watertown | 18632 | Drones (28), ALPR / Flock (6) |
+| Columbia | 18386 | ALPR / Flock (21), Drones (8) |
+| North Branford | 18081 | Drones (9), ALPR / Flock (7), Body cameras (4) |
+| Somers | 17371 | Drones (29) |
+| Mansfield | 13816 | ALPR / Flock (6), Drones (3), General surveillance (1) |
+| New Milford | 11934 | Drones (13), ALPR / Flock (10), Predictive policing (2) |
+| [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | 11360 | ALPR / Flock (72), Predictive policing (3), Drones (3) |
+| East Hampton | 10780 | ALPR / Flock (28), Drones (8), Body cameras (3) |
+| Killingworth | 10296 | ALPR / Flock (14), Drones (11), Predictive policing (1) |
+| Plainfield | 9372 | Drones (8), Body cameras (4) |
+| Killingly | 8456 | ALPR / Flock (12), Predictive policing (6), Body cameras (6) |
+| Stonington | 8106 | ALPR / Flock (9), Body cameras (4), Drones (3) |
+| Seymour | 6526 | ALPR / Flock (6), Body cameras (3), General surveillance (2) |
+| Clinton | 5125 | ALPR / Flock (20), Drones (5) |
+| Naugatuck | 4114 | Drones (11), Body cameras (2), ALPR / Flock (2) |
+| Ashford | 3736 | Drones (6), Predictive policing (1), ALPR / Flock (1) |
+| Portland | 3311 | Drones (6), ALPR / Flock (1) |
+| Plainville | 2925 | Drones (8), ALPR / Flock (1) |
+| Bethany | 2632 | ALPR / Flock (9), Drones (3), Facial recognition (1) |
+| Granby | 2457 | ALPR / Flock (6), Drones (2), General surveillance (1) |
+| Ansonia | 1938 | Body cameras (7), Predictive policing (4), Drones (3) |
+| Windsor | 1848 | ALPR / Flock (11), Body cameras (2), Drones (1) |
+| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | 1632 | Drones (2), Predictive policing (2), Facial recognition (1) |
+| East Haddam | 1631 | Drones (1) |
+| Lebanon | 1573 | ALPR / Flock (9), Drones (4) |
+| Deep River | 1572 | ALPR / Flock (6) |
+| [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | 1290 | General surveillance (7), Drones (3), Predictive policing (3) |
+| Canterbury | 1215 | Drones (5) |
+| Cornwall | 966 | Drones (2), ALPR / Flock (1) |
+| Griswold | 670 | ALPR / Flock (4), Predictive policing (1) |
+| Sterling | 670 | Drones (4), Purchasing / procurement (1) |
+| Coventry | 496 | ALPR / Flock (2), Drones (2) |
+| Andover | 487 | Predictive policing (1) |
+| Bolton | 484 | ALPR / Flock (1), Drones (1) |
+| Canaan | 480 | General surveillance (3), Drones (2) |
+| East Granby | 460 | ALPR / Flock (2) |
+| Ellington | 368 | ALPR / Flock (2), Drones (2) |
+| Suffield | 342 | Drones (2), Facial recognition (1) |
+| New Hartford | 272 | Drones (2) |
+| Plymouth | 252 | General surveillance (1), Drones (1) |
+| North Canaan | 202 | Drones (2) |
+| Lyme | 198 | Drones (2) |
+| New Fairfield | 191 | Drones (1) |
+| Hebron | 153 | Drones (1) |
+| Haddam | 100 | Drones (1) |
+| Waterford | 69 | ALPR / Flock (1) |
+| Bloomfield | 55 | Predictive policing (1) |
+| [Newtown](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newtown/surveillance-tech-transcript-and-agenda-report.md) | 8 | Body cameras (1) |
 | Avon | 0 | — |
+| Bristol | 0 | — |
 | Chester | 0 | — |
 | Easton | 0 | — |
-| Haddam | 0 | — |
 | [Lisbon](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/lisbon/surveillance-tech-transcript-and-agenda-report.md) | 0 | — |
 | Norfolk | 0 | — |
 | Oxford | 0 | — |
@@ -139,10 +141,25 @@ _82 town(s) entered the tracker this week — their meeting transcripts were dow
 
 ## New signal: topics appearing for the first time in towns already being watched
 
-_5 town/topic pairing(s). These towns already had transcripts in the corpus before this window, so a first appearance here is not simply the effect of new coverage._
+_9 town/topic pairing(s). These towns already had transcripts in the corpus before this window, so a first appearance here is not simply the effect of new coverage._
 
 
-### [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) — Body cameras (21 mentions)
+### [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) — Other biometrics (3 mentions)
+
+- **[2025-08-11] Board of Police Commissioners** — Board of Police Commissioners Minutes - 2025-08-11
+  > …July 2025 a Meeting with GM2 for the July/August road closure of rte 161 at74/ r As of oshl/2a25 steel placement for 95 s/b has been completed r Meeting with IDEMIA concerning the prisoner and applicant processing machines r East Lyme Day meetings r East Lyme DayJuly 19th r Was offered Cafd 5ol again, however we ended …
+  [Open document ▸](https://eltownhall.com/wp-content/uploads/2025/08/Board-of-Police-Commissioners-August-11-2025-Minutes.pdf)  _(agenda/minutes · term: `biometrics_other`)_
+
+- **[2025-04-14] Board of Police Commissioners** — Board of Police Commissioners Minutes - 2025-04-14
+  > …vehicle rear vinyl and made a list to complete all vehicles needing replacement r Car 110 was completed by Dawley's . Assisted Board of Ed with getting connected with the state for their own IDEMIA account r CISA (Cybersecurity & lnfrastructure Security Agenry) on-site security evaluation r Met with vendor for speed st…
+  [Open document ▸](https://eltownhall.com/wp-content/uploads/2025/04/Board-of-Police-Commissioners-April-14-2025-Minutes.pdf)  _(agenda/minutes · term: `biometrics_other`)_
+
+- **[2021-03-11] Board of Police Commissioners** — Board of Police Commissioners Minutes - 2021-03-11
+  > …$8,000. Lt. Macek stated that the Nexgen server has been received and they are in the process ofgetting that set up. He reported that they are in receipt ofthe new AFIS fingerprinting machine, called IDEMIA, and that has been set up and is ready for prisoner processing; he is working on getting a second machine for the…
+  [Open document ▸](https://eltownhall.com/wp-content/uploads/2021/03/Police-Commission-March-11-2021-Minutes.pdf)  _(agenda/minutes · term: `biometrics_other`)_
+
+
+### [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) — Body cameras (27 mentions)
 
 - **[2026-03-09] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 03/09/2026
   > …>> But this is the computers radios. >> Computers, radios, um you know you know, if a body cam drops off, someone's chest or something breaks like that. >> So, okay,…
@@ -156,28 +173,46 @@ _5 town/topic pairing(s). These towns already had transcripts in the corpus befo
   > …large jump in the police fire marshal EMD uh the large portion of that is being driven by uh axon body cam so you can see the body cam contract we had was about…
   [Watch ▸](https://www.youtube.com/watch?v=nv4my3NOmUc&t=586s)  _(term: `body_camera`, 3 matches in this stretch)_
 
+- **[2025-03-26] Board of Finance** — Board of Finance Minutes - 2025-03-26
+  > …n in the future. *Challenges in keeping IT budget down expected to continue. Page | 1 Minutes created with 5-1. Police Body Cam Contract Note Lt. Michael Macek, Acting Police Chief, explained the following: The Axon Body Cam Contract increased from $36,000 to $84,000. The actual increase is $18,298 per year.…
+  [Open document ▸](https://eltownhall.com/wp-content/uploads/2025/04/BOF-March-26-2025-Special-Meeting-Minutes.pdf)  _(agenda/minutes · term: `body_camera`)_
+
 - **[2025-02-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 02/05/2025
   > …we're estimating between1 and $1.1 million um increased software costs uh we're implementing ADP uh axon body cam more than doubled in price Microsoft continues to increase their price um and…
   [Watch ▸](https://www.youtube.com/watch?v=8UcjKKb-r-w&t=3421s)  _(term: `body_camera`)_
+
+- **[2025-02-03] Board of Selectmen** — Board of Selectmen Minutes - 2025-02-03
+  > …or all buildings. . Ongoing project - realizing the full potential of the Town's GIS (Geographic Information System ) application. . Equipment Maintenance - annual maintenance for the body cam system will revert to full price after enjoying a reduced rate for the first couple of years in operation. The new S-year contr…
+  [Open document ▸](https://eltownhall.com/wp-content/uploads/2025/02/BOS-February-3-2025-Special-Meeting-Minutes.pdf)  _(agenda/minutes · term: `body_camera`)_
 
 - **[2024-03-06] Board of Selectmen** — East Lyme, CT Board of Selectmen Special Meeting 03/06/2024
   > …per police officer 1,000 um and so all those we backed out of the lines like the new taser the body cam things like that so those are the only cuts that were made to the police department were…
   [Watch ▸](https://www.youtube.com/watch?v=1VP8oBvvDNk&t=4248s)  _(term: `body_camera`)_
 
-- **[2024-02-28] Board of Selectmen** — East Lyme, CT Board of Selectmen Special Meeting 02/28/2024
-  > …is really a deficit abely so just as an example I have an fi request this week six cases they wanted body cam videos for all six of those cases it took me eight hours to sit through watch all the…
-  [Watch ▸](https://www.youtube.com/watch?v=QVQmkWTw_QM&t=4285s)  _(term: `body_camera`)_
-
-- **[2022-03-02] Board of Selectmen** — East Lyme, CT Board of Selectmen Meeting 03/02/2022
-  > …uh internationally over the last several uh last week or so so uh you have body cam cameras now that are gonna rely on that technology yeah i mean that goes up into the yeah there's…
-  [Watch ▸](https://www.youtube.com/watch?v=mzT-JUdaJ6w&t=7596s)  _(term: `body_camera`)_
-
-- **[2021-04-12] Board of Finance** — East Lyme, CT Board of Finance Special Meeting 04/12/2021
-  > …same question i know we had uh i didn't know if we got under the wire with the body cam reimbursement but what's happened with that…
-  [Watch ▸](https://www.youtube.com/watch?v=iYx7mz9mE4U&t=4312s)  _(term: `body_camera`)_
+- **[2024-02-28] Board of Selectmen** — Board of Selectmen Minutes - 2024-02-28
+  > …tle fiber 13p20 13p20 13,920 13,920 latrol & Body Cam Camera suppo:t 36, t83 36,1 83 36, l 83…
+  [Open document ▸](https://eltownhall.com/wp-content/uploads/2024/03/BOS-February-28-2024-Special-Meeting-Minutes.pdf)  _(agenda/minutes · term: `body_camera`)_
 
 
-_See all 21 in the [Body cameras topic report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md)._
+_See all 27 in the [Body cameras topic report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md)._
+
+
+### [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) — Computer-aided dispatch (2 mentions)
+
+- **[2020-06-10] Board of Finance** — Board of Finance Agenda - 2020-06-10
+  > …ame Records Management System (RMS) product for approximately fifteen years. The company has changed names three times since its purchase. There are no longer any upgrades to the system. The company, CentralSquare, has been providing only patch work (bug fixes) and does not plan to upgrade this product. The product is …
+  [Open document ▸](https://eltownhall.com/wp-content/uploads/2020/06/2020-06-10-BoF-Meeting-Supporting-Documents.pdf)  _(agenda/minutes · term: `cad`)_
+
+- **[2020-06-03] Board of Selectmen** — Board of Selectmen Agenda - 2020-06-03
+  > …ame Records Management System (RMS) product for approximately fifteen years. The company has changed names three times since its purchase. There are no longer any upgrades to the system. The company, CentralSquare, has been providing only patch work (bug fixes) and does not plan to upgrade this product. The product is …
+  [Open document ▸](https://eltownhall.com/wp-content/uploads/2020/06/BOS-June-3-2020-Supporting-Documentation.pdf)  _(agenda/minutes · term: `cad`)_
+
+
+### [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) — Gunshot detection (1 mention)
+
+- **[2026-08-05] Board of Selectmen** — Board of Selectmen Minutes - 2026-08-05
+  > …; (e) biometric surveillance technology, including facial, voice, iris, and gait-recognition software and databases; (f) mobile DNA capture technology; (g) gunshot detection and location hardware and services; (h) x-ray vans; (i) video and audio monitoring or recording technology, such as surveillance cameras,…
+  [Open document ▸](https://eltownhall.com/wp-content/uploads/2026/08/BOS-August-5-2026-Minutes.pdf)  _(agenda/minutes · term: `gunshot_detection`)_
 
 
 ### [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) — Other biometrics (1 mention)
@@ -205,9 +240,16 @@ _See all 21 in the [Body cameras topic report](https://github.com/unseenpower/ct
   [Watch ▸](https://www.youtube.com/watch?v=fdJYiZljfTU&t=4654s)  _(term: `purchasing_broker`, 2 matches in this stretch)_
 
 
+### [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock (1 mention)
+
+- **[2023-10-25] Common Council** — Common Council Regular Meeting Minutes - 2023-10-25
+  > …AXON 50 Fleet 3 Basic + Tap In-Car Cameras $101,400.00 WHEREAS, the New Britain Police Department requested a purchase order for the purchase of fifty (50) AXON Fleet 3 in-car video cameras from Axon Enterprise Inc. for patrol police vehicles as the current in-car camera equipment is over 10 years and is nearing the us…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=821&doc_id=a34b0638-b60b-11ee-bb82-0050569183fa)  _(agenda/minutes · term: `alpr_vendor`)_
+
+
 ### [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) — Purchasing / procurement (1 mention)
 
-- **[date unknown] Common Council** — Common Council Regular Meeting
+- **[2025-06-26] Common Council** — Common Council Regular Meeting
   > …we utilize for our firewalls. Um you'll actually see the following resolution is a CDWG um resolution for a UPS that equipment. If I would have you that…
   [Watch ▸](https://www.youtube.com/watch?v=1TL_61l6SI8&t=2615s)  _(term: `purchasing_broker`)_
 
@@ -313,11 +355,19 @@ _Surveillance technology confirmed on a published agenda:_
 
 _Meetings the towns have already scheduled, at bodies that have raised surveillance before:_
 
-- **2026-09-01** — Groton: [Town Council](https://www.youtube.com/watch?v=ohAGLAHSr_k)
+- **2026-08-31** — Westport: [Board of Health](https://www.youtube.com/watch?v=Fimtm7HwNCo)
+
+- **2026-09-01** — [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md): [Board of Finance](https://www.youtube.com/watch?v=-6YGLHpzAQM)
 
 - **2026-09-01** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Board of Education](https://www.youtube.com/watch?v=lOH5K7tYB5Q)
 
+- **2026-09-01** — Groton: [Town Council](https://www.youtube.com/watch?v=ohAGLAHSr_k)
+
 - **2026-09-01** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Public Safety Committee](https://www.youtube.com/watch?v=UJIpYknzLfU)
+
+- **2026-09-02** — [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md): [Board of Selectmen](https://www.youtube.com/watch?v=AdgmL5J2wpQ)
+
+- **2026-09-03** — Westport: [Community Preservation Committee](https://www.youtube.com/watch?v=2XzfDc_Qn1I)
 
 - **2026-09-07** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Finance and Administration Committee](https://www.youtube.com/watch?v=dZ6npx_dF20)
 
@@ -329,12 +379,6 @@ _Meetings the towns have already scheduled, at bodies that have raised surveilla
 
 - **2026-09-15** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Board of Education](https://www.youtube.com/watch?v=Ole0pH48NLM)
 
-- **2026-09-16** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Community Planning and Economic Development Committee](https://www.youtube.com/watch?v=yjm_ZFdrcO8)
-
-- **2026-09-17** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Human & Community Services Committee](https://www.youtube.com/watch?v=wJNQF6M6cFU)
-
-- **2026-09-22** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Town Council](https://www.youtube.com/watch?v=EDADKFdOvxI)
-
 
 The full watch list — every body that keeps returning to the subject, and when it typically meets — is in [Meetings to watch](meetings-to-watch.md).
 
@@ -343,15 +387,17 @@ The full watch list — every body that keeps returning to the subject, and when
 
 | Topic | Newly surfaced | Towns |
 | --- | --- | --- |
-| [Drones](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/drone.md) | 1,044 | 65 |
-| [ALPR / Flock](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/alpr.md) | 990 | 53 |
-| [General surveillance](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/surveillance_general.md) | 112 | 24 |
-| [Body cameras](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md) | 105 | 27 |
-| [Predictive policing](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/predictive_policing.md) | 68 | 21 |
+| [Drones](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/drone.md) | 1,124 | 69 |
+| [ALPR / Flock](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/alpr.md) | 1,047 | 60 |
+| [General surveillance](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/surveillance_general.md) | 135 | 31 |
+| [Body cameras](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md) | 123 | 31 |
+| [Predictive policing](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/predictive_policing.md) | 71 | 22 |
 | [Facial recognition](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/facial_recognition.md) | 13 | 12 |
 | [Doorbell-camera partnerships](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/doorbell_partnership.md) | 12 | 5 |
 | [Purchasing / procurement](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/purchasing_broker.md) | 9 | 4 |
-| [Other biometrics](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/biometrics_other.md) | 5 | 5 |
+| [Other biometrics](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/biometrics_other.md) | 8 | 6 |
+| [Gunshot detection](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/gunshot_detection.md) | 5 | 2 |
+| [Computer-aided dispatch](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/cad.md) | 2 | 1 |
 | [Cell-site simulators](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/cell_site_sim.md) | 2 | 2 |
 | [OSINT / social-media monitoring](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/osint_social_monitor.md) | 1 | 1 |
 | [AI data fusion](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/ai_data_fusion.md) | 1 | 1 |

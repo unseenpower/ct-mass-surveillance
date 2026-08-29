@@ -1,6 +1,6 @@
 # Purchasing / procurement: every mention, every town
 
-_Generated 2026-08-28T07:34:51 — 9 mentions across 4 towns, 2011-03-22 to 2026-04-20._
+_Generated 2026-08-29T12:19:58 — 9 mentions across 4 towns, 2011-03-22 to 2026-04-20._
 
 
 How surveillance equipment is bought: sole-source awards, grant funding, co-operative purchasing contracts and reseller arrangements that can bypass ordinary competitive bidding and the public votes that go with it.
@@ -9,6 +9,8 @@ How surveillance equipment is bought: sole-source awards, grant funding, co-oper
 > **These are unreviewed keyword matches, not verified claims.** Each receipt below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous — "drone" can mean a bee, "flock" a bird — and auto-captions mis-transcribe. **Follow the timestamped link and listen before citing anything here.**
 >
 > **A town appearing with few mentions, or not appearing at all, is not evidence that it has avoided this technology.** It far more often means that town's meeting backlog has not been downloaded yet, its meetings are not captioned, or its video archive lives on a platform this pipeline cannot read. The coverage figure beside each town is the share of its known meetings actually transcribed — read it first.
+>
+> Mentions come from two kinds of source. Most are meeting **transcripts** (auto-generated captions). Some are published **agenda or minutes documents**, marked `agenda/minutes` on the receipt and counted in the "From agendas" column — those are the town's own papers rather than a machine transcription of speech.
 
 
 _No human review has been applied to any mention in this file._
@@ -19,12 +21,12 @@ _No human review has been applied to any mention in this file._
 
 ## Towns, by volume
 
-| Town | Mentions | Meetings | Coverage | First | Most recent |
-| --- | --- | --- | --- | --- | --- |
-| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **5** | 1 | 98% | 2011-03-22 | 2011-03-22 |
-| Guilford ⁽ⁿᵖ⁾ | **2** | 2 | 7% | 2025-10-20 | 2026-04-20 |
-| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 95% | — | — |
-| Sterling ⁽ⁿᵖ⁾ | **1** | 1 | 66% | 2026-02-11 | 2026-02-11 |
+| Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 1 | 98% | 2011-03-22 | 2011-03-22 |
+| Guilford ⁽ⁿᵖ⁾ | **2** | · | 2 | 22% | 2025-10-20 | 2026-04-20 |
+| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 95% | 2025-06-26 | 2025-06-26 |
+| Sterling ⁽ⁿᵖ⁾ | **1** | · | 1 | 97% | 2026-02-11 | 2026-02-11 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -70,7 +72,7 @@ _Most recent first within each town. Every line links to the exact second of the
 
 ### New Britain — 1 mention
 
-- **[date unknown] Common Council** — Common Council Regular Meeting
+- **[2025-06-26] Common Council** — Common Council Regular Meeting
   > …we utilize for our firewalls. Um you'll actually see the following resolution is a CDWG um resolution for a UPS that equipment. If I would have you that…
   [Watch ▸](https://www.youtube.com/watch?v=1TL_61l6SI8&t=2615s)  _(term: `purchasing_broker`)_
 

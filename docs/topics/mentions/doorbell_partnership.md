@@ -1,6 +1,6 @@
 # Doorbell-camera partnerships: every mention, every town
 
-_Generated 2026-08-28T07:34:51 — 18 mentions across 8 towns, 2020-10-08 to 2026-08-17._
+_Generated 2026-08-29T12:19:57 — 19 mentions across 9 towns, 2020-10-08 to 2026-08-17._
 
 
 Formal partnerships between police departments and consumer doorbell-camera networks such as Ring.
@@ -9,6 +9,8 @@ Formal partnerships between police departments and consumer doorbell-camera netw
 > **These are unreviewed keyword matches, not verified claims.** Each receipt below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous — "drone" can mean a bee, "flock" a bird — and auto-captions mis-transcribe. **Follow the timestamped link and listen before citing anything here.**
 >
 > **A town appearing with few mentions, or not appearing at all, is not evidence that it has avoided this technology.** It far more often means that town's meeting backlog has not been downloaded yet, its meetings are not captioned, or its video archive lives on a platform this pipeline cannot read. The coverage figure beside each town is the share of its known meetings actually transcribed — read it first.
+>
+> Mentions come from two kinds of source. Most are meeting **transcripts** (auto-generated captions). Some are published **agenda or minutes documents**, marked `agenda/minutes` on the receipt and counted in the "From agendas" column — those are the town's own papers rather than a machine transcription of speech.
 
 
 _No human review has been applied to any mention in this file._
@@ -19,16 +21,17 @@ _No human review has been applied to any mention in this file._
 
 ## Towns, by volume
 
-| Town | Mentions | Meetings | Coverage | First | Most recent |
-| --- | --- | --- | --- | --- | --- |
-| Berlin ⁽ⁿᵖ⁾ | **4** | 3 | 78% | 2024-02-21 | 2026-08-17 |
-| [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **3** | 3 | 94% | 2020-10-08 | 2023-10-12 |
-| Orange ⁽ⁿᵖ⁾ | **3** | 2 | 84% | — | — |
-| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 96% | 2022-08-16 | 2022-08-16 |
-| [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 95% | 2022-04-25 | 2022-06-06 |
-| [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 98% | 2023-04-13 | 2023-04-13 |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 91% | — | — |
-| [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 90% | 2023-08-15 | 2023-08-15 |
+| Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
+| --- | --- | --- | --- | --- | --- | --- |
+| Berlin ⁽ⁿᵖ⁾ | **4** | · | 3 | 78% | 2024-02-21 | 2026-08-17 |
+| [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 94% | 2020-10-08 | 2023-10-12 |
+| Orange ⁽ⁿᵖ⁾ | **3** | · | 2 | 99% | 2025-08-26 | 2026-08-13 |
+| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 96% | 2022-08-16 | 2026-04-12 |
+| [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2022-04-25 | 2022-06-06 |
+| [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 98% | 2023-04-13 | 2023-04-13 |
+| New Canaan ⁽ⁿᵖ⁾ | **1** | · | 1 | 29% | 2026-01-22 | 2026-01-22 |
+| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 91% | 2021-06-02 | 2021-06-02 |
+| [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 90% | 2023-08-15 | 2023-08-15 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -74,28 +77,28 @@ _Most recent first within each town. Every line links to the exact second of the
 
 ### Orange — 3 mentions
 
-- **[date unknown] Zoning Board of Appeals** — August 25 - Zoning Board of Appeals - Special Meeting - Town of Orange, CT Live Meetings
-  > …it today. And I go out there three and four times a year. I monitor it very carefully. I have a Ring doorbell and the thing is uh and cameras and I have um…
-  [Watch ▸](https://www.youtube.com/watch?v=9UxqP9AT1-8&t=2824s)  _(term: `doorbell_partnership`)_
-
-- **[date unknown] Board of Selectmen** — August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+- **[2026-08-13] Board of Selectmen** — August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > …we all have to look in the mirror when we complain about this because how many of you have a Ring doorbell? If you're if you're if you're Yeah. If you're sitting on your porch or…
   [Watch ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=3347s)  _(term: `doorbell_partnership`)_
 
-- **[date unknown] Board of Selectmen** — August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+- **[2026-08-13] Board of Selectmen** — August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > …you're sitting on your porch or somewhere near your front door, you have a Ring doorbell and you're talking to about something, it picks it up. How many of you have Alexa in the house? It…
   [Watch ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=3356s)  _(term: `doorbell_partnership`)_
+
+- **[2025-08-26] Zoning Board of Appeals** — August 25 - Zoning Board of Appeals - Special Meeting - Town of Orange, CT Live Meetings
+  > …it today. And I go out there three and four times a year. I monitor it very carefully. I have a Ring doorbell and the thing is uh and cameras and I have um…
+  [Watch ▸](https://www.youtube.com/watch?v=9UxqP9AT1-8&t=2824s)  _(term: `doorbell_partnership`)_
 
 
 ### Hartford — 2 mentions
 
+- **[2026-04-12] Operation, Management, Budget & Government Accountability Committee** — City of Hartford Budget Hearing FY27 CP, COO, Office of the Mayor, ROV, & Town & City Clerk
+  > …focus on it and I hope it continues to be elevated to that level. Um, I noticed that the Ring doorbell distribution, I don't know, you know, if that was a one-time thing or if it's going to…
+  [Watch ▸](https://www.youtube.com/watch?v=sWQn2FL46i0&t=3723s)  _(term: `doorbell_partnership`)_
+
 - **[2022-08-16] Quality of Life and Public Safety Committee** — City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
   > …sensitive these are all older cases but we get a lot of these third-party cameras this was a ring doorbell camera of a residential burglary with a really clean shot at that face…
   [Watch ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2134s)  _(term: `doorbell_partnership`)_
-
-- **[date unknown] Operation, Management, Budget & Government Accountability Committee** — City of Hartford Budget Hearing FY27 CP, COO, Office of the Mayor, ROV, & Town & City Clerk
-  > …focus on it and I hope it continues to be elevated to that level. Um, I noticed that the Ring doorbell distribution, I don't know, you know, if that was a one-time thing or if it's going to…
-  [Watch ▸](https://www.youtube.com/watch?v=sWQn2FL46i0&t=3723s)  _(term: `doorbell_partnership`)_
 
 
 ### Milford — 2 mentions
@@ -120,9 +123,16 @@ _Most recent first within each town. Every line links to the exact second of the
   [Watch ▸](https://www.youtube.com/watch?v=YjQUDv3LcG4&t=608s)  _(term: `doorbell_partnership`)_
 
 
+### New Canaan — 1 mention
+
+- **[2026-01-22] Conservation Commission** — Conservation Commission Meeting January 22, 2026
+  > …see before they pick up. I was still there, but they won't let me install like a Ring doorbell. Anyway, you've given me a bunch of good info on that. Thank you. I appreciate it. Um, the…
+  [Watch ▸](https://www.youtube.com/watch?v=7SUZnx-T3Wo&t=863s)  _(term: `doorbell_partnership`)_
+
+
 ### New Haven — 1 mention
 
-- **[date unknown] Public Safety Committee** — BoA Public Safety Committee
+- **[2021-06-02] Public Safety Committee** — BoA Public Safety Committee
   > …that the city has to offer summer programs um ring doorbell programs that the police department is partnering with any kind of literature that we can give…
   [Watch ▸](https://www.youtube.com/watch?v=8CUEFve9ZwA&t=647s)  _(term: `doorbell_partnership`)_
 

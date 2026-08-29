@@ -1,6 +1,6 @@
 # Facial recognition: every mention, every town
 
-_Generated 2026-08-28T07:34:46 — 78 mentions across 18 towns, 2022-02-10 to 2026-08-05._
+_Generated 2026-08-29T12:19:53 — 78 mentions across 18 towns, 2021-11-09 to 2026-08-05._
 
 
 Software that attempts to identify individuals by matching face images against a database.
@@ -9,6 +9,8 @@ Software that attempts to identify individuals by matching face images against a
 > **These are unreviewed keyword matches, not verified claims.** Each receipt below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous — "drone" can mean a bee, "flock" a bird — and auto-captions mis-transcribe. **Follow the timestamped link and listen before citing anything here.**
 >
 > **A town appearing with few mentions, or not appearing at all, is not evidence that it has avoided this technology.** It far more often means that town's meeting backlog has not been downloaded yet, its meetings are not captioned, or its video archive lives on a platform this pipeline cannot read. The coverage figure beside each town is the share of its known meetings actually transcribed — read it first.
+>
+> Mentions come from two kinds of source. Most are meeting **transcripts** (auto-generated captions). Some are published **agenda or minutes documents**, marked `agenda/minutes` on the receipt and counted in the "From agendas" column — those are the town's own papers rather than a machine transcription of speech.
 
 
 _No human review has been applied to any mention in this file._
@@ -19,26 +21,26 @@ _No human review has been applied to any mention in this file._
 
 ## Towns, by volume
 
-| Town | Mentions | Meetings | Coverage | First | Most recent |
-| --- | --- | --- | --- | --- | --- |
-| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **54** | 7 | 96% | 2022-07-19 | 2023-03-21 |
-| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **4** | 4 | 98% | 2023-03-09 | 2024-03-13 |
-| Darien ⁽ⁿᵖ⁾ | **2** | 1 | 33% | 2026-01-21 | 2026-01-21 |
-| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 95% | 2026-05-18 | 2026-08-05 |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **2** | 1 | 91% | — | — |
-| [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 93% | 2024-11-14 | 2026-08-04 |
-| Berlin ⁽ⁿᵖ⁾ | **1** | 1 | 78% | 2026-05-15 | 2026-05-15 |
-| Bethany ⁽ⁿᵖ⁾ | **1** | 1 | 47% | 2026-05-06 | 2026-05-06 |
-| East Windsor ⁽ⁿᵖ⁾ | **1** | 1 | 36% | 2026-02-05 | 2026-02-05 |
-| Killingly ⁽ⁿᵖ⁾ | **1** | 1 | 29% | 2026-02-10 | 2026-02-10 |
-| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 93% | 2022-03-09 | 2022-03-09 |
-| [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 95% | 2026-08-03 | 2026-08-03 |
-| Naugatuck ⁽ⁿᵖ⁾ | **1** | 1 | 58% | 2022-02-10 | 2022-02-10 |
-| New Milford ⁽ⁿᵖ⁾ | **1** | 1 | 39% | 2026-02-09 | 2026-02-09 |
-| North Haven ⁽ⁿᵖ⁾ | **1** | 1 | 28% | 2025-09-29 | 2025-09-29 |
-| Rocky Hill ⁽ⁿᵖ⁾ | **1** | 1 | 36% | 2026-04-06 | 2026-04-06 |
-| [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 97% | 2023-07-10 | 2023-07-10 |
-| Suffield ⁽ⁿᵖ⁾ | **1** | 1 | 82% | 2026-06-09 | 2026-06-09 |
+| Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **54** | · | 7 | 96% | 2022-07-19 | 2023-03-21 |
+| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 98% | 2023-03-09 | 2024-03-13 |
+| Darien ⁽ⁿᵖ⁾ | **2** | · | 1 | 33% | 2026-01-21 | 2026-01-21 |
+| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2026-05-18 | 2026-08-05 |
+| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 91% | 2021-11-09 | 2021-11-09 |
+| [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 93% | 2024-11-14 | 2026-08-04 |
+| Berlin ⁽ⁿᵖ⁾ | **1** | · | 1 | 78% | 2026-05-15 | 2026-05-15 |
+| Bethany ⁽ⁿᵖ⁾ | **1** | · | 1 | 70% | 2026-05-06 | 2026-05-06 |
+| East Windsor ⁽ⁿᵖ⁾ | **1** | · | 1 | 36% | 2026-02-05 | 2026-02-05 |
+| Killingly ⁽ⁿᵖ⁾ | **1** | · | 1 | 64% | 2026-02-10 | 2026-02-10 |
+| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 93% | 2022-03-09 | 2022-03-09 |
+| [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 95% | 2026-08-03 | 2026-08-03 |
+| Naugatuck ⁽ⁿᵖ⁾ | **1** | · | 1 | 58% | 2022-02-10 | 2022-02-10 |
+| New Milford ⁽ⁿᵖ⁾ | **1** | · | 1 | 39% | 2026-02-09 | 2026-02-09 |
+| North Haven ⁽ⁿᵖ⁾ | **1** | · | 1 | 36% | 2025-09-29 | 2025-09-29 |
+| Rocky Hill ⁽ⁿᵖ⁾ | **1** | · | 1 | 47% | 2026-04-06 | 2026-04-06 |
+| [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2023-07-10 | 2023-07-10 |
+| Suffield ⁽ⁿᵖ⁾ | **1** | · | 1 | 89% | 2026-06-09 | 2026-06-09 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -145,11 +147,11 @@ _42 further mentions in Hartford not shown here — all of them are in [Hartford
 
 ### New Haven — 2 mentions
 
-- **[date unknown] Board of Alders** — Board of Alders Finance Committee
+- **[2021-11-09] Board of Alders** — Board of Alders Finance Committee
   > …we cross our t's dot our eyes let me i can answer as you go ma'am is that okay this is not facial recognition technology there there is none of that on the cameras or on the license plate…
   [Watch ▸](https://www.youtube.com/watch?v=H7Q2P6ZjEyk&t=4972s)  _(term: `facial_recognition`)_
 
-- **[date unknown] Board of Alders** — Board of Alders Finance Committee
+- **[2021-11-09] Board of Alders** — Board of Alders Finance Committee
   > …readers all it does is read uh letters from the on the actual license plate so nothing to do with facial recognition okay thank you for that also regarding…
   [Watch ▸](https://www.youtube.com/watch?v=H7Q2P6ZjEyk&t=4983s)  _(term: `facial_recognition`)_
 

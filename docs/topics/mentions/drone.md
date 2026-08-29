@@ -1,6 +1,6 @@
 # Drones: every mention, every town
 
-_Generated 2026-08-28T07:34:13 — 1,380 mentions across 72 towns, 2013-12-04 to 2026-08-24._
+_Generated 2026-08-29T12:18:48 — 1,548 mentions across 77 towns, 2013-12-04 to 2026-08-24._
 
 
 Police and municipal drones, including 'drone as first responder' programmes that launch autonomously in response to calls.
@@ -9,6 +9,8 @@ Police and municipal drones, including 'drone as first responder' programmes tha
 > **These are unreviewed keyword matches, not verified claims.** Each receipt below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous — "drone" can mean a bee, "flock" a bird — and auto-captions mis-transcribe. **Follow the timestamped link and listen before citing anything here.**
 >
 > **A town appearing with few mentions, or not appearing at all, is not evidence that it has avoided this technology.** It far more often means that town's meeting backlog has not been downloaded yet, its meetings are not captioned, or its video archive lives on a platform this pipeline cannot read. The coverage figure beside each town is the share of its known meetings actually transcribed — read it first.
+>
+> Mentions come from two kinds of source. Most are meeting **transcripts** (auto-generated captions). Some are published **agenda or minutes documents**, marked `agenda/minutes` on the receipt and counted in the "From agendas" column — those are the town's own papers rather than a machine transcription of speech.
 
 
 _No human review has been applied to any mention in this file._
@@ -19,80 +21,85 @@ _No human review has been applied to any mention in this file._
 
 ## Towns, by volume
 
-| Town | Mentions | Meetings | Coverage | First | Most recent |
-| --- | --- | --- | --- | --- | --- |
-| East Windsor ⁽ⁿᵖ⁾ | **111** | 11 | 36% | 2024-04-16 | 2026-07-28 |
-| [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **107** | 15 | 95% | 2015-12-14 | 2026-08-03 |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **87** | 11 | 91% | 2023-12-11 | 2026-04-21 |
-| [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **84** | 18 | 97% | 2020-09-09 | 2026-07-14 |
-| [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **59** | 42 | 98% | 2021-02-22 | 2026-08-06 |
-| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **57** | 19 | 98% | 2018-03-14 | 2026-04-07 |
-| [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **57** | 29 | 93% | 2017-03-29 | 2026-05-05 |
-| North Haven ⁽ⁿᵖ⁾ | **53** | 4 | 28% | 2026-03-18 | 2026-05-14 |
-| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **52** | 20 | 95% | 2013-12-04 | 2026-04-01 |
-| Old Saybrook ⁽ⁿᵖ⁾ | **50** | 13 | 41% | 2026-02-26 | 2026-07-28 |
-| Groton ⁽ⁿᵖ⁾ | **49** | 22 | 41% | 2023-04-25 | 2026-08-18 |
-| [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **43** | 18 | 94% | 2022-02-07 | 2026-06-25 |
-| Berlin ⁽ⁿᵖ⁾ | **38** | 24 | 78% | 2022-06-07 | 2026-08-11 |
-| Darien ⁽ⁿᵖ⁾ | **37** | 15 | 33% | 2024-02-05 | 2026-03-17 |
-| [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **33** | 9 | 90% | 2020-08-13 | 2026-04-14 |
-| [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **33** | 18 | 85% | 2017-09-11 | 2026-07-23 |
-| Farmington ⁽ⁿᵖ⁾ | **31** | 16 | 38% | 2024-02-07 | 2025-08-19 |
-| Orange ⁽ⁿᵖ⁾ | **30** | 18 | 84% | 2022-06-07 | 2023-09-08 |
-| Watertown ⁽ⁿᵖ⁾ | **28** | 2 | 16% | 2026-02-17 | 2026-03-11 |
-| Cheshire ⁽ⁿᵖ⁾ | **27** | 15 | 46% | 2022-03-29 | 2026-04-14 |
-| Kent ⁽ⁿᵖ⁾ | **19** | 3 | 9% | 2026-04-21 | 2026-08-13 |
-| New Canaan ⁽ⁿᵖ⁾ | **19** | 8 | 10% | 2026-03-12 | 2026-06-23 |
-| Somers ⁽ⁿᵖ⁾ | **18** | 7 | 15% | 2025-07-22 | 2026-08-18 |
-| Old Lyme ⁽ⁿᵖ⁾ | **17** | 7 | 10% | 2026-03-05 | 2026-08-11 |
-| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **16** | 11 | 96% | 2018-09-10 | 2025-04-24 |
-| Monroe ⁽ⁿᵖ⁾ | **16** | 7 | 18% | 2025-02-12 | 2026-05-21 |
-| Norwich ⁽ⁿᵖ⁾ | **16** | 8 | 32% | 2025-04-08 | 2026-07-21 |
-| Wethersfield ⁽ⁿᵖ⁾ | **16** | 4 | 13% | 2025-01-21 | 2026-04-22 |
-| Westport ⁽ⁿᵖ⁾ | **15** | 8 | 14% | 2026-03-19 | 2026-08-24 |
-| Rocky Hill ⁽ⁿᵖ⁾ | **14** | 6 | 36% | 2024-02-05 | 2026-04-21 |
-| New Milford ⁽ⁿᵖ⁾ | **13** | 8 | 39% | 2022-07-14 | 2026-07-23 |
-| Killingworth ⁽ⁿᵖ⁾ | **11** | 7 | 71% | 2020-04-22 | 2026-02-09 |
-| Naugatuck ⁽ⁿᵖ⁾ | **11** | 5 | 58% | 2024-03-04 | 2026-08-04 |
-| Simsbury ⁽ⁿᵖ⁾ | **10** | 9 | 16% | 2024-09-10 | 2026-03-18 |
-| Newington ⁽ⁿᵖ⁾ | **9** | 3 | 20% | 2025-12-11 | 2026-08-03 |
-| Plainville ⁽ⁿᵖ⁾ | **7** | 7 | 27% | 2024-10-07 | 2026-08-17 |
-| Ashford ⁽ⁿᵖ⁾ | **6** | 4 | 33% | 2020-11-10 | 2026-03-06 |
-| [Bridgeport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | **6** | 3 | 90% | 2026-01-20 | 2026-08-03 |
-| East Hampton ⁽ⁿᵖ⁾ | **6** | 3 | 37% | 2024-01-09 | 2024-06-11 |
-| Canterbury ⁽ⁿᵖ⁾ | **5** | 2 | 39% | 2023-09-13 | 2026-03-17 |
-| Clinton ⁽ⁿᵖ⁾ | **4** | 2 | 20% | 2025-10-01 | 2026-07-01 |
-| Plainfield ⁽ⁿᵖ⁾ | **4** | 4 | 15% | 2025-06-12 | 2026-04-08 |
-| Ansonia ⁽ⁿᵖ⁾ | **3** | 2 | 96% | 2017-08-09 | 2017-08-09 |
-| Bethany ⁽ⁿᵖ⁾ | **3** | 3 | 47% | 2025-10-07 | 2026-02-04 |
-| [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | **3** | 2 | 99% | 2025-06-26 | 2026-04-02 |
-| Guilford ⁽ⁿᵖ⁾ | **3** | 3 | 7% | 2025-07-07 | 2026-01-15 |
-| [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | **3** | 2 | 98% | 2022-03-07 | 2022-06-27 |
-| Stonington ⁽ⁿᵖ⁾ | **3** | 3 | 70% | 2021-03-10 | 2026-03-02 |
-| Bethel ⁽ⁿᵖ⁾ | **2** | 2 | 38% | 2025-09-22 | 2026-03-10 |
-| Canaan ⁽ⁿᵖ⁾ | **2** | 2 | 63% | 2024-12-17 | 2026-04-23 |
-| Cornwall ⁽ⁿᵖ⁾ | **2** | 1 | 22% | 2015-10-21 | 2015-10-21 |
-| Coventry ⁽ⁿᵖ⁾ | **2** | 2 | 25% | 2020-03-05 | 2024-03-18 |
-| Ellington ⁽ⁿᵖ⁾ | **2** | 1 | 36% | 2026-03-25 | 2026-03-25 |
-| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 93% | 2020-04-15 | 2020-05-21 |
-| Lyme ⁽ⁿᵖ⁾ | **2** | 2 | 75% | 2021-08-05 | 2021-10-07 |
-| New Hartford ⁽ⁿᵖ⁾ | **2** | 1 | 43% | 2026-02-03 | 2026-02-03 |
-| North Branford ⁽ⁿᵖ⁾ | **2** | 2 | 10% | 2026-04-14 | 2026-04-14 |
-| North Canaan ⁽ⁿᵖ⁾ | **2** | 1 | 100% | 2025-04-28 | 2025-04-28 |
-| North Stonington ⁽ⁿᵖ⁾ | **2** | 2 | 19% | 2025-10-15 | 2026-02-04 |
-| Portland ⁽ⁿᵖ⁾ | **2** | 2 | 19% | 2025-05-01 | 2026-02-26 |
-| Sterling ⁽ⁿᵖ⁾ | **2** | 1 | 66% | 2026-05-12 | 2026-05-12 |
-| Suffield ⁽ⁿᵖ⁾ | **2** | 1 | 82% | 2025-03-19 | 2025-03-19 |
-| Bolton ⁽ⁿᵖ⁾ | **1** | 1 | 22% | 2025-12-11 | 2025-12-11 |
-| Columbia ⁽ⁿᵖ⁾ | **1** | 1 | 14% | 2026-05-07 | 2026-05-07 |
-| East Haddam ⁽ⁿᵖ⁾ | **1** | 1 | 4% | 2026-06-09 | 2026-06-09 |
-| Granby ⁽ⁿᵖ⁾ | **1** | 1 | 15% | 2026-06-03 | 2026-06-03 |
-| Hebron ⁽ⁿᵖ⁾ | **1** | 1 | 24% | 2026-04-23 | 2026-04-23 |
-| Lebanon ⁽ⁿᵖ⁾ | **1** | 1 | 57% | 2026-03-16 | 2026-03-16 |
-| Mansfield ⁽ⁿᵖ⁾ | **1** | 1 | 7% | 2026-04-30 | 2026-04-30 |
-| Plymouth ⁽ⁿᵖ⁾ | **1** | 1 | 37% | 2026-04-15 | 2026-04-15 |
-| Seymour ⁽ⁿᵖ⁾ | **1** | 1 | 17% | 2021-03-04 | 2021-03-04 |
-| Windsor ⁽ⁿᵖ⁾ | **1** | 1 | 49% | 2018-11-20 | 2018-11-20 |
+| Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
+| --- | --- | --- | --- | --- | --- | --- |
+| East Windsor ⁽ⁿᵖ⁾ | **112** | 1 | 12 | 36% | 2024-04-16 | 2026-07-28 |
+| [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **107** | · | 15 | 95% | 2015-12-14 | 2026-08-03 |
+| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **87** | · | 11 | 91% | 2021-02-09 | 2026-04-21 |
+| [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **84** | · | 18 | 97% | 2020-09-09 | 2026-07-14 |
+| Old Saybrook ⁽ⁿᵖ⁾ | **64** | 10 | 26 | 99% | 2025-07-15 | 2026-08-11 |
+| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **59** | 7 | 27 | 95% | 2013-12-04 | 2026-04-01 |
+| [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **59** | · | 42 | 98% | 2021-02-22 | 2026-08-06 |
+| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **57** | · | 19 | 98% | 2018-03-14 | 2026-04-07 |
+| [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **57** | · | 29 | 93% | 2017-03-29 | 2026-05-05 |
+| North Haven ⁽ⁿᵖ⁾ | **53** | · | 4 | 36% | 2026-03-18 | 2026-05-14 |
+| Groton ⁽ⁿᵖ⁾ | **51** | · | 23 | 43% | 2023-04-25 | 2026-08-18 |
+| Darien ⁽ⁿᵖ⁾ | **44** | 7 | 22 | 33% | 2024-02-05 | 2026-08-18 |
+| [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **43** | · | 18 | 94% | 2022-02-07 | 2026-06-25 |
+| Berlin ⁽ⁿᵖ⁾ | **38** | · | 24 | 78% | 2022-06-07 | 2026-08-11 |
+| Kent ⁽ⁿᵖ⁾ | **37** | · | 6 | 39% | 2025-04-09 | 2026-08-13 |
+| [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **33** | · | 9 | 90% | 2020-08-13 | 2026-04-14 |
+| [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **33** | · | 18 | 85% | 2017-09-11 | 2026-07-23 |
+| Farmington ⁽ⁿᵖ⁾ | **31** | · | 16 | 38% | 2024-02-07 | 2025-08-19 |
+| New Canaan ⁽ⁿᵖ⁾ | **30** | · | 10 | 29% | 2026-01-20 | 2026-06-23 |
+| Orange ⁽ⁿᵖ⁾ | **30** | · | 18 | 99% | 2022-06-07 | 2026-07-09 |
+| Westport ⁽ⁿᵖ⁾ | **30** | · | 13 | 41% | 2025-11-18 | 2026-08-24 |
+| Somers ⁽ⁿᵖ⁾ | **29** | · | 10 | 40% | 2024-10-17 | 2026-08-18 |
+| Watertown ⁽ⁿᵖ⁾ | **28** | · | 2 | 71% | 2026-02-17 | 2026-03-11 |
+| Cheshire ⁽ⁿᵖ⁾ | **27** | · | 15 | 46% | 2022-03-29 | 2026-04-14 |
+| Wethersfield ⁽ⁿᵖ⁾ | **23** | · | 6 | 21% | 2024-04-17 | 2026-04-22 |
+| Monroe ⁽ⁿᵖ⁾ | **22** | · | 11 | 23% | 2024-01-23 | 2026-05-21 |
+| Rocky Hill ⁽ⁿᵖ⁾ | **21** | · | 9 | 47% | 2022-10-18 | 2026-04-21 |
+| Old Lyme ⁽ⁿᵖ⁾ | **20** | 1 | 10 | 40% | 2025-10-06 | 2026-08-11 |
+| Norwich ⁽ⁿᵖ⁾ | **17** | 1 | 9 | 53% | 2025-04-08 | 2026-08-06 |
+| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **16** | · | 11 | 96% | 2018-09-10 | 2025-04-24 |
+| Newington ⁽ⁿᵖ⁾ | **15** | 1 | 8 | 59% | 2024-12-11 | 2026-08-06 |
+| New Milford ⁽ⁿᵖ⁾ | **13** | · | 8 | 39% | 2022-07-14 | 2026-07-23 |
+| Simsbury ⁽ⁿᵖ⁾ | **13** | 2 | 12 | 22% | 2024-03-09 | 2026-05-07 |
+| Killingworth ⁽ⁿᵖ⁾ | **11** | · | 7 | 71% | 2020-04-22 | 2026-02-09 |
+| Naugatuck ⁽ⁿᵖ⁾ | **11** | · | 5 | 58% | 2024-03-04 | 2026-08-04 |
+| North Branford ⁽ⁿᵖ⁾ | **9** | · | 8 | 29% | 2024-11-21 | 2026-04-14 |
+| Columbia ⁽ⁿᵖ⁾ | **8** | · | 6 | 44% | 2025-05-20 | 2026-05-07 |
+| East Hampton ⁽ⁿᵖ⁾ | **8** | 2 | 5 | 55% | 2024-01-09 | 2026-02-04 |
+| Guilford ⁽ⁿᵖ⁾ | **8** | · | 7 | 22% | 2024-05-20 | 2026-01-15 |
+| Plainfield ⁽ⁿᵖ⁾ | **8** | · | 8 | 33% | 2024-11-18 | 2026-04-08 |
+| Plainville ⁽ⁿᵖ⁾ | **8** | · | 8 | 33% | 2024-03-11 | 2026-08-17 |
+| Ashford ⁽ⁿᵖ⁾ | **6** | · | 4 | 33% | 2020-11-10 | 2026-03-06 |
+| [Bridgeport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 3 | 90% | 2026-01-20 | 2026-08-03 |
+| Portland ⁽ⁿᵖ⁾ | **6** | · | 6 | 29% | 2024-05-01 | 2026-02-26 |
+| Canterbury ⁽ⁿᵖ⁾ | **5** | · | 2 | 39% | 2023-09-13 | 2026-03-17 |
+| Clinton ⁽ⁿᵖ⁾ | **5** | 1 | 3 | 20% | 2025-10-01 | 2026-07-01 |
+| Lebanon ⁽ⁿᵖ⁾ | **4** | · | 2 | 83% | 2024-08-27 | 2026-03-16 |
+| Sterling ⁽ⁿᵖ⁾ | **4** | 1 | 3 | 97% | 2025-06-10 | 2026-06-04 |
+| Ansonia ⁽ⁿᵖ⁾ | **3** | · | 2 | 96% | 2017-08-09 | 2025-06-11 |
+| Beacon Falls ⁽ⁿᵖ⁾ | **3** | 3 | 3 | — | 2026-03-16 | 2026-07-20 |
+| Bethany ⁽ⁿᵖ⁾ | **3** | · | 3 | 70% | 2025-10-07 | 2026-02-04 |
+| [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 99% | 2025-06-26 | 2026-04-02 |
+| Killingly ⁽ⁿᵖ⁾ | **3** | · | 1 | 64% | 2024-03-26 | 2024-03-26 |
+| Mansfield ⁽ⁿᵖ⁾ | **3** | · | 2 | 28% | 2026-02-09 | 2026-04-30 |
+| North Stonington ⁽ⁿᵖ⁾ | **3** | · | 3 | 43% | 2024-06-18 | 2026-02-04 |
+| [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 98% | 2022-03-07 | 2022-06-27 |
+| Stonington ⁽ⁿᵖ⁾ | **3** | · | 3 | 70% | 2021-03-10 | 2026-03-02 |
+| Bethel ⁽ⁿᵖ⁾ | **2** | · | 2 | 38% | 2025-09-22 | 2026-03-10 |
+| Canaan ⁽ⁿᵖ⁾ | **2** | · | 2 | 63% | 2024-12-17 | 2026-04-23 |
+| Cornwall ⁽ⁿᵖ⁾ | **2** | · | 1 | 22% | 2015-10-21 | 2015-10-21 |
+| Coventry ⁽ⁿᵖ⁾ | **2** | · | 2 | 25% | 2020-03-05 | 2024-03-18 |
+| Ellington ⁽ⁿᵖ⁾ | **2** | · | 1 | 36% | 2026-03-25 | 2026-03-25 |
+| Granby ⁽ⁿᵖ⁾ | **2** | · | 2 | 71% | 2026-03-05 | 2026-06-03 |
+| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 93% | 2020-04-15 | 2020-05-21 |
+| Lyme ⁽ⁿᵖ⁾ | **2** | · | 2 | 75% | 2021-08-05 | 2021-10-07 |
+| New Hartford ⁽ⁿᵖ⁾ | **2** | · | 1 | 43% | 2026-02-03 | 2026-02-03 |
+| North Canaan ⁽ⁿᵖ⁾ | **2** | · | 1 | 100% | 2025-04-28 | 2025-04-28 |
+| Suffield ⁽ⁿᵖ⁾ | **2** | · | 1 | 89% | 2025-03-19 | 2025-03-19 |
+| Bolton ⁽ⁿᵖ⁾ | **1** | · | 1 | 37% | 2025-12-11 | 2025-12-11 |
+| East Haddam ⁽ⁿᵖ⁾ | **1** | · | 1 | 20% | 2026-06-09 | 2026-06-09 |
+| Haddam ⁽ⁿᵖ⁾ | **1** | 1 | 1 | 1% | 2026-06-10 | 2026-06-10 |
+| Hebron ⁽ⁿᵖ⁾ | **1** | · | 1 | 37% | 2026-04-23 | 2026-04-23 |
+| New Fairfield ⁽ⁿᵖ⁾ | **1** | · | 1 | 76% | 2024-06-26 | 2024-06-26 |
+| Plymouth ⁽ⁿᵖ⁾ | **1** | · | 1 | 37% | 2026-04-15 | 2026-04-15 |
+| Salem ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-07-20 | 2026-07-20 |
+| Seymour ⁽ⁿᵖ⁾ | **1** | · | 1 | 75% | 2021-03-04 | 2021-03-04 |
+| Windsor ⁽ⁿᵖ⁾ | **1** | · | 1 | 49% | 2018-11-20 | 2018-11-20 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -102,11 +109,15 @@ _No human review has been applied to any mention in this file._
 _Most recent first within each town. Every line links to the exact second of the meeting video._
 
 
-### East Windsor — 111 mentions
+### East Windsor — 112 mentions
 
 - **[2026-07-28] Planning & Zoning Commission** — Planning & Zoning Commission Meeting 7/28/2026
   > …Obviously, you would never quite experience the site like this unless you're in a drone or some type of plane, but uh this gives you a sense of um where those existing vacuums are, where…
   [Watch ▸](https://www.youtube.com/watch?v=PUSkliUCgIM&t=4068s)  _(term: `drone`)_
+
+- **[2026-03-16] Broad Brook Fire Commission** — Town of East Windsor - Broad Brook Fire Department Minutes - 2026-03-16
+  > …s of replacing the ceiling tiles in firehouse. The bunk room and the secretary office have been completed so far. -Spalling of the concrete floors: an additional quote was sent to the treasurer. DRONE: -1 Drone activation on January 27th to Windsor Locks for a structure fire. Drone was utilized to locate hotspots and give birds eye view of the large manufacturing building. -Looking to possib…
+  [Open document ▸](https://www.eastwindsor-ct.gov/AgendaCenter/ViewFile/Minutes/_03162026-458)  _(agenda/minutes · term: `drone`)_
 
 - **[2025-04-07] Board of Finance** — Board of Finance, Monday, April 7, 2025 Budget Workshop
   > …some medical equipment in the cars, and a cruiser supplies that's needed. And lastly, we did our drone upgrade last uh June. Next slide. Um some of the things that we did…
@@ -148,12 +159,8 @@ _Most recent first within each town. Every line links to the exact second of the
   > …right there who do you guys use mcneel use mcneel company it's already in our policy the Drone itself was 13 to 15,000 our policy covers a drone up to 25 uh we got 4 million liability on personal…
   [Watch ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1687s)  _(term: `drone`)_
 
-- **[2024-10-17] Board of Selectmen** — Board of Selectmen Regular Meeting - October 17, 2024
-  > …use mcneel company it's already in our policy the Drone itself was 13 to 15,000 our policy covers a drone up to 25 uh we got 4 million liability on personal property and injury so we're covered…
-  [Watch ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1691s)  _(term: `drone`)_
 
-
-_99 further mentions in East Windsor not shown here — all of them are in East Windsor's full report (not yet published)._
+_100 further mentions in East Windsor not shown here — all of them are in East Windsor's full report (not yet published)._
 
 
 ### Milford — 107 mentions
@@ -220,6 +227,10 @@ _95 further mentions in Milford not shown here — all of them are in [Milford's
   > …you're going to have to pay 30% equipment. If you're carrying a 30 round magazine or 50 round drone, that's not for protection. Clearly not. So, um, some new laws have been taken effect.…
   [Watch ▸](https://www.youtube.com/watch?v=orfZ_UgcGaM&t=4490s)  _(term: `drone`)_
 
+- **[2024-03-12] Board of Education** — New Haven Board of Education Regular Board Meeting
+  > …oriented and the voice of our spmt would be carefully considered while getting from drone's visit in January to miss Bron's first day as principle today was not always easy relying on our shared…
+  [Watch ▸](https://www.youtube.com/watch?v=ivzsLMFaEqQ&t=1202s)  _(term: `drone`)_
+
 - **[2024-01-02] Board of Alders** — Full Board of Alders meeting 1/2/2024
   > …authorizing the mayor of the City of New Haven to purchase an allinclusive Brink thear two drone Twi pack package with five-year contract pricing by trading in our current Brank Lamar drones for tech…
   [Watch ▸](https://www.youtube.com/watch?v=xDh4cAwVS0Q&t=2312s)  _(term: `drone`)_
@@ -255,10 +266,6 @@ _95 further mentions in Milford not shown here — all of them are in [Milford's
 - **[2023-12-11] Finance Committee** — BoA Finance Committee 12/11/2023
   > …what happened was is we were authorized to purchase a drone we purchased the Drone and then then the company began to um do a long gear contract so it's very beneficial…
   [Watch ▸](https://www.youtube.com/watch?v=8aQFRUVbIZ8&t=717s)  _(term: `drone`)_
-
-- **[2023-12-11] Finance Committee** — BoA Finance Committee 12/11/2023
-  > …financially for us to fold into this five-year contract instead of just sticking with the Drone we have now which is the same type of drone this would just be an upgrade and a again a…
-  [Watch ▸](https://www.youtube.com/watch?v=8aQFRUVbIZ8&t=731s)  _(term: `drone`)_
 
 
 _75 further mentions in New Haven not shown here — all of them are in [New Haven's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)._
@@ -316,6 +323,114 @@ _75 further mentions in New Haven not shown here — all of them are in [New Hav
 
 
 _72 further mentions in Southington not shown here — all of them are in [Southington's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md)._
+
+
+### Old Saybrook — 64 mentions
+
+- **[2026-08-11] Board of Selectmen** — Board of Selectmen Agenda - 2026-08-11
+  > …lk Project is mostly done; the Ferry Road Soccer Field Project will commence in two weeks and probably last about 4 weeks; The towns of Westbrook and Old Lyme inquired about the drone show the town did for Celebrate Saybrook; bids were opened for landscape architects for Saybrook Point and 12 bids were received. The committee will start work soon with th…
+  [Open document ▸](https://www.oldsaybrookct.gov/AgendaCenter/ViewFile/Agenda/_08112026-787)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-07-28] Board of Selectmen** — Old Saybrook Board of Selectmen July 28, 2026
+  > …um I I'll make some comments. You know, twice we've had inquiries from Westbrook and from Old M about our drone show that we did. show. >> They're both like so many of our…
+  [Watch ▸](https://www.youtube.com/watch?v=XHMfYNvvWo0&t=168s)  _(term: `drone`)_
+
+- **[2026-07-28] Board of Selectmen** — Old Saybrook Board of Selectmen July 28, 2026
+  > …put it right out in front of like Saber Point and do a drone show with all three towns because you'd be able to see it from all three towns.…
+  [Watch ▸](https://www.youtube.com/watch?v=XHMfYNvvWo0&t=199s)  _(term: `drone`)_
+
+- **[2026-07-28] Board of Selectmen** — Old Saybrook Board of Selectmen July 28, 2026
+  > …>> In all like, you know, something like that. And then you could do more drones and the drone you can see him from up to three miles. So, it's not like anybody would be shut out. It'd be…
+  [Watch ▸](https://www.youtube.com/watch?v=XHMfYNvvWo0&t=209s)  _(term: `drone`)_
+
+- **[2026-07-28] Board of Finance** — Old Saybrook Board of Finance July 28, 2026
+  > …letter. Secondly, just on Celebrate Sabbrook >> and our drone show. My god, >> that's great. Hold on. So about a week later, Westbrook, we got a call from…
+  [Watch ▸](https://www.youtube.com/watch?v=1_g1LN3z-GA&t=8023s)  _(term: `drone`)_
+
+- **[2026-07-28] Board of Finance** — Old Saybrook Board of Finance July 28, 2026
+  > …later, Westbrook, we got a call from Westbrook saying, "Hey, you guys did a drone show. A lot of our citizens went and they loved it. Could we get the information on it?" I'm like, "Oh, yeah,…
+  [Watch ▸](https://www.youtube.com/watch?v=1_g1LN3z-GA&t=8032s)  _(term: `drone`)_
+
+- **[2026-07-28] Board of Finance** — Old Saybrook Board of Finance July 28, 2026
+  > …on a barge >> and have all three towns contribute and then you could have a drone show. I don't know if they could. I assume they could do it over the water. They do lose…
+  [Watch ▸](https://www.youtube.com/watch?v=1_g1LN3z-GA&t=8060s)  _(term: `drone`)_
+
+- **[2026-07-28] Board of Finance** — Old Saybrook Board of Finance July 28, 2026
+  > …for them to spend $25,000, and for that, you know, that $75,000 being spent, if you did that on one drone show, you could triple the drones and do this incredible show.…
+  [Watch ▸](https://www.youtube.com/watch?v=1_g1LN3z-GA&t=8104s)  _(term: `drone`)_
+
+- **[2026-07-28] Board of Finance** — Old Saybrook Board of Finance July 28, 2026
+  > …>> We're also see It kind of looks >> Oh, pretty. Yeah. Yeah. Yeah. We're also speculating the average age of the drone operator. They're probably like a 15. >> Hopefully, they know how to Yeah. with…
+  [Watch ▸](https://www.youtube.com/watch?v=1_g1LN3z-GA&t=8145s)  _(term: `drone`)_
+
+- **[2026-07-28] Board of Selectmen** — Board of Selectmen Minutes - 2026-07-28
+  > …lk Project is mostly done; the Ferry Road Soccer Field Project will commence in two weeks and probably last about 4 weeks; The towns of Westbrook and Old Lyme inquired about the drone show the town did for Celebrate Saybrook; bids were opened for landscape architects for Saybrook Point and 12 bids were received. The committee will start work soon with th…
+  [Open document ▸](https://www.oldsaybrookct.gov/AgendaCenter/ViewFile/Minutes/_07282026-779)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-07-27] Police Commission** — Old Saybrook Police Commission July 27, 2026
+  > …celebrate saving which is about $18,000 in itself >> the fireworks for the drone show yeah that was the same night but the we had event several weeks earlier. What…
+  [Watch ▸](https://www.youtube.com/watch?v=VZhM15YV_9s&t=520s)  _(term: `drone`)_
+
+- **[2026-07-14] Board of Selectmen** — Old Saybrook Board of Selectmen July 14, 2026
+  > …Okay. Well, a second official reveal. You might have gotten a little hint about the brand if you were at the drone show the other night. Okay. I've been doing this work for 40 years and that…
+  [Watch ▸](https://www.youtube.com/watch?v=J_lQvKx5K1s&t=781s)  _(term: `drone`)_
+
+
+_52 further mentions in Old Saybrook not shown here — all of them are in Old Saybrook's full report (not yet published)._
+
+
+### East Lyme — 59 mentions
+
+- **[2026-04-01] Board of Selectmen** — East Lyme, CT Board of Selectmen 04/01/2026
+  > …represent them. Two weeks ago, four candidates, Tony Atinazio, Mike Beckett, Carrie Edwards, and Kathy UAS were presented to you. All great candidates with different backgrounds, but would…
+  [Watch ▸](https://www.youtube.com/watch?v=bevKccEFfC8&t=364s)  _(term: `drone`)_
+
+- **[2026-03-18] Board of Selectmen** — East Lyme, CT Board of Selectmen 03/18/2026
+  > …>> Appreciate it. >> And next is Kathy. Hi. Um Kathy UAS, 12 Lake Avenue Extension here in Niantic. Uh good evening and thank you for the…
+  [Watch ▸](https://www.youtube.com/watch?v=vtn8wWVXhgI&t=3187s)  _(term: `drone`)_
+
+- **[2026-03-11] Board of Finance** — East Lyme, CT Board of Finance 03/11/2026
+  > …bring that back because she did get a position cut. She did ask for a part-time admin as well as drone. Um, those both got cut. That department did get a cut. Um, but it's a $100,000…
+  [Watch ▸](https://www.youtube.com/watch?v=HVJdYQmFuMQ&t=4311s)  _(term: `drone`)_
+
+- **[2026-03-09] Board of Selectmen** — Board of Selectmen Minutes - 2026-03-09
+  > …Pesonnel Services Total 118,1.0 108,123 108,123 139,'*f8 112,189 0 3.760h Services - Contracted/Operat l{EW Drone 0 0 0 18,952 0 #Dtv/ot 348 Radio Mainten€ TOVED TO lT 45,483…
+  [Open document ▸](https://eltownhall.com/wp-content/uploads/2026/03/BOS-March-9-2026-Special-Meeting-Minutes.pdf)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
+  > …>> understood >> okay um so then I had this beautiful drone in there [laughter]…
+  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=3835s)  _(term: `drone`)_
+
+- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
+  > …"This is this is great." And I said, "Yeah, but do you know how quickly I could have done this with a drone?" [laughter] You know what I mean? But because of that effort…
+  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=3970s)  _(term: `drone`)_
+
+- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
+  > …$18,000 that was in there that included the cloud storage. And this is an Axon drone which also mirrors the Axon body cameras that the police have. So it's using the same company. We would have…
+  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4036s)  _(term: `drone`)_
+
+- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
+  > …>> Thank you. >> If I could pull money to give you your drone, I'd be >> I know you were going to give me the car last time. I know.…
+  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4149s)  _(term: `drone`)_
+
+- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
+  > …that I had, it was 167,058 that included the admin assistant and the drone. Um then deducted the the three grants there. The total budget would be…
+  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4303s)  _(term: `drone`)_
+
+- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
+  > …But it's 118 now. It's 118,847 before we take off the grant money. So, >> is there a reason that the drone couldn't be added to the capital improvement plan?…
+  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4324s)  _(term: `drone`)_
+
+- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
+  > …>> So, the possibility of us putting it back in is there. Um well that was that was when we were going with the DJI DJI drone which was the cost of the drone itself that didn't did not include any…
+  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4343s)  _(term: `drone`)_
+
+- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
+  > …back in is there. Um well that was that was when we were going with the DJI DJI drone which was the cost of the drone itself that didn't did not include any iCloud storage or anything like that.…
+  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4346s)  _(term: `drone`)_
+
+
+_47 further mentions in East Lyme not shown here — all of them are in [East Lyme's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Norwalk — 59 mentions
@@ -534,115 +649,7 @@ _45 further mentions in West Hartford not shown here — all of them are in [Wes
 _41 further mentions in North Haven not shown here — all of them are in North Haven's full report (not yet published)._
 
 
-### East Lyme — 52 mentions
-
-- **[2026-04-01] Board of Selectmen** — East Lyme, CT Board of Selectmen 04/01/2026
-  > …represent them. Two weeks ago, four candidates, Tony Atinazio, Mike Beckett, Carrie Edwards, and Kathy UAS were presented to you. All great candidates with different backgrounds, but would…
-  [Watch ▸](https://www.youtube.com/watch?v=bevKccEFfC8&t=364s)  _(term: `drone`)_
-
-- **[2026-03-18] Board of Selectmen** — East Lyme, CT Board of Selectmen 03/18/2026
-  > …>> Appreciate it. >> And next is Kathy. Hi. Um Kathy UAS, 12 Lake Avenue Extension here in Niantic. Uh good evening and thank you for the…
-  [Watch ▸](https://www.youtube.com/watch?v=vtn8wWVXhgI&t=3187s)  _(term: `drone`)_
-
-- **[2026-03-11] Board of Finance** — East Lyme, CT Board of Finance 03/11/2026
-  > …bring that back because she did get a position cut. She did ask for a part-time admin as well as drone. Um, those both got cut. That department did get a cut. Um, but it's a $100,000…
-  [Watch ▸](https://www.youtube.com/watch?v=HVJdYQmFuMQ&t=4311s)  _(term: `drone`)_
-
-- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
-  > …>> understood >> okay um so then I had this beautiful drone in there [laughter]…
-  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=3835s)  _(term: `drone`)_
-
-- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
-  > …"This is this is great." And I said, "Yeah, but do you know how quickly I could have done this with a drone?" [laughter] You know what I mean? But because of that effort…
-  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=3970s)  _(term: `drone`)_
-
-- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
-  > …$18,000 that was in there that included the cloud storage. And this is an Axon drone which also mirrors the Axon body cameras that the police have. So it's using the same company. We would have…
-  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4036s)  _(term: `drone`)_
-
-- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
-  > …>> Thank you. >> If I could pull money to give you your drone, I'd be >> I know you were going to give me the car last time. I know.…
-  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4149s)  _(term: `drone`)_
-
-- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
-  > …that I had, it was 167,058 that included the admin assistant and the drone. Um then deducted the the three grants there. The total budget would be…
-  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4303s)  _(term: `drone`)_
-
-- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
-  > …But it's 118 now. It's 118,847 before we take off the grant money. So, >> is there a reason that the drone couldn't be added to the capital improvement plan?…
-  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4324s)  _(term: `drone`)_
-
-- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
-  > …>> So, the possibility of us putting it back in is there. Um well that was that was when we were going with the DJI DJI drone which was the cost of the drone itself that didn't did not include any…
-  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4343s)  _(term: `drone`)_
-
-- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
-  > …back in is there. Um well that was that was when we were going with the DJI DJI drone which was the cost of the drone itself that didn't did not include any iCloud storage or anything like that.…
-  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4346s)  _(term: `drone`)_
-
-- **[2026-02-18] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 02/18/2026
-  > …we had um I was working with Sergeant Wlette um and he was the one that told me about the Axon drone and about how it could all be incorporated into the same iCloud type…
-  [Watch ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4361s)  _(term: `drone`)_
-
-
-_40 further mentions in East Lyme not shown here — all of them are in [East Lyme's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md)._
-
-
-### Old Saybrook — 50 mentions
-
-- **[2026-07-28] Board of Selectmen** — Old Saybrook Board of Selectmen July 28, 2026
-  > …um I I'll make some comments. You know, twice we've had inquiries from Westbrook and from Old M about our drone show that we did. show. >> They're both like so many of our…
-  [Watch ▸](https://www.youtube.com/watch?v=XHMfYNvvWo0&t=168s)  _(term: `drone`)_
-
-- **[2026-07-28] Board of Selectmen** — Old Saybrook Board of Selectmen July 28, 2026
-  > …put it right out in front of like Saber Point and do a drone show with all three towns because you'd be able to see it from all three towns.…
-  [Watch ▸](https://www.youtube.com/watch?v=XHMfYNvvWo0&t=199s)  _(term: `drone`)_
-
-- **[2026-07-28] Board of Selectmen** — Old Saybrook Board of Selectmen July 28, 2026
-  > …>> In all like, you know, something like that. And then you could do more drones and the drone you can see him from up to three miles. So, it's not like anybody would be shut out. It'd be…
-  [Watch ▸](https://www.youtube.com/watch?v=XHMfYNvvWo0&t=209s)  _(term: `drone`)_
-
-- **[2026-07-28] Board of Finance** — Old Saybrook Board of Finance July 28, 2026
-  > …letter. Secondly, just on Celebrate Sabbrook >> and our drone show. My god, >> that's great. Hold on. So about a week later, Westbrook, we got a call from…
-  [Watch ▸](https://www.youtube.com/watch?v=1_g1LN3z-GA&t=8023s)  _(term: `drone`)_
-
-- **[2026-07-28] Board of Finance** — Old Saybrook Board of Finance July 28, 2026
-  > …later, Westbrook, we got a call from Westbrook saying, "Hey, you guys did a drone show. A lot of our citizens went and they loved it. Could we get the information on it?" I'm like, "Oh, yeah,…
-  [Watch ▸](https://www.youtube.com/watch?v=1_g1LN3z-GA&t=8032s)  _(term: `drone`)_
-
-- **[2026-07-28] Board of Finance** — Old Saybrook Board of Finance July 28, 2026
-  > …on a barge >> and have all three towns contribute and then you could have a drone show. I don't know if they could. I assume they could do it over the water. They do lose…
-  [Watch ▸](https://www.youtube.com/watch?v=1_g1LN3z-GA&t=8060s)  _(term: `drone`)_
-
-- **[2026-07-28] Board of Finance** — Old Saybrook Board of Finance July 28, 2026
-  > …for them to spend $25,000, and for that, you know, that $75,000 being spent, if you did that on one drone show, you could triple the drones and do this incredible show.…
-  [Watch ▸](https://www.youtube.com/watch?v=1_g1LN3z-GA&t=8104s)  _(term: `drone`)_
-
-- **[2026-07-28] Board of Finance** — Old Saybrook Board of Finance July 28, 2026
-  > …>> We're also see It kind of looks >> Oh, pretty. Yeah. Yeah. Yeah. We're also speculating the average age of the drone operator. They're probably like a 15. >> Hopefully, they know how to Yeah. with…
-  [Watch ▸](https://www.youtube.com/watch?v=1_g1LN3z-GA&t=8145s)  _(term: `drone`)_
-
-- **[2026-07-27] Police Commission** — Old Saybrook Police Commission July 27, 2026
-  > …celebrate saving which is about $18,000 in itself >> the fireworks for the drone show yeah that was the same night but the we had event several weeks earlier. What…
-  [Watch ▸](https://www.youtube.com/watch?v=VZhM15YV_9s&t=520s)  _(term: `drone`)_
-
-- **[2026-07-14] Board of Selectmen** — Old Saybrook Board of Selectmen July 14, 2026
-  > …Okay. Well, a second official reveal. You might have gotten a little hint about the brand if you were at the drone show the other night. Okay. I've been doing this work for 40 years and that…
-  [Watch ▸](https://www.youtube.com/watch?v=J_lQvKx5K1s&t=781s)  _(term: `drone`)_
-
-- **[2026-07-14] Board of Selectmen** — Old Saybrook Board of Selectmen July 14, 2026
-  > …show the other night. Okay. I've been doing this work for 40 years and that was my first drone brand reveal. I have another. Okay. So, here we go. I'm going to get…
-  [Watch ▸](https://www.youtube.com/watch?v=J_lQvKx5K1s&t=787s)  _(term: `drone`)_
-
-- **[2026-07-07] Economic Development Commission** — Old Saybrook Economic Development Commission July 7, 2026
-  > …>> that we did. >> That's a great question. I know that we have images of the drone there. We did have team members there, so I have no doubt that they have uh media that…
-  [Watch ▸](https://www.youtube.com/watch?v=O-mCa8iPWL0&t=147s)  _(term: `drone`)_
-
-
-_38 further mentions in Old Saybrook not shown here — all of them are in Old Saybrook's full report (not yet published)._
-
-
-### Groton — 49 mentions
+### Groton — 51 mentions
 
 - **[2026-08-18] Historic District Commission** — Groton Historic District Commission - 8/18/26
   > …the left side uh there's keep going go to the I guess you have to do it opposite. Go right. Pull the drone. There you go. That one there. Yeah. Um, it's a little bit awkward. That flat…
@@ -693,7 +700,61 @@ _38 further mentions in Old Saybrook not shown here — all of them are in Old S
   [Watch ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1672s)  _(term: `drone`)_
 
 
-_37 further mentions in Groton not shown here — all of them are in Groton's full report (not yet published)._
+_39 further mentions in Groton not shown here — all of them are in Groton's full report (not yet published)._
+
+
+### Darien — 44 mentions
+
+- **[2026-08-18] Board of Finance** — Board of Finance Agenda - 2026-08-18
+  > …- - Replace Holohan Backstop Parks & Rec $ - $ 33,760.00 33,760.00 - - - Drone Police $ 25,000.00 $ 24,732.83 24,732.83 - - - CCTV…
+  [Open document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_08182026-2504)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-05-19] Board of Finance** — Board of Finance Agenda - 2026-05-19
+  > …- - Replace Holohan Backstop Parks & Rec $ - $ 33,760.00 33,760.00 - - - Drone Police $ 25,000.00 $ 24,732.83 24,732.83 - - - CCTV Police…
+  [Open document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_05192026-2404)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-04-20] Board of Selectmen** — Board of Selectmen Agenda - 2026-04-20
+  > …onetsk Oblast) Protective Gear for Municipal Workers – Sviatohirsk (Donetsk Oblast) $1,500 per person Kostiantynivka (Donetsk Oblast) Drone Detectors for Sviatohirsk – $600 per Siversk (Donetsk Oblast) unit Druzhkivka (Donetsk Oblast) Kramatorsk (Donetsk Oblast) Children & Commun…
+  [Open document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_04202026-2356)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-03-23] Board of Selectmen** — Board of Selectmen Minutes - 2026-03-23
+  > …Watch and buffet dinner. On March 19, 2026 he attended the swearing in of three new police officers. He informed the Board that he and the Town Administrator are working on an approach to align Town drone usage across all departments. BOARD LIAISON REPORTS Mr. Burke reported that the Blight Review Board’s next meeting will be in April. Ms. Neumann reported that Thriving Youth Darien met on Mar…
+  [Open document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Minutes/_03232026-2310)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-03-17] Board of Finance** — Board of Finance  3-17-26
+  > …related. Um, there is a line item in here for operating and licensing drone operators uh, associated with potentially acquiring three small drones.…
+  [Watch ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=7717s)  _(term: `drone`)_
+
+- **[2026-03-17] Board of Finance** — Board of Finance  3-17-26
+  > …uh, part of a first selectman charge to assess uh, our drone usage as a town and let's not put them in every department and have to…
+  [Watch ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=7737s)  _(term: `drone`)_
+
+- **[2026-03-17] Board of Finance** — Board of Finance  3-17-26
+  > …but let's be efficient and smart about it, but it's not a big item in this budget. And uh, that that drone study makes sense to make sure we're being efficient with respect to the um,…
+  [Watch ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=7747s)  _(term: `drone`)_
+
+- **[2026-03-10] Board of Finance** — Board of Finance Agenda - 2026-03-10
+  > …$ - $ 33,760.00 33,760.00 - - - Drone Police $ 25,000.00 $ 24,732.83 24,732.83…
+  [Open document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_03102026-2280)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-02-10] Board of Finance** — Board of Finance Agenda - 2026-02-10
+  > …- - Replace Holohan Backstop Parks & Rec $ - $ 33,760.00 33,760.00 - - - Drone Police $ 25,000.00 $ 24,732.83 24,732.83 - - - CCTV…
+  [Open document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_02102026-2224)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-02-09] Board of Selectmen** — Board of Selectmen 2.09.26
+  > …what they are requesting is the purchase of three drones for use in inspections. They're $500 per drone and about $180 per per person to get registered and trained. So about $680 per drone,…
+  [Watch ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7525s)  _(term: `drone`)_
+
+- **[2026-02-09] Board of Selectmen** — Board of Selectmen 2.09.26
+  > …They're $500 per drone and about $180 per per person to get registered and trained. So about $680 per drone, $2,000, $2,40 total for the program. Um, the way this would work is they get on…
+  [Watch ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7531s)  _(term: `drone`)_
+
+- **[2026-02-09] Board of Selectmen** — Board of Selectmen 2.09.26
+  > …rely on scaffolding that's been put up by the contractor and may at times be questionable. Um, they can use a drone to get up and view um, chimneys, roofs, flashing, all of these things. So in…
+  [Watch ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7554s)  _(term: `drone`)_
+
+
+_32 further mentions in Darien not shown here — all of them are in Darien's full report (not yet published)._
 
 
 ### Brookfield — 43 mentions
@@ -804,58 +865,58 @@ _31 further mentions in Brookfield not shown here — all of them are in [Brookf
 _26 further mentions in Berlin not shown here — all of them are in Berlin's full report (not yet published)._
 
 
-### Darien — 37 mentions
+### Kent — 37 mentions
 
-- **[2026-03-17] Board of Finance** — Board of Finance  3-17-26
-  > …related. Um, there is a line item in here for operating and licensing drone operators uh, associated with potentially acquiring three small drones.…
-  [Watch ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=7717s)  _(term: `drone`)_
+- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
+  > …>> go ahead. >> I was just going to say, um, I I have two different, um, drone videos of the final balloon test that we did this past Sunday, and they're on my screen if you…
+  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=672s)  _(term: `drone`)_
 
-- **[2026-03-17] Board of Finance** — Board of Finance  3-17-26
-  > …uh, part of a first selectman charge to assess uh, our drone usage as a town and let's not put them in every department and have to…
-  [Watch ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=7737s)  _(term: `drone`)_
+- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
+  > …Sunday, and they're on my screen if you want to screen share and you want to see them. It's I'm I'm I am not a drone um, photographer person, but I'm happy to share them.…
+  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=682s)  _(term: `drone`)_
 
-- **[2026-03-17] Board of Finance** — Board of Finance  3-17-26
-  > …but let's be efficient and smart about it, but it's not a big item in this budget. And uh, that that drone study makes sense to make sure we're being efficient with respect to the um,…
-  [Watch ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=7747s)  _(term: `drone`)_
+- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
+  > …You guys are all seeing this? >> Yes. I mean, at least I am. using a drone was a good idea. >> Okay. So, let me just um so if you can see my cursor.…
+  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=753s)  _(term: `drone`)_
 
-- **[2026-02-09] Board of Selectmen** — Board of Selectmen 2.09.26
-  > …what they are requesting is the purchase of three drones for use in inspections. They're $500 per drone and about $180 per per person to get registered and trained. So about $680 per drone,…
-  [Watch ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7525s)  _(term: `drone`)_
+- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
+  > …roads in the area. I just wanted you to get that sense for yourself. And the drone right now is at um 70 uh I think it's 120 ft above the elevation of the house site and the…
+  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=808s)  _(term: `drone`)_
 
-- **[2026-02-09] Board of Selectmen** — Board of Selectmen 2.09.26
-  > …They're $500 per drone and about $180 per per person to get registered and trained. So about $680 per drone, $2,000, $2,40 total for the program. Um, the way this would work is they get on…
-  [Watch ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7531s)  _(term: `drone`)_
+- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
+  > …>> So, I am now at treetop level. It was um a little bit amusing to try and actually to find the the drone itself, but um I mean find the balloons, but eventually I did. And so now I'm at treetop level…
+  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=876s)  _(term: `drone`)_
 
-- **[2026-02-09] Board of Selectmen** — Board of Selectmen 2.09.26
-  > …rely on scaffolding that's been put up by the contractor and may at times be questionable. Um, they can use a drone to get up and view um, chimneys, roofs, flashing, all of these things. So in…
-  [Watch ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7554s)  _(term: `drone`)_
+- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
+  > …the other direction. Um this is from the field looking towards the towards the drone the uh balloons. and…
+  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=906s)  _(term: `drone`)_
 
-- **[2026-02-09] Board of Selectmen** — Board of Selectmen 2.09.26
-  > …inspector's vehicles and then if they get on site and say, "Oh, perfect opportunity for a drone." It's there and it's usable instead of, "Oh, you know, kind of ar pre-arranged with the police…
-  [Watch ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7637s)  _(term: `drone`)_
+- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
+  > …>> That's right. Yep. >> Okay. So, that's pretty much the best you're going to get out of the drone stuff that I took. Okay. Well, I appreciate your effort. Um, I have been…
+  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=992s)  _(term: `drone`)_
 
-- **[2026-02-09] Board of Selectmen** — Board of Selectmen 2.09.26
-  > …>> Okay. More commonly sized drones. >> Yeah. I I remember that the police you needed two people too to run the drone. Um but that might have just been for because it was police work,…
-  [Watch ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7662s)  _(term: `drone`)_
+- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
+  > …trees were removed, you better believe you would see those balloons. Um, the drone footage was beautiful. Part of the reason that drone footage was beautiful because as you swung around to the…
+  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1137s)  _(term: `drone`)_
 
-- **[2026-02-09] Board of Selectmen** — Board of Selectmen 2.09.26
-  > …>> That's a good negotiation right there. >> That is a very good question. Um, we do we are adding drone coverage. That is not something that we previously had. Um, so I'm not quite sure what the…
-  [Watch ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7726s)  _(term: `drone`)_
+- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
+  > …you would see those balloons. Um, the drone footage was beautiful. Part of the reason that drone footage was beautiful because as you swung around to the panorama, the majority of the hilltops…
+  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1139s)  _(term: `drone`)_
 
-- **[2026-02-09] Board of Selectmen** — Board of Selectmen 2.09.26
-  > …Um, I have a little bit of a pause with this in the sense that um, if you just use a drone once a month or periodically, you're not going to have the skills required to position that…
-  [Watch ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7756s)  _(term: `drone`)_
+- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
+  > …at the very top we we even went into Washington. We did Lake Waramug Road. But it's obvious from the drone video that there's no way we're going to see those…
+  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1335s)  _(term: `drone`)_
 
-- **[2026-02-09] Board of Selectmen** — Board of Selectmen 2.09.26
-  > …there. And I just worry about the quality of the work being consistent if if we're going to spread out drone usage and drone ownership across different town departments. Uh I guess…
-  [Watch ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7797s)  _(term: `drone`)_
+- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
+  > …that's been provided um [clears throat] and the the drive by that we did. I think with the drone is great. Don't get me wrong. I think you know you've you've done you've put a lot of work…
+  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1401s)  _(term: `drone`)_
 
-- **[2026-02-09] Board of Selectmen** — Board of Selectmen 2.09.26
-  > …quality of the work being consistent if if we're going to spread out drone usage and drone ownership across different town departments. Uh I guess my request would be can we take a look…
-  [Watch ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7798s)  _(term: `drone`)_
+- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
+  > …>> Yes. >> Yeah. Well, that's what you saw with the drone view that she showed. >> But there's still another 75 to 80 feet of elevation behind the house before you…
+  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=2842s)  _(term: `drone`)_
 
 
-_25 further mentions in Darien not shown here — all of them are in Darien's full report (not yet published)._
+_25 further mentions in Kent not shown here — all of them are in Kent's full report (not yet published)._
 
 
 ### Wallingford — 33 mentions
@@ -1020,58 +1081,220 @@ _21 further mentions in Waterbury not shown here — all of them are in [Waterbu
 _19 further mentions in Farmington not shown here — all of them are in Farmington's full report (not yet published)._
 
 
+### New Canaan — 30 mentions
+
+- **[2026-06-23] Board of Selectmen** — Board of Selectmen Meeting June 23, 2026
+  > …weeks ago or or so, that was that's to be used as a command vehicle and drone operation vehicle. And to transport some maybe pieces of equipment as as possible, but…
+  [Watch ▸](https://www.youtube.com/watch?v=QDtmL9pHuTo&t=1134s)  _(term: `drone`)_
+
+- **[2026-06-23] Board of Selectmen** — Board of Selectmen Meeting June 23, 2026
+  > …pieces of equipment as as possible, but it's more used for command and control and for the drone purposes. So, it's totally separate. >> this is a replacement. The other one's…
+  [Watch ▸](https://www.youtube.com/watch?v=QDtmL9pHuTo&t=1145s)  _(term: `drone`)_
+
+- **[2026-06-11] Conservation Commission** — Conservation Commission Meeting June 11, 2026
+  > …>> All right. Robin, are you open to receiving a proposal to do a a drone survey of one of the Land Trust properties? >> Yeah, let me talk to the stewardship…
+  [Watch ▸](https://www.youtube.com/watch?v=wBOH0Mqdfbc&t=286s)  _(term: `drone`)_
+
+- **[2026-05-20] Town Council** — Town Council Meeting May 20, 2026
+  > …lot of New Canaanites are angry because they can't go about their basic life without the constant drone of leaf blowers and the noise that comes at it. you I mean people are working from home…
+  [Watch ▸](https://www.youtube.com/watch?v=jh0gQqcStH8&t=6218s)  _(term: `drone`)_
+
+- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
+  > …>> addition to Captain Fanga, we have Officer Matt Blank who was instrumental in the inception of our drone program. Also named >> Well, I was going to say I think…
+  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=528s)  _(term: `drone`)_
+
+- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
+  > …vehicle that would also be a good um vehicle that we could launch drones from. Our our drone program, the uh ambulance corps recently bought a new ambulance and the one they were getting…
+  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=551s)  _(term: `drone`)_
+
+- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
+  > …reconstruction equipment um and various other uh pieces of equipment. Um, but the drone batteries and the drone package would be in there as well. So, I don't know if you had any questions…
+  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=600s)  _(term: `drone`)_
+
+- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
+  > …package would be in there as well. So, I don't know if you had any questions about the the drone package or >> I I just have um a question about just acquiring another vehicle and you know,…
+  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=604s)  _(term: `drone`)_
+
+- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
+  > …can actually store your command board, have a monitor that you can visualize where the what the drone is doing and what the drone sees and have other video feeds as well uh is instrumental. Plus…
+  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=890s)  _(term: `drone`)_
+
+- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
+  > …have a monitor that you can visualize where the what the drone is doing and what the drone sees and have other video feeds as well uh is instrumental. Plus to have uh you're safe from the elements…
+  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=891s)  _(term: `drone`)_
+
+- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
+  > …pick up the the radios that we need to pass out to other agencies so we can communicate with them with the UAS radios. We don't have that now. We don't have the capability for that.…
+  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=919s)  _(term: `drone`)_
+
+- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
+  > …to incumbent or um encumber all of the stuff you would normally bring to the drone unit. >> So, we have an SRT and we're replacing it and that's in the capital budget. Am…
+  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=1137s)  _(term: `drone`)_
+
+
+_18 further mentions in New Canaan not shown here — all of them are in New Canaan's full report (not yet published)._
+
+
 ### Orange — 30 mentions
 
-- **[2023-09-08] OGAT Committee** — September 7 - OGAT Committee - Regular Meeting - Town of Orange, CT Live Meetings
-  > …going to be mostly in the Town Center um and we might potentially try to do some more Drone footage um so that's the goal with that and um so there will be some more coming out…
-  [Watch ▸](https://www.youtube.com/watch?v=c5RKhWQs7rY&t=952s)  _(term: `drone`)_
+- **[2026-07-09] Board of Selectmen** — July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > …there's tons of articles. Milford's got how 40 of these cameras. They have a drone that'll fly up and chase people's cars around and stuff. it. I don't know if anyone here has ever watched the show…
+  [Watch ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4394s)  _(term: `drone`)_
 
-- **[2023-07-18] Zoning Board of Appeals** — July 17 - Zoning Board of Appeals - Special Meeting - Town of Orange, CT Live Meetings
-  > …survey we did all those part of the application process including I think there was a drone over there I don't know if doing before I think you just need the A2 server…
-  [Watch ▸](https://www.youtube.com/watch?v=D3cTwFlpJUo&t=852s)  _(term: `drone`)_
+- **[2024-06-27] Park & Recreation Commission** — June 26 - Park & Recreation Commission - Regular Meeting - Town of Orange, CT Live Meetings
+  > …there they're going to do another uh site video visit they're going to do some you know drone visits they're going to do lots of other topography stuff um what else are they going to do um that's…
+  [Watch ▸](https://www.youtube.com/watch?v=GewX1j1R25Q&t=870s)  _(term: `drone`)_
 
-- **[2023-07-13] Board of Selectmen** — July 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > …some updated uh aerial imagery of the recently completed improvements uh using our UAV or drone to capture update uh information that's really a great tool to convey what's being proposed to the…
-  [Watch ▸](https://www.youtube.com/watch?v=AA5rQhD_abY&t=1387s)  _(term: `drone`)_
+- **[2024-01-25] Park & Recreation Commission** — January 24 - Park & Recreation Commission - Regular Meeting - Town of Orange, CT Live Meetings
+  > …accurate data in order to understand what was out there so we flew the site with a uh with a drone UAV unmanned aerial vehicle um we did it to pick up the areas that were developed outside of…
+  [Watch ▸](https://www.youtube.com/watch?v=9StLjWjT63w&t=495s)  _(term: `drone`)_
 
-- **[2023-03-02] Board of Selectmen** — March 1 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > …now the police had made some comment there and for some odd reason there was police cars there with a drone early in the morning the other day somebody made a question they were…
-  [Watch ▸](https://www.youtube.com/watch?v=out-tqaWgDQ&t=4149s)  _(term: `drone`)_
+- **[2024-01-25] Park & Recreation Commission** — January 24 - Park & Recreation Commission - Regular Meeting - Town of Orange, CT Live Meetings
+  > …structure that lot too um there was a picture sent to me of a tournament where someone flew a drone I believe lacrosse and soccer were going on at the same time and there were about 81 cars in one…
+  [Watch ▸](https://www.youtube.com/watch?v=9StLjWjT63w&t=1267s)  _(term: `drone`)_
 
-- **[2023-02-10] OGAT Committee** — February 9 - OGAT Committee - Regular Meeting - Town of Orange, CT Live Meetings
-  > …um one of the police officers shot some b-roll footage using the police department drone I think he gave it to us and Chris used that in the opening title opening scenes of the…
-  [Watch ▸](https://www.youtube.com/watch?v=uGRo5griRzs&t=1445s)  _(term: `drone`)_
+- **[2023-11-16] Park & Recreation Commission** — November 15 - Park & Recreation Commission - Regular Meeting - Town of Orange, CT Live Meetings
+  > …Lacrosse um and the traffic flow wasn't great great so luckily you know they did drone shots of the entire facility um the next thing we would have to do and I don't know and and John and PJ and I…
+  [Watch ▸](https://www.youtube.com/watch?v=yWpZUGDTwXw&t=2638s)  _(term: `drone`)_
 
-- **[2022-12-09] OGAT Committee** — December 8 - OGAT Committee - Regular Meeting - Town of Orange, CT Live Meetings
-  > …Kelly was shooting b-roll footage to include in the bicentennial interview program he also secured Drone footage from the Orange Police Department for this purpose and was looking at four…
-  [Watch ▸](https://www.youtube.com/watch?v=sR5vks78h4o&t=408s)  _(term: `drone`)_
+- **[2023-10-27] OGAT Committee** — October 19 - OGAT Committee - Regular Meeting - Town of Orange, CT Live Meetings
+  > …everything with the exception of one thing we did not order the Drone and the reason we did not order the Drone is I started thinking about this and um I got concerned about…
+  [Watch ▸](https://www.youtube.com/watch?v=ps6d9tUB6cE&t=446s)  _(term: `drone`)_
 
-- **[2022-12-09] OGAT Committee** — December 8 - OGAT Committee - Regular Meeting - Town of Orange, CT Live Meetings
-  > …a whole bunch of other equipment um Chris is already with all that Drone footage that he got from the police department Chris was wondering if when…
-  [Watch ▸](https://www.youtube.com/watch?v=sR5vks78h4o&t=1749s)  _(term: `drone`)_
+- **[2023-10-27] OGAT Committee** — October 19 - OGAT Committee - Regular Meeting - Town of Orange, CT Live Meetings
+  > …thing we did not order the Drone and the reason we did not order the Drone is I started thinking about this and um I got concerned about liability…
+  [Watch ▸](https://www.youtube.com/watch?v=ps6d9tUB6cE&t=449s)  _(term: `drone`)_
 
-- **[2022-12-09] OGAT Committee** — December 8 - OGAT Committee - Regular Meeting - Town of Orange, CT Live Meetings
-  > …department Chris was wondering if when the next guy Grant we should go for a drone I don't know it's a little premature to ask for that for that right now but…
-  [Watch ▸](https://www.youtube.com/watch?v=sR5vks78h4o&t=1756s)  _(term: `drone`)_
+- **[2023-10-27] OGAT Committee** — October 19 - OGAT Committee - Regular Meeting - Town of Orange, CT Live Meetings
+  > …that went up a little but one item went down quite a bit to the point that we didn't have enough for the Drone we now have more than enough for the Drone left in oh okay okay I have on the order of…
+  [Watch ▸](https://www.youtube.com/watch?v=ps6d9tUB6cE&t=586s)  _(term: `drone`)_
 
-- **[2022-12-09] OGAT Committee** — December 8 - OGAT Committee - Regular Meeting - Town of Orange, CT Live Meetings
-  > …it to be honest with you I was thinking about the holiday festival and kind of how it would be to have a drone to do the the tragic parade about Memorial Day Parade Memorial Day yeah I mean I I…
-  [Watch ▸](https://www.youtube.com/watch?v=sR5vks78h4o&t=1774s)  _(term: `drone`)_
+- **[2023-10-27] OGAT Committee** — October 19 - OGAT Committee - Regular Meeting - Town of Orange, CT Live Meetings
+  > …down quite a bit to the point that we didn't have enough for the Drone we now have more than enough for the Drone left in oh okay okay I have on the order of $4,200 a little bit more than $4,200 or…
+  [Watch ▸](https://www.youtube.com/watch?v=ps6d9tUB6cE&t=588s)  _(term: `drone`)_
 
-- **[2022-11-16] Town Plan & Zoning Commission** — November 15 - Town Plan & Zoning - Regular Meeting - Town of Orange, CT Live Meetings
-  > …attend to the previous meetings but I understand that no um a storm a water drone management plan was presented so that was one of my concerns…
-  [Watch ▸](https://www.youtube.com/watch?v=ZRiiZUo_sMc&t=5953s)  _(term: `drone`)_
+- **[2023-10-27] OGAT Committee** — October 19 - OGAT Committee - Regular Meeting - Town of Orange, CT Live Meetings
+  > …world I welcome the input from the committee I mean I agree if if you're asking if you agree not to get the Drone I fully agree with that that's fine I mean the town having two drones of its…
+  [Watch ▸](https://www.youtube.com/watch?v=ps6d9tUB6cE&t=623s)  _(term: `drone`)_
 
-- **[2022-09-09] OGAT Committee** — September 8 - OGAT Committee - Regular Meeting - Town of Orange, CT Live Meetings
-  > …other piece other maybe some some little uh we were thinking about maybe throwing in some drone shots of the town and having some some you know just just maybe have some…
-  [Watch ▸](https://www.youtube.com/watch?v=YsKYVqzmPEo&t=1011s)  _(term: `drone`)_
+- **[2023-10-26] Park & Recreation Commission** — October 25 - Park & Recreation Commission - Regular Meeting - Town of Orange, CT Live Meetings
+  > …haven't met because the company's still working on it they've they've done their scan drone SC scans uh they uh have initially come to us with some uh traffic uh temporary traffic suggestions…
+  [Watch ▸](https://www.youtube.com/watch?v=WDG7k4v_uKw&t=882s)  _(term: `drone`)_
 
-- **[2022-06-07] Board of Finance** — June 6 - Special Board of Finance - Town of Orange, CT Live Meetings
-  > …requests allocate funds for ferrocrashing laser scanner and software with drone mapping software so basically this um equipment that we're requesting is to replace outdated…
-  [Watch ▸](https://www.youtube.com/watch?v=eRzl5YgtGwU&t=669s)  _(term: `drone`)_
+- **[2023-10-12] Board of Selectmen** — October 11 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > …it was it was a beautiful day too um so BL came and presented they did their drone flight over the site including the the fields Tom um and they came back with some…
+  [Watch ▸](https://www.youtube.com/watch?v=kcHdlfN_CR8&t=4975s)  _(term: `drone`)_
 
 
 _18 further mentions in Orange not shown here — all of them are in Orange's full report (not yet published)._
+
+
+### Westport — 30 mentions
+
+- **[2026-08-24] Select Board** — Select Board - August 24, 2026
+  > …Point. Uh again, another another great event. Uh turnout was great. Uh saw some great videos and uh drone footage of the Shallop both coming in and leaving. So, it was uh a great event and and thank…
+  [Watch ▸](https://www.youtube.com/watch?v=TxQMSnENT9E&t=153s)  _(term: `drone`)_
+
+- **[2026-06-22] Disability Commission** — Disability Commission - June 22, 2026
+  > …with the police department, they did tell us that they're also they also have a drone that they use to help with emergency response. Um so, they can use that and deploy that to better…
+  [Watch ▸](https://www.youtube.com/watch?v=bqsQ0Lhizas&t=1361s)  _(term: `drone`)_
+
+- **[2026-06-22] Disability Commission** — Disability Commission - June 22, 2026
+  > …with the police department, they did tell us that they're also they also have a drone that they use to help with emergency response. Um so, they can use that and deploy that to better…
+  [Watch ▸](https://www.youtube.com/watch?v=cxjcOtftmYs&t=1366s)  _(term: `drone`)_
+
+- **[2026-06-01] Select Board** — Select Board - June 1, 2026
+  > …Um also uh he'd like to uh talk about the Westport drone unit, how um we continue to use it um almost weekly now. Um we just had that huge fire over…
+  [Watch ▸](https://www.youtube.com/watch?v=-1XnRiZ2UIE&t=2034s)  _(term: `drone`)_
+
+- **[2026-06-01] Select Board** — Select Board - June 1, 2026
+  > …Trainer Ryan spent numerous hours. I think Corey Mack spent over 24 hours there continually flying the drone up and down up and down um putting the thermal on the hot spots.…
+  [Watch ▸](https://www.youtube.com/watch?v=-1XnRiZ2UIE&t=2050s)  _(term: `drone`)_
+
+- **[2026-06-01] Select Board** — Select Board - June 1, 2026
+  > …Corey Mack was having to work an overtime shift that night. They called him out. He flew the drone up, and within 10 minutes he had the person on on the thermal image and…
+  [Watch ▸](https://www.youtube.com/watch?v=-1XnRiZ2UIE&t=2071s)  _(term: `drone`)_
+
+- **[2026-05-27] Harbor Advisory Committee** — Harbor Advisory Committee - May 27, 2026
+  > …Uh the second phase was a limited underwater inspection. They did bring a underwater drone down. Um That was back on the 13th. Um we were all doing uh an oil spill drill…
+  [Watch ▸](https://www.youtube.com/watch?v=ixpV6xMvvMM&t=1256s)  _(term: `drone`)_
+
+- **[2026-05-27] Harbor Advisory Committee** — Harbor Advisory Committee - May 27, 2026
+  > …inspect everything below the below the waterline and see where it goes. >> The underwater drone limit just looked at the general conditions or whatever.…
+  [Watch ▸](https://www.youtube.com/watch?v=ixpV6xMvvMM&t=1286s)  _(term: `drone`)_
+
+- **[2026-05-27] Harbor Advisory Committee** — Harbor Advisory Committee - May 27, 2026
+  > …>> So, did they give you some kind of a 3D map of what's under there with the drone? >> I don't know exactly yet, Milt, but whatever they have in my [clears throat]…
+  [Watch ▸](https://www.youtube.com/watch?v=ixpV6xMvvMM&t=1314s)  _(term: `drone`)_
+
+- **[2026-04-30] Climate Resilience Committee** — Climate Resilience Committee - April 30, 2026
+  > …Any other questions of Rebecca? I was just thinking, too, we probably have some drone operators in Westport and we could reach out to them and get them on board with this and send them an alert…
+  [Watch ▸](https://www.youtube.com/watch?v=dXqhVpN7IVg&t=1408s)  _(term: `drone`)_
+
+- **[2026-04-30] Climate Resilience Committee** — Climate Resilience Committee - April 30, 2026
+  > …mind doing a flight and documenting some of this stuff? Yeah, I'm I'm sure there are drone operators who are using this tool, Rebecca. Not so much drone operators because we…
+  [Watch ▸](https://www.youtube.com/watch?v=dXqhVpN7IVg&t=1421s)  _(term: `drone`)_
+
+- **[2026-04-30] Climate Resilience Committee** — Climate Resilience Committee - April 30, 2026
+  > …I'm I'm sure there are drone operators who are using this tool, Rebecca. Not so much drone operators because we we have mostly photos that are being uploaded, not so much videos. Um but…
+  [Watch ▸](https://www.youtube.com/watch?v=dXqhVpN7IVg&t=1427s)  _(term: `drone`)_
+
+
+_18 further mentions in Westport not shown here — all of them are in Westport's full report (not yet published)._
+
+
+### Somers — 29 mentions
+
+- **[2026-08-18] Board of Selectmen** — Board of Selectmen Special Meeting 8/18/26
+  > …11 food trucks. We had uh bands. We had games for kids. We had uh uh needless to say the drone show. Very very popular. We probably had at least somewhere between 1,500 and 2,000 people…
+  [Watch ▸](https://www.youtube.com/watch?v=ehGnRfyHqrk&t=469s)  _(term: `drone`)_
+
+- **[2026-02-03] Board of Finance** — Board of Finance - Special Meeting - 2/3/2026
+  > …anthem. And uh and on we go into our our final uh music concert followed by a drone based laser light show. Um and uh you know during the course of the day food trucks are about um the um public…
+  [Watch ▸](https://www.youtube.com/watch?v=z9YsZMAQFYs&t=206s)  _(term: `drone`)_
+
+- **[2026-02-03] Board of Finance** — Board of Finance - Special Meeting - 2/3/2026
+  > …um uh sketched out a budget and it um with the hard numbers that we know are drone show with 300 drones about $51,000. Um the stage and found equipment about…
+  [Watch ▸](https://www.youtube.com/watch?v=z9YsZMAQFYs&t=480s)  _(term: `drone`)_
+
+- **[2026-02-03] Board of Finance** — Board of Finance - Special Meeting - 2/3/2026
+  > …helped set that up and and frankly um uh Frank Anton, you know, was talking about the drone show that they had up there at Great Horse and was very enthusiastic about the prospect of seeing that happen…
+  [Watch ▸](https://www.youtube.com/watch?v=z9YsZMAQFYs&t=675s)  _(term: `drone`)_
+
+- **[2026-01-07] Conservation Commission** — Conservation Commission 1/7/2026
+  > …state provides on websites. So, it's not like >> Yeah, I'm not flying a drone. >> Yeah, we're not we're not spying on people trying to get them in trouble.…
+  [Watch ▸](https://www.youtube.com/watch?v=i5nZSNh-RhQ&t=1546s)  _(term: `drone`)_
+
+- **[2025-12-18] Board of Selectmen** — Board of Selectmen Meeting 12/18/25
+  > …>> so we um the America 250 committee uh I want to say back in October um met and approved um the drone show for um the America 250 celebration. Uh Sky Elements uh presented their…
+  [Watch ▸](https://www.youtube.com/watch?v=giOyQEVEydg&t=3116s)  _(term: `drone`)_
+
+- **[2025-12-18] Board of Selectmen** — Board of Selectmen Meeting 12/18/25
+  > …far as funding um goes. So we're now looking for approval of the Sky Elements contract for the drone show at the America 250 celebration and authorizing the first selectman to um enter into the…
+  [Watch ▸](https://www.youtube.com/watch?v=giOyQEVEydg&t=3153s)  _(term: `drone`)_
+
+- **[2025-12-18] Board of Selectmen** — Board of Selectmen Meeting 12/18/25
+  > …make it, Bob? >> Yeah. I'll make the motion to approve the Sky Elements contract, the drone show at the American 250 celebration and authorized for a second to sign the…
+  [Watch ▸](https://www.youtube.com/watch?v=giOyQEVEydg&t=3263s)  _(term: `drone`)_
+
+- **[2025-12-16] Board of Finance** — Board of Finance - Regular Meeting - 12/16/2025
+  > …raise the money. But we're at the stage now where there's a company called Sky Elements. They have a drone display that we're anticipating this is going to be the big deal of the day. It's going to…
+  [Watch ▸](https://www.youtube.com/watch?v=owm2HaBZ7v4&t=1686s)  _(term: `drone`)_
+
+- **[2025-12-16] Board of Finance** — Board of Finance - Regular Meeting - 12/16/2025
+  > …we're anticipating this is going to be the big deal of the day. It's going to be drone show. It's going to be at night. It's going to be visible for I mentioned this before 5 miles away. So…
+  [Watch ▸](https://www.youtube.com/watch?v=owm2HaBZ7v4&t=1694s)  _(term: `drone`)_
+
+- **[2025-12-16] Board of Finance** — Board of Finance - Regular Meeting - 12/16/2025
+  > …the board of finance are thinking about charging other towns to visit to see our drone show. >> Yeah, we've done a lot of luck charging other towns.…
+  [Watch ▸](https://www.youtube.com/watch?v=owm2HaBZ7v4&t=1705s)  _(term: `drone`)_
+
+- **[2025-12-16] Board of Finance** — Board of Finance - Regular Meeting - 12/16/2025
+  > …speak from anyone else on the board. They have their own thoughts. Perhaps it whether you have a show with a drone demonstration or fireworks or dancing girls or a band, that that doesn't…
+  [Watch ▸](https://www.youtube.com/watch?v=owm2HaBZ7v4&t=2008s)  _(term: `drone`)_
+
+
+_17 further mentions in Somers not shown here — all of them are in Somers's full report (not yet published)._
 
 
 ### Watertown — 28 mentions
@@ -1182,169 +1405,169 @@ _16 further mentions in Watertown not shown here — all of them are in Watertow
 _15 further mentions in Cheshire not shown here — all of them are in Cheshire's full report (not yet published)._
 
 
-### Kent — 19 mentions
+### Wethersfield — 23 mentions
 
-- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
-  > …>> go ahead. >> I was just going to say, um, I I have two different, um, drone videos of the final balloon test that we did this past Sunday, and they're on my screen if you…
-  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=672s)  _(term: `drone`)_
+- **[2026-04-22] Budget Work Session** — Budget Work Session  -  April 22, 2026
+  > …>> [snorts] >> Um The second item for FAA drone pilot testing, we bought a drone last year. We have a couple of department staff that…
+  [Watch ▸](https://www.youtube.com/watch?v=Jlo2-qScSgY&t=1355s)  _(term: `drone`)_
 
-- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
-  > …Sunday, and they're on my screen if you want to screen share and you want to see them. It's I'm I'm I am not a drone um, photographer person, but I'm happy to share them.…
-  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=682s)  _(term: `drone`)_
+- **[2026-04-22] Budget Work Session** — Budget Work Session  -  April 22, 2026
+  > …>> Um The second item for FAA drone pilot testing, we bought a drone last year. We have a couple of department staff that are going to get their um…
+  [Watch ▸](https://www.youtube.com/watch?v=Jlo2-qScSgY&t=1357s)  _(term: `drone`)_
 
-- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
-  > …You guys are all seeing this? >> Yes. I mean, at least I am. using a drone was a good idea. >> Okay. So, let me just um so if you can see my cursor.…
-  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=753s)  _(term: `drone`)_
+- **[2026-04-22] Budget Work Session** — Budget Work Session  -  April 22, 2026
+  > …maybe. So, we have some staff that are taking classes on that now. Got you. And when did we purchase the drone for? Um I want to say it was maybe a year and a half ago. And everything in technology,…
+  [Watch ▸](https://www.youtube.com/watch?v=Jlo2-qScSgY&t=2791s)  _(term: `drone`)_
 
-- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
-  > …roads in the area. I just wanted you to get that sense for yourself. And the drone right now is at um 70 uh I think it's 120 ft above the elevation of the house site and the…
-  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=808s)  _(term: `drone`)_
+- **[2026-03-24] Board of Education** — Board of Education Meeting  -  March 24, 2026
+  > …45-minute scheduled time to align with the other UAs. But the elementary media technical associate role was never changed.…
+  [Watch ▸](https://www.youtube.com/watch?v=FR0-VFjZSZE&t=1417s)  _(term: `drone`)_
 
-- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
-  > …>> So, I am now at treetop level. It was um a little bit amusing to try and actually to find the the drone itself, but um I mean find the balloons, but eventually I did. And so now I'm at treetop level…
-  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=876s)  _(term: `drone`)_
+- **[2025-04-07] Town Council** — Town Council Meeting - April 7, 2025
+  > …Mayor. Uh this is a sort of a dual question. The first is can you give us the status on um our drone which I believe we have but if you could let us know what that is and would it have…
+  [Watch ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1581s)  _(term: `drone`)_
 
-- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
-  > …the other direction. Um this is from the field looking towards the towards the drone the uh balloons. and…
-  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=906s)  _(term: `drone`)_
+- **[2025-04-07] Town Council** — Town Council Meeting - April 7, 2025
+  > …to the three individuals who wanted to run. So the drone the drone program uh it's in place. We we do have the drone. We just finished up training within the…
+  [Watch ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1595s)  _(term: `drone`)_
 
-- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
-  > …>> That's right. Yep. >> Okay. So, that's pretty much the best you're going to get out of the drone stuff that I took. Okay. Well, I appreciate your effort. Um, I have been…
-  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=992s)  _(term: `drone`)_
+- **[2025-04-07] Town Council** — Town Council Meeting - April 7, 2025
+  > …run. So the drone the drone program uh it's in place. We we do have the drone. We just finished up training within the last couple of weeks I believe we're…
+  [Watch ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1598s)  _(term: `drone`)_
 
-- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
-  > …trees were removed, you better believe you would see those balloons. Um, the drone footage was beautiful. Part of the reason that drone footage was beautiful because as you swung around to the…
-  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1137s)  _(term: `drone`)_
+- **[2025-04-07] Town Council** — Town Council Meeting - April 7, 2025
+  > …that. Um, and so that's the technology that can be used right then and there if we're able to, but as far as the drone, it's not a realistic expectation just because of how quick it happens. Okay.…
+  [Watch ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1624s)  _(term: `drone`)_
 
-- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
-  > …you would see those balloons. Um, the drone footage was beautiful. Part of the reason that drone footage was beautiful because as you swung around to the panorama, the majority of the hilltops…
-  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1139s)  _(term: `drone`)_
+- **[2025-01-21] Town Council** — Town Council Meeting - January 21, 2025
+  > …darts um okay and then that follows me to my next question is I think that we started our drone program recently we did we did I announced that at the breakfast as well so they were out there…
+  [Watch ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1755s)  _(term: `drone`)_
 
-- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
-  > …at the very top we we even went into Washington. We did Lake Waramug Road. But it's obvious from the drone video that there's no way we're going to see those…
-  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1335s)  _(term: `drone`)_
+- **[2025-01-21] Town Council** — Town Council Meeting - January 21, 2025
+  > …breakfast as well so they were out there last week getting the training on that but we did get the Drone in we're working with the the company on the EXT software program that helps it deploy um…
+  [Watch ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1763s)  _(term: `drone`)_
 
-- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
-  > …that's been provided um [clears throat] and the the drive by that we did. I think with the drone is great. Don't get me wrong. I think you know you've you've done you've put a lot of work…
-  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1401s)  _(term: `drone`)_
+- **[2025-01-21] Town Council** — Town Council Meeting - January 21, 2025
+  > …working with the the company on the EXT software program that helps it deploy um self- deployment with that that drone and also we have to work with the FAA cuz we are so close to Brin at airport…
+  [Watch ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1771s)  _(term: `drone`)_
 
-- **[2026-08-13] Planning and Zoning Commission** — PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026
-  > …>> Yes. >> Yeah. Well, that's what you saw with the drone view that she showed. >> But there's still another 75 to 80 feet of elevation behind the house before you…
-  [Watch ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=2842s)  _(term: `drone`)_
-
-
-_7 further mentions in Kent not shown here — all of them are in Kent's full report (not yet published)._
+- **[2025-01-21] Town Council** — Town Council Meeting - January 21, 2025
+  > …cuz we are so close to Brin at airport we there's flight restrictions with the Drone and special exceptions we have to go through but for the most part the training is done um and we could be…
+  [Watch ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1779s)  _(term: `drone`)_
 
 
-### New Canaan — 19 mentions
-
-- **[2026-06-23] Board of Selectmen** — Board of Selectmen Meeting June 23, 2026
-  > …weeks ago or or so, that was that's to be used as a command vehicle and drone operation vehicle. And to transport some maybe pieces of equipment as as possible, but…
-  [Watch ▸](https://www.youtube.com/watch?v=QDtmL9pHuTo&t=1134s)  _(term: `drone`)_
-
-- **[2026-06-23] Board of Selectmen** — Board of Selectmen Meeting June 23, 2026
-  > …pieces of equipment as as possible, but it's more used for command and control and for the drone purposes. So, it's totally separate. >> this is a replacement. The other one's…
-  [Watch ▸](https://www.youtube.com/watch?v=QDtmL9pHuTo&t=1145s)  _(term: `drone`)_
-
-- **[2026-06-11] Conservation Commission** — Conservation Commission Meeting June 11, 2026
-  > …>> All right. Robin, are you open to receiving a proposal to do a a drone survey of one of the Land Trust properties? >> Yeah, let me talk to the stewardship…
-  [Watch ▸](https://www.youtube.com/watch?v=wBOH0Mqdfbc&t=286s)  _(term: `drone`)_
-
-- **[2026-05-20] Town Council** — Town Council Meeting May 20, 2026
-  > …lot of New Canaanites are angry because they can't go about their basic life without the constant drone of leaf blowers and the noise that comes at it. you I mean people are working from home…
-  [Watch ▸](https://www.youtube.com/watch?v=jh0gQqcStH8&t=6218s)  _(term: `drone`)_
-
-- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
-  > …>> addition to Captain Fanga, we have Officer Matt Blank who was instrumental in the inception of our drone program. Also named >> Well, I was going to say I think…
-  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=528s)  _(term: `drone`)_
-
-- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
-  > …vehicle that would also be a good um vehicle that we could launch drones from. Our our drone program, the uh ambulance corps recently bought a new ambulance and the one they were getting…
-  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=551s)  _(term: `drone`)_
-
-- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
-  > …reconstruction equipment um and various other uh pieces of equipment. Um, but the drone batteries and the drone package would be in there as well. So, I don't know if you had any questions…
-  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=600s)  _(term: `drone`)_
-
-- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
-  > …package would be in there as well. So, I don't know if you had any questions about the the drone package or >> I I just have um a question about just acquiring another vehicle and you know,…
-  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=604s)  _(term: `drone`)_
-
-- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
-  > …can actually store your command board, have a monitor that you can visualize where the what the drone is doing and what the drone sees and have other video feeds as well uh is instrumental. Plus…
-  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=890s)  _(term: `drone`)_
-
-- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
-  > …have a monitor that you can visualize where the what the drone is doing and what the drone sees and have other video feeds as well uh is instrumental. Plus to have uh you're safe from the elements…
-  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=891s)  _(term: `drone`)_
-
-- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
-  > …pick up the the radios that we need to pass out to other agencies so we can communicate with them with the UAS radios. We don't have that now. We don't have the capability for that.…
-  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=919s)  _(term: `drone`)_
-
-- **[2026-05-19] Board of Selectmen** — Board of Selectmen Meeting May 19, 2026
-  > …to incumbent or um encumber all of the stuff you would normally bring to the drone unit. >> So, we have an SRT and we're replacing it and that's in the capital budget. Am…
-  [Watch ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=1137s)  _(term: `drone`)_
+_11 further mentions in Wethersfield not shown here — all of them are in Wethersfield's full report (not yet published)._
 
 
-_7 further mentions in New Canaan not shown here — all of them are in New Canaan's full report (not yet published)._
+### Monroe — 22 mentions
+
+- **[2026-05-21] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Regular Meeting 05/21/2026
+  > …So, this may also be a little difficult to follow, but what we did was we took a drone flight um in April of 2026, and we overlaid the contour shown on red over the proposed approved grades. Um, and…
+  [Watch ▸](https://www.youtube.com/watch?v=pif6idzVL2I&t=10852s)  _(term: `drone`)_
+
+- **[2026-05-21] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Regular Meeting 05/21/2026
+  > …we're fairly we're fairly close to it. Um so I just want to give you some quick earthwork stats. When we flew the drone in December 2024 needed we needed approximately 50,000 cubic yards of cut.…
+  [Watch ▸](https://www.youtube.com/watch?v=pif6idzVL2I&t=10936s)  _(term: `drone`)_
+
+- **[2026-05-21] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Regular Meeting 05/21/2026
+  > …in December 2024 needed we needed approximately 50,000 cubic yards of cut. Now that we've flown the drone in April 2026, we're down to about 10,000. So that's been a 40,000 cubic yard…
+  [Watch ▸](https://www.youtube.com/watch?v=pif6idzVL2I&t=10944s)  _(term: `drone`)_
+
+- **[2026-05-21] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Regular Meeting 05/21/2026
+  > …and then I'll open up to uh some questions. This was captured from the our drone um that was taken on um in April April 7th, 2026. And so again, there was kind of…
+  [Watch ▸](https://www.youtube.com/watch?v=pif6idzVL2I&t=11016s)  _(term: `drone`)_
+
+- **[2026-05-13] Inland Wetlands Commission** — Town of Monroe Ct Inland Wetland Regular Meeting 05/13/2026
+  > …>> is covered. >> We we think is there any way we could send some kind of like drone or something up the pipe to see what's going on down there. I mean…
+  [Watch ▸](https://www.youtube.com/watch?v=pFDDAUtggfM&t=6973s)  _(term: `drone`)_
+
+- **[2026-05-13] Inland Wetlands Commission** — Town of Monroe Ct Inland Wetland Regular Meeting 05/13/2026
+  > …shown. Um, we have to identify what's coming into it. some kind of robot drone drive up in the video. I don't know. >> No, I'm gonna I'm gonna…
+  [Watch ▸](https://www.youtube.com/watch?v=pFDDAUtggfM&t=7010s)  _(term: `drone`)_
+
+- **[2025-09-04] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Regular Meeting 09/04/2025
+  > …added but nothing has actually fundamentally changed from the layout of the drone. >> Right. It's still a lot wide uh clustered uh subdivision,…
+  [Watch ▸](https://www.youtube.com/watch?v=u10KuDJEvMs&t=5334s)  _(term: `drone`)_
+
+- **[2025-07-17] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Special Meeting 07/17/2025
+  > …would be aware of that. Um there was some protocols put in place when the drone was built um for emergency evacuation and those systems. I don't know what the status of those are…
+  [Watch ▸](https://www.youtube.com/watch?v=qC8xQIcHGdE&t=4800s)  _(term: `drone`)_
+
+- **[2025-04-17] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Meeting 04/17/2025
+  > …has been removed from the site since the uh approval? Yes. So, we did a drone too flight in December. Oh, December.…
+  [Watch ▸](https://www.youtube.com/watch?v=ZczniAVzW_c&t=5011s)  _(term: `drone`)_
+
+- **[2025-03-12] Inland Wetlands Commission** — Town of Monroe Ct Inland Wetland Regular Meeting 03/12/2025
+  > …provide this link to just to be the acceptance of this you all mentioned getting a drone flight possibly so we went we have one we went out get a drone flight um this is all on…
+  [Watch ▸](https://www.youtube.com/watch?v=ZBfvkgB7kS0&t=3036s)  _(term: `drone`)_
+
+- **[2025-03-12] Inland Wetlands Commission** — Town of Monroe Ct Inland Wetland Regular Meeting 03/12/2025
+  > …all mentioned getting a drone flight possibly so we went we have one we went out get a drone flight um this is all on a Cloud Server so people can go on and look at this if they want to um and…
+  [Watch ▸](https://www.youtube.com/watch?v=ZBfvkgB7kS0&t=3040s)  _(term: `drone`)_
+
+- **[2025-02-12] Inland Wetlands Commission** — Town of Monroe Ct Inland Wetland Regular Meeting 02/12/2025
+  > …prevent us from having to go out there does the bur or does the town have a drone or something uh uh not not in house cops don't have one I'm sure they do at this point all the cops know I…
+  [Watch ▸](https://www.youtube.com/watch?v=akBT2gFfc4g&t=717s)  _(term: `drone`)_
 
 
-### Somers — 18 mentions
-
-- **[2026-08-18] Board of Selectmen** — Board of Selectmen Special Meeting 8/18/26
-  > …11 food trucks. We had uh bands. We had games for kids. We had uh uh needless to say the drone show. Very very popular. We probably had at least somewhere between 1,500 and 2,000 people…
-  [Watch ▸](https://www.youtube.com/watch?v=ehGnRfyHqrk&t=469s)  _(term: `drone`)_
-
-- **[2026-02-03] Board of Finance** — Board of Finance - Special Meeting - 2/3/2026
-  > …anthem. And uh and on we go into our our final uh music concert followed by a drone based laser light show. Um and uh you know during the course of the day food trucks are about um the um public…
-  [Watch ▸](https://www.youtube.com/watch?v=z9YsZMAQFYs&t=206s)  _(term: `drone`)_
-
-- **[2026-02-03] Board of Finance** — Board of Finance - Special Meeting - 2/3/2026
-  > …um uh sketched out a budget and it um with the hard numbers that we know are drone show with 300 drones about $51,000. Um the stage and found equipment about…
-  [Watch ▸](https://www.youtube.com/watch?v=z9YsZMAQFYs&t=480s)  _(term: `drone`)_
-
-- **[2026-02-03] Board of Finance** — Board of Finance - Special Meeting - 2/3/2026
-  > …helped set that up and and frankly um uh Frank Anton, you know, was talking about the drone show that they had up there at Great Horse and was very enthusiastic about the prospect of seeing that happen…
-  [Watch ▸](https://www.youtube.com/watch?v=z9YsZMAQFYs&t=675s)  _(term: `drone`)_
-
-- **[2026-01-07] Conservation Commission** — Conservation Commission 1/7/2026
-  > …state provides on websites. So, it's not like >> Yeah, I'm not flying a drone. >> Yeah, we're not we're not spying on people trying to get them in trouble.…
-  [Watch ▸](https://www.youtube.com/watch?v=i5nZSNh-RhQ&t=1546s)  _(term: `drone`)_
-
-- **[2025-12-18] Board of Selectmen** — Board of Selectmen Meeting 12/18/25
-  > …>> so we um the America 250 committee uh I want to say back in October um met and approved um the drone show for um the America 250 celebration. Uh Sky Elements uh presented their…
-  [Watch ▸](https://www.youtube.com/watch?v=giOyQEVEydg&t=3116s)  _(term: `drone`)_
-
-- **[2025-12-18] Board of Selectmen** — Board of Selectmen Meeting 12/18/25
-  > …far as funding um goes. So we're now looking for approval of the Sky Elements contract for the drone show at the America 250 celebration and authorizing the first selectman to um enter into the…
-  [Watch ▸](https://www.youtube.com/watch?v=giOyQEVEydg&t=3153s)  _(term: `drone`)_
-
-- **[2025-12-18] Board of Selectmen** — Board of Selectmen Meeting 12/18/25
-  > …make it, Bob? >> Yeah. I'll make the motion to approve the Sky Elements contract, the drone show at the American 250 celebration and authorized for a second to sign the…
-  [Watch ▸](https://www.youtube.com/watch?v=giOyQEVEydg&t=3263s)  _(term: `drone`)_
-
-- **[2025-12-16] Board of Finance** — Board of Finance - Regular Meeting - 12/16/2025
-  > …raise the money. But we're at the stage now where there's a company called Sky Elements. They have a drone display that we're anticipating this is going to be the big deal of the day. It's going to…
-  [Watch ▸](https://www.youtube.com/watch?v=owm2HaBZ7v4&t=1686s)  _(term: `drone`)_
-
-- **[2025-12-16] Board of Finance** — Board of Finance - Regular Meeting - 12/16/2025
-  > …we're anticipating this is going to be the big deal of the day. It's going to be drone show. It's going to be at night. It's going to be visible for I mentioned this before 5 miles away. So…
-  [Watch ▸](https://www.youtube.com/watch?v=owm2HaBZ7v4&t=1694s)  _(term: `drone`)_
-
-- **[2025-12-16] Board of Finance** — Board of Finance - Regular Meeting - 12/16/2025
-  > …the board of finance are thinking about charging other towns to visit to see our drone show. >> Yeah, we've done a lot of luck charging other towns.…
-  [Watch ▸](https://www.youtube.com/watch?v=owm2HaBZ7v4&t=1705s)  _(term: `drone`)_
-
-- **[2025-12-16] Board of Finance** — Board of Finance - Regular Meeting - 12/16/2025
-  > …speak from anyone else on the board. They have their own thoughts. Perhaps it whether you have a show with a drone demonstration or fireworks or dancing girls or a band, that that doesn't…
-  [Watch ▸](https://www.youtube.com/watch?v=owm2HaBZ7v4&t=2008s)  _(term: `drone`)_
+_10 further mentions in Monroe not shown here — all of them are in Monroe's full report (not yet published)._
 
 
-_6 further mentions in Somers not shown here — all of them are in Somers's full report (not yet published)._
+### Rocky Hill — 21 mentions
+
+- **[2026-04-21] Town Council** — Town Council - April 20 , 2026
+  > …uh during the fire report um he had reported the fire chief reported that a drone had crashed on a call due to a propeller failure,…
+  [Watch ▸](https://www.youtube.com/watch?v=Dt8N33ZVLF4&t=6327s)  _(term: `drone`)_
+
+- **[2026-03-17] Town Council** — Town Council - March 16 , 2026
+  > …the assistant mechanic position. And I I found this pretty interesting. They had three drone calls for February and…
+  [Watch ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=2678s)  _(term: `drone`)_
+
+- **[2026-03-17] Town Council** — Town Council - March 16 , 2026
+  > …for February and >> like three calls for their drone to go somewhere else. >> Yeah.…
+  [Watch ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=2684s)  _(term: `drone`)_
+
+- **[2026-03-17] Town Council** — Town Council - March 16 , 2026
+  > …>> Um I think it was I think it was town >> three three calls for our drone to be used in town. I know they bring it to all kinds of stuff.…
+  [Watch ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=2694s)  _(term: `drone`)_
+
+- **[2026-03-17] Town Council** — Town Council - March 16 , 2026
+  > …Um, >> yeah, it was just three. It was just three drone activations. >> It was our drones, not other drones coming in,…
+  [Watch ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=2704s)  _(term: `drone`)_
+
+- **[2026-03-17] Town Council** — Town Council - March 16 , 2026
+  > …>> It was our drones, not other drones coming in, >> right? Okay. Three drone calls as in like UFOs or something. >> Right. Okay.…
+  [Watch ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=2710s)  _(term: `drone`)_
+
+- **[2025-04-22] Town Council** — Town Council  -   April 22,  2025
+  > …Department to go towards some new fire hoses and replacement quick deployment drone. Um, just one side comment on my own is that with regards to state funding, we should I'd be remiss not to…
+  [Watch ▸](https://www.youtube.com/watch?v=q-Bv4AETiKo&t=619s)  _(term: `drone`)_
+
+- **[2024-07-30] Sustainable Rocky Hill Taskforce** — Sustainable Rocky Hill Taskforce -- July 29 , 2024
+  > …so if is that something you you'd be interested in doing yes I'll be be able to take up the Drone as a chair I have to send an email to you Jason I guess…
+  [Watch ▸](https://www.youtube.com/watch?v=f0i_FRXG5jA&t=3783s)  _(term: `drone`)_
+
+- **[2024-06-03] Town Council** — Town Council   -- June 03, 2024
+  > …together and our uh Community videographer Michael tul was out there he's got some super cool drone shots and he is sort of um uh going from the very beginning and he will sort of track…
+  [Watch ▸](https://www.youtube.com/watch?v=pjAuA3q1peY&t=3195s)  _(term: `drone`)_
+
+- **[2024-06-03] Town Council** — Town Council   -- June 03, 2024
+  > …he is sort of um uh going from the very beginning and he will sort of track progress with his drone video and put something together for all of us to watch um when the barn is…
+  [Watch ▸](https://www.youtube.com/watch?v=pjAuA3q1peY&t=3204s)  _(term: `drone`)_
+
+- **[2024-04-16] Town Council** — Town Council  -- April 15 , 2024
+  > …drones um meanwhile take the case of Rocky Hill uh fire department has already purchased the Drone and is using it to save lives and uh respond to accidents and find people who are…
+  [Watch ▸](https://www.youtube.com/watch?v=izJmCouWTtY&t=4264s)  _(term: `drone`)_
+
+- **[2024-04-16] Town Council** — Town Council  -- April 15 , 2024
+  > …accidents and find people who are missing um so to say to the town now that you cannot use the Drone um I don't know what the cost was but I would guess 20 to $40,000 or somewhere in there plus…
+  [Watch ▸](https://www.youtube.com/watch?v=izJmCouWTtY&t=4274s)  _(term: `drone`)_
 
 
-### Old Lyme — 17 mentions
+_9 further mentions in Rocky Hill not shown here — all of them are in Rocky Hill's full report (not yet published)._
+
+
+### Old Lyme — 20 mentions
 
 - **[2026-08-11] Road and Public Safety Committee** — Road and Public Safety Committee Meeting 8/11/26
   > …totally huge number of violations in town. Um, one of the things he wanted to do was get a drone that was going to be for basically emergency rescue things. If…
@@ -1374,6 +1597,10 @@ _6 further mentions in Somers not shown here — all of them are in Somers's ful
   > …since, you know, we're a year out now, we can at least start a discussion about considering a drone show for that particular event. Um or or something like that, and price it out and uh get…
   [Watch ▸](https://www.youtube.com/watch?v=yeAAwg0lLgM&t=2963s)  _(term: `drone`)_
 
+- **[2026-07-27] Board of Selectmen** — Board of Selectmen Minutes - 2026-07-27
+  > …from local resident Jude Archer. There are many concerns about traditional fireworks due to negative effect on pets, people with PTSD, and the environment. He would like to investigate drone/laser shows. Selectman Mesham added that fireworks are very traditional, and there might be pushback, but it is worth having the discussion. 8. Adjournment MOTION to adjourn the meeting…
+  [Open document ▸](https://ct-oldlyme.civicplus.com/AgendaCenter/ViewFile/Minutes/_07272026-3428)  _(agenda/minutes · term: `drone`)_
+
 - **[2026-05-11] Zoning Commission** — Zoning Commission Regular Meeting 5/11/26
   > …in there. >> This is the view from actually the Connecticut River. Uh we took our drone, we flew it out there, that's about 5,000 ft away. So when that Connecticut River…
   [Watch ▸](https://www.youtube.com/watch?v=oTS7LVqJGqY&t=6839s)  _(term: `drone`)_
@@ -1390,12 +1617,62 @@ _6 further mentions in Somers not shown here — all of them are in Somers's ful
   > …ground. Um, but it is it is there. It is closer than 100 ft. Uh, and if you had a drone or you went up above there, you can look down and see it. But from the level of the water, you can't see the…
   [Watch ▸](https://www.youtube.com/watch?v=DINvgsrfPS0&t=1958s)  _(term: `drone`)_
 
-- **[2026-03-11] Rogers Lake Authority** — Rogers Lake Authority Regular Meeting 3/11/26
-  > …issue of the depth. I don't know if any of you got a chance to look, but they there's a like a drone picture of a boat going by that leaves a trail of disturbed…
-  [Watch ▸](https://www.youtube.com/watch?v=cym7_Ws4rKk&t=3993s)  _(term: `drone`)_
+
+_8 further mentions in Old Lyme not shown here — all of them are in Old Lyme's full report (not yet published)._
 
 
-_5 further mentions in Old Lyme not shown here — all of them are in Old Lyme's full report (not yet published)._
+### Norwich — 17 mentions
+
+- **[2026-08-06] Inland Wetlands, Watercourses & Conservation Commission** — Inland Wetlands, Water Courses & Conservation Commission Minutes - 2026-08-06
+  > …for IWWCC #26-10 until the October 1, 2026 Inland Wetland and Watercourses Conservation Commission. The motion was seconded by Nicholas Fortson. The motion passed unanimously. Site Walk vs. Drone Flyover and Narrative Tour Dan Daniska asked the Commission Chair if in-lieu of the typical Site Walk that would be conducted as part of the Public Hearing process, that a Drone Flyover an…
+  [Open document ▸](https://www.norwichct.gov/AgendaCenter/ViewFile/Minutes/_08062026-6970)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-07-21] School Building Committee** — 2026-07-21 School Building Committee
+  > …although the link is available if somebody wants it we'll send we'll do you know periodic drone overs as the site comes up uh next primarily with the instructor stats.…
+  [Watch ▸](https://www.youtube.com/watch?v=mYMfSWemnfE&t=4113s)  _(term: `drone`)_
+
+- **[2026-07-21] School Building Committee** — 2026-07-21 School Building Committee
+  > …presentation, aerial view of the site on 618. Uh and then the large file of the uh the drone afterwards that we don't need to watch. >> It's going so fast.…
+  [Watch ▸](https://www.youtube.com/watch?v=mYMfSWemnfE&t=4443s)  _(term: `drone`)_
+
+- **[2026-01-27] School Building Committee** — 2026-01-27 School Building Committee
+  > …because I haven't had too much to share yet. But next photo, January 13th, another drone shot of the site here. Um, you can see all the interior concrete peers are poured out, back filled. Um,…
+  [Watch ▸](https://www.youtube.com/watch?v=KsKbLhD50Ag&t=1965s)  _(term: `drone`)_
+
+- **[2026-01-27] School Building Committee** — 2026-01-27 School Building Committee
+  > …last Thursday. Just wanted to give a more upto-date progress photo on Mr. Drone. You can see decking getting installed over the first floor. We're building up the second floor and third…
+  [Watch ▸](https://www.youtube.com/watch?v=KsKbLhD50Ag&t=2117s)  _(term: `drone`)_
+
+- **[2025-11-18] School Building Committee** — 2025-11-18 School Building Committee
+  > …received that this morning. The roofing subcontractor >> actually had a drone company um photograph the project for their own progress and he was kind enough to share…
+  [Watch ▸](https://www.youtube.com/watch?v=YrXsi-7UL2E&t=1763s)  _(term: `drone`)_
+
+- **[2025-11-18] School Building Committee** — 2025-11-18 School Building Committee
+  > …side heading towards area C. So that was November 14th, right? This is November 18th, a drone shot. So this was this was this morning. I don't know if you can drag this out of…
+  [Watch ▸](https://www.youtube.com/watch?v=YrXsi-7UL2E&t=2485s)  _(term: `drone`)_
+
+- **[2025-10-21] School Building Committee** — 2025-10-21 School Building Committee
+  > …the videographer is going to set on the building, possibly even bringing in a drone so they could live stream it or share it with the kids. Um, and then a crane will be leaving this week. They're…
+  [Watch ▸](https://www.youtube.com/watch?v=p1ceTLOx20Q&t=3555s)  _(term: `drone`)_
+
+- **[2025-10-21] School Building Committee** — 2025-10-21 School Building Committee
+  > …the hill 4 B and 4 A. Another look of that same location from the drone. So you can see kind of where the valley is, where the wall's going to start. Building pad is starting to take…
+  [Watch ▸](https://www.youtube.com/watch?v=p1ceTLOx20Q&t=4195s)  _(term: `drone`)_
+
+- **[2025-10-21] School Building Committee** — 2025-10-21 School Building Committee
+  > …inclined back as opposed to just >> Yeah. >> Another drone shot. So, this is all the way at the top of the hill. This goes out to Boswell. Um we have the drill…
+  [Watch ▸](https://www.youtube.com/watch?v=p1ceTLOx20Q&t=4270s)  _(term: `drone`)_
+
+- **[2025-10-21] School Building Committee** — 2025-10-21 School Building Committee
+  > …getting ready for blasting. We did a shot up here today. Actually, this is actually a shot from today, the drone shot. So, this is the um powder truck that fills the holes on site with the…
+  [Watch ▸](https://www.youtube.com/watch?v=p1ceTLOx20Q&t=4281s)  _(term: `drone`)_
+
+- **[2025-10-21] School Building Committee** — 2025-10-21 School Building Committee
+  > …>> There's a muster area once they actually blast. Everyone on site has to go to >> Oh, this is another drone shot. Our trailers are kind of right here. So, this just gives you a look at the whole…
+  [Watch ▸](https://www.youtube.com/watch?v=p1ceTLOx20Q&t=4301s)  _(term: `drone`)_
+
+
+_5 further mentions in Norwich not shown here — all of them are in Norwich's full report (not yet published)._
 
 
 ### Hartford — 16 mentions
@@ -1452,274 +1729,58 @@ _5 further mentions in Old Lyme not shown here — all of them are in Old Lyme's
 _4 further mentions in Hartford not shown here — all of them are in [Hartford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Monroe — 16 mentions
+### Newington — 15 mentions
 
-- **[2026-05-21] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Regular Meeting 05/21/2026
-  > …So, this may also be a little difficult to follow, but what we did was we took a drone flight um in April of 2026, and we overlaid the contour shown on red over the proposed approved grades. Um, and…
-  [Watch ▸](https://www.youtube.com/watch?v=pif6idzVL2I&t=10852s)  _(term: `drone`)_
+- **[2026-08-06] Zoning Board of Appeals** — Zoning Board of Appeals Minutes - 2026-08-06
+  > …August 6, 2026 Page 11 Erik Hinckley: It was attached to the complaint that 1 received. It appears to be a drone. After the July 10th one, the Notice ofViolation was also attached, received his appeal, and then just on July 29th another item stamped in the Town Clerk's office and delivered to me about anot…
+  [Open document ▸](https://www.newingtonct.gov/AgendaCenter/ViewFile/Minutes/_08062026-4022)  _(agenda/minutes · term: `drone`)_
 
-- **[2026-05-21] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Regular Meeting 05/21/2026
-  > …we're fairly we're fairly close to it. Um so I just want to give you some quick earthwork stats. When we flew the drone in December 2024 needed we needed approximately 50,000 cubic yards of cut.…
-  [Watch ▸](https://www.youtube.com/watch?v=pif6idzVL2I&t=10936s)  _(term: `drone`)_
+- **[2026-08-03] Zoning Board of Appeals** — Zoning Board of Appeals Regular Meeting Aug 3, 2026
+  > …>> Uh it was attached to the complaint that I received. >> Was it a drone? It looks like >> it appears to have been a drone. Yes. By my eye, you know. Okay.…
+  [Watch ▸](https://www.youtube.com/watch?v=4jGAr4vgrXQ&t=2916s)  _(term: `drone`)_
 
-- **[2026-05-21] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Regular Meeting 05/21/2026
-  > …in December 2024 needed we needed approximately 50,000 cubic yards of cut. Now that we've flown the drone in April 2026, we're down to about 10,000. So that's been a 40,000 cubic yard…
-  [Watch ▸](https://www.youtube.com/watch?v=pif6idzVL2I&t=10944s)  _(term: `drone`)_
+- **[2026-08-03] Zoning Board of Appeals** — Zoning Board of Appeals Regular Meeting Aug 3, 2026
+  > …I received. >> Was it a drone? It looks like >> it appears to have been a drone. Yes. By my eye, you know. Okay. little not my call. Um…
+  [Watch ▸](https://www.youtube.com/watch?v=4jGAr4vgrXQ&t=2917s)  _(term: `drone`)_
 
-- **[2026-05-21] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Regular Meeting 05/21/2026
-  > …and then I'll open up to uh some questions. This was captured from the our drone um that was taken on um in April April 7th, 2026. And so again, there was kind of…
-  [Watch ▸](https://www.youtube.com/watch?v=pif6idzVL2I&t=11016s)  _(term: `drone`)_
+- **[2026-07-01] Open Space Committee** — Open Space Committee Regular Meeting Jul 1, 2026
+  > …kind of scroll through this. Um, we start on this beautiful cover page and this was the drone footage. This is Deming Young, right? >> Yes. Deming young farm. So,…
+  [Watch ▸](https://www.youtube.com/watch?v=uvfJdL6Wcgk&t=429s)  _(term: `drone`)_
 
-- **[2026-05-13] Inland Wetlands Commission** — Town of Monroe Ct Inland Wetland Regular Meeting 05/13/2026
-  > …>> is covered. >> We we think is there any way we could send some kind of like drone or something up the pipe to see what's going on down there. I mean…
-  [Watch ▸](https://www.youtube.com/watch?v=pFDDAUtggfM&t=6973s)  _(term: `drone`)_
+- **[2026-07-01] Open Space Committee** — Open Space Committee Regular Meeting Jul 1, 2026
+  > …>> so Mon'nique worked with the fire marshall's office, correct? And got some drone footage for this. And her and I also went out and spent a day at our parks and took some photos for this as…
+  [Watch ▸](https://www.youtube.com/watch?v=uvfJdL6Wcgk&t=436s)  _(term: `drone`)_
 
-- **[2026-05-13] Inland Wetlands Commission** — Town of Monroe Ct Inland Wetland Regular Meeting 05/13/2026
-  > …shown. Um, we have to identify what's coming into it. some kind of robot drone drive up in the video. I don't know. >> No, I'm gonna I'm gonna…
-  [Watch ▸](https://www.youtube.com/watch?v=pFDDAUtggfM&t=7010s)  _(term: `drone`)_
+- **[2026-07-01] Open Space Committee** — Open Space Committee Regular Meeting Jul 1, 2026
+  > …just like a little walkthrough brochure. The first um we have to go out and get more drone footage, but the first slide on here will be the video um aerial drone footage, and then it'll go through…
+  [Watch ▸](https://www.youtube.com/watch?v=uvfJdL6Wcgk&t=658s)  _(term: `drone`)_
 
-- **[2025-09-04] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Regular Meeting 09/04/2025
-  > …added but nothing has actually fundamentally changed from the layout of the drone. >> Right. It's still a lot wide uh clustered uh subdivision,…
-  [Watch ▸](https://www.youtube.com/watch?v=u10KuDJEvMs&t=5334s)  _(term: `drone`)_
+- **[2026-07-01] Open Space Committee** — Open Space Committee Regular Meeting Jul 1, 2026
+  > …more drone footage, but the first slide on here will be the video um aerial drone footage, and then it'll go through some professional photos, some taken with the drone, some not to kind of…
+  [Watch ▸](https://www.youtube.com/watch?v=uvfJdL6Wcgk&t=662s)  _(term: `drone`)_
 
-- **[2025-07-17] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Special Meeting 07/17/2025
-  > …would be aware of that. Um there was some protocols put in place when the drone was built um for emergency evacuation and those systems. I don't know what the status of those are…
-  [Watch ▸](https://www.youtube.com/watch?v=qC8xQIcHGdE&t=4800s)  _(term: `drone`)_
+- **[2026-07-01] Open Space Committee** — Open Space Committee Regular Meeting Jul 1, 2026
+  > …drone footage, and then it'll go through some professional photos, some taken with the drone, some not to kind of advertise these facilities. And then on each one, there's also going to be a PDF…
+  [Watch ▸](https://www.youtube.com/watch?v=uvfJdL6Wcgk&t=665s)  _(term: `drone`)_
 
-- **[2025-04-17] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Meeting 04/17/2025
-  > …has been removed from the site since the uh approval? Yes. So, we did a drone too flight in December. Oh, December.…
-  [Watch ▸](https://www.youtube.com/watch?v=ZczniAVzW_c&t=5011s)  _(term: `drone`)_
+- **[2025-12-11] Board of Fire Commissioners** — Board of Fire Commissioners Regular Meeting Dec 11, 2025
+  > …department. Uh the grant that we received was from the Capitol Regional Government. It's an anti- drone system that we're going to be able to use at emergency scenes, events, so forth. It's…
+  [Watch ▸](https://www.youtube.com/watch?v=2ddMUeqZaH4&t=1346s)  _(term: `drone`)_
 
-- **[2025-03-12] Inland Wetlands Commission** — Town of Monroe Ct Inland Wetland Regular Meeting 03/12/2025
-  > …provide this link to just to be the acceptance of this you all mentioned getting a drone flight possibly so we went we have one we went out get a drone flight um this is all on…
-  [Watch ▸](https://www.youtube.com/watch?v=ZBfvkgB7kS0&t=3036s)  _(term: `drone`)_
+- **[2025-12-11] Board of Fire Commissioners** — Board of Fire Commissioners Regular Meeting Dec 11, 2025
+  > …that we're going to be able to use at emergency scenes, events, so forth. It's a multi- agency drone system that we'll be able to use, immediately [clears throat] be able to use it, fire,…
+  [Watch ▸](https://www.youtube.com/watch?v=2ddMUeqZaH4&t=1353s)  _(term: `drone`)_
 
-- **[2025-03-12] Inland Wetlands Commission** — Town of Monroe Ct Inland Wetland Regular Meeting 03/12/2025
-  > …all mentioned getting a drone flight possibly so we went we have one we went out get a drone flight um this is all on a Cloud Server so people can go on and look at this if they want to um and…
-  [Watch ▸](https://www.youtube.com/watch?v=ZBfvkgB7kS0&t=3040s)  _(term: `drone`)_
+- **[2025-04-09] Town Plan & Zoning Commission** — Town Plan & Zoning Commission Regular Meeting Apr 9, 2025
+  > …Thank you. Thank you. Sure doesn't want to watch this. It doesn't want to listen to me drone. Yeah. Um Paul the Have we decided about trying to put some blurb in or a reminder telling people that…
+  [Watch ▸](https://www.youtube.com/watch?v=suJIWUF_450&t=5050s)  _(term: `drone`)_
 
-- **[2025-02-12] Inland Wetlands Commission** — Town of Monroe Ct Inland Wetland Regular Meeting 02/12/2025
-  > …prevent us from having to go out there does the bur or does the town have a drone or something uh uh not not in house cops don't have one I'm sure they do at this point all the cops know I…
-  [Watch ▸](https://www.youtube.com/watch?v=akBT2gFfc4g&t=717s)  _(term: `drone`)_
+- **[2025-03-13] Board of Fire Commissioners** — Board of Fire Commissioners Regular Meeting  Mar 13, 2025
+  > …something didn't sound too good they called out the Drone okay we're going live folks uh good evening everybody Welcome to the board of fire Commissioners…
+  [Watch ▸](https://www.youtube.com/watch?v=ArS9-ZbYDVI&t=39s)  _(term: `drone`)_
 
 
-_4 further mentions in Monroe not shown here — all of them are in Monroe's full report (not yet published)._
-
-
-### Norwich — 16 mentions
-
-- **[2026-07-21] School Building Committee** — 2026-07-21 School Building Committee
-  > …although the link is available if somebody wants it we'll send we'll do you know periodic drone overs as the site comes up uh next primarily with the instructor stats.…
-  [Watch ▸](https://www.youtube.com/watch?v=mYMfSWemnfE&t=4113s)  _(term: `drone`)_
-
-- **[2026-07-21] School Building Committee** — 2026-07-21 School Building Committee
-  > …presentation, aerial view of the site on 618. Uh and then the large file of the uh the drone afterwards that we don't need to watch. >> It's going so fast.…
-  [Watch ▸](https://www.youtube.com/watch?v=mYMfSWemnfE&t=4443s)  _(term: `drone`)_
-
-- **[2026-01-27] School Building Committee** — 2026-01-27 School Building Committee
-  > …because I haven't had too much to share yet. But next photo, January 13th, another drone shot of the site here. Um, you can see all the interior concrete peers are poured out, back filled. Um,…
-  [Watch ▸](https://www.youtube.com/watch?v=KsKbLhD50Ag&t=1965s)  _(term: `drone`)_
-
-- **[2026-01-27] School Building Committee** — 2026-01-27 School Building Committee
-  > …last Thursday. Just wanted to give a more upto-date progress photo on Mr. Drone. You can see decking getting installed over the first floor. We're building up the second floor and third…
-  [Watch ▸](https://www.youtube.com/watch?v=KsKbLhD50Ag&t=2117s)  _(term: `drone`)_
-
-- **[2025-11-18] School Building Committee** — 2025-11-18 School Building Committee
-  > …received that this morning. The roofing subcontractor >> actually had a drone company um photograph the project for their own progress and he was kind enough to share…
-  [Watch ▸](https://www.youtube.com/watch?v=YrXsi-7UL2E&t=1763s)  _(term: `drone`)_
-
-- **[2025-11-18] School Building Committee** — 2025-11-18 School Building Committee
-  > …side heading towards area C. So that was November 14th, right? This is November 18th, a drone shot. So this was this was this morning. I don't know if you can drag this out of…
-  [Watch ▸](https://www.youtube.com/watch?v=YrXsi-7UL2E&t=2485s)  _(term: `drone`)_
-
-- **[2025-10-21] School Building Committee** — 2025-10-21 School Building Committee
-  > …the videographer is going to set on the building, possibly even bringing in a drone so they could live stream it or share it with the kids. Um, and then a crane will be leaving this week. They're…
-  [Watch ▸](https://www.youtube.com/watch?v=p1ceTLOx20Q&t=3555s)  _(term: `drone`)_
-
-- **[2025-10-21] School Building Committee** — 2025-10-21 School Building Committee
-  > …the hill 4 B and 4 A. Another look of that same location from the drone. So you can see kind of where the valley is, where the wall's going to start. Building pad is starting to take…
-  [Watch ▸](https://www.youtube.com/watch?v=p1ceTLOx20Q&t=4195s)  _(term: `drone`)_
-
-- **[2025-10-21] School Building Committee** — 2025-10-21 School Building Committee
-  > …inclined back as opposed to just >> Yeah. >> Another drone shot. So, this is all the way at the top of the hill. This goes out to Boswell. Um we have the drill…
-  [Watch ▸](https://www.youtube.com/watch?v=p1ceTLOx20Q&t=4270s)  _(term: `drone`)_
-
-- **[2025-10-21] School Building Committee** — 2025-10-21 School Building Committee
-  > …getting ready for blasting. We did a shot up here today. Actually, this is actually a shot from today, the drone shot. So, this is the um powder truck that fills the holes on site with the…
-  [Watch ▸](https://www.youtube.com/watch?v=p1ceTLOx20Q&t=4281s)  _(term: `drone`)_
-
-- **[2025-10-21] School Building Committee** — 2025-10-21 School Building Committee
-  > …>> There's a muster area once they actually blast. Everyone on site has to go to >> Oh, this is another drone shot. Our trailers are kind of right here. So, this just gives you a look at the whole…
-  [Watch ▸](https://www.youtube.com/watch?v=p1ceTLOx20Q&t=4301s)  _(term: `drone`)_
-
-- **[2025-10-21] School Building Committee** — 2025-10-21 School Building Committee
-  > …>> Yeah, >> tell drone shots really in perspective. I >> mean, these are big machines. They don't look tiny on this picture, but like, you…
-  [Watch ▸](https://www.youtube.com/watch?v=p1ceTLOx20Q&t=4321s)  _(term: `drone`)_
-
-
-_4 further mentions in Norwich not shown here — all of them are in Norwich's full report (not yet published)._
-
-
-### Wethersfield — 16 mentions
-
-- **[2026-04-22] Budget Work Session** — Budget Work Session  -  April 22, 2026
-  > …>> [snorts] >> Um The second item for FAA drone pilot testing, we bought a drone last year. We have a couple of department staff that…
-  [Watch ▸](https://www.youtube.com/watch?v=Jlo2-qScSgY&t=1355s)  _(term: `drone`)_
-
-- **[2026-04-22] Budget Work Session** — Budget Work Session  -  April 22, 2026
-  > …>> Um The second item for FAA drone pilot testing, we bought a drone last year. We have a couple of department staff that are going to get their um…
-  [Watch ▸](https://www.youtube.com/watch?v=Jlo2-qScSgY&t=1357s)  _(term: `drone`)_
-
-- **[2026-04-22] Budget Work Session** — Budget Work Session  -  April 22, 2026
-  > …maybe. So, we have some staff that are taking classes on that now. Got you. And when did we purchase the drone for? Um I want to say it was maybe a year and a half ago. And everything in technology,…
-  [Watch ▸](https://www.youtube.com/watch?v=Jlo2-qScSgY&t=2791s)  _(term: `drone`)_
-
-- **[2026-03-24] Board of Education** — Board of Education Meeting  -  March 24, 2026
-  > …45-minute scheduled time to align with the other UAs. But the elementary media technical associate role was never changed.…
-  [Watch ▸](https://www.youtube.com/watch?v=FR0-VFjZSZE&t=1417s)  _(term: `drone`)_
-
-- **[2025-04-07] Town Council** — Town Council Meeting - April 7, 2025
-  > …Mayor. Uh this is a sort of a dual question. The first is can you give us the status on um our drone which I believe we have but if you could let us know what that is and would it have…
-  [Watch ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1581s)  _(term: `drone`)_
-
-- **[2025-04-07] Town Council** — Town Council Meeting - April 7, 2025
-  > …to the three individuals who wanted to run. So the drone the drone program uh it's in place. We we do have the drone. We just finished up training within the…
-  [Watch ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1595s)  _(term: `drone`)_
-
-- **[2025-04-07] Town Council** — Town Council Meeting - April 7, 2025
-  > …run. So the drone the drone program uh it's in place. We we do have the drone. We just finished up training within the last couple of weeks I believe we're…
-  [Watch ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1598s)  _(term: `drone`)_
-
-- **[2025-04-07] Town Council** — Town Council Meeting - April 7, 2025
-  > …that. Um, and so that's the technology that can be used right then and there if we're able to, but as far as the drone, it's not a realistic expectation just because of how quick it happens. Okay.…
-  [Watch ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1624s)  _(term: `drone`)_
-
-- **[2025-01-21] Town Council** — Town Council Meeting - January 21, 2025
-  > …darts um okay and then that follows me to my next question is I think that we started our drone program recently we did we did I announced that at the breakfast as well so they were out there…
-  [Watch ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1755s)  _(term: `drone`)_
-
-- **[2025-01-21] Town Council** — Town Council Meeting - January 21, 2025
-  > …breakfast as well so they were out there last week getting the training on that but we did get the Drone in we're working with the the company on the EXT software program that helps it deploy um…
-  [Watch ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1763s)  _(term: `drone`)_
-
-- **[2025-01-21] Town Council** — Town Council Meeting - January 21, 2025
-  > …working with the the company on the EXT software program that helps it deploy um self- deployment with that that drone and also we have to work with the FAA cuz we are so close to Brin at airport…
-  [Watch ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1771s)  _(term: `drone`)_
-
-- **[2025-01-21] Town Council** — Town Council Meeting - January 21, 2025
-  > …cuz we are so close to Brin at airport we there's flight restrictions with the Drone and special exceptions we have to go through but for the most part the training is done um and we could be…
-  [Watch ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1779s)  _(term: `drone`)_
-
-
-_4 further mentions in Wethersfield not shown here — all of them are in Wethersfield's full report (not yet published)._
-
-
-### Westport — 15 mentions
-
-- **[2026-08-24] Select Board** — Select Board - August 24, 2026
-  > …Point. Uh again, another another great event. Uh turnout was great. Uh saw some great videos and uh drone footage of the Shallop both coming in and leaving. So, it was uh a great event and and thank…
-  [Watch ▸](https://www.youtube.com/watch?v=TxQMSnENT9E&t=153s)  _(term: `drone`)_
-
-- **[2026-06-22] Disability Commission** — Disability Commission - June 22, 2026
-  > …with the police department, they did tell us that they're also they also have a drone that they use to help with emergency response. Um so, they can use that and deploy that to better…
-  [Watch ▸](https://www.youtube.com/watch?v=bqsQ0Lhizas&t=1361s)  _(term: `drone`)_
-
-- **[2026-06-22] Disability Commission** — Disability Commission - June 22, 2026
-  > …with the police department, they did tell us that they're also they also have a drone that they use to help with emergency response. Um so, they can use that and deploy that to better…
-  [Watch ▸](https://www.youtube.com/watch?v=cxjcOtftmYs&t=1366s)  _(term: `drone`)_
-
-- **[2026-06-01] Select Board** — Select Board - June 1, 2026
-  > …Um also uh he'd like to uh talk about the Westport drone unit, how um we continue to use it um almost weekly now. Um we just had that huge fire over…
-  [Watch ▸](https://www.youtube.com/watch?v=-1XnRiZ2UIE&t=2034s)  _(term: `drone`)_
-
-- **[2026-06-01] Select Board** — Select Board - June 1, 2026
-  > …Trainer Ryan spent numerous hours. I think Corey Mack spent over 24 hours there continually flying the drone up and down up and down um putting the thermal on the hot spots.…
-  [Watch ▸](https://www.youtube.com/watch?v=-1XnRiZ2UIE&t=2050s)  _(term: `drone`)_
-
-- **[2026-06-01] Select Board** — Select Board - June 1, 2026
-  > …Corey Mack was having to work an overtime shift that night. They called him out. He flew the drone up, and within 10 minutes he had the person on on the thermal image and…
-  [Watch ▸](https://www.youtube.com/watch?v=-1XnRiZ2UIE&t=2071s)  _(term: `drone`)_
-
-- **[2026-05-27] Harbor Advisory Committee** — Harbor Advisory Committee - May 27, 2026
-  > …Uh the second phase was a limited underwater inspection. They did bring a underwater drone down. Um That was back on the 13th. Um we were all doing uh an oil spill drill…
-  [Watch ▸](https://www.youtube.com/watch?v=ixpV6xMvvMM&t=1256s)  _(term: `drone`)_
-
-- **[2026-05-27] Harbor Advisory Committee** — Harbor Advisory Committee - May 27, 2026
-  > …inspect everything below the below the waterline and see where it goes. >> The underwater drone limit just looked at the general conditions or whatever.…
-  [Watch ▸](https://www.youtube.com/watch?v=ixpV6xMvvMM&t=1286s)  _(term: `drone`)_
-
-- **[2026-05-27] Harbor Advisory Committee** — Harbor Advisory Committee - May 27, 2026
-  > …>> So, did they give you some kind of a 3D map of what's under there with the drone? >> I don't know exactly yet, Milt, but whatever they have in my [clears throat]…
-  [Watch ▸](https://www.youtube.com/watch?v=ixpV6xMvvMM&t=1314s)  _(term: `drone`)_
-
-- **[2026-04-30] Climate Resilience Committee** — Climate Resilience Committee - April 30, 2026
-  > …Any other questions of Rebecca? I was just thinking, too, we probably have some drone operators in Westport and we could reach out to them and get them on board with this and send them an alert…
-  [Watch ▸](https://www.youtube.com/watch?v=dXqhVpN7IVg&t=1408s)  _(term: `drone`)_
-
-- **[2026-04-30] Climate Resilience Committee** — Climate Resilience Committee - April 30, 2026
-  > …mind doing a flight and documenting some of this stuff? Yeah, I'm I'm sure there are drone operators who are using this tool, Rebecca. Not so much drone operators because we…
-  [Watch ▸](https://www.youtube.com/watch?v=dXqhVpN7IVg&t=1421s)  _(term: `drone`)_
-
-- **[2026-04-30] Climate Resilience Committee** — Climate Resilience Committee - April 30, 2026
-  > …I'm I'm sure there are drone operators who are using this tool, Rebecca. Not so much drone operators because we we have mostly photos that are being uploaded, not so much videos. Um but…
-  [Watch ▸](https://www.youtube.com/watch?v=dXqhVpN7IVg&t=1427s)  _(term: `drone`)_
-
-
-_3 further mentions in Westport not shown here — all of them are in Westport's full report (not yet published)._
-
-
-### Rocky Hill — 14 mentions
-
-- **[2026-04-21] Town Council** — Town Council - April 20 , 2026
-  > …uh during the fire report um he had reported the fire chief reported that a drone had crashed on a call due to a propeller failure,…
-  [Watch ▸](https://www.youtube.com/watch?v=Dt8N33ZVLF4&t=6327s)  _(term: `drone`)_
-
-- **[2026-03-17] Town Council** — Town Council - March 16 , 2026
-  > …the assistant mechanic position. And I I found this pretty interesting. They had three drone calls for February and…
-  [Watch ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=2678s)  _(term: `drone`)_
-
-- **[2026-03-17] Town Council** — Town Council - March 16 , 2026
-  > …for February and >> like three calls for their drone to go somewhere else. >> Yeah.…
-  [Watch ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=2684s)  _(term: `drone`)_
-
-- **[2026-03-17] Town Council** — Town Council - March 16 , 2026
-  > …>> Um I think it was I think it was town >> three three calls for our drone to be used in town. I know they bring it to all kinds of stuff.…
-  [Watch ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=2694s)  _(term: `drone`)_
-
-- **[2026-03-17] Town Council** — Town Council - March 16 , 2026
-  > …Um, >> yeah, it was just three. It was just three drone activations. >> It was our drones, not other drones coming in,…
-  [Watch ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=2704s)  _(term: `drone`)_
-
-- **[2026-03-17] Town Council** — Town Council - March 16 , 2026
-  > …>> It was our drones, not other drones coming in, >> right? Okay. Three drone calls as in like UFOs or something. >> Right. Okay.…
-  [Watch ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=2710s)  _(term: `drone`)_
-
-- **[2025-04-22] Town Council** — Town Council  -   April 22,  2025
-  > …Department to go towards some new fire hoses and replacement quick deployment drone. Um, just one side comment on my own is that with regards to state funding, we should I'd be remiss not to…
-  [Watch ▸](https://www.youtube.com/watch?v=q-Bv4AETiKo&t=619s)  _(term: `drone`)_
-
-- **[2024-06-03] Town Council** — Town Council   -- June 03, 2024
-  > …together and our uh Community videographer Michael tul was out there he's got some super cool drone shots and he is sort of um uh going from the very beginning and he will sort of track…
-  [Watch ▸](https://www.youtube.com/watch?v=pjAuA3q1peY&t=3195s)  _(term: `drone`)_
-
-- **[2024-06-03] Town Council** — Town Council   -- June 03, 2024
-  > …he is sort of um uh going from the very beginning and he will sort of track progress with his drone video and put something together for all of us to watch um when the barn is…
-  [Watch ▸](https://www.youtube.com/watch?v=pjAuA3q1peY&t=3204s)  _(term: `drone`)_
-
-- **[2024-03-04] Town Council** — Town Council --  March 04, 2024
-  > …department are coming out that you guys as a department could see as beneficial well you know we've we started a drone program a couple years ago um that's good for emergency response and maybe…
-  [Watch ▸](https://www.youtube.com/watch?v=NQtaL2Jofb4&t=2510s)  _(term: `drone`)_
-
-- **[2024-02-05] Town Council** — Town Council   - February 5, 2024
-  > …uh they're responsible for all aspects of safety on the fire ground as well as supporting the Department's drone program which is a joint venture with the police I just want to take a couple…
-  [Watch ▸](https://www.youtube.com/watch?v=4WRsumfDpqo&t=2978s)  _(term: `drone`)_
-
-- **[2024-02-05] Town Council** — Town Council   - February 5, 2024
-  > …their fields flooded now both those pictures were taken by the M the matrice Drone which is in the lower uh left hand side um which we operate that stored down at Station 3 the joint venture with…
-  [Watch ▸](https://www.youtube.com/watch?v=4WRsumfDpqo&t=3079s)  _(term: `drone`)_
-
-
-_2 further mentions in Rocky Hill not shown here — all of them are in Rocky Hill's full report (not yet published)._
+_3 further mentions in Newington not shown here — all of them are in Newington's full report (not yet published)._
 
 
 ### New Milford — 13 mentions
@@ -1774,6 +1835,60 @@ _2 further mentions in Rocky Hill not shown here — all of them are in Rocky Hi
 
 
 _1 further mention in New Milford not shown here — all of them are in New Milford's full report (not yet published)._
+
+
+### Simsbury — 13 mentions
+
+- **[2026-05-07] Board of Selectmen** — Board of Selectmen - Subcommittees Agenda - 2026-05-07
+  > …Monday night drills, and is one of only a handful of district firefighters, and the only minor!, to hold a Commercial FAA Part 107 drone license to operate the department's firefighting drone (Note that fewer than 100 girls under 18 hold this certification nationally out o…
+  [Open document ▸](https://www.simsbury-ct.gov/AgendaCenter/ViewFile/Agenda/_05072026-1306)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-03-23] Board of Selectmen** — Board of Selectmen Agenda - 2026-03-23
+  > …sed drug testing services. It is a 17% increase. Chief Boulter said the 485 increase in regional services is a partnership with eight other communities. It involves accident 486 reconstruction, a drone team, etc. They all contribute to that. This year we did have to purchase 487 new equipment for accident reconstruction technology. There was also an increase in behavioral 488 and drug test…
+  [Open document ▸](https://www.simsbury-ct.gov/AgendaCenter/ViewFile/Agenda/_03232026-1240)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-03-18] Conservation Commission** — Conservation Commission Meeting - March 18, 2026
+  > …where the building was demolished and and the debris was stockpiled there. We actually do have a drone flight of the entire site that I didn't think was appropriate for tonight, but if you'd…
+  [Watch ▸](https://www.youtube.com/watch?v=rOXaj8lyL3U&t=392s)  _(term: `drone`)_
+
+- **[2026-02-28] Board of Selectmen** — Board of Selectmen Budget Workshop - February 28, 2026
+  > …consists of uh what we would call like a SWAT team, uh accident reconstruction team, a drone team, and so we partner with these eight other communities, and we each contribute every year to that.…
+  [Watch ▸](https://www.youtube.com/watch?v=akG502PO9XE&t=20017s)  _(term: `drone`)_
+
+- **[2026-02-06] Board of Selectmen** — Board of Selectmen Meeting - February 6, 2026
+  > …teams, SWAT equivalent to EST, crisis negotiators, accident reconstruction and drone teams. Replacement of appliances used for evidence at over 20 years old.…
+  [Watch ▸](https://www.youtube.com/watch?v=ie-9y10s9Cs&t=121s)  _(term: `drone`)_
+
+- **[2025-09-08] Board of Selectmen** — Board of Selectmen Meeting - September 8, 2025
+  > …to a point that when our structural engineer was out looking at them and he did drone flights to do some measurements and things during the course of the project, they moved. They…
+  [Watch ▸](https://www.youtube.com/watch?v=KPhKPcXMw3s&t=8933s)  _(term: `drone`)_
+
+- **[2025-05-20] Conservation Commission** — Conservation Commission Meeting - May 20, 2025
+  > …some of that would be somewhat seems to be difficult I mean depending if we have a drone or extremely wet air what would you be looking for I I think you're talking about you're talking Now you're…
+  [Watch ▸](https://www.youtube.com/watch?v=WvnmfrH6I-E&t=3284s)  _(term: `drone`)_
+
+- **[2025-01-07] Conservation Commission** — Conservation Commission Meeting - January 7, 2025
+  > …pictures on the projector right now um the shs were taken by a resident flying a drone picture on the right shows the full construction site and barber Cove in the foreground that's the water in…
+  [Watch ▸](https://www.youtube.com/watch?v=jLosgmOli1o&t=1200s)  _(term: `drone`)_
+
+- **[2024-10-16] Board of Selectmen** — Board of Selectmen Meeting - October 16, 2024
+  > …or four years just cover all sry uh Town Hall Eno in the library and how is it done is it done through it's a drone it's a drone that goes over uh if you think about the time at especially a…
+  [Watch ▸](https://www.youtube.com/watch?v=f5w_rmgM9Zo&t=5090s)  _(term: `drone`)_
+
+- **[2024-10-16] Board of Selectmen** — Board of Selectmen Meeting - October 16, 2024
+  > …Hall Eno in the library and how is it done is it done through it's a drone it's a drone that goes over uh if you think about the time at especially a building like Eno with a slate roof the…
+  [Watch ▸](https://www.youtube.com/watch?v=f5w_rmgM9Zo&t=5092s)  _(term: `drone`)_
+
+- **[2024-09-16] Zoning Commission** — Zoning Commission Meeting - September 16, 2024
+  > …um someone had a question about uh the overview of what was happening on the back area I we did have a drone take a picture and I don't know if you want to see it because it does show those fields…
+  [Watch ▸](https://www.youtube.com/watch?v=ydyhwE7eMTc&t=5985s)  _(term: `drone`)_
+
+- **[2024-09-10] Board of Education** — Board of Education Meeting - September 10, 2024
+  > …one another and to all be friends first of all I don't want my child to speak like some sing songy dystopian drone that's totally creepy and and compelled speech more importantly I don't want him…
+  [Watch ▸](https://www.youtube.com/watch?v=6TMshacUaVA&t=419s)  _(term: `drone`)_
+
+
+_1 further mention in Simsbury not shown here — all of them are in Simsbury's full report (not yet published)._
 
 
 ### Killingworth — 11 mentions
@@ -1870,89 +1985,186 @@ _1 further mention in New Milford not shown here — all of them are in New Milf
   [Watch ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=1008s)  _(term: `drone`)_
 
 
-### Simsbury — 10 mentions
+### North Branford — 9 mentions
 
-- **[2026-03-18] Conservation Commission** — Conservation Commission Meeting - March 18, 2026
-  > …where the building was demolished and and the debris was stockpiled there. We actually do have a drone flight of the entire site that I didn't think was appropriate for tonight, but if you'd…
-  [Watch ▸](https://www.youtube.com/watch?v=rOXaj8lyL3U&t=392s)  _(term: `drone`)_
+- **[2026-04-14] Town Council** — NB Town Council Budget Workshop 4/14/26
+  > …>> Okay. >> And just to make it clear on the the drone Harrison, the the the the granite curbing is in the bus way. It's not the whole place.…
+  [Watch ▸](https://www.youtube.com/watch?v=NHsH_AU6nuI&t=6961s)  _(term: `drone`)_
 
-- **[2026-02-28] Board of Selectmen** — Board of Selectmen Budget Workshop - February 28, 2026
-  > …consists of uh what we would call like a SWAT team, uh accident reconstruction team, a drone team, and so we partner with these eight other communities, and we each contribute every year to that.…
-  [Watch ▸](https://www.youtube.com/watch?v=akG502PO9XE&t=20017s)  _(term: `drone`)_
+- **[2026-04-14] Town Council** — Town Council - Budget Workshop 04/14/2026
+  > …>> Okay. >> And just to make it clear on the the drone harrison, the the the the granite curbing is in the bus way. It's not the whole place.…
+  [Watch ▸](https://www.youtube.com/watch?v=4_sFIUZVAFE&t=6961s)  _(term: `drone`)_
 
-- **[2026-02-06] Board of Selectmen** — Board of Selectmen Meeting - February 6, 2026
-  > …teams, SWAT equivalent to EST, crisis negotiators, accident reconstruction and drone teams. Replacement of appliances used for evidence at over 20 years old.…
-  [Watch ▸](https://www.youtube.com/watch?v=ie-9y10s9Cs&t=121s)  _(term: `drone`)_
+- **[2025-06-17] Town Council** — WPCA & Town Council 6/17/2025
+  > …report that this legislation passed the Connecticut General Assembly. Uh it also allows for innovative drone use for farming and the bill is now on the governor's desk and awaiting his…
+  [Watch ▸](https://www.youtube.com/watch?v=4l6aeEjGDvM&t=1443s)  _(term: `drone`)_
 
-- **[2025-09-08] Board of Selectmen** — Board of Selectmen Meeting - September 8, 2025
-  > …to a point that when our structural engineer was out looking at them and he did drone flights to do some measurements and things during the course of the project, they moved. They…
-  [Watch ▸](https://www.youtube.com/watch?v=KPhKPcXMw3s&t=8933s)  _(term: `drone`)_
+- **[2025-04-10] Town Council** — Town Council Budget Workshop 04/10/2025
+  > …one whole location. So we're not bringing in machinery twice over and 10x. Yeah. I mean drone drone is going to is that's a that's a the curving there is going to be an issue. So that's…
+  [Watch ▸](https://www.youtube.com/watch?v=PW-9STSp-28&t=8463s)  _(term: `drone`)_
 
-- **[2025-05-20] Conservation Commission** — Conservation Commission Meeting - May 20, 2025
-  > …some of that would be somewhat seems to be difficult I mean depending if we have a drone or extremely wet air what would you be looking for I I think you're talking about you're talking Now you're…
-  [Watch ▸](https://www.youtube.com/watch?v=WvnmfrH6I-E&t=3284s)  _(term: `drone`)_
+- **[2025-04-10] Town Council** — Town Council Budget Workshop 04/10/2025
+  > …whole location so we're not bringing in machinery twice over to impact. Yeah, I mean drone drone is going to it's that's a it's a the curbing there is going to be an issue. So that's…
+  [Watch ▸](https://www.youtube.com/watch?v=Qzq4WoFgRAY&t=8464s)  _(term: `drone`)_
 
-- **[2025-01-07] Conservation Commission** — Conservation Commission Meeting - January 7, 2025
-  > …pictures on the projector right now um the shs were taken by a resident flying a drone picture on the right shows the full construction site and barber Cove in the foreground that's the water in…
-  [Watch ▸](https://www.youtube.com/watch?v=jLosgmOli1o&t=1200s)  _(term: `drone`)_
+- **[2025-01-02] Planning & Zoning Commission** — North Branford Planning and Zoning 1/2/2025
+  > …right is correct okay so they could be like in a drone or something so they're not on the ground they're like floating in the air all…
+  [Watch ▸](https://www.youtube.com/watch?v=hUq0_-eK3rk&t=2773s)  _(term: `drone`)_
 
-- **[2024-10-16] Board of Selectmen** — Board of Selectmen Meeting - October 16, 2024
-  > …or four years just cover all sry uh Town Hall Eno in the library and how is it done is it done through it's a drone it's a drone that goes over uh if you think about the time at especially a…
-  [Watch ▸](https://www.youtube.com/watch?v=f5w_rmgM9Zo&t=5090s)  _(term: `drone`)_
+- **[2025-01-02] Planning & Zoning Commission** — Planning & Zoning 01/02/2025
+  > …the right is correct okay so they could be like on a drone or something so they're not on the ground they're like floating in the air all…
+  [Watch ▸](https://www.youtube.com/watch?v=8KM_TFcliz0&t=2773s)  _(term: `drone`)_
 
-- **[2024-10-16] Board of Selectmen** — Board of Selectmen Meeting - October 16, 2024
-  > …Hall Eno in the library and how is it done is it done through it's a drone it's a drone that goes over uh if you think about the time at especially a building like Eno with a slate roof the…
-  [Watch ▸](https://www.youtube.com/watch?v=f5w_rmgM9Zo&t=5092s)  _(term: `drone`)_
+- **[2024-11-21] Board of Education** — Board of Education 11/21/2024
+  > …and as you see in the some de briefs the TVs staff and drone staff we spent the entire day on Monday collaborating with one another we started with that drone we did a ghost…
+  [Watch ▸](https://www.youtube.com/watch?v=TPP7MClWSVE&t=780s)  _(term: `drone`)_
 
-- **[2024-09-16] Zoning Commission** — Zoning Commission Meeting - September 16, 2024
-  > …um someone had a question about uh the overview of what was happening on the back area I we did have a drone take a picture and I don't know if you want to see it because it does show those fields…
-  [Watch ▸](https://www.youtube.com/watch?v=ydyhwE7eMTc&t=5985s)  _(term: `drone`)_
-
-- **[2024-09-10] Board of Education** — Board of Education Meeting - September 10, 2024
-  > …one another and to all be friends first of all I don't want my child to speak like some sing songy dystopian drone that's totally creepy and and compelled speech more importantly I don't want him…
-  [Watch ▸](https://www.youtube.com/watch?v=6TMshacUaVA&t=419s)  _(term: `drone`)_
+- **[2024-11-21] Board of Education** — Board of Education 11/21/2024
+  > …drone staff we spent the entire day on Monday collaborating with one another we started with that drone we did a ghost walk of Jerome we developed uh vertical teams so teachers from 3K through fifth…
+  [Watch ▸](https://www.youtube.com/watch?v=TPP7MClWSVE&t=784s)  _(term: `drone`)_
 
 
-### Newington — 9 mentions
+### Columbia — 8 mentions
 
-- **[2026-08-03] Zoning Board of Appeals** — Zoning Board of Appeals Regular Meeting Aug 3, 2026
-  > …>> Uh it was attached to the complaint that I received. >> Was it a drone? It looks like >> it appears to have been a drone. Yes. By my eye, you know. Okay.…
-  [Watch ▸](https://www.youtube.com/watch?v=4jGAr4vgrXQ&t=2916s)  _(term: `drone`)_
+- **[2026-05-07] Informational/Public Meeting** — Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
+  > …high now we don't my camera and every road between them around. But a road like twinkling drone it was right the center you would slow you you would slow down…
+  [Watch ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=2621s)  _(term: `drone`)_
 
-- **[2026-08-03] Zoning Board of Appeals** — Zoning Board of Appeals Regular Meeting Aug 3, 2026
-  > …I received. >> Was it a drone? It looks like >> it appears to have been a drone. Yes. By my eye, you know. Okay. little not my call. Um…
-  [Watch ▸](https://www.youtube.com/watch?v=4jGAr4vgrXQ&t=2917s)  _(term: `drone`)_
+- **[2025-10-21] Board of Selectmen** — Board of Selectmen Meeting 10/21/25
+  > …that's managing that is out of Dallas and they were requiring us to get them better pictures from the from a drone that we did hire a drone to it was done free.…
+  [Watch ▸](https://www.youtube.com/watch?v=VHcbM-6Sm-c&t=749s)  _(term: `drone`)_
 
-- **[2026-07-01] Open Space Committee** — Open Space Committee Regular Meeting Jul 1, 2026
-  > …kind of scroll through this. Um, we start on this beautiful cover page and this was the drone footage. This is Deming Young, right? >> Yes. Deming young farm. So,…
-  [Watch ▸](https://www.youtube.com/watch?v=uvfJdL6Wcgk&t=429s)  _(term: `drone`)_
+- **[2025-10-21] Board of Selectmen** — Board of Selectmen Meeting 10/21/25
+  > …and they were requiring us to get them better pictures from the from a drone that we did hire a drone to it was done free. >> So the roof drawings weren't enough.…
+  [Watch ▸](https://www.youtube.com/watch?v=VHcbM-6Sm-c&t=752s)  _(term: `drone`)_
 
-- **[2026-07-01] Open Space Committee** — Open Space Committee Regular Meeting Jul 1, 2026
-  > …>> so Mon'nique worked with the fire marshall's office, correct? And got some drone footage for this. And her and I also went out and spent a day at our parks and took some photos for this as…
-  [Watch ▸](https://www.youtube.com/watch?v=uvfJdL6Wcgk&t=436s)  _(term: `drone`)_
+- **[2025-10-21] Board of Selectmen** — Board of Selectmen Meeting 10/21/25
+  > …free. >> So the roof drawings weren't enough. >> They weren't they needed a drone and now they want to spray paint onto the roof and show exactly where…
+  [Watch ▸](https://www.youtube.com/watch?v=VHcbM-6Sm-c&t=757s)  _(term: `drone`)_
 
-- **[2026-07-01] Open Space Committee** — Open Space Committee Regular Meeting Jul 1, 2026
-  > …just like a little walkthrough brochure. The first um we have to go out and get more drone footage, but the first slide on here will be the video um aerial drone footage, and then it'll go through…
-  [Watch ▸](https://www.youtube.com/watch?v=uvfJdL6Wcgk&t=658s)  _(term: `drone`)_
+- **[2025-09-09] Planning and Zoning Commission** — 9/9/25 PZC Meeting
+  > …>> thank you for your comments. Um yes, >> tracing center right behind her drone. One other thing in the original letter that um Jeff had written up, he had said for the…
+  [Watch ▸](https://www.youtube.com/watch?v=Kcy6VGgMbMw&t=2212s)  _(term: `drone`)_
 
-- **[2026-07-01] Open Space Committee** — Open Space Committee Regular Meeting Jul 1, 2026
-  > …more drone footage, but the first slide on here will be the video um aerial drone footage, and then it'll go through some professional photos, some taken with the drone, some not to kind of…
-  [Watch ▸](https://www.youtube.com/watch?v=uvfJdL6Wcgk&t=662s)  _(term: `drone`)_
+- **[2025-07-28] Planning and Zoning Commission** — 7/28/25 PZC Meeting
+  > …renderings and flythroughs have gotten increasingly easy to do. Um you know and and drone flights and things like that are very cheap. So, you know, there there are other tools available to to…
+  [Watch ▸](https://www.youtube.com/watch?v=WwlmKG49laI&t=5763s)  _(term: `drone`)_
 
-- **[2026-07-01] Open Space Committee** — Open Space Committee Regular Meeting Jul 1, 2026
-  > …drone footage, and then it'll go through some professional photos, some taken with the drone, some not to kind of advertise these facilities. And then on each one, there's also going to be a PDF…
-  [Watch ▸](https://www.youtube.com/watch?v=uvfJdL6Wcgk&t=665s)  _(term: `drone`)_
+- **[2025-07-17] Open Space Committee** — Open Space Committee Meeting 7/17/25
+  > …and So, um the best we can do is beat the drone um when um after the elections or before…
+  [Watch ▸](https://www.youtube.com/watch?v=0eJgmDzJDQM&t=2539s)  _(term: `drone`)_
 
-- **[2025-12-11] Board of Fire Commissioners** — Board of Fire Commissioners Regular Meeting Dec 11, 2025
-  > …department. Uh the grant that we received was from the Capitol Regional Government. It's an anti- drone system that we're going to be able to use at emergency scenes, events, so forth. It's…
-  [Watch ▸](https://www.youtube.com/watch?v=2ddMUeqZaH4&t=1346s)  _(term: `drone`)_
-
-- **[2025-12-11] Board of Fire Commissioners** — Board of Fire Commissioners Regular Meeting Dec 11, 2025
-  > …that we're going to be able to use at emergency scenes, events, so forth. It's a multi- agency drone system that we'll be able to use, immediately [clears throat] be able to use it, fire,…
-  [Watch ▸](https://www.youtube.com/watch?v=2ddMUeqZaH4&t=1353s)  _(term: `drone`)_
+- **[2025-05-20] Board of Selectmen** — Board of Selectmen Meeting 5/20/25
+  > …against you know, right? They bring KFC. Is that against regulations? I think they might. They might launch a a drone to get a aerial shot. I think that's it. Thank…
+  [Watch ▸](https://www.youtube.com/watch?v=PG8ht9WWM_o&t=6585s)  _(term: `drone`)_
 
 
-### Plainville — 7 mentions
+### East Hampton — 8 mentions
+
+- **[2026-02-04] Water Committee** — Water Committee Meeting Minutes - 2026-02-04
+  > …following the groundwater exploration work. ii. Apex will work with the Town to coordinate phasing and water main sizing with Connecticut Water. c. Drone Survey, Field Work, and Base Mapping (Task 3) Completed d. Evaluate Wastewater Collection System Documents (Task 4) Completed e. Conceptual Design Layouts for Proposed Water Facilities…
+  [Open document ▸](https://www.easthamptonct.gov/AgendaCenter/ViewFile/Minutes/_02042026-403)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-01-07] Water Committee** — Water Committee Meeting Minutes - 2026-01-07
+  > …following the groundwater exploration work. ii. Apex will work with the Town to coordinate phasing and water main sizing with Connecticut Water. c. Drone Survey, Field Work, and Base Mapping (Task 3) Completed i. Basemap CAD File Transfer d. Evaluate Wastewater Collection System Documents (Task 4) Completed e. Conceptual D…
+  [Open document ▸](https://www.easthamptonct.gov/AgendaCenter/ViewFile/Minutes/_01072026-367)  _(agenda/minutes · term: `drone`)_
+
+- **[2024-06-11] Town Council** — Town Council Regular Meeting 6/11/24
+  > …I last talked to them about a year ago uh and talk to them about what we've done you know that we did a drone fly over of the of the community did some high resolution mapping that way we're…
+  [Watch ▸](https://www.youtube.com/watch?v=dRFL8RxTCBs&t=3143s)  _(term: `drone`)_
+
+- **[2024-03-12] Town Council** — Town Council Regular Meeting 3-12-24
+  > …system the work related to that that everyone will notice is expected to start on Monday WEA permitted uh weather permitting on Monday representatives of the community or of the engineering firm will begin to do doing a drone mapping of the community that is using an airplane style drone to map in high definition um the community including uh topography locations of of…
+  [Watch ▸](https://www.youtube.com/watch?v=Woo3QbXdIjA&t=1495s)  _(term: `drone`)_
+
+- **[2024-03-12] Town Council** — Town Council Regular Meeting 3-12-24
+  > …start on Monday WEA permitted uh weather permitting on Monday representatives of the community or of the engineering firm will begin to do doing a drone mapping of the community that is using an airplane style drone to map in high definition um the community including uh topography locations of of wetlands all sorts of information that they can get via the equipment on that…
+  [Watch ▸](https://www.youtube.com/watch?v=Woo3QbXdIjA&t=1501s)  _(term: `drone`)_
+
+- **[2024-03-12] Town Council** — Town Council Regular Meeting 3-12-24
+  > …facility it'll map in GIS uh and GPS and they will end up with that work they anticipate that they'll be in town for the week uh provide uh and those paths are um parallel paths 240 ft apart so this 2 and a half pound drone airplane will fly at about 400 feet at 400 ft above ground level and we'll make passes uh around I would say the center quarter or…
+  [Watch ▸](https://www.youtube.com/watch?v=Woo3QbXdIjA&t=1534s)  _(term: `drone`)_
+
+- **[2024-01-09] Town Council** — Town Council Regular Meeting 1-9-24
+  > …environmental workers uh just one question and task three the Drone survey field work and mapping says task three does not include any private property survey and mapping…
+  [Watch ▸](https://www.youtube.com/watch?v=fotgs7IEj28&t=1318s)  _(term: `drone`)_
+
+- **[2024-01-09] Town Council** — Town Council Regular Meeting 1-9-24
+  > …whatever reason we have to move a facility onto a private property we can still get the Drone survey it's just the easements is what you wouldn't be is not included in the…
+  [Watch ▸](https://www.youtube.com/watch?v=fotgs7IEj28&t=1362s)  _(term: `drone`)_
+
+
+### Guilford — 8 mentions
+
+- **[2026-01-15] Board of Selectmen** — Board of Selectmen Budget Workshop January 15, 2026
+  > …>> Airplane? >> Yep. >> An airplane or a drone? >> No, it's airplane. Airplane. >> Crazy.…
+  [Watch ▸](https://www.youtube.com/watch?v=32d8f_8CJKQ&t=3289s)  _(term: `drone`)_
+
+- **[2025-11-13] Board of Selectmen** — Board of Selectmen Capital Plan Workshop November 13, 2025
+  > …equipment. So, anything to do with uh dive, hazmat, rope, confined space, trench rescue, uh UAS or drone is also all maintained under those lines. >> No, no indexing for uh inflation.…
+  [Watch ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=9836s)  _(term: `drone`)_
+
+- **[2025-07-07] Parks and Recreation** — Parks and Recreation July 7, 2025
+  > …I uh director's report. Yes. So, I put in a drone picture because it's so interesting. It looks so beautiful. And that's with all the…
+  [Watch ▸](https://www.youtube.com/watch?v=u50DVQOhBw4&t=1761s)  _(term: `drone`)_
+
+- **[2025-01-15] Board of Selectmen** — Board of Selectmen Budget Workshop January 15, 2025
+  > …Chiefs that are all members of the SWAT team this Regional team is that uh they wanted to make an investment in a drone program uh that was going to cost an increase for every town of about $3,000…
+  [Watch ▸](https://www.youtube.com/watch?v=H2sHO7WYZ9Q&t=3897s)  _(term: `drone`)_
+
+- **[2025-01-15] Board of Selectmen** — Board of Selectmen Budget Workshop January 15, 2025
+  > …program uh that was going to cost an increase for every town of about $3,000 for the annual fees um but that drone program is really going to add a very necessary tool especially in for modern…
+  [Watch ▸](https://www.youtube.com/watch?v=H2sHO7WYZ9Q&t=3904s)  _(term: `drone`)_
+
+- **[2024-06-05] Planning and Zoning Commission** — Planning and Zoning Commission June 5, 2024
+  > …right now oh this is an older photograph yes yes correct it's Google Maps I yeah I can't unless I do a Drone footage ourselves I just wanted to make sure I wasn't in a whole another…
+  [Watch ▸](https://www.youtube.com/watch?v=qUl5MIRgZTc&t=9165s)  _(term: `drone`)_
+
+- **[2024-06-05] Planning and Zoning Commission** — Planning and Zoning Commission June 5, 2024
+  > …photograph yes yes correct it's Google Maps I yeah I can't unless I do a Drone footage ourselves I just wanted to make sure I wasn't in a whole another…
+  [Watch ▸](https://www.youtube.com/watch?v=uZKWvm4ZM8Y&t=9165s)  _(term: `drone`)_
+
+- **[2024-05-20] Board of Selectmen** — Board of Selectmen May 20, 2024
+  > …interchange yeah Janice and I continue to beat the Drone line exit 60 with with DT every chance we get every opportunity we get okay anything…
+  [Watch ▸](https://www.youtube.com/watch?v=va3BhZEgAZY&t=1370s)  _(term: `drone`)_
+
+
+### Plainfield — 8 mentions
+
+- **[2026-04-08] Board of Finance** — April 8, 2026 Board of Finance
+  > …modification to this year's fireworks cuz this is our 250th. So, we were looking to do a drone show instead, which has fireworks that come off of it. It's a costly event. I do have some…
+  [Watch ▸](https://www.youtube.com/watch?v=bX0g952Me5M&t=3209s)  _(term: `drone`)_
+
+- **[2026-02-19] Capital Strategic Planning Committee** — February 19, 2026 Capital Strategic Planning Committee
+  > …So I would say if it was I would say we picked two uh which buildings are let's say fire drone right now. >> How do we know that if we don't ask the people in them?…
+  [Watch ▸](https://www.youtube.com/watch?v=p0waDdrzwd4&t=410s)  _(term: `drone`)_
+
+- **[2025-09-18] Economic Development Commission** — September 18, 2025 Economic Development Commission
+  > …he hired and he's at celebrate playing field day. He's recording the cauldron dancers. Um he's drone footage. He defin I have them all stored in a Google drive…
+  [Watch ▸](https://www.youtube.com/watch?v=yxK9PFW5wMA&t=1197s)  _(term: `drone`)_
+
+- **[2025-06-12] Economic Development Commission** — June 12, 2025 Economic Development Commission
+  > …quality photos of the town. So that will be all done. And then I'll have the drone footage. And so we're going to do a contract with them. So it'll be any probably will have you walk first with…
+  [Watch ▸](https://www.youtube.com/watch?v=Z-63kpJiFuU&t=1529s)  _(term: `drone`)_
+
+- **[2025-03-20] Economic Development Commission** — March 20, 2025 Economic Development Commission
+  > …that we have. Um, they'll attend celebrate Cleanfield Day. They will see photos, drone footage, and go around with their cameras and take videos of everything. They will post them either…
+  [Watch ▸](https://www.youtube.com/watch?v=Ns7H2i8Ywho&t=1672s)  _(term: `drone`)_
+
+- **[2025-02-20] Economic Development Commission** — February 20, 2025 Economic Development Commission
+  > …can also get updated photos of the town after our website and we'll also do Drone footage oh they have drones yeah all of them roughly came around prices okay and then how we're going to…
+  [Watch ▸](https://www.youtube.com/watch?v=IjHoINY7ofk&t=262s)  _(term: `drone`)_
+
+- **[2024-11-21] Economic Development Commission** — November 21, 2024 Economic Development Commission
+  > …to pay for it for a couple of years and um all they get out of it really is kind of simple the drone company would actually put their their logo up there saying sponsored by so it's a good…
+  [Watch ▸](https://www.youtube.com/watch?v=V4E7Cd4hCos&t=2762s)  _(term: `drone`)_
+
+- **[2024-11-18] Conservation Commission** — November 18, 2024 Conservation Commission
+  > …that people come along and they snip the fence and they want to go in and look at the property and do drone videos or whatever they want to do with it um and so if they're found on there we will ask…
+  [Watch ▸](https://www.youtube.com/watch?v=rQ4kRKpEt-U&t=981s)  _(term: `drone`)_
+
+
+### Plainville — 8 mentions
 
 - **[2026-08-17] Water Pollution Control Authority** — Plainville Town Council As Water Pollution Control Authority and Regular Council Meeting - 08/17/26
   > …then on Saturday the 29th from 9:00 to 9:00 at Norton Park. Um, there will be a drone show on Saturday night. That'll be added this year. >> Wow.…
@@ -1981,6 +2193,10 @@ _1 further mention in New Milford not shown here — all of them are in New Milf
 - **[2024-10-07] Town Council** — Plainville Town Council Meeting - 10/07/24
   > …country I'm not even sure the name of the company but they did go through and they did find a very low frequency drone type of a vibration noise that's coming out but it's not a noise that 90 plus…
   [Watch ▸](https://www.youtube.com/watch?v=y5bpShtlhko&t=5968s)  _(term: `drone`)_
+
+- **[2024-03-11] Town Council** — Plainville Town Council Budget Meeting - 03/11/24
+  > …let's hope not so we're you know that's a good thing you know then we also have the smaller policies of drone Insurance flood insurance uh underground storage tanks and then we have our miscellaneous…
+  [Watch ▸](https://www.youtube.com/watch?v=5P8vw8ZnQdk&t=3373s)  _(term: `drone`)_
 
 
 ### Ashford — 6 mentions
@@ -2028,40 +2244,40 @@ _1 further mention in New Milford not shown here — all of them are in New Milf
   > …doing business with the manufacturing company because they already make the material there that the drone will be utilizing. So, sometimes, you know, when peo- And…
   [Watch ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=4050s)  _(term: `drone`)_
 
+- **[2026-05-02] Budget and Appropriations Committee** — 04.30. 2026 Budget & Appropriations Committee Meeting
+  > …it's a compliance and it's actually a federal law. >> You say image. So that's like a drone. >> No. Um we have to share information from case file. So there might be video from…
+  [Watch ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5484s)  _(term: `drone`)_
+
 - **[2026-01-20] City Council** — City of Bridgeport City Council Meeting - 1.20.2026
   > …committee's rejection of the proposal contract with flock safety and expansion of police drone civilians in the Bridgeport. Our community care deeply about safety. Many of us are parents,…
   [Watch ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=640s)  _(term: `drone`)_
 
-- **[date unknown] Budget and Appropriations Committee** — 04.30. 2026 Budget & Appropriations Committee Meeting
-  > …it's a compliance and it's actually a federal law. >> You say image. So that's like a drone. >> No. Um we have to share information from case file. So there might be video from…
-  [Watch ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5484s)  _(term: `drone`)_
 
+### Portland — 6 mentions
 
-### East Hampton — 6 mentions
+- **[2026-02-26] Board of Education** — Town of Portland Podcast | TOP & BOE Joint Episode | Ep 75 | February 26, 2026
+  > …about what this will become. you you'll have to talk to Dylan. Maybe you can put the drone up and take some pictures of that. >> We did that. I got lots of video.…
+  [Watch ▸](https://www.youtube.com/watch?v=HO9xRCnQtw4&t=2417s)  _(term: `drone`)_
 
-- **[2024-06-11] Town Council** — Town Council Regular Meeting 6/11/24
-  > …I last talked to them about a year ago uh and talk to them about what we've done you know that we did a drone fly over of the of the community did some high resolution mapping that way we're…
-  [Watch ▸](https://www.youtube.com/watch?v=dRFL8RxTCBs&t=3143s)  _(term: `drone`)_
+- **[2025-05-01] Strategic Capital Improvements Committee** — Strategic Capital Improvements Committee 5/1/2025
+  > …know he was using the 30,000 elevation. Well, now I need him to dial it down to, you know, drone. We got to make sure and I respect that you respect his numbers, but I trust verify. I just want to see…
+  [Watch ▸](https://www.youtube.com/watch?v=7hGowoBhlTA&t=4428s)  _(term: `drone`)_
 
-- **[2024-03-12] Town Council** — Town Council Regular Meeting 3-12-24
-  > …system the work related to that that everyone will notice is expected to start on Monday WEA permitted uh weather permitting on Monday representatives of the community or of the engineering firm will begin to do doing a drone mapping of the community that is using an airplane style drone to map in high definition um the community including uh topography locations of of…
-  [Watch ▸](https://www.youtube.com/watch?v=Woo3QbXdIjA&t=1495s)  _(term: `drone`)_
+- **[2024-08-08] Planning and Zoning Commission** — Planning and Zoning Special Meeting 8/8/24
+  > …Bridge gentle River and the expansive Horizon of Rolling Hills slide please these are drone photos taken at the proposed view from a new restaurant at building a slide…
+  [Watch ▸](https://www.youtube.com/watch?v=YyBHGECOVSs&t=1546s)  _(term: `drone`)_
 
-- **[2024-03-12] Town Council** — Town Council Regular Meeting 3-12-24
-  > …start on Monday WEA permitted uh weather permitting on Monday representatives of the community or of the engineering firm will begin to do doing a drone mapping of the community that is using an airplane style drone to map in high definition um the community including uh topography locations of of wetlands all sorts of information that they can get via the equipment on that…
-  [Watch ▸](https://www.youtube.com/watch?v=Woo3QbXdIjA&t=1501s)  _(term: `drone`)_
+- **[2024-05-23] Planning and Zoning Commission** — Portland Planning and Zoning Special Meeting 5/23/24
+  > …residential as far as the addition of two more floors well I understand a chef came by flew a drone and said yes I want to have a a restaurant on this level okay is going to be four stories so okay…
+  [Watch ▸](https://www.youtube.com/watch?v=T08q_Kuo_D4&t=9885s)  _(term: `drone`)_
 
-- **[2024-03-12] Town Council** — Town Council Regular Meeting 3-12-24
-  > …facility it'll map in GIS uh and GPS and they will end up with that work they anticipate that they'll be in town for the week uh provide uh and those paths are um parallel paths 240 ft apart so this 2 and a half pound drone airplane will fly at about 400 feet at 400 ft above ground level and we'll make passes uh around I would say the center quarter or…
-  [Watch ▸](https://www.youtube.com/watch?v=Woo3QbXdIjA&t=1534s)  _(term: `drone`)_
+- **[2024-05-08] Planning and Zoning Commission** — Portland Planning and Zoning Special Meeting 5/8/24
+  > …expansion expansive Horizon of Rolling Hills next image please these are drone photos taken at the proposed view from a new restaurant next image…
+  [Watch ▸](https://www.youtube.com/watch?v=qZhFzkbmeUY&t=4339s)  _(term: `drone`)_
 
-- **[2024-01-09] Town Council** — Town Council Regular Meeting 1-9-24
-  > …environmental workers uh just one question and task three the Drone survey field work and mapping says task three does not include any private property survey and mapping…
-  [Watch ▸](https://www.youtube.com/watch?v=fotgs7IEj28&t=1318s)  _(term: `drone`)_
-
-- **[2024-01-09] Town Council** — Town Council Regular Meeting 1-9-24
-  > …whatever reason we have to move a facility onto a private property we can still get the Drone survey it's just the easements is what you wouldn't be is not included in the…
-  [Watch ▸](https://www.youtube.com/watch?v=fotgs7IEj28&t=1362s)  _(term: `drone`)_
+- **[2024-05-01] Board of Selectmen** — Board of Selectmen | Regular Meeting | Portland, CT | 05/01/2024
+  > …last Friday they at no cost to the town hired or allowed us to use their their drone team and they sent a drone team out and took some really stunning videos and footage of the property not just…
+  [Watch ▸](https://www.youtube.com/watch?v=gvdJ7_zfniw&t=1776s)  _(term: `drone`)_
 
 
 ### Canterbury — 5 mentions
@@ -2087,7 +2303,7 @@ _1 further mention in New Milford not shown here — all of them are in New Milf
   [Watch ▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=723s)  _(term: `drone`)_
 
 
-### Clinton — 4 mentions
+### Clinton — 5 mentions
 
 - **[2026-07-01] Town Council** — Clinton Town Council - July 1 2026
   > …>> Great. Any comments on that? Um, and then the last thing that I went to Old Sabre Day, um, Sunday they had the drone show. So, it was, I think, the first drone show in Connecticut and it was…
@@ -2101,43 +2317,81 @@ _1 further mention in New Milford not shown here — all of them are in New Milf
   > …and they go into shape. Actually, it's it's it's the first one. So there was some challenges. You'd see a drone fall out of position and go back to earth. You know, it was like an American flag…
   [Watch ▸](https://www.youtube.com/watch?v=VhFIZ_cjrOA&t=3725s)  _(term: `drone`)_
 
+- **[2026-04-21] (unassigned body)** — Public Works Commission Minutes - 2026-04-21
+  > …Reviewed all equipment in Town Hall Theater for determining future use as requested by members of Town council • Director Attended 4 day class to prepare for “Part 107” FAA Drone license o Passed test April 1st o Town/Emergency Management has 3 drones available • DPW Training o Sexual Harassment o…
+  [Open document ▸](https://clintonct.org/AgendaCenter/ViewFile/Minutes/_04212026-8334)  _(agenda/minutes · term: `drone`)_
+
 - **[2025-10-01] Town Council** — Clinton Town Council - October 1 2025
   > …hosting it. And so there was a lot of talk and questions that the town consider a drone light show. Just throwing it out there. Um I have been speaking with a lot of…
   [Watch ▸](https://www.youtube.com/watch?v=h246j7advzs&t=4264s)  _(term: `drone`)_
 
 
-### Plainfield — 4 mentions
+### Lebanon — 4 mentions
 
-- **[2026-04-08] Board of Finance** — April 8, 2026 Board of Finance
-  > …modification to this year's fireworks cuz this is our 250th. So, we were looking to do a drone show instead, which has fireworks that come off of it. It's a costly event. I do have some…
-  [Watch ▸](https://www.youtube.com/watch?v=bX0g952Me5M&t=3209s)  _(term: `drone`)_
+- **[2026-03-16] Planning and Zoning Commission** — Planning and Zoning Regular Meeting 3-16-26
+  > …where someone comes in and said, "Here's a big building. They're going to fly in. We'll drone." I don't know. Like, it's crazy. Um, >> what about the village district…
+  [Watch ▸](https://www.youtube.com/watch?v=WtGvL8ubnK4&t=8031s)  _(term: `drone`)_
 
-- **[2026-02-19] Capital Strategic Planning Committee** — February 19, 2026 Capital Strategic Planning Committee
-  > …So I would say if it was I would say we picked two uh which buildings are let's say fire drone right now. >> How do we know that if we don't ask the people in them?…
-  [Watch ▸](https://www.youtube.com/watch?v=p0waDdrzwd4&t=410s)  _(term: `drone`)_
+- **[2024-08-27] Board of Selectmen** — Board of Selectmen Special Meeting 8-27-2024
+  > …people year in review you know here's the pictures you got we've got the um the Drone pictures anybody want copies of those let me know um you got Memorial Day pictures you got…
+  [Watch ▸](https://www.youtube.com/watch?v=EbZJav5uu3E&t=4160s)  _(term: `drone`)_
 
-- **[2025-09-18] Economic Development Commission** — September 18, 2025 Economic Development Commission
-  > …he hired and he's at celebrate playing field day. He's recording the cauldron dancers. Um he's drone footage. He defin I have them all stored in a Google drive…
-  [Watch ▸](https://www.youtube.com/watch?v=yxK9PFW5wMA&t=1197s)  _(term: `drone`)_
+- **[2024-08-27] Board of Selectmen** — Board of Selectmen Special Meeting 8-27-2024
+  > …copies of those let me know um you got Memorial Day pictures you got Halloween your drone do we no we hired somebody yeah to come on up so that's a that's a new drone picture so what if…
+  [Watch ▸](https://www.youtube.com/watch?v=EbZJav5uu3E&t=4168s)  _(term: `drone`)_
 
-- **[2025-06-12] Economic Development Commission** — June 12, 2025 Economic Development Commission
-  > …quality photos of the town. So that will be all done. And then I'll have the drone footage. And so we're going to do a contract with them. So it'll be any probably will have you walk first with…
-  [Watch ▸](https://www.youtube.com/watch?v=Z-63kpJiFuU&t=1529s)  _(term: `drone`)_
+- **[2024-08-27] Board of Selectmen** — Board of Selectmen Special Meeting 8-27-2024
+  > …Halloween your drone do we no we hired somebody yeah to come on up so that's a that's a new drone picture so what if the fire department photographer wanted us to pay him for the…
+  [Watch ▸](https://www.youtube.com/watch?v=EbZJav5uu3E&t=4174s)  _(term: `drone`)_
+
+
+### Sterling — 4 mentions
+
+- **[2026-06-04] Agricultural Commission** — Agricultural Commission Minutes - 2026-06-04
+  > …ts/seeds for pumpkin planting contest were enjoyed by the children. We would respectfully request that students in grades 6-8th be allowed to visit us during their recess. The drone was distracting while the younger children were outside. Honey sticks donated by the Ekonk Junior Grange, & pumpkin contest handouts for all students were given for teach…
+  [Open document ▸](https://sterlingct.gov/AgendaCenter/ViewFile/Minutes/_06042026-1398)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-05-12] Economic Development Commission** — Sterling EDC-Regular Meeting - 05/12/2026
+  > …>> Okay. >> We have aerial maps of the industrial park. We got drone cameras of all the the full industrial park. They want that. We got plenty of pictures. So…
+  [Watch ▸](https://www.youtube.com/watch?v=YsRoKNv67Ms&t=3347s)  _(term: `drone`)_
+
+- **[2026-05-12] Economic Development Commission** — Sterling EDC-Regular Meeting - 05/12/2026
+  > …that. We got plenty of pictures. So >> yeah, we have a pretty good map though with the drone. So >> Okay. So this is something all new for me.…
+  [Watch ▸](https://www.youtube.com/watch?v=YsRoKNv67Ms&t=3356s)  _(term: `drone`)_
+
+- **[2025-06-10] Economic Development Commission** — Sterling EDC Meeting - Land Surveying RFP - 06/10/2025
+  > …look at to the aerial. take a look at those children get older. So, we do have drone pictures of all industrial park including this property too. If you'd like to see them,…
+  [Watch ▸](https://www.youtube.com/watch?v=e1JiwfSGL-0&t=1772s)  _(term: `drone`)_
 
 
 ### Ansonia — 3 mentions
+
+- **[2025-06-11] Board of Aldermen** — Ansonia Connecticut Board of Aldermen
+  > …And that's He sits more to the right, John. I think he's down in the 30. My drone will pick it up. Unless you just put Chargers on both sides like the Jets. Both sides. No, let's not do…
+  [Watch ▸](https://www.youtube.com/watch?v=dAbjq3EbCzY&t=2136s)  _(term: `drone`)_
+
+- **[2025-06-11] Board of Aldermen** — Ansonia Connecticut Board of Aldermen
+  > …times and um I just curious, do we have uh in that uh the ability to uh have drone surveillance? Does anybody uh close by and other police departments or other investigations? I will tell you as…
+  [Watch ▸](https://www.youtube.com/watch?v=dAbjq3EbCzY&t=5086s)  _(term: `drone`)_
 
 - **[2017-08-09] Board of Aldermen** — Ansonia Connecticut Board of Aldermen
   > …you to come over I I have right here and I'd be happy to and I'd be happy to look at it my point drone uh Mr y I've got some more want Mr Blackwell you had your hand up first just want to make it clear…
   [Watch ▸](https://www.youtube.com/watch?v=FI3guTl4sJM&t=4416s)  _(term: `drone`)_
 
-- **[date unknown] Board of Aldermen** — Ansonia Connecticut Board of Aldermen
-  > …And that's He sits more to the right, John. I think he's down in the 30. My drone will pick it up. Unless you just put Chargers on both sides like the Jets. Both sides. No, let's not do…
-  [Watch ▸](https://www.youtube.com/watch?v=dAbjq3EbCzY&t=2136s)  _(term: `drone`)_
 
-- **[date unknown] Board of Aldermen** — Ansonia Connecticut Board of Aldermen
-  > …times and um I just curious, do we have uh in that uh the ability to uh have drone surveillance? Does anybody uh close by and other police departments or other investigations? I will tell you as…
-  [Watch ▸](https://www.youtube.com/watch?v=dAbjq3EbCzY&t=5086s)  _(term: `drone`)_
+### Beacon Falls — 3 mentions
+
+- **[2026-07-20] (unassigned body)** — Parks & Recreation Minutes - 2026-07-20
+  > …received from a concerned resident pertaining to closing the whole park for Summer Camp. A concerned resident reached out stating fireworks trigger PTSD and the town should look into drone shows. Woodland Softball League sent an email thanking the board for all their wonderful, hard work. Jeremy Rodorigo wants to do the haunted walk again this year as las…
+  [Open document ▸](https://www.beaconfalls-ct.org/AgendaCenter/ViewFile/Minutes/_07202026-318)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-05-28] (unassigned body)** — Museum and Rimmon Schoolhouse Committee Minutes - 2026-05-28
+  > …May 28, 2026 (Subject to Revision) a. Phase 1 – DiGiorgi i. Document before rehabilitation starts - photos, video, drone - The committee agreed that the building should be documented before rehabilitation begins. Volunteers will be sought to take photographs and…
+  [Open document ▸](https://www.beaconfalls-ct.org/AgendaCenter/ViewFile/Minutes/_05282026-290)  _(agenda/minutes · term: `drone`)_
+
+- **[2026-03-16] (unassigned body)** — Parks & Recreation Minutes - 2026-03-16
+  > …ound on May 17th, 2021. And I want to clarify it but put it on the record, I believe we made a motion to put $5,200 out of our special activities account which was for the drone show because finance told Selectman Krenesky we had $11,000 sitting unencumbered. It was motion made and accepted for the $5,200 to go to that. CB Motioned that the board gets visi…
+  [Open document ▸](https://www.beaconfalls-ct.org/AgendaCenter/ViewFile/Minutes/_03162026-239)  _(agenda/minutes · term: `drone`)_
 
 
 ### Bethany — 3 mentions
@@ -2170,19 +2424,49 @@ _1 further mention in New Milford not shown here — all of them are in New Milf
   [Watch ▸](https://www.youtube.com/watch?v=t4s_ZnxG31w&t=4535s)  _(term: `drone`)_
 
 
-### Guilford — 3 mentions
+### Killingly — 3 mentions
 
-- **[2026-01-15] Board of Selectmen** — Board of Selectmen Budget Workshop January 15, 2026
-  > …>> Airplane? >> Yep. >> An airplane or a drone? >> No, it's airplane. Airplane. >> Crazy.…
-  [Watch ▸](https://www.youtube.com/watch?v=32d8f_8CJKQ&t=3289s)  _(term: `drone`)_
+- **[2024-03-26] Town Council** — Town Council Special Meeting 3-26-24
+  > …and create that it can be very different from what you have now um you know setting up for individual like drone videos or having pictures that you can change on the back end so the…
+  [Watch ▸](https://www.youtube.com/watch?v=x1AaRD5CbHs&t=493s)  _(term: `drone`)_
 
-- **[2025-11-13] Board of Selectmen** — Board of Selectmen Capital Plan Workshop November 13, 2025
-  > …equipment. So, anything to do with uh dive, hazmat, rope, confined space, trench rescue, uh UAS or drone is also all maintained under those lines. >> No, no indexing for uh inflation.…
-  [Watch ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=9836s)  _(term: `drone`)_
+- **[2024-03-26] Town Council** — Town Council Special Meeting 3-26-24
+  > …popular now is to do the drones because like somebody has a brother who has a drone in the government somewhere so I think that I was just working with somebody who the mayor was kind of a…
+  [Watch ▸](https://www.youtube.com/watch?v=x1AaRD5CbHs&t=2811s)  _(term: `drone`)_
 
-- **[2025-07-07] Parks and Recreation** — Parks and Recreation July 7, 2025
-  > …I uh director's report. Yes. So, I put in a drone picture because it's so interesting. It looks so beautiful. And that's with all the…
-  [Watch ▸](https://www.youtube.com/watch?v=u50DVQOhBw4&t=1761s)  _(term: `drone`)_
+- **[2024-03-26] Town Council** — Town Council Special Meeting 3-26-24
+  > …think that I was just working with somebody who the mayor was kind of a drone offici AO but had no reason to own it until this happened so he was he was very happy yeah he's like oh I get to…
+  [Watch ▸](https://www.youtube.com/watch?v=x1AaRD5CbHs&t=2817s)  _(term: `drone`)_
+
+
+### Mansfield — 3 mentions
+
+- **[2026-04-30] Board of Education** — Board of Education 04/30/2026
+  > …they were able to come to enrichment for Xlock. Um middle at the bottom is a bird's eye view from the drone of students testing their robots in bsentennial…
+  [Watch ▸](https://www.youtube.com/watch?v=LXXgwc-PKv0&t=1790s)  _(term: `drone`)_
+
+- **[2026-02-09] Town Council** — Town Council 2/9/2026
+  > …>> This one here. >> Okay. >> I got to do a screen share for >> Sure. And this is compliments of a Cana Deep using drone foot. They had a drone up in the air, so it's a little hard to see on this. Um, but it'll give you an idea of the size and the scope of what we had. Um, we did have 13 train cars detached from a the train called in…
+  [Watch ▸](https://www.youtube.com/watch?v=Hr1R1GwB2eU&t=991s)  _(term: `drone`)_
+
+- **[2026-02-09] Town Council** — Town Council 2/9/2026
+  > …the part that's still not done. They have to run the wire from 89 all the way down the road, connect it so you can send the power out. >> I'll uh I'll circulate a drone photo of it to the council so you can get a sense. It's pretty pretty visually dramatic. Yeah. >> And also here's future swap shop. I know we've been talking about this for a…
+  [Watch ▸](https://www.youtube.com/watch?v=Hr1R1GwB2eU&t=6351s)  _(term: `drone`)_
+
+
+### North Stonington — 3 mentions
+
+- **[2026-02-04] Board of Finance** — Board of Finance Meeting February 4, 2026
+  > …They're a much bigger scale. They're having a whole gala. They're having a drone show. They're I I don't think they're having a fireworks display, but their their events are much much larger.…
+  [Watch ▸](https://www.youtube.com/watch?v=TsR_9RArIcg&t=6815s)  _(term: `drone`)_
+
+- **[2025-10-15] Board of Finance** — Board of Finance Meeting October 15, 2025
+  > …job. Um we did as part of the process in the last six months we opened walls we did drone inspections. Um, so we we did our best alongside the design team to get inside the areas you can't see with…
+  [Watch ▸](https://www.youtube.com/watch?v=liZ4m6rUVz4&t=4097s)  _(term: `drone`)_
+
+- **[2024-06-18] Board of Selectmen** — Board of Selectmen Meeting June 18, 2024
+  > …messing yeah so this is can you pull that up that's a great picture that drone picture of the field is great make sure Zoom can see it as well yeah what what platform are they who I I know I…
+  [Watch ▸](https://www.youtube.com/watch?v=agZan7w6EqI&t=3460s)  _(term: `drone`)_
 
 
 ### South Windsor — 3 mentions
@@ -2270,6 +2554,17 @@ _1 further mention in New Milford not shown here — all of them are in New Milf
   [Watch ▸](https://www.youtube.com/watch?v=nPfMmVoHSkI&t=3526s)  _(term: `drone`)_
 
 
+### Granby — 2 mentions
+
+- **[2026-06-03] Board of Education** — Granby Board of Education - 06-03-26
+  > …from reliable sources. In addition to talking about our core classes, we also reflected on our UAS. So, I chose band. Overall, I was most proud of how I've developed as a…
+  [Watch ▸](https://www.youtube.com/watch?v=1KRACU734CE&t=1444s)  _(term: `drone`)_
+
+- **[2026-03-05] Board of Finance** — Granby 2026-2027 Budget Workshop #1 - 03-05-26
+  > …Avon, Farmington, um US, uh Canton. So, we all share a SWAT team, accident reconstruction team, uh a drone team, and a negotiator's team. So, um it would cost us…
+  [Watch ▸](https://www.youtube.com/watch?v=F3rBUldgk4A&t=8040s)  _(term: `drone`)_
+
+
 ### Ledyard — 2 mentions
 
 - **[2020-05-21] Farmers' Market Committee** — Farmers' Market Cmt Special  Mtg 2020 05 21
@@ -2303,17 +2598,6 @@ _1 further mention in New Milford not shown here — all of them are in New Milf
   [Watch ▸](https://www.youtube.com/watch?v=gCzwkInEPII&t=331s)  _(term: `drone`)_
 
 
-### North Branford — 2 mentions
-
-- **[2026-04-14] Town Council** — NB Town Council Budget Workshop 4/14/26
-  > …>> Okay. >> And just to make it clear on the the drone Harrison, the the the the granite curbing is in the bus way. It's not the whole place.…
-  [Watch ▸](https://www.youtube.com/watch?v=NHsH_AU6nuI&t=6961s)  _(term: `drone`)_
-
-- **[2026-04-14] Town Council** — Town Council - Budget Workshop 04/14/2026
-  > …>> Okay. >> And just to make it clear on the the drone harrison, the the the the granite curbing is in the bus way. It's not the whole place.…
-  [Watch ▸](https://www.youtube.com/watch?v=4_sFIUZVAFE&t=6961s)  _(term: `drone`)_
-
-
 ### North Canaan — 2 mentions
 
 - **[2025-04-28] Events Committee** — Events Committee Quarterly Meeting (4-28-2025)
@@ -2323,39 +2607,6 @@ _1 further mention in New Milford not shown here — all of them are in New Milf
 - **[2025-04-28] Events Committee** — Events Committee Quarterly Meeting (4-28-2025)
   > …Last year it was shorter Mhm. because of the drones. This year there's no drone show, so I think people are going to want to just have the expanded fireworks show…
   [Watch ▸](https://www.youtube.com/watch?v=tXrZYp3sLm4&t=2180s)  _(term: `drone`)_
-
-
-### North Stonington — 2 mentions
-
-- **[2026-02-04] Board of Finance** — Board of Finance Meeting February 4, 2026
-  > …They're a much bigger scale. They're having a whole gala. They're having a drone show. They're I I don't think they're having a fireworks display, but their their events are much much larger.…
-  [Watch ▸](https://www.youtube.com/watch?v=TsR_9RArIcg&t=6815s)  _(term: `drone`)_
-
-- **[2025-10-15] Board of Finance** — Board of Finance Meeting October 15, 2025
-  > …job. Um we did as part of the process in the last six months we opened walls we did drone inspections. Um, so we we did our best alongside the design team to get inside the areas you can't see with…
-  [Watch ▸](https://www.youtube.com/watch?v=liZ4m6rUVz4&t=4097s)  _(term: `drone`)_
-
-
-### Portland — 2 mentions
-
-- **[2026-02-26] Board of Education** — Town of Portland Podcast | TOP & BOE Joint Episode | Ep 75 | February 26, 2026
-  > …about what this will become. you you'll have to talk to Dylan. Maybe you can put the drone up and take some pictures of that. >> We did that. I got lots of video.…
-  [Watch ▸](https://www.youtube.com/watch?v=HO9xRCnQtw4&t=2417s)  _(term: `drone`)_
-
-- **[2025-05-01] Strategic Capital Improvements Committee** — Strategic Capital Improvements Committee 5/1/2025
-  > …know he was using the 30,000 elevation. Well, now I need him to dial it down to, you know, drone. We got to make sure and I respect that you respect his numbers, but I trust verify. I just want to see…
-  [Watch ▸](https://www.youtube.com/watch?v=7hGowoBhlTA&t=4428s)  _(term: `drone`)_
-
-
-### Sterling — 2 mentions
-
-- **[2026-05-12] Economic Development Commission** — Sterling EDC-Regular Meeting - 05/12/2026
-  > …>> Okay. >> We have aerial maps of the industrial park. We got drone cameras of all the the full industrial park. They want that. We got plenty of pictures. So…
-  [Watch ▸](https://www.youtube.com/watch?v=YsRoKNv67Ms&t=3347s)  _(term: `drone`)_
-
-- **[2026-05-12] Economic Development Commission** — Sterling EDC-Regular Meeting - 05/12/2026
-  > …that. We got plenty of pictures. So >> yeah, we have a pretty good map though with the drone. So >> Okay. So this is something all new for me.…
-  [Watch ▸](https://www.youtube.com/watch?v=YsRoKNv67Ms&t=3356s)  _(term: `drone`)_
 
 
 ### Suffield — 2 mentions
@@ -2376,13 +2627,6 @@ _1 further mention in New Milford not shown here — all of them are in New Milf
   [Watch ▸](https://www.youtube.com/watch?v=_zeHSW0HYRM&t=3110s)  _(term: `drone`)_
 
 
-### Columbia — 1 mention
-
-- **[2026-05-07] Informational/Public Meeting** — Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
-  > …high now we don't my camera and every road between them around. But a road like twinkling drone it was right the center you would slow you you would slow down…
-  [Watch ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=2621s)  _(term: `drone`)_
-
-
 ### East Haddam — 1 mention
 
 - **[2026-06-09] Planning & Zoning Commission** — Planning & Zoning Commission - 6.9.2026
@@ -2390,11 +2634,11 @@ _1 further mention in New Milford not shown here — all of them are in New Milf
   [Watch ▸](https://www.youtube.com/watch?v=EGbjAGz-Bk0&t=2863s)  _(term: `drone`)_
 
 
-### Granby — 1 mention
+### Haddam — 1 mention
 
-- **[2026-06-03] Board of Education** — Granby Board of Education - 06-03-26
-  > …from reliable sources. In addition to talking about our core classes, we also reflected on our UAS. So, I chose band. Overall, I was most proud of how I've developed as a…
-  [Watch ▸](https://www.youtube.com/watch?v=1KRACU734CE&t=1444s)  _(term: `drone`)_
+- **[2026-06-10] (unassigned body)** — Economic Development Commission Minutes - 2026-06-10
+  > …Mrs. Kinney Arroyo stated she had heard an expansion. Mrs. Halfinger congratulated Fireworks! Town Genter Updates - New Businesses - Tylerville - Nail Salon - Mrs. Kinney Arroyo did a ribbon cutting. Drone video was very nice. Bridge Street Breakfast and Lunch (Tylerville Plaza) and Haddam Bottle & Can Return (behind River Valley Provisions and Tony's Package Store) are open; willing to work with…
+  [Open document ▸](https://www.haddam.org/AgendaCenter/ViewFile/Minutes/_06102026-609)  _(agenda/minutes · term: `drone`)_
 
 
 ### Hebron — 1 mention
@@ -2404,18 +2648,11 @@ _1 further mention in New Milford not shown here — all of them are in New Milf
   [Watch ▸](https://www.youtube.com/watch?v=xdhPAVh3pdw&t=4209s)  _(term: `drone`)_
 
 
-### Lebanon — 1 mention
+### New Fairfield — 1 mention
 
-- **[2026-03-16] Planning and Zoning Commission** — Planning and Zoning Regular Meeting 3-16-26
-  > …where someone comes in and said, "Here's a big building. They're going to fly in. We'll drone." I don't know. Like, it's crazy. Um, >> what about the village district…
-  [Watch ▸](https://www.youtube.com/watch?v=WtGvL8ubnK4&t=8031s)  _(term: `drone`)_
-
-
-### Mansfield — 1 mention
-
-- **[2026-04-30] Board of Education** — Board of Education 04/30/2026
-  > …they were able to come to enrichment for Xlock. Um middle at the bottom is a bird's eye view from the drone of students testing their robots in bsentennial…
-  [Watch ▸](https://www.youtube.com/watch?v=LXXgwc-PKv0&t=1790s)  _(term: `drone`)_
+- **[2024-06-26] Margerie Reservoir Trail Advisory Committee** — Margeriwe Trail Meeting 25 June 2024
+  > …and Sal B construction and I was kept a prized there were photos there were drone videos there were it was um and then we've got a project that's 10 miles from our office that is going sideways…
+  [Watch ▸](https://www.youtube.com/watch?v=JouIwi7UQCc&t=8244s)  _(term: `drone`)_
 
 
 ### Plymouth — 1 mention
@@ -2423,6 +2660,13 @@ _1 further mention in New Milford not shown here — all of them are in New Milf
 - **[2026-04-15] Board of Education** — BOE Meeting 4/15/26
   > …uh in all honesty, when you go to Plymouth Center, when you look up, you see the sky. When you take a drone and you look down, well, that entire roof has solar panels on it. It does. So, if…
   [Watch ▸](https://www.youtube.com/watch?v=jqJRLlrKdn4&t=3311s)  _(term: `drone`)_
+
+
+### Salem — 1 mention
+
+- **[2026-07-20] (unassigned body)** — Recreation Commission Minutes - 2026-07-20
+  > …ommunity Picnic, which was cancelled due to inclement weather. The Salem Seniors Group will be offering hot dogs, snacks, and drinks at the July Summer Concert for a donation to help fund a drone show. 8. Salem Seniors Group Report Salem Seniors Group Liaison Commissioner Valentini reported on the many activities the Group is hosting, including monthly raffles, Veterans’ Cof…
+  [Open document ▸](https://www.salemct.gov/AgendaCenter/ViewFile/Minutes/_07202026-249)  _(agenda/minutes · term: `drone`)_
 
 
 ### Seymour — 1 mention

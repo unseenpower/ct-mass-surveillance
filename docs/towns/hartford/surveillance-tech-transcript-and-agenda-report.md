@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Hartford
 
 
-_Generated 2026-08-27T17:52:01 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Hartford"`_
+_Generated 2026-08-29T10:17:34 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Hartford"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T17:52:01 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 1
 - Active meeting bodies: 13
 - Videos registered: 481 (fetched: 460, no captions: 21)
-- Date range covered: 2018-01-08 to 2026-08-20 — **based on the 463 of 481 videos that carry a parseable upload date**; the other 18 are undated, so the real corpus may extend beyond this range in either direction
+- Date range covered: 2018-01-08 to 2026-08-20 (all 481 videos dated)
 
 
 ### Channels
@@ -23,8 +23,8 @@ _Generated 2026-08-27T17:52:01 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| hpa_tv | streams | 2026-08-27 10:20:30.342337 | 247 |
-| hpa_tv | videos | 2026-08-27 10:20:42.688407 | 987 |
+| hpa_tv | streams | 2026-08-29 09:00:14.510600 | 247 |
+| hpa_tv | videos | 2026-08-29 09:00:27.123977 | 987 |
 
 
 ## Registered meeting bodies
@@ -55,7 +55,7 @@ _Generated 2026-08-27T17:52:01 -- regenerate with `.venv/bin/python3 analysis/ge
 | --- | --- | --- | --- | --- |
 | alpr | 7 | 7 | 2023-03-21 | 2026-04-22 |
 | body_camera | 9 | 5 | 2019-05-01 | 2023-04-12 |
-| doorbell_partnership | 2 | 2 | 2022-08-16 | 2022-08-16 |
+| doorbell_partnership | 2 | 2 | 2022-08-16 | 2026-04-12 |
 | drone | 16 | 11 | 2018-09-10 | 2025-04-24 |
 | facial_recognition | 54 | 7 | 2022-07-19 | 2023-03-21 |
 | gunshot_detection | 8 | 2 | 2019-05-07 | 2024-04-16 |
@@ -65,7 +65,7 @@ _Generated 2026-08-27T17:52:01 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ## Timeline
 
-29 meetings surfaced a finding (28 dated, spanning 2018-09-10 to 2026-04-22; 1 of unknown date, listed last).
+29 meetings surfaced a finding (29 dated, spanning 2018-09-10 to 2026-04-22; 0 of unknown date, listed last).
 
 
 ### 2018-09-10 -- Court of Common Council
@@ -403,18 +403,18 @@ _Generated 2026-08-27T17:52:01 -- regenerate with `.venv/bin/python3 analysis/ge
 - `drone` [▸](https://www.youtube.com/watch?v=vZTMYQp2GVM&t=6512s)  > ...play the games, but we're going to have actual programs where they can come in and learn how to fly a drone and then race drones, which then relates to jobs down the road. Um, which relates to the...
 
 
+### 2026-04-12 -- Operation, Management, Budget & Government Accountability Committee
+
+**City of Hartford Budget Hearing FY27 CP, COO, Office of the Mayor, ROV, & Town & City Clerk** _(topics: doorbell_partnership)_
+
+- `doorbell_partnership` [▸](https://www.youtube.com/watch?v=sWQn2FL46i0&t=3723s)  > ...focus on it and I hope it continues to be elevated to that level. Um, I noticed that the Ring doorbell distribution, I don't know, you know, if that was a one-time thing or if it's going to...
+
+
 ### 2026-04-22 -- Operation, Management, Budget & Government Accountability Committee
 
 **City of Hartford Budget Hearing FY27 MHIS & Board of Education April 22nd, 2026** _(topics: alpr)_
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=KLQWtVEhf8w&t=639s)  > ...solution across all city devices. Supported C4 with deployment of their new Flock security camera infrastructure. Configured HPS...
-
-
-### date unknown -- Operation, Management, Budget & Government Accountability Committee
-
-**City of Hartford Budget Hearing FY27 CP, COO, Office of the Mayor, ROV, & Town & City Clerk** _(topics: doorbell_partnership)_
-
-- `doorbell_partnership` [▸](https://www.youtube.com/watch?v=sWQn2FL46i0&t=3723s)  > ...focus on it and I hope it continues to be elevated to that level. Um, I noticed that the Ring doorbell distribution, I don't know, you know, if that was a one-time thing or if it's going to...
 
 
 ## Findings by topic
@@ -517,13 +517,13 @@ _Generated 2026-08-27T17:52:01 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### doorbell_partnership
 
+- **[2026-04-12] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford Budget Hearing FY27 CP, COO, Office of the Mayor, ROV, & Town & City Clerk
+  > ...focus on it and I hope it continues to be elevated to that level. Um, I noticed that the Ring doorbell distribution, I don't know, you know, if that was a one-time thing or if it's going to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=sWQn2FL46i0&t=3723s)  _(term: doorbell_partnership, unreviewed)_
+
 - **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
   > ...sensitive these are all older cases but we get a lot of these third-party cameras this was a ring doorbell camera of a residential burglary with a really clean shot at that face...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2134s)  _(term: doorbell_partnership, unreviewed)_
-
-- **[date unknown] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford Budget Hearing FY27 CP, COO, Office of the Mayor, ROV, & Town & City Clerk
-  > ...focus on it and I hope it continues to be elevated to that level. Um, I noticed that the Ring doorbell distribution, I don't know, you know, if that was a one-time thing or if it's going to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=sWQn2FL46i0&t=3723s)  _(term: doorbell_partnership, unreviewed)_
 
 
 ### drone

@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: South Windsor
 
 
-_Generated 2026-08-27T17:53:20 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "South Windsor"`_
+_Generated 2026-08-29T10:20:43 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "South Windsor"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T17:53:20 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 2
 - Active meeting bodies: 2
 - Videos registered: 142 (fetched: 139, no captions: 3)
-- Date range covered: 2021-04-26 to 2026-07-20 — **based on the 140 of 142 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
+- Date range covered: 2021-04-26 to 2026-07-20 (all 142 videos dated)
 
 
 ### Channels
@@ -24,10 +24,10 @@ _Generated 2026-08-27T17:53:20 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| south_windsor_public_schools | streams | 2026-08-27 17:42:28.794009 | 6 |
-| south_windsor_public_schools | videos | 2026-08-27 17:42:29.582471 | 2 |
-| town_of_south_windsor | streams | 2026-08-27 10:27:12.391417 | 323 |
-| town_of_south_windsor | videos | 2026-08-27 10:27:13.183270 | 21 |
+| south_windsor_public_schools | streams | 2026-08-29 08:26:57.538192 | 6 |
+| south_windsor_public_schools | videos | 2026-08-29 08:26:58.268627 | 2 |
+| town_of_south_windsor | streams | 2026-08-29 09:11:04.676977 | 323 |
+| town_of_south_windsor | videos | 2026-08-29 09:11:05.561773 | 21 |
 
 
 ## Registered meeting bodies
@@ -43,7 +43,7 @@ _Generated 2026-08-27T17:53:20 -- regenerate with `.venv/bin/python3 analysis/ge
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | ai_data_fusion | 1 | 1 | 2026-03-16 | 2026-03-16 |
-| alpr | 72 | 8 | 2025-07-21 | 2026-07-06 |
+| alpr | 72 | 8 | 2021-09-21 | 2026-07-06 |
 | body_camera | 1 | 1 | 2021-12-06 | 2021-12-06 |
 | drone | 3 | 2 | 2022-03-07 | 2022-06-27 |
 | predictive_policing | 3 | 2 | 2026-03-16 | 2026-04-06 |
@@ -51,7 +51,14 @@ _Generated 2026-08-27T17:53:20 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ## Timeline
 
-11 meetings surfaced a finding (10 dated, spanning 2021-12-06 to 2026-07-06; 1 of unknown date, listed last).
+11 meetings surfaced a finding (11 dated, spanning 2021-09-21 to 2026-07-06; 0 of unknown date, listed last).
+
+
+### 2021-09-21 -- Town Council
+
+**South Windsor Town Council Regular Meeting** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=sskzh_0iIX0&t=3109s)  > ...there are options available as one example license plate readers from a company called flock that are being used successfully in three towns in rhode island...
 
 
 ### 2021-12-06 -- Town Council
@@ -260,13 +267,6 @@ _Generated 2026-08-27T17:53:20 -- regenerate with `.venv/bin/python3 analysis/ge
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=70GYPoyeTh0&t=840s)  > ...off the bat that this is a different topic, a different conversation entirely than the license plate reader conversation. They're two different devices, two different objectives, two...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=70GYPoyeTh0&t=2695s)  > ...neighborhood and others are worried about all the things we've talked about with flock with LPRs. Before anyone calls me a hypocrite for being supportive of the LPRs and hesitant with...
-
-
-### date unknown -- Town Council
-
-**South Windsor Town Council Regular Meeting** _(topics: alpr)_
-
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=sskzh_0iIX0&t=3109s)  > ...there are options available as one example license plate readers from a company called flock that are being used successfully in three towns in rhode island...
 
 
 ## Findings by topic
@@ -565,7 +565,7 @@ _Generated 2026-08-27T17:53:20 -- regenerate with `.venv/bin/python3 analysis/ge
   > ...uh my written report, I wanted to remind the council as well as the public that the town has installed a flock system several months ago. That's a plate reader c uh plate reader cameras...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gJh_cqxe_28&t=536s)  _(term: alpr_flock, unreviewed)_
 
-- **[date unknown] Town Council** -- South Windsor Town Council Regular Meeting
+- **[2021-09-21] Town Council** -- South Windsor Town Council Regular Meeting
   > ...there are options available as one example license plate readers from a company called flock that are being used successfully in three towns in rhode island...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=sskzh_0iIX0&t=3109s)  _(term: alpr_flock, unreviewed)_
 

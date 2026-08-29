@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Wallingford
 
 
-_Generated 2026-08-27T17:53:34 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Wallingford"`_
+_Generated 2026-08-29T10:21:10 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Wallingford"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T17:53:34 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 2
 - Active meeting bodies: 3
 - Videos registered: 531 (fetched: 476, no captions: 55)
-- Date range covered: 2016-01-04 to 2026-08-24 — **based on the 522 of 531 videos that carry a parseable upload date**; the other 9 are undated, so the real corpus may extend beyond this range in either direction
+- Date range covered: 2016-01-04 to 2026-08-26 — **based on the 529 of 531 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -24,10 +24,10 @@ _Generated 2026-08-27T17:53:34 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| wallingford_government_media | streams | 2026-08-27 12:16:06.838885 | 359 |
-| wallingford_government_media | videos | 2026-08-27 12:16:15.342085 | 626 |
-| wallingford_ps | streams | 2026-08-27 12:16:26.823668 | 308 |
-| wallingford_ps | videos | 2026-08-27 12:16:30.642197 | 245 |
+| wallingford_government_media | streams | 2026-08-29 08:35:56.251160 | 359 |
+| wallingford_government_media | videos | 2026-08-29 08:36:04.137272 | 626 |
+| wallingford_ps | streams | 2026-08-29 08:36:17.969412 | 308 |
+| wallingford_ps | videos | 2026-08-29 08:36:21.492680 | 245 |
 
 
 ## Registered meeting bodies

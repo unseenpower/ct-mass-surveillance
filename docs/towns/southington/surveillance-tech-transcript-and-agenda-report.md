@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Southington
 
 
-_Generated 2026-08-27T17:53:25 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Southington"`_
+_Generated 2026-08-29T10:20:51 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Southington"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T17:53:25 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 1
 - Active meeting bodies: 4
 - Videos registered: 388 (fetched: 375, no captions: 13)
-- Date range covered: 2019-07-22 to 2026-08-13 — **based on the 352 of 388 videos that carry a parseable upload date**; the other 36 are undated, so the real corpus may extend beyond this range in either direction
+- Date range covered: 2019-07-22 to 2026-08-13 (all 388 videos dated)
 
 
 ### Channels
@@ -23,8 +23,8 @@ _Generated 2026-08-27T17:53:25 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| town_of_southington | streams | 2026-08-27 12:16:42.016131 | 304 |
-| town_of_southington | videos | 2026-08-27 12:16:45.816315 | 241 |
+| town_of_southington | streams | 2026-08-29 08:36:35.465485 | 304 |
+| town_of_southington | videos | 2026-08-29 08:36:38.887159 | 241 |
 
 
 ## Registered meeting bodies
