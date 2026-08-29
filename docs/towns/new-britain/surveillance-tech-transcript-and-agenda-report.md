@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: New Britain
 
 
-_Generated 2026-08-27T17:52:23 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Britain"`_
+_Generated 2026-08-29T10:18:32 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Britain"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T17:52:23 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 2
 - Active meeting bodies: 5
 - Videos registered: 153 (fetched: 146, no captions: 6)
-- Date range covered: 2020-04-20 to 2021-01-04 — **based on the 7 of 153 videos that carry a parseable upload date**; the other 146 are undated, so the real corpus may extend beyond this range in either direction
+- Date range covered: 2020-04-20 to 2026-08-13 — **based on the 148 of 153 videos that carry a parseable upload date**; the other 5 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -24,10 +24,10 @@ _Generated 2026-08-27T17:52:23 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| conbct | streams | 2026-08-27 09:54:44.923249 | 195 |
-| conbct | videos | 2026-08-27 09:54:45.771196 | 25 |
-| csdnb | streams | 2026-08-27 10:20:51.917145 | 155 |
-| csdnb | videos | 2026-08-27 10:20:54.528456 | 156 |
+| conbct | streams | 2026-08-29 08:46:13.639462 | 195 |
+| conbct | videos | 2026-08-29 08:46:14.610889 | 25 |
+| csdnb | streams | 2026-08-29 09:00:38.920607 | 155 |
+| csdnb | videos | 2026-08-29 09:00:41.432143 | 157 |
 
 
 ## Registered meeting bodies
@@ -48,17 +48,24 @@ _Generated 2026-08-27T17:52:23 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| body_camera | 3 | 2 |  |  |
-| purchasing_broker | 1 | 1 |  |  |
-| surveillance_general | 3 | 3 |  |  |
+| body_camera | 3 | 2 | 2022-11-10 | 2024-06-27 |
+| purchasing_broker | 1 | 1 | 2025-06-26 | 2025-06-26 |
+| surveillance_general | 3 | 3 | 2024-08-15 | 2025-08-14 |
 
 
 ## Timeline
 
-6 meetings surfaced a finding (none have a known date).
+6 meetings surfaced a finding (6 dated, spanning 2022-11-10 to 2025-08-14; 0 of unknown date, listed last).
 
 
-### date unknown -- Common Council
+### 2022-11-10 -- Common Council
+
+**Common Council Regular Meeting** _(topics: body_camera)_
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=7NIeUA7hZDA&t=1152s)  > ...it's from the Bureau of Justice assistance says funding available under the body worn camera policy and implementation program uh these are funds that will help...
+
+
+### 2024-06-27 -- Common Council
 
 **Common Council Regular Meeting** _(topics: body_camera)_
 
@@ -67,35 +74,28 @@ _Generated 2026-08-27T17:52:23 -- regenerate with `.venv/bin/python3 analysis/ge
 - `body_camera` [▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3665s)  > ...second floor with the detective division uh and they can come in and do that so it all connects to both our body cam video and our uh unlimited storage so we have that at our disposal moving forward...
 
 
-### date unknown -- Common Council
-
-**Common Council Regular Meeting** _(topics: body_camera)_
-
-- `body_camera` [▸](https://www.youtube.com/watch?v=7NIeUA7hZDA&t=1152s)  > ...it's from the Bureau of Justice assistance says funding available under the body worn camera policy and implementation program uh these are funds that will help...
-
-
-### date unknown -- Common Council
-
-**Common Council Regular Meeting** _(topics: purchasing_broker)_
-
-- `purchasing_broker` [▸](https://www.youtube.com/watch?v=1TL_61l6SI8&t=2615s)  > ...we utilize for our firewalls. Um you'll actually see the following resolution is a CDWG um resolution for a UPS that equipment. If I would have you that...
-
-
-### date unknown -- Common Council
+### 2024-08-15 -- Common Council
 
 **Common Council Regular Meeting** _(topics: surveillance_general)_
 
 - `surveillance_general` [▸](https://www.youtube.com/watch?v=iSaFOMr0Oq4&t=630s)  > ...flooding along Eaton and Newberry Eaton Hampton Eaton and new blueberry there are Simple Solutions run a CCTV camera down the infrastructure pipes Andor perform flow monitoring to identify...
 
 
-### date unknown -- Common Council
+### 2024-09-12 -- Common Council
 
 **Common Council Regular Meeting** _(topics: surveillance_general)_
 
 - `surveillance_general` [▸](https://www.youtube.com/watch?v=nCCvOF9c_T8&t=5825s)  > ...of galvaniz Steel storm pipe um the existing storm pipe was tested through the CCTV in inspected and it exposed that the pipeline is nonexisting resulting in sink holes on the road and...
 
 
-### date unknown -- Common Council
+### 2025-06-26 -- Common Council
+
+**Common Council Regular Meeting** _(topics: purchasing_broker)_
+
+- `purchasing_broker` [▸](https://www.youtube.com/watch?v=1TL_61l6SI8&t=2615s)  > ...we utilize for our firewalls. Um you'll actually see the following resolution is a CDWG um resolution for a UPS that equipment. If I would have you that...
+
+
+### 2025-08-14 -- Common Council
 
 **Common Council Regular Meeting** _(topics: surveillance_general)_
 
@@ -122,17 +122,17 @@ _Generated 2026-08-27T17:52:23 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### body_camera
 
-- **[date unknown] Common Council** -- Common Council Regular Meeting
+- **[2024-06-27] Common Council** -- Common Council Regular Meeting
   > ...second floor with the detective division uh and they can come in and do that so it all connects to both our body cam video and our uh unlimited storage so we have that at our disposal moving forward...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3665s)  _(term: body_camera, unreviewed)_
 
-- **[date unknown] Common Council** -- Common Council Regular Meeting
-  > ...it's from the Bureau of Justice assistance says funding available under the body worn camera policy and implementation program uh these are funds that will help...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7NIeUA7hZDA&t=1152s)  _(term: body_camera, unreviewed)_
-
-- **[date unknown] Common Council** -- Common Council Regular Meeting
+- **[2024-06-27] Common Council** -- Common Council Regular Meeting
   > ...in securing uh money for body cams so Chief if you could just talk a little bit about the body cam system and how our our officers use it I know there was extensive training in in body cams and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3609s)  _(term: body_camera, unreviewed)_
+
+- **[2022-11-10] Common Council** -- Common Council Regular Meeting
+  > ...it's from the Bureau of Justice assistance says funding available under the body worn camera policy and implementation program uh these are funds that will help...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7NIeUA7hZDA&t=1152s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -187,7 +187,7 @@ _Generated 2026-08-27T17:52:23 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### purchasing_broker
 
-- **[date unknown] Common Council** -- Common Council Regular Meeting
+- **[2025-06-26] Common Council** -- Common Council Regular Meeting
   > ...we utilize for our firewalls. Um you'll actually see the following resolution is a CDWG um resolution for a UPS that equipment. If I would have you that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1TL_61l6SI8&t=2615s)  _(term: purchasing_broker, unreviewed)_
 
@@ -199,17 +199,17 @@ _Generated 2026-08-27T17:52:23 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### surveillance_general
 
-- **[date unknown] Common Council** -- Common Council Regular Meeting
-  > ...flooding along Eaton and Newberry Eaton Hampton Eaton and new blueberry there are Simple Solutions run a CCTV camera down the infrastructure pipes Andor perform flow monitoring to identify...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=iSaFOMr0Oq4&t=630s)  _(term: surveillance_general, unreviewed)_
+- **[2025-08-14] Common Council** -- Common Council Regular Meeting
+  > ...>> This is regarding $32,142 to Mammoth Security for the implementation of a new CCTV system at the water department's water filtration plant. I urge adoption....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zc0NINqurYc&t=2964s)  _(term: surveillance_general, unreviewed)_
 
-- **[date unknown] Common Council** -- Common Council Regular Meeting
+- **[2024-09-12] Common Council** -- Common Council Regular Meeting
   > ...of galvaniz Steel storm pipe um the existing storm pipe was tested through the CCTV in inspected and it exposed that the pipeline is nonexisting resulting in sink holes on the road and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=nCCvOF9c_T8&t=5825s)  _(term: surveillance_general, unreviewed)_
 
-- **[date unknown] Common Council** -- Common Council Regular Meeting
-  > ...>> This is regarding $32,142 to Mammoth Security for the implementation of a new CCTV system at the water department's water filtration plant. I urge adoption....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zc0NINqurYc&t=2964s)  _(term: surveillance_general, unreviewed)_
+- **[2024-08-15] Common Council** -- Common Council Regular Meeting
+  > ...flooding along Eaton and Newberry Eaton Hampton Eaton and new blueberry there are Simple Solutions run a CCTV camera down the infrastructure pipes Andor perform flow monitoring to identify...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=iSaFOMr0Oq4&t=630s)  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools
@@ -230,8 +230,8 @@ _Generated 2026-08-27T17:52:23 -- regenerate with `.venv/bin/python3 analysis/ge
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
+- Documents registered: 956 (fetched: 68)
+- Date range covered: 2016-09-06 to 2026-09-02
 
 
 ### Agenda sources
@@ -251,7 +251,13 @@ _Generated 2026-08-27T17:52:23 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### alpr
 
-*(no mentions)*
+- **[2023-10-25] Common Council** -- Common Council Regular Meeting Minutes - 2023-10-25 (minutes)
+  > ...      AXON                      50 Fleet 3 Basic + Tap In-Car Cameras             $101,400.00
+
+    WHEREAS, the New Britain Police Department requested a purchase order for the purchase of fifty
+(50) AXON Fleet 3 in-car video cameras from Axon Enterprise Inc. for patrol police vehicles as the current
+in-car camera equipment is over 10 years and is nearing the useful life of an in-car dash camera s...
+  [View document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=821&doc_id=a34b0638-b60b-11ee-bb82-0050569183fa)  _(term: alpr_vendor, unreviewed)_
 
 
 ### biometrics_other
@@ -326,7 +332,18 @@ _Generated 2026-08-27T17:52:23 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### surveillance_general
 
-*(no mentions)*
+- **[2024-02-14] Common Council** -- Common Council Regular Meeting Minutes - 2024-02-14 (minutes)
+  > ...ld work to be completed, and is expected to include additional field mapping to
+determine pipe connectivity, investigation of dry weather flows within the drainage network and assisting
+the City with CCTV investigations; and
+
+
+                                                    87
+                                            February 14, 2024
+
+
+  WHEREAS, Funding is available for this within the P...
+  [View document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=856&doc_id=085e7e51-e151-11ee-98bb-0050569183fa)  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools

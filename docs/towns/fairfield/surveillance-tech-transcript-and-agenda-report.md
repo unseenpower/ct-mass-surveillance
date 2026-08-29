@@ -1,15 +1,15 @@
 # Surveillance-tech transcript report: Fairfield
 
 
-_Generated 2026-08-27T17:51:46 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Fairfield"`_
+_Generated 2026-08-29T10:17:00 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Fairfield"`_
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 6
-- Videos registered: 870 (fetched: 852, no captions: 15)
-- Date range covered: 2009-08-05 to 2026-08-24 — **based on the 854 of 870 videos that carry a parseable upload date**; the other 16 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 872 (fetched: 852, no captions: 15)
+- Date range covered: 2009-08-05 to 2026-09-02 (all 872 videos dated)
 
 
 ### Channels
@@ -23,17 +23,17 @@ _Generated 2026-08-27T17:51:46 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| fairtv | streams | 2026-08-27 10:26:13.087532 | 356 |
-| fairtv | videos | 2026-08-27 10:26:30.985284 | 1373 |
+| fairtv | streams | 2026-08-29 09:10:01.428499 | 359 |
+| fairtv | videos | 2026-08-29 09:10:18.702226 | 1373 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 352 |
+| Board of Finance | budget_finance | True | 353 |
 | Board of Finance Audit Subcommittee | budget_finance | True | 20 |
-| Board of Selectmen | council | True | 382 |
+| Board of Selectmen | council | True | 383 |
 | Representative Town Meeting | council | True | 66 |
 | Charter Revision Commission | other | True | 30 |
 | RTM Standing Committees | other | True | 20 |

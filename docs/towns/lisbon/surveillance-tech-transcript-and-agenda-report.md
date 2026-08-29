@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Lisbon
 
 
-_Generated 2026-08-27T17:52:08 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Lisbon"`_
+_Generated 2026-08-29T10:17:59 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Lisbon"`_
 
 
 ## Coverage status
@@ -23,8 +23,8 @@ _Generated 2026-08-27T17:52:08 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| lisbon_ct | streams | 2026-08-27 12:17:16.107709 | 0 |
-| lisbon_ct | videos | 2026-08-27 12:17:16.977553 | 22 |
+| lisbon_ct | streams | 2026-08-29 08:37:13.663863 | 0 |
+| lisbon_ct | videos | 2026-08-29 08:37:14.516584 | 22 |
 
 
 ## Registered meeting bodies
@@ -154,7 +154,7 @@ _Generated 2026-08-27T17:52:08 -- regenerate with `.venv/bin/python3 analysis/ge
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 63 (fetched: 0)
+- Documents registered: 63 (fetched: 2)
 - Date range covered: 2026-01-12 to 2026-08-24
 
 

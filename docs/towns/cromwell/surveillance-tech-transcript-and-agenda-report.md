@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Cromwell
 
 
-_Generated 2026-08-27T17:51:13 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Cromwell"`_
+_Generated 2026-08-29T10:16:01 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Cromwell"`_
 
 
 ## Coverage status
@@ -23,8 +23,8 @@ _Generated 2026-08-27T17:51:13 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| cromwell_ct | streams | 2026-08-27 17:31:58.704789 | 20 |
-| cromwell_ct | videos | 2026-08-27 17:32:00.352030 | 86 |
+| cromwell_ct | streams | 2026-08-29 08:21:03.962936 | 20 |
+| cromwell_ct | videos | 2026-08-29 08:21:05.621882 | 86 |
 
 
 ## Registered meeting bodies
@@ -265,8 +265,8 @@ _Generated 2026-08-27T17:51:13 -- regenerate with `.venv/bin/python3 analysis/ge
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
+- Documents registered: 155 (fetched: 25)
+- Date range covered: 2026-01-06 to 2026-09-09
 
 
 ### Agenda sources
@@ -361,7 +361,18 @@ _Generated 2026-08-27T17:51:13 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### surveillance_general
 
-*(no mentions)*
+- **[2026-03-05] Town Council** -- Town Council Minutes - 2026-03-05 (minutes)
+  > ...ation CNR Request
+
+          The Town Council approved the following items for the Board of
+          Education; IAQ Assessment (2 of 3), Replace Water Heater CHS,
+          Upgrade Telephones (WIS), CCTV Renewal-ECS Phase 1, CCTV
+          Renewal-CHS Phase 1, CCTV Renewal-WIS Phase 1, HVAC
+          Design-CHS, ECS Classroom Blinds (3 of 4), Domestic Water
+          Storage Tank-500 Gallon.
+
+   ...
+  [View document ▸](https://www.cromwellct.gov/AgendaCenter/ViewFile/Minutes/_03052026-310)  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools

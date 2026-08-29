@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Danbury
 
 
-_Generated 2026-08-27T17:51:15 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Danbury"`_
+_Generated 2026-08-29T10:16:04 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Danbury"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T17:51:15 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 1
 - Active meeting bodies: 4
 - Videos registered: 20 (fetched: 20, no captions: 0)
-- Date range covered: 2020-05-05 to 2020-10-08 — **based on the 4 of 20 videos that carry a parseable upload date**; the other 16 are undated, so the real corpus may extend beyond this range in either direction
+- Date range covered: 2020-05-05 to 2021-06-02 (all 20 videos dated)
 
 
 ### Channels
@@ -23,8 +23,8 @@ _Generated 2026-08-27T17:51:15 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| city_of_danbury | streams | 2026-08-27 09:54:33.354830 | 44 |
-| city_of_danbury | videos | 2026-08-27 09:54:34.991563 | 87 |
+| city_of_danbury | streams | 2026-08-29 08:45:59.401542 | 44 |
+| city_of_danbury | videos | 2026-08-29 08:46:01.034426 | 87 |
 
 
 ## Registered meeting bodies
@@ -155,7 +155,7 @@ _Generated 2026-08-27T17:51:15 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ## Agenda/minutes coverage
 
-- Agenda sources registered: 1
+- Agenda sources registered: 2
 - Documents registered: 0 (fetched: 0)
 - Date range covered: *no agenda document on file carries a parseable date yet*
 
@@ -164,7 +164,8 @@ _Generated 2026-08-27T17:51:15 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | source_id | platform | base_url | status |
 | --- | --- | --- | --- |
-| danbury_granicus | granicus | https://danbury.granicus.com/ViewPublisher.php?view_id=3 | unconfirmed |
+| danbury_agendacenter | agendacenter | https://www.danbury-ct.gov/AgendaCenter | confirmed |
+| danbury_granicus | granicus | https://danbury.granicus.com/ViewPublisher.php?view_id=3 | blocked |
 
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)

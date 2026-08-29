@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Bridgeport
 
 
-_Generated 2026-08-27T17:50:54 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bridgeport"`_
+_Generated 2026-08-29T10:15:22 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bridgeport"`_
 
 
 ## Coverage status
@@ -9,7 +9,7 @@ _Generated 2026-08-27T17:50:54 -- regenerate with `.venv/bin/python3 analysis/ge
 - Channels registered: 2
 - Active meeting bodies: 11
 - Videos registered: 157 (fetched: 141, no captions: 14)
-- Date range covered: 2020-08-31 to 2026-08-24 — **based on the 97 of 157 videos that carry a parseable upload date**; the other 60 are undated, so the real corpus may extend beyond this range in either direction
+- Date range covered: 2016-04-05 to 2026-08-24 — **based on the 145 of 157 videos that carry a parseable upload date**; the other 12 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -24,10 +24,10 @@ _Generated 2026-08-27T17:50:54 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| bridgeport_public_schools | streams | 2026-08-27 12:15:15.946281 | 378 |
-| bridgeport_public_schools | videos | 2026-08-27 12:15:17.042727 | 43 |
-| city_of_bridgeport | streams | 2026-08-27 13:59:12.862865 | 43 |
-| city_of_bridgeport | videos | 2026-08-27 13:59:18.182955 | 393 |
+| bridgeport_public_schools | streams | 2026-08-29 08:34:59.075741 | 378 |
+| bridgeport_public_schools | videos | 2026-08-29 08:35:00.175440 | 43 |
+| city_of_bridgeport | streams | 2026-08-29 09:17:30.393134 | 43 |
+| city_of_bridgeport | videos | 2026-08-29 09:17:35.425152 | 393 |
 
 
 ## Registered meeting bodies
@@ -55,14 +55,14 @@ _Generated 2026-08-27T17:50:54 -- regenerate with `.venv/bin/python3 analysis/ge
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 10 | 2 | 2026-01-20 | 2026-02-05 |
-| body_camera | 4 | 1 |  |  |
+| body_camera | 4 | 1 | 2026-05-02 | 2026-05-02 |
 | drone | 6 | 3 | 2026-01-20 | 2026-08-03 |
-| rtcc | 2 | 1 |  |  |
+| rtcc | 2 | 1 | 2026-05-02 | 2026-05-02 |
 
 
 ## Timeline
 
-4 meetings surfaced a finding (3 dated, spanning 2026-01-20 to 2026-08-03; 1 of unknown date, listed last).
+4 meetings surfaced a finding (4 dated, spanning 2026-01-20 to 2026-08-03; 0 of unknown date, listed last).
 
 
 ### 2026-01-20 -- City Council
@@ -97,20 +97,7 @@ _Generated 2026-08-27T17:50:54 -- regenerate with `.venv/bin/python3 analysis/ge
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=w7qB0Magnkw&t=1874s)  > ...think we need to flood people to because you're in the wheeler room like you were with the flock >> y it says it there between March 24th through May 15th...
 
 
-### 2026-08-03 -- City Council
-
-**City of Bridgeport City Council Meeting - 08.03.2026** _(topics: drone)_
-
-- `drone` [▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=931s)  > ...However, according to SEC filings, the company only recently shifted from cancer diagnostics to defense drone manufacturing. And its drone subsidiary just was established this May. So,...
-
-- `drone` [▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=933s)  > ...company only recently shifted from cancer diagnostics to defense drone manufacturing. And its drone subsidiary just was established this May. So, although the company has stated its...
-
-- `drone` [▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=4041s)  > ...So, it was a private sale. It did not come through OPED. We didn't have a say so in it. Um, secondly, the drone company had already been doing business with the manufacturing...
-
-- `drone` [▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=4050s)  > ...doing business with the manufacturing company because they already make the material there that the drone will be utilizing. So, sometimes, you know, when peo- And...
-
-
-### date unknown -- Budget and Appropriations Committee
+### 2026-05-02 -- Budget and Appropriations Committee
 
 **04.30. 2026 Budget & Appropriations Committee Meeting** _(topics: body_camera, drone, rtcc)_
 
@@ -127,6 +114,19 @@ _Generated 2026-08-27T17:50:54 -- regenerate with `.venv/bin/python3 analysis/ge
 - `body_camera` [▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=6269s)  > ...opposed to consent cuz consent you withdraw at any time. You have to review body cam. There's a lot that goes into this. Now, even after the case is done, there's unavoidable. These aren't...
 
 - `body_camera` [▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=9513s)  > ...>> You mean our body cameras? >> Your body cameras are outdated. There's two additional levels now of body cam. >> Yeah, there's some body cameras that I like to that that are out now that uh...
+
+
+### 2026-08-03 -- City Council
+
+**City of Bridgeport City Council Meeting - 08.03.2026** _(topics: drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=931s)  > ...However, according to SEC filings, the company only recently shifted from cancer diagnostics to defense drone manufacturing. And its drone subsidiary just was established this May. So,...
+
+- `drone` [▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=933s)  > ...company only recently shifted from cancer diagnostics to defense drone manufacturing. And its drone subsidiary just was established this May. So, although the company has stated its...
+
+- `drone` [▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=4041s)  > ...So, it was a private sale. It did not come through OPED. We didn't have a say so in it. Um, secondly, the drone company had already been doing business with the manufacturing...
+
+- `drone` [▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=4050s)  > ...doing business with the manufacturing company because they already make the material there that the drone will be utilizing. So, sometimes, you know, when peo- And...
 
 
 ## Findings by topic
@@ -187,19 +187,19 @@ _Generated 2026-08-27T17:50:54 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### body_camera
 
-- **[date unknown] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
   > ...>> You mean our body cameras? >> Your body cameras are outdated. There's two additional levels now of body cam. >> Yeah, there's some body cameras that I like to that that are out now that uh...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=9513s)  _(term: body_camera, unreviewed)_
 
-- **[date unknown] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
   > ...opposed to consent cuz consent you withdraw at any time. You have to review body cam. There's a lot that goes into this. Now, even after the case is done, there's unavoidable. These aren't...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=6269s)  _(term: body_camera, unreviewed)_
 
-- **[date unknown] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
   > ...All of those things are very very expensive. But we have to integrate our MVTs with our body cam systems, dash cam systems, um upgrading to Windows 11. We've done that um everywhere we can....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5165s)  _(term: body_camera, unreviewed)_
 
-- **[date unknown] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
   > ...accountability where it becomes uh, we're talking about transparency laws, body cam, dash cam, all those things. All of those things are very very expensive. But we have to integrate our...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5159s)  _(term: body_camera, unreviewed)_
 
@@ -242,13 +242,13 @@ _Generated 2026-08-27T17:50:54 -- regenerate with `.venv/bin/python3 analysis/ge
   > ...However, according to SEC filings, the company only recently shifted from cancer diagnostics to defense drone manufacturing. And its drone subsidiary just was established this May. So,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=931s)  _(term: drone, unreviewed)_
 
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+  > ...it's a compliance and it's actually a federal law. >> You say image. So that's like a drone. >> No. Um we have to share information from case file. So there might be video from...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5484s)  _(term: drone, unreviewed)_
+
 - **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
   > ...committee's rejection of the proposal contract with flock safety and expansion of police drone civilians in the Bridgeport. Our community care deeply about safety. Many of us are parents,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=640s)  _(term: drone, unreviewed)_
-
-- **[date unknown] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
-  > ...it's a compliance and it's actually a federal law. >> You say image. So that's like a drone. >> No. Um we have to share information from case file. So there might be video from...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5484s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -283,11 +283,11 @@ _Generated 2026-08-27T17:50:54 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### rtcc
 
-- **[date unknown] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
   > ...>> Okay. I mean I can explain some of this to you if you want but for that. So for real time crime center I'll turn it over to Melanie. >> Before Melanie goes I just wanted to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5584s)  _(term: rtcc, unreviewed)_
 
-- **[date unknown] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
   > ...as as my normal day job. Um but then u Melody comes in with when it comes to our real time crime center. So we'll talk about some of that. We have an an unfortunate expense that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5316s)  _(term: rtcc, unreviewed)_
 
@@ -315,8 +315,8 @@ _Generated 2026-08-27T17:50:54 -- regenerate with `.venv/bin/python3 analysis/ge
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
+- Documents registered: 8 (fetched: 8)
+- Date range covered: 2026-04-21 to 2026-08-03
 
 
 ### Agenda sources

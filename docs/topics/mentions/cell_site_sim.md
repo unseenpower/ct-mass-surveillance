@@ -1,6 +1,6 @@
 # Cell-site simulators: every mention, every town
 
-_Generated 2026-08-28T07:34:52 — 4 mentions across 4 towns, 2016-06-01 to 2025-04-10._
+_Generated 2026-08-29T12:19:59 — 4 mentions across 4 towns, 2016-06-01 to 2025-04-10._
 
 
 Cell-site simulators ('Stingrays') — devices that impersonate a cell tower to locate phones.
@@ -9,6 +9,8 @@ Cell-site simulators ('Stingrays') — devices that impersonate a cell tower to 
 > **These are unreviewed keyword matches, not verified claims.** Each receipt below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous — "drone" can mean a bee, "flock" a bird — and auto-captions mis-transcribe. **Follow the timestamped link and listen before citing anything here.**
 >
 > **A town appearing with few mentions, or not appearing at all, is not evidence that it has avoided this technology.** It far more often means that town's meeting backlog has not been downloaded yet, its meetings are not captioned, or its video archive lives on a platform this pipeline cannot read. The coverage figure beside each town is the share of its known meetings actually transcribed — read it first.
+>
+> Mentions come from two kinds of source. Most are meeting **transcripts** (auto-generated captions). Some are published **agenda or minutes documents**, marked `agenda/minutes` on the receipt and counted in the "From agendas" column — those are the town's own papers rather than a machine transcription of speech.
 
 
 _No human review has been applied to any mention in this file._
@@ -19,12 +21,12 @@ _No human review has been applied to any mention in this file._
 
 ## Towns, by volume
 
-| Town | Mentions | Meetings | Coverage | First | Most recent |
-| --- | --- | --- | --- | --- | --- |
-| Berlin ⁽ⁿᵖ⁾ | **1** | 1 | 78% | 2023-07-13 | 2023-07-13 |
-| Cheshire ⁽ⁿᵖ⁾ | **1** | 1 | 46% | 2025-04-10 | 2025-04-10 |
-| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 98% | 2016-06-01 | 2016-06-01 |
-| [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 98% | 2023-03-01 | 2023-03-01 |
+| Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
+| --- | --- | --- | --- | --- | --- | --- |
+| Berlin ⁽ⁿᵖ⁾ | **1** | · | 1 | 78% | 2023-07-13 | 2023-07-13 |
+| Cheshire ⁽ⁿᵖ⁾ | **1** | · | 1 | 46% | 2025-04-10 | 2025-04-10 |
+| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2016-06-01 | 2016-06-01 |
+| [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2023-03-01 | 2023-03-01 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 

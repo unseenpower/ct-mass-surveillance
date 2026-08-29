@@ -1,15 +1,15 @@
 # Surveillance-tech transcript report: East Lyme
 
 
-_Generated 2026-08-27T17:51:31 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "East Lyme"`_
+_Generated 2026-08-29T10:16:38 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "East Lyme"`_
 
 
 ## Coverage status
 
 - Channels registered: 2
 - Active meeting bodies: 6
-- Videos registered: 1287 (fetched: 1225, no captions: 50)
-- Date range covered: 2013-07-17 to 2026-08-10 — **based on the 1284 of 1287 videos that carry a parseable upload date**; the other 3 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 1288 (fetched: 1226, no captions: 50)
+- Date range covered: 2013-07-17 to 2026-08-12 — **based on the 1285 of 1288 videos that carry a parseable upload date**; the other 3 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -24,17 +24,17 @@ _Generated 2026-08-27T17:51:31 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| east_lyme_public_schools | streams | 2026-08-27 10:26:54.811546 | 1336 |
-| east_lyme_public_schools | videos | 2026-08-27 10:27:01.089555 | 482 |
-| eltownhall | streams | 2026-08-27 13:59:25.676505 | 1 |
-| eltownhall | videos | 2026-08-27 13:59:46.175469 | 1536 |
+| east_lyme_public_schools | streams | 2026-08-29 09:10:44.365630 | 1337 |
+| east_lyme_public_schools | videos | 2026-08-29 09:10:50.555760 | 483 |
+| eltownhall | streams | 2026-08-29 09:17:45.622255 | 0 |
+| eltownhall | videos | 2026-08-29 09:18:04.299648 | 1539 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 403 |
+| Board of Finance | budget_finance | True | 404 |
 | Board of Selectmen | council | True | 634 |
 | Board of Education | education | True | 170 |
 | Ad Hoc Short-Term Rental Committee | other | True | 0 |
@@ -1306,7 +1306,7 @@ _Generated 2026-08-27T17:51:31 -- regenerate with `.venv/bin/python3 analysis/ge
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 1950 (fetched: 1447)
+- Documents registered: 1951 (fetched: 1448)
 - Date range covered: 2012-02-08 to 2026-09-02
 
 

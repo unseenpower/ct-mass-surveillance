@@ -1,15 +1,15 @@
 # Surveillance-tech transcript report: Norwalk
 
 
-_Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Norwalk"`_
+_Generated 2026-08-29T10:19:34 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Norwalk"`_
 
 
 ## Coverage status
 
 - Channels registered: 2
 - Active meeting bodies: 15
-- Videos registered: 1209 (fetched: 1187, no captions: 22)
-- Date range covered: 2016-10-11 to 2026-08-20 — **based on the 1108 of 1209 videos that carry a parseable upload date**; the other 101 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 1210 (fetched: 1188, no captions: 22)
+- Date range covered: 2016-10-11 to 2026-08-27 — **based on the 1206 of 1210 videos that carry a parseable upload date**; the other 4 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -24,10 +24,10 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| city_of_norwalk | streams | 2026-08-27 10:25:26.355798 | 660 |
-| city_of_norwalk | videos | 2026-08-27 10:26:01.010457 | 2711 |
-| norwalk_public_schools | streams | 2026-08-27 09:54:14.491186 | 66 |
-| norwalk_public_schools | videos | 2026-08-27 09:54:25.395546 | 864 |
+| city_of_norwalk | streams | 2026-08-29 09:09:12.771679 | 660 |
+| city_of_norwalk | videos | 2026-08-29 09:09:46.637099 | 2712 |
+| norwalk_public_schools | streams | 2026-08-29 08:45:37.392924 | 66 |
+| norwalk_public_schools | videos | 2026-08-29 08:45:48.666250 | 865 |
 
 
 ## Registered meeting bodies
@@ -48,7 +48,7 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
 | Public Works Committee | other | True | 77 |
 | Recreation, Parks and Cultural Affairs Committee | other | True | 72 |
 | Police Commission | public_safety | True | 81 |
-| Public Safety and General Government Committee | public_safety | True | 52 |
+| Public Safety and General Government Committee | public_safety | True | 53 |
 
 
 ## Mentions by topic: first seen / most recent
@@ -65,7 +65,7 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ## Timeline
 
-95 meetings surfaced a finding (93 dated, spanning 2020-09-24 to 2026-08-06; 2 of unknown date, listed last).
+95 meetings surfaced a finding (95 dated, spanning 2020-09-24 to 2026-08-06; 0 of unknown date, listed last).
 
 
 ### 2020-09-24 -- Public Safety and General Government Committee
@@ -303,14 +303,14 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
 
 **Board of Estimate & Taxation 4-3-23** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=In3GDgqlf3M&t=1606s)  > ...drones in our large diameter pipes so anything over 36 inches they're able to fly a drone through so it's just another way to televise and assess the condition of large diameter pipes lastly pump...
+- `drone` [▸](https://www.youtube.com/watch?v=EduNK3opczI&t=1640s)  > ...drones in our large diameter pipes so anything over 36 inches they're able to fly a drone through so it's just another way to televise and assess the condition of large diameter pipes lastly pump...
 
 
 ### 2023-04-03 -- Board of Estimate and Taxation
 
 **Board of Estimate & Taxation 4-3-23** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=EduNK3opczI&t=1640s)  > ...drones in our large diameter pipes so anything over 36 inches they're able to fly a drone through so it's just another way to televise and assess the condition of large diameter pipes lastly pump...
+- `drone` [▸](https://www.youtube.com/watch?v=In3GDgqlf3M&t=1606s)  > ...drones in our large diameter pipes so anything over 36 inches they're able to fly a drone through so it's just another way to televise and assess the condition of large diameter pipes lastly pump...
 
 
 ### 2023-04-04 -- Public Works Committee
@@ -373,14 +373,14 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
 
 **Land Use and Building Management Committee 10-4-23** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=CjiUIeui0hw&t=3900s)  > ...building it's like you'd have to be up there washing the windows to see anything yeah if you're a drone under the sky you see it but no nothing on the school like Jefferson School with a...
+- `drone` [▸](https://www.youtube.com/watch?v=1txFcap4Bks&t=3872s)  > ...building it's like yeah you guys would be up there washing the windows to see anything yeah if you're a drone under the sky you see it but no not him on the school like Jefferson School with a...
 
 
 ### 2023-10-04 -- Land Use and Building Management Committee
 
 **Land Use and Building Management Committee 10-4-23** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=1txFcap4Bks&t=3872s)  > ...building it's like yeah you guys would be up there washing the windows to see anything yeah if you're a drone under the sky you see it but no not him on the school like Jefferson School with a...
+- `drone` [▸](https://www.youtube.com/watch?v=CjiUIeui0hw&t=3900s)  > ...building it's like you'd have to be up there washing the windows to see anything yeah if you're a drone under the sky you see it but no nothing on the school like Jefferson School with a...
 
 
 ### 2023-11-20 -- Police Commission
@@ -452,6 +452,15 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
 - `drone` [▸](https://www.youtube.com/watch?v=FAQup_6Rwys&t=407s)  > ...we've used is drone technology so in our 60inch East Side Interceptor we flew a drone down to investigate during that investigation we found a building pile on dasom's Lane that penetrated the pipe...
 
 
+### 2024-04-17 -- Board of Estimate and Taxation
+
+**Board of Estimate & Taxation** _(topics: drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=o7somu9eYD8&t=450s)  > ...dollar based on uh utilizing that technology uh also other technology that we've used is drone technology so in our 60-in East Side Interceptor we flew a drone down to investigate during that...
+
+- `drone` [▸](https://www.youtube.com/watch?v=o7somu9eYD8&t=456s)  > ...we've used is drone technology so in our 60-in East Side Interceptor we flew a drone down to investigate during that investigation we found a building pile on dasom's Lane that penetrated the PIP...
+
+
 ### 2024-05-20 -- Police Commission
 
 **Police Commission 05-20-2024** _(topics: alpr)_
@@ -500,6 +509,13 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
 **Land Use and Building Management Committee 10-02-2024** _(topics: surveillance_general)_
 
 - `surveillance_general` [▸](https://www.youtube.com/watch?v=ofU3B3hIUe0&t=1742s)  > ...as our authorized service and installation representative for security access and CCTV at the various Municipal properties to include but not limited to Norwalk City Hall Norwalk Police...
+
+
+### 2024-10-03 -- Land Use and Building Management Committee
+
+**Land Use and Building Management Committee** _(topics: surveillance_general)_
+
+- `surveillance_general` [▸](https://www.youtube.com/watch?v=3wOLBlXo5bw&t=1726s)  > ...authorized service and installation representative for security access and CCTV at the various Municipal properties to include but not limited to Norwalk City Hall Norwalk Police Department and...
 
 
 ### 2024-10-08 -- Common Council
@@ -951,22 +967,6 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=YIbI42lhX3Y&t=1510s)  > ...sort of data protection, data privacy concerns, um I this is not the same thing as the discussion of like ALPR cameras, >> but I didn't know if you could speak to...
 
 - `drone` [▸](https://www.youtube.com/watch?v=YIbI42lhX3Y&t=2621s)  > ...You know, the the highlight that we have of their new tenant is uh uh Quantum Cyber. It's the headquarters for a drone manufacturer. You may have read about it in the newspaper. Uh they bought a large...
-
-
-### date unknown -- Board of Estimate and Taxation
-
-**Board of Estimate & Taxation** _(topics: drone)_
-
-- `drone` [▸](https://www.youtube.com/watch?v=o7somu9eYD8&t=450s)  > ...dollar based on uh utilizing that technology uh also other technology that we've used is drone technology so in our 60-in East Side Interceptor we flew a drone down to investigate during that...
-
-- `drone` [▸](https://www.youtube.com/watch?v=o7somu9eYD8&t=456s)  > ...we've used is drone technology so in our 60-in East Side Interceptor we flew a drone down to investigate during that investigation we found a building pile on dasom's Lane that penetrated the PIP...
-
-
-### date unknown -- Land Use and Building Management Committee
-
-**Land Use and Building Management Committee** _(topics: surveillance_general)_
-
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=3wOLBlXo5bw&t=1726s)  > ...authorized service and installation representative for security access and CCTV at the various Municipal properties to include but not limited to Norwalk City Hall Norwalk Police Department and...
 
 
 ## Findings by topic
@@ -1634,6 +1634,14 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
   > ...progress as well jump to um here's uh a drone photo of the site uh over to the left here this is our storm water detention system one of uh several...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=r0qgwnu7c-0&t=3765s)  _(term: drone, unreviewed)_
 
+- **[2024-04-17] Board of Estimate and Taxation** -- Board of Estimate & Taxation
+  > ...we've used is drone technology so in our 60-in East Side Interceptor we flew a drone down to investigate during that investigation we found a building pile on dasom's Lane that penetrated the PIP...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=o7somu9eYD8&t=456s)  _(term: drone, unreviewed)_
+
+- **[2024-04-17] Board of Estimate and Taxation** -- Board of Estimate & Taxation
+  > ...dollar based on uh utilizing that technology uh also other technology that we've used is drone technology so in our 60-in East Side Interceptor we flew a drone down to investigate during that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=o7somu9eYD8&t=450s)  _(term: drone, unreviewed)_
+
 - **[2024-04-16] Board of Estimate and Taxation** -- Board of Estimate & Taxation 04-16-2024
   > ...utilizing that technology uh also other technology that we've used is drone technology so in our 60inch East Side Interceptor we flew a drone down to investigate during that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=FAQup_6Rwys&t=401s)  _(term: drone, unreviewed)_
@@ -1655,12 +1663,12 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=S9AX05PC-TY&t=4903s)  _(term: drone, unreviewed)_
 
 - **[2023-10-04] Land Use and Building Management Committee** -- Land Use and Building Management Committee 10-4-23
-  > ...building it's like you'd have to be up there washing the windows to see anything yeah if you're a drone under the sky you see it but no nothing on the school like Jefferson School with a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CjiUIeui0hw&t=3900s)  _(term: drone, unreviewed)_
-
-- **[2023-10-04] Land Use and Building Management Committee** -- Land Use and Building Management Committee 10-4-23
   > ...building it's like yeah you guys would be up there washing the windows to see anything yeah if you're a drone under the sky you see it but no not him on the school like Jefferson School with a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1txFcap4Bks&t=3872s)  _(term: drone, unreviewed)_
+
+- **[2023-10-04] Land Use and Building Management Committee** -- Land Use and Building Management Committee 10-4-23
+  > ...building it's like you'd have to be up there washing the windows to see anything yeah if you're a drone under the sky you see it but no nothing on the school like Jefferson School with a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CjiUIeui0hw&t=3900s)  _(term: drone, unreviewed)_
 
 - **[2023-09-18] Police Commission** -- Police Commission 9-18-23
   > ...Detective Taylor officer geismer officer losniak officer Serrano and officer we also uh lent them our UAV team our drone team we also uh use the Drone in cooperation with the scuba team and they...
@@ -1671,6 +1679,14 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-PtgQskpmps&t=1587s)  _(term: drone, unreviewed)_
 
 - **[2023-04-13] Finance and Claims Committee** -- Finance and Claims Committee 4-13-23
+  > ...before it becomes a backup or a sewage spill we've been using or violi has been using drone technology to fly within larger Interceptor pipes uh any pipe that's 36 inches or larger for...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fxx6N5mJegw&t=4633s)  _(term: drone, unreviewed)_
+
+- **[2023-04-13] Finance and Claims Committee** -- Finance and Claims Committee 4-13-23
+  > ...larger Interceptor pipes uh any pipe that's 36 inches or larger for inspection so they fly a drone and they're able to inspect the structural integrity and condition of the pipe...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YjQUDv3LcG4&t=4662s)  _(term: drone, unreviewed)_
+
+- **[2023-04-13] Finance and Claims Committee** -- Finance and Claims Committee 4-13-23
   > ...larger Interceptor pipes uh any pipe that's 36 inches or larger for inspections so they fly a drone and they're able to inspect the structural integrity and condition of the pipe...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fxx6N5mJegw&t=4641s)  _(term: drone, unreviewed)_
 
@@ -1678,21 +1694,13 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
   > ...before it becomes a backup or a sewage spill we've been using or violi has been using drone technology to fly within larger Interceptor pipes uh any pipe that's 36 inches or larger for...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=YjQUDv3LcG4&t=4653s)  _(term: drone, unreviewed)_
 
-- **[2023-04-13] Finance and Claims Committee** -- Finance and Claims Committee 4-13-23
-  > ...larger Interceptor pipes uh any pipe that's 36 inches or larger for inspection so they fly a drone and they're able to inspect the structural integrity and condition of the pipe...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YjQUDv3LcG4&t=4662s)  _(term: drone, unreviewed)_
-
-- **[2023-04-13] Finance and Claims Committee** -- Finance and Claims Committee 4-13-23
-  > ...before it becomes a backup or a sewage spill we've been using or violi has been using drone technology to fly within larger Interceptor pipes uh any pipe that's 36 inches or larger for...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fxx6N5mJegw&t=4633s)  _(term: drone, unreviewed)_
+- **[2023-04-03] Board of Estimate and Taxation** -- Board of Estimate & Taxation 4-3-23
+  > ...drones in our large diameter pipes so anything over 36 inches they're able to fly a drone through so it's just another way to televise and assess the condition of large diameter pipes lastly pump...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EduNK3opczI&t=1640s)  _(term: drone, unreviewed)_
 
 - **[2023-04-03] Board of Estimate and Taxation** -- Board of Estimate & Taxation 4-3-23
   > ...drones in our large diameter pipes so anything over 36 inches they're able to fly a drone through so it's just another way to televise and assess the condition of large diameter pipes lastly pump...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=In3GDgqlf3M&t=1606s)  _(term: drone, unreviewed)_
-
-- **[2023-04-03] Board of Estimate and Taxation** -- Board of Estimate & Taxation 4-3-23
-  > ...drones in our large diameter pipes so anything over 36 inches they're able to fly a drone through so it's just another way to televise and assess the condition of large diameter pipes lastly pump...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EduNK3opczI&t=1640s)  _(term: drone, unreviewed)_
 
 - **[2022-11-15] Ordinance Committee** -- Ordinance Committee 11-15-22
   > ...perhaps then for the first time we all became acutely aware of the constant drone of wheat blowers from early spring to the late fall months I began to hear from our constituents asking if there...
@@ -1774,14 +1782,6 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
   > ...a very high tech drone for searching and things we've used the drone from missing people and things like that so the drone has worked out really well...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=79FxNLvoqdc&t=3096s)  _(term: drone, unreviewed)_
 
-- **[date unknown] Board of Estimate and Taxation** -- Board of Estimate & Taxation
-  > ...dollar based on uh utilizing that technology uh also other technology that we've used is drone technology so in our 60-in East Side Interceptor we flew a drone down to investigate during that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=o7somu9eYD8&t=450s)  _(term: drone, unreviewed)_
-
-- **[date unknown] Board of Estimate and Taxation** -- Board of Estimate & Taxation
-  > ...we've used is drone technology so in our 60-in East Side Interceptor we flew a drone down to investigate during that investigation we found a building pile on dasom's Lane that penetrated the PIP...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=o7somu9eYD8&t=456s)  _(term: drone, unreviewed)_
-
 
 ### facial_recognition
 
@@ -1856,6 +1856,10 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
   > ...authorized service and installation represent representative for security access and CCTV at the various Municipal properties to include but not limited to Norwalk City Hall Norwalk Police...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=iNoRw7HeB20&t=1631s)  _(term: surveillance_general, unreviewed)_
 
+- **[2024-10-03] Land Use and Building Management Committee** -- Land Use and Building Management Committee
+  > ...authorized service and installation representative for security access and CCTV at the various Municipal properties to include but not limited to Norwalk City Hall Norwalk Police Department and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3wOLBlXo5bw&t=1726s)  _(term: surveillance_general, unreviewed)_
+
 - **[2024-10-02] Land Use and Building Management Committee** -- Land Use and Building Management Committee 10-02-2024
   > ...as our authorized service and installation representative for security access and CCTV at the various Municipal properties to include but not limited to Norwalk City Hall Norwalk Police...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ofU3B3hIUe0&t=1742s)  _(term: surveillance_general, unreviewed)_
@@ -1892,10 +1896,6 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
   > ...the city this morning that's that's exactly what they were saying that there used to be surveillance camera a little further down um and to maybe that being the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZmZmwTZAP3s&t=1541s)  _(term: surveillance_general, unreviewed)_
 
-- **[date unknown] Land Use and Building Management Committee** -- Land Use and Building Management Committee
-  > ...authorized service and installation representative for security access and CCTV at the various Municipal properties to include but not limited to Norwalk City Hall Norwalk Police Department and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3wOLBlXo5bw&t=1726s)  _(term: surveillance_general, unreviewed)_
-
 
 ### undercover_tools
 
@@ -1915,8 +1915,8 @@ _Generated 2026-08-27T17:52:53 -- regenerate with `.venv/bin/python3 analysis/ge
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 284 (fetched: 0)
-- Date range covered: 2026-01-08 to 2026-08-27
+- Documents registered: 290 (fetched: 0)
+- Date range covered: 2026-01-08 to 2026-09-02
 
 
 ### Agenda sources

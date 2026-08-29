@@ -1,7 +1,7 @@
 # Surveillance-tech transcript report: Waterbury
 
 
-_Generated 2026-08-27T17:53:38 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Waterbury"`_
+_Generated 2026-08-29T10:21:14 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Waterbury"`_
 
 
 ## Coverage status
@@ -24,10 +24,10 @@ _Generated 2026-08-27T17:53:38 -- regenerate with `.venv/bin/python3 analysis/ge
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| city_of_waterbury | streams | 2026-08-27 17:42:19.325245 | 194 |
-| city_of_waterbury | videos | 2026-08-27 17:42:21.200738 | 117 |
-| waterbury_boe | streams | 2026-08-27 10:25:07.933166 | 144 |
-| waterbury_boe | videos | 2026-08-27 10:25:10.821582 | 205 |
+| city_of_waterbury | streams | 2026-08-29 08:26:45.198645 | 194 |
+| city_of_waterbury | videos | 2026-08-29 08:26:47.096964 | 117 |
+| waterbury_boe | streams | 2026-08-29 09:08:52.037795 | 144 |
+| waterbury_boe | videos | 2026-08-29 09:08:54.814118 | 205 |
 
 
 ## Registered meeting bodies
