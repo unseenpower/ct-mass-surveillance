@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **Norwich**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **52 mentions** across **22 meetings**
+- **53 mentions** across **22 meetings**
 - **First mention:** 2024-01-16  |  **Most recent:** 2026-08-17
 - **Technologies discussed:** alpr, body_camera, drone, predictive_policing, surveillance_general
 - **Coverage:** 249 of 466 known Norwich meetings transcribed (53%)
@@ -70,7 +70,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 23 | 2 | 2026-07-20 | 2026-08-17 |
-| body_camera | 4 | 4 | 2024-09-16 | 2026-07-20 |
+| body_camera | 5 | 4 | 2024-09-16 | 2026-07-20 |
 | drone | 16 | 8 | 2025-04-08 | 2026-07-21 |
 | predictive_policing | 8 | 8 | 2024-01-16 | 2026-02-02 |
 | surveillance_general | 1 | 1 | 2024-04-09 | 2024-04-09 |
@@ -262,6 +262,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=2975s)  > ...>> Yes. >> Okay. >> Those are flock cameras, >> but that is and you've said it. That's completely different than what what the...
 
+- `body_camera` [▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=3039s)  > ...plate. >> Yes. >> Right. The officer is wearing a body cam. >> Yes. So the operator and any occupants...
+
 - `body_camera` [▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=3046s)  > ...>> Yes. So the operator and any occupants that might be in the field of view of the body cam are also having their picture taken during that motor vehicle stop....
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=4777s)  > ...echo what um uh Alderman Nash said and I thank um Cassidy for bringing all the flock camera information to our attention. I am far more worried about what Home Depot and Lowe's and and all...
@@ -330,64 +332,64 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JwXe9rFEcjw&t=7298s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
-  > ...services and to use data to support and improve flock services. Customer data will be available for flock employees to access and download via the web interface during the applicable...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1676s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
-  > ...long. I've been reading that there's a rebel group who is out there decimating the flock cameras left and right because unlike you, they realize that these rights viol that these cameras...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1879s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
-  > ...royalty-free irrevocable perpetual worldwide license to use and disclose customer data to provide the flock services and to use data to support and improve flock services. Customer data...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1670s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
-  > ...contribute to our community. I am concerned about cameras, about the flock cameras that could be misused to track and target people. They are surveillance tools that invade our...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=9837s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
-  > ...customer data to provide the flock services and to use data to support and improve flock services. Customer data will be available for flock employees to access and download via the web...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1673s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
-  > ...But like this ain't it. All right. So, just to lay some groundwork, I'm going to read an excerpt from Flock's recently changed terms and conditions since I'm probably the only one in this room who's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1650s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
-  > ...echo what um uh Alderman Nash said and I thank um Cassidy for bringing all the flock camera information to our attention. I am far more worried about what Home Depot and Lowe's and and all...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=4777s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
-  > ...problematic. Flock cameras and whether or not this system can be linked to flock cameras, I'm still very unclear of are also putting in place a business network, an...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1330s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
-  > ...>> Yes. >> Okay. >> Those are flock cameras, >> but that is and you've said it. That's completely different than what what the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=2975s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
-  > ...seeing some confusion between one of the other types of cameras the LPRs uh which you know we have the flock ones which we've had a number of conversations about versus speed cameras and there's a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=949s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
-  > ...>> All right. Are those We have those in the city. We all know that. Are they the flock cameras? >> Yes. >> Okay....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=2973s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
-  > ...informal searches which are really problematic. Flock cameras and whether or not this system can be linked to flock cameras, I'm still very unclear of are also...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1328s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
-  > ...and again I I'll reiterate Flock does not even make a camera system for speed. This is has nothing to do with Flock and I understand the difference between them. There are multiple organizations...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=2581s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
   > ...interface during the applicable retention period. So in plain terms that means that if flock downloads by data during the retention period which is still not in compliance with the state...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1685s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
   > ...public hearing. >> Sure. Um I think one of the big things and again I I'll reiterate Flock does not even make a camera system for speed. This is has nothing to do with Flock and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=2575s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
+  > ...royalty-free irrevocable perpetual worldwide license to use and disclose customer data to provide the flock services and to use data to support and improve flock services. Customer data...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1670s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
+  > ...customer data to provide the flock services and to use data to support and improve flock services. Customer data will be available for flock employees to access and download via the web...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1673s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
+  > ...services and to use data to support and improve flock services. Customer data will be available for flock employees to access and download via the web interface during the applicable...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1676s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
+  > ...But like this ain't it. All right. So, just to lay some groundwork, I'm going to read an excerpt from Flock's recently changed terms and conditions since I'm probably the only one in this room who's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1650s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
+  > ...contribute to our community. I am concerned about cameras, about the flock cameras that could be misused to track and target people. They are surveillance tools that invade our...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=9837s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
+  > ...problematic. Flock cameras and whether or not this system can be linked to flock cameras, I'm still very unclear of are also putting in place a business network, an...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1330s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
+  > ...echo what um uh Alderman Nash said and I thank um Cassidy for bringing all the flock camera information to our attention. I am far more worried about what Home Depot and Lowe's and and all...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=4777s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
+  > ...seeing some confusion between one of the other types of cameras the LPRs uh which you know we have the flock ones which we've had a number of conversations about versus speed cameras and there's a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=949s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
+  > ...>> Yes. >> Okay. >> Those are flock cameras, >> but that is and you've said it. That's completely different than what what the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=2975s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
+  > ...informal searches which are really problematic. Flock cameras and whether or not this system can be linked to flock cameras, I'm still very unclear of are also...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1328s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
+  > ...>> All right. Are those We have those in the city. We all know that. Are they the flock cameras? >> Yes. >> Okay....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=2973s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
+  > ...long. I've been reading that there's a rebel group who is out there decimating the flock cameras left and right because unlike you, they realize that these rights viol that these cameras...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1879s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
+  > ...and again I I'll reiterate Flock does not even make a camera system for speed. This is has nothing to do with Flock and I understand the difference between them. There are multiple organizations...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=2581s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
   > ...over there for almost two weeks and issued over 45 tickets. Uh speed cameras are very very different than the flock cameras that have been discussed as as the uh you know as the chief said, but...
@@ -404,6 +406,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 
 ### body_camera
+
+- **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
+  > ...plate. >> Yes. >> Right. The officer is wearing a body cam. >> Yes. So the operator and any occupants...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=3039s)  _(term: body_camera, unreviewed)_
 
 - **[2026-07-20] City Council** -- 2026-07-20 Council Meeting
   > ...>> Yes. So the operator and any occupants that might be in the field of view of the body cam are also having their picture taken during that motor vehicle stop....
@@ -722,6 +728,11 @@ PCO 020 - Ford Brook Cleanout - DCC Proposed Change Order R1....
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -741,7 +752,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| norwich_ct | videos | 2026-08-31 07:26:02.989695 | 527 |
+| norwich_ct | videos | 2026-08-31 14:01:28.434359 | 527 |
 
 
 ## Registered meeting bodies
@@ -764,7 +775,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 118 (fetched: 111)
+- Documents registered: 119 (fetched: 112)
 - Date range covered: 2017-09-12 to 2026-08-19
 
 
@@ -804,5 +815,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:16:10 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Norwich"`_
+_Generated 2026-08-31T14:42:30 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Norwich"`_
 

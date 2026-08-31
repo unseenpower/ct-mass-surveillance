@@ -362,6 +362,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -381,8 +386,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| portland_ct | streams | 2026-08-31 07:34:58.388729 | 229 |
-| portland_ct | videos | 2026-08-31 07:35:06.721623 | 685 |
+| portland_ct | streams | 2026-08-31 13:48:52.944350 | 229 |
+| portland_ct | videos | 2026-08-31 13:49:02.137280 | 685 |
 
 
 ## Registered meeting bodies
@@ -444,5 +449,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:17:18 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Portland"`_
+_Generated 2026-08-31T14:43:22 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Portland"`_
 

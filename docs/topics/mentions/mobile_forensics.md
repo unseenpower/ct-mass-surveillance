@@ -1,6 +1,6 @@
 # Mobile forensics: every mention, every town
 
-_Generated 2026-08-31T08:49:23 — 2 mentions across 1 towns, 2020-09-23 to 2021-10-13._
+_Generated 2026-08-31T14:55:49 — 2 mentions across 1 towns, 2020-09-23 to 2021-10-13._
 
 
 > **These are unreviewed keyword matches, not verified claims.** Each receipt below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous — "drone" can mean a bee, "flock" a bird — and auto-captions mis-transcribe. **Follow the timestamped link and listen before citing anything here.**
@@ -20,7 +20,7 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 63% | 2020-09-23 | 2021-10-13 |
+| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 65% | 2020-09-23 | 2021-10-13 |
 
 ## Receipts
 

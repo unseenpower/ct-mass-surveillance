@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **Milford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **289 mentions** across **24 meetings**
+- **301 mentions** across **26 meetings**
 - **First mention:** 2015-12-14  |  **Most recent:** 2026-08-03
 - **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone, facial_recognition
 - **Coverage:** 327 of 345 known Milford meetings transcribed (95%)
@@ -68,16 +68,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 158 | 8 | 2022-06-06 | 2026-08-03 |
-| body_camera | 21 | 10 | 2021-04-26 | 2026-02-17 |
+| alpr | 165 | 9 | 2022-06-06 | 2026-08-03 |
+| body_camera | 23 | 12 | 2017-05-10 | 2026-02-17 |
 | doorbell_partnership | 2 | 2 | 2022-04-25 | 2022-06-06 |
 | drone | 107 | 15 | 2015-12-14 | 2026-08-03 |
-| facial_recognition | 1 | 1 | 2026-08-03 | 2026-08-03 |
+| facial_recognition | 4 | 4 | 2022-04-25 | 2026-08-03 |
 
 
 ## Timeline
 
-24 meetings surfaced a finding (24 dated, spanning 2015-12-14 to 2026-08-03; 0 of unknown date, listed last).
+26 meetings surfaced a finding (26 dated, spanning 2015-12-14 to 2026-08-03; 0 of unknown date, listed last).
 
 
 ### 2015-12-14 -- Board of Education
@@ -92,6 +92,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 **Board of Education Meeting, January 9, 2017** _(topics: drone)_
 
 - `drone` [▸](https://www.youtube.com/watch?v=ACPy1hoQmPg&t=827s)  > ...books by their covers the foreign High School String orchestra under the direction of Steven uas performed at the 27th annual trees of Hope at the marit time Center in New Haven Connecticut the...
+
+
+### 2017-05-10 -- Board of Aldermen
+
+**Milford Board of Aldermen Budget Hearing 5-10-17** _(topics: body_camera)_
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=BFrVtcSj8yg&t=290s)  > ...when you were kind of looking at like you didn't hear me so I apologize um um and then the uh uh the BWC the body worn camera um cloud storage for 96,000 that account that'll actually be about...
 
 
 ### 2019-05-08 -- Board of Aldermen
@@ -126,13 +133,22 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `body_camera` [▸](https://www.youtube.com/watch?v=PXEvQw8q390&t=1728s)  > ...details how long the data has to be stored so it's a minimum for routine data if I had a body cam on right now um that that would that's a 90-day storage so most of the of the material that's...
 
 
+### 2022-02-22 -- Board of Finance
+
+**02/22/2022 Board of Finance: Budget Hearing** _(topics: body_camera)_
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=6PyQIMZXi5c&t=4849s)  > ...the operating money okay I did thank you Mr Mayor and thank you Peter I did notice the body worn camera I assumed it it was going to be dealt through Grant but I'm a little...
+
+
 ### 2022-04-25 -- Board of Aldermen
 
-**Board of Aldermen: Budget Hearing 04/25/2022** _(topics: body_camera, doorbell_partnership)_
+**Board of Aldermen: Budget Hearing 04/25/2022** _(topics: body_camera, doorbell_partnership, facial_recognition)_
 
 - `body_camera` [▸](https://www.youtube.com/watch?v=gMl482q5Thg&t=7689s)  > ...um given the just the climate um and so I just wanted to ask a little bit about the the body cam storage line item I know this is a challenge that every municipality is facing and sure just...
 
 - `body_camera` [▸](https://www.youtube.com/watch?v=gMl482q5Thg&t=7714s)  > ...had those we used to share we used to have 12 cameras and we all shared them not everyone has to have their body cam myself and the deputy cheap by law have to have one as well um and for instance...
+
+- `facial_recognition` [▸](https://www.youtube.com/watch?v=gMl482q5Thg&t=7946s)  > ...would hold but that's the best I can give you um you know there's been talk about other things like facial recognition and some of those things um they're still kind of the jury's out...
 
 - `doorbell_partnership` [▸](https://www.youtube.com/watch?v=gMl482q5Thg&t=7986s)  > ...and I was wondering if there are other little things that we can do as Citizens um we recently got a a ring doorbell at our house and and I laughed to my wife said you know we live across the street...
 
@@ -182,9 +198,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### 2024-04-22 -- Board of Aldermen
 
-**Board Of Aldermen  4/22/24 Budget Hearing FY '25** _(topics: alpr, body_camera, drone)_
+**Board Of Aldermen  4/22/24 Budget Hearing FY '25** _(topics: alpr, body_camera, drone, facial_recognition)_
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=1649s)  > ...this area have license plate readers positioned all around uh communities and what a license plate reader does is it's a camera that focuses on you know the roadway and the license plates and what...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=1771s)  > ...couple reasons why people are stealing cars and mostly it's young people but here's what an LPR reader does a license plate reader does is it identifies a car stolen and we get the information in...
 
 - `drone` [▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2008s)  > ...finally and I don't mean to take a lot of time drone programs are the future of law enforcement and the United States is behind when it comes to drones or what...
 
@@ -226,6 +244,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `drone` [▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2945s)  > ...one one this is a not the kind of drone you can buy at Best Buy um it's a commercial type of drone that can fly in challenging environments with multiple cameras and um different and and carry a...
 
+- `facial_recognition` [▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=4074s)  > ...question because there is one new item in there and that's Clair view for $8,600 um and that's uh a facial recognition software that we've been borrowing from other communities to...
+
 - `drone` [▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=4188s)  > ...question any opportunities that you see with Federal grant money for any enhancements your drone program or surveillance equipment uh that type of thing no uh you know we've had a uh um a...
 
 - `body_camera` [▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=4200s)  > ...thing no uh you know we've had a uh um a lot of success with grants in fact uh that's how we started our body cam program first ones in this second one in the state to start the body cam program...
@@ -235,7 +255,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### 2024-04-22 -- Board of Aldermen
 
-**Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25** _(topics: body_camera, drone)_
+**Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25** _(topics: alpr, body_camera, drone, facial_recognition)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1366s)  > ...in this area have license plate readers positioned all around uh their communities and what a license plate reader does is it's a camera that focuses on you know the roadway and the...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1489s)  > ...couple reasons why people are stealing cars and mostly it's young people but here's what an LPR reader does a license plate reader does is it identifies the car stolen and we get the information in...
 
 - `drone` [▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1725s)  > ...that's something we should do and then finally and I don't mean to take a lot of time drone programs are the future of law enforcement and the United States is behind when it comes to drones or what...
 
@@ -276,6 +300,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `drone` [▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=2658s)  > ...the $40,000 that's allocated or in the budget for drones how many will that buy one one this is a not the kind of drone you can buy a Best Buy um it's a commercial type of drone that can fly in...
 
 - `drone` [▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=2663s)  > ...one one this is a not the kind of drone you can buy a Best Buy um it's a commercial type of drone that can fly in challenging environments with multiple cameras and um different and and carry a...
+
+- `facial_recognition` [▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=3791s)  > ...question because there is one new item in there and that's clar view for $8,600 um and that's uh a facial recognition software that we've been borrowing from other communities to...
 
 - `drone` [▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=3906s)  > ...question any opportunities that you see with Federal grant money for any enhancements your drone program or surveillance equipment uh that type of thing no uh you know we've had a uh um a...
 
@@ -639,13 +665,19 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5426s)  > ...made me fall in love. Every one of you on this board swore an oath not to flock safety, not to a data center in Atlanta. You swore an oath to the Constitution of the United States...
 
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5442s)  > ...Connecticut. Yet here we are. All but one of you have sat in favor of an unconstitutional network of automated license plate readers, various surveillance cameras, and systems...
+
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5791s)  > ...unclear protections against misuse. Companies like the flag safety and other automated license plate radars radar company markets these systems as tools for fighting crime. Law enforcement...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5819s)  > ...this city. So, let them work and we'll do the rest. Multiple reports have documented cases where automated license plate readers produce incorrect matches. In some instances, innocent people have...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5875s)  > ...receive medical care and where they spend their personal time. The concern is not limited to flock safety. The concern is an entire industry built around collecting and sharing location...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5883s)  > ...concern is an entire industry built around collecting and sharing location data. Many automated license plate arena networks allow information collected in one community to be accessed by law...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5914s)  > ...both. When you inevitably ensure, you know, we are heard. Remember, it is not just flock. Get rid of all of the cameras. Thank you. [cheering]...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5938s)  > ...Good evening. My name is Robert Patton. I live at 41 West Orland Street and I'm a Marine Corps veteran. Automated license plate readers. Thanks. [applause]...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5948s)  > ...license plate readers. Thanks. [applause] Automated license plate reader cameras have become one of the largest surveillance systems in America. They...
 
@@ -680,6 +712,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=6984s)  > ...loudly. My grammar school English teacher taught me a couple things. I never heard the word flock before. I do know it now. So, I'm going to use it in these next couple sentences....
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=7161s)  > ...pulled over by the police because they had a stolen vehicle. It said the license plate reader notify the police. They get pulled over. The whole family is taken out of the car. Young kids,...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=7175s)  > ...And after that, they realize there's a mistake here. This isn't a stolen vehicle. This plate that the license plate reader gave belonged to a motorcycle in another state....
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=7200s)  > ...him go, but that was a mistake that was made there. So, the episode really went deep into Flock and the camera system and what they're finding. So, really what happens is there's a fear of the...
 
@@ -789,68 +823,108 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### alpr
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...decided that more targeted surgical approaches are fine, legal, but when you scale them up massively like Flock is doing, uh it becomes uh unconstitutional...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9244s)  _(term: alpr_flock, unreviewed)_
+  > ...and uh and and uh are doing it the way they're supposed to be doing it. And so what our vendor Flock has done is disabled federal sharing requests. Um and they've taken out they filtered out...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=12879s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...was. Um we we looked at different vendors. I didn't realize that Flock and uh Flock and Ultimate have a relationship, a partnership, but it doesn't matter in Connecticut because we...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=11599s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...Woodruff Road. So, there was never a vote to put all these flock cameras and speed enforced cameras up. The system enables mass surveillance without consent and poses a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=10300s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...30 days data is deleted. I'm sorry. There is no law you can cite federal, state, local, that makes flock adhere to a 30-day deletion of data. Again, does anybody here understand what...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9649s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...Data storage and who can access it. Windsor's first selectman said that the disturbing privacy stories about flock started arriving the day after he signed the contract. Killingworth paid 14,600 a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=7915s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...357 Plains Road. Um, as a Milford resident, I have major concerns over the flock camera system. It creates a permanent record of where innocent people travel on a day-to-day basis, all...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9725s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...asked to surrender the most privacy, pay the highest price. Flock should concern every resident, but the dangers are even greater for immigrants, people of color, LGBTQ plus...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=8053s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...rather than targeted investigations based on individualized suspicion. Please vote to remove the flock system. Thank you. [applause] >> Good evening. Uh my name is Mary Wargo....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9802s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...I live on 357 Plains Road. Uh, I'm concerned about the prospect of the flock cameras. Uh, I don't have firsthand experience with them, but I think it's easy enough to research about...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9820s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...read Chief Melo's letter and I was somewhat off-put uh when looking for more information about the flock cameras that I was referred to uh use a Google search. Um,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=8697s)  _(term: alpr_flock, unreviewed)_
+  > ...would take 24 hours to fix those issues in the past regarding whether it be flock or any LPR data where Jefferson Sheriff's Department in Texas did a search for someone that had...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=12942s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...I want to have policing, but I want policing protecting us from companies like Flock. As other people have spoken about, they're not a trustworthy company that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=10043s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...getting access through the individual on the software, there is also um very somewhat simple means and Flock cannot guarantee the safety or security of their own devices. Um there's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=8761s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...have tried to remove the cameras and cities have had to resort to cover them with trash bags and had flock come back and reinstall them. This is not a company that we want to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=10054s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...the camera system in Milford. That includes red light cameras, that includes the um license plate reader cameras, and that includes the speed cameras. It is a resolution to pause and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=15755s)  _(term: alpr_flock, unreviewed)_
+  > ...anyone's whereabouts and identify their daily habits, u that's something that really cannot again flock cannot guarantee the safety or uh ability to prevent those vulnerabilities from being...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=8820s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...30 days data is deleted. I'm sorry. There is no law you can cite federal, state, local, that makes flock adhere to a 30-day deletion of data. Again, does anybody here understand what...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9649s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...incorporate it in the metadata that people were talking about earlier. Um, and also flock unfortunately already is known to violate restrictions that people have tried to put in place. It's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=10134s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...And after that, they realize there's a mistake here. This isn't a stolen vehicle. This plate that the license plate reader gave belonged to a motorcycle in another state....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=7175s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...problem. And during the daytime, if you're close enough, you can read it. But the flock can't. And I'm glad that some people are educated enough to understand that it doesn't just read...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=8957s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...search. Um, and I put that criteria in. I was led to the first result being Flock's own website. Uh, so the more information from the town I would expect to be on...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=8707s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...have this conversation. Killingworth and Windsor have both already voted to pull their flock cameras over exactly these types of concerns. Data storage and who can access it....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=7904s)  _(term: alpr_flock, unreviewed)_
+  > ...Woodruff Road. So, there was never a vote to put all these flock cameras and speed enforced cameras up. The system enables mass surveillance without consent and poses a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=10300s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...incorporate it in the metadata that people were talking about earlier. Um, and also flock unfortunately already is known to violate restrictions that people have tried to put in place. It's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=10134s)  _(term: alpr_flock, unreviewed)_
+  > ...this city. So, let them work and we'll do the rest. Multiple reports have documented cases where automated license plate readers produce incorrect matches. In some instances, innocent people have...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5819s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...name in the Epstein file. And this is the same when Flack also came out. And I said, "Flock." I said, "That's a real interesting name." I said, "Flocks fly." And I said to myself, you know, within a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9005s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...Connecticut. Yet here we are. All but one of you have sat in favor of an unconstitutional network of automated license plate readers, various surveillance cameras, and systems...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5442s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...risk of misuse. These cameras are predatory and pervasive technologies. Flock's nationwide database poses a safety risk for the public. There have been data breaches. People have an...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=10314s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...following a suspicious car. And that is one of scale which is uh uh flock is indiscriminate and massive in scale. And in many other parts of life, we and many other laws, we've...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9229s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...started this, if you look at my strategic plan, I didn't even know what Flock was. I didn't know what Ultimate was. Um we we looked at different vendors. I didn't realize that Flock and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=11590s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...rather than targeted investigations based on individualized suspicion. Please vote to remove the flock system. Thank you. [applause] >> Good evening. Uh my name is Mary Wargo....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9802s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...the change, it didn't it changed ours. And he got a hold of me and and I got a hold of flock and I got everybody on the call and they showed me the error and they said it...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=12930s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...Flock was. I didn't know what Ultimate was. Um we we looked at different vendors. I didn't realize that Flock and uh Flock and Ultimate have a relationship, a partnership, but it...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=11596s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...decided that more targeted surgical approaches are fine, legal, but when you scale them up massively like Flock is doing, uh it becomes uh unconstitutional...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9244s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...the camera system in Milford. That includes red light cameras, that includes the um license plate reader cameras, and that includes the speed cameras. It is a resolution to pause and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=15755s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...was. Um we we looked at different vendors. I didn't realize that Flock and uh Flock and Ultimate have a relationship, a partnership, but it doesn't matter in Connecticut because we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=11599s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...Vehicle thefts have gone way down. 2023 they were 183, and since we've had flock, they've gone down 103, 113, and then 103. I can't tell you that that's the reason,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=13308s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...used what I told you has nothing to do, it doesn't pay for anything on the on the on the on the flock side, on the LPR side. They're completely separate. Fly cameras don't me measure speed. Uh speed...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=11620s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...through this debate in this in this forum or not in this forum in this room about how flock and how a AWS and Amazon protect information. And I said then I'll say now if you don't trust police...
@@ -865,72 +939,48 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=13153s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...getting access through the individual on the software, there is also um very somewhat simple means and Flock cannot guarantee the safety or security of their own devices. Um there's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=8761s)  _(term: alpr_flock, unreviewed)_
+  > ...I live on 357 Plains Road. Uh, I'm concerned about the prospect of the flock cameras. Uh, I don't have firsthand experience with them, but I think it's easy enough to research about...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9820s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...manage criminal justice data, you've got to adhere to all these requirements. Flock has to adhere like every other company. the data is encrypted and they provide the standard but I'm not an...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=13069s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...risk of misuse. These cameras are predatory and pervasive technologies. Flock's nationwide database poses a safety risk for the public. There have been data breaches. People have an...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=10314s)  _(term: alpr_flock, unreviewed)_
+  > ...he brought something up to our attention that our trans he looks at our transparency portal every day and Flock had made a change to that transparency portal. He mentioned this so I want to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=12916s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...credibility to make money would be foolish not to adhere to the rules. But if you go on flock safety website, you can look at there's and there and someone mentioned the uh the uh sock 2....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=13028s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...started this, if you look at my strategic plan, I didn't even know what Flock was. I didn't know what Ultimate was. Um we we looked at different vendors. I didn't realize that Flock and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=11590s)  _(term: alpr_flock, unreviewed)_
+  > ...357 Plains Road. Um, as a Milford resident, I have major concerns over the flock camera system. It creates a permanent record of where innocent people travel on a day-to-day basis, all...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9725s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...the guard rails are there as much as we can. And so we're at 21day retention. So, how do we know that Flock or Axon or any other LPR vendor is deleting our data?...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=13004s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...anyone's whereabouts and identify their daily habits, u that's something that really cannot again flock cannot guarantee the safety or uh ability to prevent those vulnerabilities from being...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=8820s)  _(term: alpr_flock, unreviewed)_
+  > ...Good evening. My name is Robert Patton. I live at 41 West Orland Street and I'm a Marine Corps veteran. Automated license plate readers. Thanks. [applause]...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5938s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...would take 24 hours to fix those issues in the past regarding whether it be flock or any LPR data where Jefferson Sheriff's Department in Texas did a search for someone that had...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=12942s)  _(term: alpr_flock, unreviewed)_
+  > ...read Chief Melo's letter and I was somewhat off-put uh when looking for more information about the flock cameras that I was referred to uh use a Google search. Um,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=8697s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...problem. And during the daytime, if you're close enough, you can read it. But the flock can't. And I'm glad that some people are educated enough to understand that it doesn't just read...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=8957s)  _(term: alpr_flock, unreviewed)_
+  > ...asked to surrender the most privacy, pay the highest price. Flock should concern every resident, but the dangers are even greater for immigrants, people of color, LGBTQ plus...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=8053s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...the change, it didn't it changed ours. And he got a hold of me and and I got a hold of flock and I got everybody on the call and they showed me the error and they said it...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=12930s)  _(term: alpr_flock, unreviewed)_
+  > ...Data storage and who can access it. Windsor's first selectman said that the disturbing privacy stories about flock started arriving the day after he signed the contract. Killingworth paid 14,600 a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=7915s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...Flock was. I didn't know what Ultimate was. Um we we looked at different vendors. I didn't realize that Flock and uh Flock and Ultimate have a relationship, a partnership, but it...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=11596s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...he brought something up to our attention that our trans he looks at our transparency portal every day and Flock had made a change to that transparency portal. He mentioned this so I want to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=12916s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...name in the Epstein file. And this is the same when Flack also came out. And I said, "Flock." I said, "That's a real interesting name." I said, "Flocks fly." And I said to myself, you know, within a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9005s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...and uh and and uh are doing it the way they're supposed to be doing it. And so what our vendor Flock has done is disabled federal sharing requests. Um and they've taken out they filtered out...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=12879s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...following a suspicious car. And that is one of scale which is uh uh flock is indiscriminate and massive in scale. And in many other parts of life, we and many other laws, we've...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9229s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...used what I told you has nothing to do, it doesn't pay for anything on the on the on the on the flock side, on the LPR side. They're completely separate. Fly cameras don't me measure speed. Uh speed...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=11620s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...Vehicle thefts have gone way down. 2023 they were 183, and since we've had flock, they've gone down 103, 113, and then 103. I can't tell you that that's the reason,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=13308s)  _(term: alpr_flock, unreviewed)_
+  > ...have this conversation. Killingworth and Windsor have both already voted to pull their flock cameras over exactly these types of concerns. Data storage and who can access it....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=7904s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...immigration or ICE related searches run by outside agencies against Connecticut flock data. Searches that are no longer legal under state law, which means they already happened before anyone closed...
@@ -1169,20 +1219,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=3089s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...our data. A 2025 report by Wired uh described a data link and revealed that Flock Safety may be using workers in the Philippines to review and categorize surveillance footage as a part of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1830s)  _(term: alpr_flock, unreviewed)_
+  > ...Hey, how you doing? Uh my name is Tristan Howard, 75 Peak Avenue. Uh, I am here because I'm against the flock ALRP program currently running in the city. I've raised this issue before at...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=920s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...the fact. Milford's ordinance requires a 30-day data retention period for those cameras, but unlike the city's flock ALPR policy, it doesn't require independent audits yet. And section 1465...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1893s)  _(term: alpr_flock, unreviewed)_
+  > ...30-day data retention period for those cameras, but unlike the city's flock ALPR policy, it doesn't require independent audits yet. And section 1465 of your ordinance for those cameras...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1895s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...over 600,000 files to ICE agents. This is the same company that reactivated the Flock program on companies or on towns that have decided to turn it off unbeknownst to them....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=2822s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...the towns again and also I'm also here for the flock cameras too. Um I'm for and against the flock cameras. I'm for it because it helped solve a murder in my neighborhood on East Broadway, but I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=687s)  _(term: alpr_flock, unreviewed)_
+  > ...everywhere, but an ordinary doorbell camera cannot issue a city fine or search a law enforcement ALPR network. And while residents raise legitimate concerns, Milford hosted a flock branded...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1526s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...we'll know. I'll know. Other people out there will know. On top of that, the Flock contract actually states Flock has rights over what data they deem unnecessary to share, which is a nice...
@@ -1197,12 +1247,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=2757s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...educated on it as well. And uh gives all the towns again and also I'm also here for the flock cameras too. Um I'm for and against the flock cameras. I'm for it because it helped solve a murder in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=685s)  _(term: alpr_flock, unreviewed)_
+  > ...safeguards. LAPD current um recently chose not to renew their contract with Flock until clearer privacy and data management rules were established. Washington State passed a law...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1852s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...spies. I demand the immediate removal of all of these cameras and insumation. This program needs to go flock itself. [cheering] >> [applause]...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=2713s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...been told these programs cost taxpayers nothing, but Flock is a city contracted system. Flock Ultimate while Ultimate says its traffic camera program is funded through citations. The first...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1504s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...the fact. Milford's ordinance requires a 30-day data retention period for those cameras, but unlike the city's flock ALPR policy, it doesn't require independent audits yet. And section 1465...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1893s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...is mission creep. We've been told to trust the safeguards, but Milford's public ALPR policy version is version one dated March 2026, months after the readers began operating. The city's...
@@ -1213,20 +1271,32 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=2570s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...safeguards. LAPD current um recently chose not to renew their contract with Flock until clearer privacy and data management rules were established. Washington State passed a law...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1852s)  _(term: alpr_flock, unreviewed)_
+  > ...search a law enforcement ALPR network. And while residents raise legitimate concerns, Milford hosted a flock branded trust forum for the company's law enforcement customers across...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1531s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...been told these programs cost taxpayers nothing, but Flock is a city contracted system. Flock Ultimate while Ultimate says its traffic camera program is funded through citations. The first...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1504s)  _(term: alpr_flock, unreviewed)_
+  > ...the towns again and also I'm also here for the flock cameras too. Um I'm for and against the flock cameras. I'm for it because it helped solve a murder in my neighborhood on East Broadway, but I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=687s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...management rules were established. Washington State passed a law restricting ALPR collection near schools, places of worship, food banks, and immigration related sites. Milford...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1857s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...rid of these flock cameras, come November, these people behind me are going to throw you the flock out of office. [applause and cheering]...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=2408s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
+  > ...protecting privacy, civil liberties, and personal data. As the city signs contracts with companies like Flock Safety, which is valued at approximately 7.5 billion, Milford is becoming a place...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1791s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...crosswalks, better lighting, improved road designs, or targeted patrols. We've been told that f that flock focuses on stolen vehicles, violent criminals, and missing people. That Milford's portal...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1442s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...everywhere, but an ordinary doorbell camera cannot issue a city fine or search a law enforcement ALPR network. And while residents raise legitimate concerns, Milford hosted a flock branded...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1526s)  _(term: alpr_flock, unreviewed)_
+  > ...replacing old videos, video cameras, and building out the system. License plate readers never named. flock never named. You voted for replacement cameras, but what went in what what went in was one...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1669s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...you. Contrast can be broken. There's a big problem here. And if you don't get rid of these flock cameras, come November, these people behind me are going to throw you the flock out of...
@@ -1237,8 +1307,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1413s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...management rules were established. Washington State passed a law restricting ALPR collection near schools, places of worship, food banks, and immigration related sites. Milford...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1857s)  _(term: alpr_flock, unreviewed)_
+  > ...driveway, I receive a camera alert. That camera is operated by Ultimate, which incorporates flock technology and doesn't stop speeding in real time, but it issues warnings and citations after...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1882s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...years ago and have been a Milford resident. I'm I'm not here about the flock cameras. My concern is that um I do have some notes that um I'd like to address. I'm here to ask for maybe not...
@@ -1249,60 +1319,40 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1937s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...search a law enforcement ALPR network. And while residents raise legitimate concerns, Milford hosted a flock branded trust forum for the company's law enforcement customers across...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1531s)  _(term: alpr_flock, unreviewed)_
+  > ...But I remember learning about World War II, and I'll bring this back to the flock cameras. And I learned about the rise of fascism in Italy. And I remember going over to see...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=2926s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...entire city into a searchable database. So, I'm against this kind of uh surveillance program from Flock or any company that puts residents into a searchable database and you guys should...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1069s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...driveway, I receive a camera alert. That camera is operated by Ultimate, which incorporates flock technology and doesn't stop speeding in real time, but it issues warnings and citations after...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1882s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...answered and stronger safeguards in place, I respectfully ask the city to suspend operation of all flock cameras and cameras using flock technology in Milford. And let me conclude this for...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1935s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...But I remember learning about World War II, and I'll bring this back to the flock cameras. And I learned about the rise of fascism in Italy. And I remember going over to see...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=2926s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...replacing old videos, video cameras, and building out the system. License plate readers never named. flock never named. You voted for replacement cameras, but what went in what what went in was one...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1669s)  _(term: alpr_flock, unreviewed)_
+  > ...educated on it as well. And uh gives all the towns again and also I'm also here for the flock cameras too. Um I'm for and against the flock cameras. I'm for it because it helped solve a murder in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=685s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...got to get these cameras out of here. In March, I filed a Freedom of Information request. This is my flock data. This is crazy. What are we doing? I'm traveling around the city and you got me 168...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1022s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...30-day data retention period for those cameras, but unlike the city's flock ALPR policy, it doesn't require independent audits yet. And section 1465 of your ordinance for those cameras...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1895s)  _(term: alpr_flock, unreviewed)_
+  > ...our data. A 2025 report by Wired uh described a data link and revealed that Flock Safety may be using workers in the Philippines to review and categorize surveillance footage as a part of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1830s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...protecting privacy, civil liberties, and personal data. As the city signs contracts with companies like Flock Safety, which is valued at approximately 7.5 billion, Milford is becoming a place...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1791s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...Hey, how you doing? Uh my name is Tristan Howard, 75 Peak Avenue. Uh, I am here because I'm against the flock ALRP program currently running in the city. I've raised this issue before at...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=920s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...rid of these flock cameras, come November, these people behind me are going to throw you the flock out of office. [applause and cheering]...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=2408s)  _(term: alpr_flock, unreviewed)_
+  > ...answered and stronger safeguards in place, I respectfully ask the city to suspend operation of all flock cameras and cameras using flock technology in Milford. And let me conclude this for...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1935s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-06] Board of Aldermen** -- Board Of Aldermen 07/06/2026
   > ...They protect our children in real time and many of them cost far less than contracts signed with Flock or any of their partnering companies. Instead, we have a system that issues tickets after...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4ntwsiTiEx8&t=2874s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-06-01] Board of Aldermen** -- Board Of Aldermen 06/01/2026
-  > ...data sharing agreements. Recent investigations have reported instances where automated license plate reader data was shared with federal agencies and outofstate law enforcement, raising...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=lFSsJuPHgs4&t=1513s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-06-01] Board of Aldermen** -- Board Of Aldermen 06/01/2026
   > ...investigative purposes, even if local departments seek to limit access to their own officers. So, why was Flock selected given its history of data sharing practices and compliance issues...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=lFSsJuPHgs4&t=1536s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-06-01] Board of Aldermen** -- Board Of Aldermen 06/01/2026
+  > ...data sharing agreements. Recent investigations have reported instances where automated license plate reader data was shared with federal agencies and outofstate law enforcement, raising...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=lFSsJuPHgs4&t=1513s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-06-01] Board of Aldermen** -- Board Of Aldermen 06/01/2026
   > ...party company is profiting off of all of our data. Which brings me to number three, the contract with Flock. This Atlanta based company is behind these cameras has faced scrutiny over handling...
@@ -1313,44 +1363,44 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=lFSsJuPHgs4&t=1472s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Board of Aldermen** -- Board Of Aldermen 03/02/2026
-  > ...these are. They're called license plate readers, right? Uh, but they're far more than that. Flock AI vehicle fingerprint technology identifies the vehicle's type, make, color, and distinguishing...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=567s)  _(term: alpr_flock, unreviewed)_
+  > ...coming uh that chief Melo has expressed uh to me um you know the mayor's office is aware you know this flock the back end is not as secure as people think it is uh you know there are people it's not...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=638s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Board of Aldermen** -- Board Of Aldermen 03/02/2026
-  > ...Flock Cameras for a hot second here. All right. Milford is has a contract with Flock cameras. We have 31 cameras, access to all their systems. Over the past few months, I've emailed with my...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=545s)  _(term: alpr_flock, unreviewed)_
+  > ...these are. They're called license plate readers, right? Uh, but they're far more than that. Flock AI vehicle fingerprint technology identifies the vehicle's type, make, color, and distinguishing...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=567s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Board of Aldermen** -- Board Of Aldermen 03/02/2026
   > ...features like roof racks, dents, bumper stickers. This is all retained in a rolling 30 days on Flock servers. These are not just license plate readers. They're comprehensive surveillance...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=577s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Board of Aldermen** -- Board Of Aldermen 03/02/2026
-  > ...coming uh that chief Melo has expressed uh to me um you know the mayor's office is aware you know this flock the back end is not as secure as people think it is uh you know there are people it's not...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=638s)  _(term: alpr_flock, unreviewed)_
+  > ...my daily movements. It's not necessarily a good thing. You know, I'm not anti- camera, but I am against flock. These type of things are a tool for the future. You know, they keep cost down...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=695s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Board of Aldermen** -- Board Of Aldermen 03/02/2026
   > ...has voted to turn their cameras off all right across the country cities have found unauthorized users in their flock systems and are removing these cameras Local and national media have reported...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=657s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Board of Aldermen** -- Board Of Aldermen 03/02/2026
-  > ...great. You know, the really it's the transparency has been phenomenal. Uh my problems with flock. I don't think the city should be in business with flock. Uh, I don't like how they run business...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=683s)  _(term: alpr_flock, unreviewed)_
+  > ...Flock Cameras for a hot second here. All right. Milford is has a contract with Flock cameras. We have 31 cameras, access to all their systems. Over the past few months, I've emailed with my...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=545s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Board of Aldermen** -- Board Of Aldermen 03/02/2026
-  > ...Some of you will remember my name from the emails. We're going to talk about Flock Cameras for a hot second here. All right. Milford is has a contract with Flock cameras. We have 31 cameras,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=540s)  _(term: alpr_flock, unreviewed)_
+  > ...great. You know, the really it's the transparency has been phenomenal. Uh my problems with flock. I don't think the city should be in business with flock. Uh, I don't like how they run business...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=683s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Board of Aldermen** -- Board Of Aldermen 03/02/2026
   > ...transparency has been phenomenal. Uh my problems with flock. I don't think the city should be in business with flock. Uh, I don't like how they run business and the risk of malicious third party...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=684s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Board of Aldermen** -- Board Of Aldermen 03/02/2026
-  > ...my daily movements. It's not necessarily a good thing. You know, I'm not anti- camera, but I am against flock. These type of things are a tool for the future. You know, they keep cost down...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=695s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-02] Board of Aldermen** -- Board Of Aldermen 03/02/2026
   > ...asking this board to do a full review of Milford's contract data security practices with flock. What you do with this information is up to you. Uh, just figured I'd let you know. Thanks a lot....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=710s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-02] Board of Aldermen** -- Board Of Aldermen 03/02/2026
+  > ...Some of you will remember my name from the emails. We're going to talk about Flock Cameras for a hot second here. All right. Milford is has a contract with Flock cameras. We have 31 cameras,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zBWcP53SZFA&t=540s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-17] Board of Finance** -- 02/17/26 - Board of Finance: Budget Hearing
   > ...company that we that we work with Flock had uh had an opt out policy. So departments that were and and flock is the predominant player in the country um that uh you had to opt out of your...
@@ -1369,52 +1419,64 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=MOHPJpwdpHM&t=497s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-11] Board of Finance** -- 02/11/26 - Board of Finance: Budget Hearing
-  > ...of a vehicle such as roof racks, dents, bumper stickers. This data is then retained for 30 days on flock servers. And the police department uses this to investigate certain actions. But they're...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1089s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-11] Board of Finance** -- 02/11/26 - Board of Finance: Budget Hearing
   > ...issue in Milford it things are good. Other places around the country and cities around us, uh, Flock's backend system is not as secure as they would like you or me or anybody to believe....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1127s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-11] Board of Finance** -- 02/11/26 - Board of Finance: Budget Hearing
-  > ...the state laws and Milford and safeguarding us uh making sure this isn't abused. So flock safety cameras, they're license plate readers, otherwise known as LPRs. Uh these cameras are much...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1061s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-11] Board of Finance** -- 02/11/26 - Board of Finance: Budget Hearing
-  > ...Connecticut, and Mountain View, California, have found unauthorized users in the flock system and have moved to turn off or start the process of removing these cameras. This past...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1143s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-11] Board of Finance** -- 02/11/26 - Board of Finance: Budget Hearing
   > ...They're designed to capture your license plates and Flock cameras capture your image and your vehicle. Right. The Flock Safety's AI vehicle fingerprint technology identifies the type, make,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1075s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-11] Board of Finance** -- 02/11/26 - Board of Finance: Budget Hearing
-  > ...to fund the flock safety camera systems. Uh we have 31 cameras and the the police department has access to the Flock servers and access uh to all that video and their software. Uh over the past few...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1040s)  _(term: alpr_flock, unreviewed)_
+  > ...of a vehicle such as roof racks, dents, bumper stickers. This data is then retained for 30 days on flock servers. And the police department uses this to investigate certain actions. But they're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1089s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-11] Board of Finance** -- 02/11/26 - Board of Finance: Budget Hearing
-  > ...Connecticut around us. Right. There is data available uh to the public provided by Flock in the Milford PD through a transparency portal. On Monday, I pulled this data and found certain information...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1163s)  _(term: alpr_flock, unreviewed)_
+  > ...and I'd like to speak briefly about the $65,000 a year the city is spending uh to fund the flock safety camera systems. Uh we have 31 cameras and the the police department has access to the Flock...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1035s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-11] Board of Finance** -- 02/11/26 - Board of Finance: Budget Hearing
+  > ...to fund the flock safety camera systems. Uh we have 31 cameras and the the police department has access to the Flock servers and access uh to all that video and their software. Uh over the past few...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1040s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-11] Board of Finance** -- 02/11/26 - Board of Finance: Budget Hearing
   > ...more than just a license plate reader. They're designed to capture your license plates and Flock cameras capture your image and your vehicle. Right. The Flock Safety's AI vehicle fingerprint...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1072s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-11] Board of Finance** -- 02/11/26 - Board of Finance: Budget Hearing
-  > ...we'll see what happens. I do not support the city spending this money uh until the flock back end those issues can be arised. Uh, so if there's somewhere that you're looking for money to be cut, this...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1181s)  _(term: alpr_flock, unreviewed)_
+  > ...Connecticut, and Mountain View, California, have found unauthorized users in the flock system and have moved to turn off or start the process of removing these cameras. This past...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1143s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-11] Board of Finance** -- 02/11/26 - Board of Finance: Budget Hearing
+  > ...Connecticut around us. Right. There is data available uh to the public provided by Flock in the Milford PD through a transparency portal. On Monday, I pulled this data and found certain information...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1163s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-11] Board of Finance** -- 02/11/26 - Board of Finance: Budget Hearing
   > ...they're license plate readers, otherwise known as LPRs. Uh these cameras are much more than just a license plate reader. They're designed to capture your license plates and Flock cameras capture your...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1069s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-11] Board of Finance** -- 02/11/26 - Board of Finance: Budget Hearing
-  > ...and I'd like to speak briefly about the $65,000 a year the city is spending uh to fund the flock safety camera systems. Uh we have 31 cameras and the the police department has access to the Flock...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1035s)  _(term: alpr_flock, unreviewed)_
+  > ...we'll see what happens. I do not support the city spending this money uh until the flock back end those issues can be arised. Uh, so if there's somewhere that you're looking for money to be cut, this...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1181s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-11] Board of Finance** -- 02/11/26 - Board of Finance: Budget Hearing
+  > ...the state laws and Milford and safeguarding us uh making sure this isn't abused. So flock safety cameras, they're license plate readers, otherwise known as LPRs. Uh these cameras are much...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w0w4GrkJZ1s&t=1061s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
   > ...this area have license plate readers positioned all around uh communities and what a license plate reader does is it's a camera that focuses on you know the roadway and the license plates and what...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=1649s)  _(term: alpr_flock, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
+  > ...in this area have license plate readers positioned all around uh their communities and what a license plate reader does is it's a camera that focuses on you know the roadway and the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1366s)  _(term: alpr_flock, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
+  > ...couple reasons why people are stealing cars and mostly it's young people but here's what an LPR reader does a license plate reader does is it identifies a car stolen and we get the information in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=1771s)  _(term: alpr_flock, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
+  > ...couple reasons why people are stealing cars and mostly it's young people but here's what an LPR reader does a license plate reader does is it identifies the car stolen and we get the information in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1489s)  _(term: alpr_flock, unreviewed)_
 
 - **[2022-06-06] Board of Aldermen** -- Board Of Aldermen 6-6-22
   > ...folks from Walnut Beach Association they have made Walnut Beach into a vibrant destination a place that people flock to people come because of the farmers markets and the concerts...
@@ -1496,6 +1558,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...um given the just the climate um and so I just wanted to ask a little bit about the the body cam storage line item I know this is a challenge that every municipality is facing and sure just...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMl482q5Thg&t=7689s)  _(term: body_camera, unreviewed)_
 
+- **[2022-02-22] Board of Finance** -- 02/22/2022 Board of Finance: Budget Hearing
+  > ...the operating money okay I did thank you Mr Mayor and thank you Peter I did notice the body worn camera I assumed it it was going to be dealt through Grant but I'm a little...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6PyQIMZXi5c&t=4849s)  _(term: body_camera, unreviewed)_
+
 - **[2021-12-06] Board of Aldermen** -- 12/6/21 Board Of Aldermen Meeting
   > ...details how long the data has to be stored so it's a minimum for routine data if I had a body cam on right now um that that would that's a 90-day storage so most of the of the material that's...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PXEvQw8q390&t=1728s)  _(term: body_camera, unreviewed)_
@@ -1511,6 +1577,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2021-04-26] Board of Aldermen** -- 4/26/21 Board of Aldermen Budget Meeting
   > ...if you could just I mean it sounds like it should be self explanatory but uh the body worn camera storage for $140,000 I just need to know is that as simple as it sounds I'm sorry sir is...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Do5W4pGw3iI&t=5426s)  _(term: body_camera, unreviewed)_
+
+- **[2017-05-10] Board of Aldermen** -- Milford Board of Aldermen Budget Hearing 5-10-17
+  > ...when you were kind of looking at like you didn't hear me so I apologize um um and then the uh uh the BWC the body worn camera um cloud storage for 96,000 that account that'll actually be about...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BFrVtcSj8yg&t=290s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -1562,16 +1632,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2814s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...but that requires the use of certain hardware and certain technology. So, the way the drone, the modern drone works for law enforcement is it sits on a dock and it's ready to go and it's charging...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2306s)  _(term: drone, unreviewed)_
+  > ...want to get as many people trained as possible so we know that we always have an officer in a drone car so if something happens we can put somebody out or put a a drone out. Thank you....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2810s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...website and look at it and it'll show, you know, in blue exactly where that drone went. And so, it's transparency portal. And I think that that's that's, you know, an important uh...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2566s)  _(term: drone, unreviewed)_
+  > ...uh, obstacle avoidance systems. And some of the current trends in law enforcement uh in terms of drone technology is the ability to get a waiver from the FAA with under certain conditions and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2105s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...Um, you know, I'd be happy to and thank you for the question. Um, we've had a drone unit for about nine years and a pretty robust drone unit and they're pretty they're very common place in law...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2071s)  _(term: drone, unreviewed)_
+  > ...to come back. Um, and so, uh, that's some of the, uh, that's where we're going with drone technology. um and and to give you some uh examples. And so it while it increases our effectiveness and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2331s)  _(term: drone, unreviewed)_
+
+- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
+  > ...but it works well when you have advanced notice. But what we're doing is focusing on getting the drone on station in seconds and not minutes. Um, again to give you some examples,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2222s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
   > ...is it can be deployed in seconds instead of minutes. So to put it in context um most drone units and we probably have about 15 drone certified drone pilots. We have a drone car that's always out...
@@ -1586,16 +1660,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2742s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...to come back. Um, and so, uh, that's some of the, uh, that's where we're going with drone technology. um and and to give you some uh examples. And so it while it increases our effectiveness and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2331s)  _(term: drone, unreviewed)_
+  > ...man was being belligerent. He stabbed the officer in the leg, barely missing his corroed artery. Um, now, a drone would have been there in seconds and would have seen that and it would have...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2453s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...most drone units and we probably have about 15 drone certified drone pilots. We have a drone car that's always out there. Uh we use it for missing persons. We use it to search for suspects. We use...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2173s)  _(term: drone, unreviewed)_
+  > ...you for the question. Um, we've had a drone unit for about nine years and a pretty robust drone unit and they're pretty they're very common place in law enforcement uh not just in Connecticut...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2074s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...utilizes uh additional hardware and additional software tools that control that drone. So it's based uh on the most part on autonomous flight. It goes up, it goes on a straight line, and it goes...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2148s)  _(term: drone, unreviewed)_
+  > ...we go in buildings anymore. We don't we don't go in buildings and barricaded situations. So, um but but for the drone that we're talking about, there is a license and there's a there's a test...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2751s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
   > ...police officers are actually certified I guess to operate the drones? Absolutely. Thank you. Uh we have about 15 drone operators right now. Um you know, one of the things that we've been saying in law...
@@ -1606,104 +1680,104 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2653s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...man was being belligerent. He stabbed the officer in the leg, barely missing his corroed artery. Um, now, a drone would have been there in seconds and would have seen that and it would have...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2453s)  _(term: drone, unreviewed)_
+  > ...and helicopters running around all the time. I know that they they've complained that the drone sometimes interferes with other aircraft. Uh how do you how do you deal with that? That's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2589s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...you for the question. Um, we've had a drone unit for about nine years and a pretty robust drone unit and they're pretty they're very common place in law enforcement uh not just in Connecticut...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2074s)  _(term: drone, unreviewed)_
+  > ...but that requires the use of certain hardware and certain technology. So, the way the drone, the modern drone works for law enforcement is it sits on a dock and it's ready to go and it's charging...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2306s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
   > ...controller in front of you and depending on your skill level, you'd control where that drone would go. uh the the uh for law enforcement purposes uh we can obtain beyond visual line of sight. So...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2128s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...of minutes. So to put it in context um most drone units and we probably have about 15 drone certified drone pilots. We have a drone car that's always out there. Uh we use it for missing persons....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2170s)  _(term: drone, unreviewed)_
+  > ...Um, but by the time we get there, they're gone. Well, now we're there in seconds. And the drone goes up and goes out. And once it gets to that location, hovers over and now we have situational...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2247s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
   > ...with law enforcement, they get a waiver from the FAA, there's what's called a UAS map that tells you what your your altitude limits are, and they're put there because they know that aircraft...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2606s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...drones, right? You people are wondering why these suspicious drones are in the air and who is it. The PD drone uh the law enforcement drones, this the ones that that we're getting um and that we...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2536s)  _(term: drone, unreviewed)_
+  > ...most drone units and we probably have about 15 drone certified drone pilots. We have a drone car that's always out there. Uh we use it for missing persons. We use it to search for suspects. We use...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2173s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...Um, but by the time we get there, they're gone. Well, now we're there in seconds. And the drone goes up and goes out. And once it gets to that location, hovers over and now we have situational...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2247s)  _(term: drone, unreviewed)_
+  > ...drones, right? You people are wondering why these suspicious drones are in the air and who is it. The PD drone uh the law enforcement drones, this the ones that that we're getting um and that we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2536s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
   > ...instance, if you bought a drone and you put it up, you would have to be able to see where that drone is and you'd have a controller in front of you and depending on your skill level, you'd control where...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2122s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...have uh something that's pretty unique. Um, we have a web page that shows you exactly where that drone was and what it went to. So, anyone could say, "Okay, is that the PD drone?" And they can go on a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2554s)  _(term: drone, unreviewed)_
-
-- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
   > ...but across the country. And I've been highlighting for the last three years the advancements in drone technology. Um, for instance, um, there are drones now that are just built for public...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2083s)  _(term: drone, unreviewed)_
-
-- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...we go in buildings anymore. We don't we don't go in buildings and barricaded situations. So, um but but for the drone that we're talking about, there is a license and there's a there's a test...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2751s)  _(term: drone, unreviewed)_
-
-- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...areas that are difficult to get to on a marsh in the woods in alleyways. We now can have a drone out there in seconds that can see heat signatures that can see heat that you...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2274s)  _(term: drone, unreviewed)_
-
-- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...certain licenses where you can fly that drone beyond visual line of sight. For instance, if you bought a drone and you put it up, you would have to be able to see where that drone is and you'd have a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2117s)  _(term: drone, unreviewed)_
-
-- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...and helicopters running around all the time. I know that they they've complained that the drone sometimes interferes with other aircraft. Uh how do you how do you deal with that? That's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2589s)  _(term: drone, unreviewed)_
-
-- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...exactly where that drone was and what it went to. So, anyone could say, "Okay, is that the PD drone?" And they can go on a website and look at it and it'll show, you know, in blue exactly where...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2560s)  _(term: drone, unreviewed)_
-
-- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...want to get as many people trained as possible so we know that we always have an officer in a drone car so if something happens we can put somebody out or put a a drone out. Thank you....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2810s)  _(term: drone, unreviewed)_
-
-- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...uh, obstacle avoidance systems. And some of the current trends in law enforcement uh in terms of drone technology is the ability to get a waiver from the FAA with under certain conditions and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2105s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
   > ...with under certain conditions and certain licenses where you can fly that drone beyond visual line of sight. For instance, if you bought a drone and you put it up, you would have to be able to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2115s)  _(term: drone, unreviewed)_
 
 - **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
-  > ...but it works well when you have advanced notice. But what we're doing is focusing on getting the drone on station in seconds and not minutes. Um, again to give you some examples,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2222s)  _(term: drone, unreviewed)_
+  > ...areas that are difficult to get to on a marsh in the woods in alleyways. We now can have a drone out there in seconds that can see heat signatures that can see heat that you...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2274s)  _(term: drone, unreviewed)_
+
+- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
+  > ...of minutes. So to put it in context um most drone units and we probably have about 15 drone certified drone pilots. We have a drone car that's always out there. Uh we use it for missing persons....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2170s)  _(term: drone, unreviewed)_
+
+- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
+  > ...certain licenses where you can fly that drone beyond visual line of sight. For instance, if you bought a drone and you put it up, you would have to be able to see where that drone is and you'd have a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2117s)  _(term: drone, unreviewed)_
+
+- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
+  > ...Um, you know, I'd be happy to and thank you for the question. Um, we've had a drone unit for about nine years and a pretty robust drone unit and they're pretty they're very common place in law...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2071s)  _(term: drone, unreviewed)_
+
+- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
+  > ...website and look at it and it'll show, you know, in blue exactly where that drone went. And so, it's transparency portal. And I think that that's that's, you know, an important uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2566s)  _(term: drone, unreviewed)_
+
+- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
+  > ...have uh something that's pretty unique. Um, we have a web page that shows you exactly where that drone was and what it went to. So, anyone could say, "Okay, is that the PD drone?" And they can go on a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2554s)  _(term: drone, unreviewed)_
+
+- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
+  > ...exactly where that drone was and what it went to. So, anyone could say, "Okay, is that the PD drone?" And they can go on a website and look at it and it'll show, you know, in blue exactly where...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2560s)  _(term: drone, unreviewed)_
+
+- **[2025-04-23] Board of Aldermen** -- Board Of Aldermen: Budget Hearing FY '25-26 04/23/2025
+  > ...utilizes uh additional hardware and additional software tools that control that drone. So it's based uh on the most part on autonomous flight. It goes up, it goes on a straight line, and it goes...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2148s)  _(term: drone, unreviewed)_
+
+- **[2025-02-19] Board of Finance** -- 02/19/25 - Board of Finance: Budget Hearing FY'25-26
+  > ...in the last few years so we have a drone U and three drones is exactly what we have we have a drone that is used a small drone that we use when we enter a house um if we have a barricaded person...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=651s)  _(term: drone, unreviewed)_
 
 - **[2025-02-19] Board of Finance** -- 02/19/25 - Board of Finance: Budget Hearing FY'25-26
   > ...they're safer especially when you're flying at night so if you can think of a drone flying on autopilot as opposed to somebody standing there know trying to maneuver it um often into a tree or...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=607s)  _(term: drone, unreviewed)_
 
 - **[2025-02-19] Board of Finance** -- 02/19/25 - Board of Finance: Budget Hearing FY'25-26
-  > ...every year and again those are fixed costs cars went up again this year uh there's an increase uh on the Drone account and uh and we've uh also cut back on some of the modems and cut back...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=111s)  _(term: drone, unreviewed)_
+  > ...to 105,000 that uh skipping over to page 46 that drone uh law enforcement drones are different they're more sophisticated uh they have more sophisticated Optics...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=550s)  _(term: drone, unreviewed)_
 
 - **[2025-02-19] Board of Finance** -- 02/19/25 - Board of Finance: Budget Hearing FY'25-26
   > ...unfortunately just crashed very similar to what this drone is and this this is a drone that is more sophisticated uh with better Optics and and uh increased range and increased uh um flight time so the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=689s)  _(term: drone, unreviewed)_
 
 - **[2025-02-19] Board of Finance** -- 02/19/25 - Board of Finance: Budget Hearing FY'25-26
+  > ...maneuver it um often into a tree or something so um so the software isn't that software for the Drone is included in the price of the Drone not in this software of Maintenance gotcha okay and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=617s)  _(term: drone, unreviewed)_
+
+- **[2025-02-19] Board of Finance** -- 02/19/25 - Board of Finance: Budget Hearing FY'25-26
   > ...we we have a uh another drone that uh unfortunately just crashed very similar to what this drone is and this this is a drone that is more sophisticated uh with better Optics and and uh increased range...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=687s)  _(term: drone, unreviewed)_
 
 - **[2025-02-19] Board of Finance** -- 02/19/25 - Board of Finance: Budget Hearing FY'25-26
-  > ...to 105,000 that uh skipping over to page 46 that drone uh law enforcement drones are different they're more sophisticated uh they have more sophisticated Optics...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=550s)  _(term: drone, unreviewed)_
-
-- **[2025-02-19] Board of Finance** -- 02/19/25 - Board of Finance: Budget Hearing FY'25-26
-  > ...maneuver it um often into a tree or something so um so the software isn't that software for the Drone is included in the price of the Drone not in this software of Maintenance gotcha okay and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=617s)  _(term: drone, unreviewed)_
+  > ...something so um so the software isn't that software for the Drone is included in the price of the Drone not in this software of Maintenance gotcha okay and sticking with the drones is that like...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=619s)  _(term: drone, unreviewed)_
 
 - **[2025-02-19] Board of Finance** -- 02/19/25 - Board of Finance: Budget Hearing FY'25-26
   > ...can break glass to get through windows can do a couple things um and uh and so we we have a uh another drone that uh unfortunately just crashed very similar to what this drone is and this this is a...
@@ -1714,60 +1788,80 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=672s)  _(term: drone, unreviewed)_
 
 - **[2025-02-19] Board of Finance** -- 02/19/25 - Board of Finance: Budget Hearing FY'25-26
-  > ...U and three drones is exactly what we have we have a drone that is used a small drone that we use when we enter a house um if we have a barricaded person or often what we get is somebody doesn't...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=653s)  _(term: drone, unreviewed)_
-
-- **[2025-02-19] Board of Finance** -- 02/19/25 - Board of Finance: Budget Hearing FY'25-26
   > ...basically upgrading them because the technology is is really come a long way in the last few years so we have a drone U and three drones is exactly what we have we have a drone that is used a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=646s)  _(term: drone, unreviewed)_
 
 - **[2025-02-19] Board of Finance** -- 02/19/25 - Board of Finance: Budget Hearing FY'25-26
-  > ...something so um so the software isn't that software for the Drone is included in the price of the Drone not in this software of Maintenance gotcha okay and sticking with the drones is that like...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=619s)  _(term: drone, unreviewed)_
+  > ...every year and again those are fixed costs cars went up again this year uh there's an increase uh on the Drone account and uh and we've uh also cut back on some of the modems and cut back...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=111s)  _(term: drone, unreviewed)_
 
 - **[2025-02-19] Board of Finance** -- 02/19/25 - Board of Finance: Budget Hearing FY'25-26
-  > ...in the last few years so we have a drone U and three drones is exactly what we have we have a drone that is used a small drone that we use when we enter a house um if we have a barricaded person...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=651s)  _(term: drone, unreviewed)_
+  > ...U and three drones is exactly what we have we have a drone that is used a small drone that we use when we enter a house um if we have a barricaded person or often what we get is somebody doesn't...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cgFyP6jYqsk&t=653s)  _(term: drone, unreviewed)_
 
 - **[2024-11-07] Board of Aldermen** -- Board Of Aldermen 11/07/2024
   > ...it because it's later phases of the project but you would also Envision that money being available for the Drone program should that ever come online or this other thing no I don't think it...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7R_rECaP0xw&t=15466s)  _(term: drone, unreviewed)_
 
 - **[2024-07-01] Board of Aldermen** -- Board Of Aldermen 07/01/2024
-  > ...they're coming we'll have our drone unit ready uh the difficulty with the current drone program is you have to unpack it put it up and you have line of sight licenses right we have 12 15 Pilots but...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gl4jAxlsLsk&t=5821s)  _(term: drone, unreviewed)_
+  > ...where we combine our efforts when we know they're coming so when they know they're coming we'll have our drone unit ready uh the difficulty with the current drone program is you have to unpack it...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gl4jAxlsLsk&t=5816s)  _(term: drone, unreviewed)_
 
 - **[2024-07-01] Board of Aldermen** -- Board Of Aldermen 07/01/2024
   > ...enforcement I said is absolutely the use of drones drones as First Responders I'm not playing with a drone off the shelf I'm talking about drones as First Responders almost like a mini air unit...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gl4jAxlsLsk&t=5768s)  _(term: drone, unreviewed)_
 
 - **[2024-07-01] Board of Aldermen** -- Board Of Aldermen 07/01/2024
-  > ...where we combine our efforts when we know they're coming so when they know they're coming we'll have our drone unit ready uh the difficulty with the current drone program is you have to unpack it...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gl4jAxlsLsk&t=5816s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
-  > ...the 40,000 that's allocated or in the budget for drones how many will that buy one one this is a not the kind of drone you can buy at Best Buy um it's a commercial type of drone that can fly in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2940s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > ...somebody had a handgun was threatening people and as a police officer pulling up he had a cell phone and the Drone said no it's not a weapon it's a cell phone you can Google that and see that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1957s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > ...certainly most modern medium to larger sized police departments have a have drones they have a drone unit uh we had one uh we have two one of them is broken and no longer uh operational but here's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1747s)  _(term: drone, unreviewed)_
+  > ...they're coming we'll have our drone unit ready uh the difficulty with the current drone program is you have to unpack it put it up and you have line of sight licenses right we have 12 15 Pilots but...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gl4jAxlsLsk&t=5821s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
   > ...use those for if you go to yel Bow at the yel Harvard game you're going to see a drone on a static display watching it it it allows us to see what we could see with the naked eye um there are privacy...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2699s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > ...one one this is a not the kind of drone you can buy a Best Buy um it's a commercial type of drone that can fly in challenging environments with multiple cameras and um different and and carry a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=2663s)  _(term: drone, unreviewed)_
+  > ...had so we had a call for we had to wait three and a half hours for a helicopter to show up from Long Island the Drone technology now um comes with multiple camera...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1821s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
+  > ...had a call for we had to wait three and a half hours for a helicopter to show up from Long Island the Drone technology now um comes with multiple camera systems you can see at night we can see...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2104s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
+  > ...the $40,000 that's allocated or in the budget for drones how many will that buy one one this is a not the kind of drone you can buy a Best Buy um it's a commercial type of drone that can fly in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=2658s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
+  > ...the 40,000 that's allocated or in the budget for drones how many will that buy one one this is a not the kind of drone you can buy at Best Buy um it's a commercial type of drone that can fly in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2940s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
+  > ...finally and I don't mean to take a lot of time drone programs are the future of law enforcement and the United States is behind when it comes to drones or what...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2008s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
   > ...we intend to use those for if you go to yel Bow at the yel Harvard game you're going to see a drone on a static display watching it it it allows us to see what we could see with the naked eye um there...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=2417s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
+  > ...operate in challenging weather um and the other part of that was for a smaller drone that we would use for our uh SRT that would when we had to go into a building uh we uh paid for we bought...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2313s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
+  > ...certainly most modern medium to larger sized police departments have a have drones they have a drone unit uh we had one uh we have two one of them is broken and no longer uh operational but here's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1747s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
+  > ...go on YouTube and you look at there's a department that had a call and have any police officers and they sent the Drone out not line of sight it went there it hovered above and the the call was that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1948s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
+  > ...one one this is a not the kind of drone you can buy a Best Buy um it's a commercial type of drone that can fly in challenging environments with multiple cameras and um different and and carry a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=2663s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
+  > ...and one of the and I we even go one step further law enforcement can get a license to Pilot a drone where it's not line of site I think you're going to see drones as First Responders in fact I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2214s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
   > ...departments certainly most modern medium to larger sized police departments have a have drones they have a drone unit uh we had one uh we have two one of them is broken and no longer uh operating...
@@ -1778,28 +1872,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1761s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
-  > ...operate in challenging weather um and the other part of that was for a smaller drone that we would use for our uh SRT that would when we had to go into a building uh we uh paid for we bought...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2313s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > ...and one of the and I will even go one step further law enforcement can get a license to Pilot a drone where it's not line of sight I think you're going to see drones as First Responders in fact I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1932s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > ...that's something we should do and then finally and I don't mean to take a lot of time drone programs are the future of law enforcement and the United States is behind when it comes to drones or what...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1725s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
-  > ...finally and I don't mean to take a lot of time drone programs are the future of law enforcement and the United States is behind when it comes to drones or what...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2008s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
-  > ...now we we're going to send the Drone and so when the Drone goes over there the Drone will actually the one that we're buying will be able to carry FL flotation device to somebody that may be...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2158s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > ...had so we had a call for we had to wait three and a half hours for a helicopter to show up from Long Island the Drone technology now um comes with multiple camera...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1821s)  _(term: drone, unreviewed)_
+  > ...one one this is a not the kind of drone you can buy at Best Buy um it's a commercial type of drone that can fly in challenging environments with multiple cameras and um different and and carry a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2945s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
   > ...camera systems and one that can operate in challenging weather um and the other part of that was for a smaller drone that we would use for our uh SRT that would when we had to go into a building...
@@ -1808,6 +1882,22 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
   > ...doesn't uh and I appreciate the question so it funds the replacement for the large drone the Drone with the multiple camera system is the one that can operate in challenging weather um and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2305s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
+  > ...question any opportunities that you see with Federal grant money for any enhancements your drone program or surveillance equipment uh that type of thing no uh you know we've had a uh um a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=3906s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
+  > ...doesn't uh and I appreciate the question so it funds the replacement for the large drone the Drone with the multiple camera systems and one that can operate in challenging weather um and the other...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=2022s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
+  > ...and one of the and I will even go one step further law enforcement can get a license to Pilot a drone where it's not line of sight I think you're going to see drones as First Responders in fact I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1932s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
+  > ...now we we're going to send the Drone and so when the Drone goes over there the Drone will actually the one that we're buying will be able to carry FL flotation device to somebody that may be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2158s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
   > ...but here's where I see drones now you probably notice at the oyster festival we had a drone up in the air on a kind of static just watching what was going on so we could see everywhere the...
@@ -1818,116 +1908,88 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1777s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
+  > ...that we really need to look to in terms of Technology we've already made great strides with the Drone we've already developed uh paid with SE asset money for the software to allow us to send...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2252s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
   > ...question any opportunities that you see with Federal grant money for any enhancements your drone program or surveillance equipment uh that type of thing no uh you know we've had a uh um a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=4188s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
+  > ...there'd be problems going on down here so what we've learned to do is put a drone in the air and so we think that it's important that just like we have Cann officers that we have a drone Dr...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2060s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
+  > ...the air and so we think that it's important that just like we have Cann officers that we have a drone unit that is always working that can put that drone in the air when there's a problem...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1783s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
   > ...now we we're going to send the Drone and so when the Drone goes over there the Drone will actually the one that we're buying will be able to carry FL flotation device to somebody that may be...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1875s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
-  > ...boat charges it up and goes out there now we we're going to send the Drone and so when the Drone goes over there the Drone will actually the one that we're buying will be able to carry FL...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2157s)  _(term: drone, unreviewed)_
+  > ...drone in the air and so we think that it's important that just like we have Cann officers that we have a drone Dr unit that is always working that can put that drone in the air when there's a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2065s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > ...the $40,000 that's allocated or in the budget for drones how many will that buy one one this is a not the kind of drone you can buy a Best Buy um it's a commercial type of drone that can fly in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=2658s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > ...go on YouTube and you look at there's a department that had a call and have any police officers and they sent the Drone out not line of sight it went there it hovered above and the the call was that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1948s)  _(term: drone, unreviewed)_
+  > ...three areas that we really need to look to in terms of Technology we've already made great strides with the Drone we've already develop uh paid with se's asset money for the software to allow us to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1969s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
-  > ...there'd be problems going on down here so what we've learned to do is put a drone in the air and so we think that it's important that just like we have Cann officers that we have a drone Dr...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2060s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
-  > ...and one of the and I we even go one step further law enforcement can get a license to Pilot a drone where it's not line of site I think you're going to see drones as First Responders in fact I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2214s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > ...doesn't uh and I appreciate the question so it funds the replacement for the large drone the Drone with the multiple camera systems and one that can operate in challenging weather um and the other...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=2022s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
-  > ...that we really need to look to in terms of Technology we've already made great strides with the Drone we've already developed uh paid with SE asset money for the software to allow us to send...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2252s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > ...the air and so we think that it's important that just like we have Cann officers that we have a drone unit that is always working that can put that drone in the air when there's a problem...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1783s)  _(term: drone, unreviewed)_
+  > ...threatening people and there's a police officer are pulling up he had a cell phone and the Drone said no it's not a weapon it's a cell phone you can Google that and see that on YouTube um so I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2241s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
   > ...department that had a call and they didn't have any police officers and they sent a drone out not line of sight it went there it hovered above and the the call was that somebody had a handgun was...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2231s)  _(term: drone, unreviewed)_
 
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
+  > ...boat charges it up and goes out there now we we're going to send the Drone and so when the Drone goes over there the Drone will actually the one that we're buying will be able to carry FL...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2157s)  _(term: drone, unreviewed)_
+
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > ...three areas that we really need to look to in terms of Technology we've already made great strides with the Drone we've already develop uh paid with se's asset money for the software to allow us to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1969s)  _(term: drone, unreviewed)_
+  > ...officers that we have a drone unit that is always working that can put that drone in the air when there's a problem down in the beaches or in milp center but here's what else they can do it is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1788s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
+  > ...Cann officers that we have a drone Dr unit that is always working that can put that drone in the air when there's a problem down in the beaches or in milord center but here's what else they can do...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2070s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
+  > ...whoever's closest runs down gets on that boat charges it up and goes out there now we we're going to send the Drone and so when the Drone goes over there the Drone will actually the one that we're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1872s)  _(term: drone, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
+  > ...somebody had a handgun was threatening people and as a police officer pulling up he had a cell phone and the Drone said no it's not a weapon it's a cell phone you can Google that and see that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1957s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
   > ...boat charges it up and goes out there now we we're going to send the Drone and so when the Drone goes over there the Drone will actually the one that we're buying will be able to carry FL...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1874s)  _(term: drone, unreviewed)_
 
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
-  > ...threatening people and there's a police officer are pulling up he had a cell phone and the Drone said no it's not a weapon it's a cell phone you can Google that and see that on YouTube um so I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2241s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > ...question any opportunities that you see with Federal grant money for any enhancements your drone program or surveillance equipment uh that type of thing no uh you know we've had a uh um a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=3906s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
   > ...whoever's closes runs down gets on that boat charges it up and goes out there now we we're going to send the Drone and so when the Drone goes over there the Drone will actually the one that we're...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2154s)  _(term: drone, unreviewed)_
 
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
-  > ...drone in the air and so we think that it's important that just like we have Cann officers that we have a drone Dr unit that is always working that can put that drone in the air when there's a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2065s)  _(term: drone, unreviewed)_
-
 - **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > ...officers that we have a drone unit that is always working that can put that drone in the air when there's a problem down in the beaches or in milp center but here's what else they can do it is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1788s)  _(term: drone, unreviewed)_
+  > ...that's something we should do and then finally and I don't mean to take a lot of time drone programs are the future of law enforcement and the United States is behind when it comes to drones or what...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1725s)  _(term: drone, unreviewed)_
 
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > ...whoever's closest runs down gets on that boat charges it up and goes out there now we we're going to send the Drone and so when the Drone goes over there the Drone will actually the one that we're...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=1872s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
-  > ...Cann officers that we have a drone Dr unit that is always working that can put that drone in the air when there's a problem down in the beaches or in milord center but here's what else they can do...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2070s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
-  > ...had a call for we had to wait three and a half hours for a helicopter to show up from Long Island the Drone technology now um comes with multiple camera systems you can see at night we can see...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2104s)  _(term: drone, unreviewed)_
-
-- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
-  > ...one one this is a not the kind of drone you can buy at Best Buy um it's a commercial type of drone that can fly in challenging environments with multiple cameras and um different and and carry a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=2945s)  _(term: drone, unreviewed)_
+- **[2024-02-26] Board of Finance** -- Board Of Finance Budget Hearing 02/26/2024
+  > ...um when we have street takeovers we have a drone that's in the field and we have right now 14 Pilots that drone goes right up in the air and it's able to keep an overview so we can see what's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2704s)  _(term: drone, unreviewed)_
 
 - **[2024-02-26] Board of Finance** -- Board Of Finance Budget Hearing 02/26/2024
   > ...tactical purposes we use them for search and rescue and uh and so we so that's part of our our uh our drone program which we will continue to advance I will also tell you that some departments...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2804s)  _(term: drone, unreviewed)_
 
 - **[2024-02-26] Board of Finance** -- Board Of Finance Budget Hearing 02/26/2024
-  > ...Drone up and we look in the windows and then we open the door and we put the Drone inside we have a a small drone as well that that can function inside a building and so we can see what's going...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2779s)  _(term: drone, unreviewed)_
-
-- **[2024-02-26] Board of Finance** -- Board Of Finance Budget Hearing 02/26/2024
-  > ...you know nearly a thousand people show up at Eisen Park excuse me at Walnut Beach to cause problems our drone was in the air um we put our drone in the air when we're looking for a missing person...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2732s)  _(term: drone, unreviewed)_
-
-- **[2024-02-26] Board of Finance** -- Board Of Finance Budget Hearing 02/26/2024
-  > ...use drones for a variety of things today um when we have street takeovers we have a drone that's in the field and we have right now 14 Pilots that drone goes right up in the air and it's able to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2702s)  _(term: drone, unreviewed)_
-
-- **[2024-02-26] Board of Finance** -- Board Of Finance Budget Hearing 02/26/2024
   > ...Milford where they have like a little mini airport at the PD at the roof of the PD and that drone goes out and it's on a GPS coordinate it goes right to where that location is and it takes an...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2820s)  _(term: drone, unreviewed)_
 
 - **[2024-02-26] Board of Finance** -- Board Of Finance Budget Hearing 02/26/2024
-  > ...we went in you know be prior to having drones we would go in now we put the Drone up and we look in the windows and then we open the door and we put the Drone inside we have a a small drone as...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2775s)  _(term: drone, unreviewed)_
+  > ...Drone up and we look in the windows and then we open the door and we put the Drone inside we have a a small drone as well that that can function inside a building and so we can see what's going...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2779s)  _(term: drone, unreviewed)_
 
 - **[2024-02-26] Board of Finance** -- Board Of Finance Budget Hearing 02/26/2024
   > ...replaces uh one of the drones that we we did have uh we crashed it and it was an older drone about six years and it's uh we couldn't repair it but uh but drones are a big part of law enforcement in...
@@ -1938,16 +2000,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2839s)  _(term: drone, unreviewed)_
 
 - **[2024-02-26] Board of Finance** -- Board Of Finance Budget Hearing 02/26/2024
-  > ...up at Eisen Park excuse me at Walnut Beach to cause problems our drone was in the air um we put our drone in the air when we're looking for a missing person uh the drones that we buy they little...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2735s)  _(term: drone, unreviewed)_
-
-- **[2024-02-26] Board of Finance** -- Board Of Finance Budget Hearing 02/26/2024
-  > ...um when we have street takeovers we have a drone that's in the field and we have right now 14 Pilots that drone goes right up in the air and it's able to keep an overview so we can see what's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2704s)  _(term: drone, unreviewed)_
+  > ...use drones for a variety of things today um when we have street takeovers we have a drone that's in the field and we have right now 14 Pilots that drone goes right up in the air and it's able to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2702s)  _(term: drone, unreviewed)_
 
 - **[2024-02-26] Board of Finance** -- Board Of Finance Budget Hearing 02/26/2024
   > ...was mentally ill didn't have a gun it was a cell phone and he was waving it as if it was a gun and the Drone got right there and was able to communicate with him um yeah if you Google that you can...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2845s)  _(term: drone, unreviewed)_
+
+- **[2024-02-26] Board of Finance** -- Board Of Finance Budget Hearing 02/26/2024
+  > ...we went in you know be prior to having drones we would go in now we put the Drone up and we look in the windows and then we open the door and we put the Drone inside we have a a small drone as...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2775s)  _(term: drone, unreviewed)_
+
+- **[2024-02-26] Board of Finance** -- Board Of Finance Budget Hearing 02/26/2024
+  > ...you know nearly a thousand people show up at Eisen Park excuse me at Walnut Beach to cause problems our drone was in the air um we put our drone in the air when we're looking for a missing person...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2732s)  _(term: drone, unreviewed)_
+
+- **[2024-02-26] Board of Finance** -- Board Of Finance Budget Hearing 02/26/2024
+  > ...up at Eisen Park excuse me at Walnut Beach to cause problems our drone was in the air um we put our drone in the air when we're looking for a missing person uh the drones that we buy they little...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3IhylnPLNlM&t=2735s)  _(term: drone, unreviewed)_
 
 - **[2023-06-05] Board of Aldermen** -- Board Of Aldermen 6-5-2023
   > ...instead the feedback we've gotten from the folks in the community has all been positive they felt safe we had a drone in the air we had a police presence um so it turned out to just be a beautiful...
@@ -1975,6 +2045,18 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
   > ...We are also learning that due to errors being made, whether it be plate misreads, poor facial recognition, or human care, carelessness during data entry, dozens of innocent people's lives...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9372s)  _(term: facial_recognition, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
+  > ...question because there is one new item in there and that's clar view for $8,600 um and that's uh a facial recognition software that we've been borrowing from other communities to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=3791s)  _(term: facial_recognition, unreviewed)_
+
+- **[2024-04-22] Board of Aldermen** -- Board Of Aldermen  4/22/24 Budget Hearing FY '25
+  > ...question because there is one new item in there and that's Clair view for $8,600 um and that's uh a facial recognition software that we've been borrowing from other communities to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=4074s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-04-25] Board of Aldermen** -- Board of Aldermen: Budget Hearing 04/25/2022
+  > ...would hold but that's the best I can give you um you know there's been talk about other things like facial recognition and some of those things um they're still kind of the jury's out...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMl482q5Thg&t=7946s)  _(term: facial_recognition, unreviewed)_
 
 
 ### gunshot_detection
@@ -2167,6 +2249,11 @@ questioned the lower training costs and whether officers rece...
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -2186,8 +2273,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| mgat | streams | 2026-08-31 07:31:06.586668 | 514 |
-| mgat | videos | 2026-08-31 07:31:11.463615 | 389 |
+| mgat | streams | 2026-08-31 13:44:56.365185 | 514 |
+| mgat | videos | 2026-08-31 13:45:01.879466 | 389 |
 
 
 ## Registered meeting bodies
@@ -2265,5 +2352,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:13:33 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Milford"`_
+_Generated 2026-08-31T14:40:32 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Milford"`_
 

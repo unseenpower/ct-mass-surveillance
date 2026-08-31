@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **Berlin**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **228 mentions** across **61 meetings**
+- **231 mentions** across **61 meetings**
 - **First mention:** 2022-03-02  |  **Most recent:** 2026-08-17
 - **Technologies discussed:** alpr, body_camera, cell_site_sim, doorbell_partnership, drone, facial_recognition, surveillance_general
 - **Coverage:** 731 of 939 known Berlin meetings transcribed (78%)
@@ -68,10 +68,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 173 | 32 | 2022-03-02 | 2026-08-17 |
+| alpr | 175 | 32 | 2022-03-02 | 2026-08-17 |
 | body_camera | 7 | 6 | 2024-01-17 | 2026-04-15 |
 | cell_site_sim | 1 | 1 | 2023-07-13 | 2023-07-13 |
-| doorbell_partnership | 4 | 3 | 2024-02-21 | 2026-08-17 |
+| doorbell_partnership | 5 | 3 | 2024-02-21 | 2026-08-17 |
 | drone | 38 | 24 | 2022-06-07 | 2026-08-11 |
 | facial_recognition | 1 | 1 | 2026-05-15 | 2026-05-15 |
 | surveillance_general | 4 | 3 | 2023-05-11 | 2024-09-12 |
@@ -92,6 +92,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### 2022-03-15 -- Town Council
 
 **Town Council 2022 03 15** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=CcFr1gUTxyU&t=3223s)  > ...um yeah i can explain a little further on that so what what the license plate reader is actually capturing is just a photo of the license plate and it's...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=CcFr1gUTxyU&t=3367s)  > ...technologies and the 12 125 purchases purchase of a license plate reader with selex es inc as this is in the best interest of the town...
 
@@ -216,6 +218,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 **Police Commission 2024-02-21** _(topics: body_camera, doorbell_partnership)_
 
 - `doorbell_partnership` [▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3551s)  > ...kind of video footage of activity a lot of a lot of things you know a lot of people relied on the ring doorbell I don't know if you know this but ring doorbell cameras those we get a lot of...
+
+- `doorbell_partnership` [▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3552s)  > ...of a lot of things you know a lot of people relied on the ring doorbell I don't know if you know this but ring doorbell cameras those we get a lot of footage from them but ring just...
 
 - `doorbell_partnership` [▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3587s)  > ...can just download right into it I'm putting it on my own house I'm going to get rid of my ring doorbell because I pay a monthly fee yeah I will I looked it up you...
 
@@ -532,6 +536,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 **Police Commission 2025 09 17** _(topics: alpr)_
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=ccOsWuDyVqo&t=1555s)  > ...>> I think it's important to note too when we're talking about this technology, this is license plate reader technology. I don't really like using the specific brand um brand is not important. License...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=ccOsWuDyVqo&t=1559s)  > ...this is license plate reader technology. I don't really like using the specific brand um brand is not important. License plate reader is a license plate reader. um like in that case West he's talking...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=ccOsWuDyVqo&t=1562s)  > ...I don't really like using the specific brand um brand is not important. License plate reader is a license plate reader. um like in that case West he's talking about um these companies have pockets so...
 
@@ -854,28 +860,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### alpr
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...Concern, a Flock hit hit gives an officer probable cause to stop someone. Fact, no. An ALPR observation is an investigative lead. Officers must establish an independent or lawful basis...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3676s)  _(term: alpr_flock, unreviewed)_
+  > ...wrote up after I did some research briefing memorandum for all of you about ALPR technology. And really what all of this is is a position that I I wanted to make very...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3331s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...what we see. So, it's a concern is Flock is a speed camera and the answer fact, no. ALPR systems are investigated tools that are not designed to issue speeding or red light citations....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3649s)  _(term: alpr_flock, unreviewed)_
+  > ...the public thinks that that's what the ALPRs do, but not all the cameras that you know, Flock is a brand name. So, I wanted to to clarify some of that. I stand by the um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3377s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
   > ...to specific exemptions. We get a report every month courtesy of uh Lieutenant Solic showing when Flock was used, who used it, and for how long. And and then that's deleted after an appropriate...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3719s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...identify people exercising First Amendment rights. Fact, the Connecticut law specifically prohibits using ALPR data for that purpose. Concern, Flock data can simply be sold...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3749s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...law specifically prohibits using ALPR data for that purpose. Concern, Flock data can simply be sold or used by the vendor. Fact, Connecticut law ins- imposes...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3755s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...Um which we have some we have our Flock report tonight and um it's just a hot button topic right now....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=2953s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
   > ...Fact, Connecticut law ins- imposes restrictions on vendors and their handling of public agency A- ALPR information. Uh concern, there is no consequences if...
@@ -890,8 +884,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=4002s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...sources, there's a lot of confusion. Uh we use the term everybody's saying the term Flock and they're talking about traffic cameras, traffic enforcement cameras,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3354s)  _(term: alpr_flock, unreviewed)_
+  > ...Um which we have some we have our Flock report tonight and um it's just a hot button topic right now....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=2953s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
   > ...the other stuff. I'm I think people are conflating two different things. They're conflating Flock with the speed cameras. Yeah. Yeah. And if you have Waze and you're driving...
@@ -902,64 +896,68 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=4127s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
+  > ...movements whenever they want. Connect and fact, Connecticut law restricts when ALPR information may be assessed and required documentation for specific investigative searches. Concern, the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3695s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
+  > ...sources, there's a lot of confusion. Uh we use the term everybody's saying the term Flock and they're talking about traffic cameras, traffic enforcement cameras,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3354s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
+  > ...Concern, a Flock hit hit gives an officer probable cause to stop someone. Fact, no. An ALPR observation is an investigative lead. Officers must establish an independent or lawful basis...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3676s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
   > ...necessarily how our people are using it, but how Flock uses it. How do we know Flock truly deletes it? And that I mean there's laws and we just have to have faith that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=4129s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...represent is staggering. That I worry more about that than I ever will about Flock. Not even close. LPRs are nothing new. We've had them in this state for 20...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=4212s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...you know, even in my own house I had a discussion with my wife last weekend what she said about Flock taking pictures of speeding cars and I realized the public thinks that that's what the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3366s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
   > ...The uh registered owner is not necessarily the driver. Concern, a Flock hit hit gives an officer probable cause to stop someone. Fact, no. An ALPR observation is an...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3671s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
+  > ...represent is staggering. That I worry more about that than I ever will about Flock. Not even close. LPRs are nothing new. We've had them in this state for 20...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=4212s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
+  > ...what we see. So, it's a concern is Flock is a speed camera and the answer fact, no. ALPR systems are investigated tools that are not designed to issue speeding or red light citations....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3649s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
   > ...people who were registered with arrest warrants hit our Flock warrants at our Flock uh cameras. And and many times we're able to get over and find that they could be...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=4596s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
+  > ...you know, even in my own house I had a discussion with my wife last weekend what she said about Flock taking pictures of speeding cars and I realized the public thinks that that's what the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3366s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
   > ...investigative division, Lieutenant Solar. And guess what? More Flock. But please feel feel us in. >> destruction burglary. Another recovered motor vehicle....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=4233s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...movements whenever they want. Connect and fact, Connecticut law restricts when ALPR information may be assessed and required documentation for specific investigative searches. Concern, the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3695s)  _(term: alpr_flock, unreviewed)_
+  > ...law specifically prohibits using ALPR data for that purpose. Concern, Flock data can simply be sold or used by the vendor. Fact, Connecticut law ins- imposes...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3755s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...the public thinks that that's what the ALPRs do, but not all the cameras that you know, Flock is a brand name. So, I wanted to to clarify some of that. I stand by the um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3377s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...wrote up after I did some research briefing memorandum for all of you about ALPR technology. And really what all of this is is a position that I I wanted to make very...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3331s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...McNally put together in his report because obviously the public can't see what we see. So, it's a concern is Flock is a speed camera and the answer fact, no. ALPR systems are investigated tools...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3644s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...wanted to to clarify some of that. I stand by the um our use of Flock cameras for intelligence gathering. We are not using There's no way to determine speed of a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3385s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...>> Okay, thank you. >> And he's perfectly happy with that. >> I'll touch base. I had the Flock report. Obviously, having uh audit, monthly audit is listed in there. I'll point out...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=4400s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...Uh 44 times uh people who were registered with arrest warrants hit our Flock warrants at our Flock uh cameras. And and many times we're able to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=4593s)  _(term: alpr_flock, unreviewed)_
+  > ...identify people exercising First Amendment rights. Fact, the Connecticut law specifically prohibits using ALPR data for that purpose. Concern, Flock data can simply be sold...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3749s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
   > ...would have bet dollar for donut that there would have been audience of citizens here for Flock tonight. >> expecting it tonight. >> I was expecting it. But, I think that it...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3625s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...intelligence gathering. We are not using There's no way to determine speed of a car going by a Flock camera. Um that we have that the technology that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3391s)  _(term: alpr_flock, unreviewed)_
+  > ...>> Okay, thank you. >> And he's perfectly happy with that. >> I'll touch base. I had the Flock report. Obviously, having uh audit, monthly audit is listed in there. I'll point out...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=4400s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
+  > ...wanted to to clarify some of that. I stand by the um our use of Flock cameras for intelligence gathering. We are not using There's no way to determine speed of a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3385s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
+  > ...Uh 44 times uh people who were registered with arrest warrants hit our Flock warrants at our Flock uh cameras. And and many times we're able to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=4593s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
   > ...audit is listed in there. I'll point out that the state law requires a quarterly audit. When we took on the Flock system, we determined by policy we're going to do a monthly audit. I would rather keep...
@@ -970,12 +968,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3595s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...that we have that the technology that we're using. They're They make cameras like that, I'm sure. Flock makes a lot of different cameras, but there's a lot of ALPR technology out there and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3398s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
   > ...targeting. We have >> Well, that's my question. I My question would be our Flock cameras only work as good as everybody else having Flock cameras in their towns....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3590s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
+  > ...intelligence gathering. We are not using There's no way to determine speed of a car going by a Flock camera. Um that we have that the technology that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3391s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
+  > ...get their own they be able to go to the police department and say, "I want to know what you got on your ALPR. That's my personal information." So, I came up I've designed a form for that cuz we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3524s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
+  > ...that we have that the technology that we're using. They're They make cameras like that, I'm sure. Flock makes a lot of different cameras, but there's a lot of ALPR technology out there and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3398s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
   > ...100%. And I put together that he had now three guys the Flock LPR user report did this for uh the period of last fiscal year uh for the most part. Just to give you a...
@@ -990,16 +996,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=2269s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
+  > ...because this Let me show you last fiscal year uh we got 52 specific criminal investigations that uh Flock searches helped with, you know, were integral of in those investigations. Uh of those 23...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=4451s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
   > ...like that, I'm sure. Flock makes a lot of different cameras, but there's a lot of ALPR technology out there and uh the Deputy Chief and Lieutenant Martin went to a meeting at the Police...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3402s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...get their own they be able to go to the police department and say, "I want to know what you got on your ALPR. That's my personal information." So, I came up I've designed a form for that cuz we...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3524s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...because this Let me show you last fiscal year uh we got 52 specific criminal investigations that uh Flock searches helped with, you know, were integral of in those investigations. Uh of those 23...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=4451s)  _(term: alpr_flock, unreviewed)_
+  > ...state legislature, the governor's office, POST is doing something. All this is about the ALPRs and the Flock and everything. So, that that goal was about using enhanced data driven driven...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=2941s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
   > ...state State of Connecticut has the most stringent restrictions right now on the use of ALPR and it's going to be rolled out October 1st. The legislature already already made some some changes. So, I...
@@ -1014,44 +1020,44 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=4568s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-17] Police Commission** -- Police Commission 2026 08 17
-  > ...state legislature, the governor's office, POST is doing something. All this is about the ALPRs and the Flock and everything. So, that that goal was about using enhanced data driven driven...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=2941s)  _(term: alpr_flock, unreviewed)_
+  > ...McNally put together in his report because obviously the public can't see what we see. So, it's a concern is Flock is a speed camera and the answer fact, no. ALPR systems are investigated tools...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3644s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-21] Town Council** -- Town Council 2026 07 21
-  > ...forever. It's basically stored for one month and we can access that data for up to a month. Um, the flock does not run your license, does not check and see if your car is registered. All it knows is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8507s)  _(term: alpr_flock, unreviewed)_
+  > ...coming into our town is to commit crimes. So, what we do get is if a license plate reader comes up with a p a plate that's listed as stolen, the officers then can go into the area where...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8598s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-21] Town Council** -- Town Council 2026 07 21
-  > ...street or or people's travels. It it takes a picture. It's an LPR. It's a license plate reader. It reads that license plate and then stores that data. Um, we store the data applicable with...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8489s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-21] Town Council** -- Town Council 2026 07 21
-  > ...that was knocked over, had her shoulder, dislocated. This was right at the beginning of Flock and we were able to use the Flock data to come up with a suspect who was in Florida at the time...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8649s)  _(term: alpr_flock, unreviewed)_
+  > ...really helping out the police department have we thought about adding any more cameras to the flock uh and increasing it from 12? >> We have not at this time. What we did is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8779s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-21] Town Council** -- Town Council 2026 07 21
   > ...dislocated. This was right at the beginning of Flock and we were able to use the Flock data to come up with a suspect who was in Florida at the time and we were able to actually make an...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8652s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-21] Town Council** -- Town Council 2026 07 21
-  > ...>> And you're sure that this private company? How do you know? >> That's Flock does not own the data. The Berlin Police Department owns our data. So Lowe's owns their data. I don't know...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8857s)  _(term: alpr_flock, unreviewed)_
+  > ...plate that's listed as stolen, the officers then can go into the area where that flock hit was developed and we can look for the vehicle, find it, and then to be honest, we're basically displacing...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8606s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-21] Town Council** -- Town Council 2026 07 21
+  > ...take a motion. >> Move to approve waving the town's bidding requirements for flock systems and equipment using funds as available in the equipment maintenance up to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=9092s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-21] Town Council** -- Town Council 2026 07 21
   > ...>> Um, >> or does it just >> only certain people can look for flock data? Okay. >> So, you'd have to get that from dispatch...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8736s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-21] Town Council** -- Town Council 2026 07 21
-  > ...plate that's listed as stolen, the officers then can go into the area where that flock hit was developed and we can look for the vehicle, find it, and then to be honest, we're basically displacing...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8606s)  _(term: alpr_flock, unreviewed)_
+  > ...forever. It's basically stored for one month and we can access that data for up to a month. Um, the flock does not run your license, does not check and see if your car is registered. All it knows is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8507s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-21] Town Council** -- Town Council 2026 07 21
   > ...>> Number eight. So, this is again this is an annual request. If you remember, last year the council approved the the flock camera system uh for the police department which I believe has been...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8429s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-21] Town Council** -- Town Council 2026 07 21
-  > ...really helping out the police department have we thought about adding any more cameras to the flock uh and increasing it from 12? >> We have not at this time. What we did is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8779s)  _(term: alpr_flock, unreviewed)_
+  > ...>> And you're sure that this private company? How do you know? >> That's Flock does not own the data. The Berlin Police Department owns our data. So Lowe's owns their data. I don't know...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8857s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-21] Town Council** -- Town Council 2026 07 21
   > ...listed as missing or endangered. We've had at least two people in town that we um came up with an alert on flock. The officers were able to find the vehicle, stop them, and they were elderly people...
@@ -1062,44 +1068,52 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8458s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-21] Town Council** -- Town Council 2026 07 21
-  > ...coming into our town is to commit crimes. So, what we do get is if a license plate reader comes up with a p a plate that's listed as stolen, the officers then can go into the area where...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8598s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-21] Town Council** -- Town Council 2026 07 21
   > ...>> You're welcome. >> Very flock presented how they're not sharing with the retail customers. When this was...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8815s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-21] Town Council** -- Town Council 2026 07 21
-  > ...take a motion. >> Move to approve waving the town's bidding requirements for flock systems and equipment using funds as available in the equipment maintenance up to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=9092s)  _(term: alpr_flock, unreviewed)_
+  > ...street or or people's travels. It it takes a picture. It's an LPR. It's a license plate reader. It reads that license plate and then stores that data. Um, we store the data applicable with...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8489s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
-  > ...actually put it on their phones. And if a vehicle, for instance, a stolen vehicle drives in our town, Flock alerts it. They get the alert on their phone. And what we do is the officers all go...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=891s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
-  > ...something like that. >> But, the speed cameras don't do what Flock does. The speed cameras would not have saved this person. >> No....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=1914s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
-  > ...>> The one in the >> And that was one of our first successes with Flock. And that was before we had any Flock cameras. That was on other people's Flock cameras....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=781s)  _(term: alpr_flock, unreviewed)_
+- **[2026-07-21] Town Council** -- Town Council 2026 07 21
+  > ...that was knocked over, had her shoulder, dislocated. This was right at the beginning of Flock and we were able to use the Flock data to come up with a suspect who was in Florida at the time...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EKJDEcPG5P4&t=8649s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
   > ...person who's the uh, obviously elderly who was alerted by a Flock. But, the missing person uh, they had dementia and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=1875s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
-  > ...a blurb on the news about some police officer who came forward and said that Flock is doing the cameras are doing all this overt surveillance and everything....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=848s)  _(term: alpr_flock, unreviewed)_
+  > ...>> The one in the >> And that was one of our first successes with Flock. And that was before we had any Flock cameras. That was on other people's Flock cameras....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=781s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
-  > ...>> Mhm. >> I did I did follow that uh, that you again on June 6th with Flock so we joined and had a mission to stop a motorcycle traveling over 100 miles an...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=1935s)  _(term: alpr_flock, unreviewed)_
+  > ...with Flock. And that was before we had any Flock cameras. That was on other people's Flock cameras. >> Was that the trial period we had? >> That was the trial period and we tracked...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=785s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
   > ...like to stress to the public there's a big difference between the Flock camera and the speeding cameras that you'll find in our neighboring town....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=1891s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
+  > ...actually put it on their phones. And if a vehicle, for instance, a stolen vehicle drives in our town, Flock alerts it. They get the alert on their phone. And what we do is the officers all go...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=891s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
+  > ...>> And that's what we need and that's you know, if we want to you know, advertising Flock, it's it's these stories needing to get out there. And you know, all to the extent that any of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=1919s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
+  > ...a blurb on the news about some police officer who came forward and said that Flock is doing the cameras are doing all this overt surveillance and everything....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=848s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
+  > ...something like that. >> But, the speed cameras don't do what Flock does. The speed cameras would not have saved this person. >> No....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=1914s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
+  > ...>> Mhm. >> I did I did follow that uh, that you again on June 6th with Flock so we joined and had a mission to stop a motorcycle traveling over 100 miles an...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=1935s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
   > ...>> And that was one of our first successes with Flock. And that was before we had any Flock cameras. That was on other people's Flock cameras. >> Was that the trial period we had?...
@@ -1110,16 +1124,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=812s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
-  > ...>> And that's what we need and that's you know, if we want to you know, advertising Flock, it's it's these stories needing to get out there. And you know, all to the extent that any of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=1919s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
   > ...>> Yeah. >> [snorts and clears throat] >> Flock has been getting increasingly negative press. >> Oh, really?...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=799s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-15] Police Commission** -- Police Commission 2026 07 15
-  > ...with Flock. And that was before we had any Flock cameras. That was on other people's Flock cameras. >> Was that the trial period we had? >> That was the trial period and we tracked...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kt8efrU5wHE&t=785s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-05-20] Police Commission** -- Police Commission 05-20-2026
   > ...effect in October I believe. A lot of those I've already talked with Flock um and they're obviously going to work to put those legislative changes right into...
@@ -1128,10 +1134,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2026-05-20] Police Commission** -- Police Commission 05-20-2026
   > ...Very good. So, moving on from uh Lieutenant Is there anything on the Flock report saying is that kind of in your review? Um no, the audit is attached in there. Uh nothing new there....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QeTewQH33cI&t=4752s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-15] Police Commission** -- Police Commission 2026-04-15
-  > ...resulted in the apprehension of someone who's fleeing that resulted in the assistance of Flock so it's not being used for inappropriate purposes you know as one example you have someone...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=sid2yPsEPFI&t=1982s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-15] Police Commission** -- Police Commission 2026-04-15
   > ...for is because they're coming here to commit crimes So Exactly stolen We get them on the Flock everybody swarms into the area they see us they take off And and again just to echo...
@@ -1145,37 +1147,41 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...Great case from another great officer who again this month Yeah a lot of Flock hits basically what they're doing is the shifts are all watching the Flock as...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=sid2yPsEPFI&t=2009s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-03-18] Police Commission** -- Police Commission 2026-03-18
-  > ...>> We act, just to piggyback on that, we have a um a FOI that we had turned down in December for flock from a party who has since filed an appeal with the um FOI commission. They uh I talked to Jeff...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=38eotQBP-JQ&t=8420s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-18] Police Commission** -- Police Commission 2026-03-18
-  > ...>> How about someone who engages us in pursuit? We can't pursue them. Why shouldn't we be able to use flock to go catch them? I know these are alternative tools....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=38eotQBP-JQ&t=8579s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-18] Police Commission** -- Police Commission 2026-03-18
-  > ...there's a lot of work going into trying to attract the groups involved in that. Um, we've had uh flock success here with a Bobcat skid steer door which was uh stolen off of uh construction equipment...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=38eotQBP-JQ&t=8083s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-18] Police Commission** -- Police Commission 2026-03-18
-  > ...that >> is that property of the town of Berlin or is it of the flock company? Because if it's not so record maintain the question is is the FYI commission is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=38eotQBP-JQ&t=8475s)  _(term: alpr_flock, unreviewed)_
+- **[2026-04-15] Police Commission** -- Police Commission 2026-04-15
+  > ...resulted in the apprehension of someone who's fleeing that resulted in the assistance of Flock so it's not being used for inappropriate purposes you know as one example you have someone...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=sid2yPsEPFI&t=1982s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-18] Police Commission** -- Police Commission 2026-03-18
   > ...>> My question, I know we've talked about this before. Maybe I'm just not remembering. The flock camera footage is that >> is that property of the town of Berlin...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=38eotQBP-JQ&t=8470s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-18] Police Commission** -- Police Commission 2026-03-18
+  > ...that >> is that property of the town of Berlin or is it of the flock company? Because if it's not so record maintain the question is is the FYI commission is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=38eotQBP-JQ&t=8475s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-18] Police Commission** -- Police Commission 2026-03-18
+  > ...>> We act, just to piggyback on that, we have a um a FOI that we had turned down in December for flock from a party who has since filed an appeal with the um FOI commission. They uh I talked to Jeff...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=38eotQBP-JQ&t=8420s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-18] Police Commission** -- Police Commission 2026-03-18
+  > ...there's a lot of work going into trying to attract the groups involved in that. Um, we've had uh flock success here with a Bobcat skid steer door which was uh stolen off of uh construction equipment...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=38eotQBP-JQ&t=8083s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-18] Police Commission** -- Police Commission 2026-03-18
   > ...budsman. But this person uh using multiple aliases of course is um going to every agency that has flock and asking for specific pictures but you don't get pictures. So that's coming up...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=38eotQBP-JQ&t=8443s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-02-18] Police Commission** -- Police Commission Special Meeting 2026 02 18
-  > ...make sure I get everyone to update their outcomes because the guys are using Flock um pretty regularly. Um but I in order to track the leads that are generated and the arrests that we're...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=D2WBUN6SSs0&t=2921s)  _(term: alpr_flock, unreviewed)_
+- **[2026-03-18] Police Commission** -- Police Commission 2026-03-18
+  > ...>> How about someone who engages us in pursuit? We can't pursue them. Why shouldn't we be able to use flock to go catch them? I know these are alternative tools....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=38eotQBP-JQ&t=8579s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-18] Police Commission** -- Police Commission Special Meeting 2026 02 18
   > ...>> We have renovation radio. The renovations of radio. >> What about flock? >> Flock is a big one, too. >> This list is getting long,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=D2WBUN6SSs0&t=648s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-18] Police Commission** -- Police Commission Special Meeting 2026 02 18
+  > ...make sure I get everyone to update their outcomes because the guys are using Flock um pretty regularly. Um but I in order to track the leads that are generated and the arrests that we're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=D2WBUN6SSs0&t=2921s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-18] Police Commission** -- Police Commission Special Meeting 2026 02 18
   > ...to the victim of that. Um, and secondly, I want to say uh uh thank you for the flock update. It's I'm glad to see that it's working well. It's an very important tool for the town and I'm glad...
@@ -1190,24 +1196,28 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=AQe3zisYwT4&t=2472s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-17] Police Commission** -- Police Commission 2025 12 17
-  > ...hit down in Clenbury and then they were coming toward Burlin. They actually hit on one of our flock cameras which is right near Home Depot. Um, so I had gotten on the phone immediately with the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AQe3zisYwT4&t=2361s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-12-17] Police Commission** -- Police Commission 2025 12 17
   > ...of the vehicles drove at them. So hopefully that case will get resolved. >> Another case assisted by flock by the way. >> Right....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=AQe3zisYwT4&t=2462s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-12-17] Police Commission** -- Police Commission 2025 12 17
+  > ...hit down in Clenbury and then they were coming toward Burlin. They actually hit on one of our flock cameras which is right near Home Depot. Um, so I had gotten on the phone immediately with the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AQe3zisYwT4&t=2361s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-19] Police Commission** -- Police Commission 2025 11 19 Part 1
   > ...very very good by the PD and the commission uh to institute Flock um on October 29th Flock ended up uh being utilized to arrest someone for a felony warrant for burglary lararseny that you...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tvS4SHP6m-Y&t=3152s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-19] Police Commission** -- Police Commission 2025 11 19 Part 1
+  > ...point and I think a decision that was very very good by the PD and the commission uh to institute Flock um on October 29th Flock ended up uh being utilized to arrest someone for a felony...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tvS4SHP6m-Y&t=3148s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-11-19] Police Commission** -- Police Commission 2025 11 19 Part 1
   > ...don't necessarily want in our town. Um so I just want to commend um you know everybody here for supporting flock specifically the the chief in the department for pursuing it and then most...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tvS4SHP6m-Y&t=3173s)  _(term: alpr_flock, unreviewed)_
 
-- **[2025-11-19] Police Commission** -- Police Commission 2025 11 19 Part 1
-  > ...point and I think a decision that was very very good by the PD and the commission uh to institute Flock um on October 29th Flock ended up uh being utilized to arrest someone for a felony...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tvS4SHP6m-Y&t=3148s)  _(term: alpr_flock, unreviewed)_
+- **[2025-10-15] Police Commission** -- Police Commission 2025 10 15
+  > ...see that. And then uh this is just some some statistics from our first full month using the flock cameras. Uh filtered out some of uh some of the alerts that we're not interested in like...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J20zYeK7wpM&t=764s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-10-15] Police Commission** -- Police Commission 2025 10 15
   > ...>> I mean, really, there's only two options, the first and second right now. >> He's going to do a quick flock thing, then you can speak and then you're done. 28....
@@ -1221,13 +1231,9 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...transparency obviously is important with this uh this technology. So I've been working with flock safety for uh they have a transparency portal that we uh are setting up and what it what it is....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J20zYeK7wpM&t=901s)  _(term: alpr_flock, unreviewed)_
 
-- **[2025-10-15] Police Commission** -- Police Commission 2025 10 15
-  > ...see that. And then uh this is just some some statistics from our first full month using the flock cameras. Uh filtered out some of uh some of the alerts that we're not interested in like...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J20zYeK7wpM&t=764s)  _(term: alpr_flock, unreviewed)_
-
 - **[2025-09-17] Police Commission** -- Police Commission 2025 09 17
-  > ...work. I think if you just write up >> just a one two page write up >> what is flock is blah blah blah. What are license plate readers? you know, how are these used by the department? You...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ccOsWuDyVqo&t=1616s)  _(term: alpr_flock, unreviewed)_
+  > ...this is license plate reader technology. I don't really like using the specific brand um brand is not important. License plate reader is a license plate reader. um like in that case West he's talking...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ccOsWuDyVqo&t=1559s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-09-17] Police Commission** -- Police Commission 2025 09 17
   > ...>> I think it's important to note too when we're talking about this technology, this is license plate reader technology. I don't really like using the specific brand um brand is not important. License...
@@ -1241,13 +1247,17 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...I don't really like using the specific brand um brand is not important. License plate reader is a license plate reader. um like in that case West he's talking about um these companies have pockets so...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ccOsWuDyVqo&t=1562s)  _(term: alpr_flock, unreviewed)_
 
-- **[2025-06-18] Police Commission** -- Police Commission 2025 06 18
-  > ...Southernington Police Department. They're another Kala accredited uh law enerson agency using flock system and I took their policy and just revamped it for our use....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=iJ_A9RZQBlw&t=198s)  _(term: alpr_flock, unreviewed)_
+- **[2025-09-17] Police Commission** -- Police Commission 2025 09 17
+  > ...work. I think if you just write up >> just a one two page write up >> what is flock is blah blah blah. What are license plate readers? you know, how are these used by the department? You...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ccOsWuDyVqo&t=1616s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-06-18] Police Commission** -- Police Commission 2025 06 18
   > ...well. We update outcomes so we can report all the positive outcomes that we have due to flock hits. Um when they help solve cases when we don't help solve cases so we can justify...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=iJ_A9RZQBlw&t=276s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-06-18] Police Commission** -- Police Commission 2025 06 18
+  > ...Southernington Police Department. They're another Kala accredited uh law enerson agency using flock system and I took their policy and just revamped it for our use....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=iJ_A9RZQBlw&t=198s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-06-18] Police Commission** -- Police Commission 2025 06 18
   > ...of heads small too that part of that. Yeah, there's there's all kinds of um data reports that come flock system as well. We update outcomes so we can report all the positive outcomes that we...
@@ -1258,6 +1268,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=BAiLr-DpxLA&t=1809s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-05-20] Town Council** -- Town Council 2025 05 20
+  > ...signing of that. Drew, do you want to Yeah, this is uh basically what happens is Flock is already in the process of getting approvals to put up all the cameras um that we would need to install...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BAiLr-DpxLA&t=1797s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-05-20] Town Council** -- Town Council 2025 05 20
   > ...town manager to sign a DOT maintenance agreement authorizing the installation of flock cameras on state roads. Thank you. Second. Second. Thank you. Hearing no other comments or questions? All...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=BAiLr-DpxLA&t=1850s)  _(term: alpr_flock, unreviewed)_
 
@@ -1265,25 +1279,17 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...getting approvals to put up all the cameras um that we would need to install as a part of the Flock process. And this is just one step in that process. Really, Flock does all the work. All we...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=BAiLr-DpxLA&t=1804s)  _(term: alpr_flock, unreviewed)_
 
-- **[2025-05-20] Town Council** -- Town Council 2025 05 20
-  > ...signing of that. Drew, do you want to Yeah, this is uh basically what happens is Flock is already in the process of getting approvals to put up all the cameras um that we would need to install...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BAiLr-DpxLA&t=1797s)  _(term: alpr_flock, unreviewed)_
-
 - **[2025-04-16] Police Commission** -- Police Commission 2025 04 16
   > ...where this vehicle left and came in from town which we will correct that when our flock is up. Um, however, having said that, um, we were able to with the press releases we sent out, we were able to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Mco9gSzcdtU&t=2239s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-19] Police Commission** -- Police Commission 2025-03-19
+  > ...appearance of the potential abuse and maybe some teas. I spent my night last night with the flock people. Yeah. It's too soon to do it now because who knows what could happen. But there was...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Clty_au18zo&t=1439s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-03-19] Police Commission** -- Police Commission 2025-03-19
   > ...town. We could have searched the time frame just prior to that because we searched flock but we don't have any cameras in Berlin and we didn't have any where that town where that car entered...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Clty_au18zo&t=1544s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-03-19] Police Commission** -- Police Commission 2025-03-19
-  > ...at this time on this date. And I mean, that's really really what it does. But like, if we had had the flock data, we would have already had that car entering town. We could have searched the time...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Clty_au18zo&t=1536s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-03-19] Police Commission** -- Police Commission 2025-03-19
-  > ...happened on it and they just they're going to take and sell this information. I think there was a police that flock the data. They actually do not. We as the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Clty_au18zo&t=1664s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-19] Police Commission** -- Police Commission 2025-03-19
   > ...know, handled judiciously. So, and the nice thing essentially about the the the flock data is you're not getting anyone's personal information from it. It's just the plate and the picture of...
@@ -1294,28 +1300,32 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Clty_au18zo&t=1580s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-19] Police Commission** -- Police Commission 2025-03-19
-  > ...appearance of the potential abuse and maybe some teas. I spent my night last night with the flock people. Yeah. It's too soon to do it now because who knows what could happen. But there was...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Clty_au18zo&t=1439s)  _(term: alpr_flock, unreviewed)_
+  > ...at this time on this date. And I mean, that's really really what it does. But like, if we had had the flock data, we would have already had that car entering town. We could have searched the time...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Clty_au18zo&t=1536s)  _(term: alpr_flock, unreviewed)_
 
-- **[2025-03-18] Town Council** -- Town Council 2025 03 18
-  > ...for both the Town Council and the finance board at this point for the flock technology we have an opportunity if we sign the contract with flock in the next 30 days and that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2294s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-03-18] Town Council** -- Town Council 2025 03 18
-  > ...chief to sign that contract we would get $155,000 off the total cost for the first year of the flock technology there's also an opt out clause so if the funding did fall...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2314s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-03-18] Town Council** -- Town Council 2025 03 18
-  > ...clause so if the funding did fall through and not become available for the flock technology then the contract would just be null and void um and nothing else...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2323s)  _(term: alpr_flock, unreviewed)_
+- **[2025-03-19] Police Commission** -- Police Commission 2025-03-19
+  > ...happened on it and they just they're going to take and sell this information. I think there was a police that flock the data. They actually do not. We as the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Clty_au18zo&t=1664s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-18] Town Council** -- Town Council 2025 03 18
   > ...good see that's good that's right all right next up is agenda item two and this is in regards to the flock camera and this is the contract you you may recall uh we've had presentations in the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2263s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-18] Town Council** -- Town Council 2025 03 18
-  > ...yeah good okay so uh take a motion move to authorize the chief of police to sign the current flock agreement allowing the town to take advantage of $15,000 savings by signing the contract...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2549s)  _(term: alpr_flock, unreviewed)_
+  > ...clause so if the funding did fall through and not become available for the flock technology then the contract would just be null and void um and nothing else...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2323s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-03-18] Town Council** -- Town Council 2025 03 18
+  > ...you you go you have your flock cameras we can allow surrounding times to surrounding towns that also have flock to access our data as well and so we share data in that way we become part of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2464s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-03-18] Town Council** -- Town Council 2025 03 18
+  > ...chief to sign that contract we would get $155,000 off the total cost for the first year of the flock technology there's also an opt out clause so if the funding did fall...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2314s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-03-18] Town Council** -- Town Council 2025 03 18
+  > ...who's the actual owner of the data the owner of the data the data is contained within the flock system it can only be accessed by authorized law enforcement um who is part of the flock...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2446s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-18] Town Council** -- Town Council 2025 03 18
   > ...flock technology we have an opportunity if we sign the contract with flock in the next 30 days and that window is is closing um if we if if you authorize the...
@@ -1326,24 +1336,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2492s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-18] Town Council** -- Town Council 2025 03 18
-  > ...who's the actual owner of the data the owner of the data the data is contained within the flock system it can only be accessed by authorized law enforcement um who is part of the flock...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2446s)  _(term: alpr_flock, unreviewed)_
+  > ...after that um but that the cameras themselves and the system is owned by flock we just lease it and the data is contained within the flock system it's it's you don't really maintain ownership...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2489s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-18] Town Council** -- Town Council 2025 03 18
   > ...contained within the flock system it can only be accessed by authorized law enforcement um who is part of the flock Network and so what we can do is when you you go you have your flock cameras...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2451s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-18] Town Council** -- Town Council 2025 03 18
-  > ...you you go you have your flock cameras we can allow surrounding times to surrounding towns that also have flock to access our data as well and so we share data in that way we become part of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2464s)  _(term: alpr_flock, unreviewed)_
+  > ...for both the Town Council and the finance board at this point for the flock technology we have an opportunity if we sign the contract with flock in the next 30 days and that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2294s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-03-18] Town Council** -- Town Council 2025 03 18
+  > ...yeah good okay so uh take a motion move to authorize the chief of police to sign the current flock agreement allowing the town to take advantage of $15,000 savings by signing the contract...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2549s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-18] Town Council** -- Town Council 2025 03 18
   > ...enforcement um who is part of the flock Network and so what we can do is when you you go you have your flock cameras we can allow surrounding times to surrounding towns that also have flock...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2458s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-03-18] Town Council** -- Town Council 2025 03 18
-  > ...after that um but that the cameras themselves and the system is owned by flock we just lease it and the data is contained within the flock system it's it's you don't really maintain ownership...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yKtI7t7jdBU&t=2489s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-12] Board of Finance** -- 3 12 2025 Board of Finance Budget Meeting #4
   > ...and then the uh money that came off from the the flock system what about at this point moving the other two Cruisers over to that $2.6...
@@ -1358,20 +1368,32 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LQeWMyHnfBQ&t=202s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-06] Board of Finance** -- 3 6 2025 Board of Finance Budget Meeting #2
+  > ...truck didn't see his license plate only saw what kind of car it was so through the flock search we got numerous hits on that type of vehicle in nearby towns which we thought was a likely candidate...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=3108s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-03-06] Board of Finance** -- 3 6 2025 Board of Finance Budget Meeting #2
   > ...it because it wouldn't take a picture well a lot a lot of other towns have the flock too as well so you can input a plate into it and see if that's hit on any of the other other it's capturing...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=3363s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-06] Board of Finance** -- 3 6 2025 Board of Finance Budget Meeting #2
-  > ...truck didn't see his license plate only saw what kind of car it was so through the flock search we got numerous hits on that type of vehicle in nearby towns which we thought was a likely candidate...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=3108s)  _(term: alpr_flock, unreviewed)_
+  > ...this is system with yeah this is even and I'm no salesman for flock I'm I'm a Salesman for being able to get the information that my investigators need to solve...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=3217s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-06] Board of Finance** -- 3 6 2025 Board of Finance Budget Meeting #2
   > ...I need it back as part of an active investigation so that is the information that we actually get from A Flock safety camera um capture uh it captures the finger print if you will of a vehicle it...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=2975s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-06] Board of Finance** -- 3 6 2025 Board of Finance Budget Meeting #2
+  > ...if it's close to us then there's a possibility maybe that's our vehicle um I could tell you if we did have a flock camera our suspect vehicle would have driven right by one of the locations...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=3078s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-03-06] Board of Finance** -- 3 6 2025 Board of Finance Budget Meeting #2
   > ...bottom so yeah you're absolutely right before we move on I just wanted to talk about the flock safety um I know it's the smallest item so maybe no is too interested in it um so it's listed...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=2903s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-03-06] Board of Finance** -- 3 6 2025 Board of Finance Budget Meeting #2
+  > ...that suspect vehicle in the day but we wouldn't normally have access to that that flock information except that they granted us because we're so we have a trial accident never would have gotten I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=3236s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-06] Board of Finance** -- 3 6 2025 Board of Finance Budget Meeting #2
   > ...have uh what that money would be spent and what would be what we get for it but basically the flock safety cameras are License Plate Reader cameras that are placed throughout the community um at...
@@ -1381,89 +1403,81 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...and what would be what we get for it but basically the flock safety cameras are License Plate Reader cameras that are placed throughout the community um at strategic locations...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=2948s)  _(term: alpr_flock, unreviewed)_
 
-- **[2025-03-06] Board of Finance** -- 3 6 2025 Board of Finance Budget Meeting #2
-  > ...if it's close to us then there's a possibility maybe that's our vehicle um I could tell you if we did have a flock camera our suspect vehicle would have driven right by one of the locations...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=3078s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-03-06] Board of Finance** -- 3 6 2025 Board of Finance Budget Meeting #2
-  > ...that suspect vehicle in the day but we wouldn't normally have access to that that flock information except that they granted us because we're so we have a trial accident never would have gotten I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=3236s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-03-06] Board of Finance** -- 3 6 2025 Board of Finance Budget Meeting #2
-  > ...this is system with yeah this is even and I'm no salesman for flock I'm I'm a Salesman for being able to get the information that my investigators need to solve...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=3217s)  _(term: alpr_flock, unreviewed)_
+- **[2025-02-19] Police Commission** -- Police Commission 2025 02 19
+  > ...that's what is there like 12 different things you can do but we'll use two of three oh on the flock system yeah correct right all right moving on to thank you...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JyvvulKNKmo&t=3864s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-19] Police Commission** -- Police Commission 2025 02 19
   > ...so it's not where they said it was any so the only way is if it's parked is the only way plus we don't have flock so we're not getting real time well no seriously like if they drive...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JyvvulKNKmo&t=3951s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-02-19] Police Commission** -- Police Commission 2025 02 19
-  > ...that's what is there like 12 different things you can do but we'll use two of three oh on the flock system yeah correct right all right moving on to thank you...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JyvvulKNKmo&t=3864s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-18] Town Council** -- Town Council 2025 02 18
   > ...of surrounding departments are using and some of the information we're getting is coming from other departments from flock cameras but it's uh a significant delay by the time we get it and I Lieutenant...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1042s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-18] Town Council** -- Town Council 2025 02 18
-  > ...give you a brief presentation on the flat cameras and I believe we have a representative also from flock on uh zoom in case uh we need that for questions as...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1055s)  _(term: alpr_flock, unreviewed)_
+  > ...asking no not yet hi Jonathan pass here with flock safety uh here to help answer questions uh this is not for traffic enforcement not...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1511s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-18] Town Council** -- Town Council 2025 02 18
   > ...is here to talk about uh the police department and the need for uh cameras these are uh what are called flock cameras and there uh is a request for 12 of them to be installed uh throughout...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1005s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-18] Town Council** -- Town Council 2025 02 18
-  > ...open case uh open robbery case from 2024 where we developed a suspect from A Flock hit from another agency um this was a robbery that occurred within Berlin and our investigations uh led to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1280s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-02-18] Town Council** -- Town Council 2025 02 18
   > ...they look get those after if you want just some literature from the uh the company flock safety Max winstein is on uh if we need him I don't believe we will but any technical questions I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1073s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-02-18] Town Council** -- Town Council 2025 02 18
+  > ...give you a brief presentation on the flat cameras and I believe we have a representative also from flock on uh zoom in case uh we need that for questions as...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1055s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-18] Town Council** -- Town Council 2025 02 18
   > ...was a robbery that occurred within Berlin and our investigations uh led to a flock hit on a similar vehicle in another agency which was able to identify a suspect Who currently working...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1288s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-18] Town Council** -- Town Council 2025 02 18
-  > ...asking no not yet hi Jonathan pass here with flock safety uh here to help answer questions uh this is not for traffic enforcement not...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1511s)  _(term: alpr_flock, unreviewed)_
+  > ...open case uh open robbery case from 2024 where we developed a suspect from A Flock hit from another agency um this was a robbery that occurred within Berlin and our investigations uh led to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1280s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-18] Town Council** -- Town Council 2025 02 18
-  > ...well there's been uh several cases that Southerton has been very um active using flock cameras they've solved many burglaries robberies uh over the past year or two they're kind of the the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1255s)  _(term: alpr_flock, unreviewed)_
+  > ...subscription based service I I would say it's kind of a lease uh where each vehicle is still owned by flock by the town of Berlin the town of Berlin is is owning...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1594s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-18] Town Council** -- Town Council 2025 02 18
   > ...these are cameras are placed at locations that we've identified along with flock safety it would give immediate alerts to dispatch and our officers on the road that a stolen motor...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1202s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-18] Town Council** -- Town Council 2025 02 18
-  > ...vehicle crashes uh what LPR technology uh is is these are strategically placed License Plate Reader cameras um positioned throughout Town strategic manner to collect uh instant photographs...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1158s)  _(term: alpr_flock, unreviewed)_
+  > ...well there's been uh several cases that Southerton has been very um active using flock cameras they've solved many burglaries robberies uh over the past year or two they're kind of the the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1255s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-18] Town Council** -- Town Council 2025 02 18
-  > ...subscription based service I I would say it's kind of a lease uh where each vehicle is still owned by flock by the town of Berlin the town of Berlin is is owning...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1594s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-02-11] Conservation Commission** -- Conservation Commission   2025 02 11
-  > ...believe she's also been telling people that includes a second flock if they haven't had a second flock before those are getting we'll get aside have more opportunity for more...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1_68_G8vfw&t=2433s)  _(term: alpr_flock, unreviewed)_
+  > ...vehicle crashes uh what LPR technology uh is is these are strategically placed License Plate Reader cameras um positioned throughout Town strategic manner to collect uh instant photographs...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JXsUxT-Tt5o&t=1158s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-11] Conservation Commission** -- Conservation Commission   2025 02 11
   > ...they receed and we've been telling um I believe she's also been telling people that includes a second flock if they haven't had a second flock before those are getting we'll get...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1_68_G8vfw&t=2431s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-02-11] Conservation Commission** -- Conservation Commission   2025 02 11
+  > ...believe she's also been telling people that includes a second flock if they haven't had a second flock before those are getting we'll get aside have more opportunity for more...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1_68_G8vfw&t=2433s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-01-15] Police Commission** -- Police Commission 2025 01 15
   > ...to the rank you know a lot of that information that thect passing around too it's com with flock info yeah and unfortunately we will be h a curve on that we have put into the capital budget...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DyirlDaeti8&t=1832s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-01-15] Police Commission** -- Police Commission 2025 01 15
+  > ...unfortunately we will be h a curve on that we have put into the capital budget to for with that flock St a lot of those hits are coming from flock around on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DyirlDaeti8&t=1840s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-01-15] Police Commission** -- Police Commission 2025 01 15
   > ...that we have put into the capital budget to for with that flock St a lot of those hits are coming from flock around on thaten cars down in Gren area and those...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DyirlDaeti8&t=1842s)  _(term: alpr_flock, unreviewed)_
 
-- **[2025-01-15] Police Commission** -- Police Commission 2025 01 15
-  > ...unfortunately we will be h a curve on that we have put into the capital budget to for with that flock St a lot of those hits are coming from flock around on...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DyirlDaeti8&t=1840s)  _(term: alpr_flock, unreviewed)_
+- **[2024-12-18] Police Commission** -- Police Commission 2024 12 18
+  > ...back every year and can this come from that can we absorb it into our budget the cost of the flock Hammer system or do we have to go to town counc um Delaney was working on that I don't...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Yd2CnxNR4ac&t=1089s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-12-18] Police Commission** -- Police Commission 2024 12 18
   > ...he combined the two I the two things I sent him so so on page two I see the flock Els being budged 25 26 budget year 2526 now what kind of surplus have we run...
@@ -1473,45 +1487,45 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...asked yeah but I asked him about yeah you could ask them yeah if not we already told flock that it wasn't going to happen in this current budget cycle so it would have to be in the future...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Yd2CnxNR4ac&t=1113s)  _(term: alpr_flock, unreviewed)_
 
-- **[2024-12-18] Police Commission** -- Police Commission 2024 12 18
-  > ...back every year and can this come from that can we absorb it into our budget the cost of the flock Hammer system or do we have to go to town counc um Delaney was working on that I don't...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Yd2CnxNR4ac&t=1089s)  _(term: alpr_flock, unreviewed)_
-
-- **[2024-11-20] Police Commission** -- Police Commission 2024 11 20
-  > ...well so we're really with our line item budgets um we talked about increasing the budget next year to cover flock if we if we are agreed that we're going to do that and um the we talked a little...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Zy5tBLExhNo&t=3362s)  _(term: alpr_flock, unreviewed)_
-
 - **[2024-11-20] Police Commission** -- Police Commission 2024 11 20
   > ...picking up we got where they were yes there there's also businesses that have flock cameras like I believe lo oh really Lowe's has them in all their businesses and they share their...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Zy5tBLExhNo&t=345s)  _(term: alpr_flock, unreviewed)_
 
-- **[2024-10-16] Police Commission** -- Police Commission 2024 10 16
-  > ...ultimately we would need about 10 to 12 cameras to cover our town appropriately if we were looking at the flock system it would cost approximately $40,000 a year so if we started this year with...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cSgFIvEkODQ&t=843s)  _(term: alpr_flock, unreviewed)_
-
-- **[2024-10-16] Police Commission** -- Police Commission 2024 10 16
-  > ...last month um it was brought about doing the LPR camera like I have flock listed as a system I understand and you talked today with Motorola they also have something that's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cSgFIvEkODQ&t=689s)  _(term: alpr_flock, unreviewed)_
+- **[2024-11-20] Police Commission** -- Police Commission 2024 11 20
+  > ...well so we're really with our line item budgets um we talked about increasing the budget next year to cover flock if we if we are agreed that we're going to do that and um the we talked a little...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Zy5tBLExhNo&t=3362s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-10-16] Police Commission** -- Police Commission 2024 10 16
   > ...46 to 48 um the next thing we talked about is the flock plate plate readers for lack of a better term it could be any company but we're looking at plate readers and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cSgFIvEkODQ&t=738s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-10-16] Police Commission** -- Police Commission 2024 10 16
+  > ...last month um it was brought about doing the LPR camera like I have flock listed as a system I understand and you talked today with Motorola they also have something that's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cSgFIvEkODQ&t=689s)  _(term: alpr_flock, unreviewed)_
+
+- **[2024-10-16] Police Commission** -- Police Commission 2024 10 16
   > ...to include that in the budget and even if we do some cameras so basically the analysis we got from flock was that they were suggesting that we have a total of 10 to 12 cameras those cameras would...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cSgFIvEkODQ&t=801s)  _(term: alpr_flock, unreviewed)_
 
+- **[2024-10-16] Police Commission** -- Police Commission 2024 10 16
+  > ...ultimately we would need about 10 to 12 cameras to cover our town appropriately if we were looking at the flock system it would cost approximately $40,000 a year so if we started this year with...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cSgFIvEkODQ&t=843s)  _(term: alpr_flock, unreviewed)_
+
 - **[2024-09-18] Police Commission** -- Police Commission 09 18 2024
-  > ...a be a yearly fee so it you know day oh they're gonna be there we besides flock is a recor right yeah yeah but flock is what everybody around this is I think recor is actually better but flock...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zUIfaFq1Upw&t=1672s)  _(term: alpr_flock, unreviewed)_
+  > ...have flock cameras like like you wouldn't know it but like a Target might have a flock camera so someone goes into a Target parking lot it'll tell you where it is so flock well that's the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zUIfaFq1Upw&t=1566s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-09-18] Police Commission** -- Police Commission 09 18 2024
   > ...have a flock camera so someone goes into a Target parking lot it'll tell you where it is so flock well that's the company yeah so I think it's like 50 grand for 10 cameras that's the minimum...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zUIfaFq1Upw&t=1570s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-09-18] Police Commission** -- Police Commission 09 18 2024
-  > ...flock is a recor right yeah yeah but flock is what everybody around this is I think recor is actually better but flock you get the Nationwide access so it's kind of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zUIfaFq1Upw&t=1677s)  _(term: alpr_flock, unreviewed)_
+  > ...day oh they're gonna be there we besides flock is a recor right yeah yeah but flock is what everybody around this is I think recor is actually better but flock you get the Nationwide access so it's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zUIfaFq1Upw&t=1675s)  _(term: alpr_flock, unreviewed)_
+
+- **[2024-09-18] Police Commission** -- Police Commission 09 18 2024
+  > ...a be a yearly fee so it you know day oh they're gonna be there we besides flock is a recor right yeah yeah but flock is what everybody around this is I think recor is actually better but flock...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zUIfaFq1Upw&t=1672s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-09-18] Police Commission** -- Police Commission 09 18 2024
   > ...and you know you buy the cameras but it's not limited to your cameras it's every flock system Across the Nation you have access to and a lot of businesses have flock cameras like like you...
@@ -1522,12 +1536,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zUIfaFq1Upw&t=1563s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-09-18] Police Commission** -- Police Commission 09 18 2024
-  > ...day oh they're gonna be there we besides flock is a recor right yeah yeah but flock is what everybody around this is I think recor is actually better but flock you get the Nationwide access so it's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zUIfaFq1Upw&t=1675s)  _(term: alpr_flock, unreviewed)_
-
-- **[2024-09-18] Police Commission** -- Police Commission 09 18 2024
-  > ...have flock cameras like like you wouldn't know it but like a Target might have a flock camera so someone goes into a Target parking lot it'll tell you where it is so flock well that's the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zUIfaFq1Upw&t=1566s)  _(term: alpr_flock, unreviewed)_
+  > ...flock is a recor right yeah yeah but flock is what everybody around this is I think recor is actually better but flock you get the Nationwide access so it's kind of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zUIfaFq1Upw&t=1677s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-11-16] Planning and Zoning Commission** -- Planning and Zoning Commission 2023-11-16
   > ...dueling in the meal behind our house on a November day because they've got a small flock of do watching them on the other side of the brook and they're they clashing thing and you can hear the...
@@ -1540,6 +1550,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2022-03-15] Town Council** -- Town Council 2022 03 15
   > ...technologies and the 12 125 purchases purchase of a license plate reader with selex es inc as this is in the best interest of the town...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=CcFr1gUTxyU&t=3367s)  _(term: alpr_flock, unreviewed)_
+
+- **[2022-03-15] Town Council** -- Town Council 2022 03 15
+  > ...um yeah i can explain a little further on that so what what the license plate reader is actually capturing is just a photo of the license plate and it's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CcFr1gUTxyU&t=3223s)  _(term: alpr_flock, unreviewed)_
 
 - **[2022-03-02] Board of Finance** -- Board of Finance Budget Meeting #1 2022 03 02
   > ...36 000 so there's a license plate reader with no hardware coverage this is again for the tv these are all items that actually you know...
@@ -1610,6 +1624,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PPBXb_B7xJI&t=452s)  _(term: doorbell_partnership, unreviewed)_
 
 - **[2024-02-21] Police Commission** -- Police Commission 2024-02-21
+  > ...of a lot of things you know a lot of people relied on the ring doorbell I don't know if you know this but ring doorbell cameras those we get a lot of footage from them but ring just...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3552s)  _(term: doorbell_partnership, unreviewed)_
+
+- **[2024-02-21] Police Commission** -- Police Commission 2024-02-21
   > ...can just download right into it I'm putting it on my own house I'm going to get rid of my ring doorbell because I pay a monthly fee yeah I will I looked it up you...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3587s)  _(term: doorbell_partnership, unreviewed)_
 
@@ -1629,12 +1647,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=laRY5j7aZOQ&t=5728s)  _(term: drone, unreviewed)_
 
 - **[2026-07-16] Golf Course Commission** -- Golf Course Commission 2026 07 16
+  > ...They're going to come back in a week or two when it's clearer, the sky is clear to take pictures and drone video. We're going to be under magazine, a feature on it....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=laRY5j7aZOQ&t=5662s)  _(term: drone, unreviewed)_
+
+- **[2026-07-16] Golf Course Commission** -- Golf Course Commission 2026 07 16
   > ...ideas on what parts of the course makes it on. And um I think they're going to put a a drone video uh on the website. >> So, >> what magazine? New England Magazine,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=laRY5j7aZOQ&t=5705s)  _(term: drone, unreviewed)_
 
-- **[2026-07-16] Golf Course Commission** -- Golf Course Commission 2026 07 16
-  > ...They're going to come back in a week or two when it's clearer, the sky is clear to take pictures and drone video. We're going to be under magazine, a feature on it....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=laRY5j7aZOQ&t=5662s)  _(term: drone, unreviewed)_
+- **[2026-05-21] Golf Course Commission** -- Golf Course Commission 2026 05 21
+  > ...Uh now that the town actually has a team that does drone work. I didn't know that. Uh maybe, you know, upgrade our website a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dZQbtkhhLzs&t=3511s)  _(term: drone, unreviewed)_
 
 - **[2026-05-21] Golf Course Commission** -- Golf Course Commission 2026 05 21
   > ...service, Chris. You did a great job. So, Um, just a thought. I don't know. Well, I I wanted to get some drone work on the course. Uh...
@@ -1647,10 +1669,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2026-05-21] Golf Course Commission** -- Golf Course Commission 2026 05 21
   > ...the um the drones. I mean, you know, I don't DeFazio, he's a he's a licensed drone guy. I You know? Yeah. So, Chris Any usage on a municipal park is e- uh...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dZQbtkhhLzs&t=3730s)  _(term: drone, unreviewed)_
-
-- **[2026-05-21] Golf Course Commission** -- Golf Course Commission 2026 05 21
-  > ...Uh now that the town actually has a team that does drone work. I didn't know that. Uh maybe, you know, upgrade our website a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dZQbtkhhLzs&t=3511s)  _(term: drone, unreviewed)_
 
 - **[2026-01-06] Wetlands Commission** -- Wetlands Commission 2026 01 06
   > ...sure he'll know. >> Oh, yeah. >> I want to be there for that drone. I can >> send out the best signal. >> Thank you....
@@ -1681,10 +1699,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dJFumdNLT8o&t=7531s)  _(term: drone, unreviewed)_
 
 - **[2025-01-15] Police Commission** -- Police Commission 2025 01 15
-  > ...all things that I'm going to tell the I think prepared for but we also need we're we're not set up to go get a drone get somebody F licensed to start operating a drone...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DyirlDaeti8&t=1192s)  _(term: drone, unreviewed)_
-
-- **[2025-01-15] Police Commission** -- Police Commission 2025 01 15
   > ...get it done just the Drone and arrows have that borrow that from like other we actually have a couple sources for Drs um the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DyirlDaeti8&t=1066s)  _(term: drone, unreviewed)_
 
@@ -1699,6 +1713,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2025-01-15] Police Commission** -- Police Commission 2025 01 15
   > ...we're we're not set up to go get a drone get somebody F licensed to start operating a drone the fire department has a drone we used their...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DyirlDaeti8&t=1195s)  _(term: drone, unreviewed)_
+
+- **[2025-01-15] Police Commission** -- Police Commission 2025 01 15
+  > ...all things that I'm going to tell the I think prepared for but we also need we're we're not set up to go get a drone get somebody F licensed to start operating a drone...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DyirlDaeti8&t=1192s)  _(term: drone, unreviewed)_
 
 - **[2024-12-19] Planning and Zoning Commission** -- PZC Meeting 2024 12 19
   > ...Allegiance if you please thank you we are in a drones free zone drones free zone you want a drone free zone I don't want nobody spying on our meetings here yeah close the shades lock the...
@@ -1729,12 +1747,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=6ubkK34ryi0&t=3129s)  _(term: drone, unreviewed)_
 
 - **[2023-11-09] Parks and Recreation Commission** -- Parks and Recreation Commission 11 09 2023
-  > ...big who or whatever but you know you like like Donna said you guys do a great job and I I plan once we have drone pictures of both completed Fields always be I mean once we have drone pictures of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SvpA4JwqSm4&t=2471s)  _(term: drone, unreviewed)_
-
-- **[2023-11-09] Parks and Recreation Commission** -- Parks and Recreation Commission 11 09 2023
   > ...job and I I plan once we have drone pictures of both completed Fields always be I mean once we have drone pictures of both completed Fields it will go on Facebook project completed yeah well...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=SvpA4JwqSm4&t=2476s)  _(term: drone, unreviewed)_
+
+- **[2023-11-09] Parks and Recreation Commission** -- Parks and Recreation Commission 11 09 2023
+  > ...big who or whatever but you know you like like Donna said you guys do a great job and I I plan once we have drone pictures of both completed Fields always be I mean once we have drone pictures of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SvpA4JwqSm4&t=2471s)  _(term: drone, unreviewed)_
 
 - **[2023-10-24] Town Council** -- Town Council 2023 10 24
   > ...know kind of on that side of town you know everybody can go wherever but so that's that is on the Drone board we're GNA we got to do some more research and but yeah we're we're headed in that...
@@ -1761,16 +1779,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=r405CRwZWiU&t=7571s)  _(term: drone, unreviewed)_
 
 - **[2022-06-07] Town Council** -- Town Council 2022 06 07
-  > ...the emails and the information and the videos were great the drone was great whoever had the drone up uh certainly gave us the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=T0vCdalZljs&t=2116s)  _(term: drone, unreviewed)_
-
-- **[2022-06-07] Town Council** -- Town Council 2022 06 07
   > ...so i certainly heard from any residents uh phone calls emails uh saw videos saw the drone video pretty interesting for a mess...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=T0vCdalZljs&t=1798s)  _(term: drone, unreviewed)_
 
 - **[2022-06-07] Town Council** -- Town Council 2022 06 07
   > ...emails and the information and the videos were great the drone was great whoever had the drone up uh certainly gave us the perspective there and the lady...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=T0vCdalZljs&t=2118s)  _(term: drone, unreviewed)_
+
+- **[2022-06-07] Town Council** -- Town Council 2022 06 07
+  > ...the emails and the information and the videos were great the drone was great whoever had the drone up uh certainly gave us the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=T0vCdalZljs&t=2116s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -1953,6 +1971,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -1972,7 +1995,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| berlin_ct | videos | 2026-08-31 07:06:28.946816 | 1107 |
+| berlin_ct | videos | 2026-08-31 13:34:27.827706 | 1107 |
 
 
 ## Registered meeting bodies
@@ -2044,5 +2067,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:07:54 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Berlin"`_
+_Generated 2026-08-31T14:35:23 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Berlin"`_
 

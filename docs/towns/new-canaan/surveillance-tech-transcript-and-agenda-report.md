@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **New Canaan**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **178 mentions** across **75 meetings**
+- **192 mentions** across **81 meetings**
 - **First mention:** 2022-10-04  |  **Most recent:** 2026-07-07
 - **Technologies discussed:** alpr, doorbell_partnership, drone, facial_recognition, predictive_policing, purchasing_broker, surveillance_general
-- **Coverage:** 1,008 of 1,528 known New Canaan meetings transcribed (66%)
-- **Still incomplete:** 520 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 1,033 of 1,528 known New Canaan meetings transcribed (68%)
+- **Still incomplete:** 495 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -68,7 +68,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 54 | 21 | 2022-11-15 | 2026-07-07 |
+| alpr | 68 | 27 | 2022-11-15 | 2026-07-07 |
 | doorbell_partnership | 1 | 1 | 2026-01-22 | 2026-01-22 |
 | drone | 60 | 29 | 2022-10-24 | 2026-06-23 |
 | facial_recognition | 3 | 3 | 2025-04-09 | 2025-09-17 |
@@ -79,7 +79,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ## Timeline
 
-75 meetings surfaced a finding (75 dated, spanning 2022-10-04 to 2026-07-07; 0 of unknown date, listed last).
+81 meetings surfaced a finding (81 dated, spanning 2022-10-04 to 2026-07-07; 0 of unknown date, listed last).
 
 
 ### 2022-10-04 -- Board of Selectmen
@@ -150,6 +150,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `purchasing_broker` [▸](https://www.youtube.com/watch?v=dJSqsL3NQ-A&t=198s)  > ...system smartnet three-year contract for $546 21 15 and the cdwg rubric software subscription and license for $2,210 so...
 
 
+### 2023-01-12 -- Conservation Commission
+
+**Conservation Commission Meeting January 12, 2023** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=tBFE1q2uixs&t=505s)  > ...the people who come and go you know who are regulars and then uh we are looking at uh possibly going to a license plate reader situation whereby you're not going to get a sticker well you might...
+
+
 ### 2023-01-17 -- Board of Selectmen
 
 **Board of Selectmen Meeting January 17, 2023** _(topics: purchasing_broker)_
@@ -194,6 +201,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `drone` [▸](https://www.youtube.com/watch?v=okJhjebzOcU&t=4464s)  > ...anywhere from okay could that be 300 people or could that be 700 yeah you know by the way if you do a drone or something there's a way to actually uh if we did we had a picture you'd have a...
 
 
+### 2023-04-05 -- Parking Commission
+
+**Parking Commission Meeting April 5, 2023** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=1cfAPxRPi5o&t=2060s)  > ...yeah I think he said something about like the license I could pull up his appeal but like there's a license plate reader or somehow in the system it's tagged like you know how many ticks he...
+
+
 ### 2023-04-25 -- Planning & Zoning Commission
 
 **Planning and Zoning Commission Meeting April 25, 2023** _(topics: drone)_
@@ -234,11 +248,15 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=4092s)  > ...the lot um so that's not through passport that's right through our License Plate Reader so Pastor hooks up with the License Plate Reader so um you know manually we...
 
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=4094s)  > ...um so that's not through passport that's right through our License Plate Reader so Pastor hooks up with the License Plate Reader so um you know manually we can I could have somebody go out and...
+
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=4295s)  > ...don't don't we have a data system like when we check people who are in there um the License Plate Reader works just to give us tells us who has a permit and who doesn't have a permit...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=5073s)  > ...so anyway yeah or we can gather some sort of information from you know the License Plate Reader I'm assuming like license plates are getting scanned we know you get a ticket if you haven't...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=5094s)  > ...here three days this year like you know I would have to look into the License Plate Reader a little bit more we've it it's it's it's it's a white list I don't know what that capability...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=5111s)  > ...is as far as giving us back reports okay um all passport does was you know they Supply the permit dab or the License Plate Reader reads the data um so I would have to look into it a...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=5294s)  > ...access to our existing database that stands for right yeah Elsa is our License Plate Reader I can get all the permits Elsa breeds the license plates let me look into that...
 
@@ -270,7 +288,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Board of Selectmen Meeting October 3, 2023** _(topics: alpr)_
 
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=r_qBUFqM14k&t=360s)  > ...you good so I'm here for a uh contract agreement with our License Plate Reader vendor um it's not it's for 140 000 but that's...
+
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=r_qBUFqM14k&t=446s)  > ...point is the technology and we've come a long way in 12 years questions I was just so the flock safety they we've used them we're just continuing on their contract is that...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=r_qBUFqM14k&t=479s)  > ...this request from the police department to enter into a five-year contract with black safety for 140 000 uh for License Plate Reader hardware and software Services as described by the chief...
 
 
 ### 2023-12-18 -- Inland Wetlands Commission
@@ -305,6 +327,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `drone` [▸](https://www.youtube.com/watch?v=JlE7WugGbiQ&t=10620s)  > ...commissioner Chris I mean I posed the question what it looked like from the neighbors as opposed to the Drone I view um you know especially uh during the winter at night where you have...
 
 
+### 2024-01-23 -- Board of Selectmen
+
+**Board of Selectmen Meeting January 23, 2024** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=WBcKUuZEPPE&t=6333s)  > ...sorts of things that are just kind of the annual upkeep of of our essential equipment uh the fixed License Plate Reader you'll see is 28,000 that's our annual subscription fee to that those uh...
+
+
 ### 2024-02-13 -- Board of Finance
 
 **Board of Finance Meeting February 13, 2024** _(topics: alpr)_
@@ -317,6 +346,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 **Parking Commission Meeting March 6, 2024** _(topics: alpr)_
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=-dB574irOaA&t=4039s)  > ...equipment uh parking meters where it says service contracts what that means is that our License Plate Reader um we have to pay a a yearly fee to house uh all of our history in there um and it...
+
+
+### 2024-03-20 -- Police Commission
+
+**Police Commission Meeting March 20, 2024** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=boVKNA-8SII&t=2225s)  > ...it and if it's feasible we'll come back and then uh the final thing that I have is uh the automated um License Plate Reader in Kanis Park I followed through some of the backup material from the...
 
 
 ### 2024-04-02 -- Board of Selectmen
@@ -466,6 +502,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=v1DYHk_Ec1g&t=567s)  > ...defibrillators those sorts of things contracts with uh our um it vendors the License Plate Reader vendors the annual contract tracks um so those those are just uh routine things that we see from...
 
 
+### 2025-01-21 -- Board of Selectmen
+
+**Board of Selectmen Meeting January 21, 2025** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=2RWaOv6E8jQ&t=7560s)  > ...the high percentage of time is is the keys are left in the vehicle uh you know fortunately with our our License Plate Reader Program we're are identifying you know some of the cars...
+
+
 ### 2025-01-29 -- Planning & Zoning Commission
 
 **Planning and Zoning Commission Meeting January 29, 2025** _(topics: drone)_
@@ -504,6 +547,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `facial_recognition` [▸](https://www.youtube.com/watch?v=GuVNl6gTIdY&t=2096s)  > ...you know, if you want to put your wallet in there, your cell phone. They're going to be facial recognition so that when you go up to use them, you put your face there and then you come back and get in...
 
 
+### 2025-05-06 -- Board of Selectmen
+
+**Board of Selectmen Meeting May 6, 2025** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=-uRW1ZoKgOY&t=656s)  > ...move side to side. So they need to leave the street for at least an hour. Is that done by GPS? Is that Yep. So our license plate reader will pick it up. If somebody's overtime, it alerts us. So...
+
+
 ### 2025-05-07 -- Parking Commission
 
 **Parking Commission Meeting May 7, 2025** _(topics: surveillance_general)_
@@ -527,6 +577,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 **Board of Selectmen Meeting June 17, 2025** _(topics: alpr)_
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=mnaQOaTKN8U&t=733s)  > ...30th or July to July just to go with Yeah, we can. Yeah. Okay. Great. I tried to do that with flock too and try to sync up just for the fiscal year. Yeah, it's helpful if we can just try and get...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=mnaQOaTKN8U&t=1069s)  > ...for August 4th through 6 for Officer Tom Patton to attend a conference in Atlanta, Georgia for our uh license plate reader vendor Flock is having a conference. So this will be a good way...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=mnaQOaTKN8U&t=1072s)  > ...Patton to attend a conference in Atlanta, Georgia for our uh license plate reader vendor Flock is having a conference. So this will be a good way for him to uh get some additional...
 
@@ -608,12 +660,18 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `purchasing_broker` [▸](https://www.youtube.com/watch?v=KcSuh3dvOIQ&t=1044s)  > ...the information technology department to enter into the following contract with CDWG in the amount of $24,94848 for the renewal of Rubric, a backup...
 
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=KcSuh3dvOIQ&t=5959s)  > ...negative feedback may start to occur. Well, the the good thing about this new this new system is that it's a license plate reader system as opposed to a spot-based system. So, we will know who...
+
 
 ### 2025-11-18 -- Board of Selectmen
 
 **Board of Selectmen Meeting November 18, 2025** _(topics: alpr, drone)_
 
 - `drone` [▸](https://www.youtube.com/watch?v=3uaG0c9PP4s&t=307s)  > ...things. >> Okay. Do we use a lot of drones? >> It's just drone equipment. We have two drones that we have equipment for. >> This is support equipment for them....
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=3uaG0c9PP4s&t=552s)  > ...permitting. Uh this amendment will allow us to implement uh the LPR feature on our handheld devices, which is a license plate reader on the handheld devices. Uh with this feature, we're hoping that we...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=3uaG0c9PP4s&t=882s)  > ...contract with Passport [snorts] Labs, Inc. to provide a one-mon free of charge trial with an improved handheld license plate reader. >> Just one question on that. So, if you...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=3uaG0c9PP4s&t=925s)  > ...>> I can't answer to that exactly, but I believe it works the same as our current license plate reader, which does we'll store it for about 30 days. >> Yeah....
 
@@ -824,20 +882,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### alpr
 
 - **[2026-07-07] Board of Selectmen** -- Board of Selectmen Meeting July 7, 2026
-  > ...>> So move. >> Second. >> It's unanimous. And then Flock Safety. >> Next up is our renewal of our annual agreement with Flock Safety in the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=1981s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-07] Board of Selectmen** -- Board of Selectmen Meeting July 7, 2026
-  > ...>> It's unanimous. And then Flock Safety. >> Next up is our renewal of our annual agreement with Flock Safety in the amount of 67,500. >> And does this is I don't know what I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=1987s)  _(term: alpr_flock, unreviewed)_
+  > ...approve a request from the New Kingdom Police Department to renew the annual agreement with Flock Safety in the amount of $67,500 for license plate readers and cameras....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=2180s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-07] Board of Selectmen** -- Board of Selectmen Meeting July 7, 2026
   > ...there's no access from outside from? >> It's actually cloud-based, but we only have access to it. So Flock doesn't have access to it. We actually own the data. We're the only ones that can have access...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=2112s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-07] Board of Selectmen** -- Board of Selectmen Meeting July 7, 2026
-  > ...approve a request from the New Kingdom Police Department to renew the annual agreement with Flock Safety in the amount of $67,500 for license plate readers and cameras....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=2180s)  _(term: alpr_flock, unreviewed)_
+  > ...>> So move. >> Second. >> It's unanimous. And then Flock Safety. >> Next up is our renewal of our annual agreement with Flock Safety in the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=1981s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-07] Board of Selectmen** -- Board of Selectmen Meeting July 7, 2026
+  > ...>> It's unanimous. And then Flock Safety. >> Next up is our renewal of our annual agreement with Flock Safety in the amount of 67,500. >> And does this is I don't know what I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=1987s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-07] Board of Selectmen** -- Board of Selectmen Meeting July 7, 2026
   > ...>> And does this is I don't know what I can't remember what we paid last year to Flock. Is this for the same number of cameras? Are we adding is this? >> We have added a few. Um, so it's it's...
@@ -856,12 +914,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=YjFYAH-JuFQ&t=4600s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-10] Board of Finance** -- Board of Finance Meeting February 10, 2026
-  > ...capital. >> Correct. Yes. I'm sorry. Yeah, we we moved flock because now we're beyond the first year of service with them. So, it's now turned into a service contract....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BQ4SCwSiS3Q&t=7519s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-10] Board of Finance** -- Board of Finance Meeting February 10, 2026
   > ...>> Um I I do want to add for the board again the allocation of 75,000 from the IT department and flock was last year in capital. >> Correct. Yes. I'm sorry. Yeah, we we...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=BQ4SCwSiS3Q&t=7513s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-10] Board of Finance** -- Board of Finance Meeting February 10, 2026
+  > ...capital. >> Correct. Yes. I'm sorry. Yeah, we we moved flock because now we're beyond the first year of service with them. So, it's now turned into a service contract....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BQ4SCwSiS3Q&t=7519s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-10] Board of Finance** -- Board of Finance Meeting February 10, 2026
   > ...um body warning cameras and car video cameras. Those are all licensed uh systems. And our flock is our uh license plate reader program uh cameras that are been very successful and help us helping...
@@ -872,14 +930,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zy5gly73Vpc&t=1656s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-06] Town Council** -- Town Council & BOF Committee on Public Safety & Emergency Services Meeting February 6, 2026
-  > ...service agreements. >> Chief, what is Flock? >> Flock, that's our uh license plate camera system that's in town. Um we have 14 cameras plus eight downtown cameras....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zy5gly73Vpc&t=1547s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-06] Town Council** -- Town Council & BOF Committee on Public Safety & Emergency Services Meeting February 6, 2026
-  > ...up uh with our with our um with these service agreements. >> Chief, what is Flock? >> Flock, that's our uh license plate camera system that's in town. Um we have...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zy5gly73Vpc&t=1545s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-06] Town Council** -- Town Council & BOF Committee on Public Safety & Emergency Services Meeting February 6, 2026
   > ...>> By the way, Chief, if we exclude um the IT department, cost shift to you and your flock, your budget only increased 2.1% year-over-year. >> That's why you're here, Nick, to make me...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zy5gly73Vpc&t=2760s)  _(term: alpr_flock, unreviewed)_
 
@@ -887,69 +937,101 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...service contract line. >> Yeah. The push from it and flock now no longer capitalized explains all and then some of the 120 overrun if you will or the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zy5gly73Vpc&t=1645s)  _(term: alpr_flock, unreviewed)_
 
+- **[2026-02-06] Town Council** -- Town Council & BOF Committee on Public Safety & Emergency Services Meeting February 6, 2026
+  > ...up uh with our with our um with these service agreements. >> Chief, what is Flock? >> Flock, that's our uh license plate camera system that's in town. Um we have...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zy5gly73Vpc&t=1545s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-06] Town Council** -- Town Council & BOF Committee on Public Safety & Emergency Services Meeting February 6, 2026
+  > ...service agreements. >> Chief, what is Flock? >> Flock, that's our uh license plate camera system that's in town. Um we have 14 cameras plus eight downtown cameras....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zy5gly73Vpc&t=1547s)  _(term: alpr_flock, unreviewed)_
+
 - **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
   > ...then you have to go through the whole process again and and upkeep. Um so so Flock is the the biggest company out there and and most widely used and the information sharing between towns is is...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=4532s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
-  > ...>> So major kicking. >> I think the the probably the biggest one is Flock. Those are our camera systems, our license plate cameras and uh downtown camera systems. That was in our...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=4350s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
-  > ...there and and most widely used and the information sharing between towns is is kind of the the sweet sauce of of Flock because so many other >> um jurisdictions use the Flock system....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=4542s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
   > ...>> 67. Yeah. >> Oh, yeah. Thanks. Okay. Ouch. Okay. >> And is Flock the only company I mean, they're the major player, but they they seem like they're always in the news. I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=4492s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
+  > ...>> So major kicking. >> I think the the probably the biggest one is Flock. Those are our camera systems, our license plate cameras and uh downtown camera systems. That was in our...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=4350s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
   > ...kind of the the sweet sauce of of Flock because so many other >> um jurisdictions use the Flock system. We can share information very quickly and very easily...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=4548s)  _(term: alpr_flock, unreviewed)_
 
+- **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
+  > ...there and and most widely used and the information sharing between towns is is kind of the the sweet sauce of of Flock because so many other >> um jurisdictions use the Flock system....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=4542s)  _(term: alpr_flock, unreviewed)_
+
 - **[2025-11-18] Board of Selectmen** -- Board of Selectmen Meeting November 18, 2025
-  > ...>> I can't answer to that exactly, but I believe it works the same as our current license plate reader, which does we'll store it for about 30 days. >> Yeah....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3uaG0c9PP4s&t=925s)  _(term: alpr_flock, unreviewed)_
+  > ...contract with Passport [snorts] Labs, Inc. to provide a one-mon free of charge trial with an improved handheld license plate reader. >> Just one question on that. So, if you...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3uaG0c9PP4s&t=882s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-18] Board of Selectmen** -- Board of Selectmen Meeting November 18, 2025
   > ...contract with Passport Labs to provide a one-month free trial a with an uh improved handheld license plate reader. And if uh the town is happy with the trial to enter into a contract with them...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=3uaG0c9PP4s&t=952s)  _(term: alpr_flock, unreviewed)_
 
+- **[2025-11-18] Board of Selectmen** -- Board of Selectmen Meeting November 18, 2025
+  > ...permitting. Uh this amendment will allow us to implement uh the LPR feature on our handheld devices, which is a license plate reader on the handheld devices. Uh with this feature, we're hoping that we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3uaG0c9PP4s&t=552s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-11-18] Board of Selectmen** -- Board of Selectmen Meeting November 18, 2025
+  > ...>> I can't answer to that exactly, but I believe it works the same as our current license plate reader, which does we'll store it for about 30 days. >> Yeah....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3uaG0c9PP4s&t=925s)  _(term: alpr_flock, unreviewed)_
+
 - **[2025-10-21] Board of Selectmen** -- Board of Selectmen Meeting October 21, 2025
   > ...motion to approve a request from the New Kanan Police Department for the annual renewal of the flock safety license plate reader. uh rec sorry license plate recognition in the amount of $28,000...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=KcSuh3dvOIQ&t=355s)  _(term: alpr_flock, unreviewed)_
 
-- **[2025-06-17] Board of Selectmen** -- Board of Selectmen Meeting June 17, 2025
-  > ...Patton to attend a conference in Atlanta, Georgia for our uh license plate reader vendor Flock is having a conference. So this will be a good way for him to uh get some additional...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mnaQOaTKN8U&t=1072s)  _(term: alpr_flock, unreviewed)_
+- **[2025-10-21] Board of Selectmen** -- Board of Selectmen Meeting October 21, 2025
+  > ...negative feedback may start to occur. Well, the the good thing about this new this new system is that it's a license plate reader system as opposed to a spot-based system. So, we will know who...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KcSuh3dvOIQ&t=5959s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-06-17] Board of Selectmen** -- Board of Selectmen Meeting June 17, 2025
   > ...30th or July to July just to go with Yeah, we can. Yeah. Okay. Great. I tried to do that with flock too and try to sync up just for the fiscal year. Yeah, it's helpful if we can just try and get...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mnaQOaTKN8U&t=733s)  _(term: alpr_flock, unreviewed)_
 
-- **[2025-02-19] Police Commission** -- Police Commission Meeting February 19, 2025
-  > ...prior to sealing the car so um that's a that's a a good development with the flock system um and then we also create a custom hot list within flock so that other area jurisdictions that do have...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BzpORJxkTrE&t=395s)  _(term: alpr_flock, unreviewed)_
+- **[2025-06-17] Board of Selectmen** -- Board of Selectmen Meeting June 17, 2025
+  > ...for August 4th through 6 for Officer Tom Patton to attend a conference in Atlanta, Georgia for our uh license plate reader vendor Flock is having a conference. So this will be a good way...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mnaQOaTKN8U&t=1069s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-06-17] Board of Selectmen** -- Board of Selectmen Meeting June 17, 2025
+  > ...Patton to attend a conference in Atlanta, Georgia for our uh license plate reader vendor Flock is having a conference. So this will be a good way for him to uh get some additional...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mnaQOaTKN8U&t=1072s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-05-06] Board of Selectmen** -- Board of Selectmen Meeting May 6, 2025
+  > ...move side to side. So they need to leave the street for at least an hour. Is that done by GPS? Is that Yep. So our license plate reader will pick it up. If somebody's overtime, it alerts us. So...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-uRW1ZoKgOY&t=656s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-19] Police Commission** -- Police Commission Meeting February 19, 2025
   > ...vehicle entered into ncic which is the Statewide system and then it's also entered into our flock LPR system which it is how we're searching for it prior to it leaving town or or we know...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=BzpORJxkTrE&t=350s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-19] Police Commission** -- Police Commission Meeting February 19, 2025
+  > ...that's a a good development with the flock system um and then we also create a custom hot list within flock so that other area jurisdictions that do have the flock network uh have that on their...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BzpORJxkTrE&t=398s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-02-19] Police Commission** -- Police Commission Meeting February 19, 2025
   > ...them on board with the tracking um one of the um biggest uh assets to us has been our flock cameras we have 10 of them as you know we're getting more um those are strategically placed around...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=BzpORJxkTrE&t=307s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-19] Police Commission** -- Police Commission Meeting February 19, 2025
-  > ...that's a a good development with the flock system um and then we also create a custom hot list within flock so that other area jurisdictions that do have the flock network uh have that on their...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BzpORJxkTrE&t=398s)  _(term: alpr_flock, unreviewed)_
+  > ...a custom hot list within flock so that other area jurisdictions that do have the flock network uh have that on their hot list also um we're finding that when they come to town uh it's sometimes in a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BzpORJxkTrE&t=403s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-19] Police Commission** -- Police Commission Meeting February 19, 2025
   > ...involved um and we we do uh what's called a convoy analysis it's a um a part of the flock system where we could uh identify the vehicle when it's leaving the scene and we could trace...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=BzpORJxkTrE&t=377s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-19] Police Commission** -- Police Commission Meeting February 19, 2025
-  > ...a custom hot list within flock so that other area jurisdictions that do have the flock network uh have that on their hot list also um we're finding that when they come to town uh it's sometimes in a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BzpORJxkTrE&t=403s)  _(term: alpr_flock, unreviewed)_
+  > ...prior to sealing the car so um that's a that's a a good development with the flock system um and then we also create a custom hot list within flock so that other area jurisdictions that do have...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BzpORJxkTrE&t=395s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-01-21] Board of Selectmen** -- Board of Selectmen Meeting January 21, 2025
+  > ...the high percentage of time is is the keys are left in the vehicle uh you know fortunately with our our License Plate Reader Program we're are identifying you know some of the cars...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2RWaOv6E8jQ&t=7560s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-01-15] Police Commission** -- Police Commission Meeting January 15, 2025
   > ...defibrillators those sorts of things contracts with uh our um it vendors the License Plate Reader vendors the annual contract tracks um so those those are just uh routine things that we see from...
@@ -975,6 +1057,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...is a annual renewal of our contract with flock flock safety that's our fixed License Plate Reader cameras that we have throughout town this just the annual uh renewal which we have budgeted...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PLame6HT2fE&t=117s)  _(term: alpr_flock, unreviewed)_
 
+- **[2024-03-20] Police Commission** -- Police Commission Meeting March 20, 2024
+  > ...it and if it's feasible we'll come back and then uh the final thing that I have is uh the automated um License Plate Reader in Kanis Park I followed through some of the backup material from the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=boVKNA-8SII&t=2225s)  _(term: alpr_flock, unreviewed)_
+
 - **[2024-03-06] Parking Commission** -- Parking Commission Meeting March 6, 2024
   > ...equipment uh parking meters where it says service contracts what that means is that our License Plate Reader um we have to pay a a yearly fee to house uh all of our history in there um and it...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-dB574irOaA&t=4039s)  _(term: alpr_flock, unreviewed)_
@@ -983,49 +1069,77 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...already okay cuz I got Amy shared a a picture from this year of like a whole flock at Sachs unreal it had to be 500 what this time of year like when the snow starts to melt they're just looking...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=aPznICwRg1A&t=514s)  _(term: alpr_flock, unreviewed)_
 
+- **[2024-01-23] Board of Selectmen** -- Board of Selectmen Meeting January 23, 2024
+  > ...sorts of things that are just kind of the annual upkeep of of our essential equipment uh the fixed License Plate Reader you'll see is 28,000 that's our annual subscription fee to that those uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WBcKUuZEPPE&t=6333s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-10-03] Board of Selectmen** -- Board of Selectmen Meeting October 3, 2023
+  > ...you good so I'm here for a uh contract agreement with our License Plate Reader vendor um it's not it's for 140 000 but that's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_qBUFqM14k&t=360s)  _(term: alpr_flock, unreviewed)_
+
 - **[2023-10-03] Board of Selectmen** -- Board of Selectmen Meeting October 3, 2023
   > ...point is the technology and we've come a long way in 12 years questions I was just so the flock safety they we've used them we're just continuing on their contract is that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_qBUFqM14k&t=446s)  _(term: alpr_flock, unreviewed)_
 
-- **[2023-09-06] Parking Commission** -- Parking Commission Meeting September 6, 2023
-  > ...I guess they offer a lot more than we utilize them for but I can get you up is the is the License Plate Reader connected in any way to passport are they too totally separate systems...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=511kj93fSbM&t=1882s)  _(term: alpr_flock, unreviewed)_
+- **[2023-10-03] Board of Selectmen** -- Board of Selectmen Meeting October 3, 2023
+  > ...this request from the police department to enter into a five-year contract with black safety for 140 000 uh for License Plate Reader hardware and software Services as described by the chief...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_qBUFqM14k&t=479s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-09-06] Parking Commission** -- Parking Commission Meeting September 6, 2023
   > ...little bit of a of a problem with certain things with passport and a license plate reader so I will tell you that um you know...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=511kj93fSbM&t=1899s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-09-06] Parking Commission** -- Parking Commission Meeting September 6, 2023
+  > ...I guess they offer a lot more than we utilize them for but I can get you up is the is the License Plate Reader connected in any way to passport are they too totally separate systems...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=511kj93fSbM&t=1882s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-08-16] Utilities Commission** -- Utilities Commission Meeting August 16, 2023
   > ...example wanted person stolen vehicles criminal history they have a couple of the License Plate Reader I believe as well that are based on cellular data so they will get a notification of a tag...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=axI9kIMyacU&t=5295s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-08-02] Parking Commission** -- Parking Commission Meeting August 2, 2023
+  > ...is as far as giving us back reports okay um all passport does was you know they Supply the permit dab or the License Plate Reader reads the data um so I would have to look into it a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=5111s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-08-02] Parking Commission** -- Parking Commission Meeting August 2, 2023
   > ...access to our existing database that stands for right yeah Elsa is our License Plate Reader I can get all the permits Elsa breeds the license plates let me look into that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=5294s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-08-02] Parking Commission** -- Parking Commission Meeting August 2, 2023
-  > ...don't don't we have a data system like when we check people who are in there um the License Plate Reader works just to give us tells us who has a permit and who doesn't have a permit...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=4295s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-08-02] Parking Commission** -- Parking Commission Meeting August 2, 2023
-  > ...you're a resident uh I put that into the system okay everything is electronic we have a license plate reader so once I issue your permit and I put all your information into the system it goes live...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=3497s)  _(term: alpr_flock, unreviewed)_
+  > ...here three days this year like you know I would have to look into the License Plate Reader a little bit more we've it it's it's it's it's a white list I don't know what that capability...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=5094s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-08-02] Parking Commission** -- Parking Commission Meeting August 2, 2023
   > ...so anyway yeah or we can gather some sort of information from you know the License Plate Reader I'm assuming like license plates are getting scanned we know you get a ticket if you haven't...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=5073s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-08-02] Parking Commission** -- Parking Commission Meeting August 2, 2023
-  > ...the lot um so that's not through passport that's right through our License Plate Reader so Pastor hooks up with the License Plate Reader so um you know manually we...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=4092s)  _(term: alpr_flock, unreviewed)_
+  > ...don't don't we have a data system like when we check people who are in there um the License Plate Reader works just to give us tells us who has a permit and who doesn't have a permit...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=4295s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-08-02] Parking Commission** -- Parking Commission Meeting August 2, 2023
   > ...well they they don't keep a count on how many people are in the law what that our License Plate Reader just keeps track of the plates and permits so it just alarms of somebody who doesn't have a permit...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=4073s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-08-02] Parking Commission** -- Parking Commission Meeting August 2, 2023
-  > ...here three days this year like you know I would have to look into the License Plate Reader a little bit more we've it it's it's it's it's a white list I don't know what that capability...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=5094s)  _(term: alpr_flock, unreviewed)_
+  > ...um so that's not through passport that's right through our License Plate Reader so Pastor hooks up with the License Plate Reader so um you know manually we can I could have somebody go out and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=4094s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-08-02] Parking Commission** -- Parking Commission Meeting August 2, 2023
+  > ...you're a resident uh I put that into the system okay everything is electronic we have a license plate reader so once I issue your permit and I put all your information into the system it goes live...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=3497s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-08-02] Parking Commission** -- Parking Commission Meeting August 2, 2023
+  > ...the lot um so that's not through passport that's right through our License Plate Reader so Pastor hooks up with the License Plate Reader so um you know manually we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=A_116Zt3oVo&t=4092s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-04-05] Parking Commission** -- Parking Commission Meeting April 5, 2023
+  > ...yeah I think he said something about like the license I could pull up his appeal but like there's a license plate reader or somehow in the system it's tagged like you know how many ticks he...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1cfAPxRPi5o&t=2060s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-01-12] Conservation Commission** -- Conservation Commission Meeting January 12, 2023
+  > ...the people who come and go you know who are regulars and then uh we are looking at uh possibly going to a license plate reader situation whereby you're not going to get a sticker well you might...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tBFE1q2uixs&t=505s)  _(term: alpr_flock, unreviewed)_
 
 - **[2022-12-12] Audit Committee** -- Audit Committee Meeting December 12, 2022
   > ...been two that were new leases that what we would have considered two leases the License Plate Reader and Motorola and that comes that falls out through the process of the budget season and then...
@@ -1075,12 +1189,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### drone
 
 - **[2026-06-23] Board of Selectmen** -- Board of Selectmen Meeting June 23, 2026
-  > ...pieces of equipment as as possible, but it's more used for command and control and for the drone purposes. So, it's totally separate. >> this is a replacement. The other one's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QDtmL9pHuTo&t=1145s)  _(term: drone, unreviewed)_
-
-- **[2026-06-23] Board of Selectmen** -- Board of Selectmen Meeting June 23, 2026
   > ...weeks ago or or so, that was that's to be used as a command vehicle and drone operation vehicle. And to transport some maybe pieces of equipment as as possible, but...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QDtmL9pHuTo&t=1134s)  _(term: drone, unreviewed)_
+
+- **[2026-06-23] Board of Selectmen** -- Board of Selectmen Meeting June 23, 2026
+  > ...pieces of equipment as as possible, but it's more used for command and control and for the drone purposes. So, it's totally separate. >> this is a replacement. The other one's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QDtmL9pHuTo&t=1145s)  _(term: drone, unreviewed)_
 
 - **[2026-06-11] Conservation Commission** -- Conservation Commission Meeting June 11, 2026
   > ...>> All right. Robin, are you open to receiving a proposal to do a a drone survey of one of the Land Trust properties? >> Yeah, let me talk to the stewardship...
@@ -1091,48 +1205,48 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=jh0gQqcStH8&t=6218s)  _(term: drone, unreviewed)_
 
 - **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
-  > ...Do you anticipate ever leaving town on this? I mean, mutual aid in drones. I mean, I know Stanford has a big drone um >> we we have been called for mutual aid in Norwok and Stanford a few times last...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=1224s)  _(term: drone, unreviewed)_
-
-- **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
-  > ...and performed very well, I would I would add and was very useful in the use of uh of our drone to help their incidents, critical incidents. Uh so we obviously when we're called for aid on critical...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=1238s)  _(term: drone, unreviewed)_
-
-- **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
-  > ...have a monitor that you can visualize where the what the drone is doing and what the drone sees and have other video feeds as well uh is instrumental. Plus to have uh you're safe from the elements...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=891s)  _(term: drone, unreviewed)_
-
-- **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
   > ...reconstruction equipment um and various other uh pieces of equipment. Um, but the drone batteries and the drone package would be in there as well. So, I don't know if you had any questions...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=600s)  _(term: drone, unreviewed)_
-
-- **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
-  > ...>> addition to Captain Fanga, we have Officer Matt Blank who was instrumental in the inception of our drone program. Also named >> Well, I was going to say I think...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=528s)  _(term: drone, unreviewed)_
-
-- **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
-  > ...package would be in there as well. So, I don't know if you had any questions about the the drone package or >> I I just have um a question about just acquiring another vehicle and you know,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=604s)  _(term: drone, unreviewed)_
-
-- **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
-  > ...if they needed to bring it in a different vehicle, they could pack up the drone in a different vehicle, planned ahead and and go if they needed to if they didn't want to go out of town...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=1258s)  _(term: drone, unreviewed)_
 
 - **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
   > ...vehicle that would also be a good um vehicle that we could launch drones from. Our our drone program, the uh ambulance corps recently bought a new ambulance and the one they were getting...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=551s)  _(term: drone, unreviewed)_
 
 - **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
-  > ...pick up the the radios that we need to pass out to other agencies so we can communicate with them with the UAS radios. We don't have that now. We don't have the capability for that....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=919s)  _(term: drone, unreviewed)_
-
-- **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
   > ...can actually store your command board, have a monitor that you can visualize where the what the drone is doing and what the drone sees and have other video feeds as well uh is instrumental. Plus...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=890s)  _(term: drone, unreviewed)_
 
 - **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
+  > ...pick up the the radios that we need to pass out to other agencies so we can communicate with them with the UAS radios. We don't have that now. We don't have the capability for that....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=919s)  _(term: drone, unreviewed)_
+
+- **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
+  > ...>> addition to Captain Fanga, we have Officer Matt Blank who was instrumental in the inception of our drone program. Also named >> Well, I was going to say I think...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=528s)  _(term: drone, unreviewed)_
+
+- **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
+  > ...and performed very well, I would I would add and was very useful in the use of uh of our drone to help their incidents, critical incidents. Uh so we obviously when we're called for aid on critical...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=1238s)  _(term: drone, unreviewed)_
+
+- **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
   > ...to incumbent or um encumber all of the stuff you would normally bring to the drone unit. >> So, we have an SRT and we're replacing it and that's in the capital budget. Am...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=1137s)  _(term: drone, unreviewed)_
+
+- **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
+  > ...have a monitor that you can visualize where the what the drone is doing and what the drone sees and have other video feeds as well uh is instrumental. Plus to have uh you're safe from the elements...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=891s)  _(term: drone, unreviewed)_
+
+- **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
+  > ...if they needed to bring it in a different vehicle, they could pack up the drone in a different vehicle, planned ahead and and go if they needed to if they didn't want to go out of town...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=1258s)  _(term: drone, unreviewed)_
+
+- **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
+  > ...package would be in there as well. So, I don't know if you had any questions about the the drone package or >> I I just have um a question about just acquiring another vehicle and you know,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=604s)  _(term: drone, unreviewed)_
+
+- **[2026-05-19] Board of Selectmen** -- Board of Selectmen Meeting May 19, 2026
+  > ...Do you anticipate ever leaving town on this? I mean, mutual aid in drones. I mean, I know Stanford has a big drone um >> we we have been called for mutual aid in Norwok and Stanford a few times last...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=1224s)  _(term: drone, unreviewed)_
 
 - **[2026-05-13] Parks and Recreation Commission** -- Parks & Recreation Meeting May 13, 2026
   > ...>> I think they do a great job. >> They did a lot. They did a lot with their drone, being able to watch where traffic is on the roads instead of having to send somebody down there to...
@@ -1159,20 +1273,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7SUZnx-T3Wo&t=3231s)  _(term: drone, unreviewed)_
 
 - **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
-  > ...So, uh it it's very useful. So, we have two uh drones that are uh flown by drone pilots. This drone as a first responder is something that's more automated. So, when a call comes in, um it can be...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=5407s)  _(term: drone, unreviewed)_
-
-- **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
-  > ...at the five-year capital plan. Um, and there's a new line coming in next year for drone first responder for 75 grand. >> So, we wanted to put that out there. It is something that is uh trending...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=5303s)  _(term: drone, unreviewed)_
-
-- **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
   > ...>> um outside during scenes. >> Um then we have another smaller one that's an internal drone that can be flown indoors. Um >> that is better for uh tactical...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=5366s)  _(term: drone, unreviewed)_
 
 - **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
-  > ...exploring. This seems like a big number for a drone, but I'm sure it's just a placeholder. >> It it's it's a big commitment. It's it,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=5454s)  _(term: drone, unreviewed)_
+  > ...other agencies. We'd like to put that on the radar. >> So we already have a drone. So I don't How many drones do we have right now? >> We have two right now. uh one that has...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=5345s)  _(term: drone, unreviewed)_
+
+- **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
+  > ...and determine that the scene was safe. So, uh it it's very useful. So, we have two uh drones that are uh flown by drone pilots. This drone as a first responder is something that's more automated. So,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=5402s)  _(term: drone, unreviewed)_
+
+- **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
+  > ...So, uh it it's very useful. So, we have two uh drones that are uh flown by drone pilots. This drone as a first responder is something that's more automated. So, when a call comes in, um it can be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=5407s)  _(term: drone, unreviewed)_
 
 - **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
   > ...>> that is better for uh tactical situations. The it was actually used recently. Our drone, small drone was used in Stanford during their uh standoff that they had about a month or...
@@ -1183,28 +1297,28 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=5314s)  _(term: drone, unreviewed)_
 
 - **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
-  > ...and determine that the scene was safe. So, uh it it's very useful. So, we have two uh drones that are uh flown by drone pilots. This drone as a first responder is something that's more automated. So,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=5402s)  _(term: drone, unreviewed)_
-
-- **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
   > ...at the police officers and and actually shot down and disabled two of Stanford's drones and our drone was able to go in and determine that the scene was safe. So, uh it it's very useful. So, we have...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=5392s)  _(term: drone, unreviewed)_
 
 - **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
-  > ...other agencies. We'd like to put that on the radar. >> So we already have a drone. So I don't How many drones do we have right now? >> We have two right now. uh one that has...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=5345s)  _(term: drone, unreviewed)_
+  > ...exploring. This seems like a big number for a drone, but I'm sure it's just a placeholder. >> It it's it's a big commitment. It's it,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=5454s)  _(term: drone, unreviewed)_
+
+- **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
+  > ...at the five-year capital plan. Um, and there's a new line coming in next year for drone first responder for 75 grand. >> So, we wanted to put that out there. It is something that is uh trending...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QaNSpuhxI6Y&t=5303s)  _(term: drone, unreviewed)_
 
 - **[2025-11-18] Board of Selectmen** -- Board of Selectmen Meeting November 18, 2025
   > ...things. >> Okay. Do we use a lot of drones? >> It's just drone equipment. We have two drones that we have equipment for. >> This is support equipment for them....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=3uaG0c9PP4s&t=307s)  _(term: drone, unreviewed)_
 
 - **[2025-07-21] Inland Wetlands Commission** -- Inland Wetlands Commission Meeting July 21, 2025
-  > ...diver, would be that these currently abandoned pipes uh are of unknown location. And with the underwater drone, the visibility was not there to be able to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xEqafnDOZug&t=4948s)  _(term: drone, unreviewed)_
-
-- **[2025-07-21] Inland Wetlands Commission** -- Inland Wetlands Commission Meeting July 21, 2025
   > ...not involve the um temporary uh coffer dam? >> So, we have used a an underwater drone previously. The problem with that was you're limited very much where you can...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=xEqafnDOZug&t=4924s)  _(term: drone, unreviewed)_
+
+- **[2025-07-21] Inland Wetlands Commission** -- Inland Wetlands Commission Meeting July 21, 2025
+  > ...diver, would be that these currently abandoned pipes uh are of unknown location. And with the underwater drone, the visibility was not there to be able to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xEqafnDOZug&t=4948s)  _(term: drone, unreviewed)_
 
 - **[2025-05-21] Police Commission** -- Police Commission Meeting May 21, 2025
   > ...Coughlin assisted uh their community with a search for a missing person using our drone. She's one of our new drone operators. Um and that assisted them in locating the missing missing person....
@@ -1243,12 +1357,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QXj3TPxJZJA&t=1627s)  _(term: drone, unreviewed)_
 
 - **[2023-12-19] Planning & Zoning Commission** -- Planning and Zoning Commission Meeting December 19, 2023
-  > ...commissioner Chris I mean I posed the question what it looked like from the neighbors as opposed to the Drone I view um you know especially uh during the winter at night where you have...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JlE7WugGbiQ&t=10620s)  _(term: drone, unreviewed)_
-
-- **[2023-12-19] Planning & Zoning Commission** -- Planning and Zoning Commission Meeting December 19, 2023
   > ...degree um there's the next three slides are are different Vantage points um look like a a drone shot this is a this is a drone shot so this was flowing like last October I was thinking more from a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JlE7WugGbiQ&t=5039s)  _(term: drone, unreviewed)_
+
+- **[2023-12-19] Planning & Zoning Commission** -- Planning and Zoning Commission Meeting December 19, 2023
+  > ...commissioner Chris I mean I posed the question what it looked like from the neighbors as opposed to the Drone I view um you know especially uh during the winter at night where you have...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JlE7WugGbiQ&t=10620s)  _(term: drone, unreviewed)_
 
 - **[2023-12-19] Planning & Zoning Commission** -- Planning and Zoning Commission Meeting December 19, 2023
   > ...October I was thinking more from a neighbor Viewpoint as opposed to a drone sure and I could address that I may uh Christopher Russ for the record uh I visited uh two of the neighbors...
@@ -1267,24 +1381,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mYiakXnpCbI&t=6987s)  _(term: drone, unreviewed)_
 
 - **[2023-12-18] Inland Wetlands Commission** -- Inland Wetlands Commission Meeting December 18, 2023
-  > ...on campus is I think beneficial before we talk some storm water so again this is a view from um or obviously a drone photo of the existing field um and then wrong way...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mYiakXnpCbI&t=4092s)  _(term: drone, unreviewed)_
+  > ...statement I would continue moving on get all the questions out yeah sorry didn't I've seen as a comment multiple drone shots but I've not seen anything that would represent what I would see when I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mYiakXnpCbI&t=6975s)  _(term: drone, unreviewed)_
 
 - **[2023-12-18] Inland Wetlands Commission** -- Inland Wetlands Commission Meeting December 18, 2023
   > ...impacts that may be more appropriate in terms of the Drone shots I'd seen a lot of the Drone shots where you flip from one to the other showing where expanded I'd love to see a drone...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mYiakXnpCbI&t=7007s)  _(term: drone, unreviewed)_
 
 - **[2023-12-18] Inland Wetlands Commission** -- Inland Wetlands Commission Meeting December 18, 2023
-  > ...I'd seen a lot of the Drone shots where you flip from one to the other showing where expanded I'd love to see a drone shot where you're showing the edge of the field and then a hatched out area...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mYiakXnpCbI&t=7010s)  _(term: drone, unreviewed)_
-
-- **[2023-12-18] Inland Wetlands Commission** -- Inland Wetlands Commission Meeting December 18, 2023
   > ...not exhausted by all this um uh Chris you know I had seen multiple drone shots of the field I've asked you multiple times starting in January of 2023 when you came to my house to see...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mYiakXnpCbI&t=6940s)  _(term: drone, unreviewed)_
 
 - **[2023-12-18] Inland Wetlands Commission** -- Inland Wetlands Commission Meeting December 18, 2023
-  > ...statement I would continue moving on get all the questions out yeah sorry didn't I've seen as a comment multiple drone shots but I've not seen anything that would represent what I would see when I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mYiakXnpCbI&t=6975s)  _(term: drone, unreviewed)_
+  > ...on campus is I think beneficial before we talk some storm water so again this is a view from um or obviously a drone photo of the existing field um and then wrong way...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mYiakXnpCbI&t=4092s)  _(term: drone, unreviewed)_
+
+- **[2023-12-18] Inland Wetlands Commission** -- Inland Wetlands Commission Meeting December 18, 2023
+  > ...I'd seen a lot of the Drone shots where you flip from one to the other showing where expanded I'd love to see a drone shot where you're showing the edge of the field and then a hatched out area...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mYiakXnpCbI&t=7010s)  _(term: drone, unreviewed)_
 
 - **[2023-06-22] Tourism and Economic Development Advisory Committee** -- Tourism and Economic Development Advisory Committee Meeting June 22, 2023
   > ...um so um you know I think there's some Drone footage but yeah putting that all together so we're starting effort...
@@ -1348,12 +1462,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### predictive_policing
 
 - **[2024-07-12] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting July 9 ,2024
-  > ...the manhole frames and covers primarily the covers um we've been in conversation with the Campbell Foundry to discuss providing manholes manhole covers that are non penetrating meaning there's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=1125s)  _(term: predictive_policing, unreviewed)_
-
-- **[2024-07-12] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting July 9 ,2024
   > ...it takes a year to put them out there i' rather do it you know and it also comes down to The Foundry as well it's delivery but I I would more look at a 50 to 100 lot you know see how that you...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=3660s)  _(term: predictive_policing, unreviewed)_
+
+- **[2024-07-12] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting July 9 ,2024
+  > ...the manhole frames and covers primarily the covers um we've been in conversation with the Campbell Foundry to discuss providing manholes manhole covers that are non penetrating meaning there's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=1125s)  _(term: predictive_policing, unreviewed)_
 
 - **[2024-06-18] Board of Selectmen** -- Board of Selectmen Meeting June 18, 2024
   > ...motion to approve a request from the Department of Public Works to enter into a contract with Campbell Foundry in the amount of 9,159 in order to purchase 48 manhole...
@@ -1383,24 +1497,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=8MjXIORknyk&t=6884s)  _(term: purchasing_broker, unreviewed)_
 
 - **[2025-06-24] Board of Selectmen** -- Board of Selectmen Meeting June 24, 2025
-  > ...year? Are they are you seeing price increases here or has it been No, the budget was very close. CDWG because they're a government account. Um they try to keep because they buy so much in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=HT2OrI7S05A&t=1241s)  _(term: purchasing_broker, unreviewed)_
-
-- **[2025-06-24] Board of Selectmen** -- Board of Selectmen Meeting June 24, 2025
   > ...approve a request from the information technology department to create a blanket purchase order with CDWG in the amount of $17,000 to enter into a contract with CDWG in the amount of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=HT2OrI7S05A&t=1291s)  _(term: purchasing_broker, unreviewed)_
+
+- **[2025-06-24] Board of Selectmen** -- Board of Selectmen Meeting June 24, 2025
+  > ...year? Are they are you seeing price increases here or has it been No, the budget was very close. CDWG because they're a government account. Um they try to keep because they buy so much in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=HT2OrI7S05A&t=1241s)  _(term: purchasing_broker, unreviewed)_
 
 - **[2025-06-24] Board of Selectmen** -- Board of Selectmen Meeting June 24, 2025
   > ...of new. It's our first time to ask. Um because we will have be going for our two factor through CDWG and for Diana to That was gonna be my next question. I'm like, why do we need more money than...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=HT2OrI7S05A&t=1269s)  _(term: purchasing_broker, unreviewed)_
 
 - **[2025-06-24] Board of Selectmen** -- Board of Selectmen Meeting June 24, 2025
-  > ...department's looking for approval um to go back into contract with CDW with BIT defender through CDWG is the vendor as the reseller. Uh, and this is the software that does all of our endpoint...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=HT2OrI7S05A&t=1141s)  _(term: purchasing_broker, unreviewed)_
-
-- **[2025-06-24] Board of Selectmen** -- Board of Selectmen Meeting June 24, 2025
   > ...blanket purchase order with CDWG in the amount of $17,000 to enter into a contract with CDWG in the amount of $11,897.80 for renewal of Bit Defender, Gravity...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=HT2OrI7S05A&t=1295s)  _(term: purchasing_broker, unreviewed)_
+
+- **[2025-06-24] Board of Selectmen** -- Board of Selectmen Meeting June 24, 2025
+  > ...department's looking for approval um to go back into contract with CDW with BIT defender through CDWG is the vendor as the reseller. Uh, and this is the software that does all of our endpoint...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=HT2OrI7S05A&t=1141s)  _(term: purchasing_broker, unreviewed)_
 
 - **[2023-01-17] Board of Selectmen** -- Board of Selectmen Meeting January 17, 2023
   > ...uh with Presidio for fifteen thousand one ninety ninety one seventy six and cdwg for subscription a real license for six thousand five eighty seven fifty second second here all in favor...
@@ -1447,12 +1561,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QNIHKSnskqg&t=1388s)  _(term: surveillance_general, unreviewed)_
 
 - **[2025-07-08] Board of Selectmen** -- Board of Selectmen Meeting July 8, 2025
+  > ...potentially might have to do some heavy cleaning of some of these mains in order to do the CCTV work. Um and with that there's there's a little and you can see that actually in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QNIHKSnskqg&t=1502s)  _(term: surveillance_general, unreviewed)_
+
+- **[2025-07-08] Board of Selectmen** -- Board of Selectmen Meeting July 8, 2025
   > ...want need to be in high groundwater. But they'll be able to start getting in queue for um for the televising the CCTV work. That was strictly a question to say...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QNIHKSnskqg&t=2180s)  _(term: surveillance_general, unreviewed)_
 
-- **[2025-07-08] Board of Selectmen** -- Board of Selectmen Meeting July 8, 2025
-  > ...potentially might have to do some heavy cleaning of some of these mains in order to do the CCTV work. Um and with that there's there's a little and you can see that actually in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QNIHKSnskqg&t=1502s)  _(term: surveillance_general, unreviewed)_
+- **[2025-05-07] Parking Commission** -- Parking Commission Meeting May 7, 2025
+  > ...while I got it. It's okay. Another question. Do we have CCTV? Do we have CCTV cameras on those lots and on Elm Street in the Park Street? Um I'm I'm sorry....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Lex_GYuf-Fg&t=5021s)  _(term: surveillance_general, unreviewed)_
 
 - **[2025-05-07] Parking Commission** -- Parking Commission Meeting May 7, 2025
   > ...And then related to that is the quest my my my question was whether or not we have CCTV cameras on Elm Street and in the those lots where we could do. We we we have we have cameras around town. We...
@@ -1462,37 +1580,33 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...the benefit of everyone in the office while I got it. It's okay. Another question. Do we have CCTV? Do we have CCTV cameras on those lots and on Elm Street...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Lex_GYuf-Fg&t=5018s)  _(term: surveillance_general, unreviewed)_
 
-- **[2025-05-07] Parking Commission** -- Parking Commission Meeting May 7, 2025
-  > ...while I got it. It's okay. Another question. Do we have CCTV? Do we have CCTV cameras on those lots and on Elm Street in the Park Street? Um I'm I'm sorry....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Lex_GYuf-Fg&t=5021s)  _(term: surveillance_general, unreviewed)_
+- **[2024-10-08] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting October 8, 2024
+  > ...worth of additional um lining in the system to be identified during CCTV inspections um that is my summary um and I know Maria...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=775s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-10-08] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting October 8, 2024
-  > ...anticipate identifying additional pipelining projects as we complete the CCTV inspection which is where they send a camera through the pipeline and identify defects in the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=411s)  _(term: surveillance_general, unreviewed)_
-
-- **[2024-10-08] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting October 8, 2024
-  > ...in the top areas the next year and then combining additional manval inspections and CCTV subsequent years for the other service areas this was when we...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=575s)  _(term: surveillance_general, unreviewed)_
+  > ...going to be the idea of going forward with a scheme once we get this evaluation the CCTV work for what the design um is involved with that and that's kind of what's listed that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=1487s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-10-08] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting October 8, 2024
   > ...projects will occur concurrently with the final years of the sewer system evaluation investigations including CCTV work at this point Sarah bchi from aeom can better walk you through her...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=247s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-10-08] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting October 8, 2024
-  > ...worth of additional um lining in the system to be identified during CCTV inspections um that is my summary um and I know Maria...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=775s)  _(term: surveillance_general, unreviewed)_
+  > ...do the lining work and the manhole repair work in the areas that we have targeted knowing based on this year CCTV work okay well the reason one of the reasons I ask is everyone remembers one...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=1511s)  _(term: surveillance_general, unreviewed)_
+
+- **[2024-10-08] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting October 8, 2024
+  > ...anticipate identifying additional pipelining projects as we complete the CCTV inspection which is where they send a camera through the pipeline and identify defects in the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=411s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-10-08] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting October 8, 2024
   > ...our evaluation we're also going to at the same time as the evaluation which the CCTV work in those sections that Sarah mentioned we're also going to start doing our root repair or root...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=1460s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-10-08] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting October 8, 2024
-  > ...do the lining work and the manhole repair work in the areas that we have targeted knowing based on this year CCTV work okay well the reason one of the reasons I ask is everyone remembers one...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=1511s)  _(term: surveillance_general, unreviewed)_
-
-- **[2024-10-08] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting October 8, 2024
-  > ...going to be the idea of going forward with a scheme once we get this evaluation the CCTV work for what the design um is involved with that and that's kind of what's listed that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=1487s)  _(term: surveillance_general, unreviewed)_
+  > ...in the top areas the next year and then combining additional manval inspections and CCTV subsequent years for the other service areas this was when we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=575s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-07-23] Board of Selectmen** -- Board of Selectmen Meeting July 23, 2024
   > ...budget the need for the relining was a result of findings from routine maintenance and CCTV work for our facility root penetration was observed along with two separate pipe materials...
@@ -1503,16 +1617,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=P76-A7Buil0&t=3746s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-07-12] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting July 9 ,2024
-  > ...of your manholes in your system being inspected and maybe doing a little bit of CCTV work and something that you had done um the manhole inspections with the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=1626s)  _(term: surveillance_general, unreviewed)_
+  > ...with covers right exactly and then evaluate um which areas we're going to start to look to CCTV to reine so what what do we have budgeted for next phases I mean the covers are...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=2740s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-07-12] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting July 9 ,2024
-  > ...solve one problem and create another so an alternate method to um simply lineing is doing double CCTV putting CCTV through your sewer and putting CCTV through your drain which is not commonly...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=2577s)  _(term: surveillance_general, unreviewed)_
+  > ...groundwater leaking into your pipe um so I'd look at targeting possibly four sub areas for CCTV next year and possibly taking those two 1centers and finishing up the manhole inspections in those on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=1574s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-07-12] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting July 9 ,2024
-  > ...it's basically lwh hanging fruit um we could begin the subsurface investigation for CCTV so uh I mentioned I'd come back to those 27 remaining catch basins so...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=2437s)  _(term: surveillance_general, unreviewed)_
+  > ...that had smoke the benefit of this is you do CCTV in advance of the you require CCTV in advance of putting in your liner they they put in a fresh liner it cures in place and they only...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=2497s)  _(term: surveillance_general, unreviewed)_
+
+- **[2024-07-12] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting July 9 ,2024
+  > ...infiltration unless you do the subsurface investigation which is the CCTV putting a little camera in the sewer and having that camera drive along during High groundwater and as that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=1552s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-07-12] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting July 9 ,2024
   > ...manhole inspections to 62% and would hit approximately 40% of your CCTV then in year three um I'd go back and finish the rest of the manhole inspections of course this could be...
@@ -1523,24 +1641,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=2493s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-07-12] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting July 9 ,2024
-  > ...with covers right exactly and then evaluate um which areas we're going to start to look to CCTV to reine so what what do we have budgeted for next phases I mean the covers are...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=2740s)  _(term: surveillance_general, unreviewed)_
-
-- **[2024-07-12] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting July 9 ,2024
   > ...an alternate method to um simply lineing is doing double CCTV putting CCTV through your sewer and putting CCTV through your drain which is not commonly done but can be done um and trying to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=2582s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-07-12] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting July 9 ,2024
-  > ...infiltration unless you do the subsurface investigation which is the CCTV putting a little camera in the sewer and having that camera drive along during High groundwater and as that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=1552s)  _(term: surveillance_general, unreviewed)_
+  > ...it's basically lwh hanging fruit um we could begin the subsurface investigation for CCTV so uh I mentioned I'd come back to those 27 remaining catch basins so...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=2437s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-07-12] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting July 9 ,2024
-  > ...groundwater leaking into your pipe um so I'd look at targeting possibly four sub areas for CCTV next year and possibly taking those two 1centers and finishing up the manhole inspections in those on...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=1574s)  _(term: surveillance_general, unreviewed)_
+  > ...of your manholes in your system being inspected and maybe doing a little bit of CCTV work and something that you had done um the manhole inspections with the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=1626s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-07-12] Water Pollution Control Authority** -- Water Pollution Control Authority Special Meeting July 9 ,2024
-  > ...that had smoke the benefit of this is you do CCTV in advance of the you require CCTV in advance of putting in your liner they they put in a fresh liner it cures in place and they only...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=2497s)  _(term: surveillance_general, unreviewed)_
+  > ...solve one problem and create another so an alternate method to um simply lineing is doing double CCTV putting CCTV through your sewer and putting CCTV through your drain which is not commonly...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L_kBKVUBaxw&t=2577s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-07-10] Parking Commission** -- Parking Commission Meeting July 10, 2024
   > ...that you know again if we were going to get forensic about this there's probably CCTV you know cameras that can show Marne walking up to the door uh you know not knowing she had yet been ticketed...
@@ -1563,16 +1677,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=yf1WbDRd5xc&t=1431s)  _(term: surveillance_general, unreviewed)_
 
 - **[2023-02-14] Board of Finance** -- Town Council & Board of Finance CMTE on Finance, Govt & General Government Meeting February 14, 2023
-  > ...air conditioning uh Mass mounted surveillance camera and a wireless modem and the surveillance camera was a recommendation from PD this is a unit this unit actually is one that's a NASA...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AxC1Eew4qGc&t=718s)  _(term: surveillance_general, unreviewed)_
+  > ...or device they just plug in and go keep air conditioning uh Mass mounted surveillance camera and a wireless modem and the surveillance camera was a recommendation from PD this is a unit...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AxC1Eew4qGc&t=716s)  _(term: surveillance_general, unreviewed)_
 
 - **[2023-02-14] Board of Finance** -- Board of Finance Budget Meeting February 14, 2023
   > ...couple years they've spiked um so now now that we have all those CCTV can we just we are we've been able to find some we've been able to track them down and chase them down the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_xtBUv2X_Hk&t=4335s)  _(term: surveillance_general, unreviewed)_
 
 - **[2023-02-14] Board of Finance** -- Town Council & Board of Finance CMTE on Finance, Govt & General Government Meeting February 14, 2023
-  > ...or device they just plug in and go keep air conditioning uh Mass mounted surveillance camera and a wireless modem and the surveillance camera was a recommendation from PD this is a unit...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AxC1Eew4qGc&t=716s)  _(term: surveillance_general, unreviewed)_
+  > ...air conditioning uh Mass mounted surveillance camera and a wireless modem and the surveillance camera was a recommendation from PD this is a unit this unit actually is one that's a NASA...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AxC1Eew4qGc&t=718s)  _(term: surveillance_general, unreviewed)_
 
 - **[2023-01-30] Board of Finance** -- Board of Finance and Town Council  Committee on Public Safety/Emergency Services January 30, 2023
   > ...with the other members of our committee we we would like to put a mass mounted surveillance camera on it the example I use as to where that has benefit in particular is the Fourth of July I think...
@@ -1583,12 +1697,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=CQPW2Ki8hyE&t=1049s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-12-22] Planning & Zoning Commission** -- Planning & Zoning Special Meeting December 22, 2022
-  > ...right Dan that's what it is it's a they run a camera through the line okay to clean and televise CCTV approximately 300 linear feet of sanitary sewer utilizing a flow monitor...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Tp-yyKBob_4&t=4778s)  _(term: surveillance_general, unreviewed)_
-
-- **[2022-12-22] Planning & Zoning Commission** -- Planning & Zoning Special Meeting December 22, 2022
   > ...can we just you want to just uh Crystal you want to highlight that asking to clean and televise CCTV no that's that's right Dan that's what it is it's a they run a camera through the line okay to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Tp-yyKBob_4&t=4768s)  _(term: surveillance_general, unreviewed)_
+
+- **[2022-12-22] Planning & Zoning Commission** -- Planning & Zoning Special Meeting December 22, 2022
+  > ...right Dan that's what it is it's a they run a camera through the line okay to clean and televise CCTV approximately 300 linear feet of sanitary sewer utilizing a flow monitor...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Tp-yyKBob_4&t=4778s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-12-22] Planning & Zoning Commission** -- Planning & Zoning Special Meeting December 22, 2022
   > ...was requested asking to clean to clean and televise CCTV approximately 300 linear feet of sanitary sewer that doesn't make sense is that her...
@@ -1723,11 +1837,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 26
-- Videos registered: 1528 (fetched: 1008, no captions: 6)
+- Videos registered: 1528 (fetched: 1033, no captions: 6)
 - Date range covered: 2020-03-18 to 2026-08-25 (all 1528 videos dated)
 
 
@@ -1742,7 +1861,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| new_canaan_ct | videos | 2026-08-31 07:25:47.287973 | 1614 |
+| new_canaan_ct | videos | 2026-08-31 13:53:22.724135 | 1614 |
 
 
 ## Registered meeting bodies
@@ -1828,5 +1947,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:14:07 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Canaan"`_
+_Generated 2026-08-31T14:41:02 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Canaan"`_
 

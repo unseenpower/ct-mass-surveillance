@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Waterfo
 - **17 mentions** across **5 meetings**
 - **First mention:** 2026-05-05  |  **Most recent:** 2026-08-19
 - **Technologies discussed:** alpr
-- **Coverage:** 29 of 69 known Waterford meetings transcribed (42%)
+- **Coverage:** 29 of 70 known Waterford meetings transcribed (41%)
 - **Not the full history:** transcripts begin **2026-03-24**, but Waterford's published video archive goes back to **2025-11-19**. Meetings before 2026 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 - **1 additional mention** in agendas and minutes (keyword scan, not yet human-reviewed)
 
@@ -420,12 +420,17 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 7
-- Videos registered: 69 (fetched: 29, no captions: 4)
-- Date range covered: 2025-11-19 to 2026-08-26 — **based on the 33 of 69 videos that carry a parseable upload date**; the other 36 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 70 (fetched: 29, no captions: 4)
+- Date range covered: 2025-11-19 to 2026-08-26 — **based on the 33 of 70 videos that carry a parseable upload date**; the other 37 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -439,8 +444,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| town_of_waterford_ct | streams | 2026-08-31 07:35:30.183751 | 68 |
-| town_of_waterford_ct | videos | 2026-08-31 07:35:30.851319 | 2 |
+| town_of_waterford_ct | streams | 2026-08-31 13:49:25.637663 | 69 |
+| town_of_waterford_ct | videos | 2026-08-31 13:49:26.330668 | 2 |
 
 
 ## Registered meeting bodies
@@ -450,7 +455,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Board of Finance | budget_finance | True | 20 |
 | Board of Selectmen | council | True | 26 |
 | Board of Education | education | True | 0 |
-| Representative Town Meeting | other | True | 12 |
+| Representative Town Meeting | other | True | 13 |
 | Board of Police Commissioners | public_safety | True | 8 |
 | Board of Ethics |  | True | 2 |
 | Water & Utility Commission |  | True | 1 |
@@ -462,7 +467,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 159 (fetched: 27)
+- Documents registered: 160 (fetched: 27)
 - Date range covered: 2024-01-01 to 2026-09-14
 
 
@@ -504,5 +509,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:19:24 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Waterford"`_
+_Generated 2026-08-31T14:44:46 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Waterford"`_
 

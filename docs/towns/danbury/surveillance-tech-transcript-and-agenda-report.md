@@ -5,11 +5,16 @@
 
 This report collects every mention of surveillance technology found in **Danbury**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-
-**No surveillance-technology mentions have been found in this town's meetings yet.** That is not the same as none existing -- read the coverage note below, and [Gaps and caveats](#gaps-and-caveats), before treating this as an answer about the town.
-
-
+- **1 mention** across **1 meeting**
+- **First mention:** 2021-05-07  |  **Most recent:** 2021-05-07
+- **Technologies discussed:** body_camera
 - **Coverage:** 20 of 20 known Danbury meetings transcribed (100%)
+
+
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
+
+
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
@@ -60,12 +65,21 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ## Mentions by topic: first seen / most recent
 
-*(none)*
+| topic | mentions | meetings | first_seen | most_recent |
+| --- | --- | --- | --- | --- |
+| body_camera | 1 | 1 | 2021-05-07 | 2021-05-07 |
 
 
 ## Timeline
 
-0 meetings surfaced a finding (none have a known date).
+1 meetings surfaced a finding (1 dated, spanning 2021-05-07 to 2021-05-07; 0 of unknown date, listed last).
+
+
+### 2021-05-07 -- City Council
+
+**City Council Meeting 05/2021 (Rescheduled)** _(topics: body_camera)_
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=8ZmFoiem0lI&t=10550s)  > ...and we recently completed training and you'll notice every uniform officer out on the street is wearing a body worn camera and we have upgraded at least 35 of our marked police...
 
 
 ## Findings by topic
@@ -88,7 +102,9 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### body_camera
 
-*(no findings)*
+- **[2021-05-07] City Council** -- City Council Meeting 05/2021 (Rescheduled)
+  > ...and we recently completed training and you'll notice every uniform officer out on the street is wearing a body worn camera and we have upgraded at least 35 of our marked police...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8ZmFoiem0lI&t=10550s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -280,6 +296,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -299,8 +320,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| city_of_danbury | streams | 2026-08-31 07:18:10.886961 | 44 |
-| city_of_danbury | videos | 2026-08-31 07:18:12.394194 | 87 |
+| city_of_danbury | streams | 2026-08-31 14:12:43.681437 | 44 |
+| city_of_danbury | videos | 2026-08-31 14:12:45.307548 | 87 |
 
 
 ## Registered meeting bodies
@@ -357,5 +378,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:09:32 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Danbury"`_
+_Generated 2026-08-31T14:36:43 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Danbury"`_
 

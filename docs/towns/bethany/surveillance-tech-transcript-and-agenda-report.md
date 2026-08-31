@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **Bethany**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **14 mentions** across **6 meetings**
+- **15 mentions** across **6 meetings**
 - **First mention:** 2025-10-07  |  **Most recent:** 2026-08-19
 - **Technologies discussed:** alpr, drone, facial_recognition, predictive_policing
 - **Coverage:** 132 of 188 known Bethany meetings transcribed (70%)
@@ -70,7 +70,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | --- | --- | --- | --- | --- |
 | alpr | 9 | 3 | 2026-02-10 | 2026-08-19 |
 | drone | 3 | 3 | 2025-10-07 | 2026-02-04 |
-| facial_recognition | 1 | 1 | 2026-05-06 | 2026-05-06 |
+| facial_recognition | 2 | 1 | 2026-05-06 | 2026-05-06 |
 | predictive_policing | 1 | 1 | 2026-05-06 | 2026-05-06 |
 
 
@@ -122,6 +122,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `facial_recognition` [▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10435s)  > ...wanted these cameras on every street and he wants them equipped with microphones and with facial recognition and he wants it 24/7. What we have here is a naked attempt for...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10479s)  > ...system and as it turns out anyone from inside the company can too. It was later found out that Flock employees were caught spying on children....
+
+- `facial_recognition` [▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10642s)  > ...>> Yes. >> For what? >> Most of those stores also have facial recognition. They also they have people that support...
 
 - `predictive_policing` [▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10844s)  > ...in in in being uh concerned about this. And I think Palantir is asking for access to this data too if I'm not mistaken. >> Yeah, but I think it is kind of one of...
 
@@ -230,6 +232,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 
 ### facial_recognition
+
+- **[2026-05-06] Planning & Zoning Commission** -- 05/06/2026 Planning & Zoning Commission | Bethany, CT
+  > ...>> Yes. >> For what? >> Most of those stores also have facial recognition. They also they have people that support...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10642s)  _(term: facial_recognition, unreviewed)_
 
 - **[2026-05-06] Planning & Zoning Commission** -- 05/06/2026 Planning & Zoning Commission | Bethany, CT
   > ...wanted these cameras on every street and he wants them equipped with microphones and with facial recognition and he wants it 24/7. What we have here is a naked attempt for...
@@ -397,6 +403,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -416,8 +427,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| bethany_ct | streams | 2026-08-31 07:16:02.904641 | 92 |
-| bethany_ct | videos | 2026-08-31 07:16:04.709706 | 102 |
+| bethany_ct | streams | 2026-08-31 14:10:30.056785 | 92 |
+| bethany_ct | videos | 2026-08-31 14:10:31.988910 | 102 |
 
 
 ## Registered meeting bodies
@@ -479,5 +490,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:07:59 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bethany"`_
+_Generated 2026-08-31T14:35:27 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bethany"`_
 

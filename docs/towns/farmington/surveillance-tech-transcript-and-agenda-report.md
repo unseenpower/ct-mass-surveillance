@@ -5,10 +5,10 @@
 
 This report collects every mention of surveillance technology found in **Farmington**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **61 mentions** across **25 meetings**
-- **First mention:** 2024-02-07  |  **Most recent:** 2026-03-12
+- **78 mentions** across **31 meetings**
+- **First mention:** 2023-10-18  |  **Most recent:** 2026-03-12
 - **Technologies discussed:** alpr, body_camera, drone, predictive_policing
-- **Coverage:** 325 of 921 known Farmington meetings transcribed (35%)
+- **Coverage:** 353 of 921 known Farmington meetings transcribed (38%)
 - **Not the full history:** transcripts begin **2020-05-11**, but Farmington's published video archive goes back to **2015-10-13**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -68,15 +68,62 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 26 | 7 | 2025-01-13 | 2026-03-12 |
+| alpr | 31 | 7 | 2025-01-13 | 2026-03-12 |
 | body_camera | 2 | 2 | 2024-02-27 | 2024-02-27 |
-| drone | 31 | 16 | 2024-02-07 | 2025-08-19 |
+| drone | 43 | 22 | 2023-10-18 | 2025-08-19 |
 | predictive_policing | 2 | 1 | 2024-11-18 | 2024-11-18 |
 
 
 ## Timeline
 
-25 meetings surfaced a finding (25 dated, spanning 2024-02-07 to 2026-03-12; 0 of unknown date, listed last).
+31 meetings surfaced a finding (31 dated, spanning 2023-10-18 to 2026-03-12; 0 of unknown date, listed last).
+
+
+### 2023-10-18 -- Farmington High School Building Committee
+
+**Farmington High School Building Committee - Communications Subcommittee Meeting - October 18, 2023** _(topics: drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=wA5wdEBq6y8&t=138s)  > ...cool yeah having a rainbow really great so we um uh Nelson told me that they're gonna try to have somebody out for drone to re-shoot an updated version of the video that we have here so that'll look...
+
+- `drone` [▸](https://www.youtube.com/watch?v=wA5wdEBq6y8&t=157s)  > ...they're trying to get that done so hopefully we'll have some things soon to update the progress in the Drone aspect of it so we get some really good shots and you can really see the the building...
+
+- `drone` [▸](https://www.youtube.com/watch?v=wA5wdEBq6y8&t=198s)  > ...our discussions from a couple months back but other than that else is pretty much status quo did you guys use a DJI drone I don't know what uses um we have a service that we we hire to come out to...
+
+- `drone` [▸](https://www.youtube.com/watch?v=wA5wdEBq6y8&t=203s)  > ...back but other than that else is pretty much status quo did you guys use a DJI drone I don't know what uses um we have a service that we we hire to come out to do...
+
+
+### 2023-10-18 -- Farmington High School Building Committee
+
+**Farmington High School Building Committee Meeting - October 18, 2023** _(topics: drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=x204-GroQ1c&t=3143s)  > ...stuff like that to get out to the community um on our website currently we have a drone video that was Tak probably June time frame um OMG has another drone coming this week to get some updated...
+
+- `drone` [▸](https://www.youtube.com/watch?v=x204-GroQ1c&t=3145s)  > ...community um on our website currently we have a drone video that was Tak probably June time frame um OMG has another drone coming this week to get some updated shots which will be really cool to see...
+
+
+### 2023-11-15 -- Farmington High School Building Committee
+
+**Farmington High School Building Committee - Communications Subcommittee Meeting - November 15, 2023** _(topics: drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=2SI0cw8BQEs&t=34s)  > ...that's pretty much it and we did I'm not I don't remember the timing of the Drone video from last time but we have a new updated drone fly over um very nice so it it does look...
+
+- `drone` [▸](https://www.youtube.com/watch?v=2SI0cw8BQEs&t=36s)  > ...it and we did I'm not I don't remember the timing of the Drone video from last time but we have a new updated drone fly over um very nice so it it does look nice with the progress and I think...
+
+- `drone` [▸](https://www.youtube.com/watch?v=2SI0cw8BQEs&t=166s)  > ...point so that's that's the website updates um pretty cool to have the new updated Drone footage um we can move on to review the content for the FHS BC newsletter so at...
+
+
+### 2023-11-15 -- Farmington High School Building Committee
+
+**Farmington High School Building Committee Meeting - November 15, 2023** _(topics: drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=HrM5pwcOi64&t=1704s)  > ...a picture of the students there so right now we and actually the website um has uh some of the Drone videos and it was a a gorgeous time um actually with all all col so those are some that's the shot of...
+
+
+### 2023-12-06 -- Conservation and Inland Wetlands Commission
+
+**Conservation and Inland Wetlands Commission Meeting - December 6, 2023** _(topics: drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=GQGtc0FSpR0&t=5123s)  > ...drones for inspections and uh the legality of like putting a drone over somebody else's property in order to surveil a potential...
 
 
 ### 2024-02-07 -- Conservation and Inland Wetlands Commission
@@ -169,6 +216,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### 2024-08-21 -- Farmington High School Building Committee
 
+**Farmington High School Building Committee - Communications Subcommittee Meeting - August 21, 2024** _(topics: drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=e6NlerFC0Ug&t=1503s)  > ...just I some casual video but we just need some for the half hour yeah so small DJI camera we can talk offline but yeah we have some...
+
+
+### 2024-08-21 -- Farmington High School Building Committee
+
 **Farmington High School Building Committee Meeting - August 21, 2024** _(topics: drone)_
 
 - `drone` [▸](https://www.youtube.com/watch?v=eCeWV4YTHiI&t=802s)  > ...other tennis cours uh that will start October time frame plan part of October early remember drone shops I did have uh JJC drones here today there a lot of activity building they took shots at the...
@@ -236,12 +290,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Farmington Town Council Meeting - 02/25/25** _(topics: alpr)_
 
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=vtmGfkAqjLk&t=767s)  > ...department funds will be used to continue to pay for body and dash cameras and for seven License Plate Reader systems uh Town manager I'm recommending $710,000 for the town...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=vtmGfkAqjLk&t=3876s)  > ...improvements and funds will be used to continue to pay for the body and in dash cameras and to purchase seven License Plate Reader systems um this is this includes our...
+
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=vtmGfkAqjLk&t=3897s)  > ...payment of 67,5 2 so that's the first and then we lease seven flock cameras around town for $2,500 each for...
 
 
 ### 2025-02-25 -- Town Council
 
 **Town Council Meeting - February 25, 2025** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=7SkXgNJPYHg&t=754s)  > ...department funds will be used to continue to pay for body and dash cameras and for seven License Plate Reader systems uh Town manager I'm recommending $710,000 for the town...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=7SkXgNJPYHg&t=3872s)  > ...improvements and funds will be used to continue to pay for the body and in dash cameras and to purchase seven License Plate Reader systems um this is this includes our...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=7SkXgNJPYHg&t=3893s)  > ...payment of 67,5 2 so that's the first and then we lease seven flock cameras around down for $2,500 each for $...
 
@@ -290,6 +352,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### 2026-02-24 -- Town Council
 
 **Town Council Meeting - February 24, 2026** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=2310s)  > ...will support continued technology improvements, including body and dash cameras and three new license plate reader systems. Funds will also be used to replace a 24-hour supervisor's...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6272s)  > ...will be used to continue to pay for body and in-dash cameras, and to purchase three uh additional license plate reader systems. Uh Brian and the group, do you want me to go through them all just very...
 
@@ -345,96 +409,116 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=3_YtFUYl1tw&t=3843s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-24] Town Council** -- Farmington Town Council Meeting - 02/24/26
-  > ...be used to continue to pay for body and in dash cameras and to purchase three uh additional license plate reader systems. Brian and the group, do you want me to go through them all just very quickly...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6275s)  _(term: alpr_flock, unreviewed)_
+  > ...continued technology improvements, including body and dash cameras and three new license plate reader systems. Funds will also be used to replace a 24-hour supervisor's vehicle in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=2326s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
-  > ...will be used to continue to pay for body and in-dash cameras, and to purchase three uh additional license plate reader systems. Uh Brian and the group, do you want me to go through them all just very...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6272s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
-  > ...know, the fabric of technology and security of a town. Is so So, it's definitely in the license plate reader system. It seems like there's a there's a lot of towns doing a lot of things and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6598s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
-  > ...So, just to stay on that topic for a little bit. So, Most of you have heard of Flock. That's what we use and I and I think their business practice is exactly what you're talking about the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6664s)  _(term: alpr_flock, unreviewed)_
+- **[2026-02-24] Town Council** -- Farmington Town Council Meeting - 02/24/26
+  > ...that. Um so ju just to stay on that topic for a little bit. So um most of you have heard of Flock. That's what we use. And I and I think their business practice is exactly what you're talking...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6666s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-24] Town Council** -- Farmington Town Council Meeting - 02/24/26
   > ...millions of dollars in loss for uh residential burglaries. We use this flock camera to be able to track them up and down the coast in the country. and that's how we develop the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6938s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
-  > ...So, West Hartford has it, Avon has it, Simsbury has it, Bloomfield has it. Like everybody around us has Flock. Hartford used to have a different one. They're moving to Flock because of the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6678s)  _(term: alpr_flock, unreviewed)_
+  > ...will support continued technology improvements, including body and dash cameras and three new license plate reader systems. Funds will also be used to replace a 24-hour supervisor's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=2310s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-24] Town Council** -- Farmington Town Council Meeting - 02/24/26
+  > ...be used to continue to pay for body and in dash cameras and to purchase three uh additional license plate reader systems. Brian and the group, do you want me to go through them all just very quickly...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6275s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
-  > ...everybody around us has Flock. Hartford used to have a different one. They're moving to Flock because of the interoperability like you're saying. Not only throughout the region but...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6683s)  _(term: alpr_flock, unreviewed)_
+  > ...dollars in loss for residential burglaries. We use this Flock camera to be able to track them up and down the coast in the country and that's how we developed the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6936s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
-  > ...safeguards. What we've done is because a lot of places have Flock, we've also worked with them to ensure everybody's been talking about immigration, right?...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6845s)  _(term: alpr_flock, unreviewed)_
+  > ...know, the fabric of technology and security of a town. Is so So, it's definitely in the license plate reader system. It seems like there's a there's a lot of towns doing a lot of things and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6598s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-24] Town Council** -- Farmington Town Council Meeting - 02/24/26
   > ...the answer was no. Right? We've had runaway at risk kids who we have tracked to the Midwest using this flock system. And so if I limited it to just here, we're not going to. Most of you have...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6919s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
-  > ...Reproductive rights. Those are the two topics that people are making sure that this Flock system's not being used that the Trust Act in Connecticut is honored the way it is....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6855s)  _(term: alpr_flock, unreviewed)_
+- **[2026-02-24] Town Council** -- Farmington Town Council Meeting - 02/24/26
+  > ...know the fabric of technology and security of a town is so so definitely in the license plate reader system it seems like there's a there's a lot of towns doing a lot of things And some,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6600s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
-  > ...And what we have done is we've worked with them once this policy is in place, Flock the company will make sure that any police department that searches this database has to approve that they are...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6866s)  _(term: alpr_flock, unreviewed)_
+  > ...will be used to continue to pay for body and in-dash cameras, and to purchase three uh additional license plate reader systems. Uh Brian and the group, do you want me to go through them all just very...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6272s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-24] Town Council** -- Farmington Town Council Meeting - 02/24/26
   > ...And what we have done is we've worked with them. Once this policy is in place, Flock the company will make sure that any police department that searches this database has to approve that they are...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6869s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
-  > ...the your answer was no, right? We've had runaway at risk kids who we have tracked to the Midwest using this Flock system. And so if I limited it to just here, we're not going to. Most of you have...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6916s)  _(term: alpr_flock, unreviewed)_
+  > ...And what we have done is we've worked with them once this policy is in place, Flock the company will make sure that any police department that searches this database has to approve that they are...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6866s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
-  > ...dollars in loss for residential burglaries. We use this Flock camera to be able to track them up and down the coast in the country and that's how we developed the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6936s)  _(term: alpr_flock, unreviewed)_
+  > ...So, just to stay on that topic for a little bit. So, Most of you have heard of Flock. That's what we use and I and I think their business practice is exactly what you're talking about the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6664s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-24] Town Council** -- Farmington Town Council Meeting - 02/24/26
   > ...immigration, right? Reproductive rights. Those are the two topics that people are making sure that this flock system is not being used that the trust act in Connecticut is honored the way it is....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6857s)  _(term: alpr_flock, unreviewed)_
 
+- **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
+  > ...Reproductive rights. Those are the two topics that people are making sure that this Flock system's not being used that the Trust Act in Connecticut is honored the way it is....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6855s)  _(term: alpr_flock, unreviewed)_
+
 - **[2026-02-24] Town Council** -- Farmington Town Council Meeting - 02/24/26
   > ...required for every police department and it puts safeguards. Um what we've done is because a lot of places have flock, we've also worked with them to ensure everybody's been talking about...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6846s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-02-24] Town Council** -- Farmington Town Council Meeting - 02/24/26
-  > ...continued technology improvements, including body and dash cameras and three new license plate reader systems. Funds will also be used to replace a 24-hour supervisor's vehicle in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=2326s)  _(term: alpr_flock, unreviewed)_
+- **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
+  > ...So, West Hartford has it, Avon has it, Simsbury has it, Bloomfield has it. Like everybody around us has Flock. Hartford used to have a different one. They're moving to Flock because of the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6678s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-24] Town Council** -- Farmington Town Council Meeting - 02/24/26
   > ...has it. Like everybody around us has Flock. Uh Hartford used to have a different one. they're moving to flock because of the interoperability like you're saying not only throughout the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6685s)  _(term: alpr_flock, unreviewed)_
 
+- **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
+  > ...everybody around us has Flock. Hartford used to have a different one. They're moving to Flock because of the interoperability like you're saying. Not only throughout the region but...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6683s)  _(term: alpr_flock, unreviewed)_
+
 - **[2026-02-24] Town Council** -- Farmington Town Council Meeting - 02/24/26
   > ...Avon has it, Simsbury has it, Bloomfield has it. Like everybody around us has Flock. Uh Hartford used to have a different one. they're moving to flock because of the interoperability like...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6683s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-02-24] Town Council** -- Farmington Town Council Meeting - 02/24/26
-  > ...know the fabric of technology and security of a town is so so definitely in the license plate reader system it seems like there's a there's a lot of towns doing a lot of things And some,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6600s)  _(term: alpr_flock, unreviewed)_
+- **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
+  > ...safeguards. What we've done is because a lot of places have Flock, we've also worked with them to ensure everybody's been talking about immigration, right?...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6845s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-02-24] Town Council** -- Farmington Town Council Meeting - 02/24/26
-  > ...that. Um so ju just to stay on that topic for a little bit. So um most of you have heard of Flock. That's what we use. And I and I think their business practice is exactly what you're talking...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6666s)  _(term: alpr_flock, unreviewed)_
+- **[2026-02-24] Town Council** -- Town Council Meeting - February 24, 2026
+  > ...the your answer was no, right? We've had runaway at risk kids who we have tracked to the Midwest using this Flock system. And so if I limited it to just here, we're not going to. Most of you have...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6916s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-02-25] Town Council** -- Town Council Meeting - February 25, 2025
+  > ...improvements and funds will be used to continue to pay for the body and in dash cameras and to purchase seven License Plate Reader systems um this is this includes our...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7SkXgNJPYHg&t=3872s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-02-25] Town Council** -- Farmington Town Council Meeting - 02/25/25
+  > ...improvements and funds will be used to continue to pay for the body and in dash cameras and to purchase seven License Plate Reader systems um this is this includes our...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vtmGfkAqjLk&t=3876s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-25] Town Council** -- Farmington Town Council Meeting - 02/25/25
   > ...payment of 67,5 2 so that's the first and then we lease seven flock cameras around town for $2,500 each for...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vtmGfkAqjLk&t=3897s)  _(term: alpr_flock, unreviewed)_
 
+- **[2025-02-25] Town Council** -- Farmington Town Council Meeting - 02/25/25
+  > ...department funds will be used to continue to pay for body and dash cameras and for seven License Plate Reader systems uh Town manager I'm recommending $710,000 for the town...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vtmGfkAqjLk&t=767s)  _(term: alpr_flock, unreviewed)_
+
 - **[2025-02-25] Town Council** -- Town Council Meeting - February 25, 2025
   > ...payment of 67,5 2 so that's the first and then we lease seven flock cameras around down for $2,500 each for $...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7SkXgNJPYHg&t=3893s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-02-25] Town Council** -- Town Council Meeting - February 25, 2025
+  > ...department funds will be used to continue to pay for body and dash cameras and for seven License Plate Reader systems uh Town manager I'm recommending $710,000 for the town...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7SkXgNJPYHg&t=754s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-01-13] Town Plan and Zoning Commission** -- Plan and Zoning Commission Meeting - January 13, 2025
   > ...ultimately registered right I don't know how that works yeah I'm also picturing though if like people flock you know a bunch of food trucks blocked to a spot like competition for spaces but that's...
@@ -448,13 +532,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### body_camera
 
-- **[2024-02-27] Town Council** -- Farmington Town Council Meeting - 02-27-24
-  > ...cameras that's the breakout and that the body cameras that's the Mandate from the state yes yeah that's the uh body cam 5year uh contract and this will be year three and then at 2728 we don't know...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=N-VGFPY8z7g&t=4984s)  _(term: body_camera, unreviewed)_
-
 - **[2024-02-27] Town Council** -- Town Council Meeting - February 27, 2024
   > ...C that's the breakout and that the body cameras that's the Mandate from the state yes yeah that's the uh body cam fiveyear uh contract and this will be year three and then at 2728 we don't...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dnxi-qRuhn0&t=4984s)  _(term: body_camera, unreviewed)_
+
+- **[2024-02-27] Town Council** -- Farmington Town Council Meeting - 02-27-24
+  > ...cameras that's the breakout and that the body cameras that's the Mandate from the state yes yeah that's the uh body cam 5year uh contract and this will be year three and then at 2728 we don't know...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=N-VGFPY8z7g&t=4984s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -495,6 +579,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...concrete will cure and then they'll start on the post tensioning um drone shots were shared last week and I think he'll be showing a quick video on that and umide of that we'll review...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mo6IeBg-VU8&t=3176s)  _(term: drone, unreviewed)_
 
+- **[2024-10-16] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - October 16, 2024
+  > ...SubCom report but I'm hoping that we can do the the Drone footage video which is which is very cool clap it's a very timely video too...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mo6IeBg-VU8&t=4435s)  _(term: drone, unreviewed)_
+
 - **[2024-10-16] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - October 16, 2024
   > ...if you meet us or anything to the website but I don't think good we got the new Drone footage that we can put up that's on the um oh wait you want to show it yeah and I also...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IS5vMYDarHs&t=1395s)  _(term: drone, unreviewed)_
@@ -507,33 +595,33 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...the application for payment later on in the May any questions we do um do the the Drone footage in Communications a little bit later I think it'll be interesting for...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mo6IeBg-VU8&t=3199s)  _(term: drone, unreviewed)_
 
-- **[2024-10-16] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - October 16, 2024
-  > ...SubCom report but I'm hoping that we can do the the Drone footage video which is which is very cool clap it's a very timely video too...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mo6IeBg-VU8&t=4435s)  _(term: drone, unreviewed)_
+- **[2024-09-18] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - September 18, 2024
+  > ...subgrade and post tension slap were that's scheduled to start in October drone shots um our drone person will be here tomorrow at 1 School dismissed out a half the day so they're coming at 1:00...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jlNPIVzhYF0&t=1096s)  _(term: drone, unreviewed)_
 
 - **[2024-09-18] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - September 18, 2024
   > ...here tomorrow at 1 School dismissed out a half the day so they're coming at 1:00 to do uh some interior Drone footage and um we're just coordinating with the 1928 building project...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=jlNPIVzhYF0&t=1108s)  _(term: drone, unreviewed)_
-
-- **[2024-09-18] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - September 18, 2024
-  > ...subgrade and post tension slap were that's scheduled to start in October drone shots um our drone person will be here tomorrow at 1 School dismissed out a half the day so they're coming at 1:00...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jlNPIVzhYF0&t=1096s)  _(term: drone, unreviewed)_
 
 - **[2024-09-04] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - September 4, 2024
   > ...opened uh we had Nelson like a month ago we had a drone Nelson is there new drone shot you have a new drone shot I have one for Mid August I'm having the Drone guy come back on the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-ZmW7wMoSkA&t=967s)  _(term: drone, unreviewed)_
 
 - **[2024-09-04] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - September 4, 2024
-  > ...shot you have a new drone shot I have one for Mid August I'm having the Drone guy come back on the 19th to do the interior shots we didn't take good shots with all the MS good the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-ZmW7wMoSkA&t=972s)  _(term: drone, unreviewed)_
-
-- **[2024-09-04] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - September 4, 2024
   > ...new one they did when the building opened uh we had Nelson like a month ago we had a drone Nelson is there new drone shot you have a new drone shot I have one for Mid August I'm...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-ZmW7wMoSkA&t=965s)  _(term: drone, unreviewed)_
+
+- **[2024-09-04] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - September 4, 2024
+  > ...shot you have a new drone shot I have one for Mid August I'm having the Drone guy come back on the 19th to do the interior shots we didn't take good shots with all the MS good the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-ZmW7wMoSkA&t=972s)  _(term: drone, unreviewed)_
 
 - **[2024-08-21] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - August 21, 2024
   > ...other tennis cours uh that will start October time frame plan part of October early remember drone shops I did have uh JJC drones here today there a lot of activity building they took shots at the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eCeWV4YTHiI&t=802s)  _(term: drone, unreviewed)_
+
+- **[2024-08-21] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - August 21, 2024
+  > ...just I some casual video but we just need some for the half hour yeah so small DJI camera we can talk offline but yeah we have some...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=e6NlerFC0Ug&t=1503s)  _(term: drone, unreviewed)_
 
 - **[2024-07-17] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - July 17, 2024
   > ...don't think though yeah and I'm wondering too if we can even use some of the footage from the Drone stuff and that something oh this is for after send video press release after the...
@@ -544,16 +632,28 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5aSNyLOqHR8&t=454s)  _(term: drone, unreviewed)_
 
 - **[2024-07-17] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - July 17, 2024
-  > ...some M are starting uh TP will see those soon and the Drone chots I'll let Deon show those inter drone chats where planning for Mid August we'll get those over so that U the school can use those...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5aSNyLOqHR8&t=458s)  _(term: drone, unreviewed)_
+  > ...thanks B um just a quick uh summary on high school we're going to show uh later in the meeting some Drone footage from last week and even from that footage to today um a lot of demolition has taken...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5aSNyLOqHR8&t=246s)  _(term: drone, unreviewed)_
 
 - **[2024-07-17] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - July 17, 2024
   > ...working on today so this is a and then we'll go back the homeage we got the new Drone footage from page so the floor's going to improve uh...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TSnyyoXChyk&t=457s)  _(term: drone, unreviewed)_
 
 - **[2024-07-17] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - July 17, 2024
-  > ...thanks B um just a quick uh summary on high school we're going to show uh later in the meeting some Drone footage from last week and even from that footage to today um a lot of demolition has taken...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5aSNyLOqHR8&t=246s)  _(term: drone, unreviewed)_
+  > ...some M are starting uh TP will see those soon and the Drone chots I'll let Deon show those inter drone chats where planning for Mid August we'll get those over so that U the school can use those...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5aSNyLOqHR8&t=458s)  _(term: drone, unreviewed)_
+
+- **[2024-06-19] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - June 19, 2024
+  > ...the post attenion uh will start um in drone shops we're uh looking to get our Drone footage sh done mid July once the mass demolition starts on the old building so there's there's a lot going...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=VBpQzniWuB0&t=486s)  _(term: drone, unreviewed)_
+
+- **[2024-06-19] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - June 19, 2024
+  > ...Asel you have document video you do like every week schedule the Drone building building speed see build don't we we can analyze one area in time...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4eKXyLBTwno&t=2690s)  _(term: drone, unreviewed)_
+
+- **[2024-06-19] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - June 19, 2024
+  > ...right in July so om as part of our drone overhead they're going to do a drone of the new building too right yeah yeah what I think we have to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4eKXyLBTwno&t=1720s)  _(term: drone, unreviewed)_
 
 - **[2024-06-19] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - June 19, 2024
   > ...drone right in July so om as part of our drone overhead they're going to do a drone of the new building too...
@@ -564,36 +664,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=VBpQzniWuB0&t=483s)  _(term: drone, unreviewed)_
 
 - **[2024-06-19] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - June 19, 2024
-  > ...right in July so om as part of our drone overhead they're going to do a drone of the new building too right yeah yeah what I think we have to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4eKXyLBTwno&t=1720s)  _(term: drone, unreviewed)_
-
-- **[2024-06-19] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - June 19, 2024
   > ...just suggest we we can design that out and then it out Med you're doing a drone right in July so om as part of our drone overhead...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4eKXyLBTwno&t=1711s)  _(term: drone, unreviewed)_
-
-- **[2024-06-19] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - June 19, 2024
-  > ...Asel you have document video you do like every week schedule the Drone building building speed see build don't we we can analyze one area in time...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4eKXyLBTwno&t=2690s)  _(term: drone, unreviewed)_
-
-- **[2024-06-19] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - June 19, 2024
-  > ...the post attenion uh will start um in drone shops we're uh looking to get our Drone footage sh done mid July once the mass demolition starts on the old building so there's there's a lot going...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=VBpQzniWuB0&t=486s)  _(term: drone, unreviewed)_
 
 - **[2024-05-15] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - May 15, 2024
   > ...careers and also the technical careers as well uh we'll get drone shots here uh drone person will be here mid July we want to get some shots of the mass Demolition and once that lastol takes...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tDKgR8j3tEE&t=828s)  _(term: drone, unreviewed)_
 
 - **[2024-05-15] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - May 15, 2024
-  > ...we're going to focus on the college careers and also the technical careers as well uh we'll get drone shots here uh drone person will be here mid July we want to get some shots of the mass...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tDKgR8j3tEE&t=824s)  _(term: drone, unreviewed)_
+  > ...college careers and also the technical careers as well we'll get drone shots here drone person will be here mid July we want to get some shots of the mass demolition but once that mass demolition...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=75I1EbPUfzo&t=3692s)  _(term: drone, unreviewed)_
 
 - **[2024-05-15] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - May 15, 2024
   > ...um and again we're going to focus on the college careers and also the technical careers as well we'll get drone shots here drone person will be here mid July we want to get some shots of the mass...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=75I1EbPUfzo&t=3688s)  _(term: drone, unreviewed)_
 
 - **[2024-05-15] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - May 15, 2024
-  > ...college careers and also the technical careers as well we'll get drone shots here drone person will be here mid July we want to get some shots of the mass demolition but once that mass demolition...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=75I1EbPUfzo&t=3692s)  _(term: drone, unreviewed)_
+  > ...we're going to focus on the college careers and also the technical careers as well uh we'll get drone shots here uh drone person will be here mid July we want to get some shots of the mass...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tDKgR8j3tEE&t=824s)  _(term: drone, unreviewed)_
 
 - **[2024-04-17] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - April 17, 2024
   > ...Engineers engineering careers and one last thing I want to touch upon is the drones uh we'll get our drone guy out here during the summer we want to get some video footage of the demolition of...
@@ -602,6 +690,50 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2024-02-07] Conservation and Inland Wetlands Commission** -- Conservation and Inland Wetlands Commission Meeting - February 7, 2024
   > ...heartbeat photo shows River was moving pretty swiftly that day yeah so so so Bruce are you going to put a drone in the uh the budget request for next school year yeah yeah I'll I'll try I'll...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Crlax3_kMcU&t=5006s)  _(term: drone, unreviewed)_
+
+- **[2023-12-06] Conservation and Inland Wetlands Commission** -- Conservation and Inland Wetlands Commission Meeting - December 6, 2023
+  > ...drones for inspections and uh the legality of like putting a drone over somebody else's property in order to surveil a potential...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=GQGtc0FSpR0&t=5123s)  _(term: drone, unreviewed)_
+
+- **[2023-11-15] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - November 15, 2023
+  > ...that's pretty much it and we did I'm not I don't remember the timing of the Drone video from last time but we have a new updated drone fly over um very nice so it it does look...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2SI0cw8BQEs&t=34s)  _(term: drone, unreviewed)_
+
+- **[2023-11-15] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - November 15, 2023
+  > ...point so that's that's the website updates um pretty cool to have the new updated Drone footage um we can move on to review the content for the FHS BC newsletter so at...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2SI0cw8BQEs&t=166s)  _(term: drone, unreviewed)_
+
+- **[2023-11-15] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - November 15, 2023
+  > ...it and we did I'm not I don't remember the timing of the Drone video from last time but we have a new updated drone fly over um very nice so it it does look nice with the progress and I think...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2SI0cw8BQEs&t=36s)  _(term: drone, unreviewed)_
+
+- **[2023-11-15] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - November 15, 2023
+  > ...a picture of the students there so right now we and actually the website um has uh some of the Drone videos and it was a a gorgeous time um actually with all all col so those are some that's the shot of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=HrM5pwcOi64&t=1704s)  _(term: drone, unreviewed)_
+
+- **[2023-10-18] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - October 18, 2023
+  > ...back but other than that else is pretty much status quo did you guys use a DJI drone I don't know what uses um we have a service that we we hire to come out to do...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wA5wdEBq6y8&t=203s)  _(term: drone, unreviewed)_
+
+- **[2023-10-18] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - October 18, 2023
+  > ...cool yeah having a rainbow really great so we um uh Nelson told me that they're gonna try to have somebody out for drone to re-shoot an updated version of the video that we have here so that'll look...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wA5wdEBq6y8&t=138s)  _(term: drone, unreviewed)_
+
+- **[2023-10-18] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - October 18, 2023
+  > ...community um on our website currently we have a drone video that was Tak probably June time frame um OMG has another drone coming this week to get some updated shots which will be really cool to see...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=x204-GroQ1c&t=3145s)  _(term: drone, unreviewed)_
+
+- **[2023-10-18] Farmington High School Building Committee** -- Farmington High School Building Committee Meeting - October 18, 2023
+  > ...stuff like that to get out to the community um on our website currently we have a drone video that was Tak probably June time frame um OMG has another drone coming this week to get some updated...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=x204-GroQ1c&t=3143s)  _(term: drone, unreviewed)_
+
+- **[2023-10-18] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - October 18, 2023
+  > ...our discussions from a couple months back but other than that else is pretty much status quo did you guys use a DJI drone I don't know what uses um we have a service that we we hire to come out to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wA5wdEBq6y8&t=198s)  _(term: drone, unreviewed)_
+
+- **[2023-10-18] Farmington High School Building Committee** -- Farmington High School Building Committee - Communications Subcommittee Meeting - October 18, 2023
+  > ...they're trying to get that done so hopefully we'll have some things soon to update the progress in the Drone aspect of it so we get some really good shots and you can really see the the building...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wA5wdEBq6y8&t=157s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -774,11 +906,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 2
 - Active meeting bodies: 9
-- Videos registered: 921 (fetched: 325, no captions: 0)
+- Videos registered: 921 (fetched: 353, no captions: 1)
 - Date range covered: 2015-10-13 to 2026-08-06 (all 921 videos dated)
 
 
@@ -794,9 +931,9 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| farmington_meetings | videos | 2026-08-31 07:29:16.492275 | 949 |
-| nutmeg_tv | streams | 2026-08-31 07:36:35.359674 | 3 |
-| nutmeg_tv | videos | 2026-08-31 07:37:38.216460 | 5270 |
+| farmington_meetings | videos | 2026-08-31 13:43:04.485899 | 949 |
+| nutmeg_tv | streams | 2026-08-31 14:17:55.743411 | 3 |
+| nutmeg_tv | videos | 2026-08-31 14:19:03.178474 | 5271 |
 
 
 ## Registered meeting bodies
@@ -840,9 +977,11 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (0 shown, max 25)
+### Videos with no captions available (1 shown, max 25)
 
-*(none)*
+| title | upload_date |
+| --- | --- |
+| Zoning Board of Appeals Meeting - December 18, 2023 | 2023-12-18 |
 
 
 ### Tabs never crawled
@@ -855,5 +994,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:11:24 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Farmington"`_
+_Generated 2026-08-31T14:38:20 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Farmington"`_
 

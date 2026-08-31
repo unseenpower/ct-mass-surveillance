@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **Naugatuck**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **17 mentions** across **9 meetings**
+- **18 mentions** across **9 meetings**
 - **First mention:** 2022-02-10  |  **Most recent:** 2026-08-04
 - **Technologies discussed:** alpr, body_camera, drone, facial_recognition, surveillance_general
 - **Coverage:** 141 of 242 known Naugatuck meetings transcribed (58%)
@@ -71,7 +71,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | alpr | 2 | 2 | 2025-12-18 | 2026-08-03 |
 | body_camera | 2 | 1 | 2024-03-04 | 2024-03-04 |
 | drone | 11 | 5 | 2024-03-04 | 2026-08-04 |
-| facial_recognition | 1 | 1 | 2022-02-10 | 2022-02-10 |
+| facial_recognition | 2 | 1 | 2022-02-10 | 2022-02-10 |
 | surveillance_general | 1 | 1 | 2026-07-07 | 2026-07-07 |
 
 
@@ -85,6 +85,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 **Naugatuck Board of Education Meeting Feb. 10, 2022** _(topics: facial_recognition)_
 
 - `facial_recognition` [▸](https://www.youtube.com/watch?v=ZjYeVPNY_ik&t=2043s)  > ...her whole school career so far has been seeing teachers covered part of kids development is facial recognition due to the pandemic and the unscientific guidelines put in place...
+
+- `facial_recognition` [▸](https://www.youtube.com/watch?v=ZjYeVPNY_ik&t=3148s)  > ...unconstitutional moving forward it the mass enables children to read facial cues facial recognition understanding someone's emotions based off their facial...
 
 
 ### 2024-03-04 -- Finance Board
@@ -264,6 +266,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### facial_recognition
 
 - **[2022-02-10] Board of Education** -- Naugatuck Board of Education Meeting Feb. 10, 2022
+  > ...unconstitutional moving forward it the mass enables children to read facial cues facial recognition understanding someone's emotions based off their facial...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZjYeVPNY_ik&t=3148s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-02-10] Board of Education** -- Naugatuck Board of Education Meeting Feb. 10, 2022
   > ...her whole school career so far has been seeing teachers covered part of kids development is facial recognition due to the pandemic and the unscientific guidelines put in place...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZjYeVPNY_ik&t=2043s)  _(term: facial_recognition, unreviewed)_
 
@@ -429,6 +435,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 2
@@ -449,9 +460,9 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| naugatuck_borough | videos | 2026-08-31 07:08:34.698204 | 224 |
-| naugatuck_schools | streams | 2026-08-31 07:08:46.671270 | 158 |
-| naugatuck_schools | videos | 2026-08-31 07:08:48.392268 | 96 |
+| naugatuck_borough | videos | 2026-08-31 13:36:36.955360 | 224 |
+| naugatuck_schools | streams | 2026-08-31 13:36:50.270068 | 158 |
+| naugatuck_schools | videos | 2026-08-31 13:36:47.702166 | 96 |
 
 
 ## Registered meeting bodies
@@ -520,5 +531,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:13:44 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Naugatuck"`_
+_Generated 2026-08-31T14:40:41 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Naugatuck"`_
 

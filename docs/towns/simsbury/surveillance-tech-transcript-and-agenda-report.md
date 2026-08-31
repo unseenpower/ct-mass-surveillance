@@ -5,10 +5,10 @@
 
 This report collects every mention of surveillance technology found in **Simsbury**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **38 mentions** across **26 meetings**
+- **43 mentions** across **27 meetings**
 - **First mention:** 2022-02-07  |  **Most recent:** 2026-08-10
 - **Technologies discussed:** alpr, body_camera, drone, surveillance_general
-- **Coverage:** 717 of 1,864 known Simsbury meetings transcribed (38%)
+- **Coverage:** 769 of 1,864 known Simsbury meetings transcribed (41%)
 - **Not the full history:** transcripts begin **2012-08-31**, but Simsbury's published video archive goes back to **2011-11-08**. Meetings before 2012 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 - **6 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
@@ -69,15 +69,15 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 20 | 14 | 2022-10-26 | 2026-08-10 |
-| body_camera | 2 | 2 | 2022-02-07 | 2024-06-10 |
+| alpr | 23 | 14 | 2022-10-26 | 2026-08-10 |
+| body_camera | 4 | 4 | 2022-02-07 | 2024-06-10 |
 | drone | 15 | 13 | 2022-06-13 | 2026-03-18 |
 | surveillance_general | 1 | 1 | 2024-09-10 | 2024-09-10 |
 
 
 ## Timeline
 
-26 meetings surfaced a finding (26 dated, spanning 2022-02-07 to 2026-08-10; 0 of unknown date, listed last).
+27 meetings surfaced a finding (27 dated, spanning 2022-02-07 to 2026-08-10; 0 of unknown date, listed last).
 
 
 ### 2022-02-07 -- Board of Selectmen
@@ -110,11 +110,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=iJowMgch5EE&t=668s)  > ...but on 44 they have these cameras that are just mounted into the ground and they are called uh flock LPR license plate reading cameras and what they do is they just take snapshots of the...
 
 
+### 2023-03-11 -- Board of Selectmen
+
+**Board of Selectmen meeting - March 11, 2023 - PART 4/5** _(topics: body_camera)_
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=Ye_hSqq08b8&t=892s)  > ...this represents the annual cost of Maintenance storage warranty and Licensing for all of both the body worn camera and in-dash camera systems what's it goes to buy the things every...
+
+
 ### 2023-05-08 -- Police Commission
 
-**Police Commission Meeting - May 8, 2023** _(topics: drone)_
+**Police Commission Meeting - May 8, 2023** _(topics: body_camera, drone)_
 
 - `drone` [▸](https://www.youtube.com/watch?v=9ALsVr25k-U&t=2250s)  > ...oversight to certain teams like the action of reconstruction between the alert the alert Services team 16 drone team so that Chief is Chief millions and then you know as Hal was saying...
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=9ALsVr25k-U&t=2975s)  > ...if we get activated I'll just come here get all my stuff on and head to where they tell me to go do you wear your body cam yes so this Mount right here is for the body...
 
 
 ### 2023-10-10 -- Board of Education
@@ -160,6 +169,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `body_camera` [▸](https://www.youtube.com/watch?v=vClV9-0491o&t=3609s)  > ...taser systems subsequent to that in 2021 we also added to that with our uh dash cam video as well as our body cam footage um along with the the police accountability bill which mandates you...
 
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=vClV9-0491o&t=3687s)  > ...only that but also we could also add to that two important features uh including what called automatic license plate reader in all the Cruisers with mdts as well as an auto tagging feature on the...
+
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=vClV9-0491o&t=3703s)  > ...systems so what that means is so as the Cruisers are driving around uh this uh automatic license plate reader is it takes pictures of all the different it's got a camera in it it takes pictures of...
 
 
@@ -201,9 +212,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Police Commission Meeting - October 18, 2024** _(topics: alpr)_
 
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=723s)  > ...effective October 16 all in favor so the second one is the automated license plate recognition systems um and both of these um devices or or tools...
+
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=808s)  > ...or has a person in there who needs to be checked on um so we have had the uh the flock cameras out there uh now for several months and the um dash cameras out there for several months I'm going...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=821s)  > ...to give credit to a couple of the lieutenants for U their significant work on this uh alpr system uh policy uh there was nothing to follow there was no State mandate on...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=986s)  > ...things like look at yeah in traffic unregistered vehicles I move to approve the automated license plate recognition system 41-2 effective today October...
 
 
 ### 2024-12-16 -- Police Commission
@@ -297,12 +312,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### alpr
 
 - **[2026-08-10] Board of Selectmen** -- Board of Selectmen Meeting - August 10, 2026
-  > ...[clears throat] >> Brian Smith, 7 Wintergreen. Um, I'm here today to talk about the flock cameras in town. Uh, I don't know if any of you guys are aware of them or not. Um, but...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oqK05SdmAdU&t=2182s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-10] Board of Selectmen** -- Board of Selectmen Meeting - August 10, 2026
   > ...the more important thing to me and a lot of other people in town is that we rent the cameras from a company named Flock. Um, and they're actually operating the cameras and doing whatever they want...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=oqK05SdmAdU&t=2200s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-10] Board of Selectmen** -- Board of Selectmen Meeting - August 10, 2026
+  > ...[clears throat] >> Brian Smith, 7 Wintergreen. Um, I'm here today to talk about the flock cameras in town. Uh, I don't know if any of you guys are aware of them or not. Um, but...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oqK05SdmAdU&t=2182s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-08] Police Commission** -- Police Commission Meeting - April 8, 2026
   > ...>> Okay. >> Next is general order 41-2, the automated license plate recognition system. Do I have motion to approve that?...
@@ -333,8 +348,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=x6tCRPUWhbU&t=1133s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-10-18] Police Commission** -- Police Commission Meeting - October 18, 2024
+  > ...things like look at yeah in traffic unregistered vehicles I move to approve the automated license plate recognition system 41-2 effective today October...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=986s)  _(term: alpr_flock, unreviewed)_
+
+- **[2024-10-18] Police Commission** -- Police Commission Meeting - October 18, 2024
   > ...or has a person in there who needs to be checked on um so we have had the uh the flock cameras out there uh now for several months and the um dash cameras out there for several months I'm going...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=808s)  _(term: alpr_flock, unreviewed)_
+
+- **[2024-10-18] Police Commission** -- Police Commission Meeting - October 18, 2024
+  > ...effective October 16 all in favor so the second one is the automated license plate recognition systems um and both of these um devices or or tools...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=723s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-10-18] Police Commission** -- Police Commission Meeting - October 18, 2024
   > ...to give credit to a couple of the lieutenants for U their significant work on this uh alpr system uh policy uh there was nothing to follow there was no State mandate on...
@@ -349,6 +372,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mp7g7CgjIWo&t=323s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-06-10] Board of Selectmen** -- Board of Selectmen Meeting - June 10, 2024
+  > ...only that but also we could also add to that two important features uh including what called automatic license plate reader in all the Cruisers with mdts as well as an auto tagging feature on the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vClV9-0491o&t=3687s)  _(term: alpr_flock, unreviewed)_
+
+- **[2024-06-10] Board of Selectmen** -- Board of Selectmen Meeting - June 10, 2024
   > ...systems so what that means is so as the Cruisers are driving around uh this uh automatic license plate reader is it takes pictures of all the different it's got a camera in it it takes pictures of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vClV9-0491o&t=3703s)  _(term: alpr_flock, unreviewed)_
 
@@ -357,12 +384,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=NliU7zSDqk0&t=2448s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-11-13] Police Commission** -- Police Commission Meeting - November 13, 2023
-  > ...we discussed budget stuff and mentioned the I think we discussed it in here the request for the License Plate Reader the LPR cameras for end ofe savings uh the chief and I went to the board of Select...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CfgA7QuZfG0&t=160s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-11-13] Police Commission** -- Police Commission Meeting - November 13, 2023
   > ...meeting and they discussed different uh options that the town manager had recommended our License Plate Reader cameras were not on there but they asked the the chief several questions and he...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=CfgA7QuZfG0&t=174s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-11-13] Police Commission** -- Police Commission Meeting - November 13, 2023
+  > ...we discussed budget stuff and mentioned the I think we discussed it in here the request for the License Plate Reader the LPR cameras for end ofe savings uh the chief and I went to the board of Select...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CfgA7QuZfG0&t=160s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-10-10] Board of Education** -- Board of Education Meeting - October 10, 2023
   > ...and and you know it's there's a free market in some ways and um you get certain teachers that kids will flock to a particular course um or a particular discipline that that's tied definitely...
@@ -387,6 +414,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2024-06-10] Board of Selectmen** -- Board of Selectmen Meeting - June 10, 2024
   > ...taser systems subsequent to that in 2021 we also added to that with our uh dash cam video as well as our body cam footage um along with the the police accountability bill which mandates you...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vClV9-0491o&t=3609s)  _(term: body_camera, unreviewed)_
+
+- **[2023-05-08] Police Commission** -- Police Commission Meeting - May 8, 2023
+  > ...if we get activated I'll just come here get all my stuff on and head to where they tell me to go do you wear your body cam yes so this Mount right here is for the body...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9ALsVr25k-U&t=2975s)  _(term: body_camera, unreviewed)_
+
+- **[2023-03-11] Board of Selectmen** -- Board of Selectmen meeting - March 11, 2023 - PART 4/5
+  > ...this represents the annual cost of Maintenance storage warranty and Licensing for all of both the body worn camera and in-dash camera systems what's it goes to buy the things every...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ye_hSqq08b8&t=892s)  _(term: body_camera, unreviewed)_
 
 - **[2022-02-07] Board of Selectmen** -- Board of Selectmen Special Meeting - February 7, 2022
   > ...around tomorrow and be like hey we have these additional capital um requests there are expenses like the body cam or the radio that are part of the...
@@ -468,12 +503,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9ALsVr25k-U&t=2250s)  _(term: drone, unreviewed)_
 
 - **[2022-06-13] Police Commission** -- Police Commission Meeting - June 13, 2022
-  > ...but then there's other things we can utilize to pass that i know avon has a drone so that is something that can be utilized we have reached out to them before...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DQlih0q5qBc&t=3052s)  _(term: drone, unreviewed)_
-
-- **[2022-06-13] Police Commission** -- Police Commission Meeting - June 13, 2022
   > ...utilized we have reached out to them before to have them bring the drone out and that's something that's very good especially with the train that we have...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DQlih0q5qBc&t=3056s)  _(term: drone, unreviewed)_
+
+- **[2022-06-13] Police Commission** -- Police Commission Meeting - June 13, 2022
+  > ...but then there's other things we can utilize to pass that i know avon has a drone so that is something that can be utilized we have reached out to them before...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DQlih0q5qBc&t=3052s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -691,11 +726,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 23
-- Videos registered: 1864 (fetched: 717, no captions: 3)
+- Videos registered: 1864 (fetched: 769, no captions: 3)
 - Date range covered: 2011-11-08 to 2026-08-25 (all 1864 videos dated)
 
 
@@ -710,8 +750,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| simsbury_community_media | streams | 2026-08-31 07:10:11.174285 | 0 |
-| simsbury_community_media | videos | 2026-08-31 07:11:13.602789 | 5283 |
+| simsbury_community_media | streams | 2026-08-31 14:23:10.372083 | 0 |
+| simsbury_community_media | videos | 2026-08-31 14:24:15.432231 | 5283 |
 
 
 ## Registered meeting bodies
@@ -746,7 +786,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 361 (fetched: 326)
+- Documents registered: 362 (fetched: 327)
 - Date range covered: 2026-01-05 to 2026-09-16
 
 
@@ -787,5 +827,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:17:56 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Simsbury"`_
+_Generated 2026-08-31T14:43:48 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Simsbury"`_
 

@@ -5,9 +5,9 @@
 
 This report collects every mention of surveillance technology found in **West Hartford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **137 mentions** across **55 meetings**
+- **142 mentions** across **55 meetings**
 - **First mention:** 2017-03-29  |  **Most recent:** 2026-08-04
-- **Technologies discussed:** alpr, body_camera, drone, facial_recognition, surveillance_general
+- **Technologies discussed:** alpr, body_camera, drone, facial_recognition, rtcc, surveillance_general
 - **Coverage:** 760 of 819 known West Hartford meetings transcribed (93%)
 
 
@@ -68,10 +68,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 62 | 18 | 2019-05-07 | 2026-08-04 |
-| body_camera | 13 | 9 | 2020-07-08 | 2026-06-02 |
+| body_camera | 15 | 10 | 2020-07-08 | 2026-06-02 |
 | drone | 57 | 29 | 2017-03-29 | 2026-05-05 |
-| facial_recognition | 2 | 2 | 2024-11-14 | 2026-08-04 |
-| surveillance_general | 3 | 2 | 2024-09-24 | 2026-01-21 |
+| facial_recognition | 3 | 2 | 2024-11-14 | 2026-08-04 |
+| rtcc | 1 | 1 | 2026-03-31 | 2026-03-31 |
+| surveillance_general | 4 | 3 | 2024-09-24 | 2026-03-31 |
 
 
 ## Timeline
@@ -448,6 +449,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `facial_recognition` [▸](https://www.youtube.com/watch?v=hrFLpPWp7j8&t=1699s)  > ...this next step uh and and modernizing our time and attendance system it'll be a facial recognition time clock or they can use their cellphones it's geomapped to at the facilities that they work at...
 
+- `facial_recognition` [▸](https://www.youtube.com/watch?v=hrFLpPWp7j8&t=2089s)  > ...just interesting to hear about the time sheet um entry and submission in terms of moving from paper to the whole facial recognition electronic so my question is probably dual for both you and the town...
+
 
 ### 2025-02-11 -- Town Council
 
@@ -510,9 +513,15 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### 2026-03-31 -- Public Safety Committee
 
-**Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026** _(topics: drone)_
+**Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026** _(topics: body_camera, drone, rtcc, surveillance_general)_
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=3821s)  > ...So, uh, since then, um, if someone requests a record, they can request the report. They can also request the body cam. They can request the call that comes in. They can request any photos...
+
+- `surveillance_general` [▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=4747s)  > ...and definitely within this town, you're on camera somewhere uh by someone's camera, whether it's surveillance camera, uh home camera, a business camera, whatever the case is. And you...
 
 - `drone` [▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5437s)  > ...going to move forward with our Axon equipment. At the same time, we had our drone program with some legislative mandates with uh a ban on Chinese-made drones...
+
+- `rtcc` [▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5524s)  > ...capital felonies A and B felonies. So again it's uh all in one system and integrates with the USUS real-time crime center there you'll see under um deliverables...
 
 - `drone` [▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5661s)  > ...is a company um out of California. So, we'd be transitioning uh away from our current DJI drones, which was um going to be we're not going to be able to use those after 2028. We...
 
@@ -541,6 +550,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### 2026-06-02 -- Public Safety Committee
 
 **Public Safety Committee Virtual Meeting - June 2, 2026** _(topics: body_camera)_
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=JrlEaCwuXNM&t=2480s)  > ...evidence that we absolutely can. Uh the main thing right off the hop is we want to make sure we preserve all body worn camera, fleet uh fleet videos, radio transmissions, case reports, uh...
 
 - `body_camera` [▸](https://www.youtube.com/watch?v=JrlEaCwuXNM&t=2491s)  > ...surveillance video, pictures, anything that was attached to the case um with our body worn camera and fleet videos, there's um predetermined uh records retention guidelines on when...
 
@@ -687,12 +698,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2576s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...was the a had audits been done prior to sort\h of this current environment and, um, I think\h\h that question was answered uh, that you had done\h them. I just want to make sure that we get back\h\h to Robin on that. and the flock had a 20% I think\h it was clearance rate is the is the term uh and\h\h West Hartford uh she asked about whether that was\h a similar clearance rate and would we have that\h\h number I think that was her question so I just\h wanted to make sure we address that and answer it\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4762s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...That concludes my slideshow uh\h presentation. Uh at this time,\h\h my request through you uh Mr. share if I\h could allow uh Max Weinstein from Flock\h\h to provide some comments um regarding\h the Flock technology specifically\h\h and then after that we can entertain any\h questions uh if that's okay with you sir you are muted thank you I said absolutely make\h it so Chief Rick thank you appreciate it uh Mr.\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2583s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...was the a had audits been done prior to sort\h of this current environment and, um, I think\h\h that question was answered uh, that you had done\h them. I just want to make sure that we get back\h\h to Robin on that. and the flock had a 20% I think\h it was clearance rate is the is the term uh and\h\h West Hartford uh she asked about whether that was\h a similar clearance rate and would we have that\h\h number I think that was her question so I just\h wanted to make sure we address that and answer it\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4762s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...your assistance um in helping us uh prepare for\h today. Go ahead, Max. Thank you, Chief. And uh to\h\h the committee, uh thank you very much for allowing\h me a little time to present this morning. Uh my\h\h name is Max. I'm the director of public trust\h and technology here at Flock. I've been with\h\h the company for about two and a half years. And\h as Chief uh mentioned before, one correction,\h\h Chief, I am a Hall grad. Uh but other than that,\h you were spot on. Uh I am very very This meeting\h\h...
@@ -703,16 +714,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2664s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...is really uh understanding how we can prevent\h um by training and uh and audits and then and\h\h and then making sure that we are enforcing any\h anything that goes that goes wrong. Um we had uh\h\h a meeting with uh several city residents and one\h was from Windsor who had disconnected um the flock\h\h and um and had their reasons for for doing\h that and mostly I think there were a lot of\h\h unanswered questions um and maybe some we\h found to be misinformation in our meeting.\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4715s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...thank you again. I want to use this time as a true\h ask me anything. Uh there are a lot of fallacies\h\h out there. As chief said, we are the Kleenex of\h LPR. There are a lot of issues with vendors out\h\h there who are in our space and what they're doing.\h Uh Flock tends to take a lot of the rat for that\h\h and so I'm here to correct the record and answer\h any questions uh that the committee might have. Thanks, Max. Uh through you, Mr. Chairman. I know\h there's probably some questions, so I concede....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2758s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...is really uh understanding how we can prevent\h um by training and uh and audits and then and\h\h and then making sure that we are enforcing any\h anything that goes that goes wrong. Um we had uh\h\h a meeting with uh several city residents and one\h was from Windsor who had disconnected um the flock\h\h and um and had their reasons for for doing\h that and mostly I think there were a lot of\h\h unanswered questions um and maybe some we\h found to be misinformation in our meeting.\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4715s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...Uh that being said, we already have changed\h our policy and updated it. We are currently\h\h in compliance with this statute even though\h it doesn't come into effect until October and I have Max Mr. Max Weinstein here who can\h discuss a lot of these issues later on the flock\h\h side. So I thank him for that. Um you know vendor\h contracts prohibit the selling of data and the uh\h\h consumer uh those of us who have the agencies who\h have this can only share uh data with permission.\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1962s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...responsibly, uh it does make our town safer. Um at\h the same time, uh we recognize that any technology\h\h uh must has to have safeguards uh and oversight.\h and Connecticut as as you'll hear uh from the\h\h chief has enacted legislation that establishes\h standards for the use of uh license plate reader\h\h systems uh including limitations on data retention\h and access controls uh audit requirements um\h\h and uh and you know prohibit prohibiting uses\h uh unrelated to um legitimate law enforcement\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1277s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...is the protections surrounding this um are are\h answering those questions. Um and we still need\h\h to, you know, be eyes wide open and if anything\h were to change, uh if the courts were to start to\h\h insist, uh that flock open up data for a use for\h something, that would change, uh the dynamic of of\h\h how we would handle and what kind of information\h we would have available uh for um any kind of\h\h federal government misuse. And as the chief said\h in the beginning, we have a a storied past in our\h\h...
@@ -735,16 +750,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3280s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...responsibly, uh it does make our town safer. Um at\h the same time, uh we recognize that any technology\h\h uh must has to have safeguards uh and oversight.\h and Connecticut as as you'll hear uh from the\h\h chief has enacted legislation that establishes\h standards for the use of uh license plate reader\h\h systems uh including limitations on data retention\h and access controls uh audit requirements um\h\h and uh and you know prohibit prohibiting uses\h uh unrelated to um legitimate law enforcement\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1277s)  _(term: alpr_flock, unreviewed)_
+  > ...Hartford police? Uh well I think if West\h Hartford police come we own the data so\h\h it's not a question. So outside agencies outside\h of of West Harford. [snorts] Yeah. So to be clear,\h\h if um if you if a federal agency or any agency\h comes to Flock with a subpoena or a request\h\h for customer data, it is Flock's position and\h contractual contractual obligation to refer that\h\h entity back to the data owner. In this case,\h the town. So we would redirect to the town and\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3299s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...Um, thank you. And just so the but just to follow\h so the the flock cameras that are are in town,\h\h these are purely license plate readers and nothing\h no other information is being captured. Is that\h\h accurate for the specific flock cameras? Yes.\h However, as you know, we have s other surveillance\h\h cameras that we have throughout the town regarding\h that. But for the flock cameras that is accurate.\h\h Uh thank you and through you Mr. Chair. Just one\h other request um and the U transparency portal\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4242s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...Hartford police? Uh well I think if West\h Hartford police come we own the data so\h\h it's not a question. So outside agencies outside\h of of West Harford. [snorts] Yeah. So to be clear,\h\h if um if you if a federal agency or any agency\h comes to Flock with a subpoena or a request\h\h for customer data, it is Flock's position and\h contractual contractual obligation to refer that\h\h entity back to the data owner. In this case,\h the town. So we would redirect to the town and\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3299s)  _(term: alpr_flock, unreviewed)_
+  > ...it's not a question. So outside agencies outside\h of of West Harford. [snorts] Yeah. So to be clear,\h\h if um if you if a federal agency or any agency\h comes to Flock with a subpoena or a request\h\h for customer data, it is Flock's position and\h contractual contractual obligation to refer that\h\h entity back to the data owner. In this case,\h the town. So we would redirect to the town and\h\h say you must go to them if you want the data. If\h for some reason, and I want to be clear, this has\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3305s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...with that uh as an opening I'd like to turn\h things over to the chief uh who will provide\h\h an overview of the program. Uh we also invited uh\h Max Weinstein who uh is a representative from uh\h\h Flock Safety who is the vendor who we\h are working with here in West Hartford\h\h and uh through you Mr. Chairman I will\h turn things over to our chief Chief Frick.\h\h Good morning uh Mr. Manager. Um Mr.\h Chair, thank you for this opportunity.\h\h...
@@ -755,8 +770,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4226s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...it's not a question. So outside agencies outside\h of of West Harford. [snorts] Yeah. So to be clear,\h\h if um if you if a federal agency or any agency\h comes to Flock with a subpoena or a request\h\h for customer data, it is Flock's position and\h contractual contractual obligation to refer that\h\h entity back to the data owner. In this case,\h the town. So we would redirect to the town and\h\h say you must go to them if you want the data. If\h for some reason, and I want to be clear, this has\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3305s)  _(term: alpr_flock, unreviewed)_
+  > ...say you must go to them if you want the data. If\h for some reason, and I want to be clear, this has\h\h never happened. We are speaking in hypotheticals\h now, but if for some reason that federal agency\h\h or whatever that entity is came back to flock and\h said, "No, you must comply with this subpoena,"\h\h we would refer them back to the town and\h we will stand shoulder-to-shoulder with\h\h your legal representation to fight that. If\h at the end of whatever legal process that is,\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3328s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...Extremely important to understand that\h that uh public safety and civil liberties\h\h uh are not adversaries. uh\h they can complement each other\h\h uh as we go forward as we have been going\h forward with our uh ALPR program. Uh public\h\h safety is important, protecting our\h victims, privacy is extremely important,\h\h transparency is paramount, and of course\h accountability through audits and training....
@@ -767,12 +782,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3936s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...say you must go to them if you want the data. If\h for some reason, and I want to be clear, this has\h\h never happened. We are speaking in hypotheticals\h now, but if for some reason that federal agency\h\h or whatever that entity is came back to flock and\h said, "No, you must comply with this subpoena,"\h\h we would refer them back to the town and\h we will stand shoulder-to-shoulder with\h\h your legal representation to fight that. If\h at the end of whatever legal process that is,\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3328s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...for some reason there is a judge that insists\h that data must be released to that federal agency,\h\h we would have no choice as the town would\h have no choice but to comply. Now, that is\h\h Flock's legal position. I can tell you that in\h the history of Flock, that has not happened. Okay. Thank you. That's very interesting\h to know and I appreciate that.\h\h One last question and I'll turn it over to\h others. Um, given what has just been said,\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3355s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...LPRs but we know there's different vendors out\h there it reminds us of of a Kleenex there's many\h\h different types of tissues but everyone just says\h Kleenex so that's where we are regarding flocks\h\h and and Flock is our vendor and I truly have an\h appreciation for the public's concern regarding\h\h potential overreach of governmental authority and\h what's happening with the data. Uh let's look back\h\h just a little bit. Uh the LPR technology\h is not new uh 20 plus years uh not just\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1538s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...Hospital for example that is personal and it's\h encrypted in one drive so Microsoft cannot\h\h go in and read my data even though my data\h is hosted on a Microsoft server. Is that how\h\h it works with flock or what level of access\h does the actual corporation have to our data?\h\h Yeah. Um I can take that. That's a that's a good\h question. Uh so yes, the data the second it's\h\h data is taken on the actual device. Uh it is\h encrypted. It is encrypted in transit. It is\h\h...
@@ -781,10 +796,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...transparency is paramount, and of course\h accountability through audits and training. So why are we here uh this morning? uh if we've\h watched the national narrative uh there's been a\h\h lot of discussions regarding LPRs um LPRs uh\h people have now said associated flock to all\h\h LPRs but we know there's different vendors out\h there it reminds us of of a Kleenex there's many\h\h different types of tissues but everyone just says\h Kleenex so that's where we are regarding flocks\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1518s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...LPRs but we know there's different vendors out\h there it reminds us of of a Kleenex there's many\h\h different types of tissues but everyone just says\h Kleenex so that's where we are regarding flocks\h\h and and Flock is our vendor and I truly have an\h appreciation for the public's concern regarding\h\h potential overreach of governmental authority and\h what's happening with the data. Uh let's look back\h\h just a little bit. Uh the LPR technology\h is not new uh 20 plus years uh not just\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1538s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...any questions or comments, please? Yeah. Thank\h you, Mr. Chair. Um, yeah, first of all, thank\h\h you for that really informative presentation.\h uh really helps to understand uh what exactly\h\h are flock cameras. So I'm appreciative of that.\h Um I had a couple of questions. One is you said\h\h I believe that there are 34 cameras in town. I\h was wondering how you decide where you put them.\h\h Um which locations those go to and why? And\h then the second question I had was what was\h\h...
@@ -898,13 +909,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...surveillance video, pictures, anything that was attached to the case um with our body worn camera and fleet videos, there's um predetermined uh records retention guidelines on when...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JrlEaCwuXNM&t=2491s)  _(term: body_camera, unreviewed)_
 
-- **[2025-04-03] Public Safety Committee** -- Public Safety Committee Virtual Meeting - Budget Workshop of April 3, 2025
-  > ...me of this. Uh especially with the subpoenas, it's not just us, our core counsel has to review those body cam and stuff too. So, it impacts their division. Uh, also, it's just a lot of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Df0BH3cmQ&t=6013s)  _(term: body_camera, unreviewed)_
+- **[2026-06-02] Public Safety Committee** -- Public Safety Committee Virtual Meeting - June 2, 2026
+  > ...evidence that we absolutely can. Uh the main thing right off the hop is we want to make sure we preserve all body worn camera, fleet uh fleet videos, radio transmissions, case reports, uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JrlEaCwuXNM&t=2480s)  _(term: body_camera, unreviewed)_
 
-- **[2025-04-03] Public Safety Committee** -- Public Safety Committee Virtual Meeting - Budget Workshop of April 3, 2025
-  > ...uh civil suits, accidents. Um, and when it comes to that, there's always a request for the body cam and the dash cam. So, I can't give you I I hope you understand it's always request driven....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Df0BH3cmQ&t=5854s)  _(term: body_camera, unreviewed)_
+- **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
+  > ...So, uh, since then, um, if someone requests a record, they can request the report. They can also request the body cam. They can request the call that comes in. They can request any photos...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=3821s)  _(term: body_camera, unreviewed)_
 
 - **[2025-04-03] Public Safety Committee** -- Public Safety Committee Virtual Meeting - Budget Workshop of April 3, 2025
   > ...extent of uh the request. Everybody doesn't make a request for the body cam and the dash cam. Uh some people do, many people do. Now in in addition uh subpoenas, you...
@@ -917,6 +928,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2025-04-03] Public Safety Committee** -- Public Safety Committee Virtual Meeting - Budget Workshop of April 3, 2025
   > ...component of that understand although we had dash cams before now every single police officer has a body cam associated with that that impacts it there's a cloud there's storage there's so many...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Df0BH3cmQ&t=3540s)  _(term: body_camera, unreviewed)_
+
+- **[2025-04-03] Public Safety Committee** -- Public Safety Committee Virtual Meeting - Budget Workshop of April 3, 2025
+  > ...uh civil suits, accidents. Um, and when it comes to that, there's always a request for the body cam and the dash cam. So, I can't give you I I hope you understand it's always request driven....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Df0BH3cmQ&t=5854s)  _(term: body_camera, unreviewed)_
+
+- **[2025-04-03] Public Safety Committee** -- Public Safety Committee Virtual Meeting - Budget Workshop of April 3, 2025
+  > ...me of this. Uh especially with the subpoenas, it's not just us, our core counsel has to review those body cam and stuff too. So, it impacts their division. Uh, also, it's just a lot of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Df0BH3cmQ&t=6013s)  _(term: body_camera, unreviewed)_
 
 - **[2024-02-07] (unassigned body)** -- Public Safety Standing Committee Virtual Meeting of February 7, 2024
   > ...I hope the technology Works U just to show that video that we have from our body Cam and if I can have your permission for that it's only a couple minutes long uh but it's one thing to...
@@ -978,12 +997,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5437s)  _(term: drone, unreviewed)_
 
 - **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
-  > ...is a company um out of California. So, we'd be transitioning uh away from our current DJI drones, which was um going to be we're not going to be able to use those after 2028. We...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5661s)  _(term: drone, unreviewed)_
+  > ...the threat of drones is certainly increasing. That allows you to see where the drone is being flown from. Um so you roll that out to any of your large scale events um things of that nature. Uh the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5721s)  _(term: drone, unreviewed)_
 
 - **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
-  > ...time a new product is is released, whether it be a body camera, a fleet camera, a new drone camera, uh that is uh automatically refreshed at no cost, which we have done with our current...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5874s)  _(term: drone, unreviewed)_
+  > ...is a company um out of California. So, we'd be transitioning uh away from our current DJI drones, which was um going to be we're not going to be able to use those after 2028. We...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5661s)  _(term: drone, unreviewed)_
 
 - **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
   > ...That eliminates that need. The Done Portable is a is a portable drone detection uh system. Obviously paying attention to current events uh in this country and around the world. Uh...
@@ -1006,8 +1025,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5678s)  _(term: drone, unreviewed)_
 
 - **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
-  > ...the threat of drones is certainly increasing. That allows you to see where the drone is being flown from. Um so you roll that out to any of your large scale events um things of that nature. Uh the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5721s)  _(term: drone, unreviewed)_
+  > ...time a new product is is released, whether it be a body camera, a fleet camera, a new drone camera, uh that is uh automatically refreshed at no cost, which we have done with our current...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5874s)  _(term: drone, unreviewed)_
 
 - **[2025-12-16] Board of Education** -- Board of Education Meeting December 16, 2025
   > ...unbelievable security plan. Fire and ice is extremely secured with bomb squad, SWAT team, undercover cops, drone surveillance, as well as fortified in many angles. I will spare you the photos...
@@ -1208,6 +1227,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...this next step uh and and modernizing our time and attendance system it'll be a facial recognition time clock or they can use their cellphones it's geomapped to at the facilities that they work at...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=hrFLpPWp7j8&t=1699s)  _(term: facial_recognition, unreviewed)_
 
+- **[2024-11-14] Public Works, Facilities, and Sustainability Committee** -- Public Works, Facilities and Sustainability Meeting - November 14, 2024
+  > ...just interesting to hear about the time sheet um entry and submission in terms of moving from paper to the whole facial recognition electronic so my question is probably dual for both you and the town...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hrFLpPWp7j8&t=2089s)  _(term: facial_recognition, unreviewed)_
+
 
 ### gunshot_detection
 
@@ -1236,10 +1259,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### rtcc
 
-*(no findings)*
+- **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
+  > ...capital felonies A and B felonies. So again it's uh all in one system and integrates with the USUS real-time crime center there you'll see under um deliverables...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5524s)  _(term: rtcc, unreviewed)_
 
 
 ### surveillance_general
+
+- **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
+  > ...and definitely within this town, you're on camera somewhere uh by someone's camera, whether it's surveillance camera, uh home camera, a business camera, whatever the case is. And you...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=4747s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-01-21] Community Planning and Economic Development Committee** -- Community Planning & Economic Development Committee Virtual Meeting  - January 21, 2026
   > ...that's in this case sanitary sewer overflows. So we have a pro program set up where we do CCTV inspection of the sewers. We do manhole inspections. We clean the sewers. And then ideally, if...
@@ -1378,6 +1407,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -1397,8 +1431,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| whci | streams | 2026-08-31 07:05:38.453815 | 3758 |
-| whci | videos | 2026-08-31 07:06:06.333919 | 2469 |
+| whci | streams | 2026-08-31 13:33:32.884657 | 3758 |
+| whci | videos | 2026-08-31 13:34:03.754325 | 2469 |
 
 
 ## Registered meeting bodies
@@ -1488,5 +1522,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:19:50 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "West Hartford"`_
+_Generated 2026-08-31T14:45:01 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "West Hartford"`_
 

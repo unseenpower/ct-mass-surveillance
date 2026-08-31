@@ -8,9 +8,9 @@ This report collects every mention of surveillance technology found in **New Bri
 - **7 mentions** across **6 meetings**
 - **First mention:** 2022-11-10  |  **Most recent:** 2025-08-14
 - **Technologies discussed:** body_camera, purchasing_broker, surveillance_general
-- **Coverage:** 170 of 271 known New Britain meetings transcribed (63%)
+- **Coverage:** 175 of 271 known New Britain meetings transcribed (65%)
 - **Not the full history:** transcripts begin **2020-04-20**, but New Britain's published video archive goes back to **2017-01-11**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-- **14 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
+- **17 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -308,7 +308,15 @@ in-car camera equipment is over 10 years and is nearing the useful life of an in
 
 ### body_camera
 
-*(no mentions)*
+- **[2022-11-09] Common Council** -- Common Council Regular Meeting Minutes - 2022-11-09 (minutes)
+  > ...November 9, 2022
+
+
+                    REGULAR MEETING OF THE COMMON COUNCIL
+                                       NOVEMBER 9, 2022
+
+  Mayor Erin E. Stewart called the Regular Meeting of the Common C...
+  [View document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=657&doc_id=bcaf0560-912c-11ed-96ab-0050569183fa)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -333,7 +341,17 @@ in-car camera equipment is over 10 years and is nearing the useful life of an in
 
 ### drone
 
-*(no mentions)*
+- **[2017-06-28] Common Council** -- Common Council Regular Meeting Minutes - 2017-06-28 (minutes)
+  > ... Surplus Vehicles
+during May 2017 was $24,525.50.
+
+                                                 Jack Pieper
+                                                 Purchasing Agent
+33905 RE:       VIDEO DRONE OPERATOR AND VIDEOGRAPHY CONSULTANT SERVICES FOR
+                CITYWIDE MARKETING INITIATIVE
+   To Her Honor, the Mayor, and the Common Council of the City of New Britain: the undersigned beg
+...
+  [View document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=104&doc_id=a13336fa-9e15-11e7-b89c-00505691de41)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -379,6 +397,14 @@ Mayor Erin E. Stewart October 14, 2021.
 
 
 ### predictive_policing
+
+- **[2017-04-26] Common Council** -- Common Council Regular Meeting Minutes - 2017-04-26 (minutes)
+  > ...y
+Director of the Public Works Department, Utilities Division, is recommending the bid be awarded to HD
+Supply Waterworks of New Britain, CT for the Manhole Cover items and Manhole Frame, to Campbell
+Foundry Company of North Haven, CT for the Manhole Riser Ring Items and to United Concrete of
+Yalesville, CT for the Catch Basin Items who were the lowest bidders and met all of the bid specifications...
+  [View document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=86&doc_id=22ecccbf-51f9-11e7-b9a7-00219ba2f017)  _(term: predictive_policing, unreviewed)_
 
 - **[2019-05-22] Common Council** -- Common Council Regular Meeting Agenda - 2019-05-22 (agenda)
   > ...crete Products, dlogee@unitedconcrete.com or dtopa@untiedconcrete.com or
@@ -494,11 +520,16 @@ the City with CCTV investigations; and
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 3
 - Active meeting bodies: 5
-- Videos registered: 271 (fetched: 170, no captions: 6)
+- Videos registered: 271 (fetched: 175, no captions: 6)
 - Date range covered: 2017-01-11 to 2026-08-13 — **based on the 266 of 271 videos that carry a parseable upload date**; the other 5 are undated, so the real corpus may extend beyond this range in either direction
 
 
@@ -515,12 +546,12 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| conbct | streams | 2026-08-31 07:18:24.116570 | 195 |
-| conbct | videos | 2026-08-31 07:18:24.973001 | 25 |
-| csdnb | streams | 2026-08-31 07:28:34.435069 | 155 |
-| csdnb | videos | 2026-08-31 07:28:36.890261 | 158 |
-| nutmeg_tv | streams | 2026-08-31 07:36:35.359674 | 3 |
-| nutmeg_tv | videos | 2026-08-31 07:37:38.216460 | 5270 |
+| conbct | streams | 2026-08-31 14:12:57.750555 | 195 |
+| conbct | videos | 2026-08-31 14:12:58.673064 | 25 |
+| csdnb | streams | 2026-08-31 13:42:20.253518 | 155 |
+| csdnb | videos | 2026-08-31 13:42:22.690431 | 158 |
+| nutmeg_tv | streams | 2026-08-31 14:17:55.743411 | 3 |
+| nutmeg_tv | videos | 2026-08-31 14:19:03.178474 | 5271 |
 
 
 ## Registered meeting bodies
@@ -540,7 +571,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 956 (fetched: 327)
+- Documents registered: 956 (fetched: 363)
 - Date range covered: 2016-09-06 to 2026-09-02
 
 
@@ -584,5 +615,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:13:49 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Britain"`_
+_Generated 2026-08-31T14:40:52 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Britain"`_
 

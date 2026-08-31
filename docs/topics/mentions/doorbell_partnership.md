@@ -1,6 +1,6 @@
 # Doorbell-camera partnerships: every mention, every town
 
-_Generated 2026-08-31T08:49:21 — 24 mentions across 13 towns, 2020-10-08 to 2026-08-17._
+_Generated 2026-08-31T14:55:47 — 26 mentions across 14 towns, 2020-10-08 to 2026-08-17._
 
 
 Formal partnerships between police departments and consumer doorbell-camera networks such as Ring.
@@ -23,17 +23,18 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 78% | 2024-02-21 | 2026-08-17 |
+| [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 78% | 2024-02-21 | 2026-08-17 |
 | [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 94% | 2020-10-08 | 2023-10-12 |
 | [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 99% | 2025-08-26 | 2026-08-13 |
-| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 50% | 2023-03-09 | 2023-05-16 |
+| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 53% | 2023-03-09 | 2023-05-16 |
 | [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 96% | 2022-08-16 | 2026-04-12 |
 | [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2022-04-25 | 2022-06-06 |
 | [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 98% | 2023-04-13 | 2023-04-13 |
+| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 95% | 2020-11-12 | 2020-11-12 |
 | [Kent](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 55% | 2024-07-10 | 2024-07-10 |
-| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 66% | 2026-01-22 | 2026-01-22 |
+| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 68% | 2026-01-22 | 2026-01-22 |
 | [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 91% | 2021-06-02 | 2021-06-02 |
-| [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 74% | 2024-09-18 | 2024-09-18 |
+| [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 73% | 2024-09-18 | 2024-09-18 |
 | [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 90% | 2023-08-15 | 2023-08-15 |
 | [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 67% | 2025-06-23 | 2025-06-23 |
 
@@ -42,7 +43,7 @@ _No human review has been applied to any mention in this file._
 _Most recent first within each town. Every line links to the exact second of the meeting video._
 
 
-### Berlin — 4 mentions
+### Berlin — 5 mentions
 
 - **[2026-08-17] Police Commission** — Police Commission 2026 08 17
   > …than a decade and we go only have a case of a missing kid or something and we go look at Ring doorbell footage and you know, your stores would I know now the big ones are private property. Your…
@@ -55,6 +56,10 @@ _Most recent first within each town. Every line links to the exact second of the
 - **[2024-02-21] Police Commission** — Police Commission 2024-02-21
   > …kind of video footage of activity a lot of a lot of things you know a lot of people relied on the ring doorbell I don't know if you know this but ring doorbell cameras those we get a lot of…
   [Watch ▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3551s)  _(term: `doorbell_partnership`)_
+
+- **[2024-02-21] Police Commission** — Police Commission 2024-02-21
+  > …of a lot of things you know a lot of people relied on the ring doorbell I don't know if you know this but ring doorbell cameras those we get a lot of footage from them but ring just…
+  [Watch ▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3552s)  _(term: `doorbell_partnership`)_
 
 - **[2024-02-21] Police Commission** — Police Commission 2024-02-21
   > …can just download right into it I'm putting it on my own house I'm going to get rid of my ring doorbell because I pay a monthly fee yeah I will I looked it up you…
@@ -133,6 +138,13 @@ _Most recent first within each town. Every line links to the exact second of the
 - **[2023-04-13] Finance and Claims Committee** — Finance and Claims Committee 4-13-23
   > …where it appeared that um some one of the data collectors was picked up on a ring doorbell um and he's been reprimanded for um just not being completely…
   [Watch ▸](https://www.youtube.com/watch?v=YjQUDv3LcG4&t=608s)  _(term: `doorbell_partnership`)_
+
+
+### East Lyme — 1 mention
+
+- **[2020-11-12] Board of Finance** — East Lyme, CT Board of Finance Meeting 11/12/2020
+  > …cell block booking video we may have surveillance video from a a commercial establishment a ring doorbell all of that can be uploaded into one…
+  [Watch ▸](https://www.youtube.com/watch?v=AZkFNh2NCFQ&t=3398s)  _(term: `doorbell_partnership`)_
 
 
 ### Kent — 1 mention

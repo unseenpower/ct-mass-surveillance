@@ -1,6 +1,6 @@
 # Gunshot detection: every mention, every town
 
-_Generated 2026-08-31T08:49:17 — 69 mentions across 3 towns, 2019-05-07 to 2026-08-05._
+_Generated 2026-08-31T14:55:45 — 69 mentions across 3 towns, 2019-05-07 to 2026-08-05._
 
 
 Acoustic sensor networks, such as ShotSpotter, that attempt to detect and locate gunfire.

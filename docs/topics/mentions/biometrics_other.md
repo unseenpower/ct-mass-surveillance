@@ -1,6 +1,6 @@
 # Other biometrics: every mention, every town
 
-_Generated 2026-08-31T08:49:22 — 9 mentions across 6 towns, 2021-03-11 to 2025-08-11._
+_Generated 2026-08-31T14:55:49 — 9 mentions across 6 towns, 2021-03-11 to 2025-08-11._
 
 
 Biometric identification other than face — gait, iris, voice.

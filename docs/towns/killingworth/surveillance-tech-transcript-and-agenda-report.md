@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **Killingworth**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **26 mentions** across **18 meetings**
+- **27 mentions** across **18 meetings**
 - **First mention:** 2020-04-22  |  **Most recent:** 2026-07-27
 - **Technologies discussed:** alpr, drone, predictive_policing
 - **Coverage:** 283 of 396 known Killingworth meetings transcribed (71%)
@@ -68,7 +68,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 14 | 10 | 2025-01-09 | 2026-07-27 |
+| alpr | 15 | 10 | 2025-01-09 | 2026-07-27 |
 | drone | 11 | 7 | 2020-04-22 | 2026-02-09 |
 | predictive_policing | 1 | 1 | 2026-07-20 | 2026-07-20 |
 
@@ -115,6 +115,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 **BOS Regular meeting 1-27-2025** _(topics: alpr)_
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=x8Hdfe_R3ro&t=465s)  > ...where the state is um licensing a license plate reader uh background software for tracking cars that are...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=x8Hdfe_R3ro&t=969s)  > ...for Green Hill is like redesigning Green Hill yeah but you know to just to keep the separate so this License Plate Reader won't have anything to do necessarily with speeding speeding it...
 
 
 ### 2025-03-10 -- Board of Selectmen
@@ -255,12 +257,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=crid9CC6g8E&t=973s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-05-28] Board of Selectmen** -- Board of Selectmen 5-28-2025
-  > ...cruising the roads and pulling over the locals. Okay. I think it's having a billing worth of Okay. So, horseman is still going on. Um, we had a meeting today with uh Flock about the kicking off the installation of the license plate reader cameras. Um, does did Clinton get theirs installed? Because I think when I was if you're going down there's an app that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=aJ0r5W5Brrg&t=1461s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-05-28] Board of Selectmen** -- Board of Selectmen 5-28-2025
   > ...Okay. I think it's having a billing worth of Okay. So, horseman is still going on. Um, we had a meeting today with uh Flock about the kicking off the installation of the license plate reader cameras. Um, does did Clinton get theirs installed? Because I think when I was if you're going down there's an app that tells you where they are. Oh, interesting. Yeah. Interesting. Because...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=aJ0r5W5Brrg&t=1469s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-05-28] Board of Selectmen** -- Board of Selectmen 5-28-2025
+  > ...cruising the roads and pulling over the locals. Okay. I think it's having a billing worth of Okay. So, horseman is still going on. Um, we had a meeting today with uh Flock about the kicking off the installation of the license plate reader cameras. Um, does did Clinton get theirs installed? Because I think when I was if you're going down there's an app that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=aJ0r5W5Brrg&t=1461s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-04-29] Board of Selectmen** -- BOS Special Meeting 4-29-2025
   > ...now DOT is holding hard and fast to those dates. Okay. Um, but yes, we have the flock camera still in place in capital plan....
@@ -271,20 +273,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Yf22C4oBPoU&t=909s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-01-27] Board of Selectmen** -- BOS Regular meeting 1-27-2025
+  > ...for Green Hill is like redesigning Green Hill yeah but you know to just to keep the separate so this License Plate Reader won't have anything to do necessarily with speeding speeding it...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=x8Hdfe_R3ro&t=969s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-01-27] Board of Selectmen** -- BOS Regular meeting 1-27-2025
   > ...where the state is um licensing a license plate reader uh background software for tracking cars that are...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=x8Hdfe_R3ro&t=465s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-01-09] Public Health Agency** -- Public Health Agency 1-9-2025
-  > ...contact um if you or you or there's somebody in your town that is a um domestic flock uh person meaning they have their own chickens um and they have the same thing happen a multitude of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=c6wal7BbM0I&t=496s)  _(term: alpr_flock, unreviewed)_
+  > ...them know what their options are well that came up on the discussion and um many uh personal uh flock owners aren't don't aren't registered and the um the the the place where you might get a list...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=c6wal7BbM0I&t=887s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-01-09] Public Health Agency** -- Public Health Agency 1-9-2025
   > ...the domestic birds and all testing uh let's if somebody uh who has a domestic flock wants those birds tested that all will happen with the Connecticut veterans um which is up at...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=c6wal7BbM0I&t=517s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-01-09] Public Health Agency** -- Public Health Agency 1-9-2025
-  > ...them know what their options are well that came up on the discussion and um many uh personal uh flock owners aren't don't aren't registered and the um the the the place where you might get a list...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=c6wal7BbM0I&t=887s)  _(term: alpr_flock, unreviewed)_
+  > ...contact um if you or you or there's somebody in your town that is a um domestic flock uh person meaning they have their own chickens um and they have the same thing happen a multitude of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=c6wal7BbM0I&t=496s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -320,16 +326,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### drone
 
 - **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2-9-2026
-  > ...plan kind of calls out >> uh for the towns and then some of those big ticket capital items like a drone or having somebody uh able to pilot that drone in the power company. So,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EL24RubWmXE&t=951s)  _(term: drone, unreviewed)_
+  > ...necessary. Um, one idea that's come up in the last two plans is the possibility of the fire company getting a drone um, in case there's uh, wildfires to see where the extent of wildfires are or if...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EL24RubWmXE&t=873s)  _(term: drone, unreviewed)_
 
 - **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2-9-2026
   > ...big ticket capital items like a drone or having somebody uh able to pilot that drone in the power company. So, >> um >> I do have a question though. We have...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=EL24RubWmXE&t=956s)  _(term: drone, unreviewed)_
 
 - **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2-9-2026
-  > ...necessary. Um, one idea that's come up in the last two plans is the possibility of the fire company getting a drone um, in case there's uh, wildfires to see where the extent of wildfires are or if...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EL24RubWmXE&t=873s)  _(term: drone, unreviewed)_
+  > ...plan kind of calls out >> uh for the towns and then some of those big ticket capital items like a drone or having somebody uh able to pilot that drone in the power company. So,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EL24RubWmXE&t=951s)  _(term: drone, unreviewed)_
 
 - **[2025-10-27] Board of Selectmen** -- Board of Selectmen 10-27-2025
   > ...apparatus under fire company that's a ladder truck um >> we're not we're not getting a drone Mhm. >> Or rather a a two and a half two and a quarter million drum um...
@@ -530,6 +536,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -549,7 +560,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| killingworth_ct | videos | 2026-08-31 07:25:02.351891 | 469 |
+| killingworth_ct | videos | 2026-08-31 13:52:35.319911 | 469 |
 
 
 ## Registered meeting bodies
@@ -611,5 +622,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:12:42 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Killingworth"`_
+_Generated 2026-08-31T14:39:53 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Killingworth"`_
 

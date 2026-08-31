@@ -1,6 +1,6 @@
 # Predictive policing: every mention, every town
 
-_Generated 2026-08-31T08:49:11 — 102 mentions across 31 towns, 2012-08-22 to 2026-07-20._
+_Generated 2026-08-31T14:55:41 — 103 mentions across 31 towns, 2012-08-22 to 2026-07-20._
 
 
 Systems that attempt to forecast where crime will occur or who will be involved.
@@ -27,17 +27,17 @@ _No human review has been applied to any mention in this file._
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 6 | 98% | 2018-10-03 | 2026-07-16 |
 | [Norwich](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 8 | 53% | 2024-01-16 | 2026-02-02 |
 | [Killingly](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 4 | 64% | 2024-04-09 | 2026-05-12 |
-| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 50% | 2023-09-19 | 2024-12-17 |
+| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 53% | 2023-09-19 | 2024-12-17 |
+| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **5** | 5 | 5 | 65% | 2017-04-26 | 2022-06-22 |
 | [Ansonia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 96% | 2020-07-07 | 2025-02-12 |
-| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 63% | 2022-10-03 | 2025-06-24 |
-| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **4** | 4 | 4 | 63% | 2017-09-13 | 2022-06-22 |
-| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 66% | 2024-06-18 | 2024-07-12 |
+| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 65% | 2022-10-03 | 2025-06-24 |
+| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 68% | 2024-06-18 | 2024-07-12 |
 | [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 1 | 99% | 2025-03-18 | 2025-03-18 |
 | [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 98% | 2026-03-16 | 2026-04-06 |
 | [Stonington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/stonington/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 70% | 2020-05-07 | 2026-03-04 |
 | [East Hampton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 55% | 2026-01-13 | 2026-05-06 |
-| [Farmington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 35% | 2024-11-18 | 2024-11-18 |
-| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 45% | 2022-06-15 | 2025-09-08 |
+| [Farmington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 38% | 2024-11-18 | 2024-11-18 |
+| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 49% | 2022-06-15 | 2025-09-08 |
 | [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 93% | 2012-08-22 | 2013-06-30 |
 | [New Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 39% | 2020-02-28 | 2026-05-11 |
 | [Watertown](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 78% | 2021-08-05 | 2023-02-10 |
@@ -46,12 +46,12 @@ _No human review has been applied to any mention in this file._
 | [Bethany](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 70% | 2026-05-06 | 2026-05-06 |
 | [Bloomfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bloomfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 20% | 2018-09-11 | 2018-09-11 |
 | [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 94% | 2023-06-26 | 2023-06-26 |
-| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 57% | 2022-10-25 | 2022-10-25 |
+| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 58% | 2022-10-25 | 2022-10-25 |
 | Essex ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-02-03 | 2026-02-03 |
 | [Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 99% | 2024-08-21 | 2024-08-21 |
 | [Griswold](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/griswold/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 86% | 2024-09-25 | 2024-09-25 |
 | [Killingworth](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingworth/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 71% | 2026-07-20 | 2026-07-20 |
-| [Mansfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 60% | 2026-06-22 | 2026-06-22 |
+| [Mansfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 62% | 2026-06-22 | 2026-06-22 |
 | [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 91% | 2026-06-30 | 2026-06-30 |
 | [Wethersfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 38% | 2022-12-19 | 2022-12-19 |
 
@@ -249,6 +249,29 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
   [Watch ▸](https://www.youtube.com/watch?v=K-BIIVdJiJI&t=4992s)  _(term: `predictive_policing`)_
 
 
+### New Britain — 5 mentions
+
+- **[2022-06-22] Common Council** — Common Council Regular Meeting Minutes - 2022-06-22
+  > …e Catch Basins items and Core and Main of New Britain, CT. for the Manhole Cover, Items, who submitted the lowest bids and met all of the bid specifications for the Highway Castings items. The Neenah Foundry Company of Neenah, WI. had submitted the lower bid for the Manhole Cover items but their Manhole Cover items that they submitted a bid for did not meet the Public Works, Utilities Division’s s…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=624&doc_id=d5d54f1e-1342-11ed-b1ab-0050569183fa)  _(agenda/minutes · term: `predictive_policing`)_
+
+- **[2020-06-10] Common Council** — Common Council Regular Meeting Minutes - 2020-06-10
+  > …REAS, The Deputy Director of the Public Works Department, Utilities Division, is recommending the bid be awarded to Core and Main of New Britain, CT. for the 1” and 1 ½” Manhole Riser Ring, to Neenah Foundry Company of Neenah, WI for the Manhole Cover, Storm, Sanitary, Frame and 2” Riser Ring, Connecticut Precast Corporation of Monroe, CT. for all of the Catch Basin Items who were the lowest bidde…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=371&doc_id=728497a1-e0bc-11ea-9419-0050569183fa)  _(agenda/minutes · term: `predictive_policing`)_
+
+- **[2019-05-22] Common Council** — Common Council Regular Meeting Agenda - 2019-05-22
+  > …crete Products, dlogee@unitedconcrete.com or dtopa@untiedconcrete.com or RFreer@unitedconcrete.com or Jamesd@untedconcrete.com or alina@unitedconcrete.com or JDuffy@unitedconcrete.com 4. Neenah Foundry, Neenah.pricing@neenahenterprises.com 5. Campbell Foundry Company, ken@campbellfoundry.com 6. Cerilli Construction, cerilliconstruction@gmail.com 7. Cromwell Concrete Products, chris@cromwellc…
+  [Open document ▸](https://newbritain.granicus.com/AgendaViewer.php?view_id=1&clip_id=260)  _(agenda/minutes · term: `predictive_policing`)_
+
+- **[2017-09-13] Common Council** — Common Council Minutes - 2017-09-13
+  > …s; h. m. Other noncombustible demolition debris. (4) Miscellaneous materials, including, but not limited to, the following: a. Ashes; b. Asphalt; c. Foundry sand; d. Offal; e. Pressurized containers; f. Sealed drums; g. Tar; h. Fused plastic resin. (5) Motor vehicles/machinery, inclu…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=124&doc_id=8ed3dd75-f091-11e7-a872-00505691de41)  _(agenda/minutes · term: `predictive_policing`)_
+
+- **[2017-04-26] Common Council** — Common Council Regular Meeting Minutes - 2017-04-26
+  > …y Director of the Public Works Department, Utilities Division, is recommending the bid be awarded to HD Supply Waterworks of New Britain, CT for the Manhole Cover items and Manhole Frame, to Campbell Foundry Company of North Haven, CT for the Manhole Riser Ring Items and to United Concrete of Yalesville, CT for the Catch Basin Items who were the lowest bidders and met all of the bid specifications…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=86&doc_id=22ecccbf-51f9-11e7-b9a7-00219ba2f017)  _(agenda/minutes · term: `predictive_policing`)_
+
+
 ### Ansonia — 4 mentions
 
 - **[2025-02-12] Board of Aldermen** — Ansonia Connecticut Board of Aldermen
@@ -285,25 +308,6 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
 - **[2022-10-03] Conservation Commission** — Groton Conservation Commission 10/3/22
   > …last couple days I got to note that one of the speakers at Conn College a Doug Foundry tell me yeah yeah actually had it appeared I didn't read his talk…
   [Watch ▸](https://www.youtube.com/watch?v=q6HL7GrFcTY&t=1450s)  _(term: `predictive_policing`)_
-
-
-### New Britain — 4 mentions
-
-- **[2022-06-22] Common Council** — Common Council Regular Meeting Minutes - 2022-06-22
-  > …e Catch Basins items and Core and Main of New Britain, CT. for the Manhole Cover, Items, who submitted the lowest bids and met all of the bid specifications for the Highway Castings items. The Neenah Foundry Company of Neenah, WI. had submitted the lower bid for the Manhole Cover items but their Manhole Cover items that they submitted a bid for did not meet the Public Works, Utilities Division’s s…
-  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=624&doc_id=d5d54f1e-1342-11ed-b1ab-0050569183fa)  _(agenda/minutes · term: `predictive_policing`)_
-
-- **[2020-06-10] Common Council** — Common Council Regular Meeting Minutes - 2020-06-10
-  > …REAS, The Deputy Director of the Public Works Department, Utilities Division, is recommending the bid be awarded to Core and Main of New Britain, CT. for the 1” and 1 ½” Manhole Riser Ring, to Neenah Foundry Company of Neenah, WI for the Manhole Cover, Storm, Sanitary, Frame and 2” Riser Ring, Connecticut Precast Corporation of Monroe, CT. for all of the Catch Basin Items who were the lowest bidde…
-  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=371&doc_id=728497a1-e0bc-11ea-9419-0050569183fa)  _(agenda/minutes · term: `predictive_policing`)_
-
-- **[2019-05-22] Common Council** — Common Council Regular Meeting Agenda - 2019-05-22
-  > …crete Products, dlogee@unitedconcrete.com or dtopa@untiedconcrete.com or RFreer@unitedconcrete.com or Jamesd@untedconcrete.com or alina@unitedconcrete.com or JDuffy@unitedconcrete.com 4. Neenah Foundry, Neenah.pricing@neenahenterprises.com 5. Campbell Foundry Company, ken@campbellfoundry.com 6. Cerilli Construction, cerilliconstruction@gmail.com 7. Cromwell Concrete Products, chris@cromwellc…
-  [Open document ▸](https://newbritain.granicus.com/AgendaViewer.php?view_id=1&clip_id=260)  _(agenda/minutes · term: `predictive_policing`)_
-
-- **[2017-09-13] Common Council** — Common Council Minutes - 2017-09-13
-  > …s; h. m. Other noncombustible demolition debris. (4) Miscellaneous materials, including, but not limited to, the following: a. Ashes; b. Asphalt; c. Foundry sand; d. Offal; e. Pressurized containers; f. Sealed drums; g. Tar; h. Fused plastic resin. (5) Motor vehicles/machinery, inclu…
-  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=124&doc_id=8ed3dd75-f091-11e7-a872-00505691de41)  _(agenda/minutes · term: `predictive_policing`)_
 
 
 ### New Canaan — 4 mentions

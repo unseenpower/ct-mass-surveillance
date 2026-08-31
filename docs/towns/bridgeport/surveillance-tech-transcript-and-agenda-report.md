@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **Bridgeport**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **22 mentions** across **4 meetings**
+- **24 mentions** across **5 meetings**
 - **First mention:** 2026-01-20  |  **Most recent:** 2026-08-03
 - **Technologies discussed:** alpr, body_camera, drone, rtcc
 - **Coverage:** 141 of 157 known Bridgeport meetings transcribed (90%)
@@ -67,15 +67,15 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 10 | 2 | 2026-01-20 | 2026-02-05 |
+| alpr | 11 | 3 | 2026-01-20 | 2026-04-25 |
 | body_camera | 4 | 1 | 2026-05-02 | 2026-05-02 |
 | drone | 6 | 3 | 2026-01-20 | 2026-08-03 |
-| rtcc | 2 | 1 | 2026-05-02 | 2026-05-02 |
+| rtcc | 3 | 1 | 2026-05-02 | 2026-05-02 |
 
 
 ## Timeline
 
-4 meetings surfaced a finding (4 dated, spanning 2026-01-20 to 2026-08-03; 0 of unknown date, listed last).
+5 meetings surfaced a finding (5 dated, spanning 2026-01-20 to 2026-08-03; 0 of unknown date, listed last).
 
 
 ### 2026-01-20 -- City Council
@@ -110,6 +110,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=w7qB0Magnkw&t=1874s)  > ...think we need to flood people to because you're in the wheeler room like you were with the flock >> y it says it there between March 24th through May 15th...
 
 
+### 2026-04-25 -- Budget and Appropriations Committee
+
+**04.25.2026 Budget & Appropriations Committee Meeting** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=ZgYaWg0a5Qg&t=4025s)  > ...starting >> people are starting to sue towns >> for for allowing those license plate reader companies to share their data with ICE and DHS and it's they found six...
+
+
 ### 2026-05-02 -- Budget and Appropriations Committee
 
 **04.30. 2026 Budget & Appropriations Committee Meeting** _(topics: body_camera, drone, rtcc)_
@@ -123,6 +130,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `drone` [▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5484s)  > ...it's a compliance and it's actually a federal law. >> You say image. So that's like a drone. >> No. Um we have to share information from case file. So there might be video from...
 
 - `rtcc` [▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5584s)  > ...>> Okay. I mean I can explain some of this to you if you want but for that. So for real time crime center I'll turn it over to Melanie. >> Before Melanie goes I just wanted to...
+
+- `rtcc` [▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5623s)  > ...much better. So if we could ever get back to that, that would be >> Hi, I'm Melanie. I'm within the real time crime center. Um, assistant chief closing and I have kind of been trying...
 
 - `body_camera` [▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=6269s)  > ...opposed to consent cuz consent you withdraw at any time. You have to review body cam. There's a lot that goes into this. Now, even after the case is done, there's unavoidable. These aren't...
 
@@ -152,6 +161,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
+- **[2026-04-25] Budget and Appropriations Committee** -- 04.25.2026 Budget & Appropriations Committee Meeting
+  > ...starting >> people are starting to sue towns >> for for allowing those license plate reader companies to share their data with ICE and DHS and it's they found six...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZgYaWg0a5Qg&t=4025s)  _(term: alpr_flock, unreviewed)_
+
 - **[2026-02-05] Board of Education** -- Bridgeport Board of Education, Advocacy Ad Hoc Committee, 5:30PM 2/5/26
   > ...think we need to flood people to because you're in the wheeler room like you were with the flock >> y it says it there between March 24th through May 15th...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=w7qB0Magnkw&t=1874s)  _(term: alpr_flock, unreviewed)_
@@ -161,8 +174,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=w7qB0Magnkw&t=1765s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
+  > ...strongly urge you to onhold the committee's rejection of the proposal contract with flock safety and expansion of police drone civilians in the Bridgeport. Our community care deeply...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=637s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
   > ...youth from the city, especially those who do not look like myself, when voting on flock or any future surveillance proposals. We say no. [applause]...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=985s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
+  > ...am deeply concerned about the safety of Bridgeport residents if this city contracts with Flock, a company that is building a quite dangerous mass surveillance infrastructure nationwide....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=842s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
   > ...in Bridgeport. Want to thrive here in Bridgeport. We cannot do that while living in fear. Whether a flock of police brutality, of future surveillance plans, or of ICE who have already...
@@ -183,14 +204,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
   > ...Bridgeport with a large and proud immigrant community, that alone should be enough to not contract with flock. On top of that, the system has links to stalking by police officers, data...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=877s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
-  > ...am deeply concerned about the safety of Bridgeport residents if this city contracts with Flock, a company that is building a quite dangerous mass surveillance infrastructure nationwide....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=842s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
-  > ...strongly urge you to onhold the committee's rejection of the proposal contract with flock safety and expansion of police drone civilians in the Bridgeport. Our community care deeply...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=637s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -240,6 +253,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### drone
 
 - **[2026-08-03] City Council** -- City of Bridgeport City Council Meeting - 08.03.2026
+  > ...However, according to SEC filings, the company only recently shifted from cancer diagnostics to defense drone manufacturing. And its drone subsidiary just was established this May. So,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=931s)  _(term: drone, unreviewed)_
+
+- **[2026-08-03] City Council** -- City of Bridgeport City Council Meeting - 08.03.2026
   > ...doing business with the manufacturing company because they already make the material there that the drone will be utilizing. So, sometimes, you know, when peo- And...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=4050s)  _(term: drone, unreviewed)_
 
@@ -250,10 +267,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2026-08-03] City Council** -- City of Bridgeport City Council Meeting - 08.03.2026
   > ...company only recently shifted from cancer diagnostics to defense drone manufacturing. And its drone subsidiary just was established this May. So, although the company has stated its...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=933s)  _(term: drone, unreviewed)_
-
-- **[2026-08-03] City Council** -- City of Bridgeport City Council Meeting - 08.03.2026
-  > ...However, according to SEC filings, the company only recently shifted from cancer diagnostics to defense drone manufacturing. And its drone subsidiary just was established this May. So,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=931s)  _(term: drone, unreviewed)_
 
 - **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
   > ...it's a compliance and it's actually a federal law. >> You say image. So that's like a drone. >> No. Um we have to share information from case file. So there might be video from...
@@ -303,6 +316,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
   > ...as as my normal day job. Um but then u Melody comes in with when it comes to our real time crime center. So we'll talk about some of that. We have an an unfortunate expense that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5316s)  _(term: rtcc, unreviewed)_
+
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+  > ...much better. So if we could ever get back to that, that would be >> Hi, I'm Melanie. I'm within the real time crime center. Um, assistant chief closing and I have kind of been trying...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5623s)  _(term: rtcc, unreviewed)_
 
 
 ### surveillance_general
@@ -434,6 +451,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 2
@@ -454,10 +476,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| bridgeport_public_schools | streams | 2026-08-31 07:30:29.755771 | 378 |
-| bridgeport_public_schools | videos | 2026-08-31 07:30:30.828742 | 43 |
-| city_of_bridgeport | streams | 2026-08-31 07:35:53.204128 | 43 |
-| city_of_bridgeport | videos | 2026-08-31 07:35:58.361319 | 393 |
+| bridgeport_public_schools | streams | 2026-08-31 13:44:18.750509 | 378 |
+| bridgeport_public_schools | videos | 2026-08-31 13:44:19.871006 | 43 |
+| city_of_bridgeport | streams | 2026-08-31 14:17:11.911562 | 43 |
+| city_of_bridgeport | videos | 2026-08-31 14:17:17.224858 | 393 |
 
 
 ## Registered meeting bodies
@@ -537,5 +559,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:08:21 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bridgeport"`_
+_Generated 2026-08-31T14:35:45 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bridgeport"`_
 

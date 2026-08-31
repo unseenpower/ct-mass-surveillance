@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **Orange**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **211 mentions** across **27 meetings**
+- **217 mentions** across **28 meetings**
 - **First mention:** 2020-01-07  |  **Most recent:** 2026-08-13
 - **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone, surveillance_general
 - **Coverage:** 482 of 489 known Orange meetings transcribed (99%)
@@ -67,16 +67,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 176 | 8 | 2020-01-07 | 2026-08-13 |
+| alpr | 181 | 8 | 2020-01-07 | 2026-08-13 |
 | body_camera | 1 | 1 | 2026-04-09 | 2026-04-09 |
 | doorbell_partnership | 3 | 2 | 2025-08-26 | 2026-08-13 |
-| drone | 30 | 18 | 2022-06-07 | 2026-07-09 |
+| drone | 31 | 19 | 2022-06-07 | 2026-07-09 |
 | surveillance_general | 1 | 1 | 2025-06-26 | 2025-06-26 |
 
 
 ## Timeline
 
-27 meetings surfaced a finding (27 dated, spanning 2020-01-07 to 2026-08-13; 0 of unknown date, listed last).
+28 meetings surfaced a finding (28 dated, spanning 2020-01-07 to 2026-08-13; 0 of unknown date, listed last).
 
 
 ### 2020-01-07 -- Zoning Board of Appeals
@@ -236,6 +236,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `drone` [▸](https://www.youtube.com/watch?v=GewX1j1R25Q&t=870s)  > ...there they're going to do another uh site video visit they're going to do some you know drone visits they're going to do lots of other topography stuff um what else are they going to do um that's...
 
 
+### 2025-04-08 -- Zoning Board of Appeals
+
+**April 7 - Zoning Board of Appeals - Regular Meeting - Town of Orange, CT Live Meetings** _(topics: drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=6G8jNRouk5s&t=2606s)  > ...options but they're not uh entirely desirable. Let's put it that way. Uh we have hired a contractor DJI and we plan to make it really uh you know really the curb appeal is going to...
+
+
 ### 2025-06-26 -- Park & Recreation Commission
 
 **June 25 - Park & Recreation Commission - Regular Meeting - Town of Orange, CT Live Meetings** _(topics: surveillance_general)_
@@ -266,6 +273,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 **December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings** _(topics: alpr)_
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=2768s)  > ...know that for things like cell phone records, warrants are required. For things like the automated license plate reader cameras, that is a publicly searchable database that their bar to...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=2829s)  > ...stuff that are there and those are you know quite good. Those those protections are not present in the automated license plate reader uh market in any way shape or form because that is entirely run as...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6541s)  > ...>> It's unanimous. New business to consider an act on a request to wave the bid process to add the current license plate reader system to add to the current license plate...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6546s)  > ...process to add the current license plate reader system to add to the current license plate reader system. Chief Gagy. So, you all have in your packets um my...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6566s)  > ...So, you all have in your packets um my memorandum uh concerning adding to our license plate reader system. Um we've had...
 
@@ -314,6 +327,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### 2026-04-09 -- Board of Selectmen
 
 **April 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings** _(topics: alpr, body_camera)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=mXvrM5y4b10&t=533s)  > ...speeding. And what was also on the agenda at the same time was the enforcement of additional uh automated license plate readers with the surveillance company Flock. And what I...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=mXvrM5y4b10&t=537s)  > ...enforcement of additional uh automated license plate readers with the surveillance company Flock. And what I think is very interesting is that intentionally or not, this board...
 
@@ -421,6 +436,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4091s)  > ...discussed the system and implementing it. We had already had recor and we were we discussed implementing flock and at that time I think I gave you about a dozen cases that we solved crimes with...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4155s)  > ...that I was at where this was discussed was in December and at that meeting we also discussed the the ALPR cameras which are the automatic license plate reader cameras and the red light and...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4158s)  > ...was in December and at that meeting we also discussed the the ALPR cameras which are the automatic license plate reader cameras and the red light and fraction cameras. There was a lot of...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4175s)  > ...With that, it seems as if the momentum just carried through and no one even really understands what the ALPR cameras are. And I think that that's that's it's it's...
 
@@ -647,28 +664,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### alpr
 
 - **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...opportunity now to look before you leap. I think Milford leapt with both feet into these flock cameras and they are now paying the price. Uh, I think that's caused an erosion of trust and the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=191s)  _(term: alpr_flock, unreviewed)_
+  > ...of that investigation is referred to as a subject as well. Uh we are citizens, not subject. These flock cameras turn everybody who appears before them a subject. Um investigations don't...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=247s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...to break away from our normal way that we do things. Anybody who wishes to speak on the flock camera contract that will be done during public participation, you get two minutes to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=92s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...of that investigation is referred to as a subject as well. Uh we are citizens, not subject. These flock cameras turn everybody who appears before them a subject. Um investigations don't...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=247s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...got your message. I got your ideas and they are saved. But right now, we're dealing a little bit with this flock and camera issue. And so, >> I should have said, "Thank you for your...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=681s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...to be installed, monitored, fixed, and replaced. In other towns, residents have su successfully stopped flock contracts through public pressure, and I'm hoping to help stop it here. Also, we love this...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=551s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...proven to make mistakes at best and be deceptive at worst is the antithesis to public service. Today it's called flock. Tomorrow it could be called something else. The bottom line is that we live in...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=355s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...to be installed, monitored, fixed, and replaced. In other towns, residents have su successfully stopped flock contracts through public pressure, and I'm hoping to help stop it here. Also, we love this...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=551s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...Good evening. While I do support safety for everybody, uh the flock systems track every vehicle in our town without consent or oversight, including people who have...
@@ -677,6 +690,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...protect our privacy and civil liberties by exploring other safety measures. As we all know, flock systems record, make, model, color, and license plate numbers of every car it sees sees, uploads them...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=478s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...opportunity now to look before you leap. I think Milford leapt with both feet into these flock cameras and they are now paying the price. Uh, I think that's caused an erosion of trust and the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=191s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...>> you know, you'll start getting complaints there'll be too much traffic. >> Yeah, probably. We'll put the flock cameras to film them all. But so that's what happened at 8:00 last night. Big Y...
@@ -843,32 +860,40 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=3238s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...And then what happens when those fees keep accumulating? Do you get you lose your license? Do you go to flock jail? Are we going to have jails full of people because they have too many flock...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=1544s)  _(term: alpr_flock, unreviewed)_
+  > ...I'm proud to live here and uh hopefully I die here, but I don't want there to be flock cameras tracking my the ambulance that comes down the street so that they can then monetize that, you know, to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=2257s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...that? >> Yep. >> So the two flock cameras that we have are on Marshall Road. >> Mhm....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=3234s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...Okay. I want to thank everybody for coming out tonight to uh express their right for privacy uh regarding the flock cameras. Um, you know, Connecticut State Statute 2614...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=2525s)  _(term: alpr_flock, unreviewed)_
+  > ...think, is is more than capable of solving a crime like that. We didn't need a flock camera. It was probably done faster, right? Because you have a visual and you're able to track. But I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=2446s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...item three is uh for us to consider an act on the request to um pause or terminate the agreement with Flock. So, I'll give you a little bit more information on that as we go here....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=3124s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...I'm proud to live here and uh hopefully I die here, but I don't want there to be flock cameras tracking my the ambulance that comes down the street so that they can then monetize that, you know, to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=2257s)  _(term: alpr_flock, unreviewed)_
+  > ...Okay. I want to thank everybody for coming out tonight to uh express their right for privacy uh regarding the flock cameras. Um, you know, Connecticut State Statute 2614...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=2525s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-13] Board of Selectmen** -- August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...think, is is more than capable of solving a crime like that. We didn't need a flock camera. It was probably done faster, right? Because you have a visual and you're able to track. But I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=2446s)  _(term: alpr_flock, unreviewed)_
+  > ...And then what happens when those fees keep accumulating? Do you get you lose your license? Do you go to flock jail? Are we going to have jails full of people because they have too many flock...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=1544s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...completely in a good way critical of both of these systems. The flock system which was discussed earlier. >> Yep....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=7716s)  _(term: alpr_flock, unreviewed)_
+  > ...Okay. >> Right. Whereas the scope of something like the flock system in in Milford where there's 50 cameras all over town, >> yes,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=7972s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...was in December and at that meeting we also discussed the the ALPR cameras which are the automatic license plate reader cameras and the red light and fraction cameras. There was a lot of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4158s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...>> I would just reiterate what PJ said again. Flock is already in. We have multiple cameras that are in place in this town already....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=5904s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...>> Traffic cameras. >> Great. All right. >> Flock is what? >> License plate readers. >> Okay. So, flock is license plate...
@@ -879,8 +904,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2606s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...>> Flock is what? >> License plate readers. >> Okay. So, flock is license plate readers. Alterate is the other camera ones....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2644s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...that, you know, I mean, if you drive around Milford and you look, there are some flock cameras in residential areas that those cameras are taking thousands of pictures of someone's house every day...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=7279s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...lights and we put a camera on route 34. Okay, great. That's fine. Right? The problem with a system like Flock, Milford has 50 of those things installed. Plus, they're in the Lowe's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=7916s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...>> Motion's made in second. And all I'll say before we vote on this with the flock system already existed in the town. This is something new. We had discussion about this a couple...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=9150s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...executive session if needed is for ultimate. >> Flock is not. So, I would >> gotcha. >> We can take care of flock now....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2604s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...angle? How are those cameras set? Because one of the privacy concerns that also comes up with things with flock is that, you know, I mean, if you drive around Milford and you look, there are...
@@ -891,52 +932,32 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=1228s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...appreciate the presentation and I I I appreciate the transparency on this and to your point about this versus flock. What I really appreciate about this process is that the board put together a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=8808s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...365 Demoris Drive in Orange. My question is, what is the uh communication between your company and Flock? What do they have access to in your records? Anything? Is there Is there a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=8902s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...executive session if needed is for ultimate. >> Flock is not. So, I would >> gotcha. >> We can take care of flock now....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2604s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...>> I would just reiterate what PJ said again. Flock is already in. We have multiple cameras that are in place in this town already....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=5904s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...that, you know, I mean, if you drive around Milford and you look, there are some flock cameras in residential areas that those cameras are taking thousands of pictures of someone's house every day...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=7279s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...competition in this market and and the companies, you know, when you have more competition. Flock is huge. It's everywhere that there's a lot of competition for you guys. Like you said,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=8860s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...something like that for an actual speed before it takes a picture and a system like Flock, which is just taking a picture of everyone everywhere. Um, I am curious about your system. Uh, what is,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=7261s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...appreciate the presentation and I I I appreciate the transparency on this and to your point about this versus flock. What I really appreciate about this process is that the board put together a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=8808s)  _(term: alpr_flock, unreviewed)_
+  > ...competition in this market and and the companies, you know, when you have more competition. Flock is huge. It's everywhere that there's a lot of competition for you guys. Like you said,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=8860s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...>> You want >> tell me what you want. >> I would do flock first. There's for the executive session if needed is for ultimate....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2599s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...>> Flock is what? >> License plate readers. >> Okay. So, flock is license plate readers. Alterate is the other camera ones....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2644s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...Okay. >> Right. Whereas the scope of something like the flock system in in Milford where there's 50 cameras all over town, >> yes,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=7972s)  _(term: alpr_flock, unreviewed)_
+  > ...completely in a good way critical of both of these systems. The flock system which was discussed earlier. >> Yep....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=7716s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...>> So okay, there's a motion. Go ahead. >> Just to clarify, the agreement with Flock is already in place. What we are voting on today is to make sure that this already implemented...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=5849s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...lights and we put a camera on route 34. Okay, great. That's fine. Right? The problem with a system like Flock, Milford has 50 of those things installed. Plus, they're in the Lowe's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=7916s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...is there a motion for item number six of uh the request to approve the amendment between the Flock group and the Orange Police Department. >> So okay, there's a motion. Go ahead....
@@ -1051,128 +1072,140 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4414s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...people supposedly for driving stolen vehicles when they were in fact their own systems. Flock likes to tell everyone that we are so good. We can tell you not only the face of the person...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3290s)  _(term: alpr_flock, unreviewed)_
+  > ...not only in regards to flock but in regards to police accountability. I don't need flock to police the Orange Police Department. That's not going to happen....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3946s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...guard rails that Connecticut has put in place. and it's agreement that we have to sign along with flock. Uh as the first selectman signed the first agreement, he would have to sign the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2761s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...multiple car accidents. And as bad as it would be at 30 miles an hour in town, wait till the flock system is going to be implemented on our highways when we're traveling at 70 and 80 miles an...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3448s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...investigations. Next, costs versus measurable benefit. Many cities using the flock system have removed the flock system because the communities noticed that the privacy and fourth amendment...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3380s)  _(term: alpr_flock, unreviewed)_
+  > ...I don't know as much about them. There's not as much bad press about them, but Flock is a big data company. They can say, "Oh, we don't want to sell your information," but they want there it's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4252s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...boyfriends for their own personal use. There has also been a documented history of flock being used to track journalists, political opponents, and people unrelated to criminal...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3369s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...There have been not only law enforcement individuals but private employees of the flock system as well as hackers who have used this information for flagrant abuse such as two officers in Kansas City...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3353s)  _(term: alpr_flock, unreviewed)_
+  > ...hour. Let's admit it. But that's an aside. Okay. Worst of all, the flock system uses an algorithm method which use notices coincidences in travel to alert...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3458s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...like an add-on. They can anyone you can get a camera for something else and then all of a sudden you can load Flock into it and connect it to everything and it's just a bigger network. And um yeah, I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4366s)  _(term: alpr_flock, unreviewed)_
+  > ...There have been not only law enforcement individuals but private employees of the flock system as well as hackers who have used this information for flagrant abuse such as two officers in Kansas City...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3353s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...Imagine if you always follow your mother to church on on Sunday. That can be enough to trigger the flock system algorithm to alert law enforcement that you are a potential perpetrator. The...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3484s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...happened in jurisdictions that have had flock systems, most of which have then removed flock systems. First of which is misidentifications. Cameras have misidentified license...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3276s)  _(term: alpr_flock, unreviewed)_
+  > ...people supposedly for driving stolen vehicles when they were in fact their own systems. Flock likes to tell everyone that we are so good. We can tell you not only the face of the person...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3290s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...there are none. Conclusion: Most communities who use the flock system end up ripping it out, which wastes taxpayer doctor taxpayer dollars, both implementing them and then...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3498s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...actual events that have actually happened in jurisdictions that have had flock systems, most of which have then removed flock systems. First of which is misidentifications....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3273s)  _(term: alpr_flock, unreviewed)_
+  > ...happened in jurisdictions that have had flock systems, most of which have then removed flock systems. First of which is misidentifications. Cameras have misidentified license...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3276s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...>> So, um, >> are you familiar with someone by the name of Josh Thomas from Okay. Flock. >> He is the communication security officer of Flock. Uh, you can I I sent an email...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3558s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...bill analysis SHB5449 in act concerning automated license license plate reader systems. Is that the document that we've all been referring to in terms of the guard rails...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3246s)  _(term: alpr_flock, unreviewed)_
+  > ...actual events that have actually happened in jurisdictions that have had flock systems, most of which have then removed flock systems. First of which is misidentifications....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3273s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...name of Josh Thomas from Okay. Flock. >> He is the communication security officer of Flock. Uh, you can I I sent an email something off of Facebook that was sent to me. I sent it to Jim. I sent it to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3565s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...I'm speaking on behalf of myself and not any members of my family. Uh, I did do my research on flock, not the other system. And I also read most of the OLR bill analysis SHB5449...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3235s)  _(term: alpr_flock, unreviewed)_
+  > ...bill analysis SHB5449 in act concerning automated license license plate reader systems. Is that the document that we've all been referring to in terms of the guard rails...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3246s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...traffic cameras, which is completely different. Um, you're right. Flock is not going to police the police and there are police officers that do not act with integrity....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3841s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...through state statute or through the amendment the same protections would so in other words if if flock had information from the town of orange and the town of Brford for instance...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3173s)  _(term: alpr_flock, unreviewed)_
+  > ...I'm speaking on behalf of myself and not any members of my family. Uh, I did do my research on flock, not the other system. And I also read most of the OLR bill analysis SHB5449...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3235s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...police. We are going to police the police not flock. We will police our police. We've got very strong statutes in the state of Connecticut...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3937s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...>> Thank you, >> Mitch. I wanted to comment on your question. So when Flock initially approached the chief, they wanted an amendment that says go see our website...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3138s)  _(term: alpr_flock, unreviewed)_
+  > ...multiple car accidents. And as bad as it would be at 30 miles an hour in town, wait till the flock system is going to be implemented on our highways when we're traveling at 70 and 80 miles an...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3448s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...We've got very strong statutes in the state of Connecticut not only in regards to flock but in regards to police accountability. I don't need flock to police the Orange...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3941s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...what Judy was saying then, so if we're dealing with another town, they're the flock is under the same restrictions with that town as they are with our town....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3111s)  _(term: alpr_flock, unreviewed)_
+  > ...months ago and I assured the board we have these things in place and this is basically just flock codifying what Connecticut has put into place and this agreement went out to all of the police...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2882s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...>> Thank you, >> Mitch. I wanted to comment on your question. So when Flock initially approached the chief, they wanted an amendment that says go see our website...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3138s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...that towns will put up. Milford had one. It's changed. It's gone on and off. I mean, just just search Milford Flock, there's tons of articles. Milford's got how 40 of these cameras. They have a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4388s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...are all the towns and cities in the state of Connecticut who currently have a contract with flock, which I understand are quite a few, >> also entering into such amendments...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3096s)  _(term: alpr_flock, unreviewed)_
+  > ...for, you know, there's there's if you look at there's a lot of flock um transparency portals that towns will put up. Milford had one. It's changed. It's gone on and off. I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4381s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...what Judy was saying then, so if we're dealing with another town, they're the flock is under the same restrictions with that town as they are with our town....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3111s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...>> right? >> And then we entered into an agreement with Flock, >> right? >> Um in large part because Milford went to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3983s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...not only in regards to flock but in regards to police accountability. I don't need flock to police the Orange Police Department. That's not going to happen....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3946s)  _(term: alpr_flock, unreviewed)_
+  > ...um, if you recall, this board several months ago approved us to enter into an agreement with Flock for license plate readers. We already had some license plate readers in town from a different...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2688s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...would any sharing go with another town? they could actually access it right through the flock system and if they had questions uh from us we would certainly talk to departmentto department but...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3040s)  _(term: alpr_flock, unreviewed)_
+  > ...are all the towns and cities in the state of Connecticut who currently have a contract with flock, which I understand are quite a few, >> also entering into such amendments...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3096s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...>> right? >> Um in large part because Milford went to Flock >> and the state police have gone to Flock >> and we want to be able to share data...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3987s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...for, you know, there's there's if you look at there's a lot of flock um transparency portals that towns will put up. Milford had one. It's changed. It's gone on and off. I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4381s)  _(term: alpr_flock, unreviewed)_
+  > ...like an add-on. They can anyone you can get a camera for something else and then all of a sudden you can load Flock into it and connect it to everything and it's just a bigger network. And um yeah, I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4366s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...>> Okay. Thank you, >> Chief. Quick question. Um the current contract we have with Flock goes from to when? probably uh a year from the time it was...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2998s)  _(term: alpr_flock, unreviewed)_
+  > ...would any sharing go with another town? they could actually access it right through the flock system and if they had questions uh from us we would certainly talk to departmentto department but...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3040s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...>> Um in large part because Milford went to Flock >> and the state police have gone to Flock >> and we want to be able to share data with Milford and the state police. We...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3988s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...um, if you recall, this board several months ago approved us to enter into an agreement with Flock for license plate readers. We already had some license plate readers in town from a different...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2688s)  _(term: alpr_flock, unreviewed)_
+  > ...investigations. Next, costs versus measurable benefit. Many cities using the flock system have removed the flock system because the communities noticed that the privacy and fourth amendment...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3380s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...>> Okay. Thank you, >> Chief. Quick question. Um the current contract we have with Flock goes from to when? probably uh a year from the time it was...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2998s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...discussed the system and implementing it. We had already had recor and we were we discussed implementing flock and at that time I think I gave you about a dozen cases that we solved crimes with...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4091s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...plate readers in town from a different company called Recor. And so, we uh, entered into an agreement with Flock. It was signed off on by the uh, first selectman. I discussed guard rails that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2697s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...going forward. So this act came out after the town executed the agreement with flock. Flock came back for the amendment and it's because of public act 26-14....
@@ -1183,16 +1216,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4359s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...plate readers in town from a different company called Recor. And so, we uh, entered into an agreement with Flock. It was signed off on by the uh, first selectman. I discussed guard rails that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2697s)  _(term: alpr_flock, unreviewed)_
+  > ...obviously to Connecticut. So as a result of those guardrails that the legislature put into place, Flock has uh added an addendum to the Connecticut departments that outline those agreements and those...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2747s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...I had asked for an indemnification provision paragraph five um and they which flock agreed to but the statute requires again paragraphs 3, four, seven and nine be in any uh contract...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2952s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...discussed the system and implementing it. We had already had recor and we were we discussed implementing flock and at that time I think I gave you about a dozen cases that we solved crimes with...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4091s)  _(term: alpr_flock, unreviewed)_
+  > ...that I was at where this was discussed was in December and at that meeting we also discussed the the ALPR cameras which are the automatic license plate reader cameras and the red light and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4155s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...something about Kansas City. So, at some point, Kansas City ran a search on our data, you know, from Flock and and I get that we're trying to fix that now. And you know um we we have to be very...
@@ -1203,40 +1236,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2898s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...that I was at where this was discussed was in December and at that meeting we also discussed the the ALPR cameras which are the automatic license plate reader cameras and the red light and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4155s)  _(term: alpr_flock, unreviewed)_
+  > ...With that, it seems as if the momentum just carried through and no one even really understands what the ALPR cameras are. And I think that that's that's it's it's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4175s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...obviously to Connecticut. So as a result of those guardrails that the legislature put into place, Flock has uh added an addendum to the Connecticut departments that outline those agreements and those...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2747s)  _(term: alpr_flock, unreviewed)_
+  > ...guard rails that Connecticut has put in place. and it's agreement that we have to sign along with flock. Uh as the first selectman signed the first agreement, he would have to sign the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2761s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...agreement went out to all of the police departments in Connecticut that are using Flock. Um, Attorney Weaver did look at it. He made some modifications to the agreement that he wanted to see...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2891s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...With that, it seems as if the momentum just carried through and no one even really understands what the ALPR cameras are. And I think that that's that's it's it's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4175s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...I don't know as much about them. There's not as much bad press about them, but Flock is a big data company. They can say, "Oh, we don't want to sell your information," but they want there it's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4252s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...months ago and I assured the board we have these things in place and this is basically just flock codifying what Connecticut has put into place and this agreement went out to all of the police...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=2882s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...be really well doumented protocols for how we're going to use it. The reason Flock is introducing all these things in Connecticut is because those are all things that they've done. Those things...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4225s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...hour. Let's admit it. But that's an aside. Okay. Worst of all, the flock system uses an algorithm method which use notices coincidences in travel to alert...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3458s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-09] Board of Selectmen** -- April 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...towns all over the country that are pulling their contracts tracks with Flock as they have seen continued abuses of the system with different reports going in and with the database...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXvrM5y4b10&t=593s)  _(term: alpr_flock, unreviewed)_
+  > ...through state statute or through the amendment the same protections would so in other words if if flock had information from the town of orange and the town of Brford for instance...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=3173s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-09] Board of Selectmen** -- April 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...announced a partnership with Flock and that they were going to enable the use of Flock data with Ring cameras in people's houses to help track lost pets and kids. And the backlash was so great...
@@ -1245,6 +1262,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2026-04-09] Board of Selectmen** -- April 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...what happened immediately following this vote in December, in February, Amazon announced a partnership with Flock and that they were going to enable the use of Flock data with Ring cameras in...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXvrM5y4b10&t=563s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-09] Board of Selectmen** -- April 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...towns all over the country that are pulling their contracts tracks with Flock as they have seen continued abuses of the system with different reports going in and with the database...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXvrM5y4b10&t=593s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-09] Board of Selectmen** -- April 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...speeding. And what was also on the agenda at the same time was the enforcement of additional uh automated license plate readers with the surveillance company Flock. And what I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mXvrM5y4b10&t=533s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-09] Board of Selectmen** -- April 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...enforcement of additional uh automated license plate readers with the surveillance company Flock. And what I think is very interesting is that intentionally or not, this board...
@@ -1283,16 +1308,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6610s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-11] Board of Selectmen** -- December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...There's some hiccups with it, but um Flock has a very robust system. Uh I've had multiple meetings with Flock. I have confidence in the company. They've been very responsive to our questions and our...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6894s)  _(term: alpr_flock, unreviewed)_
+  > ...>> and and exhibit A to your memo, the order form would be the lease agreement. Is that what Flock is proposing? >> Yes. >> All right. So, my recommend...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=7897s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-11] Board of Selectmen** -- December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...Unlike Recor, Recor, we own the cameras and we pay for them. flock. We renting the cameras. There's no hidden cost. There's no maintenance cost. And um that would be uh first year...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6952s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-11] Board of Selectmen** -- December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...that are um operating successfully. There's some hiccups with it, but um Flock has a very robust system. Uh I've had multiple meetings with Flock. I have confidence in the company. They've been...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6890s)  _(term: alpr_flock, unreviewed)_
+  > ...There's some hiccups with it, but um Flock has a very robust system. Uh I've had multiple meetings with Flock. I have confidence in the company. They've been very responsive to our questions and our...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6894s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-11] Board of Selectmen** -- December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...you're dealing with um with this kind of technology. However, uh Flock has a lot of systems in place to safeguard and to minimize the risk in regards to...
@@ -1303,8 +1328,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=7475s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-11] Board of Selectmen** -- December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...West Haven and New Haven. >> Um, >> they have the flock system too. They have recor. >> Oh, okay....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6869s)  _(term: alpr_flock, unreviewed)_
+  > ...that are um operating successfully. There's some hiccups with it, but um Flock has a very robust system. Uh I've had multiple meetings with Flock. I have confidence in the company. They've been...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6890s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-11] Board of Selectmen** -- December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...speak to is what we do here in the town of Orange and what we will be doing here in the state of Connecticut. Flock does have built-in security search parameters that you can't search for when you're...
@@ -1315,20 +1340,32 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6769s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-11] Board of Selectmen** -- December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...this is, in my opinion, a sole source vendor because I want to go to flock because I need to be able to share data with Milford in the state. We're already sharing with...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6861s)  _(term: alpr_flock, unreviewed)_
+  > ...West Haven and New Haven. >> Um, >> they have the flock system too. They have recor. >> Oh, okay....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6869s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-11] Board of Selectmen** -- December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...jurisdiction, hey, we think um you may have information in your system, whether it be flock or recor involving a crime that happened in our jurisdiction, we are going to be very very careful that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=7609s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-11] Board of Selectmen** -- December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
-  > ...>> and and exhibit A to your memo, the order form would be the lease agreement. Is that what Flock is proposing? >> Yes. >> All right. So, my recommend...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=7897s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-12-11] Board of Selectmen** -- December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...waving the bid process and allowing the first selectman to enter into a um a lease agreement with Flock Second >> questions. Bill question....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=7942s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-12-11] Board of Selectmen** -- December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...this is, in my opinion, a sole source vendor because I want to go to flock because I need to be able to share data with Milford in the state. We're already sharing with...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6861s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-12-11] Board of Selectmen** -- December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...stuff that are there and those are you know quite good. Those those protections are not present in the automated license plate reader uh market in any way shape or form because that is entirely run as...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=2829s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-12-11] Board of Selectmen** -- December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...>> It's unanimous. New business to consider an act on a request to wave the bid process to add the current license plate reader system to add to the current license plate...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6541s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-12-11] Board of Selectmen** -- December 10 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...process to add the current license plate reader system to add to the current license plate reader system. Chief Gagy. So, you all have in your packets um my...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=St3C4vKxSUk&t=6546s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-13] Board of Selectmen** -- November 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...make a data log of everyone who goes by them, whether or not this person is committing a crime. And Flock makes this data available to anyone at the highest bidder, both public and private,...
@@ -1398,6 +1435,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2026-07-09] Board of Selectmen** -- July 8 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > ...there's tons of articles. Milford's got how 40 of these cameras. They have a drone that'll fly up and chase people's cars around and stuff. it. I don't know if anyone here has ever watched the show...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zQVECAEb9NE&t=4394s)  _(term: drone, unreviewed)_
+
+- **[2025-04-08] Zoning Board of Appeals** -- April 7 - Zoning Board of Appeals - Regular Meeting - Town of Orange, CT Live Meetings
+  > ...options but they're not uh entirely desirable. Let's put it that way. Uh we have hired a contractor DJI and we plan to make it really uh you know really the curb appeal is going to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6G8jNRouk5s&t=2606s)  _(term: drone, unreviewed)_
 
 - **[2024-06-27] Park & Recreation Commission** -- June 26 - Park & Recreation Commission - Regular Meeting - Town of Orange, CT Live Meetings
   > ...there they're going to do another uh site video visit they're going to do some you know drone visits they're going to do lots of other topography stuff um what else are they going to do um that's...
@@ -1682,6 +1723,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -1701,8 +1747,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| orange_ct_ogat | streams | 2026-08-31 07:07:51.543294 | 477 |
-| orange_ct_ogat | videos | 2026-08-31 07:07:53.846124 | 153 |
+| orange_ct_ogat | streams | 2026-08-31 13:35:54.802495 | 477 |
+| orange_ct_ogat | videos | 2026-08-31 13:35:57.228839 | 153 |
 
 
 ## Registered meeting bodies
@@ -1768,5 +1814,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:16:51 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Orange"`_
+_Generated 2026-08-31T14:43:00 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Orange"`_
 

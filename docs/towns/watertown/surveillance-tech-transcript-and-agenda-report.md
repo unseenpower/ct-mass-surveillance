@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **Watertown**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **54 mentions** across **17 meetings**
+- **56 mentions** across **18 meetings**
 - **First mention:** 2021-08-05  |  **Most recent:** 2026-08-17
 - **Technologies discussed:** alpr, drone, predictive_policing, surveillance_general
 - **Coverage:** 425 of 548 known Watertown meetings transcribed (78%)
@@ -68,7 +68,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 12 | 6 | 2022-02-23 | 2026-08-17 |
+| alpr | 14 | 8 | 2022-02-23 | 2026-08-17 |
 | drone | 38 | 8 | 2023-03-07 | 2026-03-11 |
 | predictive_policing | 2 | 2 | 2021-08-05 | 2023-02-10 |
 | surveillance_general | 2 | 2 | 2023-09-21 | 2023-12-07 |
@@ -76,7 +76,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ## Timeline
 
-17 meetings surfaced a finding (17 dated, spanning 2021-08-05 to 2026-08-17; 0 of unknown date, listed last).
+18 meetings surfaced a finding (18 dated, spanning 2021-08-05 to 2026-08-17; 0 of unknown date, listed last).
 
 
 ### 2021-08-05 -- Planning & Zoning Commission
@@ -118,6 +118,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `drone` [▸](https://www.youtube.com/watch?v=Rmjwv5DzQOI&t=596s)  > ...the ones to do this traffic survey they're a big engineering firm they do with a drone or they do it by by vision and they have for that if you put two drive-throughs down there I've been...
 
 
+### 2023-09-14 -- Police Commission
+
+**Police Commission 13SEP23** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=DWt6kP1lynQ&t=235s)  > ...specific the cameras do not infringe on anyone's privacy they don't go and you know windshield of the car their License Plate Reader cameras which have been used predominantly around the state of...
+
+
 ### 2023-09-21 -- Water & Sewer Authority
 
 **Water & Sewer 20Sep23** _(topics: surveillance_general)_
@@ -147,9 +154,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### 2023-12-07 -- Planning & Zoning Commission
 
-**Planning & Zoning 6DEC23** _(topics: surveillance_general)_
+**Planning & Zoning 6DEC23** _(topics: alpr, surveillance_general)_
 
 - `surveillance_general` [▸](https://www.youtube.com/watch?v=tdbLDbmoag8&t=999s)  > ...it uh as for Poli as for what the police say uh parking lot will is suggested to be well lit CCTV camera is installed with signage around and possible installation of a camera at the entrance...
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=tdbLDbmoag8&t=1008s)  > ...with signage around and possible installation of a camera at the entrance connected to be the PD's License Plate Reader uh which would alert the Police if any stolen vehicles do enter the...
 
 
 ### 2024-01-04 -- Town Council
@@ -314,6 +323,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...data plan to unlimited data we had just installed last year with the budget the axon Fleet dash cameras and we're Gathering a lot of um video footage that needs to be uploaded and we couldn't use...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=jLLzImTi_6Y&t=4942s)  _(term: alpr_vendor, unreviewed)_
 
+- **[2023-12-07] Planning & Zoning Commission** -- Planning & Zoning 6DEC23
+  > ...with signage around and possible installation of a camera at the entrance connected to be the PD's License Plate Reader uh which would alert the Police if any stolen vehicles do enter the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tdbLDbmoag8&t=1008s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-09-14] Police Commission** -- Police Commission 13SEP23
+  > ...specific the cameras do not infringe on anyone's privacy they don't go and you know windshield of the car their License Plate Reader cameras which have been used predominantly around the state of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DWt6kP1lynQ&t=235s)  _(term: alpr_flock, unreviewed)_
+
 - **[2022-09-21] Police Commission** -- Police Commission 14SEP22 1 of 2
   > ...uh the we have had great success already with our License Plate Reader Program the License Plate Reader Program allows us to help combat crime in two ways the first way is it provides live alerts to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4QNQOvGgXMk&t=5135s)  _(term: alpr_flock, unreviewed)_
@@ -368,16 +385,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JHgitTnbL-I&t=2179s)  _(term: drone, unreviewed)_
 
 - **[2026-03-11] Police Commission** -- Police Commission 3.11.26
-  > ...Uh within a couple years, it'll actually be illegal uh for the department to use that drone any further. Um that that drone, although it it it has served its purpose to this point, is a fairly basic...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JHgitTnbL-I&t=2088s)  _(term: drone, unreviewed)_
+  > ...drone, although it it it has served its purpose to this point, is a fairly basic commercial drone and with a simple camera on it. Uh it does not uh have any night vision. It doesn't have any...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JHgitTnbL-I&t=2095s)  _(term: drone, unreviewed)_
 
 - **[2026-03-11] Police Commission** -- Police Commission 3.11.26
   > ...had guns strapped to him, so uh the the information we had was good, and the drone worked out really well. And um but we shouldn't be relying on other...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JHgitTnbL-I&t=2166s)  _(term: drone, unreviewed)_
-
-- **[2026-03-11] Police Commission** -- Police Commission 3.11.26
-  > ...to really assist us with our police work. Uh we really uh saw the value of a good drone um was that in January uh where we had a barricaded subject in town uh that was heavily armed,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JHgitTnbL-I&t=2125s)  _(term: drone, unreviewed)_
 
 - **[2026-03-11] Police Commission** -- Police Commission 3.11.26
   > ...that they're looking to upgrade. We're also looking to purchase a new police drone uh in this budget. Um the drone that we currently have, which is about 10 years old now, is of Chinese origin....
@@ -388,20 +401,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JHgitTnbL-I&t=2144s)  _(term: drone, unreviewed)_
 
 - **[2026-03-11] Police Commission** -- Police Commission 3.11.26
-  > ...be illegal uh for the department to use that drone any further. Um that that drone, although it it it has served its purpose to this point, is a fairly basic commercial drone and with a simple...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JHgitTnbL-I&t=2090s)  _(term: drone, unreviewed)_
-
-- **[2026-03-11] Police Commission** -- Police Commission 3.11.26
   > ...heat detection. Uh so, so we'd be looking to do a significant upgrade and receive a a drone that uh will be able to really assist us with our police work. Uh we really uh saw the value of a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JHgitTnbL-I&t=2116s)  _(term: drone, unreviewed)_
 
 - **[2026-03-11] Police Commission** -- Police Commission 3.11.26
-  > ...drone, although it it it has served its purpose to this point, is a fairly basic commercial drone and with a simple camera on it. Uh it does not uh have any night vision. It doesn't have any...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JHgitTnbL-I&t=2095s)  _(term: drone, unreviewed)_
+  > ...Uh within a couple years, it'll actually be illegal uh for the department to use that drone any further. Um that that drone, although it it it has served its purpose to this point, is a fairly basic...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JHgitTnbL-I&t=2088s)  _(term: drone, unreviewed)_
+
+- **[2026-03-11] Police Commission** -- Police Commission 3.11.26
+  > ...be illegal uh for the department to use that drone any further. Um that that drone, although it it it has served its purpose to this point, is a fairly basic commercial drone and with a simple...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JHgitTnbL-I&t=2090s)  _(term: drone, unreviewed)_
+
+- **[2026-03-11] Police Commission** -- Police Commission 3.11.26
+  > ...to really assist us with our police work. Uh we really uh saw the value of a good drone um was that in January uh where we had a barricaded subject in town uh that was heavily armed,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JHgitTnbL-I&t=2125s)  _(term: drone, unreviewed)_
 
 - **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
-  > ...>> That makes sense. Okay. Thank you. >> And Chief, do we have any ideas um for an alternate use for the current drone? maybe even some other department within town....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2493s)  _(term: drone, unreviewed)_
+  > ...generally can cost uh between 40 and $60,000 for a good law enforcement drone. It's more than a police car, which I think is crazy, but that is what they cost. Um 20,000 would be probably...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2409s)  _(term: drone, unreviewed)_
 
 - **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
   > ...Uh and it is as as grateful as we were for that piece of equipment, it is just a a commercialrade drone that's already quite aged at this time. and all it is is a drone with a a basic camera on it....
@@ -416,16 +433,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2433s)  _(term: drone, unreviewed)_
 
 - **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
-  > ...purposes. >> Perfect. Thank you. >> I was going to say DJI drones are kind of to me kind of like the gold standard. They are very good drones. Um just out...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2505s)  _(term: drone, unreviewed)_
-
-- **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
-  > ...administrative budget before I move on to patrol detective >> through the chat. Uh about the drone, um who would pilot the drone and is there training costs associated with that?...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2430s)  _(term: drone, unreviewed)_
-
-- **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
   > ...they cost. Um 20,000 would be probably uh you know, we'd get a three-year contract to purchase the drone, and this would be for an initial payment. >> Uh any questions on the uh...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2420s)  _(term: drone, unreviewed)_
+
+- **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
+  > ...purposes. >> Perfect. Thank you. >> I was going to say DJI drones are kind of to me kind of like the gold standard. They are very good drones. Um just out...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2505s)  _(term: drone, unreviewed)_
 
 - **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
   > ...this proposed budget $20,000 uh to cover a partial purchase of a new police drone. Uh we currently have a drone that we received, I want to say it was either 2017 or 2018 uh as a gift...
@@ -436,28 +449,32 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2396s)  _(term: drone, unreviewed)_
 
 - **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
+  > ...>> That makes sense. Okay. Thank you. >> And Chief, do we have any ideas um for an alternate use for the current drone? maybe even some other department within town....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2493s)  _(term: drone, unreviewed)_
+
+- **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
+  > ...administrative budget before I move on to patrol detective >> through the chat. Uh about the drone, um who would pilot the drone and is there training costs associated with that?...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2430s)  _(term: drone, unreviewed)_
+
+- **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
   > ...uh to cover a partial purchase of a new police drone. Uh we currently have a drone that we received, I want to say it was either 2017 or 2018 uh as a gift from a local civic group here in town....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2283s)  _(term: drone, unreviewed)_
-
-- **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
-  > ...microphone on it that can pick up that can pick up that person. And uh through the use of that drone, he was was able to surrender peacefully and and you know, being able to spend a few a few...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2389s)  _(term: drone, unreviewed)_
-
-- **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
-  > ...drones for law enforcement purposes effective 2028. So our drone will become useless at that time, it'll be illegal for us to use it. Uh and it is as as grateful as we were...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2308s)  _(term: drone, unreviewed)_
 
 - **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
   > ...two-way communication ability on them where we can speak through the drone to the person. And the drone has a microphone on it that can pick up that can pick up that person. And uh through...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2383s)  _(term: drone, unreviewed)_
 
 - **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
-  > ...>> Do they get paid more for that? >> They do not. But if they get called out to use the drone off duty, they would be compensated through overtime. >> Okay. And the um heat detection, is that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2455s)  _(term: drone, unreviewed)_
+  > ...drones for law enforcement purposes effective 2028. So our drone will become useless at that time, it'll be illegal for us to use it. Uh and it is as as grateful as we were...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2308s)  _(term: drone, unreviewed)_
 
 - **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
   > ...window through two these drones have two-way communication ability on them where we can speak through the drone to the person. And the drone has a microphone on it that can pick up that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2381s)  _(term: drone, unreviewed)_
+
+- **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
+  > ...>> Do they get paid more for that? >> They do not. But if they get called out to use the drone off duty, they would be compensated through overtime. >> Okay. And the um heat detection, is that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2455s)  _(term: drone, unreviewed)_
 
 - **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
   > ...law enforcement that came to the house. So, we set up a perimeter uh and we were able to fly a drone to the window and make contact with this person at the window through two these drones have...
@@ -472,16 +489,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2324s)  _(term: drone, unreviewed)_
 
 - **[2026-02-17] Town Council** -- Special TC/Town Council 2.17.26
-  > ...generally can cost uh between 40 and $60,000 for a good law enforcement drone. It's more than a police car, which I think is crazy, but that is what they cost. Um 20,000 would be probably...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2409s)  _(term: drone, unreviewed)_
-
-- **[2024-09-25] Conservation Commission / Inland Wetlands Agency** -- Conservation Commission Inland Wetland 12SEP24
-  > ...because all the it's all private property and plus the tree coverage was too much to fly that drone uh down that part of the steel Brook thanks Jerry what uh words of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RwNQIQcM6sk&t=2595s)  _(term: drone, unreviewed)_
+  > ...microphone on it that can pick up that can pick up that person. And uh through the use of that drone, he was was able to surrender peacefully and and you know, being able to spend a few a few...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2389s)  _(term: drone, unreviewed)_
 
 - **[2024-09-25] Conservation Commission / Inland Wetlands Agency** -- Conservation Commission Inland Wetland 12SEP24
   > ...that means the cart is sitting buried 3 ft deep of silk with the uh help of the fire department we flew a a drone and we have uh aerial photographs from just below the pin shop pond dam um all the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RwNQIQcM6sk&t=2575s)  _(term: drone, unreviewed)_
+
+- **[2024-09-25] Conservation Commission / Inland Wetlands Agency** -- Conservation Commission Inland Wetland 12SEP24
+  > ...because all the it's all private property and plus the tree coverage was too much to fly that drone uh down that part of the steel Brook thanks Jerry what uh words of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RwNQIQcM6sk&t=2595s)  _(term: drone, unreviewed)_
 
 - **[2024-04-05] Parks Subcommittee** -- Parks SubcommitteeCommission 7 pm 4APR24
   > ...music so there going to be permits and stuff they're going to have to pull to get that um that's the bik and drone playoff so get L doesn't it's great if you know the...
@@ -492,24 +509,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=MXWw0IPA148&t=980s)  _(term: drone, unreviewed)_
 
 - **[2023-11-17] Conservation Commission / Inland Wetlands Agency** -- Conservation Commission Inlands Wetlands 16NOV23
-  > ...private property even one of the uh people that they at the seminar they asked what about if we buy a drone and use drone right and the attorney said no because you go behind somebody's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IRxpM41XFqg&t=3924s)  _(term: drone, unreviewed)_
-
-- **[2023-11-17] Conservation Commission / Inland Wetlands Agency** -- Conservation Commission Inlands Wetlands 16NOV23
   > ...people that they at the seminar they asked what about if we buy a drone and use drone right and the attorney said no because you go behind somebody's backyard and it is like they they had...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IRxpM41XFqg&t=3928s)  _(term: drone, unreviewed)_
+
+- **[2023-11-17] Conservation Commission / Inland Wetlands Agency** -- Conservation Commission Inlands Wetlands 16NOV23
+  > ...private property even one of the uh people that they at the seminar they asked what about if we buy a drone and use drone right and the attorney said no because you go behind somebody's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IRxpM41XFqg&t=3924s)  _(term: drone, unreviewed)_
 
 - **[2023-11-02] Planning & Zoning Commission** -- Planning & Zoning 1NOV23 1 of 2
   > ...the access to those uses and as we looked at Bunker Hill in the area that was just highlighted in that um Drone footage you know from a from a residential standpoint Bunker Hill is...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cKjOaULYHj4&t=4869s)  _(term: drone, unreviewed)_
 
 - **[2023-11-02] Planning & Zoning Commission** -- Planning & Zoning 1NOV23 1 of 2
-  > ...had a beautiful they did a beautiful presentation of that that uh Zone show zone or the Drone that showed that beautiful Woods all that's going to be impacted approximately 196 Acres...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cKjOaULYHj4&t=7036s)  _(term: drone, unreviewed)_
-
-- **[2023-11-02] Planning & Zoning Commission** -- Planning & Zoning 1NOV23 1 of 2
   > ...some discussion and and there was a request from staff to kind of provide see if we could provide some some Drone footage um so we do have a number of of videos here that were prepared and I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cKjOaULYHj4&t=4575s)  _(term: drone, unreviewed)_
+
+- **[2023-11-02] Planning & Zoning Commission** -- Planning & Zoning 1NOV23 1 of 2
+  > ...had a beautiful they did a beautiful presentation of that that uh Zone show zone or the Drone that showed that beautiful Woods all that's going to be impacted approximately 196 Acres...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cKjOaULYHj4&t=7036s)  _(term: drone, unreviewed)_
 
 - **[2023-03-07] Town Council** -- Town Council 06MAR23 1 of 2
   > ...the ones to do this traffic survey they're a big engineering firm they do with a drone or they do it by by vision and they have for that if you put two drive-throughs down there I've been...
@@ -692,6 +709,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -711,8 +733,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| watertown_ct | streams | 2026-08-31 07:29:26.489802 | 24 |
-| watertown_ct | videos | 2026-08-31 07:29:34.128514 | 644 |
+| watertown_ct | streams | 2026-08-31 13:43:14.347836 | 24 |
+| watertown_ct | videos | 2026-08-31 13:43:22.407004 | 644 |
 
 
 ## Registered meeting bodies
@@ -779,5 +801,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:19:34 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Watertown"`_
+_Generated 2026-08-31T14:44:52 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Watertown"`_
 

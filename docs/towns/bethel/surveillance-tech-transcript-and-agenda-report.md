@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **Bethel**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **39 mentions** across **17 meetings**
+- **40 mentions** across **18 meetings**
 - **First mention:** 2023-02-21  |  **Most recent:** 2026-03-10
 - **Technologies discussed:** alpr, body_camera, drone, surveillance_general
 - **Coverage:** 529 of 988 known Bethel meetings transcribed (54%)
@@ -71,12 +71,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | alpr | 27 | 8 | 2023-02-21 | 2026-02-17 |
 | body_camera | 1 | 1 | 2024-08-06 | 2024-08-06 |
 | drone | 4 | 4 | 2023-06-27 | 2026-03-10 |
-| surveillance_general | 7 | 4 | 2024-02-08 | 2024-11-14 |
+| surveillance_general | 8 | 5 | 2024-02-08 | 2025-04-01 |
 
 
 ## Timeline
 
-17 meetings surfaced a finding (17 dated, spanning 2023-02-21 to 2026-03-10; 0 of unknown date, listed last).
+18 meetings surfaced a finding (18 dated, spanning 2023-02-21 to 2026-03-10; 0 of unknown date, listed last).
 
 
 ### 2023-02-21 -- Board of Selectmen
@@ -160,6 +160,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 **Public Utilities Commission Regular Meeting - 11/14/2024** _(topics: surveillance_general)_
 
 - `surveillance_general` [▸](https://www.youtube.com/watch?v=XzaIcY2KHCA&t=2228s)  > ...project is the sub Area 13 uh sanitary survey um all the tasks the cleaning the uh uh CCTV flow isolation manhole inspections are complete Weston and Samson's working on...
+
+
+### 2025-04-01 -- Board of Selectmen
+
+**Board of Selectmen Regular Meeting - 04/01/2025** _(topics: surveillance_general)_
+
+- `surveillance_general` [▸](https://www.youtube.com/watch?v=CSwIjhB2LOc&t=365s)  > ...but as long this is my only stipulation is that we have proper signage and super, you know, the uh, surveillance camera is directed right on that ballot box. Um and um you know it it's easier...
 
 
 ### 2025-09-22 -- Inland Wetlands Commission
@@ -261,6 +268,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=5109s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-17] Board of Finance** -- Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
+  > ...in service calls related to crimes and how many related to non-rimes? and two on the flock safety license plate readers. Uh as we all know, Bo Finance approved um the first installment last...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4280s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-17] Board of Finance** -- Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
   > ...else can they provide? Um, >> so I I'll speak to the uh the calls for service and then I'll defer the flock. Um, my deputy is a little more well versed in that. Um, so we just had this...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4312s)  _(term: alpr_flock, unreviewed)_
 
@@ -273,16 +284,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4468s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-17] Board of Finance** -- Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
-  > ...that was kind of limited. We sort of had a partial plate. Um to be able to run that through a flock system and be able to find those people quickly. Those are the instances where we're looking to use...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4531s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-17] Board of Finance** -- Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
   > ...Home Depot, a lot of Targets, a lot of retail facilities do contract with Flock. They own the camera and then they share that data with local law enforcement. That's how that works....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=5100s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-17] Board of Finance** -- Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
-  > ...in service calls related to crimes and how many related to non-rimes? and two on the flock safety license plate readers. Uh as we all know, Bo Finance approved um the first installment last...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4280s)  _(term: alpr_flock, unreviewed)_
+  > ...that was kind of limited. We sort of had a partial plate. Um to be able to run that through a flock system and be able to find those people quickly. Those are the instances where we're looking to use...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4531s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-17] Board of Finance** -- Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
   > ...it. There's a lot of safeguards in place. There's a lot of audit uh trails when it comes to the use of the flock camera. Uh we the way we have it set up right now, you have to input a case...
@@ -293,28 +300,28 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4979s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-16] Board of Selectmen** -- Board of Selectmen Regular Meeting - 12/16/2025
-  > ...waiver in this case are flock is on state bid. Uh and also um it's unique to the license plate reader companies in the area because we're able to connect to the towns around us giving us a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2181s)  _(term: alpr_flock, unreviewed)_
+  > ...to that? >> Okay. Next up on the agenda, we have a bid waiver for flock safety automatic license by readers. Now, if you recall, we approved these already, but when we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2141s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-16] Board of Selectmen** -- Board of Selectmen Regular Meeting - 12/16/2025
   > ...questions on we do how we do that? >> Yeah, I do I just have a quick question. Are there so as I understand Flock is the only um provider for the for the like five town kind of thing. Is that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2196s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-16] Board of Selectmen** -- Board of Selectmen Regular Meeting - 12/16/2025
-  > ...to that? >> Okay. Next up on the agenda, we have a bid waiver for flock safety automatic license by readers. Now, if you recall, we approved these already, but when we...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2141s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-12-16] Board of Selectmen** -- Board of Selectmen Regular Meeting - 12/16/2025
   > ...Carter's first selection of the town of Bethl to execute the contract with Flock Group Incorporated, DVA Flock Safety, and to authorize any other acts or actions as reasonably necessary,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2342s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-12-16] Board of Selectmen** -- Board of Selectmen Regular Meeting - 12/16/2025
+  > ...Roman numeral 3 for automatic license plate readers. The reasons for the bid waiver in this case are flock is on state bid. Uh and also um it's unique to the license plate reader companies in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2173s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-16] Board of Selectmen** -- Board of Selectmen Regular Meeting - 12/16/2025
   > ...authorize the town of Bethl to enter to the automatic license reader contract with Flock Group Incorporated, DVA Flock Safety in the amount of 78,000, that's 26,000 a year, subject to review of town...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2327s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-16] Board of Selectmen** -- Board of Selectmen Regular Meeting - 12/16/2025
-  > ...Roman numeral 3 for automatic license plate readers. The reasons for the bid waiver in this case are flock is on state bid. Uh and also um it's unique to the license plate reader companies in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2173s)  _(term: alpr_flock, unreviewed)_
+  > ...waiver in this case are flock is on state bid. Uh and also um it's unique to the license plate reader companies in the area because we're able to connect to the towns around us giving us a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2181s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-16] Board of Selectmen** -- Board of Selectmen Regular Meeting - 12/16/2025
   > ...council, and move to authorize Dan Lee Carter's first selection of the town of Bethl to execute the contract with Flock Group Incorporated, DVA Flock Safety, and to authorize any other acts or...
@@ -448,6 +455,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 
 ### surveillance_general
+
+- **[2025-04-01] Board of Selectmen** -- Board of Selectmen Regular Meeting - 04/01/2025
+  > ...but as long this is my only stipulation is that we have proper signage and super, you know, the uh, surveillance camera is directed right on that ballot box. Um and um you know it it's easier...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CSwIjhB2LOc&t=365s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-11-14] Public Utilities Commission** -- Public Utilities Commission Regular Meeting - 11/14/2024
   > ...project is the sub Area 13 uh sanitary survey um all the tasks the cleaning the uh uh CCTV flow isolation manhole inspections are complete Weston and Samson's working on...
@@ -602,6 +613,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -621,8 +637,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| bethel_ct | streams | 2026-08-31 07:32:16.728940 | 31 |
-| bethel_ct | videos | 2026-08-31 07:32:30.899913 | 1113 |
+| bethel_ct | streams | 2026-08-31 13:46:08.346602 | 31 |
+| bethel_ct | videos | 2026-08-31 13:46:23.069218 | 1113 |
 
 
 ## Registered meeting bodies
@@ -689,5 +705,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:08:05 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bethel"`_
+_Generated 2026-08-31T14:35:32 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bethel"`_
 
