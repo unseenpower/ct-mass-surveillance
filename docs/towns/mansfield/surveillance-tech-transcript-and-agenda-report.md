@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Mansfie
 - **52 mentions** across **21 meetings**
 - **First mention:** 2023-05-31  |  **Most recent:** 2026-08-10
 - **Technologies discussed:** alpr, drone, predictive_policing
-- **Coverage:** 748 of 1,256 known Mansfield meetings transcribed (60%)
+- **Coverage:** 773 of 1,256 known Mansfield meetings transcribed (62%)
 - **Not the full history:** transcripts begin **2021-01-15**, but Mansfield's published video archive goes back to **2015-05-06**. Meetings before 2021 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 - **2 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
@@ -714,11 +714,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 28
-- Videos registered: 1256 (fetched: 748, no captions: 12)
+- Videos registered: 1256 (fetched: 773, no captions: 12)
 - Date range covered: 2015-05-06 to 2026-08-27 (all 1256 videos dated)
 
 
@@ -733,8 +738,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| mansfield_ct_stream | streams | 2026-08-31 07:21:01.460813 | 401 |
-| mansfield_ct_stream | videos | 2026-08-31 07:21:13.154293 | 1048 |
+| mansfield_ct_stream | streams | 2026-08-31 14:15:44.078678 | 401 |
+| mansfield_ct_stream | videos | 2026-08-31 14:15:57.108071 | 1048 |
 
 
 ## Registered meeting bodies
@@ -774,7 +779,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 570 (fetched: 562)
+- Documents registered: 571 (fetched: 563)
 - Date range covered: 2011-01-19 to 2026-09-02
 
 
@@ -824,5 +829,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:13:10 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Mansfield"`_
+_Generated 2026-08-31T14:40:16 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Mansfield"`_
 

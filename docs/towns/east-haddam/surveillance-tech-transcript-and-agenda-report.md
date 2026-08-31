@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **East Haddam**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **40 mentions** across **21 meetings**
+- **43 mentions** across **24 meetings**
 - **First mention:** 2022-10-13  |  **Most recent:** 2026-06-09
-- **Technologies discussed:** alpr, drone, predictive_policing, purchasing_broker, surveillance_general
-- **Coverage:** 926 of 1,631 known East Haddam meetings transcribed (57%)
-- **Not the full history:** transcripts begin **2022-10-12**, but East Haddam's published video archive goes back to **2018-03-20**. Meetings before 2022 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+- **Technologies discussed:** alpr, body_camera, drone, facial_recognition, predictive_policing, purchasing_broker, surveillance_general
+- **Coverage:** 951 of 1,635 known East Haddam meetings transcribed (58%)
+- **Not the full history:** transcripts begin **2022-09-06**, but East Haddam's published video archive goes back to **2018-03-20**. Meetings before 2022 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -68,8 +68,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 12 | 4 | 2023-11-30 | 2025-12-02 |
+| alpr | 13 | 5 | 2023-11-30 | 2025-12-08 |
+| body_camera | 1 | 1 | 2024-02-21 | 2024-02-21 |
 | drone | 24 | 14 | 2022-10-13 | 2026-06-09 |
+| facial_recognition | 1 | 1 | 2025-11-05 | 2025-11-05 |
 | predictive_policing | 1 | 1 | 2022-10-25 | 2022-10-25 |
 | purchasing_broker | 1 | 1 | 2024-02-29 | 2024-02-29 |
 | surveillance_general | 2 | 2 | 2025-08-14 | 2025-11-05 |
@@ -77,7 +79,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ## Timeline
 
-21 meetings surfaced a finding (21 dated, spanning 2022-10-13 to 2026-06-09; 0 of unknown date, listed last).
+24 meetings surfaced a finding (24 dated, spanning 2022-10-13 to 2026-06-09; 0 of unknown date, listed last).
 
 
 ### 2022-10-13 -- Redevelopment Agency
@@ -142,6 +144,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `drone` [▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2474s)  > ...moved right so it's okay and you know we could go out and do a a visual survey or a much cheaper drone flight to locate all the um all the headstones I mean a drone flight's not that expensive and uh...
 
 - `drone` [▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2479s)  > ...a much cheaper drone flight to locate all the um all the headstones I mean a drone flight's not that expensive and uh they can even just give you a picture you can again you're spending money on...
+
+
+### 2024-02-21 -- Board of Selectmen
+
+**Board of Selectmen Budget Workshop - Part 2 2.21.2024** _(topics: body_camera)_
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=f9DRpn3g2nA&t=6553s)  > ...it we'll make a note to I'll bring my body camera or your body cam should get accosted my badge oh don't forget the...
 
 
 ### 2024-02-29 -- Board of Selectmen
@@ -249,6 +258,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5277s)  > ...database. So they they use it and then there's another 1,000 or more currently that pay into flock to access retail and insurance company uh related uh information from the database. So what's...
 
 
+### 2025-11-05 -- Public Information Meeting
+
+**Public Hearing - ATESD Part 2 - 11.5.2025** _(topics: facial_recognition)_
+
+- `facial_recognition` [▸](https://www.youtube.com/watch?v=Xn3syNVbMQs&t=4173s)  > ...that these cameras can only be used for speeding unless there is a court order to look for a criminal with face recognition. Seven, who will securely dispose of all the pictures once the...
+
+
 ### 2025-12-02 -- Board of Selectmen
 
 **Board of Selectmen - 12.2.2025** _(topics: alpr)_
@@ -256,6 +272,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=ax_Nj0RDb_Y&t=1050s)  > ...time as said in the paper it is time for the state to regulate the use and sharing of automated license plate reader data through legislation. They want the ordinance to be better worded...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=ax_Nj0RDb_Y&t=4534s)  > ...back to the cameras, the speed cameras or whatever, license plate readers. This is not a license plate reader, but years ago, uh, we had suggested that when they redid the bridge work, that a,...
+
+
+### 2025-12-08 -- Board of Finance
+
+**Board of Finance - 12.8.2025** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=Bs2XttcdwHQ&t=4651s)  > ...and um and also another item that the LPR system doesn't address the operator. That's why it's called a license plate reader. You're you cite an infraction against the vehicle, not the operator....
 
 
 ### 2026-06-09 -- Planning & Zoning Commission
@@ -275,6 +298,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
+- **[2025-12-08] Board of Finance** -- Board of Finance - 12.8.2025
+  > ...and um and also another item that the LPR system doesn't address the operator. That's why it's called a license plate reader. You're you cite an infraction against the vehicle, not the operator....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Bs2XttcdwHQ&t=4651s)  _(term: alpr_flock, unreviewed)_
+
 - **[2025-12-02] Board of Selectmen** -- Board of Selectmen - 12.2.2025
   > ...back to the cameras, the speed cameras or whatever, license plate readers. This is not a license plate reader, but years ago, uh, we had suggested that when they redid the bridge work, that a,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ax_Nj0RDb_Y&t=4534s)  _(term: alpr_flock, unreviewed)_
@@ -284,12 +311,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ax_Nj0RDb_Y&t=1050s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
-  > ...the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I understand is there's over 4,800 law enforcement agencies who pay something...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5260s)  _(term: alpr_flock, unreviewed)_
+  > ...>> So, so you could be sold or you could be bought. Let's say you could be bought by the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5254s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
   > ...flock cameras. >> That's right. >> Flock. [clears throat] >> Flock. They're actually mocking us by saying it. clock....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4052s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
+  > ...the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I understand is there's over 4,800 law enforcement agencies who pay something...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5260s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
   > ...to share this stuff, police agencies use it without a warrant. It links up to the flock cameras. >> That's right. >> Flock. [clears throat]...
@@ -304,16 +335,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5241s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
-  > ...>> I I heard actually heard this gentleman mentioned Flock. And are you affiliated with Flock? Not >> now. is your database shared. >> We are not for the play....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5244s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
-  > ...>> So, so you could be sold or you could be bought. Let's say you could be bought by the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5254s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
   > ...database. So they they use it and then there's another 1,000 or more currently that pay into flock to access retail and insurance company uh related uh information from the database. So what's...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5277s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
+  > ...>> I I heard actually heard this gentleman mentioned Flock. And are you affiliated with Flock? Not >> now. is your database shared. >> We are not for the play....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5244s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-05-23] Redevelopment Agency** -- Redevelopment Agency - 5.23.2024
   > ...right you might want to you I my flock you my flock might well yes but might want to raise the question more...
@@ -331,7 +358,9 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### body_camera
 
-*(no findings)*
+- **[2024-02-21] Board of Selectmen** -- Board of Selectmen Budget Workshop - Part 2 2.21.2024
+  > ...it we'll make a note to I'll bring my body camera or your body cam should get accosted my badge oh don't forget the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=f9DRpn3g2nA&t=6553s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -361,12 +390,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=EGbjAGz-Bk0&t=2863s)  _(term: drone, unreviewed)_
 
 - **[2025-06-19] Economic Development Commission** -- Economic Development Commission - 6.19.2025
-  > ...addressing this the sighting the position and how it would look from a boat. So they had to fly a drone like it was a boat going down a river and they they put a balloon up so you could see...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rKYOr7ZkRE0&t=3676s)  _(term: drone, unreviewed)_
-
-- **[2025-06-19] Economic Development Commission** -- Economic Development Commission - 6.19.2025
   > ...contractor asked me if they could have access to the airport because they wanted to fly a drone down the river because there was a question of addressing this the sighting the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rKYOr7ZkRE0&t=3667s)  _(term: drone, unreviewed)_
+
+- **[2025-06-19] Economic Development Commission** -- Economic Development Commission - 6.19.2025
+  > ...addressing this the sighting the position and how it would look from a boat. So they had to fly a drone like it was a boat going down a river and they they put a balloon up so you could see...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rKYOr7ZkRE0&t=3676s)  _(term: drone, unreviewed)_
 
 - **[2025-02-24] Board of Selectmen** -- Board of Selectmen - Budget Workshop 2.24.2025
   > ...so um if the appraisal came in less we could have potentially leave funding for a drone survey at aley Cemetery which is another Cemetery where we believe around the edges um there would probably be...
@@ -404,13 +433,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...outside envelope will look like a little bit even if it doesn't include the full drone but at least start getting conception some rendering of the exterior would be good so David what do...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=1388s)  _(term: drone, unreviewed)_
 
-- **[2024-04-02] Conservation Commission** -- Conservation Commission - 4.2.2024
-  > ...animals there has to be more variation than we have so and I don't want to drone on about this but I mean the land trust right now for example has got an application in for a grant where in one...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UMWXXLFS-hk&t=6690s)  _(term: drone, unreviewed)_
-
 - **[2024-04-02] Moodus Firehouse Committee** -- Moodus Firehouse Renovation Committee - 4.2.2024
   > ...even thinking like it would be nice if we could get dagel or somebody to do some drone shots of the property that we could sit it on to it for some of the renderings and show how it would lay out...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=399s)  _(term: drone, unreviewed)_
+
+- **[2024-04-02] Conservation Commission** -- Conservation Commission - 4.2.2024
+  > ...animals there has to be more variation than we have so and I don't want to drone on about this but I mean the land trust right now for example has got an application in for a grant where in one...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UMWXXLFS-hk&t=6690s)  _(term: drone, unreviewed)_
 
 - **[2024-01-16] Cemetery Committee** -- Cemetery Committee - 1.16.2024
   > ...moved right so it's okay and you know we could go out and do a a visual survey or a much cheaper drone flight to locate all the um all the headstones I mean a drone flight's not that expensive and uh...
@@ -455,7 +484,9 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### facial_recognition
 
-*(no findings)*
+- **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 2 - 11.5.2025
+  > ...that these cameras can only be used for speeding unless there is a court order to look for a criminal with face recognition. Seven, who will securely dispose of all the pictures once the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xn3syNVbMQs&t=4173s)  _(term: facial_recognition, unreviewed)_
 
 
 ### gunshot_detection
@@ -627,12 +658,17 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 34
-- Videos registered: 1631 (fetched: 926, no captions: 19)
-- Date range covered: 2018-03-20 to 2026-08-27 (all 1631 videos dated)
+- Videos registered: 1635 (fetched: 951, no captions: 19)
+- Date range covered: 2018-03-20 to 2026-09-01 (all 1635 videos dated)
 
 
 ### Channels
@@ -646,8 +682,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| east_haddam_ct | streams | 2026-08-31 07:16:55.158719 | 1404 |
-| east_haddam_ct | videos | 2026-08-31 07:16:39.098830 | 227 |
+| east_haddam_ct | streams | 2026-08-31 14:11:26.143649 | 1408 |
+| east_haddam_ct | videos | 2026-08-31 14:11:29.343439 | 227 |
 
 
 ## Registered meeting bodies
@@ -661,7 +697,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Board of Education | education | True | 1 |
 | Agriculture Commission | other | True | 25 |
 | Board of Assessment Appeals | other | True | 7 |
-| Board of Selectmen | other | True | 265 |
+| Board of Selectmen | other | True | 266 |
 | Broadband Committee | other | True | 56 |
 | Cemetery Committee | other | True | 41 |
 | Conservation Commission | other | True | 87 |
@@ -672,7 +708,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Goodspeed Airport Eval Committee | other | True | 6 |
 | Historic District Commission | other | True | 42 |
 | Inland Wetlands and Watercourses Commission | other | True | 82 |
-| Library Committees | other | True | 92 |
+| Library Committees | other | True | 93 |
 | Open Space Committee | other | True | 29 |
 | Planning & Zoning Commission | other | True | 143 |
 | Public Information Meeting | other | True | 52 |
@@ -684,8 +720,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Tri-Board Meeting | other | True | 3 |
 | USA 250 Celebration Committee | other | True | 14 |
 | Water Pollution Control Authority | other | True | 29 |
-| Zoning Board of Appeals | other | True | 37 |
-| Board of Fire Commissioners | public_safety | True | 69 |
+| Zoning Board of Appeals | other | True | 38 |
+| Board of Fire Commissioners | public_safety | True | 70 |
 | Moodus Firehouse Committee | public_safety | True | 35 |
 | Radio Committee | public_safety | True | 6 |
 
@@ -751,5 +787,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:10:10 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "East Haddam"`_
+_Generated 2026-08-31T14:37:12 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "East Haddam"`_
 

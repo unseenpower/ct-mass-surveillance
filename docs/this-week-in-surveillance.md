@@ -2,12 +2,12 @@
 
 ## Headlines
 
-- **[Meetings held in the last 7 days](#meetings-held-in-the-last-7-days)** — 12 mention(s) across 3 town(s) — New Milford, Old Saybrook, Westport
+- **[Meetings held in the last 7 days](#meetings-held-in-the-last-7-days)** — 16 mention(s) across 3 town(s) — New Milford, Old Saybrook, Westport
 - **[Additional towns covered in the tracker this week](#additional-towns-covered-in-the-tracker-this-week)** — 81 town(s) entered the tracker
-- **[New signal: topics appearing for the first time in towns already being watched](#new-signal-topics-appearing-for-the-first-time-in-towns-already-being-watched)** — 26 town/topic pairing(s) — East Lyme (Other biometrics), East Lyme (Body cameras)
+- **[New signal: topics appearing for the first time in towns already being watched](#new-signal-topics-appearing-for-the-first-time-in-towns-already-being-watched)** — 30 town/topic pairing(s) — Danbury (Body cameras), East Lyme (Other biometrics)
 - **[In the news](#in-the-news)** — no new items; most recent sweep on file ran 2026-08-23
 - **[Coming up](#coming-up)** — 1 confirmed agenda item(s); 12 scheduled meeting(s)
-- **[Volume surfaced this week, by topic](#volume-surfaced-this-week-by-topic)** — 3,401 mentions across 16 topics — Drones 1,514, ALPR / Flock 1,292, General surveillance 242
+- **[Volume surfaced this week, by topic](#volume-surfaced-this-week-by-topic)** — 3,664 mentions across 16 topics — Drones 1,548, ALPR / Flock 1,401, General surveillance 246
 
 
 > **Unreviewed keyword matches, not verified claims.** Every item below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous and auto-captions mis-transcribe. Follow the timestamped link and listen before citing anything.
@@ -17,23 +17,27 @@
 
 ## Meetings held in the last 7 days
 
-_Covering the 7 days to 31 August 2026. 3,226 mentions newly surfaced, from 19,618 meeting transcripts added across 68 keyword scans._
+_Covering the 7 days to 31 August 2026. 3,484 mentions newly surfaced, from 19,965 meeting transcripts added across 73 keyword scans._
 
-_12 mention(s) across 3 town(s) — the genuinely current slice._
+_16 mention(s) across 3 town(s) — the genuinely current slice._
 
 
 ### [New Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
 
 - **[2026-08-24] Town Council** — Town Council Regular Meeting / August 24, 2026 / New Milford, CT
   > …public works has received about a camera that's in the Gaylordsville area. Some people claiming that to be a flock camera. First and foremost, New Milford does not have flock cameras. Uh I've…
-  [Watch ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1272s)  _(term: `alpr_flock`, 6 matches in this stretch)_
+  [Watch ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1272s)  _(term: `alpr_flock`, 8 matches in this stretch)_
 
 - **[2026-08-24] Town Council** — Town Council Regular Meeting / August 24, 2026 / New Milford, CT
-  > …of like we're doing with these ordinances. >> You're not talking about the flock the the multiple people getting it. You're talking about just having…
-  [Watch ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=6078s)  _(term: `alpr_flock`, 4 matches in this stretch)_
+  > …>> Before we adjourn, I I just asked earlier if we could put on a future agenda a moratorum on automated license plate readers. Is that something we would be asking attorney Debella to…
+  [Watch ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=6055s)  _(term: `alpr_flock`, 5 matches in this stretch)_
 
 
 ### [Old Saybrook](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
+
+- **[2026-08-27] Preserve Ad Hoc Subcommittee** — Old Saybrook Preserve Ad Hoc Subcommittee August 27, 2026
+  > …I I I haven't asked him that question. I know uh we had uh a whole mess of them, flock of them up at Founders Park last week. >> Yeah.…
+  [Watch ▸](https://www.youtube.com/watch?v=R1Xjx1OMvkM&t=831s)  _(term: `alpr_flock`)_
 
 - **[2026-08-24] Police Commission** — Old Saybrook Police Commission August 24, 2026
   > …cameras will be active and they'll be able to all six patrol cars will be activate as an license plate reader through the front camera on the car which is also our our body camera or our…
@@ -54,58 +58,58 @@ _81 town(s) entered the tracker this week — their meeting transcripts were dow
 
 | Town | Mentions found | Top topics |
 | --- | --- | --- |
-| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | 385645 | General surveillance (82), Drones (61), ALPR / Flock (52) |
-| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | 271984 | Drones (60), ALPR / Flock (54), General surveillance (43) |
-| [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | 214092 | ALPR / Flock (173), Drones (38), Body cameras (7) |
-| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | 143100 | Drones (67), General surveillance (17), ALPR / Flock (5) |
-| [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | 103179 | ALPR / Flock (176), Drones (30), Doorbell-camera partnerships (3) |
-| [Simsbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | 82016 | ALPR / Flock (21), Drones (20), Body cameras (2) |
-| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | 80786 | Drones (30), ALPR / Flock (19), Body cameras (6) |
-| [Mansfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | 67824 | ALPR / Flock (31), Drones (21), General surveillance (1) |
-| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | 65240 | Drones (24), ALPR / Flock (12), General surveillance (2) |
+| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | 410075 | General surveillance (82), ALPR / Flock (63), Drones (62) |
+| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | 293376 | ALPR / Flock (68), Drones (60), General surveillance (43) |
+| [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | 216909 | ALPR / Flock (175), Drones (38), Body cameras (7) |
+| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | 145962 | Drones (67), General surveillance (17), ALPR / Flock (6) |
+| [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | 106113 | ALPR / Flock (181), Drones (31), Doorbell-camera partnerships (3) |
+| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | 95119 | Drones (34), ALPR / Flock (26), Body cameras (6) |
+| [Simsbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | 91336 | ALPR / Flock (24), Drones (20), Body cameras (4) |
+| [Farmington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | 71838 | Drones (43), ALPR / Flock (31), Predictive policing (2) |
+| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | 70305 | Drones (24), ALPR / Flock (13), General surveillance (2) |
+| [Mansfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | 67824 | ALPR / Flock (31), Drones (21), Predictive policing (1) |
+| [Old Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | 64751 | Drones (52), ALPR / Flock (21) |
+| [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | 63888 | Drones (39), ALPR / Flock (32), General surveillance (10) |
 | [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md) | 62780 | Drones (68), ALPR / Flock (3), Doorbell-camera partnerships (1) |
-| [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | 60092 | Drones (39), ALPR / Flock (29), General surveillance (10) |
-| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | 58560 | Drones (112), ALPR / Flock (5), Facial recognition (1) |
-| [Kent](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/kent/surveillance-tech-transcript-and-agenda-report.md) | 57340 | Drones (58), ALPR / Flock (1), Body cameras (1) |
-| [Farmington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | 56181 | Drones (31), ALPR / Flock (26), Body cameras (2) |
-| [Old Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | 52333 | Drones (39), ALPR / Flock (20) |
-| [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | 45576 | Drones (54), ALPR / Flock (8), Body cameras (6) |
-| [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | 42189 | Drones (33), ALPR / Flock (9), Body cameras (4) |
-| [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | 38690 | Drones (43), Body cameras (16), ALPR / Flock (8) |
-| [Bethel](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | 38532 | ALPR / Flock (27), General surveillance (7), Drones (4) |
-| [Wethersfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | 38318 | Drones (42), General surveillance (5), Predictive policing (1) |
-| [Watertown](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | 29592 | Drones (38), ALPR / Flock (12), Predictive policing (2) |
-| [Columbia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | 27896 | Drones (23), ALPR / Flock (21) |
+| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | 60024 | Drones (112), ALPR / Flock (5), Facial recognition (4) |
+| [Kent](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/kent/surveillance-tech-transcript-and-agenda-report.md) | 58280 | Drones (58), Body cameras (1), ALPR / Flock (1) |
+| [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | 47475 | Drones (54), Body cameras (9), ALPR / Flock (8) |
+| [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | 43911 | Drones (33), ALPR / Flock (9), Body cameras (6) |
+| [Wethersfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | 40664 | Drones (42), General surveillance (5), ALPR / Flock (3) |
+| [Bethel](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | 39520 | ALPR / Flock (27), General surveillance (8), Drones (4) |
+| [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | 39220 | Drones (43), Body cameras (17), ALPR / Flock (8) |
+| [Watertown](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | 30688 | Drones (38), ALPR / Flock (14), Predictive policing (2) |
+| [Cheshire](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | 28842 | ALPR / Flock (36), Drones (27), Body cameras (2) |
+| [Columbia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | 28530 | Drones (23), ALPR / Flock (21), General surveillance (1) |
 | [North Stonington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-stonington/surveillance-tech-transcript-and-agenda-report.md) | 27714 | ALPR / Flock (59), Drones (3) |
-| [Cheshire](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | 27094 | ALPR / Flock (32), Drones (27), Body cameras (2) |
+| [Rocky Hill](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | 26260 | Predictive policing (22), Drones (21), ALPR / Flock (20) |
 | [Monroe](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | 26164 | Drones (27), ALPR / Flock (2), Other biometrics (2) |
-| [Rocky Hill](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | 25452 | Predictive policing (22), Drones (21), ALPR / Flock (18) |
-| [Norwich](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | 25164 | ALPR / Flock (23), Drones (17), Predictive policing (8) |
-| [Old Saybrook](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | 24140 | Drones (65), ALPR / Flock (4), Body cameras (2) |
-| [Seymour](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | 22590 | ALPR / Flock (32), Body cameras (6), Drones (4) |
+| [Norwich](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | 25630 | ALPR / Flock (23), Drones (17), Predictive policing (8) |
+| [Old Saybrook](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | 24552 | Drones (65), ALPR / Flock (5), Body cameras (2) |
+| [Seymour](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | 23092 | ALPR / Flock (32), Body cameras (7), Drones (4) |
 | [Somers](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/somers/surveillance-tech-transcript-and-agenda-report.md) | 19168 | Drones (32) |
-| [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | 15642 | Drones (32), ALPR / Flock (21), Facial recognition (6) |
-| [New Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | 11934 | Drones (13), ALPR / Flock (10), Predictive policing (2) |
-| [Plainfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | 11715 | Drones (10), Body cameras (4), ALPR / Flock (1) |
-| [East Hampton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | 10780 | ALPR / Flock (28), Drones (8), Body cameras (3) |
-| [Killingworth](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingworth/surveillance-tech-transcript-and-agenda-report.md) | 10296 | ALPR / Flock (14), Drones (11), Predictive policing (1) |
+| [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | 18960 | ALPR / Flock (32), Drones (32), Facial recognition (8) |
+| [Plainfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | 15620 | Drones (10), Body cameras (9), ALPR / Flock (1) |
+| [New Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | 14144 | ALPR / Flock (14), Drones (13), Facial recognition (2) |
+| [East Hampton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | 12005 | ALPR / Flock (33), Drones (8), General surveillance (3) |
+| [Killingworth](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingworth/surveillance-tech-transcript-and-agenda-report.md) | 10692 | ALPR / Flock (15), Drones (11), Predictive policing (1) |
 | [Killingly](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | 9060 | ALPR / Flock (12), Predictive policing (6), Body cameras (6) |
 | [Stonington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/stonington/surveillance-tech-transcript-and-agenda-report.md) | 8106 | ALPR / Flock (9), Body cameras (4), Drones (3) |
 | [East Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | 6440 | Drones (23), ALPR / Flock (3), Facial recognition (1) |
 | [Clinton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/clinton/surveillance-tech-transcript-and-agenda-report.md) | 5945 | ALPR / Flock (24), Drones (5) |
-| [Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/granby/surveillance-tech-transcript-and-agenda-report.md) | 4368 | Drones (8), ALPR / Flock (6), General surveillance (1) |
-| [Naugatuck](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | 4114 | Drones (11), ALPR / Flock (2), Body cameras (2) |
-| [Ashford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | 3736 | Drones (6), Predictive policing (1), ALPR / Flock (1) |
+| [Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/granby/surveillance-tech-transcript-and-agenda-report.md) | 4368 | Drones (8), ALPR / Flock (6), Predictive policing (1) |
+| [Naugatuck](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | 4356 | Drones (11), ALPR / Flock (2), Facial recognition (2) |
+| [Ashford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | 3736 | Drones (6), ALPR / Flock (1), Predictive policing (1) |
 | [Portland](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/portland/surveillance-tech-transcript-and-agenda-report.md) | 3311 | Drones (6), ALPR / Flock (1) |
 | [Plainville](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainville/surveillance-tech-transcript-and-agenda-report.md) | 2925 | Drones (8), ALPR / Flock (1) |
-| [Bethany](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | 2632 | ALPR / Flock (9), Drones (3), Facial recognition (1) |
+| [Bethany](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | 2820 | ALPR / Flock (9), Drones (3), Facial recognition (2) |
 | [Ansonia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | 1938 | Body cameras (7), Predictive policing (4), Drones (3) |
 | [Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | 1848 | ALPR / Flock (11), Body cameras (2), Drones (1) |
 | [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | 1632 | Predictive policing (2), Drones (2), Facial recognition (1) |
 | [Lebanon](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/lebanon/surveillance-tech-transcript-and-agenda-report.md) | 1573 | ALPR / Flock (9), Drones (4) |
 | [Deep River](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/deep-river/surveillance-tech-transcript-and-agenda-report.md) | 1572 | ALPR / Flock (6) |
-| [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | 1290 | General surveillance (7), Drones (3), Predictive policing (3) |
-| [Waterford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | 1242 | ALPR / Flock (18) |
+| [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | 1290 | General surveillance (7), Predictive policing (3), Drones (3) |
+| [Waterford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | 1260 | ALPR / Flock (18) |
 | [Canterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/canterbury/surveillance-tech-transcript-and-agenda-report.md) | 1215 | Drones (5) |
 | [Cornwall](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cornwall/surveillance-tech-transcript-and-agenda-report.md) | 966 | Drones (2), ALPR / Flock (1) |
 | [Griswold](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/griswold/surveillance-tech-transcript-and-agenda-report.md) | 670 | ALPR / Flock (4), Predictive policing (1) |
@@ -114,20 +118,20 @@ _81 town(s) entered the tracker this week — their meeting transcripts were dow
 | [Andover](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/andover/surveillance-tech-transcript-and-agenda-report.md) | 487 | Predictive policing (1) |
 | [Bolton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bolton/surveillance-tech-transcript-and-agenda-report.md) | 484 | Drones (1), ALPR / Flock (1) |
 | [Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/canaan/surveillance-tech-transcript-and-agenda-report.md) | 480 | General surveillance (3), Drones (2) |
-| [Ellington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ellington/surveillance-tech-transcript-and-agenda-report.md) | 368 | ALPR / Flock (2), Drones (2) |
-| [Suffield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/suffield/surveillance-tech-transcript-and-agenda-report.md) | 342 | Drones (2), Facial recognition (1) |
+| [Suffield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/suffield/surveillance-tech-transcript-and-agenda-report.md) | 456 | Drones (2), Facial recognition (1), ALPR / Flock (1) |
+| [Ellington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ellington/surveillance-tech-transcript-and-agenda-report.md) | 368 | Drones (2), ALPR / Flock (2) |
 | [New Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-hartford/surveillance-tech-transcript-and-agenda-report.md) | 272 | Drones (2) |
 | [Plymouth](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plymouth/surveillance-tech-transcript-and-agenda-report.md) | 252 | General surveillance (1), Drones (1) |
 | [North Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-canaan/surveillance-tech-transcript-and-agenda-report.md) | 202 | Drones (2) |
 | [Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/lyme/surveillance-tech-transcript-and-agenda-report.md) | 198 | Drones (2) |
 | [New Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-fairfield/surveillance-tech-transcript-and-agenda-report.md) | 191 | Drones (1) |
+| [Easton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/easton/surveillance-tech-transcript-and-agenda-report.md) | 161 | Drones (1) |
 | [Hebron](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hebron/surveillance-tech-transcript-and-agenda-report.md) | 153 | Drones (1) |
 | [Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/haddam/surveillance-tech-transcript-and-agenda-report.md) | 100 | Drones (1) |
 | [Bloomfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bloomfield/surveillance-tech-transcript-and-agenda-report.md) | 55 | Predictive policing (1) |
 | [Newtown](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newtown/surveillance-tech-transcript-and-agenda-report.md) | 8 | Body cameras (1) |
 | [Avon](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/avon/surveillance-tech-transcript-and-agenda-report.md) | 0 | — |
 | [Chester](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/chester/surveillance-tech-transcript-and-agenda-report.md) | 0 | — |
-| [Easton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/easton/surveillance-tech-transcript-and-agenda-report.md) | 0 | — |
 | [Lisbon](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/lisbon/surveillance-tech-transcript-and-agenda-report.md) | 0 | — |
 | [Norfolk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norfolk/surveillance-tech-transcript-and-agenda-report.md) | 0 | — |
 | [Oxford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/oxford/surveillance-tech-transcript-and-agenda-report.md) | 0 | — |
@@ -138,7 +142,14 @@ _81 town(s) entered the tracker this week — their meeting transcripts were dow
 
 ## New signal: topics appearing for the first time in towns already being watched
 
-_26 town/topic pairing(s). These towns already had transcripts in the corpus before this window, so a first appearance here is not simply the effect of new coverage._
+_30 town/topic pairing(s). These towns already had transcripts in the corpus before this window, so a first appearance here is not simply the effect of new coverage._
+
+
+### [Danbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/danbury/surveillance-tech-transcript-and-agenda-report.md) — Body cameras (1 mention)
+
+- **[2021-05-07] City Council** — City Council Meeting 05/2021 (Rescheduled)
+  > …and we recently completed training and you'll notice every uniform officer out on the street is wearing a body worn camera and we have upgraded at least 35 of our marked police…
+  [Watch ▸](https://www.youtube.com/watch?v=8ZmFoiem0lI&t=10550s)  _(term: `body_camera`)_
 
 
 ### [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) — Other biometrics (3 mentions)
@@ -156,7 +167,7 @@ _26 town/topic pairing(s). These towns already had transcripts in the corpus bef
   [Open document ▸](https://eltownhall.com/wp-content/uploads/2021/03/Police-Commission-March-11-2021-Minutes.pdf)  _(agenda/minutes · term: `biometrics_other`)_
 
 
-### [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) — Body cameras (27 mentions)
+### [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) — Body cameras (31 mentions)
 
 - **[2026-03-09] Board of Selectmen** — East Lyme, CT Board of Selectmen Special 03/09/2026
   > …>> But this is the computers radios. >> Computers, radios, um you know you know, if a body cam drops off, someone's chest or something breaks like that. >> So, okay,…
@@ -191,7 +202,7 @@ _26 town/topic pairing(s). These towns already had transcripts in the corpus bef
   [Open document ▸](https://eltownhall.com/wp-content/uploads/2024/03/BOS-February-28-2024-Special-Meeting-Minutes.pdf)  _(agenda/minutes · term: `body_camera`)_
 
 
-_See all 27 in the [Body cameras topic report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md)._
+_See all 31 in the [Body cameras topic report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md)._
 
 
 ### [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) — Computer-aided dispatch (2 mentions)
@@ -203,6 +214,13 @@ _See all 27 in the [Body cameras topic report](https://github.com/unseenpower/ct
 - **[2020-06-03] Board of Selectmen** — Board of Selectmen Agenda - 2020-06-03
   > …ame Records Management System (RMS) product for approximately fifteen years. The company has changed names three times since its purchase. There are no longer any upgrades to the system. The company, CentralSquare, has been providing only patch work (bug fixes) and does not plan to upgrade this product. The product is …
   [Open document ▸](https://eltownhall.com/wp-content/uploads/2020/06/BOS-June-3-2020-Supporting-Documentation.pdf)  _(agenda/minutes · term: `cad`)_
+
+
+### [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) — Doorbell-camera partnerships (1 mention)
+
+- **[2020-11-12] Board of Finance** — East Lyme, CT Board of Finance Meeting 11/12/2020
+  > …cell block booking video we may have surveillance video from a a commercial establishment a ring doorbell all of that can be uploaded into one…
+  [Watch ▸](https://www.youtube.com/watch?v=AZkFNh2NCFQ&t=3398s)  _(term: `doorbell_partnership`)_
 
 
 ### [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) — Gunshot detection (1 mention)
@@ -256,6 +274,13 @@ _See all 27 in the [Body cameras topic report](https://github.com/unseenpower/ct
   [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=312&doc_id=d676d81a-3e00-11ea-9ca4-0050569183fa)  _(agenda/minutes · term: `alpr_flock`)_
 
 
+### [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) — Drones (1 mention)
+
+- **[2017-06-28] Common Council** — Common Council Regular Meeting Minutes - 2017-06-28
+  > …Surplus Vehicles during May 2017 was $24,525.50. Jack Pieper Purchasing Agent 33905 RE: VIDEO DRONE OPERATOR AND VIDEOGRAPHY CONSULTANT SERVICES FOR CITYWIDE MARKETING INITIATIVE To Her Honor, the Mayor, and the Common Council of the City of New Britain: the undersigned beg…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=104&doc_id=a13336fa-9e15-11e7-b89c-00505691de41)  _(agenda/minutes · term: `drone`)_
+
+
 ### [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) — Mobile forensics (2 mentions)
 
 - **[2021-10-13] Common Council** — Common Council Minutes - 2021-10-13
@@ -267,7 +292,7 @@ _See all 27 in the [Body cameras topic report](https://github.com/unseenpower/ct
   [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=413&doc_id=2ae5726b-3314-11eb-bc32-0050569183fa)  _(agenda/minutes · term: `mobile_forensics`)_
 
 
-### [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) — Predictive policing (4 mentions)
+### [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) — Predictive policing (5 mentions)
 
 - **[2022-06-22] Common Council** — Common Council Regular Meeting Minutes - 2022-06-22
   > …e Catch Basins items and Core and Main of New Britain, CT. for the Manhole Cover, Items, who submitted the lowest bids and met all of the bid specifications for the Highway Castings items. The Neenah Foundry Company of Neenah, WI. had submitted the lower bid for the Manhole Cover items but their Manhole Cover items tha…
@@ -284,6 +309,10 @@ _See all 27 in the [Body cameras topic report](https://github.com/unseenpower/ct
 - **[2017-09-13] Common Council** — Common Council Minutes - 2017-09-13
   > …s; h. m. Other noncombustible demolition debris. (4) Miscellaneous materials, including, but not limited to, the following: a. Ashes; b. Asphalt; c. Foundry sand; d. Offal; e. Pressurized containers; f. Sealed drums; g. Tar; h. Fused plastic resin. (5) Motor vehicles/machinery, inclu…
   [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=124&doc_id=8ed3dd75-f091-11e7-a872-00505691de41)  _(agenda/minutes · term: `predictive_policing`)_
+
+- **[2017-04-26] Common Council** — Common Council Regular Meeting Minutes - 2017-04-26
+  > …y Director of the Public Works Department, Utilities Division, is recommending the bid be awarded to HD Supply Waterworks of New Britain, CT for the Manhole Cover items and Manhole Frame, to Campbell Foundry Company of North Haven, CT for the Manhole Riser Ring Items and to United Concrete of Yalesville, CT for the Cat…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=86&doc_id=22ecccbf-51f9-11e7-b9a7-00219ba2f017)  _(agenda/minutes · term: `predictive_policing`)_
 
 
 ### [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) — Purchasing / procurement (2 mentions)
@@ -304,7 +333,7 @@ _See all 27 in the [Body cameras topic report](https://github.com/unseenpower/ct
   [Watch ▸](https://www.youtube.com/watch?v=na7vGQk44nc&t=2515s)  _(term: `ai_data_fusion`)_
 
 
-### [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock (72 mentions)
+### [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock (73 mentions)
 
 - **[2026-07-06] Town Council** — Town Council Regular Meeting - July 6, 2026
   > …off the bat that this is a different topic, a different conversation entirely than the license plate reader conversation. They're two different devices, two different objectives, two…
@@ -339,7 +368,7 @@ _See all 27 in the [Body cameras topic report](https://github.com/unseenpower/ct
   [Watch ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=1593s)  _(term: `alpr_flock`, 4 matches in this stretch)_
 
 
-_See all 72 in the [ALPR / Flock topic report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/alpr.md)._
+_See all 73 in the [ALPR / Flock topic report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/alpr.md)._
 
 
 ### [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) — Body cameras (1 mention)
@@ -506,7 +535,7 @@ _See all 84 in the [Drones topic report](https://github.com/unseenpower/ct-mass-
 _See all 9 in the [ALPR / Flock topic report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/alpr.md)._
 
 
-### [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) — Body cameras (5 mentions)
+### [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) — Body cameras (6 mentions)
 
 - **[2026-06-09] Town Council** — Town Council - Regular Meeting - Tuesday, June 9, 2026
   > …slander. It's defamation. Said up to a police officer. It goes on for 35 minutes on a body cam. All eyes. 35 minutes. Can you imagine being me?…
@@ -519,6 +548,10 @@ _See all 9 in the [ALPR / Flock topic report](https://github.com/unseenpower/ct-
 - **[2021-04-29] Town Council** — Town Council - Budget Workshop - April 29, 2021
   > …tight as we possibly can i need a backup storage device for our body-worn camera system and another notable project there is radio headsets for the tactical team…
   [Watch ▸](https://www.youtube.com/watch?v=YnQgDEdgYxU&t=793s)  _(term: `body_camera`)_
+
+- **[2021-04-13] Town Council** — Town Council - Regular Meeting - April 13, 2021
+  > …shoved an operation into a tighter space so that we could um roll out the um mandated body worn camera program and um that takes up a lot of room…
+  [Watch ▸](https://www.youtube.com/watch?v=-yLC2wt1MtA&t=1133s)  _(term: `body_camera`)_
 
 - **[2020-06-23] Town Council** — Town Council - Regular Meeting - June 23, 2020
   > …regard to retention what are you putting into place as far as a period of time to retain information from body cam whether it be video or audio so we're required to keep presently Cruiser camera…
@@ -597,6 +630,13 @@ _See all 33 in the [Drones topic report](https://github.com/unseenpower/ct-mass-
   [Watch ▸](https://www.youtube.com/watch?v=DKva1bJb7Po&t=1326s)  _(term: `surveillance_general`)_
 
 
+### [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) — Real-time crime centres (1 mention)
+
+- **[2026-03-31] Public Safety Committee** — Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
+  > …capital felonies A and B felonies. So again it's uh all in one system and integrates with the USUS real-time crime center there you'll see under um deliverables…
+  [Watch ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5524s)  _(term: `rtcc`)_
+
+
 ## In the news
 
 _No new items this week: the most recent agenda-watch sweep on file ran **2026-08-23**. Shown below is the latest confirmed activity it recorded, which has not changed since. This section refreshes when a newer sweep is imported._
@@ -670,29 +710,29 @@ _Surveillance technology confirmed on a published agenda:_
 
 _Meetings the towns have already scheduled, at bodies that have raised surveillance before:_
 
-- **2026-09-01** — [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md): [Town Council](https://www.youtube.com/watch?v=ohAGLAHSr_k)
+- **2026-09-01** — [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md): [Board of Fire Commissioners](https://www.youtube.com/watch?v=AdPlpQ_R3sM)
 
 - **2026-09-01** — [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md): [Board of Finance](https://www.youtube.com/watch?v=-6YGLHpzAQM)
 
+- **2026-09-01** — [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md): [Library Committees](https://www.youtube.com/watch?v=EW6y164o8zY)
+
+- **2026-09-01** — [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md): [Board of Selectmen](https://www.youtube.com/watch?v=zR2dl1C9Dp0)
+
 - **2026-09-01** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Public Safety Committee](https://www.youtube.com/watch?v=UJIpYknzLfU)
+
+- **2026-09-01** — [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md): [Zoning Board of Appeals](https://www.youtube.com/watch?v=aLkwyGA5nGw)
 
 - **2026-09-01** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Board of Education](https://www.youtube.com/watch?v=lOH5K7tYB5Q)
 
+- **2026-09-01** — [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md): [Town Council](https://www.youtube.com/watch?v=ohAGLAHSr_k)
+
 - **2026-09-02** — [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md): [Board of Selectmen](https://www.youtube.com/watch?v=AdgmL5J2wpQ)
+
+- **2026-09-02** — [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md): [Open Space Committee](https://www.youtube.com/watch?v=xBLIiOEPQcU)
 
 - **2026-09-03** — [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Community Preservation Committee](https://www.youtube.com/watch?v=2XzfDc_Qn1I)
 
 - **2026-09-07** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Finance and Administration Committee](https://www.youtube.com/watch?v=dZ6npx_dF20)
-
-- **2026-09-08** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Town Council](https://www.youtube.com/watch?v=90gH_uH4_iA)
-
-- **2026-09-08** — [Cheshire](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cheshire/surveillance-tech-transcript-and-agenda-report.md): [Planning and Zoning Commission](https://www.youtube.com/watch?v=dyJu2yqfUTI)
-
-- **2026-09-10** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Public Works, Facilities, and Sustainability Committee](https://www.youtube.com/watch?v=TIW9A4slHqc)
-
-- **2026-09-15** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Board of Education](https://www.youtube.com/watch?v=Ole0pH48NLM)
-
-- **2026-09-16** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Community Planning and Economic Development Committee](https://www.youtube.com/watch?v=yjm_ZFdrcO8)
 
 
 The full watch list — every body that keeps returning to the subject, and when it typically meets — is in [Meetings to watch](meetings-to-watch.md).
@@ -702,21 +742,21 @@ The full watch list — every body that keeps returning to the subject, and when
 
 | Topic | Newly surfaced | Towns |
 | --- | --- | --- |
-| [Drones](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/drone.md) | 1,514 | 72 |
-| [ALPR / Flock](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/alpr.md) | 1,292 | 66 |
-| [General surveillance](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/surveillance_general.md) | 242 | 38 |
-| [Body cameras](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md) | 157 | 35 |
-| [Predictive policing](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/predictive_policing.md) | 90 | 29 |
-| [Facial recognition](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/facial_recognition.md) | 27 | 17 |
+| [Drones](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/drone.md) | 1,548 | 74 |
+| [ALPR / Flock](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/alpr.md) | 1,401 | 71 |
+| [General surveillance](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/surveillance_general.md) | 246 | 40 |
+| [Body cameras](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md) | 205 | 43 |
+| [Predictive policing](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/predictive_policing.md) | 91 | 29 |
+| [Facial recognition](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/facial_recognition.md) | 74 | 24 |
 | [Purchasing / procurement](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/purchasing_broker.md) | 25 | 6 |
-| [Doorbell-camera partnerships](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/doorbell_partnership.md) | 17 | 9 |
+| [Real-time crime centres](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/rtcc.md) | 23 | 5 |
+| [Doorbell-camera partnerships](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/doorbell_partnership.md) | 19 | 10 |
 | [Gunshot detection](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/gunshot_detection.md) | 14 | 2 |
 | [Other biometrics](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/biometrics_other.md) | 9 | 6 |
-| [Real-time crime centres](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/rtcc.md) | 5 | 1 |
-| [Mobile forensics](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/mobile_forensics.md) | 2 | 1 |
-| [Computer-aided dispatch](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/cad.md) | 2 | 1 |
-| [Cell-site simulators](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/cell_site_sim.md) | 2 | 2 |
 | [OSINT / social-media monitoring](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/osint_social_monitor.md) | 2 | 2 |
+| [Mobile forensics](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/mobile_forensics.md) | 2 | 1 |
+| [Cell-site simulators](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/cell_site_sim.md) | 2 | 2 |
+| [Computer-aided dispatch](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/cad.md) | 2 | 1 |
 | [AI data fusion](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/ai_data_fusion.md) | 1 | 1 |
 
 ---

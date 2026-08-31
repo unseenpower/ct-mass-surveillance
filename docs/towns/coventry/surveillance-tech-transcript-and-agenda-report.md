@@ -342,6 +342,11 @@ Coventry is not looking to install flock cameras. Other councilors agreed.
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -361,8 +366,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| coventry_ct | streams | 2026-08-31 07:34:07.879561 | 176 |
-| coventry_ct | videos | 2026-08-31 07:34:08.584702 | 5 |
+| coventry_ct | streams | 2026-08-31 13:48:01.834790 | 176 |
+| coventry_ct | videos | 2026-08-31 13:47:58.868705 | 5 |
 
 
 ## Registered meeting bodies
@@ -389,8 +394,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 290 (fetched: 226)
-- Date range covered: 2026-01-05 to 2026-09-02
+- Documents registered: 292 (fetched: 228)
+- Date range covered: 2026-01-05 to 2026-09-09
 
 
 ### Agenda sources
@@ -450,5 +455,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:09:23 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Coventry"`_
+_Generated 2026-08-31T14:36:35 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Coventry"`_
 

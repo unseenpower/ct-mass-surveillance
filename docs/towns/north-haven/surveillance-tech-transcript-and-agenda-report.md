@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **North Haven**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **72 mentions** across **11 meetings**
+- **75 mentions** across **11 meetings**
 - **First mention:** 2024-01-13  |  **Most recent:** 2026-05-14
 - **Technologies discussed:** alpr, body_camera, drone, facial_recognition, surveillance_general
 - **Coverage:** 227 of 633 known North Haven meetings transcribed (36%)
@@ -69,7 +69,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 8 | 1 | 2026-02-25 | 2026-02-25 |
-| body_camera | 6 | 2 | 2026-02-18 | 2026-02-18 |
+| body_camera | 9 | 2 | 2026-02-18 | 2026-02-18 |
 | drone | 54 | 5 | 2024-02-01 | 2026-05-14 |
 | facial_recognition | 1 | 1 | 2025-09-29 | 2025-09-29 |
 | surveillance_general | 3 | 2 | 2024-01-13 | 2026-01-10 |
@@ -114,6 +114,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Board of Finance - Budget Workshop 02/18/2026** _(topics: body_camera)_
 
+- `body_camera` [▸](https://www.youtube.com/watch?v=B23EFvOsN_0&t=5434s)  > ...line as well. Uh nearing toward the end for the operating lines here, our body worn camera line. So this is a significant jump 74,000 to 92,000...
+
 - `body_camera` [▸](https://www.youtube.com/watch?v=B23EFvOsN_0&t=5553s)  > ...if we have any new personnel or spares. Yeah. So, that covers the taser and the body cam with data. >> That is all I was going to touch upon as far as our operating lines go. Um, are...
 
 - `body_camera` [▸](https://www.youtube.com/watch?v=B23EFvOsN_0&t=5840s)  > ...approximately 1% are things like unfunded mandates like the body program. I can't stop the body cam program. I can't stop giving people drug tests or polygraphs or psychological exams. So...
@@ -124,6 +126,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### 2026-02-18 -- Board of Finance
 
 **Board of Finance 02/18/2026** _(topics: body_camera)_
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=7wP23u1dlTo&t=5421s)  > ...line as well. Uh nearing toward the end for the operating lines here, our body worn camera line. So this is a significant jump. 74,000 to 92,000...
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=7wP23u1dlTo&t=5539s)  > ...and for if we have any new personnel or spares. Yeah. >> So, that covers the taser and the body cam with data. >> That is all I was going to touch upon as...
 
 - `body_camera` [▸](https://www.youtube.com/watch?v=7wP23u1dlTo&t=5832s)  > ...in their contract. And then approximately 1% are things like unfunded mandates like the body cam program. I can't stop the body cam program. I can't stop giving people drug...
 
@@ -290,16 +296,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### alpr
 
 - **[2026-02-25] Police Commission** -- Police Commission 02/25/2026
+  > ...license plate readers and we don't have Flock we have license plate readers we don't have Flock and we don't share with any out of state partners as far as um our license plate readers go we only...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BJVOgCRREtQ&t=1741s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-25] Police Commission** -- Police Commission 02/25/2026
   > ...changed that after a certain time. I really don't want to speak because we don't have flock. Uh, but what I can tell you is for anyone who's asking you, we only share with people within...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=BJVOgCRREtQ&t=1800s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-25] Police Commission** -- Police Commission 02/25/2026
-  > ...camera data with any other agencies and what you're probably uh referencing is a lot of controversy with Flock and with license plate readers and we don't have Flock we have license plate readers we...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BJVOgCRREtQ&t=1734s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-25] Police Commission** -- Police Commission 02/25/2026
-  > ...lot of controversy with Flock and with license plate readers and we don't have Flock we have license plate readers we don't have Flock and we don't share with any out of state partners as far as um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BJVOgCRREtQ&t=1739s)  _(term: alpr_flock, unreviewed)_
+  > ...>> So, and just if you just speak to the uh to the viewing audience, what what what is Flock? That's >> so Flock is a specific uh company. So, they do surveillance cameras, they do...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BJVOgCRREtQ&t=1765s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-25] Police Commission** -- Police Commission 02/25/2026
   > ...there's a few companies out there. There's Recor and Flock. Those are like the big ones. Um we don't use Flock at the PD. Um, and that's where I think a lot of the controversy was was with that...
@@ -310,16 +316,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=BJVOgCRREtQ&t=1775s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-25] Police Commission** -- Police Commission 02/25/2026
-  > ...license plate readers and we don't have Flock we have license plate readers we don't have Flock and we don't share with any out of state partners as far as um our license plate readers go we only...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BJVOgCRREtQ&t=1741s)  _(term: alpr_flock, unreviewed)_
+  > ...camera data with any other agencies and what you're probably uh referencing is a lot of controversy with Flock and with license plate readers and we don't have Flock we have license plate readers we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BJVOgCRREtQ&t=1734s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-25] Police Commission** -- Police Commission 02/25/2026
   > ...to the viewing audience, what what what is Flock? That's >> so Flock is a specific uh company. So, they do surveillance cameras, they do license plate readers. Uh there's...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=BJVOgCRREtQ&t=1767s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-25] Police Commission** -- Police Commission 02/25/2026
-  > ...>> So, and just if you just speak to the uh to the viewing audience, what what what is Flock? That's >> so Flock is a specific uh company. So, they do surveillance cameras, they do...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BJVOgCRREtQ&t=1765s)  _(term: alpr_flock, unreviewed)_
+  > ...lot of controversy with Flock and with license plate readers and we don't have Flock we have license plate readers we don't have Flock and we don't share with any out of state partners as far as um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BJVOgCRREtQ&t=1739s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -330,28 +336,40 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### body_camera
 
 - **[2026-02-18] Board of Finance** -- Board of Finance 02/18/2026
-  > ...approximately 1% are things like unfunded mandates like the body cam program. I can't stop the body cam program. I can't stop giving people drug tests or polygraphs or psychological...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7wP23u1dlTo&t=5834s)  _(term: body_camera, unreviewed)_
-
-- **[2026-02-18] Board of Finance** -- Board of Finance 02/18/2026
   > ...in their contract. And then approximately 1% are things like unfunded mandates like the body cam program. I can't stop the body cam program. I can't stop giving people drug...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7wP23u1dlTo&t=5832s)  _(term: body_camera, unreviewed)_
 
-- **[2026-02-18] Board of Finance** -- Board of Finance - Budget Workshop 02/18/2026
-  > ...Also with our new cars, um we're transitioning over to a new uh dash cam system. All our body cam and dash cam is evidence. So, kind of provides a more um streamline evidence capture approach...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=B23EFvOsN_0&t=6052s)  _(term: body_camera, unreviewed)_
-
 - **[2026-02-18] Board of Finance** -- Board of Finance 02/18/2026
-  > ...Also, with our new cars, um, we're transitioning over to a new uh, dash cam system. All our body cam and dash cam is evidence. So, kind of provides a more um, streamline evidence capture approach...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7wP23u1dlTo&t=6053s)  _(term: body_camera, unreviewed)_
+  > ...and for if we have any new personnel or spares. Yeah. >> So, that covers the taser and the body cam with data. >> That is all I was going to touch upon as...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7wP23u1dlTo&t=5539s)  _(term: body_camera, unreviewed)_
 
 - **[2026-02-18] Board of Finance** -- Board of Finance - Budget Workshop 02/18/2026
   > ...if we have any new personnel or spares. Yeah. So, that covers the taser and the body cam with data. >> That is all I was going to touch upon as far as our operating lines go. Um, are...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=B23EFvOsN_0&t=5553s)  _(term: body_camera, unreviewed)_
 
 - **[2026-02-18] Board of Finance** -- Board of Finance - Budget Workshop 02/18/2026
+  > ...line as well. Uh nearing toward the end for the operating lines here, our body worn camera line. So this is a significant jump 74,000 to 92,000...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=B23EFvOsN_0&t=5434s)  _(term: body_camera, unreviewed)_
+
+- **[2026-02-18] Board of Finance** -- Board of Finance 02/18/2026
+  > ...approximately 1% are things like unfunded mandates like the body cam program. I can't stop the body cam program. I can't stop giving people drug tests or polygraphs or psychological...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7wP23u1dlTo&t=5834s)  _(term: body_camera, unreviewed)_
+
+- **[2026-02-18] Board of Finance** -- Board of Finance 02/18/2026
+  > ...line as well. Uh nearing toward the end for the operating lines here, our body worn camera line. So this is a significant jump. 74,000 to 92,000...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7wP23u1dlTo&t=5421s)  _(term: body_camera, unreviewed)_
+
+- **[2026-02-18] Board of Finance** -- Board of Finance - Budget Workshop 02/18/2026
+  > ...Also with our new cars, um we're transitioning over to a new uh dash cam system. All our body cam and dash cam is evidence. So, kind of provides a more um streamline evidence capture approach...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=B23EFvOsN_0&t=6052s)  _(term: body_camera, unreviewed)_
+
+- **[2026-02-18] Board of Finance** -- Board of Finance - Budget Workshop 02/18/2026
   > ...approximately 1% are things like unfunded mandates like the body program. I can't stop the body cam program. I can't stop giving people drug tests or polygraphs or psychological exams. So...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=B23EFvOsN_0&t=5840s)  _(term: body_camera, unreviewed)_
+
+- **[2026-02-18] Board of Finance** -- Board of Finance 02/18/2026
+  > ...Also, with our new cars, um, we're transitioning over to a new uh, dash cam system. All our body cam and dash cam is evidence. So, kind of provides a more um, streamline evidence capture approach...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7wP23u1dlTo&t=6053s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -385,36 +403,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4L18el_Zt1g&t=2253s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...Hickson, applicant and PC Postal 9 LLC owner relative to 409 Washington Avenue, map 90, lot 60, drone delivery, IL 80 zoning district. Good evening, commissioners. My name is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=2962s)  _(term: drone, unreviewed)_
+  > ...drone to put itself on the ground as quickly and safely as possible. So the drone would stop from moving at a horizontal flight transition into vertical using its perception system...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3849s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...Washington state. Prime Air is a part 135 air carriage certificate. So commercial drone operators, of which there are several, have to maintain FAA certification to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3096s)  _(term: drone, unreviewed)_
-
-- **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...so that you know if somebody says I don't want this drone coming in with a camera over my property they could do that and have that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=4057s)  _(term: drone, unreviewed)_
-
-- **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...Our our 20 lots are pretty small. Well and if if a customer let's say if that neighbor does not want drone delivery much like you can in Google Maps they can opt out and also have...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=4038s)  _(term: drone, unreviewed)_
+  > ...The item that we're speaking about tonight is the paddock, the Prime Air drone delivery center, which is a fenced-in about 20,000 square foot...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3474s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...Laura did provide some questions ahead of this presentation regarding operations of drone delivery, FAA approvals, and more. I was hoping if possible we go through a brief...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=2992s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...of our residents could opt out. And it is publicly mentioned on our website in our drone delivery frequently asked questions and privacy policy where you can go through that process as well....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=4069s)  _(term: drone, unreviewed)_
-
-- **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...that our drone picked up from 1,000 ft away. It was not pinging on ADSB radar but our drone was able to pick it up from 1,000 ft away and conduct an evasive maneuver....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3978s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...Sure. So the first would be noise. The Mark 27 was our first drone which was had a louder sound profile. We innovated...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=4125s)  _(term: drone, unreviewed)_
+  > ...development in Illinois, Missouri, and other locations in Texas. A little bit about the drone. This is again manufactured by Amazon in Washington state. Prime Air is a part...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3088s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...correct. We are here to discuss the land use component. However, we are required to seek FAA approval to conduct drone operations. And so the goal is to harmonize the land use and the federal...
@@ -425,40 +431,52 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3974s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...the best places to deliver and how can we ensure safe delivery. And so that's making sure that the drone does have ample space to get in. So we look at things like...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=4158s)  _(term: drone, unreviewed)_
+  > ...so that you know if somebody says I don't want this drone coming in with a camera over my property they could do that and have that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=4057s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...>> [clears throat] >> You're on. Okay. Prime Air is Amazon's drone delivery business. We've been delivering via drone since 2022. We started in Texas...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3036s)  _(term: drone, unreviewed)_
+  > ...of our residents could opt out. And it is publicly mentioned on our website in our drone delivery frequently asked questions and privacy policy where you can go through that process as well....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=4069s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...area. So customers in that area impacted by a first responder event would not be eligible for drone delivery until we were otherwise notified by the police department fire department sheriff's...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3898s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...Prime Air is Amazon's drone delivery business. We've been delivering via drone since 2022. We started in Texas with the goal of delivering to customers safely in 60 minutes or less using a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3040s)  _(term: drone, unreviewed)_
+  > ...Sure. So the first would be noise. The Mark 27 was our first drone which was had a louder sound profile. We innovated...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=4125s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...department or fire department called and said we have an emergency we have to put our drone up to track this fire or response event we would install no fly zone in a matter of seconds over that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3888s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...system. It's not like that of a police department drone or a fire department drone. So it can't scan license plates, looking through windows, track an object. It's strictly for the navigation...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3184s)  _(term: drone, unreviewed)_
+  > ...>> [clears throat] >> You're on. Okay. Prime Air is Amazon's drone delivery business. We've been delivering via drone since 2022. We started in Texas...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3036s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...not a crash. It's called a safe contingent landing because it's a controlled way we put the drone down. We would then go and retrieve it. May I have your attention please. The...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3866s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...drone to put itself on the ground as quickly and safely as possible. So the drone would stop from moving at a horizontal flight transition into vertical using its perception system...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3849s)  _(term: drone, unreviewed)_
+  > ...Prime Air is Amazon's drone delivery business. We've been delivering via drone since 2022. We started in Texas with the goal of delivering to customers safely in 60 minutes or less using a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3040s)  _(term: drone, unreviewed)_
+
+- **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
+  > ...the best places to deliver and how can we ensure safe delivery. And so that's making sure that the drone does have ample space to get in. So we look at things like...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=4158s)  _(term: drone, unreviewed)_
+
+- **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
+  > ...and out of sight or Yeah, so >> have some concerns about that. So the drone is going to take off and ascend within a matter of seconds to a floor of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=4587s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...landing or what's called an SCL. That's a controlled manner where we command the drone to put itself on the ground as quickly and safely as possible. So the drone would stop from moving at a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3846s)  _(term: drone, unreviewed)_
+
+- **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
+  > ...Hickson, applicant and PC Postal 9 LLC owner relative to 409 Washington Avenue, map 90, lot 60, drone delivery, IL 80 zoning district. Good evening, commissioners. My name is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=2962s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...drone conduct a U-turn and come back. So if for example inclement weather is coming in and a drone has gone out they can have it turn around. This comes up in Arizona a lot with dust devils. We...
@@ -517,8 +535,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3498s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...The item that we're speaking about tonight is the paddock, the Prime Air drone delivery center, which is a fenced-in about 20,000 square foot...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3474s)  _(term: drone, unreviewed)_
+  > ...Washington state. Prime Air is a part 135 air carriage certificate. So commercial drone operators, of which there are several, have to maintain FAA certification to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3096s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...shown here, we measured in the backyard if you were standing and the drone is conducting a delivery in front of you, we topped it at about 68 decibels. If you were in the...
@@ -541,8 +559,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3192s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...development in Illinois, Missouri, and other locations in Texas. A little bit about the drone. This is again manufactured by Amazon in Washington state. Prime Air is a part...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3088s)  _(term: drone, unreviewed)_
+  > ...system. It's not like that of a police department drone or a fire department drone. So it can't scan license plates, looking through windows, track an object. It's strictly for the navigation...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3184s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...drone has no onboard surveillance system. It's not like that of a police department drone or a fire department drone. So it can't scan license plates, looking through windows, track an...
@@ -581,8 +599,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3101s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...and out of sight or Yeah, so >> have some concerns about that. So the drone is going to take off and ascend within a matter of seconds to a floor of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=4587s)  _(term: drone, unreviewed)_
+  > ...Our our 20 lots are pretty small. Well and if if a customer let's say if that neighbor does not want drone delivery much like you can in Google Maps they can opt out and also have...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=4038s)  _(term: drone, unreviewed)_
 
 - **[2026-03-18] Board of Finance** -- Board of Finance 03/18/2026
   > ...or televisions, to buy life-saving equipment for everyone in this room. Okay? drone hard save machine draws a life off-road vehicles. So I know what it's like and I know that our equipment...
@@ -637,12 +655,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=iZzwYsgT7YE&t=4075s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-01-13] Board of Finance** -- Board of Finance Budget Workshop 01/13/2024
-  > ...it okay why don't we move on to the next uh we've done this in the past in terms of uh CCTV and security and so forth every year for four years we put $20,000 aside to put cameras in each of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ivXYm0JlJAI&t=5708s)  _(term: surveillance_general, unreviewed)_
-
-- **[2024-01-13] Board of Finance** -- Board of Finance Budget Workshop 01/13/2024
   > ...know Access Control in all of our stations uh we're looking to do the same thing now with the training center CCTV would still be installed as a deterrence but we need to work on some fencing that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ivXYm0JlJAI&t=5735s)  _(term: surveillance_general, unreviewed)_
+
+- **[2024-01-13] Board of Finance** -- Board of Finance Budget Workshop 01/13/2024
+  > ...it okay why don't we move on to the next uh we've done this in the past in terms of uh CCTV and security and so forth every year for four years we put $20,000 aside to put cameras in each of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ivXYm0JlJAI&t=5708s)  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools
@@ -769,6 +787,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -788,8 +811,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| nhtv18 | streams | 2026-08-31 07:09:27.433903 | 75 |
-| nhtv18 | videos | 2026-08-31 07:09:39.769770 | 1058 |
+| nhtv18 | streams | 2026-08-31 13:37:29.154604 | 75 |
+| nhtv18 | videos | 2026-08-31 13:37:43.104296 | 1058 |
 
 
 ## Registered meeting bodies
@@ -854,5 +877,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:15:24 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "North Haven"`_
+_Generated 2026-08-31T14:42:04 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "North Haven"`_
 

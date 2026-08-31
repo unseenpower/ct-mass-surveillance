@@ -5,9 +5,9 @@
 
 This report collects every mention of surveillance technology found in **Wethersfield**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **49 mentions** across **14 meetings**
-- **First mention:** 2022-02-17  |  **Most recent:** 2026-04-22
-- **Technologies discussed:** alpr, drone, predictive_policing, surveillance_general
+- **52 mentions** across **17 meetings**
+- **First mention:** 2019-05-07  |  **Most recent:** 2026-04-22
+- **Technologies discussed:** alpr, body_camera, drone, predictive_policing, surveillance_general
 - **Coverage:** 298 of 782 known Wethersfield meetings transcribed (38%)
 - **Not the full history:** transcripts begin **2019-05-07**, but Wethersfield's published video archive goes back to **2016-10-04**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
@@ -68,7 +68,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 1 | 1 | 2023-03-21 | 2023-03-21 |
+| alpr | 3 | 3 | 2019-05-07 | 2023-11-20 |
+| body_camera | 1 | 1 | 2022-04-21 | 2022-04-21 |
 | drone | 42 | 8 | 2022-02-17 | 2026-04-22 |
 | predictive_policing | 1 | 1 | 2022-12-19 | 2022-12-19 |
 | surveillance_general | 5 | 4 | 2022-04-19 | 2025-04-01 |
@@ -76,7 +77,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ## Timeline
 
-14 meetings surfaced a finding (14 dated, spanning 2022-02-17 to 2026-04-22; 0 of unknown date, listed last).
+17 meetings surfaced a finding (17 dated, spanning 2019-05-07 to 2026-04-22; 0 of unknown date, listed last).
+
+
+### 2019-05-07 -- Town Council
+
+**Town Council May 6,2019** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=YD4ZJtUWeMM&t=4289s)  > ...plate on April 2nd Wethersfield Hartford and I believe Newington share what's called an LPR system license plate reader and that system you spent a lot of money to implement in our in your...
 
 
 ### 2022-02-17 -- Insurance Committee
@@ -125,6 +133,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `surveillance_general` [▸](https://www.youtube.com/watch?v=JbCg9hLPnjk&t=448s)  > ...an increase of maybe around six thousand uh maybe more if i can get five thousand on the cctv and the next few items they were sawing did you say wetlands flagging...
 
 
+### 2022-04-21 -- Town Council
+
+**Town Council Special Meeting - April 21, 2022** _(topics: body_camera)_
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=_HeKfo6RfEQ&t=5734s)  > ...they want anything and anything associated with any significant incident to include body worn camera video now which is a new thing...
+
+
 ### 2022-08-01 -- Town Council
 
 **Town Council Meeting - August 1, 2022** _(topics: surveillance_general)_
@@ -155,6 +170,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `drone` [▸](https://www.youtube.com/watch?v=10rido9W-p0&t=5307s)  > ...because it's very you know it's quick we can do a whole town District in a matter of a night with a drone but you just can't get the approvals of this to do it right I mean there are people out there...
 
 - `drone` [▸](https://www.youtube.com/watch?v=10rido9W-p0&t=5572s)  > ...this would put the additional 100 000 needed to complete the project um and then drone as we were just talking about drones earlier this would be for the engineering office and the...
+
+
+### 2023-11-20 -- Town Council
+
+**Town Council - November 20, 2023** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=vABmBOfJpwI&t=3399s)  > ...any questions or concerns um and so what the uh detectives have been doing has been collecting uh video and uh License Plate Reader uh data this morning we had a good conversation with the property uh...
 
 
 ### 2024-04-17 -- Budget Work Session
@@ -257,9 +279,17 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
+- **[2023-11-20] Town Council** -- Town Council - November 20, 2023
+  > ...any questions or concerns um and so what the uh detectives have been doing has been collecting uh video and uh License Plate Reader uh data this morning we had a good conversation with the property uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vABmBOfJpwI&t=3399s)  _(term: alpr_flock, unreviewed)_
+
 - **[2023-03-21] Planning and Zoning Commission** -- March 21 2023 - PLANNING AND ZONING COMMISSION
   > ...um and a lot of the big players have already kind of decided on where their locations are you know they flock to like the major like the ones that opened up that were our Major League commercial...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ow8bRF2TZmQ&t=1015s)  _(term: alpr_flock, unreviewed)_
+
+- **[2019-05-07] Town Council** -- Town Council May 6,2019
+  > ...plate on April 2nd Wethersfield Hartford and I believe Newington share what's called an LPR system license plate reader and that system you spent a lot of money to implement in our in your...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YD4ZJtUWeMM&t=4289s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -269,7 +299,9 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### body_camera
 
-*(no findings)*
+- **[2022-04-21] Town Council** -- Town Council Special Meeting - April 21, 2022
+  > ...they want anything and anything associated with any significant incident to include body worn camera video now which is a new thing...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_HeKfo6RfEQ&t=5734s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -331,112 +363,92 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1836s)  _(term: drone, unreviewed)_
 
 - **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
-  > ...darts um okay and then that follows me to my next question is I think that we started our drone program recently we did we did I announced that at the breakfast as well so they were out there...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1755s)  _(term: drone, unreviewed)_
-
-- **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
-  > ...situations like we see on the number eight traffic stop attempt in we're going to use the Drone for a multi uh it's going to be a multiuse drone yeah for things like this for car popups for...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1795s)  _(term: drone, unreviewed)_
+  > ...training is done um and we could be deploying it soon and would the would the Drone be effective or used in situations like we see on the number eight traffic stop attempt in we're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1789s)  _(term: drone, unreviewed)_
 
 - **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
   > ...eight traffic stop attempt in we're going to use the Drone for a multi uh it's going to be a multiuse drone yeah for things like this for car popups for first responder situations to whatever...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1798s)  _(term: drone, unreviewed)_
 
 - **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
-  > ...training is done um and we could be deploying it soon and would the would the Drone be effective or used in situations like we see on the number eight traffic stop attempt in we're...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1789s)  _(term: drone, unreviewed)_
-
-- **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
   > ...cuz we are so close to Brin at airport we there's flight restrictions with the Drone and special exceptions we have to go through but for the most part the training is done um and we could be...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1779s)  _(term: drone, unreviewed)_
+
+- **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
+  > ...darts um okay and then that follows me to my next question is I think that we started our drone program recently we did we did I announced that at the breakfast as well so they were out there...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1755s)  _(term: drone, unreviewed)_
+
+- **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
+  > ...working with the the company on the EXT software program that helps it deploy um self- deployment with that that drone and also we have to work with the FAA cuz we are so close to Brin at airport...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1771s)  _(term: drone, unreviewed)_
 
 - **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
   > ...breakfast as well so they were out there last week getting the training on that but we did get the Drone in we're working with the the company on the EXT software program that helps it deploy um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1763s)  _(term: drone, unreviewed)_
 
 - **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
-  > ...working with the the company on the EXT software program that helps it deploy um self- deployment with that that drone and also we have to work with the FAA cuz we are so close to Brin at airport...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1771s)  _(term: drone, unreviewed)_
+  > ...situations like we see on the number eight traffic stop attempt in we're going to use the Drone for a multi uh it's going to be a multiuse drone yeah for things like this for car popups for...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1795s)  _(term: drone, unreviewed)_
 
 - **[2024-04-29] Budget Work Session** -- Budget Work Session - April 29, 2024
-  > ...this so now if we want to get the drones aside from having we this field can say it has a drone we can look forward to an extra 5 hours of sidewalk inspection five five hours more to design roads and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2981s)  _(term: drone, unreviewed)_
+  > ...government software and the Drone equipment on CNF okay I would say for the Drone the biggest benefit would probably be for the assessor's office to be able to perform checks where they...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=3006s)  _(term: drone, unreviewed)_
 
 - **[2024-04-29] Budget Work Session** -- Budget Work Session - April 29, 2024
   > ...don't know how to say this otherwise like the business case for it so I hear that the Drone equipment software and training can do this it can do that it can do this but what's like the business...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2950s)  _(term: drone, unreviewed)_
 
 - **[2024-04-29] Budget Work Session** -- Budget Work Session - April 29, 2024
-  > ...case for that and I can work my way down whether it's survey vehicle the open government software and the Drone equipment on CNF okay I would say for the Drone the biggest benefit would...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=3000s)  _(term: drone, unreviewed)_
-
-- **[2024-04-29] Budget Work Session** -- Budget Work Session - April 29, 2024
   > ...drone equipment this year um we've been talking with the assessor Department who has an interest in having a drone as well um their their purpose for having it would be to use it as um fly over for...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2123s)  _(term: drone, unreviewed)_
 
 - **[2024-04-29] Budget Work Session** -- Budget Work Session - April 29, 2024
-  > ...game I thought we were going okay so CNF requests um we did put in a request for drone equipment this year um we've been talking with the assessor Department who has an interest in having a drone as...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2119s)  _(term: drone, unreviewed)_
+  > ...case for that and I can work my way down whether it's survey vehicle the open government software and the Drone equipment on CNF okay I would say for the Drone the biggest benefit would...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=3000s)  _(term: drone, unreviewed)_
 
 - **[2024-04-29] Budget Work Session** -- Budget Work Session - April 29, 2024
-  > ...government software and the Drone equipment on CNF okay I would say for the Drone the biggest benefit would probably be for the assessor's office to be able to perform checks where they...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=3006s)  _(term: drone, unreviewed)_
+  > ...this so now if we want to get the drones aside from having we this field can say it has a drone we can look forward to an extra 5 hours of sidewalk inspection five five hours more to design roads and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2981s)  _(term: drone, unreviewed)_
+
+- **[2024-04-29] Budget Work Session** -- Budget Work Session - April 29, 2024
+  > ...game I thought we were going okay so CNF requests um we did put in a request for drone equipment this year um we've been talking with the assessor Department who has an interest in having a drone as...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2119s)  _(term: drone, unreviewed)_
 
 - **[2024-04-17] Budget Work Session** -- Budget Work Session - April 17, 2024
   > ...legislation that might be passed we might have to wait till October of 2025 to see what type of drone we can invest in um so I was looking at that until that just came out this past week so...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=s5RQg-Sh3Wo&t=3498s)  _(term: drone, unreviewed)_
 
 - **[2023-09-18] Town Council** -- September 18, 2023 - Town Council Meeting
-  > ...um you know especially here you have Brainerd airport right around the corner you probably couldn't even get a drone application go through uh so we tried we tried to get some some approvals for...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=10rido9W-p0&t=5294s)  _(term: drone, unreviewed)_
+  > ...because it's very you know it's quick we can do a whole town District in a matter of a night with a drone but you just can't get the approvals of this to do it right I mean there are people out there...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=10rido9W-p0&t=5307s)  _(term: drone, unreviewed)_
 
 - **[2023-09-18] Town Council** -- September 18, 2023 - Town Council Meeting
   > ...this would put the additional 100 000 needed to complete the project um and then drone as we were just talking about drones earlier this would be for the engineering office and the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=10rido9W-p0&t=5572s)  _(term: drone, unreviewed)_
 
 - **[2023-09-18] Town Council** -- September 18, 2023 - Town Council Meeting
-  > ...because it's very you know it's quick we can do a whole town District in a matter of a night with a drone but you just can't get the approvals of this to do it right I mean there are people out there...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=10rido9W-p0&t=5307s)  _(term: drone, unreviewed)_
-
-- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...you're you're avoiding potential loss and liability uh using that drone as opposed to human resources i guess it's probably the best way to put it so...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=703s)  _(term: drone, unreviewed)_
-
-- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...applications as well so um you know in chief medina at any point if there's ever a need to consult about the drone operations or whatnot we are we are certainly open open to doing so thank...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=659s)  _(term: drone, unreviewed)_
-
-- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...you know workers comp claim that's gonna cost the town more where i could put the drone up in the air see from a distance where we don't you won't even see it i i mean you can't see if they go up...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=509s)  _(term: drone, unreviewed)_
-
-- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...and it i only have one but i want to enhance our drone program but it's heavy regulated it's a lot of policies that go along with it and like i said...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=529s)  _(term: drone, unreviewed)_
-
-- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...has a pretty seamless ability to add aircraft liability coverage for drone operation based upon there being faa certifications...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=586s)  _(term: drone, unreviewed)_
+  > ...um you know especially here you have Brainerd airport right around the corner you probably couldn't even get a drone application go through uh so we tried we tried to get some some approvals for...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=10rido9W-p0&t=5294s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
   > ...physical body there and have eyes on the scene i would rather do that and lose a drone that was an officer through injury or you know workers comp claim that's gonna...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=503s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...and the proper training and depending on the type in size drone like there were some dgi phantoms that between the um the accessory package sometimes thermal...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=597s)  _(term: drone, unreviewed)_
-
-- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...this subject and actually had a law enforcement um uh person from the town of vernon flying a drone in our parking lot um but what was interesting is just this past week there was news about the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=625s)  _(term: drone, unreviewed)_
-
-- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...and they realize that they're more of a tool they're an asset because when i can send a drone into an area and not put a physical body there and have eyes on the scene i would rather do that and lose a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=496s)  _(term: drone, unreviewed)_
+  > ...you know workers comp claim that's gonna cost the town more where i could put the drone up in the air see from a distance where we don't you won't even see it i i mean you can't see if they go up...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=509s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
   > ...town or the city of chicopee massachusetts acquiring an underwater drone which will be used for search and rescue operations in two of the rivers...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=636s)  _(term: drone, unreviewed)_
+
+- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
+  > ...vehicles with uh with vehicles as opposed to having a drone go up high and watch where those vehicles are going you're you're avoiding potential loss...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=693s)  _(term: drone, unreviewed)_
+
+- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
+  > ...and they realize that they're more of a tool they're an asset because when i can send a drone into an area and not put a physical body there and have eyes on the scene i would rather do that and lose a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=496s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
   > ...here just to fly it that does not occur there has to be a specific reason so when it comes to liability of a drone and that's already been...
@@ -451,16 +463,36 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=462s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
+  > ...you're you're avoiding potential loss and liability uh using that drone as opposed to human resources i guess it's probably the best way to put it so...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=703s)  _(term: drone, unreviewed)_
+
+- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
   > ...them i mean even when we put a drone up in the air we have to call bradley and ask for permission put that drone in the air so it's not like it's something that's just like oh we just buy it radio...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=456s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...vehicles with uh with vehicles as opposed to having a drone go up high and watch where those vehicles are going you're you're avoiding potential loss...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=693s)  _(term: drone, unreviewed)_
+  > ...has a pretty seamless ability to add aircraft liability coverage for drone operation based upon there being faa certifications...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=586s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
   > ...with that they're very heavily mandated to the faa you have to license through them i mean even when we put a drone up in the air we have to call bradley and ask for permission put that drone in the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=453s)  _(term: drone, unreviewed)_
+
+- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
+  > ...and the proper training and depending on the type in size drone like there were some dgi phantoms that between the um the accessory package sometimes thermal...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=597s)  _(term: drone, unreviewed)_
+
+- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
+  > ...this subject and actually had a law enforcement um uh person from the town of vernon flying a drone in our parking lot um but what was interesting is just this past week there was news about the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=625s)  _(term: drone, unreviewed)_
+
+- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
+  > ...applications as well so um you know in chief medina at any point if there's ever a need to consult about the drone operations or whatnot we are we are certainly open open to doing so thank...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=659s)  _(term: drone, unreviewed)_
+
+- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
+  > ...and it i only have one but i want to enhance our drone program but it's heavy regulated it's a lot of policies that go along with it and like i said...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=529s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -647,6 +679,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -666,8 +703,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| wgtv | streams | 2026-08-31 07:38:35.856689 | 359 |
-| wgtv | videos | 2026-08-31 07:38:42.869008 | 552 |
+| wgtv | streams | 2026-08-31 14:20:02.680817 | 359 |
+| wgtv | videos | 2026-08-31 14:20:10.377550 | 552 |
 
 
 ## Registered meeting bodies
@@ -765,5 +802,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:20:11 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Wethersfield"`_
+_Generated 2026-08-31T14:45:16 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Wethersfield"`_
 

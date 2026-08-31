@@ -307,6 +307,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 2
@@ -327,10 +332,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| plymouth_ct | streams | 2026-08-31 07:09:50.207247 | 13 |
-| plymouth_ct | videos | 2026-08-31 07:09:50.880996 | 3 |
-| plymouth_public_schools | streams | 2026-08-31 07:29:43.879375 | 2 |
-| plymouth_public_schools | videos | 2026-08-31 07:29:46.510146 | 180 |
+| plymouth_ct | streams | 2026-08-31 13:37:53.194703 | 13 |
+| plymouth_ct | videos | 2026-08-31 13:37:53.867184 | 3 |
+| plymouth_public_schools | streams | 2026-08-31 13:43:32.064157 | 2 |
+| plymouth_public_schools | videos | 2026-08-31 13:43:34.772098 | 180 |
 
 
 ## Registered meeting bodies
@@ -383,5 +388,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:17:09 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Plymouth"`_
+_Generated 2026-08-31T14:43:15 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Plymouth"`_
 

@@ -9,8 +9,8 @@ This report collects every mention of surveillance technology found in **Chester
 **No surveillance-technology mentions have been found in this town's meetings yet.** That is not the same as none existing -- read the coverage note below, and [Gaps and caveats](#gaps-and-caveats), before treating this as an answer about the town.
 
 
-- **Coverage:** 60 of 71 known Chester meetings transcribed (85%)
-- **Still incomplete:** 11 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 60 of 72 known Chester meetings transcribed (83%)
+- **Still incomplete:** 12 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 ## Contents
@@ -281,12 +281,17 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 71 (fetched: 60, no captions: 1)
-- Date range covered: 2025-08-19 to 2026-08-24 — **based on the 69 of 71 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 72 (fetched: 60, no captions: 2)
+- Date range covered: 2025-08-19 to 2026-08-26 — **based on the 70 of 72 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -300,7 +305,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| chester_ct | videos | 2026-08-31 07:16:26.940164 | 71 |
+| chester_ct | videos | 2026-08-31 14:10:56.340858 | 72 |
 
 
 ## Registered meeting bodies
@@ -312,7 +317,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Trustees of Public Funds | budget_finance | True | 3 |
 | Board of Civil Authority | other | True | 1 |
 | Development Review Board | other | True | 5 |
-| Economic Development Commission | other | True | 8 |
+| Economic Development Commission | other | True | 9 |
 | Housing Commission | other | True | 10 |
 | Planning Commission | other | True | 11 |
 | Selectboard | other | True | 24 |
@@ -346,10 +351,11 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (1 shown, max 25)
+### Videos with no captions available (2 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Chester Economic Development Commission 8/26/26 | 2026-08-26 |
 | Housing Commission 2/17/26 | 2026-02-17 |
 
 
@@ -363,5 +369,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:09:01 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Chester"`_
+_Generated 2026-08-31T14:36:15 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Chester"`_
 

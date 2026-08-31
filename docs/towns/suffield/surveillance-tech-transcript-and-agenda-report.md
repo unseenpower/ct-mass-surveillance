@@ -5,9 +5,9 @@
 
 This report collects every mention of surveillance technology found in **Suffield**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **3 mentions** across **2 meetings**
+- **4 mentions** across **3 meetings**
 - **First mention:** 2025-03-19  |  **Most recent:** 2026-06-09
-- **Technologies discussed:** drone, facial_recognition
+- **Technologies discussed:** alpr, drone, facial_recognition
 - **Coverage:** 102 of 114 known Suffield meetings transcribed (89%)
 - **Not the full history:** transcripts begin **2019-02-28**, but Suffield's published video archive goes back to **2018-09-26**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
@@ -68,13 +68,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
+| alpr | 1 | 1 | 2025-06-04 | 2025-06-04 |
 | drone | 2 | 1 | 2025-03-19 | 2025-03-19 |
 | facial_recognition | 1 | 1 | 2026-06-09 | 2026-06-09 |
 
 
 ## Timeline
 
-2 meetings surfaced a finding (2 dated, spanning 2025-03-19 to 2026-06-09; 0 of unknown date, listed last).
+3 meetings surfaced a finding (3 dated, spanning 2025-03-19 to 2026-06-09; 0 of unknown date, listed last).
 
 
 ### 2025-03-19 -- Board of Selectmen
@@ -84,6 +85,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `drone` [▸](https://www.youtube.com/watch?v=n3xi-cb-StY&t=1107s)  > ...that he'd be a great fit for this position I know he's does a lot of the Drone footage he's done it for I'm sorry a lot of Drone footage so he's done it for some of our our Parks and Recreation...
 
 - `drone` [▸](https://www.youtube.com/watch?v=n3xi-cb-StY&t=1110s)  > ...position I know he's does a lot of the Drone footage he's done it for I'm sorry a lot of Drone footage so he's done it for some of our our Parks and Recreation events already which includes the summer...
+
+
+### 2025-06-04 -- Board of Selectmen
+
+**BOS June 4 2025** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=osf808-mPyc&t=2833s)  > ...they're different what they would be. Uh [clears throat] so the cameras we spoke about previously were license plate reader cameras. Yes....
 
 
 ### 2026-06-09 -- Kent Memorial Library Commission
@@ -103,7 +111,9 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
-*(no findings)*
+- **[2025-06-04] Board of Selectmen** -- BOS June 4 2025
+  > ...they're different what they would be. Uh [clears throat] so the cameras we spoke about previously were license plate reader cameras. Yes....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=osf808-mPyc&t=2833s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -313,6 +323,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 2
@@ -333,8 +348,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| suffield_sunlight | videos | 2026-08-31 07:27:58.305477 | 154 |
-| suffield_town_govt | videos | 2026-08-31 07:13:37.164187 | 19 |
+| suffield_sunlight | videos | 2026-08-31 14:03:26.475559 | 154 |
+| suffield_town_govt | videos | 2026-08-31 13:41:43.468449 | 19 |
 
 
 ## Registered meeting bodies
@@ -396,5 +411,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:18:51 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Suffield"`_
+_Generated 2026-08-31T14:44:21 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Suffield"`_
 

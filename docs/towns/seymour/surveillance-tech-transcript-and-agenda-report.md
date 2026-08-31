@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **Seymour**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **45 mentions** across **35 meetings**
+- **46 mentions** across **36 meetings**
 - **First mention:** 2015-06-03  |  **Most recent:** 2026-03-05
 - **Technologies discussed:** alpr, biometrics_other, body_camera, drone, surveillance_general
 - **Coverage:** 419 of 502 known Seymour meetings transcribed (83%)
@@ -70,14 +70,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | --- | --- | --- | --- | --- |
 | alpr | 32 | 26 | 2015-06-03 | 2026-02-09 |
 | biometrics_other | 1 | 1 | 2022-02-08 | 2022-02-08 |
-| body_camera | 6 | 4 | 2021-01-27 | 2024-11-20 |
+| body_camera | 7 | 5 | 2020-08-24 | 2024-11-20 |
 | drone | 4 | 4 | 2021-03-04 | 2026-03-05 |
 | surveillance_general | 2 | 2 | 2021-01-08 | 2021-04-06 |
 
 
 ## Timeline
 
-35 meetings surfaced a finding (35 dated, spanning 2015-06-03 to 2026-03-05; 0 of unknown date, listed last).
+36 meetings surfaced a finding (36 dated, spanning 2015-06-03 to 2026-03-05; 0 of unknown date, listed last).
 
 
 ### 2015-06-03 -- Board of Selectmen
@@ -228,6 +228,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=495s)  > ...is B 36 Emma Street and again it is the same recommendation from our tax payer Dana flock she is recommending that we abate the following delinquent real estate taxes for Grand list 2013 14 15...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=532s)  > ...so at this point I'll entertain a motion to approve the recommendation from Dana flock as presented so move move motion by Al second by Trish is there any discussion okay...
+
+
+### 2020-08-24 -- Board of Police Commissioners
+
+**Board of Police Commissioners 20200819** _(topics: body_camera)_
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=3xJb2PzQzfM&t=1220s)  > ...taxpayers are gonna have to fund for these so do you have any cost factors for each of the officers to have a body cam in each vehicle they have the dash cams...
 
 
 ### 2020-09-02 -- Board of Selectmen
@@ -436,12 +443,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=YtWwrlst8hk&t=2931s)  _(term: alpr_flock, unreviewed)_
 
 - **[2016-09-07] Board of Selectmen** -- Board of Selectmen 20160906
-  > ...in accordance with the provisions of section 12-12 n of the Connecticut General statutes Dana flock tax office excellent thank you Nicole okay yep at this point I'll entertain a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=102zIfEGFMY&t=2151s)  _(term: alpr_flock, unreviewed)_
-
-- **[2016-09-07] Board of Selectmen** -- Board of Selectmen 20160906
   > ...I'll just wing it he September 2nd 2016 to the board of Selectmen from Dan Dana flock tax office oh thank you that right there anyway the following overpayments of tax payments...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=102zIfEGFMY&t=2132s)  _(term: alpr_flock, unreviewed)_
+
+- **[2016-09-07] Board of Selectmen** -- Board of Selectmen 20160906
+  > ...in accordance with the provisions of section 12-12 n of the Connecticut General statutes Dana flock tax office excellent thank you Nicole okay yep at this point I'll entertain a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=102zIfEGFMY&t=2151s)  _(term: alpr_flock, unreviewed)_
 
 - **[2016-08-18] Board of Selectmen** -- Board of Selectmen 20160816
   > ...-129 of the Connecticut General statutes dated at Seymour the 12th day of August 2016 Dana flock tax office thank you Nicole okay at this point I entertain a motion to accept the tax collector's...
@@ -516,6 +523,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2021-01-27] Board of Finance** -- Board of Finance 20210126
   > ...year say it's uh the the dash cams and the body cam cameras and we need to purchase 44 of them for the cars...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JE6PQBgAP-8&t=3327s)  _(term: body_camera, unreviewed)_
+
+- **[2020-08-24] Board of Police Commissioners** -- Board of Police Commissioners 20200819
+  > ...taxpayers are gonna have to fund for these so do you have any cost factors for each of the officers to have a body cam in each vehicle they have the dash cams...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3xJb2PzQzfM&t=1220s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -727,6 +738,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -746,8 +762,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| seymour_ct | streams | 2026-08-31 07:21:59.761924 | 149 |
-| seymour_ct | videos | 2026-08-31 07:22:05.113597 | 416 |
+| seymour_ct | streams | 2026-08-31 14:16:44.346771 | 149 |
+| seymour_ct | videos | 2026-08-31 14:16:50.202757 | 416 |
 
 
 ## Registered meeting bodies
@@ -835,5 +851,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:17:44 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Seymour"`_
+_Generated 2026-08-31T14:43:37 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Seymour"`_
 

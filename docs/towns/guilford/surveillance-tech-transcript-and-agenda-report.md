@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **Guilford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **62 mentions** across **34 meetings**
+- **73 mentions** across **41 meetings**
 - **First mention:** 2015-09-23  |  **Most recent:** 2026-04-20
 - **Technologies discussed:** alpr, body_camera, drone, predictive_policing, purchasing_broker, surveillance_general
-- **Coverage:** 592 of 1,303 known Guilford meetings transcribed (45%)
-- **Still incomplete:** 711 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 617 of 1,303 known Guilford meetings transcribed (47%)
+- **Still incomplete:** 686 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -68,9 +68,9 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 19 | 11 | 2016-10-10 | 2026-01-28 |
+| alpr | 26 | 15 | 2016-10-10 | 2026-02-02 |
 | body_camera | 6 | 4 | 2021-11-01 | 2025-11-13 |
-| drone | 30 | 16 | 2015-09-23 | 2026-01-15 |
+| drone | 34 | 20 | 2015-09-23 | 2026-01-15 |
 | predictive_policing | 2 | 2 | 2022-06-15 | 2025-09-08 |
 | purchasing_broker | 3 | 3 | 2023-02-21 | 2026-04-20 |
 | surveillance_general | 2 | 2 | 2020-11-18 | 2024-11-18 |
@@ -78,7 +78,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ## Timeline
 
-34 meetings surfaced a finding (34 dated, spanning 2015-09-23 to 2026-04-20; 0 of unknown date, listed last).
+41 meetings surfaced a finding (41 dated, spanning 2015-09-23 to 2026-04-20; 0 of unknown date, listed last).
 
 
 ### 2015-09-23 -- Parks and Recreation
@@ -96,7 +96,51 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=JZvfeB1HtXQ&t=959s)  > ...in capital uh most of them came down to uh there was a license plate reader for the police department some people probably applaud that but you know that's...
 
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=JZvfeB1HtXQ&t=1040s)  > ...Reader Charlie what was the number on the License Plate Reader $18,000 thank you the license plate reader is more...
+
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=JZvfeB1HtXQ&t=1049s)  > ...License Plate Reader $18,000 thank you the license plate reader is more than a gotcha machine what it did in the description well I think you were at...
+
+
+### 2016-10-10 -- Board of Selectmen
+
+**Board of Selectmen Budget 2016 Workshop 5 yr Plan  Pt1 of 2** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=_Sz6-qS6PwQ&t=4267s)  > ...bid so there's our cat upgrade requests any other questions on that nope okay uh the other new item is the License Plate Reader and I believe I provided a uh a background on that license plate readers...
+
+
+### 2020-06-01 -- Parks and Recreation
+
+**Parks and Recreation 6/1/20** _(topics: drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=G0U3mzlYGzA&t=5366s)  > ...before they got to pickleball courts and there's a lot of stuff going on with plenty of drone and fairgrounds and part of their requirement is they...
+
+
+### 2020-07-06 -- Board of Selectmen
+
+**BOS 7/6/20** _(topics: drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=OyrgmzimZts&t=1844s)  > ...well i may be able to unmute right ask all the unmute all right we can send a drone tom yep you hear me i can hear you now okay good all right...
+
+
+### 2020-07-08 -- Shellfish Commission
+
+**Shellfish Commission 7/8/20** _(topics: drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=mf1yhQfvZGo&t=751s)  > ...varmint or somebody's yard i think we're a drone so the warden's report i just want to uh and we're going to...
+
+
+### 2020-08-03 -- Parks and Recreation
+
+**Parks and Recreation 8/3/20** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=AeNBY9MhRPU&t=6330s)  > ...i really value it i appreciate it if we do it one idea is satan room and flock their room because there's a back entrance to the station room from the playground they...
+
+
+### 2020-09-02 -- Planning and Zoning Commission
+
+**Planning and Zoning 9/2/20** _(topics: drone)_
+
+- `drone` [▸](https://www.youtube.com/watch?v=rVwosrjtLIo&t=436s)  > ...executive order 71 this legal notice is being published on the town of guilford website www.ci.guilford.ct.uas dated at guilford connecticut this 20th day of august 2020 phil johnson chairman...
 
 
 ### 2020-11-18 -- Board of Selectmen
@@ -270,6 +314,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Board of Selectmen October 21, 2024** _(topics: alpr)_
 
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=H4q03ZEOmkU&t=5119s)  > ...all in favor I I that motion carries okay item two seven uh consider take possible action on a mobile License Plate Reader which would be sole source and using uh our funding uh...
+
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=H4q03ZEOmkU&t=5140s)  > ...very large tree fall on one of our Patrol vehicles uh that vehicle happened to have one of our License Plate Reader units on it we had a program where we were running two of those on patrol...
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=H4q03ZEOmkU&t=5272s)  > ...place so that we have at least two Patrol vehicles that are equipped with the mobile License Plate Reader um particularly with spikes and uh motor vehicle thefts and and car break-ins and...
@@ -277,7 +323,9 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### 2024-11-18 -- Board of Selectmen
 
-**BOS Capital Plan Workshop November 18, 2024 Part 1** _(topics: surveillance_general)_
+**BOS Capital Plan Workshop November 18, 2024 Part 1** _(topics: alpr, surveillance_general)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=g-aQiILsCtg&t=4659s)  > ...technology to the uh maximum potential we would like to request $155,000 for 19 fixed License Plate Reader cameras uh these cameras would be strategically...
 
 - `surveillance_general` [▸](https://www.youtube.com/watch?v=g-aQiILsCtg&t=5289s)  > ...cities where just a surveillance type thing no it's it it's not like that it's not a surveillance camera it's triggered by the motion and then it it will it's it just reads it reads the plate yes and...
 
@@ -302,18 +350,18 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Board of Selectmen February 18, 2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=rFbO9iNQiG8&t=429s)  > ...seen um for for those who came in uh those on Zoom probably not uh there's a is it a flock of penguins or is it what is it I I don't know oh my the librarian I know I'll find out...
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=cbasfG23x04&t=429s)  > ...seen um for for those who came in uh those on Zoom probably not uh there's a is it a flock of penguins or is it what is it I I don't know oh my the librarian I know I'll find out...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=rFbO9iNQiG8&t=2988s)  > ...of the Guilford foundation so any proceeds will go to that and that is the display of penguins flock or what um well if they're on the land if they're on the water they're a raft but if...
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=cbasfG23x04&t=2988s)  > ...of the Guilford foundation so any proceeds will go to that and that is the display of penguins flock or what um well if they're on the land if they're on the water they're a raft but if...
 
 
 ### 2025-02-18 -- Board of Selectmen
 
 **Board of Selectmen February 18, 2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=cbasfG23x04&t=429s)  > ...seen um for for those who came in uh those on Zoom probably not uh there's a is it a flock of penguins or is it what is it I I don't know oh my the librarian I know I'll find out...
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=rFbO9iNQiG8&t=429s)  > ...seen um for for those who came in uh those on Zoom probably not uh there's a is it a flock of penguins or is it what is it I I don't know oh my the librarian I know I'll find out...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=cbasfG23x04&t=2988s)  > ...of the Guilford foundation so any proceeds will go to that and that is the display of penguins flock or what um well if they're on the land if they're on the water they're a raft but if...
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=rFbO9iNQiG8&t=2988s)  > ...of the Guilford foundation so any proceeds will go to that and that is the display of penguins flock or what um well if they're on the land if they're on the water they're a raft but if...
 
 
 ### 2025-07-07 -- Parks and Recreation
@@ -365,7 +413,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Board of Selectmen Budget Workshop 1/28/26 pt 1 of 2** _(topics: alpr)_
 
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=ct6W-Vi7mTo&t=4220s)  > ...>> Is that the standard? >> Correct. So that so I now that you say that I can explain. So the license plate reader is in your capital budget. If that gets approved, he needs that 8,000...
+
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=ct6W-Vi7mTo&t=4251s)  > ...of in play when we go over capital and >> yeah, at the moment at the moment the license plate reader is quote unquote in the capital. >> Yep....
+
+
+### 2026-02-02 -- Board of Selectmen
+
+**Board of Selectmen Meeting 2/2/26** _(topics: alpr)_
+
+- `alpr_flock` [▸](https://www.youtube.com/watch?v=yqDdZyZ96U0&t=7687s)  > ...department, I believe. Goodness. >> Was that the stationary license plate reader was moved to another year? >> No, she um, let me see if I can....
 
 
 ### 2026-04-20 -- Board of Finance
@@ -385,65 +442,81 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
+- **[2026-02-02] Board of Selectmen** -- Board of Selectmen Meeting 2/2/26
+  > ...department, I believe. Goodness. >> Was that the stationary license plate reader was moved to another year? >> No, she um, let me see if I can....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yqDdZyZ96U0&t=7687s)  _(term: alpr_flock, unreviewed)_
+
 - **[2026-01-28] Board of Selectmen** -- Board of Selectmen Budget Workshop 1/28/26 pt 1 of 2
   > ...of in play when we go over capital and >> yeah, at the moment at the moment the license plate reader is quote unquote in the capital. >> Yep....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ct6W-Vi7mTo&t=4251s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-01-28] Board of Selectmen** -- Board of Selectmen Budget Workshop 1/28/26 pt 1 of 2
+  > ...>> Is that the standard? >> Correct. So that so I now that you say that I can explain. So the license plate reader is in your capital budget. If that gets approved, he needs that 8,000...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ct6W-Vi7mTo&t=4220s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-13] Board of Selectmen** -- Board of Selectmen Capital Plan Workshop November 13, 2025
   > ...considered vehicle components? >> Uh, it's updating it's parts of vehicles. I think a license plate reader for sure. >> Yeah....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=3013s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-13] Board of Selectmen** -- Board of Selectmen Capital Plan Workshop November 13, 2025
-  > ...plate readers and the body armor. >> Thank you guys for having me. So, the uh the automated license plate recognition systems, we want to bring it back to the table. Um, you know, specifically, we're...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=4202s)  _(term: alpr_flock, unreviewed)_
+  > ...do with that piece of equipment. Um, and then I also have in here just a uh a mobile uh license plate reader. Uh, right now we have two license plate readers on patrol vehicles. Um, just...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=2983s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-13] Board of Selectmen** -- Board of Selectmen Capital Plan Workshop November 13, 2025
   > ...so you're aware of it, you're >> Chris. Chris, would the command post and that new license plate reader be considered vehicle components? >> Uh, it's updating it's parts of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=3006s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-13] Board of Selectmen** -- Board of Selectmen Capital Plan Workshop November 13, 2025
-  > ...do with that piece of equipment. Um, and then I also have in here just a uh a mobile uh license plate reader. Uh, right now we have two license plate readers on patrol vehicles. Um, just...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=2983s)  _(term: alpr_flock, unreviewed)_
+  > ...plate readers and the body armor. >> Thank you guys for having me. So, the uh the automated license plate recognition systems, we want to bring it back to the table. Um, you know, specifically, we're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=4202s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-18] Board of Selectmen** -- Board of Selectmen February 18, 2025
-  > ...seen um for for those who came in uh those on Zoom probably not uh there's a is it a flock of penguins or is it what is it I I don't know oh my the librarian I know I'll find out...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rFbO9iNQiG8&t=429s)  _(term: alpr_flock, unreviewed)_
+  > ...of the Guilford foundation so any proceeds will go to that and that is the display of penguins flock or what um well if they're on the land if they're on the water they're a raft but if...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cbasfG23x04&t=2988s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-18] Board of Selectmen** -- Board of Selectmen February 18, 2025
   > ...seen um for for those who came in uh those on Zoom probably not uh there's a is it a flock of penguins or is it what is it I I don't know oh my the librarian I know I'll find out...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cbasfG23x04&t=429s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-18] Board of Selectmen** -- Board of Selectmen February 18, 2025
-  > ...of the Guilford foundation so any proceeds will go to that and that is the display of penguins flock or what um well if they're on the land if they're on the water they're a raft but if...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rFbO9iNQiG8&t=2988s)  _(term: alpr_flock, unreviewed)_
+  > ...seen um for for those who came in uh those on Zoom probably not uh there's a is it a flock of penguins or is it what is it I I don't know oh my the librarian I know I'll find out...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rFbO9iNQiG8&t=429s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-18] Board of Selectmen** -- Board of Selectmen February 18, 2025
   > ...of the Guilford foundation so any proceeds will go to that and that is the display of penguins flock or what um well if they're on the land if they're on the water they're a raft but if...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cbasfG23x04&t=2988s)  _(term: alpr_flock, unreviewed)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rFbO9iNQiG8&t=2988s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-03] Board of Selectmen** -- Board of Selectmen Special Meeting February 3, 2025
   > ...out I guess at the bottom three priorities all right and police uh move the fixed License Plate Reader system okay and the Public Works mobile columns for vehicle lifts um are they moving...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=pyFd8xt2FWA&t=5176s)  _(term: alpr_flock, unreviewed)_
 
+- **[2024-11-18] Board of Selectmen** -- BOS Capital Plan Workshop November 18, 2024 Part 1
+  > ...technology to the uh maximum potential we would like to request $155,000 for 19 fixed License Plate Reader cameras uh these cameras would be strategically...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=g-aQiILsCtg&t=4659s)  _(term: alpr_flock, unreviewed)_
+
 - **[2024-10-21] Board of Selectmen** -- Board of Selectmen October 21, 2024
-  > ...place so that we have at least two Patrol vehicles that are equipped with the mobile License Plate Reader um particularly with spikes and uh motor vehicle thefts and and car break-ins and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H4q03ZEOmkU&t=5272s)  _(term: alpr_flock, unreviewed)_
+  > ...all in favor I I that motion carries okay item two seven uh consider take possible action on a mobile License Plate Reader which would be sole source and using uh our funding uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H4q03ZEOmkU&t=5119s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-10-21] Board of Selectmen** -- Board of Selectmen October 21, 2024
   > ...very large tree fall on one of our Patrol vehicles uh that vehicle happened to have one of our License Plate Reader units on it we had a program where we were running two of those on patrol...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=H4q03ZEOmkU&t=5140s)  _(term: alpr_flock, unreviewed)_
+
+- **[2024-10-21] Board of Selectmen** -- Board of Selectmen October 21, 2024
+  > ...place so that we have at least two Patrol vehicles that are equipped with the mobile License Plate Reader um particularly with spikes and uh motor vehicle thefts and and car break-ins and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H4q03ZEOmkU&t=5272s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-04-01] Parks and Recreation** -- Parks and Recreation Commission April 1, 2024
   > ...choice which very much like Spa different ones or one group of like a flock of SP or something considering getting different ones like maybe a young boy be...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=glqURFcROA4&t=379s)  _(term: alpr_flock, unreviewed)_
 
 - **[2022-07-28] Planning and Zoning Commission** -- Planning and Zoning Commission - Special Meeting 7/28/22
-  > ...um so we have um a flock of sheep which give us meat and also wool we have a herd of goats which...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=D1wh2_h-Gx4&t=2317s)  _(term: alpr_flock, unreviewed)_
-
-- **[2022-07-28] Planning and Zoning Commission** -- Planning and Zoning Commission - Special Meeting 7/28/22
   > ...raise the occasional steers and the occasional veal calf we also have a flock of chickens where we get eggs and we sometimes do roasters we hat we do honey...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=D1wh2_h-Gx4&t=2331s)  _(term: alpr_flock, unreviewed)_
+
+- **[2022-07-28] Planning and Zoning Commission** -- Planning and Zoning Commission - Special Meeting 7/28/22
+  > ...um so we have um a flock of sheep which give us meat and also wool we have a herd of goats which...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=D1wh2_h-Gx4&t=2317s)  _(term: alpr_flock, unreviewed)_
 
 - **[2022-01-05] Planning and Zoning Commission** -- Planning and Zoning 1/5/22
   > ...and literally the burners will excuse upon flock there and you will have more than one car outside on that road...
@@ -453,13 +526,25 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...they got taken out because of you know people were resisting that but now that's where people flock they flock to those shaded areas yeah so i mean that's something we could...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=GJitWbIQ41I&t=3394s)  _(term: alpr_flock, unreviewed)_
 
-- **[2016-10-10] Board of Finance** -- Board of Finance 42616 Special Meeting for 2nd Referendum Pt 1 of 2
-  > ...License Plate Reader $18,000 thank you the license plate reader is more than a gotcha machine what it did in the description well I think you were at...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JZvfeB1HtXQ&t=1049s)  _(term: alpr_flock, unreviewed)_
+- **[2020-08-03] Parks and Recreation** -- Parks and Recreation 8/3/20
+  > ...i really value it i appreciate it if we do it one idea is satan room and flock their room because there's a back entrance to the station room from the playground they...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AeNBY9MhRPU&t=6330s)  _(term: alpr_flock, unreviewed)_
 
 - **[2016-10-10] Board of Finance** -- Board of Finance 42616 Special Meeting for 2nd Referendum Pt 1 of 2
   > ...in capital uh most of them came down to uh there was a license plate reader for the police department some people probably applaud that but you know that's...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JZvfeB1HtXQ&t=959s)  _(term: alpr_flock, unreviewed)_
+
+- **[2016-10-10] Board of Finance** -- Board of Finance 42616 Special Meeting for 2nd Referendum Pt 1 of 2
+  > ...License Plate Reader $18,000 thank you the license plate reader is more than a gotcha machine what it did in the description well I think you were at...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JZvfeB1HtXQ&t=1049s)  _(term: alpr_flock, unreviewed)_
+
+- **[2016-10-10] Board of Selectmen** -- Board of Selectmen Budget 2016 Workshop 5 yr Plan  Pt1 of 2
+  > ...bid so there's our cat upgrade requests any other questions on that nope okay uh the other new item is the License Plate Reader and I believe I provided a uh a background on that license plate readers...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_Sz6-qS6PwQ&t=4267s)  _(term: alpr_flock, unreviewed)_
+
+- **[2016-10-10] Board of Finance** -- Board of Finance 42616 Special Meeting for 2nd Referendum Pt 1 of 2
+  > ...Reader Charlie what was the number on the License Plate Reader $18,000 thank you the license plate reader is more...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JZvfeB1HtXQ&t=1040s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -482,12 +567,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWhL5Tptlh0&t=4959s)  _(term: body_camera, unreviewed)_
 
 - **[2022-06-20] Board of Selectmen** -- Board of Selectmen 6/20/22
-  > ...uh is there a motion to approve the expenditure for the body the body worn camera the storage and the associated uh...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=90Fd3MbyWuQ&t=5713s)  _(term: body_camera, unreviewed)_
-
-- **[2022-06-20] Board of Selectmen** -- Board of Selectmen 6/20/22
   > ...warranty extended warranty uh that we pay for with them that uh when a body cam goes down we send it to them back to them uh they replace it with within about a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=90Fd3MbyWuQ&t=5441s)  _(term: body_camera, unreviewed)_
+
+- **[2022-06-20] Board of Selectmen** -- Board of Selectmen 6/20/22
+  > ...uh is there a motion to approve the expenditure for the body the body worn camera the storage and the associated uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=90Fd3MbyWuQ&t=5713s)  _(term: body_camera, unreviewed)_
 
 - **[2021-11-01] Board of Selectmen** -- Board of Selectmen 11/1/21
   > ...which are those cameras the license plate readers too or just a body cam no those are the cameras are in-car cameras only they're not license plate...
@@ -561,10 +646,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=MMtY0vSzEXo&t=4964s)  _(term: drone, unreviewed)_
 
 - **[2023-11-16] Board of Selectmen** -- BOS Capital Budget Workshop November 16, 2023
-  > ...above the flood line so that's the one of the reasons why okay inspections is theide steal use of a drone I mean we've had you know some demonstrations in using them at the water company it's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=MMtY0vSzEXo&t=5092s)  _(term: drone, unreviewed)_
-
-- **[2023-11-16] Board of Selectmen** -- BOS Capital Budget Workshop November 16, 2023
   > ...no that means I'm going to get involved and I don't want them to know that I did it so at least with this drone I would be able to go over and see with the work that's being done I can take pictures I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=MMtY0vSzEXo&t=4844s)  _(term: drone, unreviewed)_
 
@@ -573,20 +654,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=MMtY0vSzEXo&t=4925s)  _(term: drone, unreviewed)_
 
 - **[2023-11-16] Board of Selectmen** -- BOS Capital Budget Workshop November 16, 2023
-  > ...quite a bit of Matt's point I got a question a drone go fly right and it is of no value having a drone without the programs the only reason I'm familiar is we just started doing it at another...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=MMtY0vSzEXo&t=4929s)  _(term: drone, unreviewed)_
+  > ...above the flood line so that's the one of the reasons why okay inspections is theide steal use of a drone I mean we've had you know some demonstrations in using them at the water company it's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=MMtY0vSzEXo&t=5092s)  _(term: drone, unreviewed)_
 
 - **[2023-11-16] Board of Selectmen** -- BOS Capital Budget Workshop November 16, 2023
   > ...Jonathan also for one drone only 30,000 for just one one drone well that that was the base part that he had mentioned to me for...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=MMtY0vSzEXo&t=5005s)  _(term: drone, unreviewed)_
 
 - **[2023-11-16] Board of Selectmen** -- BOS Capital Budget Workshop November 16, 2023
-  > ...that Jonathan also for one drone only 30,000 for just one one drone well that that was the base part that he had mentioned to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=MMtY0vSzEXo&t=5001s)  _(term: drone, unreviewed)_
+  > ...quite a bit of Matt's point I got a question a drone go fly right and it is of no value having a drone without the programs the only reason I'm familiar is we just started doing it at another...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=MMtY0vSzEXo&t=4929s)  _(term: drone, unreviewed)_
 
 - **[2023-11-16] Board of Selectmen** -- BOS Capital Budget Workshop November 16, 2023
   > ...going to ask about the number did you that was one of the a I spoke to one of the Drone companies that's actually one of the popular ones that some of those files are using and they specialize for...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=MMtY0vSzEXo&t=4952s)  _(term: drone, unreviewed)_
+
+- **[2023-11-16] Board of Selectmen** -- BOS Capital Budget Workshop November 16, 2023
+  > ...that Jonathan also for one drone only 30,000 for just one one drone well that that was the base part that he had mentioned to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=MMtY0vSzEXo&t=5001s)  _(term: drone, unreviewed)_
 
 - **[2023-11-16] Board of Selectmen** -- BOS Capital Budget Workshop November 16, 2023
   > ...okay and the second one is I'm ask for the capital budget is to purchase a drone for the building department for inspections as we know houses are getting larger and taller and higher and...
@@ -605,12 +690,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cpBJSm8gNzQ&t=5476s)  _(term: drone, unreviewed)_
 
 - **[2022-03-10] Shellfish Commission** -- Shellfish Commission 3/10/22
-  > ...that type of thing so we're monitoring all the ecological aspects of the marsh and uh but we also do drone studies to see you know how the and how the channels are changing and so forth...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KKCpLi9DoXc&t=411s)  _(term: drone, unreviewed)_
-
-- **[2022-03-10] Shellfish Commission** -- Shellfish Commission 3/10/22
   > ...with on this project who always also knows that does drones is doing the drone studies they're associated with this uh he's doing an intensive uh aerial study yeah uh of that um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=KKCpLi9DoXc&t=827s)  _(term: drone, unreviewed)_
+
+- **[2022-03-10] Shellfish Commission** -- Shellfish Commission 3/10/22
+  > ...that type of thing so we're monitoring all the ecological aspects of the marsh and uh but we also do drone studies to see you know how the and how the channels are changing and so forth...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KKCpLi9DoXc&t=411s)  _(term: drone, unreviewed)_
 
 - **[2022-03-08] Board of Finance** -- Board Of Finance 3/8/22 Budget Public Hearing
   > ...days i know i've had a long day um and and listening to me drone on um regarding a recap and then the rest of it...
@@ -627,6 +712,22 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2022-01-05] Planning and Zoning Commission** -- Planning and Zoning 1/5/22
   > ...google no it's my drone oh you're drone okay right yeah i just heard something buzzing about my...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=hfwpkQ1svmw&t=4405s)  _(term: drone, unreviewed)_
+
+- **[2020-09-02] Planning and Zoning Commission** -- Planning and Zoning 9/2/20
+  > ...executive order 71 this legal notice is being published on the town of guilford website www.ci.guilford.ct.uas dated at guilford connecticut this 20th day of august 2020 phil johnson chairman...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rVwosrjtLIo&t=436s)  _(term: drone, unreviewed)_
+
+- **[2020-07-08] Shellfish Commission** -- Shellfish Commission 7/8/20
+  > ...varmint or somebody's yard i think we're a drone so the warden's report i just want to uh and we're going to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mf1yhQfvZGo&t=751s)  _(term: drone, unreviewed)_
+
+- **[2020-07-06] Board of Selectmen** -- BOS 7/6/20
+  > ...well i may be able to unmute right ask all the unmute all right we can send a drone tom yep you hear me i can hear you now okay good all right...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OyrgmzimZts&t=1844s)  _(term: drone, unreviewed)_
+
+- **[2020-06-01] Parks and Recreation** -- Parks and Recreation 6/1/20
+  > ...before they got to pickleball courts and there's a lot of stuff going on with plenty of drone and fairgrounds and part of their requirement is they...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=G0U3mzlYGzA&t=5366s)  _(term: drone, unreviewed)_
 
 - **[2015-09-23] Parks and Recreation** -- Understanding Town Government - Guilford Parks and Recreation
   > ...family to sit we also had an area we roped off before the kids were in the parade if you saw the drone overview picture that was on the front of a week of a Guilford events magazine there was...
@@ -823,11 +924,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 1303 (fetched: 592, no captions: 5)
+- Videos registered: 1303 (fetched: 617, no captions: 5)
 - Date range covered: 2013-01-14 to 2026-08-20 (all 1303 videos dated)
 
 
@@ -842,8 +948,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| guilford_ct | streams | 2026-08-31 07:20:19.958621 | 14 |
-| guilford_ct | videos | 2026-08-31 07:20:47.662904 | 2397 |
+| guilford_ct | streams | 2026-08-31 14:14:58.907328 | 14 |
+| guilford_ct | videos | 2026-08-31 14:15:29.945248 | 2394 |
 
 
 ## Registered meeting bodies
@@ -910,5 +1016,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:11:52 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Guilford"`_
+_Generated 2026-08-31T14:38:42 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Guilford"`_
 

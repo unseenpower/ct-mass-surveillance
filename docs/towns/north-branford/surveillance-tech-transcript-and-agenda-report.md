@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **North Branford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **47 mentions** across **31 meetings**
+- **49 mentions** across **32 meetings**
 - **First mention:** 2020-07-20  |  **Most recent:** 2026-04-14
 - **Technologies discussed:** alpr, body_camera, drone, surveillance_general
 - **Coverage:** 395 of 861 known North Branford meetings transcribed (46%)
@@ -70,14 +70,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 8 | 6 | 2021-06-15 | 2026-02-17 |
-| body_camera | 4 | 4 | 2026-02-17 | 2026-04-14 |
+| body_camera | 6 | 5 | 2026-02-17 | 2026-04-14 |
 | drone | 33 | 23 | 2020-07-20 | 2026-04-14 |
 | surveillance_general | 2 | 2 | 2021-12-07 | 2023-06-20 |
 
 
 ## Timeline
 
-31 meetings surfaced a finding (31 dated, spanning 2020-07-20 to 2026-04-14; 0 of unknown date, listed last).
+32 meetings surfaced a finding (32 dated, spanning 2020-07-20 to 2026-04-14; 0 of unknown date, listed last).
 
 
 ### 2020-07-20 -- Board of Education
@@ -310,6 +310,15 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `alpr_flock` [▸](https://www.youtube.com/watch?v=RBFw5P2XtpI&t=7947s)  > ...The camera system, one of the reasons I was waiting on the LPRs, which is license plate reader in the in the incar camera system, is um there's a lot of talk and there's still a lot of talk up...
 
+- `body_camera` [▸](https://www.youtube.com/watch?v=RBFw5P2XtpI&t=8282s)  > ...not just buying the equipment. It's also all of the all of >> Yeah. All these things are insured. Body cam goes down, we send it out, we got another one coming coming back to us...
+
+
+### 2026-03-03 -- Town Council
+
+**NB Town Council Budget Workshop 3/3/26** _(topics: body_camera)_
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=5WX61YkMpLw&t=2241s)  > ...who wasn't at he wasn't at the on the council after that meeting, but that was for the extra money for the axon body cam uh project. So, um, we believe we have funding sources for that that won't...
+
 
 ### 2026-04-14 -- Town Council
 
@@ -387,6 +396,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...on the police budget was the um Axon contract which is for taser um and body cam contract. Um and there's a $75,000 that contract was already voted on by...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=NHsH_AU6nuI&t=2840s)  _(term: body_camera, unreviewed)_
 
+- **[2026-03-03] Town Council** -- NB Town Council Budget Workshop 3/3/26
+  > ...who wasn't at he wasn't at the on the council after that meeting, but that was for the extra money for the axon body cam uh project. So, um, we believe we have funding sources for that that won't...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5WX61YkMpLw&t=2241s)  _(term: body_camera, unreviewed)_
+
+- **[2026-02-17] Town Council** -- WPCA & Town Council Meeting 2/17/26
+  > ...not just buying the equipment. It's also all of the all of >> Yeah. All these things are insured. Body cam goes down, we send it out, we got another one coming coming back to us...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RBFw5P2XtpI&t=8282s)  _(term: body_camera, unreviewed)_
+
 - **[2026-02-17] Town Council** -- WPCA & Town Council Meeting 02/17/2026
   > ...Um, it's broken down. Most of these things that we have or we already have in our body cam program. It's just continuing that such as autotagging. anytime an officer goes there um to a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjtapcIB8c4&t=7881s)  _(term: body_camera, unreviewed)_
@@ -418,13 +435,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### drone
 
-- **[2026-04-14] Town Council** -- Town Council - Budget Workshop 04/14/2026
-  > ...>> Okay. >> And just to make it clear on the the drone harrison, the the the the granite curbing is in the bus way. It's not the whole place....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4_sFIUZVAFE&t=6961s)  _(term: drone, unreviewed)_
-
 - **[2026-04-14] Town Council** -- NB Town Council Budget Workshop 4/14/26
   > ...>> Okay. >> And just to make it clear on the the drone Harrison, the the the the granite curbing is in the bus way. It's not the whole place....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=NHsH_AU6nuI&t=6961s)  _(term: drone, unreviewed)_
+
+- **[2026-04-14] Town Council** -- Town Council - Budget Workshop 04/14/2026
+  > ...>> Okay. >> And just to make it clear on the the drone harrison, the the the the granite curbing is in the bus way. It's not the whole place....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4_sFIUZVAFE&t=6961s)  _(term: drone, unreviewed)_
 
 - **[2025-06-17] Town Council** -- WPCA & Town Council 6/17/2025
   > ...report that this legislation passed the Connecticut General Assembly. Uh it also allows for innovative drone use for farming and the bill is now on the governor's desk and awaiting his...
@@ -447,12 +464,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=8KM_TFcliz0&t=2773s)  _(term: drone, unreviewed)_
 
 - **[2024-11-21] Board of Education** -- Board of Education 11/21/2024
-  > ...drone staff we spent the entire day on Monday collaborating with one another we started with that drone we did a ghost walk of Jerome we developed uh vertical teams so teachers from 3K through fifth...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TPP7MClWSVE&t=784s)  _(term: drone, unreviewed)_
-
-- **[2024-11-21] Board of Education** -- Board of Education 11/21/2024
   > ...and as you see in the some de briefs the TVs staff and drone staff we spent the entire day on Monday collaborating with one another we started with that drone we did a ghost...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TPP7MClWSVE&t=780s)  _(term: drone, unreviewed)_
+
+- **[2024-11-21] Board of Education** -- Board of Education 11/21/2024
+  > ...drone staff we spent the entire day on Monday collaborating with one another we started with that drone we did a ghost walk of Jerome we developed uh vertical teams so teachers from 3K through fifth...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TPP7MClWSVE&t=784s)  _(term: drone, unreviewed)_
 
 - **[2024-03-19] Town Council** -- Town Council- 3/19/2024
   > ...have for the team that's it and and again we ran a free clinic last week for girls um just as a drone Harrison gy because we had four girls for the third fourth grade team and not one single...
@@ -475,6 +492,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Pji9VgE71BU&t=3760s)  _(term: drone, unreviewed)_
 
 - **[2023-12-19] Town Council** -- Town Council- 12/19/2023
+  > ...different altitude in order to gain that so you'd have to get it through some type of some some type of a drone um I'm not sure I think the software provides for these different angles I think just...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TMTWH71241Y&t=5283s)  _(term: drone, unreviewed)_
+
+- **[2023-12-19] Town Council** -- Town Council 12/19/2023
+  > ...have to get it through some type of some some type of a drone I'm not sure I think software provides for these different angles I think it's just technology sure every...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ilF40a8T7sM&t=5086s)  _(term: drone, unreviewed)_
+
+- **[2023-12-19] Town Council** -- Town Council- 12/19/2023
   > ...was a little bit different of an understanding when we were talking about it I thought this was going to be drone Le or something that was consistent not every six months which is a little bit...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TMTWH71241Y&t=5197s)  _(term: drone, unreviewed)_
 
@@ -487,20 +512,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TMTWH71241Y&t=5062s)  _(term: drone, unreviewed)_
 
 - **[2023-12-19] Town Council** -- Town Council 12/19/2023
-  > ...have to get it through some type of some some type of a drone I'm not sure I think software provides for these different angles I think it's just technology sure every...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ilF40a8T7sM&t=5086s)  _(term: drone, unreviewed)_
-
-- **[2023-12-19] Town Council** -- Town Council 12/19/2023
   > ...it from my desk um yeah and please note that um this is aerial imagery it's not live stream from a drone or from a satellite so it's just a picture in time is is what it is and um I made a few...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ilF40a8T7sM&t=4864s)  _(term: drone, unreviewed)_
-
-- **[2023-12-19] Town Council** -- Town Council- 12/19/2023
-  > ...different altitude in order to gain that so you'd have to get it through some type of some some type of a drone um I'm not sure I think the software provides for these different angles I think just...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TMTWH71241Y&t=5283s)  _(term: drone, unreviewed)_
 
 - **[2023-06-15] Board of Education** -- Board of Education Meeting 06/15/2023
   > ...no we uh the the tech classes the TV production class went out and did a site visit we're gonna fly the Drone and video the whole process and then have kids involved hoping some of the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghQooekLRtM&t=2706s)  _(term: drone, unreviewed)_
+
+- **[2023-06-06] Town Council** -- Town Council 6/6/2023
+  > ...taken we did a site visit April 26th and we have drone capability so we brought a drone out take some you know some aerial photos of it to kind of give us an idea of you know what exactly we're dealing...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bD_10rN3Ep8&t=2596s)  _(term: drone, unreviewed)_
 
 - **[2023-06-06] Town Council** -- Town Council 6/6/2023
   > ...photos of it to kind of give us an idea of you know what exactly we're dealing with and the gis on this the Drone software we have is able to to pull out this...
@@ -509,10 +530,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2023-06-06] Town Council** -- Town Council 6/6/2023
   > ...so getting into the properties this is taken we did a site visit April 26th and we have drone capability so we brought a drone out take some you know some aerial photos of it to kind of give us an idea...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bD_10rN3Ep8&t=2593s)  _(term: drone, unreviewed)_
-
-- **[2023-06-06] Town Council** -- Town Council 6/6/2023
-  > ...taken we did a site visit April 26th and we have drone capability so we brought a drone out take some you know some aerial photos of it to kind of give us an idea of you know what exactly we're dealing...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bD_10rN3Ep8&t=2596s)  _(term: drone, unreviewed)_
 
 - **[2023-01-31] Town Council** -- Town Council - 01/31/2023
   > ...um it'll assess the trajectory of where the town's going the soccer goals field hockey drone this ice hockey problem and maybe um badminton is declining so let's take...
@@ -733,6 +750,11 @@ flow measuring device remains in one location for the duration of the project, S
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -752,8 +774,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| totoket_tv | streams | 2026-08-31 07:21:36.635199 | 127 |
-| totoket_tv | videos | 2026-08-31 07:21:48.008670 | 967 |
+| totoket_tv | streams | 2026-08-31 14:16:20.243416 | 127 |
+| totoket_tv | videos | 2026-08-31 14:16:32.889291 | 967 |
 
 
 ## Registered meeting bodies
@@ -778,7 +800,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 177 (fetched: 148)
+- Documents registered: 180 (fetched: 151)
 - Date range covered: 2023-05-23 to 2026-09-15
 
 
@@ -827,5 +849,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:15:09 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "North Branford"`_
+_Generated 2026-08-31T14:41:54 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "North Branford"`_
 

@@ -5,9 +5,9 @@
 
 This report collects every mention of surveillance technology found in **Columbia**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **44 mentions** across **16 meetings**
+- **45 mentions** across **17 meetings**
 - **First mention:** 2024-01-17  |  **Most recent:** 2026-08-04
-- **Technologies discussed:** alpr, drone
+- **Technologies discussed:** alpr, drone, surveillance_general
 - **Coverage:** 280 of 634 known Columbia meetings transcribed (44%)
 - **Still incomplete:** 354 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
@@ -70,11 +70,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | --- | --- | --- | --- | --- |
 | alpr | 21 | 8 | 2025-09-03 | 2026-08-04 |
 | drone | 23 | 9 | 2024-01-17 | 2026-05-07 |
+| surveillance_general | 1 | 1 | 2024-07-17 | 2024-07-17 |
 
 
 ## Timeline
 
-16 meetings surfaced a finding (16 dated, spanning 2024-01-17 to 2026-08-04; 0 of unknown date, listed last).
+17 meetings surfaced a finding (17 dated, spanning 2024-01-17 to 2026-08-04; 0 of unknown date, listed last).
 
 
 ### 2024-01-17 -- Safety Committee
@@ -91,6 +92,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 **Hop River Preserve Management Committee Meeting 2/20/24** _(topics: drone)_
 
 - `drone` [▸](https://www.youtube.com/watch?v=1ttPUgBr_EE&t=746s)  > ...structural uh footprint some Cellar things like that those are cultural features uh we use unmanned aerial vehicles or drones uh picture here uh liar which have already shown you maps...
+
+
+### 2024-07-17 -- Safety Committee
+
+**Safety Committee Meeting 7/17/24** _(topics: surveillance_general)_
+
+- `surveillance_general` [▸](https://www.youtube.com/watch?v=RVUMAPLRvyA&t=638s)  > ...make terms and go through safely to be sure a r help out or maybe a surveillance camera hand people tickets out I don't I don't know ask you're...
 
 
 ### 2024-11-12 -- Board of Selectmen
@@ -256,16 +264,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### alpr
 
 - **[2026-08-04] Board of Selectmen** -- Board of Selectmen Meeting August 4, 2026
-  > ...we took those from Clinton and they had a great, uh, cheat sheet on what's the difference between a flock ALPR camera and a ATSD program...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=t8OKNlvmU6w&t=2609s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Board of Selectmen** -- Board of Selectmen Meeting August 4, 2026
   > ...light enforcement uh focusing on roadway safety. Not on the flock cameras which Clinton has both. They have both flock ALPR cameras and ATSD programs. Um,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=t8OKNlvmU6w&t=2631s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Board of Selectmen** -- Board of Selectmen Meeting August 4, 2026
   > ...uh focusing on roadway safety. Not on the flock cameras which Clinton has both. They have both flock ALPR cameras and ATSD programs. Um, and they explain in their question...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=t8OKNlvmU6w&t=2633s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Board of Selectmen** -- Board of Selectmen Meeting August 4, 2026
+  > ...we took those from Clinton and they had a great, uh, cheat sheet on what's the difference between a flock ALPR camera and a ATSD program...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=t8OKNlvmU6w&t=2609s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-07] Board of Selectmen** -- Board of Selectmen Meeting 7/7/26
   > ...then there's the big question, and I'm not way up on this, about um, sharing information. Big talk about flock, scanning your phones, all your stuff in your car when you go under these things....
@@ -276,12 +284,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=l8B8feXYJaM&t=3098s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-05-07] Informational/Public Meeting** -- Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
-  > ...>> It's a different type of camera they were turning off. >> Okay. They're turn off flock cameras which record data like coming in and out there and it's it's a flock, right?...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6636s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-05-07] Informational/Public Meeting** -- Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
-  > ...>> The sharing part was bothering the residents. Seriously, they turn the flock cameras off. >> Different different thing entirely. >> Okay. Thank you....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6645s)  _(term: alpr_flock, unreviewed)_
+  > ...>> Okay. They're turn off flock cameras which record data like coming in and out there and it's it's a flock, right? Because you share with your flock. Yeah. >> The sharing part was bothering the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6639s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-05-07] Informational/Public Meeting** -- Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
   > ...>> was that >> block >> flock? No, it's not. These aren't not flock. >> and then we will be a public bid...
@@ -292,12 +296,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=4715s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-05-07] Informational/Public Meeting** -- Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
-  > ...which record data like coming in and out there and it's it's a flock, right? Because you share with your flock. Yeah. >> The sharing part was bothering the residents. Seriously, they turn the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6640s)  _(term: alpr_flock, unreviewed)_
+  > ...>> It's a different type of camera they were turning off. >> Okay. They're turn off flock cameras which record data like coming in and out there and it's it's a flock, right?...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6636s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-05-07] Informational/Public Meeting** -- Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
-  > ...>> Okay. They're turn off flock cameras which record data like coming in and out there and it's it's a flock, right? Because you share with your flock. Yeah. >> The sharing part was bothering the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6639s)  _(term: alpr_flock, unreviewed)_
+  > ...>> The sharing part was bothering the residents. Seriously, they turn the flock cameras off. >> Different different thing entirely. >> Okay. Thank you....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6645s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-05-07] Informational/Public Meeting** -- Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
+  > ...which record data like coming in and out there and it's it's a flock, right? Because you share with your flock. Yeah. >> The sharing part was bothering the residents. Seriously, they turn the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6640s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-04] Traffic and Transportation Committee** -- Traffic & Transportation Committee Meeting 2/4/26
   > ...vendor is cuz that one's talking about flock and a lot of issues that have gone on with flock and even though at the federal level they banned ICE from using flock, they're going to local...
@@ -308,24 +316,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2302s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-04] Traffic and Transportation Committee** -- Traffic & Transportation Committee Meeting 2/4/26
-  > ...>> well, I think it depends on who your vendor is cuz that one's talking about flock and a lot of issues that have gone on with flock and even though at the federal level they banned ICE from using...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2258s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-04] Traffic and Transportation Committee** -- Traffic & Transportation Committee Meeting 2/4/26
   > ...federal level they banned ICE from using flock, they're going to local departments and still accessing flock data. So, it it's sort of interesting to see a comprehensive review of what's...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2266s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-04] Traffic and Transportation Committee** -- Traffic & Transportation Committee Meeting 2/4/26
+  > ...>> well, I think it depends on who your vendor is cuz that one's talking about flock and a lot of issues that have gone on with flock and even though at the federal level they banned ICE from using...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2258s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-04] Traffic and Transportation Committee** -- Traffic & Transportation Committee Meeting 2/4/26
   > ...on with flock and even though at the federal level they banned ICE from using flock, they're going to local departments and still accessing flock data. So, it it's sort of interesting to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2265s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-07] Lake Management Advisory Commission** -- LMAC Meeting 1/7/26
-  > ...than water and as it moves through the water it creates a a white precipitate flock. Um and that flock is more dense than water and it's it picks up phosphorus as it settles and and uh...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tABVypEbeFM&t=3584s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-01-07] Lake Management Advisory Commission** -- LMAC Meeting 1/7/26
   > ...>> you know, I don't know how many geese you're scaring off, but if you're scaring off a flock of 30, that's a pretty sizable change in phosphorus loading....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tABVypEbeFM&t=4528s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-01-07] Lake Management Advisory Commission** -- LMAC Meeting 1/7/26
+  > ...than water and as it moves through the water it creates a a white precipitate flock. Um and that flock is more dense than water and it's it picks up phosphorus as it settles and and uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tABVypEbeFM&t=3584s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-05] Lake Management Advisory Commission** -- LMAC Meeting 11/5/25
   > ...And uh fishing >> fishing looms. We got a couple lons. >> Yeah. Oh, we had a flock of black scoters. >> Yeah....
@@ -409,20 +417,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3536s)  _(term: drone, unreviewed)_
 
 - **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
+  > ...you know are people more the Drone idea came because you know walking around the lake is is difficult and um at you know the shallow...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3643s)  _(term: drone, unreviewed)_
+
+- **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
   > ...don't have a answer for you on that but there is a one of the members of the patrol has a drone and I can check with him on his licensing and and I okay3...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3157s)  _(term: drone, unreviewed)_
 
 - **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
   > ...take the drones out of this you know because we're not getting a real warm fuzzy drone situation so we take the drones out of this do we find that it's you...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3633s)  _(term: drone, unreviewed)_
-
-- **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
-  > ...you know are people more the Drone idea came because you know walking around the lake is is difficult and um at you know the shallow...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3643s)  _(term: drone, unreviewed)_
-
-- **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
-  > ...just wanted the ability to try it and the drones we don't need a fancy $22,000 drone just need something to harass the geese off of somebody's yard and get them off the lake so...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3139s)  _(term: drone, unreviewed)_
 
 - **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
   > ...have I'm I'm a certified I'm an FAA pilot as well as drone pilot and if I want to fly my drone recreationally or you know for for you know whatever use I can do that but if I'm going to get paid...
@@ -451,6 +455,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
   > ...that's what my next step would be see how that works see if we really need to bring a drone in the problem you have is line of sight so the remote control boats...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=2602s)  _(term: drone, unreviewed)_
+
+- **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
+  > ...just wanted the ability to try it and the drones we don't need a fancy $22,000 drone just need something to harass the geese off of somebody's yard and get them off the lake so...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3139s)  _(term: drone, unreviewed)_
 
 - **[2024-02-20] Hop River Preserve Management Committee** -- Hop River Preserve Management Committee Meeting 2/20/24
   > ...structural uh footprint some Cellar things like that those are cultural features uh we use unmanned aerial vehicles or drones uh picture here uh liar which have already shown you maps...
@@ -502,7 +510,9 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### surveillance_general
 
-*(no findings)*
+- **[2024-07-17] Safety Committee** -- Safety Committee Meeting 7/17/24
+  > ...make terms and go through safely to be sure a r help out or maybe a surveillance camera hand people tickets out I don't I don't know ask you're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RVUMAPLRvyA&t=638s)  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools
@@ -629,6 +639,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -648,7 +663,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| columbia_ct | videos | 2026-08-31 07:26:20.284172 | 646 |
+| columbia_ct | videos | 2026-08-31 14:01:46.620055 | 646 |
 
 
 ## Registered meeting bodies
@@ -740,5 +755,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:09:15 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Columbia"`_
+_Generated 2026-08-31T14:36:27 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Columbia"`_
 

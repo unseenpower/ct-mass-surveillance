@@ -1,6 +1,6 @@
 # General surveillance: every mention, every town
 
-_Generated 2026-08-31T08:49:04 — 283 mentions across 43 towns, 2017-01-03 to 2026-08-18._
+_Generated 2026-08-31T14:55:32 — 287 mentions across 44 towns, 2017-01-03 to 2026-08-18._
 
 
 General discussion of surveillance, privacy and camera policy that is not specific to one technology.
@@ -23,31 +23,31 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **82** | 11 | 44 | 50% | 2022-10-03 | 2026-08-18 |
-| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **43** | · | 20 | 66% | 2022-10-25 | 2026-04-28 |
+| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **82** | 11 | 44 | 53% | 2022-10-03 | 2026-08-18 |
+| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **43** | · | 20 | 68% | 2022-10-25 | 2026-04-28 |
 | [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **19** | · | 15 | 98% | 2021-02-25 | 2026-06-11 |
-| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **17** | · | 11 | 63% | 2021-04-23 | 2026-04-22 |
+| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **17** | · | 11 | 65% | 2021-04-23 | 2026-04-22 |
 | [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **13** | · | 3 | 90% | 2022-04-19 | 2026-03-24 |
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **10** | · | 6 | 98% | 2017-01-03 | 2026-01-07 |
-| [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **10** | · | 5 | 74% | 2021-12-15 | 2024-03-13 |
-| [Bethel](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 4 | 54% | 2024-02-08 | 2024-11-14 |
+| [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **10** | · | 5 | 73% | 2021-12-15 | 2024-03-13 |
+| [Bethel](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 5 | 54% | 2024-02-08 | 2025-04-01 |
 | [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | **7** | 1 | 3 | 99% | 2026-03-05 | 2026-04-02 |
-| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **6** | 2 | 5 | 95% | 2020-07-20 | 2026-04-08 |
-| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **6** | 3 | 6 | 63% | 2018-10-24 | 2025-08-14 |
+| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **7** | 2 | 6 | 95% | 2020-07-20 | 2026-08-12 |
+| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **6** | 3 | 6 | 65% | 2018-10-24 | 2025-08-14 |
 | [Wethersfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 38% | 2022-04-19 | 2025-04-01 |
 | [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 78% | 2023-05-11 | 2024-09-12 |
-| [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 54% | 2026-04-14 | 2026-08-12 |
+| [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 93% | 2024-09-24 | 2026-03-31 |
+| [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 56% | 2026-04-14 | 2026-08-12 |
 | [Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/canaan/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 63% | 2025-06-06 | 2025-08-11 |
 | [East Hampton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 1 | 55% | 2021-03-27 | 2021-03-27 |
 | [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **3** | 1 | 3 | 46% | 2021-12-07 | 2026-04-21 |
 | [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 36% | 2024-01-13 | 2026-01-10 |
 | [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 85% | 2025-07-14 | 2025-12-15 |
-| [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 93% | 2024-09-24 | 2026-01-21 |
 | Beacon Falls ⁽ⁿᵖ⁾ | **2** | 2 | 2 | — | 2026-04-13 | 2026-07-13 |
 | [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 94% | 2025-08-04 | 2025-08-04 |
-| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 57% | 2025-08-14 | 2025-11-05 |
+| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 58% | 2025-08-14 | 2025-11-05 |
 | Franklin ⁽ⁿᵖ⁾ | **2** | 2 | 2 | — | 2026-01-20 | 2026-01-20 |
-| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 45% | 2020-11-18 | 2024-11-18 |
+| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 49% | 2020-11-18 | 2024-11-18 |
 | [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 96% | 2023-09-21 | 2023-09-21 |
 | [Norwich](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | **2** | 1 | 2 | 53% | 2024-04-09 | 2026-05-19 |
 | [Seymour](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 83% | 2021-01-08 | 2021-04-06 |
@@ -56,16 +56,17 @@ _No human review has been applied to any mention in this file._
 | [Ansonia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 96% | 2024-04-10 | 2024-04-10 |
 | Brooklyn ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-04-29 | 2026-04-29 |
 | Canton ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-06-01 | 2026-06-01 |
+| [Columbia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 44% | 2024-07-17 | 2024-07-17 |
 | [East Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2025-01-22 | 2025-01-22 |
 | [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 36% | 2024-05-16 | 2024-05-16 |
 | Essex ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-03-18 | 2026-03-18 |
 | [Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 99% | 2026-06-10 | 2026-06-10 |
-| [Mansfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 60% | 2026-05-28 | 2026-05-28 |
+| [Mansfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 62% | 2026-05-28 | 2026-05-28 |
 | [Naugatuck](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 58% | 2026-07-07 | 2026-07-07 |
 | [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 99% | 2025-06-26 | 2025-06-26 |
 | [Plymouth](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plymouth/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 37% | 2024-01-10 | 2024-01-10 |
 | [Rocky Hill](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 47% | 2024-03-18 | 2024-03-18 |
-| [Simsbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 38% | 2024-09-10 | 2024-09-10 |
+| [Simsbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 41% | 2024-09-10 | 2024-09-10 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -431,7 +432,11 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
   [Watch ▸](https://www.youtube.com/watch?v=kOUpHa8da8A&t=11248s)  _(term: `surveillance_general`)_
 
 
-### Bethel — 7 mentions
+### Bethel — 8 mentions
+
+- **[2025-04-01] Board of Selectmen** — Board of Selectmen Regular Meeting - 04/01/2025
+  > …but as long this is my only stipulation is that we have proper signage and super, you know, the uh, surveillance camera is directed right on that ballot box. Um and um you know it it's easier…
+  [Watch ▸](https://www.youtube.com/watch?v=CSwIjhB2LOc&t=365s)  _(term: `surveillance_general`)_
 
 - **[2024-11-14] Public Utilities Commission** — Public Utilities Commission Regular Meeting - 11/14/2024
   > …project is the sub Area 13 uh sanitary survey um all the tasks the cleaning the uh uh CCTV flow isolation manhole inspections are complete Weston and Samson's working on…
@@ -493,7 +498,11 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
   [Open document ▸](https://www.cromwellct.gov/AgendaCenter/ViewFile/Minutes/_03052026-310)  _(agenda/minutes · term: `surveillance_general`)_
 
 
-### East Lyme — 6 mentions
+### East Lyme — 7 mentions
+
+- **[2026-08-12] Board of Finance** — East Lyme, CT Board of Finance 08/12/2026
+  > …that's saying flock is like saying Xerox. Xerox is a copy machine, right? >> Flock is a is a u you know surveillance camera but it's a brand. Um but the issue is how long they stored the data,…
+  [Watch ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=451s)  _(term: `surveillance_general`)_
 
 - **[2026-04-08] Board of Finance** — East Lyme, CT Board of Finance 04/08/2026
   > …employees and and um patrons. But uh one of the prime um recommendations was to get CCTV in this building that was viewable by dispatch. So again, even with the system we have now, if it was…
@@ -589,6 +598,25 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
   [Watch ▸](https://www.youtube.com/watch?v=7FGjJKFq5jg&t=1069s)  _(term: `surveillance_general`)_
 
 
+### West Hartford — 4 mentions
+
+- **[2026-03-31] Public Safety Committee** — Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
+  > …and definitely within this town, you're on camera somewhere uh by someone's camera, whether it's surveillance camera, uh home camera, a business camera, whatever the case is. And you…
+  [Watch ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=4747s)  _(term: `surveillance_general`)_
+
+- **[2026-01-21] Community Planning and Economic Development Committee** — Community Planning & Economic Development Committee Virtual Meeting  - January 21, 2026
+  > …that's in this case sanitary sewer overflows. So we have a pro program set up where we do CCTV inspection of the sewers. We do manhole inspections. We clean the sewers. And then ideally, if…
+  [Watch ▸](https://www.youtube.com/watch?v=Ih4vo-P9-4M&t=4363s)  _(term: `surveillance_general`)_
+
+- **[2026-01-21] Community Planning and Economic Development Committee** — Community Planning & Economic Development Committee Virtual Meeting  - January 21, 2026
+  > …And then we have a crossount unit kind of like this little ATV shown here where we can get in there um and get CCTV equipment in there. So, we're not trying to like produce a road or anything. We…
+  [Watch ▸](https://www.youtube.com/watch?v=Ih4vo-P9-4M&t=4551s)  _(term: `surveillance_general`)_
+
+- **[2024-09-24] Community Planning and Economic Development Committee** — Special Community Planning & Economic Development Committee Virtual Meeting - September 24, 2024
+  > …times um the first step that the contractor does is to inspect the sewer they they put cameras in it they CCTV it they clean it they're looking to make sure one they agree that it is…
+  [Watch ▸](https://www.youtube.com/watch?v=J4mngQWnt30&t=1494s)  _(term: `surveillance_general`)_
+
+
 ### Bristol — 3 mentions
 
 - **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
@@ -677,21 +705,6 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
 - **[2025-07-14] Board of Aldermen** — Waterbury Board of Aldermen Meeting - July 14, 2025
   > …sanitary goes into the storm. But basically we're trying to we we see all this in the CCTV um cross connections and um propose…
   [Watch ▸](https://www.youtube.com/watch?v=23AfCrh3ArQ&t=2962s)  _(term: `surveillance_general`)_
-
-
-### West Hartford — 3 mentions
-
-- **[2026-01-21] Community Planning and Economic Development Committee** — Community Planning & Economic Development Committee Virtual Meeting  - January 21, 2026
-  > …that's in this case sanitary sewer overflows. So we have a pro program set up where we do CCTV inspection of the sewers. We do manhole inspections. We clean the sewers. And then ideally, if…
-  [Watch ▸](https://www.youtube.com/watch?v=Ih4vo-P9-4M&t=4363s)  _(term: `surveillance_general`)_
-
-- **[2026-01-21] Community Planning and Economic Development Committee** — Community Planning & Economic Development Committee Virtual Meeting  - January 21, 2026
-  > …And then we have a crossount unit kind of like this little ATV shown here where we can get in there um and get CCTV equipment in there. So, we're not trying to like produce a road or anything. We…
-  [Watch ▸](https://www.youtube.com/watch?v=Ih4vo-P9-4M&t=4551s)  _(term: `surveillance_general`)_
-
-- **[2024-09-24] Community Planning and Economic Development Committee** — Special Community Planning & Economic Development Committee Virtual Meeting - September 24, 2024
-  > …times um the first step that the contractor does is to inspect the sewer they they put cameras in it they CCTV it they clean it they're looking to make sure one they agree that it is…
-  [Watch ▸](https://www.youtube.com/watch?v=J4mngQWnt30&t=1494s)  _(term: `surveillance_general`)_
 
 
 ### Beacon Falls — 2 mentions
@@ -823,6 +836,13 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
 - **[2026-06-01] (unassigned body)** — Water Pollution Control Authority Minutes - 2026-06-01
   > …ed 3.59 inches. Sandfilter #1 Vacuum Pump was replaced. The spare sandfilter pump is out for rebuild. Check valves at Town Bridge Pump Station were cleared of rag accumulation. Avon was CCTV’ing their sewer lines and reported a blockage between the Canton Secret Lake Flow Meter Station and the Avon interceptor sewer. Avon, Canton, and Simsbury met to clear the blockage,…
   [Open document ▸](https://www.townofcantonct.gov/AgendaCenter/ViewFile/Minutes/_06012026-594)  _(agenda/minutes · term: `surveillance_general`)_
+
+
+### Columbia — 1 mention
+
+- **[2024-07-17] Safety Committee** — Safety Committee Meeting 7/17/24
+  > …make terms and go through safely to be sure a r help out or maybe a surveillance camera hand people tickets out I don't I don't know ask you're…
+  [Watch ▸](https://www.youtube.com/watch?v=RVUMAPLRvyA&t=638s)  _(term: `surveillance_general`)_
 
 
 ### East Granby — 1 mention

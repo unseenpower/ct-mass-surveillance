@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **Brookfield**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **73 mentions** across **31 meetings**
+- **74 mentions** across **31 meetings**
 - **First mention:** 2020-10-08  |  **Most recent:** 2026-06-25
 - **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone, predictive_policing, surveillance_general
 - **Coverage:** 498 of 530 known Brookfield meetings transcribed (94%)
@@ -69,7 +69,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 8 | 4 | 2023-03-06 | 2026-05-14 |
-| body_camera | 16 | 6 | 2022-04-13 | 2026-03-17 |
+| body_camera | 17 | 6 | 2022-04-13 | 2026-03-17 |
 | doorbell_partnership | 3 | 3 | 2020-10-08 | 2023-10-12 |
 | drone | 43 | 18 | 2022-02-07 | 2026-06-25 |
 | predictive_policing | 1 | 1 | 2023-06-26 | 2023-06-26 |
@@ -316,6 +316,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `body_camera` [▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=271s)  > ...checking this. If I go into your apartment, does your neighbor have the right to request that body cam footage? I don't think so. >> Not in Not in a residential....
 
+- `body_camera` [▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=643s)  > ...guys in there because you got to block out kids faces. >> The only time I've had requests for body cam footage, if we have it, is for investigations and complaints,...
+
 - `body_camera` [▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=659s)  > ...When you go to do that next annual inspection, you've got the next year's body cam video. You don't but everything complies you can get rid of the year before is...
 
 - `drone` [▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=3156s)  > ...>> Yes. Um, and there was an increase with Pix 4D. >> Was that the software? Was it drone? >> That's the drone mapping software, but that's been We've haven't not increase....
@@ -397,8 +399,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=0UhZyrBqrvQ&t=4531s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-18] Board of Finance** -- 2026-03-18 Board of Finance Special Meeting
-  > ...for just quick for anyone who's listening, ALPR going forward is automatic license plate reader. So I'm just gonna So you go through the whole policy and there's an administrator that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=X7fcl0AseAk&t=3479s)  _(term: alpr_flock, unreviewed)_
+  > ...enforcement unit must implement a policy that meets or exceeds the requirements set forth in the ALPR model policy. And for just quick for anyone who's listening, ALPR going forward is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=X7fcl0AseAk&t=3471s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-18] Board of Finance** -- 2026-03-18 Board of Finance Special Meeting
   > ...>> Still fluid. Here's there is no way right now this data is the town's data. It is kept on flock servers. It is they somebody a rogue actor somewhere sends us a request that has the four pieces of...
@@ -409,8 +411,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=X7fcl0AseAk&t=3637s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-18] Board of Finance** -- 2026-03-18 Board of Finance Special Meeting
-  > ...enforcement unit must implement a policy that meets or exceeds the requirements set forth in the ALPR model policy. And for just quick for anyone who's listening, ALPR going forward is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=X7fcl0AseAk&t=3471s)  _(term: alpr_flock, unreviewed)_
+  > ...for just quick for anyone who's listening, ALPR going forward is automatic license plate reader. So I'm just gonna So you go through the whole policy and there's an administrator that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=X7fcl0AseAk&t=3479s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-18] Board of Finance** -- 2026-03-18 Board of Finance Special Meeting
   > ...set forth in the ALPR model policy. And for just quick for anyone who's listening, ALPR going forward is automatic license plate reader. So I'm just gonna So you go through the whole...
@@ -433,18 +435,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### body_camera
 
 - **[2026-03-17] Board of Finance** -- 2026-03-17 Board of Finance Special Meeting
-  > ...30,000. >> What's 18,000? >> The body cam. The body cam. Yeah, >> that's the oneear price for the body cam is 6,700....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NiwFqoeZDZw&t=7372s)  _(term: body_camera, unreviewed)_
-
-- **[2026-03-17] Board of Finance** -- 2026-03-17 Board of Finance Special Meeting
-  > ...>> Okay. Good. >> Because we agree on cyber security, the body cam, >> the body cam and the we all agreed on proactive. They're all proactive...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NiwFqoeZDZw&t=5318s)  _(term: body_camera, unreviewed)_
-
-- **[2026-03-17] Board of Finance** -- 2026-03-17 Board of Finance Special Meeting
-  > ...>> Because we agree on cyber security, the body cam, >> the body cam and the we all agreed on proactive. They're all proactive preventative....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NiwFqoeZDZw&t=5318s)  _(term: body_camera, unreviewed)_
-
-- **[2026-03-17] Board of Finance** -- 2026-03-17 Board of Finance Special Meeting
   > ...>> The body cam was already in though >> because it's an operating expense. >> The body cam was already in. >> It's not in our No, I think it's >> we already agreed the little one we've...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=NiwFqoeZDZw&t=7383s)  _(term: body_camera, unreviewed)_
 
@@ -453,28 +443,44 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=NiwFqoeZDZw&t=7375s)  _(term: body_camera, unreviewed)_
 
 - **[2026-03-17] Board of Finance** -- 2026-03-17 Board of Finance Special Meeting
+  > ...>> Because we agree on cyber security, the body cam, >> the body cam and the we all agreed on proactive. They're all proactive preventative....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NiwFqoeZDZw&t=5318s)  _(term: body_camera, unreviewed)_
+
+- **[2026-03-17] Board of Finance** -- 2026-03-17 Board of Finance Special Meeting
+  > ...>> Okay. Good. >> Because we agree on cyber security, the body cam, >> the body cam and the we all agreed on proactive. They're all proactive...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NiwFqoeZDZw&t=5318s)  _(term: body_camera, unreviewed)_
+
+- **[2026-03-17] Board of Finance** -- 2026-03-17 Board of Finance Special Meeting
   > ...>> that's the oneear price for the body cam is 6,700. >> The body cam was already in though >> because it's an operating expense. >> The body cam was already in....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=NiwFqoeZDZw&t=7379s)  _(term: body_camera, unreviewed)_
+
+- **[2026-03-17] Board of Finance** -- 2026-03-17 Board of Finance Special Meeting
+  > ...30,000. >> What's 18,000? >> The body cam. The body cam. Yeah, >> that's the oneear price for the body cam is 6,700....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NiwFqoeZDZw&t=7372s)  _(term: body_camera, unreviewed)_
 
 - **[2026-03-10] Board of Finance** -- 2026-03-10 Board of Finance Special Meeting
   > ...>> The the person we have working part-time is is really really good. >> The spire marshal with the body cam. >> Yeah, they would help that. Is that also going to need it support that?...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=MLNWJpQpK_Q&t=702s)  _(term: body_camera, unreviewed)_
 
 - **[2026-03-09] Board of Finance** -- 2026-03-09 Board of Finance Special Meeting
-  > ...checking this. If I go into your apartment, does your neighbor have the right to request that body cam footage? I don't think so. >> Not in Not in a residential....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=271s)  _(term: body_camera, unreviewed)_
+  > ...When you go to do that next annual inspection, you've got the next year's body cam video. You don't but everything complies you can get rid of the year before is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=659s)  _(term: body_camera, unreviewed)_
+
+- **[2026-03-09] Board of Finance** -- 2026-03-09 Board of Finance Special Meeting
+  > ...guys in there because you got to block out kids faces. >> The only time I've had requests for body cam footage, if we have it, is for investigations and complaints,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=643s)  _(term: body_camera, unreviewed)_
 
 - **[2026-03-09] Board of Finance** -- 2026-03-09 Board of Finance Special Meeting
   > ...are walking to people's apartments, right? >> You are putting a body cam on. We want to have those policies and procedures locked down. Who can see them? Can...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=5814s)  _(term: body_camera, unreviewed)_
 
 - **[2026-03-09] Board of Finance** -- 2026-03-09 Board of Finance Special Meeting
-  > ...When you go to do that next annual inspection, you've got the next year's body cam video. You don't but everything complies you can get rid of the year before is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=659s)  _(term: body_camera, unreviewed)_
-
-- **[2026-03-09] Board of Finance** -- 2026-03-09 Board of Finance Special Meeting
   > ...>> while we're deliberating, can he just call like New Milford who I know the fire marshall has the body cam and get a copy? He has >> done that and there new me's comfortable...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=5827s)  _(term: body_camera, unreviewed)_
+
+- **[2026-03-09] Board of Finance** -- 2026-03-09 Board of Finance Special Meeting
+  > ...checking this. If I go into your apartment, does your neighbor have the right to request that body cam footage? I don't think so. >> Not in Not in a residential....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=271s)  _(term: body_camera, unreviewed)_
 
 - **[2024-09-03] Board of Selectmen** -- 2024-09-03 Board of Selectmen Meeting
   > ...for uh body cam video it takes about an hour and a half to uh redact and edit every single half an hour of body cam video three or four police officers can show up at any one incident it is...
@@ -485,12 +491,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=3t0SoB2jrgA&t=2996s)  _(term: body_camera, unreviewed)_
 
 - **[2024-07-01] Board of Selectmen** -- 2024-07-01 Board of Selectmen Meeting
-  > ...of it you send it to them now most foi requests include body cam video the effort to uh redact body cam video video is much more arduous and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SWlqLs0ZnyQ&t=3378s)  _(term: body_camera, unreviewed)_
-
-- **[2024-07-01] Board of Selectmen** -- 2024-07-01 Board of Selectmen Meeting
   > ...requests include body cam video the effort to uh redact body cam video video is much more arduous and takes longer than it is to go on a piece...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=SWlqLs0ZnyQ&t=3381s)  _(term: body_camera, unreviewed)_
+
+- **[2024-07-01] Board of Selectmen** -- 2024-07-01 Board of Selectmen Meeting
+  > ...of it you send it to them now most foi requests include body cam video the effort to uh redact body cam video video is much more arduous and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SWlqLs0ZnyQ&t=3378s)  _(term: body_camera, unreviewed)_
 
 - **[2022-04-13] Board of Finance** -- 2022-04-13 Board of Finance Budget Meeting
   > ...i can't imagine it would be a much and it's you know not like a daily use it's not body cam data or anything like that um so i imagine it's minimal it's just a question that i think we didn't...
@@ -550,16 +556,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ttMujcKl0WA&t=1246s)  _(term: drone, unreviewed)_
 
 - **[2024-09-12] Zoning Commission** -- 2024-09-12 Zoning Commission Public Hearing
-  > ...respectfully suggest the answer may not be found outside of a window or in a security camera or in a drone flown overhead but rather look in the mirror I know we can be great neighbors...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5yT011xemBc&t=9841s)  _(term: drone, unreviewed)_
-
-- **[2024-09-12] Zoning Commission** -- 2024-09-12 Zoning Commission Public Hearing
   > ...cars knowing if we do reach 14 cars we be reported to the town with accompany barial drone photos and pictures as Commander I bring coffee and donuts to our meetings along with brief days...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5yT011xemBc&t=9078s)  _(term: drone, unreviewed)_
+
+- **[2024-09-12] Zoning Commission** -- 2024-09-12 Zoning Commission Public Hearing
+  > ...respectfully suggest the answer may not be found outside of a window or in a security camera or in a drone flown overhead but rather look in the mirror I know we can be great neighbors...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5yT011xemBc&t=9841s)  _(term: drone, unreviewed)_
 
 - **[2024-09-09] Inland Wetlands Commission** -- 2024-09-09 Inland Wetlands Commission
   > ...know uh this doesn't show that much uh there is a video on here this is a drone picture of the deposited material again it's it would be worth looking...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vXrbssk8P70&t=8938s)  _(term: drone, unreviewed)_
+
+- **[2024-09-09] Inland Wetlands Commission** -- 2024-09-09 Inland Wetlands Commission
+  > ...to support that the the 2019 picture shows you where the stream used to be I then have a drone photo from this month showing where the new stream location which which are these pictures you're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vXrbssk8P70&t=7382s)  _(term: drone, unreviewed)_
 
 - **[2024-09-09] Inland Wetlands Commission** -- 2024-09-09 Inland Wetlands Commission
   > ...in and out but they did move some of those themselves if you don't mind I do have the the drone images um so I don't know how many so this may be that picture that's in our...
@@ -569,9 +579,9 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...for me to share information on what the current conditions are if I had a photo I have I have photos I have Drone footage do you have a picture of here looking this way to your pile of rocks I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vXrbssk8P70&t=8551s)  _(term: drone, unreviewed)_
 
-- **[2024-09-09] Inland Wetlands Commission** -- 2024-09-09 Inland Wetlands Commission
-  > ...to support that the the 2019 picture shows you where the stream used to be I then have a drone photo from this month showing where the new stream location which which are these pictures you're...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vXrbssk8P70&t=7382s)  _(term: drone, unreviewed)_
+- **[2024-03-07] Board of Finance** -- 2024-03-07 Board of Finance Budget Meeting
+  > ...the uh the Drone was a uh I'll let I talked about that oh it's uh just to add another drone it's um not not an inexpensive one as you can see but uh certainly not the most expensive um but...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=0HKdBLOnkOs&t=3228s)  _(term: drone, unreviewed)_
 
 - **[2024-03-07] Board of Finance** -- 2024-03-07 Board of Finance Budget Meeting
   > ...sure if you want to just go through those Qui and make it bigger so don't the uh the Drone was a uh I'll let I talked about that oh it's uh just to add another drone it's um not not an...
@@ -580,10 +590,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2024-03-07] Board of Finance** -- 2024-03-07 Board of Finance Budget Meeting
   > ...support what was 5, 5,000 so it's not expensive well it's 5,000 for the Drone it's 5,000 for the software right $500 28 29,000 for everything you want right 23 635 and 5...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=0HKdBLOnkOs&t=3321s)  _(term: drone, unreviewed)_
-
-- **[2024-03-07] Board of Finance** -- 2024-03-07 Board of Finance Budget Meeting
-  > ...the uh the Drone was a uh I'll let I talked about that oh it's uh just to add another drone it's um not not an inexpensive one as you can see but uh certainly not the most expensive um but...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=0HKdBLOnkOs&t=3228s)  _(term: drone, unreviewed)_
 
 - **[2023-07-10] Zoning Board of Appeals** -- 2023-07-10 Zoning Board of Appeals
   > ...number one this quota was taken these photos were taken by a drone through with the Drone and he photoshopped in the area where that shed would sit in...
@@ -598,12 +604,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LttuotavKVY&t=3233s)  _(term: drone, unreviewed)_
 
 - **[2023-04-13] Zoning Commission** -- 2023-04-13 Zoning Commission Meeting
-  > ...people if he's not taking your photo there's a drone flying over your head and it's going to be hovering over you until you're so uncomfortable that you're...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LttuotavKVY&t=782s)  _(term: drone, unreviewed)_
-
-- **[2023-04-13] Zoning Commission** -- 2023-04-13 Zoning Commission Meeting
   > ...event is a member reserving the club for a party or picnic or a anniversary the last I think we have drone pictures actually of uh you saw you saw those drone...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LttuotavKVY&t=3230s)  _(term: drone, unreviewed)_
+
+- **[2023-04-13] Zoning Commission** -- 2023-04-13 Zoning Commission Meeting
+  > ...people if he's not taking your photo there's a drone flying over your head and it's going to be hovering over you until you're so uncomfortable that you're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LttuotavKVY&t=782s)  _(term: drone, unreviewed)_
 
 - **[2023-03-15] Board of Finance** -- 2023-03-15 Board of Finance Meeting
   > ...000. uh and then we put the we took I thought we took that drone out no we didn't okay there was a request for the dive team for 2700 for the Drone...
@@ -622,12 +628,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IRN6_qNKUps&t=3567s)  _(term: drone, unreviewed)_
 
 - **[2022-09-26] Inland Wetlands Commission** -- 2022-09-26 Inland Wetlands Commission Meeting
-  > ...overall this was prior to actually this is a drone shot I took it recently so I took that shot in April yeah okay but current this year yeah so you can...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pjgX1w0vhwk&t=3869s)  _(term: drone, unreviewed)_
-
-- **[2022-09-26] Inland Wetlands Commission** -- 2022-09-26 Inland Wetlands Commission Meeting
   > ...so we went over the site and I have some sign photographs because apparently Mr lucera is somewhat of a drone um Enthusiast so while we were there in fact you can see me and McCauley right...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=pjgX1w0vhwk&t=194s)  _(term: drone, unreviewed)_
+
+- **[2022-09-26] Inland Wetlands Commission** -- 2022-09-26 Inland Wetlands Commission Meeting
+  > ...overall this was prior to actually this is a drone shot I took it recently so I took that shot in April yeah okay but current this year yeah so you can...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pjgX1w0vhwk&t=3869s)  _(term: drone, unreviewed)_
 
 - **[2022-08-25] Zoning Commission** -- 2022-08-25 Zoning Commission Meeting
   > ...twenty five percent with the total impervious area would be 25 and allowed in this drone is 75 so we're way under that also what i've done...
@@ -666,20 +672,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=AW1CcljFvQs&t=6764s)  _(term: drone, unreviewed)_
 
 - **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
-  > ...but i think your biggest concern should be in the event that that drone malfunctions and hits a car or goes through a window...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=6745s)  _(term: drone, unreviewed)_
+  > ...five six figure five figures and and and i know i know that you know drone i mean drone pilots for instance there's full-time drum but i don't think we would need that but but what what's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=5639s)  _(term: drone, unreviewed)_
 
 - **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
   > ...old business there's none okay we are on to the police drone right now uh the board of selectmen approved this at...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=5482s)  _(term: drone, unreviewed)_
 
 - **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
-  > ...five six figure five figures and and and i know i know that you know drone i mean drone pilots for instance there's full-time drum but i don't think we would need that but but what what's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=5639s)  _(term: drone, unreviewed)_
+  > ...but i think your biggest concern should be in the event that that drone malfunctions and hits a car or goes through a window...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=6745s)  _(term: drone, unreviewed)_
 
 - **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
   > ...thank you uh you got a request in front of you tonight for uh from the police department for uh drone surveillance i think it's a great idea um i just want to make you aware of the fact that there...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=99s)  _(term: drone, unreviewed)_
+
+- **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
+  > ...you know these things the faa licenses obviously because they don't want the drone flying in airspace where there's aircraft they also have you know limitations on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=6763s)  _(term: drone, unreviewed)_
 
 - **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
   > ...services funds for the purchase of drones and other associated software and equipment to inaugurate the uas program within the police department as outlined in the memo dated january 5th...
@@ -688,10 +698,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
   > ...an faa license that has to be uh acquired by whoever's going to operate the drone but i think your biggest concern should be...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=6741s)  _(term: drone, unreviewed)_
-
-- **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
-  > ...you know these things the faa licenses obviously because they don't want the drone flying in airspace where there's aircraft they also have you know limitations on...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=6763s)  _(term: drone, unreviewed)_
 
 - **[2022-02-07] Board of Selectmen** -- 2022-02-07 Board of Selectmen Meeting
   > ...for the purchase of the drones and the other associated software and equipment to inaugurate the uas program within our brookfield police department oh second that...
@@ -874,6 +880,11 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -893,8 +904,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| brookfield_ct | streams | 2026-08-31 07:28:54.393151 | 669 |
-| brookfield_ct | videos | 2026-08-31 07:28:56.078218 | 100 |
+| brookfield_ct | streams | 2026-08-31 13:42:40.387106 | 669 |
+| brookfield_ct | videos | 2026-08-31 13:42:42.255551 | 100 |
 
 
 ## Registered meeting bodies
@@ -962,5 +973,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:08:41 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Brookfield"`_
+_Generated 2026-08-31T14:35:58 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Brookfield"`_
 

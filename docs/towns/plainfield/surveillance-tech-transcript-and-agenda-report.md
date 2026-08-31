@@ -5,10 +5,10 @@
 
 This report collects every mention of surveillance technology found in **Plainfield**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **15 mentions** across **13 meetings**
-- **First mention:** 2024-07-18  |  **Most recent:** 2026-04-08
+- **20 mentions** across **15 meetings**
+- **First mention:** 2024-03-27  |  **Most recent:** 2026-04-08
 - **Technologies discussed:** alpr, body_camera, drone
-- **Coverage:** 257 of 781 known Plainfield meetings transcribed (33%)
+- **Coverage:** 278 of 781 known Plainfield meetings transcribed (36%)
 - **Not the full history:** transcripts begin **2018-10-24**, but Plainfield's published video archive goes back to **2017-11-13**. Meetings before 2018 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -69,13 +69,22 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 1 | 1 | 2024-09-10 | 2024-09-10 |
-| body_camera | 4 | 3 | 2025-08-06 | 2026-03-26 |
+| body_camera | 9 | 5 | 2024-03-27 | 2026-03-26 |
 | drone | 10 | 9 | 2024-07-18 | 2026-04-08 |
 
 
 ## Timeline
 
-13 meetings surfaced a finding (13 dated, spanning 2024-07-18 to 2026-04-08; 0 of unknown date, listed last).
+15 meetings surfaced a finding (15 dated, spanning 2024-03-27 to 2026-04-08; 0 of unknown date, listed last).
+
+
+### 2024-03-27 -- Board of Finance
+
+**March 27, 2024 Board of Finance** _(topics: body_camera)_
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=Dwy_C2AZy8M&t=435s)  > ...lawyer the court uh we have to make discs we have to make copies not only that they have to take and watch body cam footage one to one so what that means is that person has to literally...
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=Dwy_C2AZy8M&t=1581s)  > ...what he's doing he's sitting down and he's writing a police report and in conjunction he's taking his body worn camera footage and that gets recorded into the system and he has to actually...
 
 
 ### 2024-07-18 -- Economic Development Commission
@@ -122,6 +131,15 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `drone` [▸](https://www.youtube.com/watch?v=Ns7H2i8Ywho&t=1672s)  > ...that we have. Um, they'll attend celebrate Cleanfield Day. They will see photos, drone footage, and go around with their cameras and take videos of everything. They will post them either...
 
 
+### 2025-03-26 -- Board of Finance
+
+**March 26, 2025 Board of Finance** _(topics: body_camera)_
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=SAcoI62SjgY&t=578s)  > ...with that body warn camera and watch it second by second by second and redact certain information. So if the body worn camera is an hour long, she's sitting there for at least an hour going through...
+
+- `body_camera` [▸](https://www.youtube.com/watch?v=SAcoI62SjgY&t=2188s)  > ...Mr. Domingue. Um it really depends on what that technology is that they need training on. For instance, body worn camera. They are required by law to have so many hours of training on bodywn and...
+
+
 ### 2025-06-12 -- Economic Development Commission
 
 **June 12, 2025 Economic Development Commission** _(topics: drone)_
@@ -165,6 +183,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `body_camera` [▸](https://www.youtube.com/watch?v=w6sAAW2-JlM&t=1318s)  > ...You will be surprised that when we sit and meet with complainants and we watch the body cam footage, you actually will have people sit there and go, "Well, that's not me."...
 
+- `body_camera` [▸](https://www.youtube.com/watch?v=w6sAAW2-JlM&t=1515s)  > ...scheduling, um she orders all the supplies, she does all the budgets, uh she redact body worn camera, all FOIA requests. Um this workload is not for one person. Um...
+
 
 ### 2026-04-08 -- Board of Finance
 
@@ -196,6 +216,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### body_camera
 
 - **[2026-03-26] Board of Finance** -- Plainfield Board of Finance Meeting – March 25 Live Stream
+  > ...scheduling, um she orders all the supplies, she does all the budgets, uh she redact body worn camera, all FOIA requests. Um this workload is not for one person. Um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w6sAAW2-JlM&t=1515s)  _(term: body_camera, unreviewed)_
+
+- **[2026-03-26] Board of Finance** -- Plainfield Board of Finance Meeting – March 25 Live Stream
   > ...You will be surprised that when we sit and meet with complainants and we watch the body cam footage, you actually will have people sit there and go, "Well, that's not me."...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=w6sAAW2-JlM&t=1318s)  _(term: body_camera, unreviewed)_
 
@@ -210,6 +234,22 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2025-08-06] Police Commission** -- August 6, 2025 Police Commission
   > ...go to the bathroom, unfortunately, without it being documented. sometimes with the body cam that they should leave out out, but they wearing a body cam, there's incar cams, uh there's 247 video...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=e206LvgwtxY&t=3275s)  _(term: body_camera, unreviewed)_
+
+- **[2025-03-26] Board of Finance** -- March 26, 2025 Board of Finance
+  > ...Mr. Domingue. Um it really depends on what that technology is that they need training on. For instance, body worn camera. They are required by law to have so many hours of training on bodywn and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SAcoI62SjgY&t=2188s)  _(term: body_camera, unreviewed)_
+
+- **[2025-03-26] Board of Finance** -- March 26, 2025 Board of Finance
+  > ...with that body warn camera and watch it second by second by second and redact certain information. So if the body worn camera is an hour long, she's sitting there for at least an hour going through...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SAcoI62SjgY&t=578s)  _(term: body_camera, unreviewed)_
+
+- **[2024-03-27] Board of Finance** -- March 27, 2024 Board of Finance
+  > ...what he's doing he's sitting down and he's writing a police report and in conjunction he's taking his body worn camera footage and that gets recorded into the system and he has to actually...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Dwy_C2AZy8M&t=1581s)  _(term: body_camera, unreviewed)_
+
+- **[2024-03-27] Board of Finance** -- March 27, 2024 Board of Finance
+  > ...lawyer the court uh we have to make discs we have to make copies not only that they have to take and watch body cam footage one to one so what that means is that person has to literally...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Dwy_C2AZy8M&t=435s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -439,11 +479,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 2
 - Active meeting bodies: 17
-- Videos registered: 781 (fetched: 257, no captions: 11)
+- Videos registered: 781 (fetched: 278, no captions: 15)
 - Date range covered: 2017-11-13 to 2026-08-25 (all 781 videos dated)
 
 
@@ -459,9 +504,9 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| plainfield_dtc | streams | 2026-08-31 07:39:53.262286 | 32 |
-| plainfield_dtc | videos | 2026-08-31 07:39:54.166704 | 26 |
-| plainfield_watchdog | videos | 2026-08-31 07:40:13.871470 | 880 |
+| plainfield_dtc | streams | 2026-08-31 14:21:23.247700 | 32 |
+| plainfield_dtc | videos | 2026-08-31 14:21:24.096688 | 26 |
+| plainfield_watchdog | videos | 2026-08-31 14:21:44.690134 | 880 |
 
 
 ## Registered meeting bodies
@@ -515,7 +560,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (11 shown, max 25)
+### Videos with no captions available (15 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
@@ -523,13 +568,17 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | March 9, 2026 Board of Selectmen | 2026-03-09 |
 | Plainfield June 16 2025 Budget Vote | 2025-06-16 |
 | June 2nd Budget Count | 2025-06-03 |
-| Plainfield  CT   Budget Vote - May 19th 2025 | 2025-05-19 |
 | Plainfield Budget Vote - May 19 2025 | 2025-05-19 |
+| Plainfield  CT   Budget Vote - May 19th 2025 | 2025-05-19 |
 | October 15, 2024 Board of Selectmen | 2024-10-15 |
 | October 10, 2024 Economic Development Commission | 2024-10-10 |
 | October 9, 2024 Board of Education | 2024-10-09 |
 | February 20, 2024 Inland/Wetlands Commission | 2024-02-20 |
 | January 2, 2024 Zoning Board of Appeals | 2024-01-02 |
+| December 20, 2023 Board of Finance | 2023-12-20 |
+| December 11, 2023 Board of Selectmen | 2023-12-11 |
+| November 14, 2023 Planning & Zoning Commission Meeting Part 2 | 2023-11-14 |
+| November 8, 2023 Zoning Board of Appeals | 2023-11-08 |
 
 
 ### Tabs never crawled
@@ -542,5 +591,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:17:00 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Plainfield"`_
+_Generated 2026-08-31T14:43:08 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Plainfield"`_
 

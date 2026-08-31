@@ -10,7 +10,7 @@ This report collects every mention of surveillance technology found in **Windsor
 - **Technologies discussed:** alpr, body_camera, drone
 - **Coverage:** 65 of 132 known Windsor meetings transcribed (49%)
 - **Still incomplete:** 67 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
-- **5 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
+- **6 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -285,6 +285,14 @@ FRIENDLY AMENDMENT TO MAIN MOTION
 Move to make a friendly amendment that the att...
   [View document ▸](https://www.windsorct.gov/AgendaCenter/ViewFile/Minutes/_01052026-1262)  _(term: alpr_flock, unreviewed)_
 
+- **[2026-02-02] Town Council** -- Town Council Minutes - 2026-02-02 (minutes)
+  > ...TOWN COUNCIL
+                  HYBRID MEETING – VIRTUAL AND IN-PERSON
+                              February 2, 2026
+                        Regular Town Council Meeting
+                             C...
+  [View document ▸](https://www.windsorct.gov/AgendaCenter/ViewFile/Minutes/_02022026-1264)  _(term: alpr_flock, unreviewed)_
+
 - **[2026-02-17] Town Council** -- Town Council Minutes - 2026-02-17 (minutes)
   > ...TIONS AND AWARDS - None
 
@@ -424,6 +432,11 @@ Outside of required training, his goal—and wha...
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
+### Why the counts rose on 2026-08-31
+
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+
+
 ## Coverage status
 
 - Channels registered: 1
@@ -443,8 +456,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| win_tv | streams | 2026-08-31 07:33:32.459381 | 166 |
-| win_tv | videos | 2026-08-31 07:33:56.102332 | 1905 |
+| win_tv | streams | 2026-08-31 13:47:25.623225 | 166 |
+| win_tv | videos | 2026-08-31 13:47:48.916139 | 1905 |
 
 
 ## Registered meeting bodies
@@ -467,7 +480,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 121 (fetched: 102)
+- Documents registered: 122 (fetched: 103)
 - Date range covered: 2026-01-05 to 2026-12-21
 
 
@@ -516,5 +529,5 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ---
 
 
-_Generated 2026-08-31T08:20:16 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Windsor"`_
+_Generated 2026-08-31T14:45:21 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Windsor"`_
 
