@@ -1,41 +1,66 @@
-# Surveillance-tech transcript report: South Windsor
+# Surveillance-tech report: South Windsor
 
 
-_Generated 2026-08-29T10:20:43 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "South Windsor"`_
+## At a glance: South Windsor
+
+This report collects every mention of surveillance technology found in **South Windsor**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **80 mentions** across **11 meetings**
+- **First mention:** 2021-09-21  |  **Most recent:** 2026-07-06
+- **Technologies discussed:** ai_data_fusion, alpr, body_camera, drone, predictive_policing
+- **Coverage:** 139 of 142 known South Windsor meetings transcribed (98%)
 
 
-## Coverage status
-
-- Channels registered: 2
-- Active meeting bodies: 2
-- Videos registered: 142 (fetched: 139, no captions: 3)
-- Date range covered: 2021-04-26 to 2026-07-20 (all 142 videos dated)
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| South Windsor Public Schools Livestream | south_windsor_public_schools | @SouthWindsorPublicSchools |
-| Town of South Windsor | town_of_south_windsor | @townofsouthwindsor6878 |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| south_windsor_public_schools | streams | 2026-08-29 08:26:57.538192 | 6 |
-| south_windsor_public_schools | videos | 2026-08-29 08:26:58.268627 | 2 |
-| town_of_south_windsor | streams | 2026-08-29 09:11:04.676977 | 323 |
-| town_of_south_windsor | videos | 2026-08-29 09:11:05.561773 | 21 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-## Registered meeting bodies
+## Get the full transcripts
 
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Town Council | council | True | 135 |
-| Board of Education | education | True | 7 |
+**[Download South Windsor's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/south-windsor-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip south-windsor-meeting-transcripts.zip -d south-windsor
+cd south-windsor
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -682,21 +707,6 @@ _Generated 2026-08-29T10:20:43 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 2
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| south_windsor_boe_swagit | custom | https://southwindsorschools.new.swagit.com/ | unconfirmed |
-| south_windsor_custom | custom | https://www.southwindsor-ct.gov/town-council/pages/all-town-council-meeting-agendas | unconfirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -800,6 +810,61 @@ _Generated 2026-08-29T10:20:43 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 2
+- Active meeting bodies: 2
+- Videos registered: 142 (fetched: 139, no captions: 3)
+- Date range covered: 2021-04-26 to 2026-07-20 (all 142 videos dated)
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| South Windsor Public Schools Livestream | south_windsor_public_schools | @SouthWindsorPublicSchools |
+| Town of South Windsor | town_of_south_windsor | @townofsouthwindsor6878 |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| south_windsor_public_schools | streams | 2026-08-31 07:14:00.449627 | 6 |
+| south_windsor_public_schools | videos | 2026-08-31 07:14:01.107588 | 2 |
+| town_of_south_windsor | streams | 2026-08-31 07:24:46.364680 | 323 |
+| town_of_south_windsor | videos | 2026-08-31 07:24:47.286699 | 21 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Town Council | council | True | 135 |
+| Board of Education | education | True | 7 |
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 2
+- Documents registered: 0 (fetched: 0)
+- Date range covered: *no agenda document on file carries a parseable date yet*
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| south_windsor_boe_swagit | custom | https://southwindsorschools.new.swagit.com/ | unconfirmed |
+| south_windsor_custom | custom | https://www.southwindsor-ct.gov/town-council/pages/all-town-council-meeting-agendas | unconfirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -826,4 +891,10 @@ _Generated 2026-08-29T10:20:43 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:18:18 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "South Windsor"`_
 

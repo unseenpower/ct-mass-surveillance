@@ -1,6 +1,6 @@
 # ALPR / Flock: every mention, every town
 
-_Generated 2026-08-29T12:29:03 — 1,441 mentions across 66 towns, 2013-07-24 to 2026-08-24._
+_Generated 2026-08-31T08:48:30 — 1,685 mentions across 72 towns, 2013-07-24 to 2026-08-24._
 
 
 Automated licence-plate readers — cameras that photograph every passing vehicle, read its plate, and log the time and place. Flock Safety is the dominant vendor in Connecticut.
@@ -24,71 +24,77 @@ _No human review has been applied to any mention in this file._
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **176** | · | 8 | 99% | 2020-01-07 | 2026-08-13 |
-| Berlin ⁽ⁿᵖ⁾ | **173** | · | 32 | 78% | 2022-03-02 | 2026-08-17 |
+| [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **173** | · | 32 | 78% | 2022-03-02 | 2026-08-17 |
 | [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **160** | 2 | 10 | 95% | 2022-06-06 | 2026-08-03 |
+| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **93** | 11 | 25 | 95% | 2020-05-20 | 2026-08-12 |
 | [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **91** | · | 20 | 98% | 2022-05-26 | 2026-08-06 |
-| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **86** | 11 | 24 | 95% | 2020-05-20 | 2026-08-10 |
 | [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | **72** | · | 8 | 98% | 2021-09-21 | 2026-07-06 |
 | [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **62** | · | 18 | 93% | 2019-05-07 | 2026-08-04 |
-| North Stonington ⁽ⁿᵖ⁾ | **59** | 8 | 23 | 43% | 2025-02-04 | 2026-03-30 |
+| [North Stonington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-stonington/surveillance-tech-transcript-and-agenda-report.md) | **59** | 8 | 23 | 43% | 2025-02-04 | 2026-03-30 |
+| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **54** | · | 21 | 66% | 2022-11-15 | 2026-07-07 |
+| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **52** | · | 21 | 50% | 2023-02-21 | 2026-06-18 |
 | [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **52** | · | 11 | 97% | 2023-07-10 | 2026-05-11 |
-| Cheshire ⁽ⁿᵖ⁾ | **32** | · | 6 | 46% | 2022-03-29 | 2026-08-04 |
-| East Hampton ⁽ⁿᵖ⁾ | **28** | 1 | 6 | 55% | 2024-03-21 | 2026-03-24 |
+| [Cheshire](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | **32** | · | 6 | 46% | 2022-03-29 | 2026-08-04 |
+| [Seymour](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **32** | · | 26 | 83% | 2015-06-03 | 2026-02-09 |
+| [Mansfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **31** | 1 | 12 | 60% | 2023-05-31 | 2026-08-10 |
+| [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **29** | 2 | 11 | 74% | 2021-10-20 | 2026-06-23 |
+| [East Hampton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | **28** | 1 | 6 | 55% | 2024-03-21 | 2026-03-24 |
+| [Bethel](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | **27** | · | 8 | 54% | 2023-02-21 | 2026-02-17 |
+| [Farmington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | **26** | · | 7 | 35% | 2025-01-13 | 2026-03-12 |
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **25** | · | 15 | 98% | 2014-03-20 | 2026-07-27 |
-| Newington ⁽ⁿᵖ⁾ | **25** | 2 | 7 | 59% | 2025-03-11 | 2026-06-23 |
-| Bethel ⁽ⁿᵖ⁾ | **24** | · | 5 | 38% | 2024-05-28 | 2026-02-17 |
-| Norwich ⁽ⁿᵖ⁾ | **23** | · | 2 | 53% | 2026-07-20 | 2026-08-17 |
-| Darien ⁽ⁿᵖ⁾ | **22** | · | 15 | 33% | 2024-01-29 | 2026-06-18 |
-| Columbia ⁽ⁿᵖ⁾ | **21** | · | 8 | 44% | 2025-09-03 | 2026-08-04 |
-| New Canaan ⁽ⁿᵖ⁾ | **21** | · | 6 | 29% | 2026-01-20 | 2026-07-07 |
-| Clinton ⁽ⁿᵖ⁾ | **20** | · | 7 | 20% | 2025-09-03 | 2026-04-15 |
-| Rocky Hill ⁽ⁿᵖ⁾ | **18** | · | 8 | 47% | 2024-03-04 | 2026-08-18 |
-| Simsbury ⁽ⁿᵖ⁾ | **15** | 1 | 10 | 22% | 2024-06-10 | 2026-08-10 |
-| Killingworth ⁽ⁿᵖ⁾ | **14** | · | 10 | 71% | 2025-01-09 | 2026-07-27 |
-| Farmington ⁽ⁿᵖ⁾ | **13** | · | 4 | 38% | 2025-01-13 | 2026-03-12 |
-| Guilford ⁽ⁿᵖ⁾ | **12** | · | 6 | 22% | 2024-10-21 | 2026-01-28 |
-| Killingly ⁽ⁿᵖ⁾ | **12** | · | 6 | 64% | 2025-03-04 | 2026-08-11 |
-| Windsor ⁽ⁿᵖ⁾ | **11** | 4 | 9 | 49% | 2024-12-17 | 2026-07-06 |
+| [Clinton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/clinton/surveillance-tech-transcript-and-agenda-report.md) | **24** | 4 | 11 | 20% | 2025-09-03 | 2026-04-15 |
+| [Norwich](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | **23** | · | 2 | 53% | 2026-07-20 | 2026-08-17 |
+| [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **21** | · | 5 | 54% | 2026-04-14 | 2026-08-12 |
+| [Columbia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | **21** | · | 8 | 44% | 2025-09-03 | 2026-08-04 |
+| [Simsbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | **21** | 1 | 15 | 38% | 2022-10-26 | 2026-08-10 |
+| [Old Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | **20** | 1 | 9 | 40% | 2025-01-06 | 2026-08-11 |
+| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **19** | · | 11 | 45% | 2016-10-10 | 2026-01-28 |
+| [Rocky Hill](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | **18** | · | 8 | 47% | 2024-03-04 | 2026-08-18 |
+| [Waterford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | **18** | 1 | 6 | 42% | 2026-03-23 | 2026-08-19 |
+| [Killingworth](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingworth/surveillance-tech-transcript-and-agenda-report.md) | **14** | · | 10 | 71% | 2025-01-09 | 2026-07-27 |
+| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **12** | · | 4 | 57% | 2023-11-30 | 2025-12-02 |
+| [Killingly](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | **12** | · | 6 | 64% | 2025-03-04 | 2026-08-11 |
+| [Watertown](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | **12** | · | 6 | 78% | 2022-02-23 | 2026-08-17 |
+| [Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | **11** | 4 | 9 | 49% | 2024-12-17 | 2026-07-06 |
 | [Bridgeport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | **10** | · | 2 | 90% | 2026-01-20 | 2026-02-05 |
-| New Milford ⁽ⁿᵖ⁾ | **10** | · | 1 | 39% | 2026-08-24 | 2026-08-24 |
-| Bethany ⁽ⁿᵖ⁾ | **9** | · | 3 | 70% | 2026-02-10 | 2026-08-19 |
-| Lebanon ⁽ⁿᵖ⁾ | **9** | · | 2 | 83% | 2024-10-08 | 2026-08-11 |
-| Stonington ⁽ⁿᵖ⁾ | **9** | · | 4 | 70% | 2021-03-11 | 2026-03-30 |
+| [New Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **10** | · | 1 | 39% | 2026-08-24 | 2026-08-24 |
+| [Bethany](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | **9** | · | 3 | 70% | 2026-02-10 | 2026-08-19 |
+| [Lebanon](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/lebanon/surveillance-tech-transcript-and-agenda-report.md) | **9** | · | 2 | 83% | 2024-10-08 | 2026-08-11 |
+| [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **9** | 1 | 7 | 46% | 2021-06-15 | 2026-02-17 |
+| [Stonington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/stonington/surveillance-tech-transcript-and-agenda-report.md) | **9** | · | 4 | 70% | 2021-03-11 | 2026-03-30 |
 | [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **9** | · | 9 | 90% | 2017-11-27 | 2023-04-11 |
 | [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 4 | 94% | 2023-03-06 | 2026-05-14 |
-| North Haven ⁽ⁿᵖ⁾ | **8** | · | 1 | 36% | 2026-02-25 | 2026-02-25 |
+| [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 1 | 36% | 2026-02-25 | 2026-02-25 |
 | [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 7 | 96% | 2023-03-21 | 2026-04-22 |
-| North Branford ⁽ⁿᵖ⁾ | **7** | 1 | 5 | 29% | 2024-10-17 | 2026-02-17 |
 | Beacon Falls ⁽ⁿᵖ⁾ | **6** | 6 | 5 | — | 2026-01-12 | 2026-08-10 |
-| Deep River ⁽ⁿᵖ⁾ | **6** | · | 2 | 32% | 2024-12-12 | 2025-01-14 |
-| Granby ⁽ⁿᵖ⁾ | **6** | · | 2 | 71% | 2026-01-05 | 2026-08-03 |
-| Mansfield ⁽ⁿᵖ⁾ | **6** | 1 | 4 | 28% | 2025-11-06 | 2026-08-10 |
+| [Deep River](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/deep-river/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 2 | 32% | 2024-12-12 | 2025-01-14 |
+| [Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/granby/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 2 | 99% | 2026-01-05 | 2026-08-03 |
 | [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 6 | 91% | 2020-11-12 | 2026-04-21 |
-| Old Lyme ⁽ⁿᵖ⁾ | **6** | 1 | 4 | 40% | 2026-03-05 | 2026-08-11 |
-| Seymour ⁽ⁿᵖ⁾ | **6** | · | 5 | 75% | 2020-09-02 | 2026-02-09 |
-| Watertown ⁽ⁿᵖ⁾ | **6** | · | 3 | 71% | 2025-06-11 | 2026-08-17 |
-| East Windsor ⁽ⁿᵖ⁾ | **5** | · | 4 | 36% | 2024-05-16 | 2026-06-04 |
+| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 36% | 2024-05-16 | 2026-06-04 |
+| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 2 | 63% | 2022-04-08 | 2022-07-14 |
 | [Griswold](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/griswold/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 1 | 86% | 2025-11-26 | 2025-11-26 |
-| [Old Saybrook](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 99% | 2026-05-18 | 2026-08-24 |
+| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **4** | 4 | 4 | 63% | 2019-12-11 | 2023-10-25 |
+| [Old Saybrook](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 99% | 2025-03-24 | 2026-08-24 |
+| [East Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 97% | 2015-02-27 | 2026-05-27 |
 | [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 85% | 2019-11-18 | 2024-05-15 |
+| [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 67% | 2024-06-20 | 2025-05-13 |
 | [Ansonia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 96% | 2022-06-23 | 2022-12-14 |
-| Coventry ⁽ⁿᵖ⁾ | **2** | 2 | 2 | 25% | 2026-08-17 | 2026-08-17 |
-| East Granby ⁽ⁿᵖ⁾ | **2** | · | 2 | 71% | 2026-04-22 | 2026-05-27 |
-| Ellington ⁽ⁿᵖ⁾ | **2** | · | 2 | 36% | 2023-09-28 | 2024-06-12 |
-| Monroe ⁽ⁿᵖ⁾ | **2** | · | 2 | 23% | 2025-03-24 | 2025-04-28 |
-| Naugatuck ⁽ⁿᵖ⁾ | **2** | · | 2 | 58% | 2025-12-18 | 2026-08-03 |
-| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 95% | 2022-11-09 | 2023-10-25 |
-| Ashford ⁽ⁿᵖ⁾ | **1** | · | 1 | 33% | 2024-12-09 | 2024-12-09 |
-| Bolton ⁽ⁿᵖ⁾ | **1** | · | 1 | 37% | 2024-05-09 | 2024-05-09 |
+| [Coventry](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/coventry/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 26% | 2026-08-17 | 2026-08-17 |
+| [Ellington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ellington/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 36% | 2023-09-28 | 2024-06-12 |
+| [Monroe](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 46% | 2025-03-24 | 2025-04-28 |
+| [Naugatuck](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 58% | 2025-12-18 | 2026-08-03 |
+| [Ashford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 33% | 2024-12-09 | 2024-12-09 |
+| [Bolton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bolton/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 37% | 2024-05-09 | 2024-05-09 |
 | Bozrah ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-07-02 | 2026-07-02 |
-| Cornwall ⁽ⁿᵖ⁾ | **1** | · | 1 | 22% | 2024-01-23 | 2024-01-23 |
+| [Cornwall](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cornwall/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 22% | 2024-01-23 | 2024-01-23 |
 | [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 99% | 2026-08-12 | 2026-08-12 |
-| Kent ⁽ⁿᵖ⁾ | **1** | · | 1 | 39% | 2026-08-04 | 2026-08-04 |
+| [Kent](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 55% | 2026-08-04 | 2026-08-04 |
 | [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 93% | 2013-07-24 | 2013-07-24 |
 | Middlebury ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-06-08 | 2026-06-08 |
-| Plainville ⁽ⁿᵖ⁾ | **1** | · | 1 | 33% | 2026-03-10 | 2026-03-10 |
-| Portland ⁽ⁿᵖ⁾ | **1** | · | 1 | 29% | 2026-02-18 | 2026-02-18 |
-| Waterford ⁽ⁿᵖ⁾ | **1** | 1 | 1 | 42% | 2026-03-23 | 2026-03-23 |
+| [Plainfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 33% | 2024-09-10 | 2024-09-10 |
+| [Plainville](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainville/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 33% | 2026-03-10 | 2026-03-10 |
+| [Portland](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/portland/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 29% | 2026-02-18 | 2026-02-18 |
+| [Wethersfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 38% | 2023-03-21 | 2023-03-21 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -203,7 +209,7 @@ _164 further mentions in Orange not shown here — all of them are in [Orange's 
   [Watch ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3427s)  _(term: `alpr_flock`)_
 
 
-_161 further mentions in Berlin not shown here — all of them are in Berlin's full report (not yet published)._
+_161 further mentions in Berlin not shown here — all of them are in [Berlin's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Milford — 160 mentions
@@ -260,6 +266,60 @@ _161 further mentions in Berlin not shown here — all of them are in Berlin's f
 _148 further mentions in Milford not shown here — all of them are in [Milford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
+### East Lyme — 93 mentions
+
+- **[2026-08-12] Board of Finance** — East Lyme, CT Board of Finance 08/12/2026
+  > …of things. Um yesterday, uh you know, there's been a lot of discussion about flock cameras and al uh PR ALP, yeah, automatic license plate, ALPR, uh…
+  [Watch ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=140s)  _(term: `alpr_flock`)_
+
+- **[2026-08-12] Board of Finance** — East Lyme, CT Board of Finance 08/12/2026
+  > …lot of discussion about flock cameras and al uh PR ALP, yeah, automatic license plate, ALPR, uh devices. and I went to a seminar out in Milford and it was very well attended.…
+  [Watch ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=148s)  _(term: `alpr_flock`)_
+
+- **[2026-08-12] Board of Finance** — East Lyme, CT Board of Finance 08/12/2026
+  > …>> So, right now they're still moving forward. So, there's an important distinction between the flock cameras and the speed cameras and um they're vastly different when you start getting…
+  [Watch ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=372s)  _(term: `alpr_flock`)_
+
+- **[2026-08-12] Board of Finance** — East Lyme, CT Board of Finance 08/12/2026
+  > …two types of surveillance. There are the speed cameras and then there are the the flock system and they are separate and distinct as far as I understand. >> Yes. And what's distinct is the the…
+  [Watch ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=430s)  _(term: `alpr_flock`)_
+
+- **[2026-08-12] Board of Finance** — East Lyme, CT Board of Finance 08/12/2026
+  > …nature of how they the length of time they store the data and the data itself. Uh a flock camera as I understand it and that's saying flock is like saying Xerox. Xerox is a copy machine, right?…
+  [Watch ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=444s)  _(term: `alpr_flock`)_
+
+- **[2026-08-12] Board of Finance** — East Lyme, CT Board of Finance 08/12/2026
+  > …they store the data and the data itself. Uh a flock camera as I understand it and that's saying flock is like saying Xerox. Xerox is a copy machine, right? >> Flock is a is a u you know surveillance…
+  [Watch ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=446s)  _(term: `alpr_flock`)_
+
+- **[2026-08-12] Board of Finance** — East Lyme, CT Board of Finance 08/12/2026
+  > …that's saying flock is like saying Xerox. Xerox is a copy machine, right? >> Flock is a is a u you know surveillance camera but it's a brand. Um but the issue is how long they stored the data,…
+  [Watch ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=451s)  _(term: `alpr_flock`)_
+
+- **[2026-08-10] Board of Education** — Board of Education: August 10th, 2026
+  > …next time through and things like that. So that's I think the Fairfield kind of a flock cameras. >> Do we have any any scam? >> We do. Uh, we have four from what I…
+  [Watch ▸](https://www.youtube.com/watch?v=tIPDN37mFKo&t=305s)  _(term: `alpr_flock`)_
+
+- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
+  > …tonight because when I was visiting my son Jesse in Manhattan, he pointed out the flock cameras to me and we pulled up the website and saw where they are in East Lime. Shortly thereafter, I noticed…
+  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=132s)  _(term: `alpr_flock`)_
+
+- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
+  > …>> Good evening. My name is Alex Manoring, 20 Old Blackpoint Road, and I would also like to speak on the topic of the flock safety cameras. I understand these cameras can be a very useful…
+  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=167s)  _(term: `alpr_flock`)_
+
+- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
+  > …the country, there have been numerous documented cases of officers improperly accessing license plate reader systems for personal reasons outside of the scope of legitimate investigations. So,…
+  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=188s)  _(term: `alpr_flock`)_
+
+- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
+  > …data retention policy public as well as the findings of those audits public and the overall flock use policy? Because I think technology that can track the movements of thousands of law-abiding…
+  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=233s)  _(term: `alpr_flock`)_
+
+
+_81 further mentions in East Lyme not shown here — all of them are in [East Lyme's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md)._
+
+
 ### Norwalk — 91 mentions
 
 - **[2026-08-06] Economic and Community Development Committee** — Economic and Community Development Committee 08-06-2026
@@ -312,60 +372,6 @@ _148 further mentions in Milford not shown here — all of them are in [Milford'
 
 
 _79 further mentions in Norwalk not shown here — all of them are in [Norwalk's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md)._
-
-
-### East Lyme — 86 mentions
-
-- **[2026-08-10] Board of Education** — Board of Education: August 10th, 2026
-  > …next time through and things like that. So that's I think the Fairfield kind of a flock cameras. >> Do we have any any scam? >> We do. Uh, we have four from what I…
-  [Watch ▸](https://www.youtube.com/watch?v=tIPDN37mFKo&t=305s)  _(term: `alpr_flock`)_
-
-- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
-  > …tonight because when I was visiting my son Jesse in Manhattan, he pointed out the flock cameras to me and we pulled up the website and saw where they are in East Lime. Shortly thereafter, I noticed…
-  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=132s)  _(term: `alpr_flock`)_
-
-- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
-  > …>> Good evening. My name is Alex Manoring, 20 Old Blackpoint Road, and I would also like to speak on the topic of the flock safety cameras. I understand these cameras can be a very useful…
-  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=167s)  _(term: `alpr_flock`)_
-
-- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
-  > …the country, there have been numerous documented cases of officers improperly accessing license plate reader systems for personal reasons outside of the scope of legitimate investigations. So,…
-  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=188s)  _(term: `alpr_flock`)_
-
-- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
-  > …data retention policy public as well as the findings of those audits public and the overall flock use policy? Because I think technology that can track the movements of thousands of law-abiding…
-  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=233s)  _(term: `alpr_flock`)_
-
-- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
-  > …Um, uh, gosh, I I will say I'm also against flock, which is why I'm here today. I just, um, I've been noticing it popping around. Um, I' I think there's one near…
-  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=264s)  _(term: `alpr_flock`)_
-
-- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
-  > …there's been a lot of stories about, as we've just heard, um, people accessing flock cameras and using it for not such great deeds. We've had there's there's a scenario going around online where a new…
-  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=278s)  _(term: `alpr_flock`)_
-
-- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
-  > …scenario going around online where a new story broke where, um, a woman was tracked across state lines using Flock cameras uh, to see where she got an abortion um, and, you know, how she went…
-  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=289s)  _(term: `alpr_flock`)_
-
-- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
-  > …today. In addition to any of the other surveillance technology that's out there uh including but not limited to flock. There's other things, Axon, um, all sorts of different new WHAM,…
-  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=350s)  _(term: `alpr_flock`)_
-
-- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
-  > …>> I would be more than happy to do that. Um, and then turning more towards the the flock, which I think a lot of people are here to discuss, which are even worse than the speed cameras by far. Um,…
-  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=451s)  _(term: `alpr_flock`)_
-
-- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
-  > …hit the highlights maybe. Um, you know, I think, um, one of the big questions with these flock cameras is are they actually even legal, especially under the recent Supreme Court president? Um,…
-  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=505s)  _(term: `alpr_flock`)_
-
-- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
-  > …bit um disingenuous. Um, and that was exposed when when it was discovered that Flock was essentially giving these handbooks out to police departments, basically telling them how to…
-  [Watch ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=654s)  _(term: `alpr_flock`)_
-
-
-_74 further mentions in East Lyme not shown here — all of them are in [East Lyme's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### South Windsor — 72 mentions
@@ -527,7 +533,115 @@ _50 further mentions in West Hartford not shown here — all of them are in [Wes
   [Watch ▸](https://www.youtube.com/watch?v=95SPBfNh6LQ&t=274s)  _(term: `alpr_flock`)_
 
 
-_47 further mentions in North Stonington not shown here — all of them are in North Stonington's full report (not yet published)._
+_47 further mentions in North Stonington not shown here — all of them are in [North Stonington's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-stonington/surveillance-tech-transcript-and-agenda-report.md)._
+
+
+### New Canaan — 54 mentions
+
+- **[2026-07-07] Board of Selectmen** — Board of Selectmen Meeting July 7, 2026
+  > …>> So move. >> Second. >> It's unanimous. And then Flock Safety. >> Next up is our renewal of our annual agreement with Flock Safety in the…
+  [Watch ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=1981s)  _(term: `alpr_flock`)_
+
+- **[2026-07-07] Board of Selectmen** — Board of Selectmen Meeting July 7, 2026
+  > …>> It's unanimous. And then Flock Safety. >> Next up is our renewal of our annual agreement with Flock Safety in the amount of 67,500. >> And does this is I don't know what I…
+  [Watch ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=1987s)  _(term: `alpr_flock`)_
+
+- **[2026-07-07] Board of Selectmen** — Board of Selectmen Meeting July 7, 2026
+  > …>> And does this is I don't know what I can't remember what we paid last year to Flock. Is this for the same number of cameras? Are we adding is this? >> We have added a few. Um, so it's it's…
+  [Watch ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=1997s)  _(term: `alpr_flock`)_
+
+- **[2026-07-07] Board of Selectmen** — Board of Selectmen Meeting July 7, 2026
+  > …there's no access from outside from? >> It's actually cloud-based, but we only have access to it. So Flock doesn't have access to it. We actually own the data. We're the only ones that can have access…
+  [Watch ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=2112s)  _(term: `alpr_flock`)_
+
+- **[2026-07-07] Board of Selectmen** — Board of Selectmen Meeting July 7, 2026
+  > …approve a request from the New Kingdom Police Department to renew the annual agreement with Flock Safety in the amount of $67,500 for license plate readers and cameras.…
+  [Watch ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=2180s)  _(term: `alpr_flock`)_
+
+- **[2026-04-16] Police Commission** — Police Commission Meeting April 16, 2026
+  > …and firearms training and also license plate readers. We are going to table the license plate reader policy for now because the state legislature is currently reviewing it…
+  [Watch ▸](https://www.youtube.com/watch?v=cbw-e9czFRU&t=304s)  _(term: `alpr_flock`)_
+
+- **[2026-03-26] Town Council** — Town Council Meeting March 26, 2026
+  > …Are you using or what platform do you use if you use any for license plate readers? Is it flock? >> We use Yes, we we have a contract with flock and…
+  [Watch ▸](https://www.youtube.com/watch?v=YjFYAH-JuFQ&t=4596s)  _(term: `alpr_flock`)_
+
+- **[2026-03-26] Town Council** — Town Council Meeting March 26, 2026
+  > …readers? Is it flock? >> We use Yes, we we have a contract with flock and >> is that being shared? >> It it's we we follow uh the state law,…
+  [Watch ▸](https://www.youtube.com/watch?v=YjFYAH-JuFQ&t=4600s)  _(term: `alpr_flock`)_
+
+- **[2026-02-10] Board of Finance** — Board of Finance Meeting February 10, 2026
+  > …um body warning cameras and car video cameras. Those are all licensed uh systems. And our flock is our uh license plate reader program uh cameras that are been very successful and help us helping…
+  [Watch ▸](https://www.youtube.com/watch?v=BQ4SCwSiS3Q&t=7480s)  _(term: `alpr_flock`)_
+
+- **[2026-02-10] Board of Finance** — Board of Finance Meeting February 10, 2026
+  > …>> Um I I do want to add for the board again the allocation of 75,000 from the IT department and flock was last year in capital. >> Correct. Yes. I'm sorry. Yeah, we we…
+  [Watch ▸](https://www.youtube.com/watch?v=BQ4SCwSiS3Q&t=7513s)  _(term: `alpr_flock`)_
+
+- **[2026-02-10] Board of Finance** — Board of Finance Meeting February 10, 2026
+  > …capital. >> Correct. Yes. I'm sorry. Yeah, we we moved flock because now we're beyond the first year of service with them. So, it's now turned into a service contract.…
+  [Watch ▸](https://www.youtube.com/watch?v=BQ4SCwSiS3Q&t=7519s)  _(term: `alpr_flock`)_
+
+- **[2026-02-06] Town Council** — Town Council & BOF Committee on Public Safety & Emergency Services Meeting February 6, 2026
+  > …up uh with our with our um with these service agreements. >> Chief, what is Flock? >> Flock, that's our uh license plate camera system that's in town. Um we have…
+  [Watch ▸](https://www.youtube.com/watch?v=zy5gly73Vpc&t=1545s)  _(term: `alpr_flock`)_
+
+
+_42 further mentions in New Canaan not shown here — all of them are in [New Canaan's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md)._
+
+
+### Darien — 52 mentions
+
+- **[2026-06-18] Police Commission** — Police Commission  6-18-26
+  > …detectives identified both the vehicle and the driver and all occupants with the assistance of Flock LPRs. It was determined that this was an isolated incident and there is no…
+  [Watch ▸](https://www.youtube.com/watch?v=yrXNdnrQ4lM&t=98s)  _(term: `alpr_flock`)_
+
+- **[2026-04-21] Board of Selectmen** — Board of Selectmen Quarterly Rpts  4-21-26
+  > …like pursuit um procedures and policies. And um another notable one is the use of our auto automated license plate readers. They're trying to get the entire state on the same page and create…
+  [Watch ▸](https://www.youtube.com/watch?v=AcCnRM4dFXs&t=2544s)  _(term: `alpr_flock`)_
+
+- **[2026-04-21] Board of Selectmen** — Board of Selectmen Quarterly Rpts  4-21-26
+  > …new policy but that they're tested on it and um that they're going to adhere to the rules. The license plate reader policy that seems to be ever changing over the past year. Um there's a lot of…
+  [Watch ▸](https://www.youtube.com/watch?v=AcCnRM4dFXs&t=2586s)  _(term: `alpr_flock`)_
+
+- **[2026-04-02] Police Commission** — Police Commission  4-2-26
+  > …question and a comment. The The traffic stop on the 22nd, did that come out as a flock hit, or was that a routine traffic? No, that was one of our officers…
+  [Watch ▸](https://www.youtube.com/watch?v=cZPRWQRM-w4&t=297s)  _(term: `alpr_flock`)_
+
+- **[2026-03-17] Board of Finance** — Board of Finance  3-17-26
+  > …>> Yeah, so that's driven up largely in part of um the addition of several flock cameras we're looking to add to our contract. Um And I'm sure the chief could attest to…
+  [Watch ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=5305s)  _(term: `alpr_flock`)_
+
+- **[2026-03-17] Board of Finance** — Board of Finance  3-17-26
+  > …to add to our contract. Um And I'm sure the chief could attest to this, but we we find that these flock cameras have proven to be extremely valuable um for officers patrol division…
+  [Watch ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=5311s)  _(term: `alpr_flock`)_
+
+- **[2026-03-17] Board of Finance** — Board of Finance  3-17-26
+  > …we're looking to to add some more cameras. So, that's the increase with the uh the flock contract. >> Super. >> Um…
+  [Watch ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=5325s)  _(term: `alpr_flock`)_
+
+- **[2026-02-11] Board of Selectmen** — Board of Selectmen  2-11-26
+  > …of their software systems. One of the drivers in this is um the purchase of seven additional flock cameras. Those are the license plate readers that are around town. And then they have…
+  [Watch ▸](https://www.youtube.com/watch?v=rTY11GXq5vA&t=4776s)  _(term: `alpr_flock`)_
+
+- **[2025-10-21] Board of Selectmen** — Board of Selectmen  10-21-25
+  > …way south from Farmington and was picked up on the vehicle was picked up on our license plate reader cameras and that was quickly relayed to surrounding towns and the vehicle was then located in…
+  [Watch ▸](https://www.youtube.com/watch?v=_loMhveZJIY&t=3536s)  _(term: `alpr_flock`)_
+
+- **[2025-05-08] Police Commission** — Darien Police Commission  5-8-25
+  > …down for sure. Um, and I did want to comment uh the the use of our license plate reader and our our flock cameras that we have uh located throughout town. Just in the recent weeks, they've give…
+  [Watch ▸](https://www.youtube.com/watch?v=4NoCAylvu8w&t=404s)  _(term: `alpr_flock`)_
+
+- **[2025-04-22] Board of Selectmen** — Board of Selectmen 4-22-25
+  > …really struggling. So, fortunate to not be in that same situation. Um, a hot topic is our license plate reader cameras. Uh, by the end of this week, finally, we will have 13 in place in…
+  [Watch ▸](https://www.youtube.com/watch?v=BnsFPcJ3VAs&t=2793s)  _(term: `alpr_flock`)_
+
+- **[2025-04-03] Police Commission** — Police Commission  4-3-25
+  > …incarcerated um for that incident. Uh, one other thing I wanted to point out is our flock cameras continue to be aiding in many, many investigations, including even…
+  [Watch ▸](https://www.youtube.com/watch?v=ETdKQptwcTw&t=414s)  _(term: `alpr_flock`)_
+
+
+_40 further mentions in Darien not shown here — all of them are in [Darien's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Southington — 52 mentions
@@ -635,7 +749,169 @@ _40 further mentions in Southington not shown here — all of them are in [South
   [Watch ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3261s)  _(term: `alpr_flock`)_
 
 
-_20 further mentions in Cheshire not shown here — all of them are in Cheshire's full report (not yet published)._
+_20 further mentions in Cheshire not shown here — all of them are in [Cheshire's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cheshire/surveillance-tech-transcript-and-agenda-report.md)._
+
+
+### Seymour — 32 mentions
+
+- **[2026-02-09] Budget Hearing / State of the Town** — Board of Finance Budget Workshop: 2/9/2026
+  > …also. So we pay an annual maintenance fee on that. Uh we have some we have one vehicle mounted license plate reader that we pay $900 a year for. Uh also for fire extinguishers. Um postage comes out…
+  [Watch ▸](https://www.youtube.com/watch?v=6s6cTA1RWXY&t=779s)  _(term: `alpr_flock`)_
+
+- **[2025-08-05] Board of Selectmen** — BOS 8/5/2025
+  > …did you have any um >> Dana? Dana Flock tax collector. Um, yes, the in practice for the first one, that's fine. The other three things, I mean,…
+  [Watch ▸](https://www.youtube.com/watch?v=6OmBHkM-1J0&t=3605s)  _(term: `alpr_flock`)_
+
+- **[2023-04-19] Board of Selectmen** — Board of Selectpersons 20230418
+  > …come to you to thank the Assessor's Office in Dana flock for settling a 13-year bloodbath with this such clock they were highly professional…
+  [Watch ▸](https://www.youtube.com/watch?v=6FUfUs5LYm0&t=28s)  _(term: `alpr_flock`)_
+
+- **[2022-02-08] Budget Hearing / State of the Town** — Board of Finance 20220207 Budget Workshop
+  > …extinguisher the actual cost is 660 dollars down from 2 grand and the license plate reader software we still have our total in this line i did leave out…
+  [Watch ▸](https://www.youtube.com/watch?v=OoExig3puKg&t=962s)  _(term: `alpr_flock`)_
+
+- **[2022-02-08] Budget Hearing / State of the Town** — Board of Finance 20220207 Budget Workshop
+  > …still have our total in this line i did leave out the the pole mounted alpr cameras that i'm considering purchasing we are getting our first year on those covered…
+  [Watch ▸](https://www.youtube.com/watch?v=OoExig3puKg&t=967s)  _(term: `alpr_flock`)_
+
+- **[2020-10-09] Board of Selectmen** — Board of Selectmen 20201008 Special  Meeting Part 2
+  > …just some information from our tax collector dana flock and again i asked her to take a look at how we are comparing uh overall collection wise we have…
+  [Watch ▸](https://www.youtube.com/watch?v=wyRdkkya-qU&t=197s)  _(term: `alpr_flock`)_
+
+- **[2020-09-02] Board of Selectmen** — Board of Selectmen 20200901 Part 1
+  > …approve the tax collector's report dated september 1st 2020 as presented by dana flock our tax collector motioned by anne marie second by…
+  [Watch ▸](https://www.youtube.com/watch?v=WiGbAe13Jkw&t=180s)  _(term: `alpr_flock`)_
+
+- **[2020-07-08] Board of Selectmen** — Board of Selectmen 20200707
+  > …should you have any questions please do not hesitate to contact me again that shouldn't Dana flock our tax collector so with that I will entertain a motion to move eight Francis Drive off the…
+  [Watch ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=415s)  _(term: `alpr_flock`)_
+
+- **[2020-07-08] Board of Selectmen** — Board of Selectmen 20200707
+  > …is B 36 Emma Street and again it is the same recommendation from our tax payer Dana flock she is recommending that we abate the following delinquent real estate taxes for Grand list 2013 14 15…
+  [Watch ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=495s)  _(term: `alpr_flock`)_
+
+- **[2020-07-08] Board of Selectmen** — Board of Selectmen 20200707
+  > …so at this point I'll entertain a motion to approve the recommendation from Dana flock as presented so move move motion by Al second by Trish is there any discussion okay…
+  [Watch ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=532s)  _(term: `alpr_flock`)_
+
+- **[2020-06-03] Board of Selectmen** — Board of Selectmen 20200602
+  > …and then it's signed by joe kuzey ak Thomas our finance director and Dana flock our tax collector so this point I'll entertain a motion that the Board of Selectmen approved the recommendation…
+  [Watch ▸](https://www.youtube.com/watch?v=dBcOOuLPZRk&t=2521s)  _(term: `alpr_flock`)_
+
+- **[2020-05-20] Board of Selectmen** — Board of Selectmen 20200519
+  > …year because of the the Cova crisis so I've been getting reports from Dana flock our tax collector to get an idea as to where we are with regards to collections…
+  [Watch ▸](https://www.youtube.com/watch?v=ikwm5bFsKzk&t=296s)  _(term: `alpr_flock`)_
+
+
+_20 further mentions in Seymour not shown here — all of them are in [Seymour's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/seymour/surveillance-tech-transcript-and-agenda-report.md)._
+
+
+### Mansfield — 31 mentions
+
+- **[2026-08-10] Town Council** — Town Council  8/10/2026
+  > …ALPRs? Um this is in reaction primarily to police departments' use of the readers, the Flock camera systems, and other things like that, but um are you aware that the governor's asked…
+  [Watch ▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3864s)  _(term: `alpr_flock`)_
+
+- **[2026-08-10] Town Council** — Town Council  8/10/2026
+  > …see any of the documentation in the packet around this that the specific ALPR technology that this company is using, you know, one of their revenue streams…
+  [Watch ▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3957s)  _(term: `alpr_flock`)_
+
+- **[2026-08-10] Town Council** — Town Council  8/10/2026
+  > …municipal police departments around the around the state, to make a list of all the ALPR technologies that are in use in the state. I'm imagining this would be on that list.…
+  [Watch ▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3995s)  _(term: `alpr_flock`)_
+
+- **[2026-08-10] Town Council** — Town Council Agenda - 2026-08-10
+  > …goal of improving compliance with state motor vehicle tax laws and increasing tax revenue. The Council inquired about the company's methods for verifying vehicle locations, including the use of license plate reader data, and the process for adding qualifying vehicles to the tax rolls. Council members raised concerns regarding privacy, data security, potential data-sharing practices, an…
+  [Open document ▸](https://ct-mansfield.civicplus.com/AgendaCenter/ViewFile/Agenda/_08102026-17709)  _(agenda/minutes · term: `alpr_flock`)_
+
+- **[2025-11-25] Agriculture Committee** — Agriculture Committee  11/25/2025
+  > …gives me plenty of time to cajul Steve into uh letting me have a whole flock of chickens. Uh, a horse. >> Oh, yeah. I'll stick to food animals.…
+  [Watch ▸](https://www.youtube.com/watch?v=M9BgsVnQ5aQ&t=2359s)  _(term: `alpr_flock`)_
+
+- **[2025-11-06] Parks and Natural Resources Committee** — PNRC 11/06/2025
+  > …Uh, but I I can look into adding coyotes. Uh, and not coyote flock. That's a different thing in town. Um, which was acknowledged by the way in USA…
+  [Watch ▸](https://www.youtube.com/watch?v=lgCNWqf0vF0&t=7397s)  _(term: `alpr_flock`)_
+
+- **[2025-07-17] Planning and Zoning Commission** — PZC Regulatory Review Committee Meeting 7/17/2025
+  > …rooster for breathing >> and the protection that they provide to the flock. I >> It was a valid point that you It was a valid point that you're not supposed to…
+  [Watch ▸](https://www.youtube.com/watch?v=ojM79_oPago&t=3905s)  _(term: `alpr_flock`)_
+
+- **[2025-05-27] Agriculture Committee** — Agriculture Committee  05/27/2025
+  > …guinea pow. Um whereas everyone who had roosters said these are these are an integral part of my flock and I can't have chickens without a rooster. Do we have that captured up there? We do. It's…
+  [Watch ▸](https://www.youtube.com/watch?v=fSFmQif-ETo&t=1948s)  _(term: `alpr_flock`)_
+
+- **[2025-05-01] Affordable Housing Committee** — Affordable Housing Committee 05/01/2025
+  > …me just confirms that these working families are being used to be people would flock to Mansfield because of the schools if they have kids. Right. Right. But they can't flock because they can't…
+  [Watch ▸](https://www.youtube.com/watch?v=Mky0kzUMuAc&t=2266s)  _(term: `alpr_flock`)_
+
+- **[2025-05-01] Affordable Housing Committee** — Affordable Housing Committee 05/01/2025
+  > …would flock to Mansfield because of the schools if they have kids. Right. Right. But they can't flock because they can't afford houses. It's not just affordable rental. It's not just affordability. I…
+  [Watch ▸](https://www.youtube.com/watch?v=Mky0kzUMuAc&t=2270s)  _(term: `alpr_flock`)_
+
+- **[2025-04-21] Planning and Zoning Commission** — PZC  04/21/2025
+  > …Tanner. I'm I've been a 30-year resident of Mansfield. I have a 2acre lot and I have a a flock of chickens and a rooster. And I just wanted to give you a sense of some of the other upsides of…
+  [Watch ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2808s)  _(term: `alpr_flock`)_
+
+- **[2025-04-21] Planning and Zoning Commission** — PZC  04/21/2025
+  > …rooster. And I just wanted to give you a sense of some of the other upsides of having a chicken flock. If I don't have a rooster, I can't I can't have a flock because of the predation with coyotes…
+  [Watch ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2816s)  _(term: `alpr_flock`)_
+
+
+_19 further mentions in Mansfield not shown here — all of them are in [Mansfield's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md)._
+
+
+### Newington — 29 mentions
+
+- **[2026-06-23] Mayor & Town Council** — Mayor & Town Council Regular Meeting Jun 23, 2026
+  > …Willard and Cedar. So, uh, I don't know what type of cameras those are. Maybe they're flock cameras or something that have been installed there. um which is another thing that I really do not…
+  [Watch ▸](https://www.youtube.com/watch?v=rMxKgRlNPiA&t=9425s)  _(term: `alpr_flock`)_
+
+- **[2026-06-23] Mayor & Town Council** — Town Council Minutes - 2026-06-23
+  > …agree with you. • Louis, 482 Churchill Drive (via Zooiii). Don't know what types ofcameras were set up, but there was a camera set up on Willard and Cedar. Maybe it's a flock camera, which I do not support, they are not secure and are on Amazon's web services. Our cost of living is a snowball ofeverything increasing. I know that there…
+  [Open document ▸](https://www.newingtonct.gov/AgendaCenter/ViewFile/Minutes/_06232026-3981)  _(agenda/minutes · term: `alpr_flock`)_
+
+- **[2026-01-13] Mayor & Town Council** — Town Council Agenda - 2026-01-13
+  > …Easy integration 4d radar The second camera acts either as an HTTPS request, multi-platform For maximum detection capture overview or a second ALPR. Remote compliance, GDS interface with setup and management without event monitoring program interruption…
+  [Open document ▸](https://www.newingtonct.gov/AgendaCenter/ViewFile/Agenda/_01132026-3799)  _(agenda/minutes · term: `alpr_flock`)_
+
+- **[2025-06-24] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 24, 2025
+  > …for record. Great. Moving along. Uh, next is sole source request for license plate reader technology. Um, councelor P, did you read that…
+  [Watch ▸](https://www.youtube.com/watch?v=GlhKAZ86-vI&t=883s)  _(term: `alpr_flock`)_
+
+- **[2025-06-24] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 24, 2025
+  > …determined that block safety public safety solutions is a sole source provider of license plate reader services. Now therefore, be it resolved that the town council hereby grants a…
+  [Watch ▸](https://www.youtube.com/watch?v=GlhKAZ86-vI&t=905s)  _(term: `alpr_flock`)_
+
+- **[2025-06-24] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 24, 2025
+  > …Thanks mayor. And just again for the public's edification we're doing this because flock safety public safety solutions is the only game in town for Yeah. To for Yes. There's technically…
+  [Watch ▸](https://www.youtube.com/watch?v=GlhKAZ86-vI&t=1046s)  _(term: `alpr_flock`)_
+
+- **[2025-06-24] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 24, 2025
+  > …the sole source is for this technology every other community in our area uses Flock. So for it to integrate with Weathersfield, Rocky Hill, etc. We can only use Flock and and really, you know,…
+  [Watch ▸](https://www.youtube.com/watch?v=GlhKAZ86-vI&t=1068s)  _(term: `alpr_flock`)_
+
+- **[2025-06-24] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 24, 2025
+  > …Flock. So for it to integrate with Weathersfield, Rocky Hill, etc. We can only use Flock and and really, you know, the bad guys cross town lines all the time. So it's kind of useless without…
+  [Watch ▸](https://www.youtube.com/watch?v=GlhKAZ86-vI&t=1073s)  _(term: `alpr_flock`)_
+
+- **[2025-06-17] Conservation Commission** — Conservation Commission Regular Meeting Jun 17, 2025
+  > …and um the request from the police department for soul source uh request for license plate reader technology. Uh other than that you want to…
+  [Watch ▸](https://www.youtube.com/watch?v=QlPSmiKlIAA&t=6778s)  _(term: `alpr_flock`)_
+
+- **[2025-06-10] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 10, 2025
+  > …you. Moving on to item B. Soul source request for license plate reader technology. Yeah. So I also have Lieutenant Amalfi who's on double duty tonight and he can…
+  [Watch ▸](https://www.youtube.com/watch?v=e_oRKs0gWpk&t=6108s)  _(term: `alpr_flock`)_
+
+- **[2025-06-10] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 10, 2025
+  > …I'm Lieutenant Scott Mely with Newington. So we are asking for a soul source for flock camera systems. I think it was 21 we got the ARPA funding for the cameras to put around town. So we…
+  [Watch ▸](https://www.youtube.com/watch?v=e_oRKs0gWpk&t=6134s)  _(term: `alpr_flock`)_
+
+- **[2025-06-10] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 10, 2025
+  > …have approximately 27 cameras to put up. Now we need the software to make the license plate technology work. So Flock is single source. They're kind of one-stop shop. They do the software.…
+  [Watch ▸](https://www.youtube.com/watch?v=e_oRKs0gWpk&t=6146s)  _(term: `alpr_flock`)_
+
+
+_17 further mentions in Newington not shown here — all of them are in [Newington's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### East Hampton — 28 mentions
@@ -689,7 +965,115 @@ _20 further mentions in Cheshire not shown here — all of them are in Cheshire'
   [Watch ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3331s)  _(term: `alpr_flock`)_
 
 
-_16 further mentions in East Hampton not shown here — all of them are in East Hampton's full report (not yet published)._
+_16 further mentions in East Hampton not shown here — all of them are in [East Hampton's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md)._
+
+
+### Bethel — 27 mentions
+
+- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
+  > …in service calls related to crimes and how many related to non-rimes? and two on the flock safety license plate readers. Uh as we all know, Bo Finance approved um the first installment last…
+  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4280s)  _(term: `alpr_flock`)_
+
+- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
+  > …else can they provide? Um, >> so I I'll speak to the uh the calls for service and then I'll defer the flock. Um, my deputy is a little more well versed in that. Um, so we just had this…
+  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4312s)  _(term: `alpr_flock`)_
+
+- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
+  > …on that percentage increase every year. >> Um but to answer your question about flock um >> so the flock cameras yeah they um they track movement in public spaces of of…
+  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4466s)  _(term: `alpr_flock`)_
+
+- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
+  > …>> Um but to answer your question about flock um >> so the flock cameras yeah they um they track movement in public spaces of of vehicles and and and coming and goings…
+  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4468s)  _(term: `alpr_flock`)_
+
+- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
+  > …that was kind of limited. We sort of had a partial plate. Um to be able to run that through a flock system and be able to find those people quickly. Those are the instances where we're looking to use…
+  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4531s)  _(term: `alpr_flock`)_
+
+- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
+  > …it. There's a lot of safeguards in place. There's a lot of audit uh trails when it comes to the use of the flock camera. Uh we the way we have it set up right now, you have to input a case…
+  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4539s)  _(term: `alpr_flock`)_
+
+- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
+  > …changed them. They were already changed. Most most Connecticut agencies when you when you sign out with Flock, those settings for sharing with federal agencies already turned off. So I can I…
+  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4979s)  _(term: `alpr_flock`)_
+
+- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
+  > …they'll donate the money for us to buy it would be my question. A lot to be honest with you, Flock a lot of lot of Home Depot, a lot of Targets, a lot of retail facilities do contract with…
+  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=5094s)  _(term: `alpr_flock`)_
+
+- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
+  > …Home Depot, a lot of Targets, a lot of retail facilities do contract with Flock. They own the camera and then they share that data with local law enforcement. That's how that works.…
+  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=5100s)  _(term: `alpr_flock`)_
+
+- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
+  > …>> so that's a one-way share, right? In essence, >> right? No, no. Flock would No, no. Target wouldn't have access to our cameras that are out on the road. They…
+  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=5109s)  _(term: `alpr_flock`)_
+
+- **[2025-12-16] Board of Selectmen** — Board of Selectmen Regular Meeting - 12/16/2025
+  > …to that? >> Okay. Next up on the agenda, we have a bid waiver for flock safety automatic license by readers. Now, if you recall, we approved these already, but when we…
+  [Watch ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2141s)  _(term: `alpr_flock`)_
+
+- **[2025-12-16] Board of Selectmen** — Board of Selectmen Regular Meeting - 12/16/2025
+  > …Roman numeral 3 for automatic license plate readers. The reasons for the bid waiver in this case are flock is on state bid. Uh and also um it's unique to the license plate reader companies in…
+  [Watch ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2173s)  _(term: `alpr_flock`)_
+
+
+_15 further mentions in Bethel not shown here — all of them are in [Bethel's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md)._
+
+
+### Farmington — 26 mentions
+
+- **[2026-03-12] Town Council** — Town Council Meeting - March 12, 2026
+  > …Monday on the House bill what 5449. So, so where is that in the budget as far as the flock? I mean is that under under patrol con contractual services? Is it under your…
+  [Watch ▸](https://www.youtube.com/watch?v=3_YtFUYl1tw&t=3843s)  _(term: `alpr_flock`)_
+
+- **[2026-03-12] Town Council** — Farmington Town Council Budget Meeting - 03/12/26
+  > …the House bill what 5449. So so where is that in the budget as far as the flock? I mean is that under under patrol contractual services? Is it under your…
+  [Watch ▸](https://www.youtube.com/watch?v=NtAeFs0pXS4&t=3853s)  _(term: `alpr_flock`)_
+
+- **[2026-02-24] Town Council** — Farmington Town Council Meeting - 02/24/26
+  > …continued technology improvements, including body and dash cameras and three new license plate reader systems. Funds will also be used to replace a 24-hour supervisor's vehicle in…
+  [Watch ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=2326s)  _(term: `alpr_flock`)_
+
+- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
+  > …will be used to continue to pay for body and in-dash cameras, and to purchase three uh additional license plate reader systems. Uh Brian and the group, do you want me to go through them all just very…
+  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6272s)  _(term: `alpr_flock`)_
+
+- **[2026-02-24] Town Council** — Farmington Town Council Meeting - 02/24/26
+  > …be used to continue to pay for body and in dash cameras and to purchase three uh additional license plate reader systems. Brian and the group, do you want me to go through them all just very quickly…
+  [Watch ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6275s)  _(term: `alpr_flock`)_
+
+- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
+  > …know, the fabric of technology and security of a town. Is so So, it's definitely in the license plate reader system. It seems like there's a there's a lot of towns doing a lot of things and…
+  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6598s)  _(term: `alpr_flock`)_
+
+- **[2026-02-24] Town Council** — Farmington Town Council Meeting - 02/24/26
+  > …know the fabric of technology and security of a town is so so definitely in the license plate reader system it seems like there's a there's a lot of towns doing a lot of things And some,…
+  [Watch ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6600s)  _(term: `alpr_flock`)_
+
+- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
+  > …So, just to stay on that topic for a little bit. So, Most of you have heard of Flock. That's what we use and I and I think their business practice is exactly what you're talking about the…
+  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6664s)  _(term: `alpr_flock`)_
+
+- **[2026-02-24] Town Council** — Farmington Town Council Meeting - 02/24/26
+  > …that. Um so ju just to stay on that topic for a little bit. So um most of you have heard of Flock. That's what we use. And I and I think their business practice is exactly what you're talking…
+  [Watch ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6666s)  _(term: `alpr_flock`)_
+
+- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
+  > …So, West Hartford has it, Avon has it, Simsbury has it, Bloomfield has it. Like everybody around us has Flock. Hartford used to have a different one. They're moving to Flock because of the…
+  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6678s)  _(term: `alpr_flock`)_
+
+- **[2026-02-24] Town Council** — Farmington Town Council Meeting - 02/24/26
+  > …Avon has it, Simsbury has it, Bloomfield has it. Like everybody around us has Flock. Uh Hartford used to have a different one. they're moving to flock because of the interoperability like…
+  [Watch ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6683s)  _(term: `alpr_flock`)_
+
+- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
+  > …everybody around us has Flock. Hartford used to have a different one. They're moving to Flock because of the interoperability like you're saying. Not only throughout the region but…
+  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6683s)  _(term: `alpr_flock`)_
+
+
+_14 further mentions in Farmington not shown here — all of them are in [Farmington's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/farmington/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Fairfield — 25 mentions
@@ -746,112 +1130,58 @@ _16 further mentions in East Hampton not shown here — all of them are in East 
 _13 further mentions in Fairfield not shown here — all of them are in [Fairfield's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Newington — 25 mentions
+### Clinton — 24 mentions
 
-- **[2026-06-23] Mayor & Town Council** — Mayor & Town Council Regular Meeting Jun 23, 2026
-  > …Willard and Cedar. So, uh, I don't know what type of cameras those are. Maybe they're flock cameras or something that have been installed there. um which is another thing that I really do not…
-  [Watch ▸](https://www.youtube.com/watch?v=rMxKgRlNPiA&t=9425s)  _(term: `alpr_flock`)_
+- **[2026-04-15] Town Council** — Clinton Town Council - April 15 2026
+  > …here. Um I shared information that questions the attempt to nearly separate Flock and ALPR from Ultraman and ATESD as as if residents are supposed to believe those…
+  [Watch ▸](https://www.youtube.com/watch?v=9PAKYH9fF34&t=582s)  _(term: `alpr_flock`)_
 
-- **[2026-06-23] Mayor & Town Council** — Town Council Minutes - 2026-06-23
-  > …agree with you. • Louis, 482 Churchill Drive (via Zooiii). Don't know what types ofcameras were set up, but there was a camera set up on Willard and Cedar. Maybe it's a flock camera, which I do not support, they are not secure and are on Amazon's web services. Our cost of living is a snowball ofeverything increasing. I know that there…
-  [Open document ▸](https://www.newingtonct.gov/AgendaCenter/ViewFile/Minutes/_06232026-3981)  _(agenda/minutes · term: `alpr_flock`)_
+- **[2026-04-15] Town Council** — Clinton Town Council - April 15 2026
+  > …Um I shared information that questions the attempt to nearly separate Flock and ALPR from Ultraman and ATESD as as if residents are supposed to believe those are completely separate conversations…
+  [Watch ▸](https://www.youtube.com/watch?v=9PAKYH9fF34&t=586s)  _(term: `alpr_flock`)_
 
-- **[2026-01-13] Mayor & Town Council** — Town Council Agenda - 2026-01-13
-  > …Easy integration 4d radar The second camera acts either as an HTTPS request, multi-platform For maximum detection capture overview or a second ALPR. Remote compliance, GDS interface with setup and management without event monitoring program interruption…
-  [Open document ▸](https://www.newingtonct.gov/AgendaCenter/ViewFile/Agenda/_01132026-3799)  _(agenda/minutes · term: `alpr_flock`)_
+- **[2026-03-18] Town Council** — Clinton Town Council - March 18 2026
+  > …>> So they just want regulatory oversight on where the data goes. So the guy, the gentleman from Flock came and testified and his testimony was very straightforward. We have the data after…
+  [Watch ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5025s)  _(term: `alpr_flock`)_
 
-- **[2025-06-24] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 24, 2025
-  > …for record. Great. Moving along. Uh, next is sole source request for license plate reader technology. Um, councelor P, did you read that…
-  [Watch ▸](https://www.youtube.com/watch?v=GlhKAZ86-vI&t=883s)  _(term: `alpr_flock`)_
+- **[2026-03-18] Town Council** — Clinton Town Council - March 18 2026
+  > …oversight in that. >> Make that to make that clear. That's the flock cameras, not the hearing we're having next week on the what we call >> the speed cameras are completely…
+  [Watch ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5172s)  _(term: `alpr_flock`)_
 
-- **[2025-06-24] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 24, 2025
-  > …determined that block safety public safety solutions is a sole source provider of license plate reader services. Now therefore, be it resolved that the town council hereby grants a…
-  [Watch ▸](https://www.youtube.com/watch?v=GlhKAZ86-vI&t=905s)  _(term: `alpr_flock`)_
+- **[2026-03-18] Town Council** — Clinton Town Council - March 18 2026
+  > …>> So, a deletion doesn't necessarily mean a deletion, you know. And then that the gentleman from Flock talked about like the the uh the cloud. >> I mean, it's going to be somewhere,…
+  [Watch ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5247s)  _(term: `alpr_flock`)_
 
-- **[2025-06-24] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 24, 2025
-  > …Thanks mayor. And just again for the public's edification we're doing this because flock safety public safety solutions is the only game in town for Yeah. To for Yes. There's technically…
-  [Watch ▸](https://www.youtube.com/watch?v=GlhKAZ86-vI&t=1046s)  _(term: `alpr_flock`)_
+- **[2026-03-18] Town Council** — Clinton Town Council - March 18 2026
+  > …to get picked up on the and the data is going to be in the cloud, the only way to stop that is to not have flock cameras that I can think of. And I don't think that…
+  [Watch ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5304s)  _(term: `alpr_flock`)_
 
-- **[2025-06-24] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 24, 2025
-  > …the sole source is for this technology every other community in our area uses Flock. So for it to integrate with Weathersfield, Rocky Hill, etc. We can only use Flock and and really, you know,…
-  [Watch ▸](https://www.youtube.com/watch?v=GlhKAZ86-vI&t=1068s)  _(term: `alpr_flock`)_
+- **[2026-03-18] Town Council** — Clinton Town Council - March 18 2026
+  > …it Monday and uh it was very nice and uh I suggested to him if possibly if he could do the same thing for Flock uh to explain a lot of things just like Chris is trying to do right now about…
+  [Watch ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5706s)  _(term: `alpr_flock`)_
 
-- **[2025-06-24] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 24, 2025
-  > …Flock. So for it to integrate with Weathersfield, Rocky Hill, etc. We can only use Flock and and really, you know, the bad guys cross town lines all the time. So it's kind of useless without…
-  [Watch ▸](https://www.youtube.com/watch?v=GlhKAZ86-vI&t=1073s)  _(term: `alpr_flock`)_
+- **[2026-03-18] (unassigned body)** — Town Council Minutes - 2026-03-18
+  > …an Teskey provided an update on the library project, including information on several grant opportunities that the Town will pursue as part of the project’s next steps. Chairman Teskey discussed the Flock camera system and the management of associated data. Due to pending legislation at the state level, the Council agreed to wait until the General Assembly session concludes on May 6th before taki…
+  [Open document ▸](https://clintonct.org/AgendaCenter/ViewFile/Minutes/_03182026-8295)  _(agenda/minutes · term: `alpr_flock`)_
 
-- **[2025-06-17] Conservation Commission** — Conservation Commission Regular Meeting Jun 17, 2025
-  > …and um the request from the police department for soul source uh request for license plate reader technology. Uh other than that you want to…
-  [Watch ▸](https://www.youtube.com/watch?v=QlPSmiKlIAA&t=6778s)  _(term: `alpr_flock`)_
+- **[2026-03-04] (unassigned body)** — Town Council Minutes - 2026-03-04
+  > …y. CHAIRMAN’S REPORT H. Teskey reported on the following items: Electric Boat Interviews — Electric Boat conducted interviews with seven high school students, and six seniors received job offers. Flock Camera Data Management — There was discussion regarding which body has authority over data‑management policy for the Flock camera system. The Town Attorney will provide an opinion on whether thi…
+  [Open document ▸](https://clintonct.org/AgendaCenter/ViewFile/Minutes/_03042026-8259)  _(agenda/minutes · term: `alpr_flock`)_
 
-- **[2025-06-10] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 10, 2025
-  > …you. Moving on to item B. Soul source request for license plate reader technology. Yeah. So I also have Lieutenant Amalfi who's on double duty tonight and he can…
-  [Watch ▸](https://www.youtube.com/watch?v=e_oRKs0gWpk&t=6108s)  _(term: `alpr_flock`)_
+- **[2026-02-04] Town Council** — Clinton Town Council - February 4 2026
+  > …conversation with our folks at the police department as an official agenda item about the flock cameras that exist in town. We made our decision on those like a year and a half or so ago, and I…
+  [Watch ▸](https://www.youtube.com/watch?v=RTxmTsz_bx8&t=3287s)  _(term: `alpr_flock`)_
 
-- **[2025-06-10] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 10, 2025
-  > …I'm Lieutenant Scott Mely with Newington. So we are asking for a soul source for flock camera systems. I think it was 21 we got the ARPA funding for the cameras to put around town. So we…
-  [Watch ▸](https://www.youtube.com/watch?v=e_oRKs0gWpk&t=6134s)  _(term: `alpr_flock`)_
+- **[2026-02-04] (unassigned body)** — Town Council Minutes - 2026-02-04
+  > …cil for review. B. Roccapriore noted two clerical corrections that had not been incorporated. The first was in Section 500‑25(A): update the reference from CGS §7‑152 (handling of snakes) to §7‑152c (ALPR). The second was in Section 500‑25(I): replace Public Act 23‑166 (Adult Use of Cannabis) with Public Act 23‑116. Donovan recommended postponing the public hearing until the weather is warmer. The…
+  [Open document ▸](https://clintonct.org/AgendaCenter/ViewFile/Minutes/_02042026-8218)  _(agenda/minutes · term: `alpr_flock`)_
 
-- **[2025-06-10] Mayor & Town Council** — Mayor & Town Council Regular Meeting June 10, 2025
-  > …have approximately 27 cameras to put up. Now we need the software to make the license plate technology work. So Flock is single source. They're kind of one-stop shop. They do the software.…
-  [Watch ▸](https://www.youtube.com/watch?v=e_oRKs0gWpk&t=6146s)  _(term: `alpr_flock`)_
-
-
-_13 further mentions in Newington not shown here — all of them are in Newington's full report (not yet published)._
+- **[2026-01-27] (unassigned body)** — Human Rights Committee Minutes - 2026-01-27
+  > …raged in CT. Measles booster and Hep B are ones that need to be encouraged, Hep B is the most easily contracted • Ongoing discussion of targets and goals – Abby asked if anyone knew anything about Flock or red-light cameras. She expressed concerns and knows our town currently has 8 Flock cameras. Ava, who has done legal research into surveillance cameras used by towns and law enforcement…
+  [Open document ▸](https://clintonct.org/AgendaCenter/ViewFile/Minutes/_01272026-8211)  _(agenda/minutes · term: `alpr_flock`)_
 
 
-### Bethel — 24 mentions
-
-- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
-  > …in service calls related to crimes and how many related to non-rimes? and two on the flock safety license plate readers. Uh as we all know, Bo Finance approved um the first installment last…
-  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4280s)  _(term: `alpr_flock`)_
-
-- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
-  > …else can they provide? Um, >> so I I'll speak to the uh the calls for service and then I'll defer the flock. Um, my deputy is a little more well versed in that. Um, so we just had this…
-  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4312s)  _(term: `alpr_flock`)_
-
-- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
-  > …on that percentage increase every year. >> Um but to answer your question about flock um >> so the flock cameras yeah they um they track movement in public spaces of of…
-  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4466s)  _(term: `alpr_flock`)_
-
-- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
-  > …>> Um but to answer your question about flock um >> so the flock cameras yeah they um they track movement in public spaces of of vehicles and and and coming and goings…
-  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4468s)  _(term: `alpr_flock`)_
-
-- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
-  > …that was kind of limited. We sort of had a partial plate. Um to be able to run that through a flock system and be able to find those people quickly. Those are the instances where we're looking to use…
-  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4531s)  _(term: `alpr_flock`)_
-
-- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
-  > …it. There's a lot of safeguards in place. There's a lot of audit uh trails when it comes to the use of the flock camera. Uh we the way we have it set up right now, you have to input a case…
-  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4539s)  _(term: `alpr_flock`)_
-
-- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
-  > …changed them. They were already changed. Most most Connecticut agencies when you when you sign out with Flock, those settings for sharing with federal agencies already turned off. So I can I…
-  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4979s)  _(term: `alpr_flock`)_
-
-- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
-  > …they'll donate the money for us to buy it would be my question. A lot to be honest with you, Flock a lot of lot of Home Depot, a lot of Targets, a lot of retail facilities do contract with…
-  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=5094s)  _(term: `alpr_flock`)_
-
-- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
-  > …Home Depot, a lot of Targets, a lot of retail facilities do contract with Flock. They own the camera and then they share that data with local law enforcement. That's how that works.…
-  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=5100s)  _(term: `alpr_flock`)_
-
-- **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
-  > …>> so that's a one-way share, right? In essence, >> right? No, no. Flock would No, no. Target wouldn't have access to our cameras that are out on the road. They…
-  [Watch ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=5109s)  _(term: `alpr_flock`)_
-
-- **[2025-12-16] Board of Selectmen** — Board of Selectmen Regular Meeting - 12/16/2025
-  > …to that? >> Okay. Next up on the agenda, we have a bid waiver for flock safety automatic license by readers. Now, if you recall, we approved these already, but when we…
-  [Watch ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2141s)  _(term: `alpr_flock`)_
-
-- **[2025-12-16] Board of Selectmen** — Board of Selectmen Regular Meeting - 12/16/2025
-  > …Roman numeral 3 for automatic license plate readers. The reasons for the bid waiver in this case are flock is on state bid. Uh and also um it's unique to the license plate reader companies in…
-  [Watch ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2173s)  _(term: `alpr_flock`)_
-
-
-_12 further mentions in Bethel not shown here — all of them are in Bethel's full report (not yet published)._
+_12 further mentions in Clinton not shown here — all of them are in [Clinton's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/clinton/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Norwich — 23 mentions
@@ -905,61 +1235,61 @@ _12 further mentions in Bethel not shown here — all of them are in Bethel's fu
   [Watch ▸](https://www.youtube.com/watch?v=bXKsggwcC7E&t=1660s)  _(term: `alpr_flock`)_
 
 
-_11 further mentions in Norwich not shown here — all of them are in Norwich's full report (not yet published)._
+_11 further mentions in Norwich not shown here — all of them are in [Norwich's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Darien — 22 mentions
+### Bristol — 21 mentions
 
-- **[2026-06-18] Police Commission** — Police Commission  6-18-26
-  > …detectives identified both the vehicle and the driver and all occupants with the assistance of Flock LPRs. It was determined that this was an isolated incident and there is no…
-  [Watch ▸](https://www.youtube.com/watch?v=yrXNdnrQ4lM&t=98s)  _(term: `alpr_flock`)_
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …burden. The person committing the fra infraction should always be the one to get the ticket. And then the flock cameras. You know, I've had five cars stolen in my life. I actually love the…
+  [Watch ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=1551s)  _(term: `alpr_flock`)_
 
-- **[2026-04-21] Board of Selectmen** — Board of Selectmen Quarterly Rpts  4-21-26
-  > …like pursuit um procedures and policies. And um another notable one is the use of our auto automated license plate readers. They're trying to get the entire state on the same page and create…
-  [Watch ▸](https://www.youtube.com/watch?v=AcCnRM4dFXs&t=2544s)  _(term: `alpr_flock`)_
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …the most um Chief, why don't you come up so you can be part of this? Um the three vendors, Recor and Axon and Flock and so we heard from them and we also had a very spirited presentation and…
+  [Watch ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2031s)  _(term: `alpr_flock`)_
 
-- **[2026-04-21] Board of Selectmen** — Board of Selectmen Quarterly Rpts  4-21-26
-  > …new policy but that they're tested on it and um that they're going to adhere to the rules. The license plate reader policy that seems to be ever changing over the past year. Um there's a lot of…
-  [Watch ▸](https://www.youtube.com/watch?v=AcCnRM4dFXs&t=2586s)  _(term: `alpr_flock`)_
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …andor Labor Day in that window. Um, we currently have 12 flock cameras, >> 14 >> 14 flock cameras and we are in a…
+  [Watch ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2134s)  _(term: `alpr_flock`)_
 
-- **[2026-04-02] Police Commission** — Police Commission  4-2-26
-  > …question and a comment. The The traffic stop on the 22nd, did that come out as a flock hit, or was that a routine traffic? No, that was one of our officers…
-  [Watch ▸](https://www.youtube.com/watch?v=cZPRWQRM-w4&t=297s)  _(term: `alpr_flock`)_
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …12 flock cameras, >> 14 >> 14 flock cameras and we are in a position right now of doing a non-renewal with flock. Um, so that is…
+  [Watch ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2136s)  _(term: `alpr_flock`)_
 
-- **[2026-03-17] Board of Finance** — Board of Finance  3-17-26
-  > …>> Yeah, so that's driven up largely in part of um the addition of several flock cameras we're looking to add to our contract. Um And I'm sure the chief could attest to…
-  [Watch ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=5305s)  _(term: `alpr_flock`)_
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …>> 14 flock cameras and we are in a position right now of doing a non-renewal with flock. Um, so that is in process and we're going to be moving into a better situation with Axon, which…
+  [Watch ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2141s)  _(term: `alpr_flock`)_
 
-- **[2026-03-17] Board of Finance** — Board of Finance  3-17-26
-  > …to add to our contract. Um And I'm sure the chief could attest to this, but we we find that these flock cameras have proven to be extremely valuable um for officers patrol division…
-  [Watch ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=5311s)  _(term: `alpr_flock`)_
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …concerns. Um, and I think the recent state law that was passed regulating the use of flock cameras. Um, I'll use Flock, but it's a that's a company name. LPRs or license plate readers are are…
+  [Watch ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2320s)  _(term: `alpr_flock`)_
 
-- **[2026-03-17] Board of Finance** — Board of Finance  3-17-26
-  > …we're looking to to add some more cameras. So, that's the increase with the uh the flock contract. >> Super. >> Um…
-  [Watch ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=5325s)  _(term: `alpr_flock`)_
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …state law that was passed regulating the use of flock cameras. Um, I'll use Flock, but it's a that's a company name. LPRs or license plate readers are are what Flock is. And what it enables us to…
+  [Watch ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2324s)  _(term: `alpr_flock`)_
 
-- **[2026-02-11] Board of Selectmen** — Board of Selectmen  2-11-26
-  > …of their software systems. One of the drivers in this is um the purchase of seven additional flock cameras. Those are the license plate readers that are around town. And then they have…
-  [Watch ▸](https://www.youtube.com/watch?v=rTY11GXq5vA&t=4776s)  _(term: `alpr_flock`)_
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …Flock, but it's a that's a company name. LPRs or license plate readers are are what Flock is. And what it enables us to do is identify vehicles that are coming into our city. Um, generally stolen…
+  [Watch ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2329s)  _(term: `alpr_flock`)_
 
-- **[2025-10-21] Board of Selectmen** — Board of Selectmen  10-21-25
-  > …way south from Farmington and was picked up on the vehicle was picked up on our license plate reader cameras and that was quickly relayed to surrounding towns and the vehicle was then located in…
-  [Watch ▸](https://www.youtube.com/watch?v=_loMhveZJIY&t=3536s)  _(term: `alpr_flock`)_
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …party um our information is our information. Uh that cloud is locked down. Flock can't go into our cloud and access that information. Um we would have to allow them to go into that to…
+  [Watch ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2521s)  _(term: `alpr_flock`)_
 
-- **[2025-05-08] Police Commission** — Darien Police Commission  5-8-25
-  > …down for sure. Um, and I did want to comment uh the the use of our license plate reader and our our flock cameras that we have uh located throughout town. Just in the recent weeks, they've give…
-  [Watch ▸](https://www.youtube.com/watch?v=4NoCAylvu8w&t=404s)  _(term: `alpr_flock`)_
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …studies and it tells us that let's say a thousand cars went by that day. That license plate reader essentially says we took a thousand cars went by and that data just disappears just like your home…
+  [Watch ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2796s)  _(term: `alpr_flock`)_
 
-- **[2025-04-22] Board of Selectmen** — Board of Selectmen 4-22-25
-  > …really struggling. So, fortunate to not be in that same situation. Um, a hot topic is our license plate reader cameras. Uh, by the end of this week, finally, we will have 13 in place in…
-  [Watch ▸](https://www.youtube.com/watch?v=BnsFPcJ3VAs&t=2793s)  _(term: `alpr_flock`)_
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …I would be in full support and saying that these cameras, all all of the cameras, the flock cameras, the LPRs, let's stop using the word flock. Um, the license plate readers and other…
+  [Watch ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=3427s)  _(term: `alpr_flock`)_
 
-- **[2025-04-03] Police Commission** — Police Commission  4-3-25
-  > …incarcerated um for that incident. Uh, one other thing I wanted to point out is our flock cameras continue to be aiding in many, many investigations, including even…
-  [Watch ▸](https://www.youtube.com/watch?v=ETdKQptwcTw&t=414s)  _(term: `alpr_flock`)_
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …that these cameras, all all of the cameras, the flock cameras, the LPRs, let's stop using the word flock. Um, the license plate readers and other technology is great and wonderful…
+  [Watch ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=3430s)  _(term: `alpr_flock`)_
 
 
-_10 further mentions in Darien not shown here — all of them are in Darien's full report (not yet published)._
+_9 further mentions in Bristol not shown here — all of them are in [Bristol's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Columbia — 21 mentions
@@ -1013,115 +1343,169 @@ _10 further mentions in Darien not shown here — all of them are in Darien's fu
   [Watch ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2258s)  _(term: `alpr_flock`)_
 
 
-_9 further mentions in Columbia not shown here — all of them are in Columbia's full report (not yet published)._
+_9 further mentions in Columbia not shown here — all of them are in [Columbia's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/columbia/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### New Canaan — 21 mentions
+### Simsbury — 21 mentions
 
-- **[2026-07-07] Board of Selectmen** — Board of Selectmen Meeting July 7, 2026
-  > …>> So move. >> Second. >> It's unanimous. And then Flock Safety. >> Next up is our renewal of our annual agreement with Flock Safety in the…
-  [Watch ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=1981s)  _(term: `alpr_flock`)_
+- **[2026-08-10] Board of Selectmen** — Board of Selectmen Meeting - August 10, 2026
+  > …[clears throat] >> Brian Smith, 7 Wintergreen. Um, I'm here today to talk about the flock cameras in town. Uh, I don't know if any of you guys are aware of them or not. Um, but…
+  [Watch ▸](https://www.youtube.com/watch?v=oqK05SdmAdU&t=2182s)  _(term: `alpr_flock`)_
 
-- **[2026-07-07] Board of Selectmen** — Board of Selectmen Meeting July 7, 2026
-  > …>> It's unanimous. And then Flock Safety. >> Next up is our renewal of our annual agreement with Flock Safety in the amount of 67,500. >> And does this is I don't know what I…
-  [Watch ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=1987s)  _(term: `alpr_flock`)_
+- **[2026-08-10] Board of Selectmen** — Board of Selectmen Meeting - August 10, 2026
+  > …the more important thing to me and a lot of other people in town is that we rent the cameras from a company named Flock. Um, and they're actually operating the cameras and doing whatever they want…
+  [Watch ▸](https://www.youtube.com/watch?v=oqK05SdmAdU&t=2200s)  _(term: `alpr_flock`)_
 
-- **[2026-07-07] Board of Selectmen** — Board of Selectmen Meeting July 7, 2026
-  > …>> And does this is I don't know what I can't remember what we paid last year to Flock. Is this for the same number of cameras? Are we adding is this? >> We have added a few. Um, so it's it's…
-  [Watch ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=1997s)  _(term: `alpr_flock`)_
+- **[2026-08-10] Board of Selectmen** — Board of Selectmen Minutes - 2026-08-10
+  > …e this letter and explained some issues she has 99 been having there. She went through some questions she said she had asked on July 13th. 100 101 Brian Smith, 7 Wintergreen, spoke about the six flock cameras that we have in Town. He said 102 we rent these cameras, and they can do whatever they want to with the data they get from 103 them, even sell the data. He said there are a lot of To…
+  [Open document ▸](https://www.simsbury-ct.gov/AgendaCenter/ViewFile/Minutes/_08102026-1406)  _(agenda/minutes · term: `alpr_flock`)_
 
-- **[2026-07-07] Board of Selectmen** — Board of Selectmen Meeting July 7, 2026
-  > …there's no access from outside from? >> It's actually cloud-based, but we only have access to it. So Flock doesn't have access to it. We actually own the data. We're the only ones that can have access…
-  [Watch ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=2112s)  _(term: `alpr_flock`)_
+- **[2026-04-08] Police Commission** — Police Commission Meeting - April 8, 2026
+  > …>> Okay. >> Next is general order 41-2, the automated license plate recognition system. Do I have motion to approve that?…
+  [Watch ▸](https://www.youtube.com/watch?v=qImsXlvBhLA&t=1013s)  _(term: `alpr_flock`)_
 
-- **[2026-07-07] Board of Selectmen** — Board of Selectmen Meeting July 7, 2026
-  > …approve a request from the New Kingdom Police Department to renew the annual agreement with Flock Safety in the amount of $67,500 for license plate readers and cameras.…
-  [Watch ▸](https://www.youtube.com/watch?v=NRtEi9divQA&t=2180s)  _(term: `alpr_flock`)_
+- **[2026-04-08] Police Commission** — Police Commission Meeting - April 8, 2026
+  > …>> um could you just share with us a little bit for the public about uh what we are doing where the flock does not have the same limitations and how we are addressing that just so we have it on…
+  [Watch ▸](https://www.youtube.com/watch?v=qImsXlvBhLA&t=1090s)  _(term: `alpr_flock`)_
 
-- **[2026-04-16] Police Commission** — Police Commission Meeting April 16, 2026
-  > …and firearms training and also license plate readers. We are going to table the license plate reader policy for now because the state legislature is currently reviewing it…
-  [Watch ▸](https://www.youtube.com/watch?v=cbw-e9czFRU&t=304s)  _(term: `alpr_flock`)_
+- **[2026-04-08] Police Commission** — Police Commission Meeting - April 8, 2026
+  > …common with uh NCIC checks and collective furries things like that. So currently flock which is our vendor has provided a popup there every time somebody opens it up uh saying that they…
+  [Watch ▸](https://www.youtube.com/watch?v=qImsXlvBhLA&t=1133s)  _(term: `alpr_flock`)_
 
-- **[2026-03-26] Town Council** — Town Council Meeting March 26, 2026
-  > …Are you using or what platform do you use if you use any for license plate readers? Is it flock? >> We use Yes, we we have a contract with flock and…
-  [Watch ▸](https://www.youtube.com/watch?v=YjFYAH-JuFQ&t=4596s)  _(term: `alpr_flock`)_
+- **[2025-01-27] Board of Selectmen** — Board of Selectmen Meeting - January 27, 2025
+  > …guidelines out to our Animal Control Officers and we'll probably do similar again um if you have a backyard flock and you identify sick or um dead a animals call the Department of ab and…
+  [Watch ▸](https://www.youtube.com/watch?v=KRvhtkYvTbg&t=1308s)  _(term: `alpr_flock`)_
 
-- **[2026-03-26] Town Council** — Town Council Meeting March 26, 2026
-  > …readers? Is it flock? >> We use Yes, we we have a contract with flock and >> is that being shared? >> It it's we we follow uh the state law,…
-  [Watch ▸](https://www.youtube.com/watch?v=YjFYAH-JuFQ&t=4600s)  _(term: `alpr_flock`)_
+- **[2025-01-07] Conservation Commission** — Conservation Commission Meeting - January 7, 2025
+  > …utilities and whatnot they want us to bring in several flock logs which have already been ordered and flock logs are in…
+  [Watch ▸](https://www.youtube.com/watch?v=jLosgmOli1o&t=1426s)  _(term: `alpr_flock`)_
 
-- **[2026-02-10] Board of Finance** — Board of Finance Meeting February 10, 2026
-  > …um body warning cameras and car video cameras. Those are all licensed uh systems. And our flock is our uh license plate reader program uh cameras that are been very successful and help us helping…
-  [Watch ▸](https://www.youtube.com/watch?v=BQ4SCwSiS3Q&t=7480s)  _(term: `alpr_flock`)_
+- **[2025-01-07] Conservation Commission** — Conservation Commission Meeting - January 7, 2025
+  > …whatnot they want us to bring in several flock logs which have already been ordered and flock logs are in block and the chemical makeup of them…
+  [Watch ▸](https://www.youtube.com/watch?v=jLosgmOli1o&t=1428s)  _(term: `alpr_flock`)_
 
-- **[2026-02-10] Board of Finance** — Board of Finance Meeting February 10, 2026
-  > …>> Um I I do want to add for the board again the allocation of 75,000 from the IT department and flock was last year in capital. >> Correct. Yes. I'm sorry. Yeah, we we…
-  [Watch ▸](https://www.youtube.com/watch?v=BQ4SCwSiS3Q&t=7513s)  _(term: `alpr_flock`)_
+- **[2024-12-16] Police Commission** — Simsbury Police Commission Meeting - December 16, 2024
+  > …to us and it may not be so new for us but like or new to law enforcement but like the flock of cameras that's that's sort of been the push for law enforcement that type of um of…
+  [Watch ▸](https://www.youtube.com/watch?v=x6tCRPUWhbU&t=1133s)  _(term: `alpr_flock`)_
 
-- **[2026-02-10] Board of Finance** — Board of Finance Meeting February 10, 2026
-  > …capital. >> Correct. Yes. I'm sorry. Yeah, we we moved flock because now we're beyond the first year of service with them. So, it's now turned into a service contract.…
-  [Watch ▸](https://www.youtube.com/watch?v=BQ4SCwSiS3Q&t=7519s)  _(term: `alpr_flock`)_
+- **[2024-10-18] Police Commission** — Police Commission Meeting - October 18, 2024
+  > …or has a person in there who needs to be checked on um so we have had the uh the flock cameras out there uh now for several months and the um dash cameras out there for several months I'm going…
+  [Watch ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=808s)  _(term: `alpr_flock`)_
 
-- **[2026-02-06] Town Council** — Town Council & BOF Committee on Public Safety & Emergency Services Meeting February 6, 2026
-  > …up uh with our with our um with these service agreements. >> Chief, what is Flock? >> Flock, that's our uh license plate camera system that's in town. Um we have…
-  [Watch ▸](https://www.youtube.com/watch?v=zy5gly73Vpc&t=1545s)  _(term: `alpr_flock`)_
-
-
-_9 further mentions in New Canaan not shown here — all of them are in New Canaan's full report (not yet published)._
+- **[2024-10-18] Police Commission** — Police Commission Meeting - October 18, 2024
+  > …to give credit to a couple of the lieutenants for U their significant work on this uh alpr system uh policy uh there was nothing to follow there was no State mandate on…
+  [Watch ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=821s)  _(term: `alpr_flock`)_
 
 
-### Clinton — 20 mentions
-
-- **[2026-04-15] Town Council** — Clinton Town Council - April 15 2026
-  > …here. Um I shared information that questions the attempt to nearly separate Flock and ALPR from Ultraman and ATESD as as if residents are supposed to believe those…
-  [Watch ▸](https://www.youtube.com/watch?v=9PAKYH9fF34&t=582s)  _(term: `alpr_flock`)_
-
-- **[2026-04-15] Town Council** — Clinton Town Council - April 15 2026
-  > …Um I shared information that questions the attempt to nearly separate Flock and ALPR from Ultraman and ATESD as as if residents are supposed to believe those are completely separate conversations…
-  [Watch ▸](https://www.youtube.com/watch?v=9PAKYH9fF34&t=586s)  _(term: `alpr_flock`)_
-
-- **[2026-03-18] Town Council** — Clinton Town Council - March 18 2026
-  > …>> So they just want regulatory oversight on where the data goes. So the guy, the gentleman from Flock came and testified and his testimony was very straightforward. We have the data after…
-  [Watch ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5025s)  _(term: `alpr_flock`)_
-
-- **[2026-03-18] Town Council** — Clinton Town Council - March 18 2026
-  > …oversight in that. >> Make that to make that clear. That's the flock cameras, not the hearing we're having next week on the what we call >> the speed cameras are completely…
-  [Watch ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5172s)  _(term: `alpr_flock`)_
-
-- **[2026-03-18] Town Council** — Clinton Town Council - March 18 2026
-  > …>> So, a deletion doesn't necessarily mean a deletion, you know. And then that the gentleman from Flock talked about like the the uh the cloud. >> I mean, it's going to be somewhere,…
-  [Watch ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5247s)  _(term: `alpr_flock`)_
-
-- **[2026-03-18] Town Council** — Clinton Town Council - March 18 2026
-  > …to get picked up on the and the data is going to be in the cloud, the only way to stop that is to not have flock cameras that I can think of. And I don't think that…
-  [Watch ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5304s)  _(term: `alpr_flock`)_
-
-- **[2026-03-18] Town Council** — Clinton Town Council - March 18 2026
-  > …it Monday and uh it was very nice and uh I suggested to him if possibly if he could do the same thing for Flock uh to explain a lot of things just like Chris is trying to do right now about…
-  [Watch ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5706s)  _(term: `alpr_flock`)_
-
-- **[2026-02-04] Town Council** — Clinton Town Council - February 4 2026
-  > …conversation with our folks at the police department as an official agenda item about the flock cameras that exist in town. We made our decision on those like a year and a half or so ago, and I…
-  [Watch ▸](https://www.youtube.com/watch?v=RTxmTsz_bx8&t=3287s)  _(term: `alpr_flock`)_
-
-- **[2026-01-21] Town Council** — Clinton Town Council  - January 21 2026
-  > …they're six, five or six years old. He also figured that they want to upgrade a little bit of their the flock cameras. Those are those cameras that take pictures of the license plates of most…
-  [Watch ▸](https://www.youtube.com/watch?v=7FxKTImpO8U&t=1138s)  _(term: `alpr_flock`)_
-
-- **[2026-01-21] Town Council** — Clinton Town Council  - January 21 2026
-  > …bad guys are probably listening in, but uh they're making a lot of arrests off those flock cameras. A lot of preventive just to give you a slight hint is that come come down 81 and if you happen to…
-  [Watch ▸](https://www.youtube.com/watch?v=7FxKTImpO8U&t=1156s)  _(term: `alpr_flock`)_
-
-- **[2026-01-21] Town Council** — Clinton Town Council  - January 21 2026
-  > …he came out, the police were waiting for him right there at the library and arrest was made. So the flock cameras have been successful in many other ways also.…
-  [Watch ▸](https://www.youtube.com/watch?v=7FxKTImpO8U&t=1203s)  _(term: `alpr_flock`)_
-
-- **[2025-11-19] Town Council** — Clinton Town Council  - November 19 2025
-  > …they were submitting a Freedom of Information Act request to all municipalities who utilize flock cameras um looking for like governance documents, policies, and data shared. I…
-  [Watch ▸](https://www.youtube.com/watch?v=h6rM5enxVvg&t=2158s)  _(term: `alpr_flock`)_
+_9 further mentions in Simsbury not shown here — all of them are in [Simsbury's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-_8 further mentions in Clinton not shown here — all of them are in Clinton's full report (not yet published)._
+### Old Lyme — 20 mentions
+
+- **[2026-08-11] Road and Public Safety Committee** — Road and Public Safety Committee Minutes - 2026-08-11
+  > …reg Futoma noted that Governor Ned Lamont announced that he is calling on the Connecticut Police Officers Standards and Training Council to conduct a review of the increased use of safety cameras and automated license plate reader (ALPR) technology by municipalities. The governor is urging all municipalities in Connecticut to immediately pause the installation of any new cameras and ALPRs until t…
+  [Open document ▸](https://ct-oldlyme.civicplus.com/AgendaCenter/ViewFile/Minutes/_08112026-3435)  _(agenda/minutes · term: `alpr_flock`)_
+
+- **[2026-04-14] Road and Public Safety Committee** — Road and Public Safety Committee Regular Meeting 4/14/26
+  > …capacity for the police card. Again, they made a note as with east line that to tell the public these are not flock cameras they don't capture license plate data and have that data available side…
+  [Watch ▸](https://www.youtube.com/watch?v=uP3ISrCZYMQ&t=571s)  _(term: `alpr_flock`)_
+
+- **[2026-03-10] Road and Public Safety Committee** — Road & Public Safety Committee Meeting 3/10/26
+  > …by ATSED if a traffic violation has occurred, but the data obtained is the same as the data obtained by an ALPR. And we know that out of state law enforcement and the federal government…
+  [Watch ▸](https://www.youtube.com/watch?v=sBwwyFQtHBI&t=2830s)  _(term: `alpr_flock`)_
+
+- **[2026-03-10] Road and Public Safety Committee** — Road & Public Safety Committee Meeting 3/10/26
+  > …differently and the data concerns are not the same. You all are scared about Flock and what data they're sharing. This is not owned and operated by Flock." But it's like, well, if the…
+  [Watch ▸](https://www.youtube.com/watch?v=sBwwyFQtHBI&t=2955s)  _(term: `alpr_flock`)_
+
+- **[2026-03-10] Road and Public Safety Committee** — Road & Public Safety Committee Meeting 3/10/26
+  > …Flock and what data they're sharing. This is not owned and operated by Flock." But it's like, well, if the technology behind the two devices is the same, it doesn't really matter if they…
+  [Watch ▸](https://www.youtube.com/watch?v=sBwwyFQtHBI&t=2959s)  _(term: `alpr_flock`)_
+
+- **[2026-03-05] Parks and Recreation Commission** — Parks and Recreation Commission Meeting 3/5/26
+  > …you're going to notice the geese pair pairing up. And, you know, if you're seeing a flock of geese that's, you know, five, six, seven geese all together, those are young ones that…
+  [Watch ▸](https://www.youtube.com/watch?v=Vs9XVXVMw6c&t=1415s)  _(term: `alpr_flock`)_
+
+- **[2025-08-14] Road and Public Safety Committee** — Road and Public Safety Committee Meeting August 2025
+  > …it's the data protections and safeties and particularly who the manufacturer is because if it's flock is manufacturing, >> I think what suggests Sophie is you jot down your questions.…
+  [Watch ▸](https://www.youtube.com/watch?v=KxQT5dr0gIk&t=4286s)  _(term: `alpr_flock`)_
+
+- **[2025-02-11] Board of Finance** — Board of Finance Meeting February 11, 2025
+  > …with deep on this is there some way to identify the flock versus like the I'm sure there's a billion of them over in eastline like do some of them come or do they stay with…
+  [Watch ▸](https://www.youtube.com/watch?v=8l9TRYPL-A8&t=1073s)  _(term: `alpr_flock`)_
+
+- **[2025-02-11] Board of Finance** — Board of Finance Meeting February 11, 2025
+  > …and it it does dissuade if they are adult eggs then they don't hatch and the flock moves on and we've done this here in town yeah 20 years ago well it was on the board of when we did it the woman…
+  [Watch ▸](https://www.youtube.com/watch?v=8l9TRYPL-A8&t=1184s)  _(term: `alpr_flock`)_
+
+- **[2025-02-11] Board of Finance** — Board of Finance Meeting February 11, 2025
+  > …do it right but if you do nothing I can assure you the results right so if the results are you have a giant flock of geese that everyone is complaining about versus you know not having them because…
+  [Watch ▸](https://www.youtube.com/watch?v=8l9TRYPL-A8&t=1213s)  _(term: `alpr_flock`)_
+
+- **[2025-02-04] Board of Finance** — Board of Finance Regular Meeting Feb 4 2025
+  > …it's a hard argument also doing townwoods and well he's doing that flock which lives everywhere right so you can't really separate it that $331,000 number that is inclusive of…
+  [Watch ▸](https://www.youtube.com/watch?v=k9Yrhb9vd_E&t=393s)  _(term: `alpr_flock`)_
+
+- **[2025-02-04] Board of Finance** — Board of Finance Regular Meeting Feb 4 2025
+  > …mean I'm not thinking about this as specific to Hayes Park because this flock lives in a pound woods and I was at a Rogers Lake Authority meeting and it's they're all over the lake as well…
+  [Watch ▸](https://www.youtube.com/watch?v=k9Yrhb9vd_E&t=1083s)  _(term: `alpr_flock`)_
+
+
+_8 further mentions in Old Lyme not shown here — all of them are in [Old Lyme's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md)._
+
+
+### Guilford — 19 mentions
+
+- **[2026-01-28] Board of Selectmen** — Board of Selectmen Budget Workshop 1/28/26 pt 1 of 2
+  > …of in play when we go over capital and >> yeah, at the moment at the moment the license plate reader is quote unquote in the capital. >> Yep.…
+  [Watch ▸](https://www.youtube.com/watch?v=ct6W-Vi7mTo&t=4251s)  _(term: `alpr_flock`)_
+
+- **[2025-11-13] Board of Selectmen** — Board of Selectmen Capital Plan Workshop November 13, 2025
+  > …do with that piece of equipment. Um, and then I also have in here just a uh a mobile uh license plate reader. Uh, right now we have two license plate readers on patrol vehicles. Um, just…
+  [Watch ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=2983s)  _(term: `alpr_flock`)_
+
+- **[2025-11-13] Board of Selectmen** — Board of Selectmen Capital Plan Workshop November 13, 2025
+  > …so you're aware of it, you're >> Chris. Chris, would the command post and that new license plate reader be considered vehicle components? >> Uh, it's updating it's parts of…
+  [Watch ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=3006s)  _(term: `alpr_flock`)_
+
+- **[2025-11-13] Board of Selectmen** — Board of Selectmen Capital Plan Workshop November 13, 2025
+  > …considered vehicle components? >> Uh, it's updating it's parts of vehicles. I think a license plate reader for sure. >> Yeah.…
+  [Watch ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=3013s)  _(term: `alpr_flock`)_
+
+- **[2025-11-13] Board of Selectmen** — Board of Selectmen Capital Plan Workshop November 13, 2025
+  > …plate readers and the body armor. >> Thank you guys for having me. So, the uh the automated license plate recognition systems, we want to bring it back to the table. Um, you know, specifically, we're…
+  [Watch ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=4202s)  _(term: `alpr_flock`)_
+
+- **[2025-02-18] Board of Selectmen** — Board of Selectmen February 18, 2025
+  > …seen um for for those who came in uh those on Zoom probably not uh there's a is it a flock of penguins or is it what is it I I don't know oh my the librarian I know I'll find out…
+  [Watch ▸](https://www.youtube.com/watch?v=cbasfG23x04&t=429s)  _(term: `alpr_flock`)_
+
+- **[2025-02-18] Board of Selectmen** — Board of Selectmen February 18, 2025
+  > …seen um for for those who came in uh those on Zoom probably not uh there's a is it a flock of penguins or is it what is it I I don't know oh my the librarian I know I'll find out…
+  [Watch ▸](https://www.youtube.com/watch?v=rFbO9iNQiG8&t=429s)  _(term: `alpr_flock`)_
+
+- **[2025-02-18] Board of Selectmen** — Board of Selectmen February 18, 2025
+  > …of the Guilford foundation so any proceeds will go to that and that is the display of penguins flock or what um well if they're on the land if they're on the water they're a raft but if…
+  [Watch ▸](https://www.youtube.com/watch?v=cbasfG23x04&t=2988s)  _(term: `alpr_flock`)_
+
+- **[2025-02-18] Board of Selectmen** — Board of Selectmen February 18, 2025
+  > …of the Guilford foundation so any proceeds will go to that and that is the display of penguins flock or what um well if they're on the land if they're on the water they're a raft but if…
+  [Watch ▸](https://www.youtube.com/watch?v=rFbO9iNQiG8&t=2988s)  _(term: `alpr_flock`)_
+
+- **[2025-02-03] Board of Selectmen** — Board of Selectmen Special Meeting February 3, 2025
+  > …out I guess at the bottom three priorities all right and police uh move the fixed License Plate Reader system okay and the Public Works mobile columns for vehicle lifts um are they moving…
+  [Watch ▸](https://www.youtube.com/watch?v=pyFd8xt2FWA&t=5176s)  _(term: `alpr_flock`)_
+
+- **[2024-10-21] Board of Selectmen** — Board of Selectmen October 21, 2024
+  > …very large tree fall on one of our Patrol vehicles uh that vehicle happened to have one of our License Plate Reader units on it we had a program where we were running two of those on patrol…
+  [Watch ▸](https://www.youtube.com/watch?v=H4q03ZEOmkU&t=5140s)  _(term: `alpr_flock`)_
+
+- **[2024-10-21] Board of Selectmen** — Board of Selectmen October 21, 2024
+  > …place so that we have at least two Patrol vehicles that are equipped with the mobile License Plate Reader um particularly with spikes and uh motor vehicle thefts and and car break-ins and…
+  [Watch ▸](https://www.youtube.com/watch?v=H4q03ZEOmkU&t=5272s)  _(term: `alpr_flock`)_
+
+
+_7 further mentions in Guilford not shown here — all of them are in [Guilford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Rocky Hill — 18 mentions
@@ -1175,61 +1559,61 @@ _8 further mentions in Clinton not shown here — all of them are in Clinton's f
   [Watch ▸](https://www.youtube.com/watch?v=aomOl4EiDo8&t=1850s)  _(term: `alpr_flock`)_
 
 
-_6 further mentions in Rocky Hill not shown here — all of them are in Rocky Hill's full report (not yet published)._
+_6 further mentions in Rocky Hill not shown here — all of them are in [Rocky Hill's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Simsbury — 15 mentions
+### Waterford — 18 mentions
 
-- **[2026-08-10] Board of Selectmen** — Board of Selectmen Meeting - August 10, 2026
-  > …[clears throat] >> Brian Smith, 7 Wintergreen. Um, I'm here today to talk about the flock cameras in town. Uh, I don't know if any of you guys are aware of them or not. Um, but…
-  [Watch ▸](https://www.youtube.com/watch?v=oqK05SdmAdU&t=2182s)  _(term: `alpr_flock`)_
+- **[2026-08-19] Board of Selectmen** — BOS 2026/08/18
+  > …um Was this your department that ended up getting this directly, the finance department? The Flock camera letter. It wasn't addressed to anyone except town representatives.…
+  [Watch ▸](https://www.youtube.com/watch?v=x2rRqLhkQPU&t=2373s)  _(term: `alpr_flock`)_
 
-- **[2026-08-10] Board of Selectmen** — Board of Selectmen Meeting - August 10, 2026
-  > …the more important thing to me and a lot of other people in town is that we rent the cameras from a company named Flock. Um, and they're actually operating the cameras and doing whatever they want…
-  [Watch ▸](https://www.youtube.com/watch?v=oqK05SdmAdU&t=2200s)  _(term: `alpr_flock`)_
+- **[2026-08-19] Board of Selectmen** — BOS 2026/08/18
+  > …He got a copy of it as well. So, the police commission, who's responsible for Flock cameras and that nature, are going to start talking about that maybe at the next meeting. So, I did want I just…
+  [Watch ▸](https://www.youtube.com/watch?v=x2rRqLhkQPU&t=2393s)  _(term: `alpr_flock`)_
 
-- **[2026-08-10] Board of Selectmen** — Board of Selectmen Minutes - 2026-08-10
-  > …e this letter and explained some issues she has 99 been having there. She went through some questions she said she had asked on July 13th. 100 101 Brian Smith, 7 Wintergreen, spoke about the six flock cameras that we have in Town. He said 102 we rent these cameras, and they can do whatever they want to with the data they get from 103 them, even sell the data. He said there are a lot of To…
-  [Open document ▸](https://www.simsbury-ct.gov/AgendaCenter/ViewFile/Minutes/_08102026-1406)  _(agenda/minutes · term: `alpr_flock`)_
+- **[2026-08-19] Board of Selectmen** — BOS 2026/08/18
+  > …next meeting. So, I did want I just wanted to have this on cuz I know you've talked about Flock, I think. >> Yeah. >> I know Rich, you've talked about Flock…
+  [Watch ▸](https://www.youtube.com/watch?v=x2rRqLhkQPU&t=2400s)  _(term: `alpr_flock`)_
 
-- **[2026-04-08] Police Commission** — Police Commission Meeting - April 8, 2026
-  > …>> Okay. >> Next is general order 41-2, the automated license plate recognition system. Do I have motion to approve that?…
-  [Watch ▸](https://www.youtube.com/watch?v=qImsXlvBhLA&t=1013s)  _(term: `alpr_flock`)_
+- **[2026-08-19] Board of Selectmen** — BOS 2026/08/18
+  > …talked about Flock, I think. >> Yeah. >> I know Rich, you've talked about Flock cameras, too. So, just to have this kind of out here.…
+  [Watch ▸](https://www.youtube.com/watch?v=x2rRqLhkQPU&t=2402s)  _(term: `alpr_flock`)_
 
-- **[2026-04-08] Police Commission** — Police Commission Meeting - April 8, 2026
-  > …>> um could you just share with us a little bit for the public about uh what we are doing where the flock does not have the same limitations and how we are addressing that just so we have it on…
-  [Watch ▸](https://www.youtube.com/watch?v=qImsXlvBhLA&t=1090s)  _(term: `alpr_flock`)_
+- **[2026-08-19] Board of Selectmen** — BOS 2026/08/18
+  > …a pretty thorough uh correspondence. >> Yeah, I'm I'm happy to go publicly against Flock. You know, I'm happy to speak to a public. >> Yeah. So, you got the correspondence. I…
+  [Watch ▸](https://www.youtube.com/watch?v=x2rRqLhkQPU&t=2417s)  _(term: `alpr_flock`)_
 
-- **[2026-04-08] Police Commission** — Police Commission Meeting - April 8, 2026
-  > …common with uh NCIC checks and collective furries things like that. So currently flock which is our vendor has provided a popup there every time somebody opens it up uh saying that they…
-  [Watch ▸](https://www.youtube.com/watch?v=qImsXlvBhLA&t=1133s)  _(term: `alpr_flock`)_
+- **[2026-07-14] Board of Police Commissioners** — Board of Police Commissioners 2026/07/13
+  > …with a shots fired incident in New London. Um that case exemplifies how valuable the flocks flock license plate cameras are and a job well done by an officer who was thinking outside of the…
+  [Watch ▸](https://www.youtube.com/watch?v=aCLAEgwZQI4&t=1540s)  _(term: `alpr_flock`)_
 
-- **[2025-01-27] Board of Selectmen** — Board of Selectmen Meeting - January 27, 2025
-  > …guidelines out to our Animal Control Officers and we'll probably do similar again um if you have a backyard flock and you identify sick or um dead a animals call the Department of ab and…
-  [Watch ▸](https://www.youtube.com/watch?v=KRvhtkYvTbg&t=1308s)  _(term: `alpr_flock`)_
+- **[2026-07-14] Board of Police Commissioners** — Board of Police Commissioners 2026/07/13
+  > …wrong way over the Gold Star Bridge, at which time they broke it off. Uh the flock cameras in the area revealed that it had gone up to Norwich. So officer Cibilia thinking that there was a good…
+  [Watch ▸](https://www.youtube.com/watch?v=aCLAEgwZQI4&t=1564s)  _(term: `alpr_flock`)_
 
-- **[2025-01-07] Conservation Commission** — Conservation Commission Meeting - January 7, 2025
-  > …utilities and whatnot they want us to bring in several flock logs which have already been ordered and flock logs are in…
-  [Watch ▸](https://www.youtube.com/watch?v=jLosgmOli1o&t=1426s)  _(term: `alpr_flock`)_
+- **[2026-06-09] Board of Police Commissioners** — Board of Police Commissioners 2026/06/08
+  > …Department did continue to get inundated with FOIA requests, many related to our ALPR systems, which includes our Flock cameras, and we've been fulfilling those.…
+  [Watch ▸](https://www.youtube.com/watch?v=Yx4PWO6A4Yg&t=1519s)  _(term: `alpr_flock`)_
 
-- **[2025-01-07] Conservation Commission** — Conservation Commission Meeting - January 7, 2025
-  > …whatnot they want us to bring in several flock logs which have already been ordered and flock logs are in block and the chemical makeup of them…
-  [Watch ▸](https://www.youtube.com/watch?v=jLosgmOli1o&t=1428s)  _(term: `alpr_flock`)_
+- **[2026-06-09] Board of Police Commissioners** — Board of Police Commissioners 2026/06/08
+  > …another thing I'd like to mention is a stolen motor vehicle arrest after a Flock alert. So, on May 21st at 7:00 p.m. Officer Gorman was on routine patrol on Route 85…
+  [Watch ▸](https://www.youtube.com/watch?v=Yx4PWO6A4Yg&t=1672s)  _(term: `alpr_flock`)_
 
-- **[2024-12-16] Police Commission** — Simsbury Police Commission Meeting - December 16, 2024
-  > …to us and it may not be so new for us but like or new to law enforcement but like the flock of cameras that's that's sort of been the push for law enforcement that type of um of…
-  [Watch ▸](https://www.youtube.com/watch?v=x6tCRPUWhbU&t=1133s)  _(term: `alpr_flock`)_
+- **[2026-06-09] Board of Police Commissioners** — Board of Police Commissioners 2026/06/08
+  > …So, on May 21st at 7:00 p.m. Officer Gorman was on routine patrol on Route 85 uh when he received a Flock alert of a stolen vehicle entering town heading south on Route 85.…
+  [Watch ▸](https://www.youtube.com/watch?v=Yx4PWO6A4Yg&t=1680s)  _(term: `alpr_flock`)_
 
-- **[2024-10-18] Police Commission** — Police Commission Meeting - October 18, 2024
-  > …or has a person in there who needs to be checked on um so we have had the uh the flock cameras out there uh now for several months and the um dash cameras out there for several months I'm going…
-  [Watch ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=808s)  _(term: `alpr_flock`)_
+- **[2026-06-09] Board of Police Commissioners** — Board of Police Commissioners 2026/06/08
+  > …21-year-old male from Vernon uh for larceny of that vehicle. So, this just illustrates if not for the Flock cameras you know, odds are we would not have…
+  [Watch ▸](https://www.youtube.com/watch?v=Yx4PWO6A4Yg&t=1702s)  _(term: `alpr_flock`)_
 
-- **[2024-10-18] Police Commission** — Police Commission Meeting - October 18, 2024
-  > …to give credit to a couple of the lieutenants for U their significant work on this uh alpr system uh policy uh there was nothing to follow there was no State mandate on…
-  [Watch ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=821s)  _(term: `alpr_flock`)_
+- **[2026-06-09] Board of Police Commissioners** — Board of Police Commissioners 2026/06/08
+  > …its rightful owner. >> Do you Give me the When you say a Flock, what does the abbreviation stand for? >> The actual acronym, Pat? You know?…
+  [Watch ▸](https://www.youtube.com/watch?v=Yx4PWO6A4Yg&t=1712s)  _(term: `alpr_flock`)_
 
 
-_3 further mentions in Simsbury not shown here — all of them are in Simsbury's full report (not yet published)._
+_6 further mentions in Waterford not shown here — all of them are in [Waterford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Killingworth — 14 mentions
@@ -1283,112 +1667,58 @@ _3 further mentions in Simsbury not shown here — all of them are in Simsbury's
   [Watch ▸](https://www.youtube.com/watch?v=c6wal7BbM0I&t=496s)  _(term: `alpr_flock`)_
 
 
-_2 further mentions in Killingworth not shown here — all of them are in Killingworth's full report (not yet published)._
+_2 further mentions in Killingworth not shown here — all of them are in [Killingworth's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingworth/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Farmington — 13 mentions
+### East Haddam — 12 mentions
 
-- **[2026-03-12] Town Council** — Town Council Meeting - March 12, 2026
-  > …Monday on the House bill what 5449. So, so where is that in the budget as far as the flock? I mean is that under under patrol con contractual services? Is it under your…
-  [Watch ▸](https://www.youtube.com/watch?v=3_YtFUYl1tw&t=3843s)  _(term: `alpr_flock`)_
+- **[2025-12-02] Board of Selectmen** — Board of Selectmen - 12.2.2025
+  > …time as said in the paper it is time for the state to regulate the use and sharing of automated license plate reader data through legislation. They want the ordinance to be better worded…
+  [Watch ▸](https://www.youtube.com/watch?v=ax_Nj0RDb_Y&t=1050s)  _(term: `alpr_flock`)_
 
-- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
-  > …will be used to continue to pay for body and in-dash cameras, and to purchase three uh additional license plate reader systems. Uh Brian and the group, do you want me to go through them all just very…
-  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6272s)  _(term: `alpr_flock`)_
+- **[2025-12-02] Board of Selectmen** — Board of Selectmen - 12.2.2025
+  > …back to the cameras, the speed cameras or whatever, license plate readers. This is not a license plate reader, but years ago, uh, we had suggested that when they redid the bridge work, that a,…
+  [Watch ▸](https://www.youtube.com/watch?v=ax_Nj0RDb_Y&t=4534s)  _(term: `alpr_flock`)_
 
-- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
-  > …know, the fabric of technology and security of a town. Is so So, it's definitely in the license plate reader system. It seems like there's a there's a lot of towns doing a lot of things and…
-  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6598s)  _(term: `alpr_flock`)_
+- **[2025-11-05] Public Information Meeting** — Public Hearing - ATESD Part 1 - 11.5.2025
+  > …to share this stuff, police agencies use it without a warrant. It links up to the flock cameras. >> That's right. >> Flock. [clears throat]…
+  [Watch ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4050s)  _(term: `alpr_flock`)_
 
-- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
-  > …So, just to stay on that topic for a little bit. So, Most of you have heard of Flock. That's what we use and I and I think their business practice is exactly what you're talking about the…
-  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6664s)  _(term: `alpr_flock`)_
+- **[2025-11-05] Public Information Meeting** — Public Hearing - ATESD Part 1 - 11.5.2025
+  > …flock cameras. >> That's right. >> Flock. [clears throat] >> Flock. They're actually mocking us by saying it. clock.…
+  [Watch ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4052s)  _(term: `alpr_flock`)_
 
-- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
-  > …So, West Hartford has it, Avon has it, Simsbury has it, Bloomfield has it. Like everybody around us has Flock. Hartford used to have a different one. They're moving to Flock because of the…
-  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6678s)  _(term: `alpr_flock`)_
+- **[2025-11-05] Public Information Meeting** — Public Hearing - ATESD Part 1 - 11.5.2025
+  > …>> That's right. >> Flock. [clears throat] >> Flock. They're actually mocking us by saying it. clock. >> Okay, don't believe what he tells you.…
+  [Watch ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4053s)  _(term: `alpr_flock`)_
 
-- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
-  > …everybody around us has Flock. Hartford used to have a different one. They're moving to Flock because of the interoperability like you're saying. Not only throughout the region but…
-  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6683s)  _(term: `alpr_flock`)_
+- **[2025-11-05] Public Information Meeting** — Public Hearing - ATESD Part 1 - 11.5.2025
+  > …>> His wife might be [laughter] >> I I heard actually heard this gentleman mentioned Flock. And are you affiliated with Flock? Not >> now. is your database shared.…
+  [Watch ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5241s)  _(term: `alpr_flock`)_
 
-- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
-  > …safeguards. What we've done is because a lot of places have Flock, we've also worked with them to ensure everybody's been talking about immigration, right?…
-  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6845s)  _(term: `alpr_flock`)_
+- **[2025-11-05] Public Information Meeting** — Public Hearing - ATESD Part 1 - 11.5.2025
+  > …>> I I heard actually heard this gentleman mentioned Flock. And are you affiliated with Flock? Not >> now. is your database shared. >> We are not for the play.…
+  [Watch ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5244s)  _(term: `alpr_flock`)_
 
-- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
-  > …Reproductive rights. Those are the two topics that people are making sure that this Flock system's not being used that the Trust Act in Connecticut is honored the way it is.…
-  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6855s)  _(term: `alpr_flock`)_
+- **[2025-11-05] Public Information Meeting** — Public Hearing - ATESD Part 1 - 11.5.2025
+  > …>> So, so you could be sold or you could be bought. Let's say you could be bought by the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I…
+  [Watch ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5254s)  _(term: `alpr_flock`)_
 
-- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
-  > …And what we have done is we've worked with them once this policy is in place, Flock the company will make sure that any police department that searches this database has to approve that they are…
-  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6866s)  _(term: `alpr_flock`)_
+- **[2025-11-05] Public Information Meeting** — Public Hearing - ATESD Part 1 - 11.5.2025
+  > …the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I understand is there's over 4,800 law enforcement agencies who pay something…
+  [Watch ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5260s)  _(term: `alpr_flock`)_
 
-- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
-  > …the your answer was no, right? We've had runaway at risk kids who we have tracked to the Midwest using this Flock system. And so if I limited it to just here, we're not going to. Most of you have…
-  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6916s)  _(term: `alpr_flock`)_
+- **[2025-11-05] Public Information Meeting** — Public Hearing - ATESD Part 1 - 11.5.2025
+  > …database. So they they use it and then there's another 1,000 or more currently that pay into flock to access retail and insurance company uh related uh information from the database. So what's…
+  [Watch ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5277s)  _(term: `alpr_flock`)_
 
-- **[2026-02-24] Town Council** — Town Council Meeting - February 24, 2026
-  > …dollars in loss for residential burglaries. We use this Flock camera to be able to track them up and down the coast in the country and that's how we developed the…
-  [Watch ▸](https://www.youtube.com/watch?v=hWAKViIrBqk&t=6936s)  _(term: `alpr_flock`)_
+- **[2024-05-23] Redevelopment Agency** — Redevelopment Agency - 5.23.2024
+  > …right you might want to you I my flock you my flock might well yes but might want to raise the question more…
+  [Watch ▸](https://www.youtube.com/watch?v=TynbCsT-Ni8&t=8239s)  _(term: `alpr_flock`)_
 
-- **[2025-02-25] Town Council** — Town Council Meeting - February 25, 2025
-  > …payment of 67,5 2 so that's the first and then we lease seven flock cameras around down for $2,500 each for $…
-  [Watch ▸](https://www.youtube.com/watch?v=7SkXgNJPYHg&t=3893s)  _(term: `alpr_flock`)_
-
-
-_1 further mention in Farmington not shown here — all of them are in Farmington's full report (not yet published)._
-
-
-### Guilford — 12 mentions
-
-- **[2026-01-28] Board of Selectmen** — Board of Selectmen Budget Workshop 1/28/26 pt 1 of 2
-  > …of in play when we go over capital and >> yeah, at the moment at the moment the license plate reader is quote unquote in the capital. >> Yep.…
-  [Watch ▸](https://www.youtube.com/watch?v=ct6W-Vi7mTo&t=4251s)  _(term: `alpr_flock`)_
-
-- **[2025-11-13] Board of Selectmen** — Board of Selectmen Capital Plan Workshop November 13, 2025
-  > …do with that piece of equipment. Um, and then I also have in here just a uh a mobile uh license plate reader. Uh, right now we have two license plate readers on patrol vehicles. Um, just…
-  [Watch ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=2983s)  _(term: `alpr_flock`)_
-
-- **[2025-11-13] Board of Selectmen** — Board of Selectmen Capital Plan Workshop November 13, 2025
-  > …so you're aware of it, you're >> Chris. Chris, would the command post and that new license plate reader be considered vehicle components? >> Uh, it's updating it's parts of…
-  [Watch ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=3006s)  _(term: `alpr_flock`)_
-
-- **[2025-11-13] Board of Selectmen** — Board of Selectmen Capital Plan Workshop November 13, 2025
-  > …considered vehicle components? >> Uh, it's updating it's parts of vehicles. I think a license plate reader for sure. >> Yeah.…
-  [Watch ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=3013s)  _(term: `alpr_flock`)_
-
-- **[2025-11-13] Board of Selectmen** — Board of Selectmen Capital Plan Workshop November 13, 2025
-  > …plate readers and the body armor. >> Thank you guys for having me. So, the uh the automated license plate recognition systems, we want to bring it back to the table. Um, you know, specifically, we're…
-  [Watch ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=4202s)  _(term: `alpr_flock`)_
-
-- **[2025-02-18] Board of Selectmen** — Board of Selectmen February 18, 2025
-  > …seen um for for those who came in uh those on Zoom probably not uh there's a is it a flock of penguins or is it what is it I I don't know oh my the librarian I know I'll find out…
-  [Watch ▸](https://www.youtube.com/watch?v=cbasfG23x04&t=429s)  _(term: `alpr_flock`)_
-
-- **[2025-02-18] Board of Selectmen** — Board of Selectmen February 18, 2025
-  > …seen um for for those who came in uh those on Zoom probably not uh there's a is it a flock of penguins or is it what is it I I don't know oh my the librarian I know I'll find out…
-  [Watch ▸](https://www.youtube.com/watch?v=rFbO9iNQiG8&t=429s)  _(term: `alpr_flock`)_
-
-- **[2025-02-18] Board of Selectmen** — Board of Selectmen February 18, 2025
-  > …of the Guilford foundation so any proceeds will go to that and that is the display of penguins flock or what um well if they're on the land if they're on the water they're a raft but if…
-  [Watch ▸](https://www.youtube.com/watch?v=rFbO9iNQiG8&t=2988s)  _(term: `alpr_flock`)_
-
-- **[2025-02-18] Board of Selectmen** — Board of Selectmen February 18, 2025
-  > …of the Guilford foundation so any proceeds will go to that and that is the display of penguins flock or what um well if they're on the land if they're on the water they're a raft but if…
-  [Watch ▸](https://www.youtube.com/watch?v=cbasfG23x04&t=2988s)  _(term: `alpr_flock`)_
-
-- **[2025-02-03] Board of Selectmen** — Board of Selectmen Special Meeting February 3, 2025
-  > …out I guess at the bottom three priorities all right and police uh move the fixed License Plate Reader system okay and the Public Works mobile columns for vehicle lifts um are they moving…
-  [Watch ▸](https://www.youtube.com/watch?v=pyFd8xt2FWA&t=5176s)  _(term: `alpr_flock`)_
-
-- **[2024-10-21] Board of Selectmen** — Board of Selectmen October 21, 2024
-  > …very large tree fall on one of our Patrol vehicles uh that vehicle happened to have one of our License Plate Reader units on it we had a program where we were running two of those on patrol…
-  [Watch ▸](https://www.youtube.com/watch?v=H4q03ZEOmkU&t=5140s)  _(term: `alpr_flock`)_
-
-- **[2024-10-21] Board of Selectmen** — Board of Selectmen October 21, 2024
-  > …place so that we have at least two Patrol vehicles that are equipped with the mobile License Plate Reader um particularly with spikes and uh motor vehicle thefts and and car break-ins and…
-  [Watch ▸](https://www.youtube.com/watch?v=H4q03ZEOmkU&t=5272s)  _(term: `alpr_flock`)_
+- **[2023-11-30] Public Information Meeting** — Public Information Meeting - Open Space - 11.30.2023
+  > …as you can see with the yellow going around we also have had the idea that you can't just have everybody flock to one spot you need neighborhood things one of the studies shows that open space…
+  [Watch ▸](https://www.youtube.com/watch?v=WnjAvDso5MY&t=868s)  _(term: `alpr_flock`)_
 
 
 ### Killingly — 12 mentions
@@ -1440,6 +1770,57 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
 - **[2025-03-04] Town Council** — Killingly Town Council   3-4-2025 Special Meeting
   > …conversations so you thinking individual cameras that you looking for for each business are you looking for the flock system or were you open to whatever yeah I mean I'd like to see multiple cameras…
   [Watch ▸](https://www.youtube.com/watch?v=KnJ-EF4HcUM&t=6364s)  _(term: `alpr_flock`)_
+
+
+### Watertown — 12 mentions
+
+- **[2026-08-17] Town Council** — Town Council 8/17/26
+  > …I know that our police chief is in the back and I'd asked him about our um, license plate reader cameras, which we approved as a town council a number of years ago. Um, they've been in the news…
+  [Watch ▸](https://www.youtube.com/watch?v=I8oDDeycipA&t=1527s)  _(term: `alpr_flock`)_
+
+- **[2026-08-17] Town Council** — Town Council 8/17/26
+  > …years ago. Um, they've been in the news a lot. I'm sure some of you have seen them with the flock cameras. We do not have flock cameras. Um, but I'm hoping that through the town manager and the…
+  [Watch ▸](https://www.youtube.com/watch?v=I8oDDeycipA&t=1534s)  _(term: `alpr_flock`)_
+
+- **[2026-08-17] Town Council** — Town Council 8/17/26
+  > …a lot. I'm sure some of you have seen them with the flock cameras. We do not have flock cameras. Um, but I'm hoping that through the town manager and the chair of the town and the police chief…
+  [Watch ▸](https://www.youtube.com/watch?v=I8oDDeycipA&t=1536s)  _(term: `alpr_flock`)_
+
+- **[2026-02-17] Town Council** — Special TC/Town Council 2.17.26
+  > …types of devices. Uh, also the license, we've added six additional license plate reader cameras uh throughout the town this past year. They were paid for uh through um ARPA…
+  [Watch ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2253s)  _(term: `alpr_flock`)_
+
+- **[2026-02-17] Town Council** — Special TC/Town Council 2.17.26
+  > …I said that's too much for the town of Watertown. So, um, other other ones include Skyo, uh, Flock. Do you remember some of the other brands? >> We haven't settled on one yet. We're…
+  [Watch ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2560s)  _(term: `alpr_flock`)_
+
+- **[2025-06-11] Police Commission** — Police Commission 6 11 25
+  > …Uh lastly, the police department recently purchased an additional five recor license plate reader cameras with ARPA crime suppression funding. These devices have been installed and should…
+  [Watch ▸](https://www.youtube.com/watch?v=DSXN8p6Park&t=2810s)  _(term: `alpr_flock`)_
+
+- **[2024-02-21] Town Council** — Town Council 20FEB24
+  > …data plan to unlimited data we had just installed last year with the budget the axon Fleet dash cameras and we're Gathering a lot of um video footage that needs to be uploaded and we couldn't use…
+  [Watch ▸](https://www.youtube.com/watch?v=jLLzImTi_6Y&t=4942s)  _(term: `alpr_vendor`)_
+
+- **[2024-02-21] Town Council** — Town Council 20FEB24
+  > …it's the cost of the electricity to operate the traffic signals and the lprs the License Plate Reader cameras that are in town um and an additional $500 to maintain the midblock crosswalk signs on…
+  [Watch ▸](https://www.youtube.com/watch?v=jLLzImTi_6Y&t=4967s)  _(term: `alpr_flock`)_
+
+- **[2022-09-21] Police Commission** — Police Commission 14SEP22 1 of 2
+  > …that we can receive uh the we have had great success already with our License Plate Reader Program the License Plate Reader Program allows us to help combat crime in two ways the…
+  [Watch ▸](https://www.youtube.com/watch?v=4QNQOvGgXMk&t=5126s)  _(term: `alpr_flock`)_
+
+- **[2022-09-21] Police Commission** — Police Commission 14SEP22 1 of 2
+  > …uh the we have had great success already with our License Plate Reader Program the License Plate Reader Program allows us to help combat crime in two ways the first way is it provides live alerts to…
+  [Watch ▸](https://www.youtube.com/watch?v=4QNQOvGgXMk&t=5135s)  _(term: `alpr_flock`)_
+
+- **[2022-02-23] Town Council** — Town Council 7FEB22 Part1
+  > …to lease the license plate reader cameras that were approved by this council a few months ago this would be the year 2…
+  [Watch ▸](https://www.youtube.com/watch?v=vw35CyaojsA&t=8568s)  _(term: `alpr_flock`)_
+
+- **[2022-02-23] Town Council** — Town Council 7FEB22 Part1
+  > …months ago this would be the year 2 payment to keep the license plate reader program viable and we're also asking for 3500 for new…
+  [Watch ▸](https://www.youtube.com/watch?v=vw35CyaojsA&t=8574s)  _(term: `alpr_flock`)_
 
 
 ### Windsor — 11 mentions
@@ -1653,6 +2034,45 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
   [Watch ▸](https://www.youtube.com/watch?v=h4hl4B4biu4&t=4086s)  _(term: `alpr_flock`)_
 
 
+### North Branford — 9 mentions
+
+- **[2026-02-17] Town Council** — WPCA & Town Council Meeting 02/17/2026
+  > …The camera system, one of the reasons I was waiting on the LPRs, which is license plate reader in the in the incar camera system, is um there's a lot of talk and there's still a lot of talk up…
+  [Watch ▸](https://www.youtube.com/watch?v=UjtapcIB8c4&t=7947s)  _(term: `alpr_flock`)_
+
+- **[2026-02-17] Town Council** — WPCA & Town Council Meeting 2/17/26
+  > …The camera system, one of the reasons I was waiting on the LPRs, which is license plate reader in the in the incar camera system, is um there's a lot of talk and there's still a lot of talk up…
+  [Watch ▸](https://www.youtube.com/watch?v=RBFw5P2XtpI&t=7947s)  _(term: `alpr_flock`)_
+
+- **[2026-02-17] Town Council** — Town Council Meetings Minutes - 2026-02-17
+  > …change as fast as the body cams do. But every 5 years we would get brand new products to our officers included in this price. The camera system, one of the reasons I was waiting on the LPRs, which is license plate reader in the in-car camera system, is there's a lot of talk up at the at the State of Connecticut about LPRs getting contracts signed. He met with representative Candelora, and commissi…
+  [Open document ▸](https://www.townofnorthbranfordct.com/AgendaCenter/ViewFile/Minutes/_02172026-928)  _(agenda/minutes · term: `alpr_flock`)_
+
+- **[2024-10-17] Planning & Zoning Commission** — North Branford Planning & Zoning Commission  10/17/2024
+  > …somebody paying $68 for a rooster is going to eat it um the recommendation is to um turn over your rooster flock your your roosters in particular for genetic diversity every couple of years so that…
+  [Watch ▸](https://www.youtube.com/watch?v=b7ShD7MbiFM&t=7658s)  _(term: `alpr_flock`)_
+
+- **[2024-10-17] Planning & Zoning Commission** — North Branford Planning & Zoning Commission  10/17/2024
+  > …going to eat it um the recommendation is to um turn over your rooster flock your your roosters in particular for genetic diversity every couple of years so that…
+  [Watch ▸](https://www.youtube.com/watch?v=ONKdD7mSiro&t=7702s)  _(term: `alpr_flock`)_
+
+- **[2024-10-17] Planning & Zoning Commission** — North Branford Planning & Zoning Commission  10/17/2024
+  > …your um roosters are needed they're needed for new chicks they're needed for protection of the flock they're needed for the killing of vermin okay chickens will kill mice they'll kill rats they'll…
+  [Watch ▸](https://www.youtube.com/watch?v=b7ShD7MbiFM&t=7707s)  _(term: `alpr_flock`)_
+
+- **[2024-10-17] Planning & Zoning Commission** — North Branford Planning & Zoning Commission  10/17/2024
+  > …needed they're needed for new chicks they're needed for protection of the flock they're needed for the killing of vermin okay chickens will kill mice they'll kill rats they'll eat them you…
+  [Watch ▸](https://www.youtube.com/watch?v=ONKdD7mSiro&t=7750s)  _(term: `alpr_flock`)_
+
+- **[2023-09-19] Town Council** — Town Council 09/19/2023
+  > …cars and what they really want to do is find one that will also the camera that would also have a license plate reader so that they're working on that um and then the generator was the other…
+  [Watch ▸](https://www.youtube.com/watch?v=UuUh3roVrCE&t=2079s)  _(term: `alpr_flock`)_
+
+- **[2021-06-15] Town Council** — Town Council - 06/15/2021
+  > …brantford-building madison building and their population increased almost 10 everybody's going to want to flock to a new high school so now you're going to get an increase…
+  [Watch ▸](https://www.youtube.com/watch?v=Wmwycusf37I&t=5251s)  _(term: `alpr_flock`)_
+
+
 ### Stonington — 9 mentions
 
 - **[2026-03-30] Board of Finance** — Board of Finance - 03.30.26
@@ -1832,37 +2252,6 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
   [Watch ▸](https://www.youtube.com/watch?v=ebvbCP5WQTo&t=3406s)  _(term: `alpr_flock`)_
 
 
-### North Branford — 7 mentions
-
-- **[2026-02-17] Town Council** — WPCA & Town Council Meeting 2/17/26
-  > …The camera system, one of the reasons I was waiting on the LPRs, which is license plate reader in the in the incar camera system, is um there's a lot of talk and there's still a lot of talk up…
-  [Watch ▸](https://www.youtube.com/watch?v=RBFw5P2XtpI&t=7947s)  _(term: `alpr_flock`)_
-
-- **[2026-02-17] Town Council** — WPCA & Town Council Meeting 02/17/2026
-  > …The camera system, one of the reasons I was waiting on the LPRs, which is license plate reader in the in the incar camera system, is um there's a lot of talk and there's still a lot of talk up…
-  [Watch ▸](https://www.youtube.com/watch?v=UjtapcIB8c4&t=7947s)  _(term: `alpr_flock`)_
-
-- **[2026-02-17] Town Council** — Town Council Meetings Minutes - 2026-02-17
-  > …change as fast as the body cams do. But every 5 years we would get brand new products to our officers included in this price. The camera system, one of the reasons I was waiting on the LPRs, which is license plate reader in the in-car camera system, is there's a lot of talk up at the at the State of Connecticut about LPRs getting contracts signed. He met with representative Candelora, and commissi…
-  [Open document ▸](https://www.townofnorthbranfordct.com/AgendaCenter/ViewFile/Minutes/_02172026-928)  _(agenda/minutes · term: `alpr_flock`)_
-
-- **[2024-10-17] Planning & Zoning Commission** — North Branford Planning & Zoning Commission  10/17/2024
-  > …somebody paying $68 for a rooster is going to eat it um the recommendation is to um turn over your rooster flock your your roosters in particular for genetic diversity every couple of years so that…
-  [Watch ▸](https://www.youtube.com/watch?v=b7ShD7MbiFM&t=7658s)  _(term: `alpr_flock`)_
-
-- **[2024-10-17] Planning & Zoning Commission** — North Branford Planning & Zoning Commission  10/17/2024
-  > …going to eat it um the recommendation is to um turn over your rooster flock your your roosters in particular for genetic diversity every couple of years so that…
-  [Watch ▸](https://www.youtube.com/watch?v=ONKdD7mSiro&t=7702s)  _(term: `alpr_flock`)_
-
-- **[2024-10-17] Planning & Zoning Commission** — North Branford Planning & Zoning Commission  10/17/2024
-  > …your um roosters are needed they're needed for new chicks they're needed for protection of the flock they're needed for the killing of vermin okay chickens will kill mice they'll kill rats they'll…
-  [Watch ▸](https://www.youtube.com/watch?v=b7ShD7MbiFM&t=7707s)  _(term: `alpr_flock`)_
-
-- **[2024-10-17] Planning & Zoning Commission** — North Branford Planning & Zoning Commission  10/17/2024
-  > …needed they're needed for new chicks they're needed for protection of the flock they're needed for the killing of vermin okay chickens will kill mice they'll kill rats they'll eat them you…
-  [Watch ▸](https://www.youtube.com/watch?v=ONKdD7mSiro&t=7750s)  _(term: `alpr_flock`)_
-
-
 ### Beacon Falls — 6 mentions
 
 - **[2026-08-10] (unassigned body)** — Board of Selectmen Minutes - 2026-08-10
@@ -1873,13 +2262,13 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
   > …newly submitted. PB seconded. All ayes. Submitted today due to calculation error. See Exhibit A. 4. Comments From the Public: a. David Manning – Oakwood Dr., Oxford – Expressed displeasure with the flock cameras. He inquired with the BOS if they would consider discontinuing use of flock surveillance. 5. Resident Trooper Report: MK motioned to approve the Trooper’s report as presented. PB second…
   [Open document ▸](https://www.beaconfalls-ct.org/AgendaCenter/ViewFile/Minutes/_07132026-317)  _(agenda/minutes · term: `alpr_flock`)_
 
-- **[2026-01-13] (unassigned body)** — Board of Finance Agenda - 2026-01-13
-  > …b. Procurement Waivers i. Senior Center patio project ii. Additional Vehicle for Senior Minibus iii. Flock Cameras for Police Department 11. Executive Session (if needed) 12. Comments from the Public 13. Adjournment Respectfully submitted, Erin Schwarz Financ…
-  [Open document ▸](https://www.beaconfalls-ct.org/AgendaCenter/ViewFile/Agenda/_01132026-191)  _(agenda/minutes · term: `alpr_flock`)_
-
 - **[2026-01-13] (unassigned body)** — Board of Finance Minutes - 2026-01-13
   > …ting mandatory procurement training for Senior Center, Public Works and Fire. The BOS approved these procurement waivers last night. They did not act on the procurement waiver for the Flock cameras. E. Schwarz explained that the cameras have been in place for over a year, and the Corporal’s memo explains why he chose this vendor. The annual amount is over $24,000, which…
   [Open document ▸](https://www.beaconfalls-ct.org/AgendaCenter/ViewFile/Minutes/_01132026-191)  _(agenda/minutes · term: `alpr_flock`)_
+
+- **[2026-01-13] (unassigned body)** — Board of Finance Agenda - 2026-01-13
+  > …b. Procurement Waivers i. Senior Center patio project ii. Additional Vehicle for Senior Minibus iii. Flock Cameras for Police Department 11. Executive Session (if needed) 12. Comments from the Public 13. Adjournment Respectfully submitted, Erin Schwarz Financ…
+  [Open document ▸](https://www.beaconfalls-ct.org/AgendaCenter/ViewFile/Agenda/_01132026-191)  _(agenda/minutes · term: `alpr_flock`)_
 
 - **[2026-01-12] (unassigned body)** — Board of Selectmen Minutes - 2026-01-12
   > …ing a trial period (at a cost of $9,200) where the equipment’s functionality and reliability were verified, the department performed procurement research on four national leaders: Motorola, Leonardo, Rekor, and Flock Safety. III. Cost Analysis & Comparison While research was conducted on four vendors, two primary quotes were sourced based on regional compatibility and factory authorization: Floc…
@@ -1944,33 +2333,6 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
   [Watch ▸](https://www.youtube.com/watch?v=D3BO3GDfFsU&t=2885s)  _(term: `alpr_flock`)_
 
 
-### Mansfield — 6 mentions
-
-- **[2026-08-10] Town Council** — Town Council  8/10/2026
-  > …ALPRs? Um this is in reaction primarily to police departments' use of the readers, the Flock camera systems, and other things like that, but um are you aware that the governor's asked…
-  [Watch ▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3864s)  _(term: `alpr_flock`)_
-
-- **[2026-08-10] Town Council** — Town Council  8/10/2026
-  > …see any of the documentation in the packet around this that the specific ALPR technology that this company is using, you know, one of their revenue streams…
-  [Watch ▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3957s)  _(term: `alpr_flock`)_
-
-- **[2026-08-10] Town Council** — Town Council  8/10/2026
-  > …municipal police departments around the around the state, to make a list of all the ALPR technologies that are in use in the state. I'm imagining this would be on that list.…
-  [Watch ▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3995s)  _(term: `alpr_flock`)_
-
-- **[2026-08-10] Town Council** — Town Council Agenda - 2026-08-10
-  > …goal of improving compliance with state motor vehicle tax laws and increasing tax revenue. The Council inquired about the company's methods for verifying vehicle locations, including the use of license plate reader data, and the process for adding qualifying vehicles to the tax rolls. Council members raised concerns regarding privacy, data security, potential data-sharing practices, an…
-  [Open document ▸](https://ct-mansfield.civicplus.com/AgendaCenter/ViewFile/Agenda/_08102026-17709)  _(agenda/minutes · term: `alpr_flock`)_
-
-- **[2025-11-25] Agriculture Committee** — Agriculture Committee  11/25/2025
-  > …gives me plenty of time to cajul Steve into uh letting me have a whole flock of chickens. Uh, a horse. >> Oh, yeah. I'll stick to food animals.…
-  [Watch ▸](https://www.youtube.com/watch?v=M9BgsVnQ5aQ&t=2359s)  _(term: `alpr_flock`)_
-
-- **[2025-11-06] Parks and Natural Resources Committee** — PNRC 11/06/2025
-  > …Uh, but I I can look into adding coyotes. Uh, and not coyote flock. That's a different thing in town. Um, which was acknowledged by the way in USA…
-  [Watch ▸](https://www.youtube.com/watch?v=lgCNWqf0vF0&t=7397s)  _(term: `alpr_flock`)_
-
-
 ### New Haven — 6 mentions
 
 - **[2026-04-21] Public Safety Committee** — BoA Public Safety Committee 4/21/2026
@@ -1998,87 +2360,6 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
   [Watch ▸](https://www.youtube.com/watch?v=3_gjj1FwWuM&t=5251s)  _(term: `alpr_flock`)_
 
 
-### Old Lyme — 6 mentions
-
-- **[2026-08-11] Road and Public Safety Committee** — Road and Public Safety Committee Minutes - 2026-08-11
-  > …reg Futoma noted that Governor Ned Lamont announced that he is calling on the Connecticut Police Officers Standards and Training Council to conduct a review of the increased use of safety cameras and automated license plate reader (ALPR) technology by municipalities. The governor is urging all municipalities in Connecticut to immediately pause the installation of any new cameras and ALPRs until t…
-  [Open document ▸](https://ct-oldlyme.civicplus.com/AgendaCenter/ViewFile/Minutes/_08112026-3435)  _(agenda/minutes · term: `alpr_flock`)_
-
-- **[2026-04-14] Road and Public Safety Committee** — Road and Public Safety Committee Regular Meeting 4/14/26
-  > …capacity for the police card. Again, they made a note as with east line that to tell the public these are not flock cameras they don't capture license plate data and have that data available side…
-  [Watch ▸](https://www.youtube.com/watch?v=uP3ISrCZYMQ&t=571s)  _(term: `alpr_flock`)_
-
-- **[2026-03-10] Road and Public Safety Committee** — Road & Public Safety Committee Meeting 3/10/26
-  > …by ATSED if a traffic violation has occurred, but the data obtained is the same as the data obtained by an ALPR. And we know that out of state law enforcement and the federal government…
-  [Watch ▸](https://www.youtube.com/watch?v=sBwwyFQtHBI&t=2830s)  _(term: `alpr_flock`)_
-
-- **[2026-03-10] Road and Public Safety Committee** — Road & Public Safety Committee Meeting 3/10/26
-  > …differently and the data concerns are not the same. You all are scared about Flock and what data they're sharing. This is not owned and operated by Flock." But it's like, well, if the…
-  [Watch ▸](https://www.youtube.com/watch?v=sBwwyFQtHBI&t=2955s)  _(term: `alpr_flock`)_
-
-- **[2026-03-10] Road and Public Safety Committee** — Road & Public Safety Committee Meeting 3/10/26
-  > …Flock and what data they're sharing. This is not owned and operated by Flock." But it's like, well, if the technology behind the two devices is the same, it doesn't really matter if they…
-  [Watch ▸](https://www.youtube.com/watch?v=sBwwyFQtHBI&t=2959s)  _(term: `alpr_flock`)_
-
-- **[2026-03-05] Parks and Recreation Commission** — Parks and Recreation Commission Meeting 3/5/26
-  > …you're going to notice the geese pair pairing up. And, you know, if you're seeing a flock of geese that's, you know, five, six, seven geese all together, those are young ones that…
-  [Watch ▸](https://www.youtube.com/watch?v=Vs9XVXVMw6c&t=1415s)  _(term: `alpr_flock`)_
-
-
-### Seymour — 6 mentions
-
-- **[2026-02-09] Budget Hearing / State of the Town** — Board of Finance Budget Workshop: 2/9/2026
-  > …also. So we pay an annual maintenance fee on that. Uh we have some we have one vehicle mounted license plate reader that we pay $900 a year for. Uh also for fire extinguishers. Um postage comes out…
-  [Watch ▸](https://www.youtube.com/watch?v=6s6cTA1RWXY&t=779s)  _(term: `alpr_flock`)_
-
-- **[2025-08-05] Board of Selectmen** — BOS 8/5/2025
-  > …did you have any um >> Dana? Dana Flock tax collector. Um, yes, the in practice for the first one, that's fine. The other three things, I mean,…
-  [Watch ▸](https://www.youtube.com/watch?v=6OmBHkM-1J0&t=3605s)  _(term: `alpr_flock`)_
-
-- **[2022-02-08] Budget Hearing / State of the Town** — Board of Finance 20220207 Budget Workshop
-  > …extinguisher the actual cost is 660 dollars down from 2 grand and the license plate reader software we still have our total in this line i did leave out…
-  [Watch ▸](https://www.youtube.com/watch?v=OoExig3puKg&t=962s)  _(term: `alpr_flock`)_
-
-- **[2022-02-08] Budget Hearing / State of the Town** — Board of Finance 20220207 Budget Workshop
-  > …still have our total in this line i did leave out the the pole mounted alpr cameras that i'm considering purchasing we are getting our first year on those covered…
-  [Watch ▸](https://www.youtube.com/watch?v=OoExig3puKg&t=967s)  _(term: `alpr_flock`)_
-
-- **[2020-10-09] Board of Selectmen** — Board of Selectmen 20201008 Special  Meeting Part 2
-  > …just some information from our tax collector dana flock and again i asked her to take a look at how we are comparing uh overall collection wise we have…
-  [Watch ▸](https://www.youtube.com/watch?v=wyRdkkya-qU&t=197s)  _(term: `alpr_flock`)_
-
-- **[2020-09-02] Board of Selectmen** — Board of Selectmen 20200901 Part 1
-  > …approve the tax collector's report dated september 1st 2020 as presented by dana flock our tax collector motioned by anne marie second by…
-  [Watch ▸](https://www.youtube.com/watch?v=WiGbAe13Jkw&t=180s)  _(term: `alpr_flock`)_
-
-
-### Watertown — 6 mentions
-
-- **[2026-08-17] Town Council** — Town Council 8/17/26
-  > …I know that our police chief is in the back and I'd asked him about our um, license plate reader cameras, which we approved as a town council a number of years ago. Um, they've been in the news…
-  [Watch ▸](https://www.youtube.com/watch?v=I8oDDeycipA&t=1527s)  _(term: `alpr_flock`)_
-
-- **[2026-08-17] Town Council** — Town Council 8/17/26
-  > …years ago. Um, they've been in the news a lot. I'm sure some of you have seen them with the flock cameras. We do not have flock cameras. Um, but I'm hoping that through the town manager and the…
-  [Watch ▸](https://www.youtube.com/watch?v=I8oDDeycipA&t=1534s)  _(term: `alpr_flock`)_
-
-- **[2026-08-17] Town Council** — Town Council 8/17/26
-  > …a lot. I'm sure some of you have seen them with the flock cameras. We do not have flock cameras. Um, but I'm hoping that through the town manager and the chair of the town and the police chief…
-  [Watch ▸](https://www.youtube.com/watch?v=I8oDDeycipA&t=1536s)  _(term: `alpr_flock`)_
-
-- **[2026-02-17] Town Council** — Special TC/Town Council 2.17.26
-  > …types of devices. Uh, also the license, we've added six additional license plate reader cameras uh throughout the town this past year. They were paid for uh through um ARPA…
-  [Watch ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2253s)  _(term: `alpr_flock`)_
-
-- **[2026-02-17] Town Council** — Special TC/Town Council 2.17.26
-  > …I said that's too much for the town of Watertown. So, um, other other ones include Skyo, uh, Flock. Do you remember some of the other brands? >> We haven't settled on one yet. We're…
-  [Watch ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2560s)  _(term: `alpr_flock`)_
-
-- **[2025-06-11] Police Commission** — Police Commission 6 11 25
-  > …Uh lastly, the police department recently purchased an additional five recor license plate reader cameras with ARPA crime suppression funding. These devices have been installed and should…
-  [Watch ▸](https://www.youtube.com/watch?v=DSXN8p6Park&t=2810s)  _(term: `alpr_flock`)_
-
-
 ### East Windsor — 5 mentions
 
 - **[2026-06-04] Board of Selectmen** — Board of Selectmen Regular Meeting - June 4, 2026
@@ -2102,6 +2383,29 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
   [Watch ▸](https://www.youtube.com/watch?v=ku-2oyXAKE0&t=6972s)  _(term: `alpr_flock`)_
 
 
+### Groton — 5 mentions
+
+- **[2022-07-14] Planning and Zoning Commission** — Groton Planning and Zoning Commission - 7/14/22
+  > …pick to be a short-term rental district because it's everybody's gonna that's where they're gonna flock to and then every single house in that place will be a short term…
+  [Watch ▸](https://www.youtube.com/watch?v=-PEisoWv4yw&t=716s)  _(term: `alpr_flock`)_
+
+- **[2022-04-08] Town Council** — Groton Town Council FYE 2024 Budget Review Session #2 - 4/8/22
+  > …maintenance and we've also got a proposal in here for seven cameras through flock which are stationary cameras that will help identify Vehicles involved in crimes inside the town of…
+  [Watch ▸](https://www.youtube.com/watch?v=5IC2gEEYfPQ&t=3329s)  _(term: `alpr_flock`)_
+
+- **[2022-04-08] Town Council** — Groton Town Council FYE 2024 Budget Review Session #2 - 4/8/22
+  > …and recovering stolen vehicles certainly so we entered into a trial period with a flock camera so a flock camera is a stationary license plate for your camera um and essentially the point of the…
+  [Watch ▸](https://www.youtube.com/watch?v=5IC2gEEYfPQ&t=5115s)  _(term: `alpr_flock`)_
+
+- **[2022-04-08] Town Council** — Groton Town Council FYE 2024 Budget Review Session #2 - 4/8/22
+  > …looking for a vehicle we will enter with their search fields that you can put in flock and it'll identify when the car if it's been through your town…
+  [Watch ▸](https://www.youtube.com/watch?v=5IC2gEEYfPQ&t=5199s)  _(term: `alpr_flock`)_
+
+- **[2022-04-08] Town Council** — Groton Town Council FYE 2024 Budget Review Session #2 - 4/8/22
+  > …and is it fair to say that 10 stolen vehicles would not have been recovered without the assistance of flock excellent thank you have you seen the overdose increases…
+  [Watch ▸](https://www.youtube.com/watch?v=5IC2gEEYfPQ&t=5225s)  _(term: `alpr_flock`)_
+
+
 ### Griswold — 4 mentions
 
 - **[2025-11-26] Board of Selectmen** — Regular BOS Meeting
@@ -2121,7 +2425,26 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
   [Watch ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3314s)  _(term: `alpr_flock`)_
 
 
-### Old Saybrook — 3 mentions
+### New Britain — 4 mentions
+
+- **[2023-10-25] Common Council** — Common Council Regular Meeting Minutes - 2023-10-25
+  > …AXON 50 Fleet 3 Basic + Tap In-Car Cameras $101,400.00 WHEREAS, the New Britain Police Department requested a purchase order for the purchase of fifty (50) AXON Fleet 3 in-car video cameras from Axon Enterprise Inc. for patrol police vehicles as the current in-car camera equipment is over 10 years and is nearing the useful life of an in-car dash camera s…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=821&doc_id=a34b0638-b60b-11ee-bb82-0050569183fa)  _(agenda/minutes · term: `alpr_vendor`)_
+
+- **[2022-11-09] Common Council** — Common Council Regular Meeting Minutes - 2022-11-09
+  > …ro. So voted. Approved by Mayor Erin E. Stewart November 10, 2022. 35928 RE: BUDGET APPROPRIATION – POLICE DEPARTMENT – EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT (JAG) FOR AXON FLEET 3 IN-CAR VIDEO CAMERAS To Her Honor, the Mayor, and the Common Council of the City of New Britain: the undersigned beg leave to recommend the adoption of the following:…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=657&doc_id=bcaf0560-912c-11ed-96ab-0050569183fa)  _(agenda/minutes · term: `alpr_vendor`)_
+
+- **[2021-01-13] Common Council** — Common Council Regular Meeting Minutes - 2021-01-13
+  > …accept and adopt, seconded by Ald. Smedley. So voted. Approved January 15, 2021 by Mayor Erin E. Stewart. 35299 RE: SIEMENS, INC FOR SOFTWARE UPGRADES AND REPROGRAMMING OF THE GENETEC, INC. SECURITY SYSTEM FOR THE POLICE DEPARTMENT To Her Honor, the Mayor, and the Common Council of the City of New Britain: the undersigned beg leave to recommend the adoption of the follo…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=447&doc_id=f41f0d8d-a145-11eb-8549-0050569183fa)  _(agenda/minutes · term: `alpr_vendor`)_
+
+- **[2019-12-11] Common Council** — Common Council Regular Meeting Minutes - 2019-12-11
+  > …purchase order for the purchase of two (2) new AutoVu 3 LPR Camera Systems to include Installation and Training utilizing the State of Connecticut Contract Award #18PSX0005; and WHEREAS, The LPR (License Plate Reader) Camera Systems are important in that the intelligence derived from these devices is critical in solving violent crimes such as homicides, assaults, and robberies. The LPRs that a…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=312&doc_id=d676d81a-3e00-11ea-9ca4-0050569183fa)  _(agenda/minutes · term: `alpr_flock`)_
+
+
+### Old Saybrook — 4 mentions
 
 - **[2026-08-24] Police Commission** — Old Saybrook Police Commission August 24, 2026
   > …cameras will be active and they'll be able to all six patrol cars will be activate as an license plate reader through the front camera on the car which is also our our body camera or our…
@@ -2134,6 +2457,25 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
 - **[2026-05-18] Police Commission** — Old Saybrook Police Commission May 18, 2026
   > …ammunition purchases annual license and cost associated with department's license plate reader system. That will be upped a little bit this fiscal year. We knew that we weren't…
   [Watch ▸](https://www.youtube.com/watch?v=JW1-ATiWgWw&t=697s)  _(term: `alpr_flock`)_
+
+- **[2025-03-24] Police Commission** — Old Saybrook Police Commission March 24, 2025
+  > …they can like it can't be read or if they're unregistered it can't be read or no so the the license plate reader can only read uh registration plates that are part of the State DMV system any…
+  [Watch ▸](https://www.youtube.com/watch?v=LswHObso3xk&t=1338s)  _(term: `alpr_flock`)_
+
+
+### East Granby — 3 mentions
+
+- **[2026-05-27] Board of Selectmen** — East Granby Board of Selectmen - 05-27-26
+  > …actually just came in They just came in this evening, as I was driving in, um and including a license plate reader, if we choose to go that route, um as well as multiple cameras down there, as…
+  [Watch ▸](https://www.youtube.com/watch?v=2dYs-fg_dvg&t=924s)  _(term: `alpr_flock`)_
+
+- **[2026-04-22] Board of Selectmen** — East Granby Board of Selectmen  - 04-22-26
+  > …and livestock conflicts involve backyard chickens. I have personally been impacted with my backyard flock being mauled by a bear. My family owned business cannot take the…
+  [Watch ▸](https://www.youtube.com/watch?v=_Dy_vpHNwng&t=724s)  _(term: `alpr_flock`)_
+
+- **[2015-02-27] Plan of Conservation and Development** — East Granby Plan of Conservation Workshop #2
+  > …opportunity all we have to do is do this and and people from all over the valley will flock here that wasn't the kind of uh situation you had and that means that most chain retailers ERS are going to…
+  [Watch ▸](https://www.youtube.com/watch?v=HVOG42D1uBY&t=651s)  _(term: `alpr_flock`)_
 
 
 ### Waterbury — 3 mentions
@@ -2151,6 +2493,21 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
   [Watch ▸](https://www.youtube.com/watch?v=b9UbKRAwDzA&t=412s)  _(term: `alpr_flock`)_
 
 
+### Westport — 3 mentions
+
+- **[2025-05-13] Shellfish Advisory Board** — Shellfish Advisory Committee - May 13, 2025
+  > …birds, whether it's seagulls that fly from the farm and go down. There's a there's a a flock of seagulls. When you go all the way up to well, there's Tom's Point, but if you…
+  [Watch ▸](https://www.youtube.com/watch?v=QPIScWAE9_s&t=724s)  _(term: `alpr_flock`)_
+
+- **[2025-05-13] Shellfish Advisory Board** — Shellfish Advisory Committee - May 13, 2025
+  > …a week. Sometimes when there's more than one area open, though, it spreads the flock out. They tend to last longer. I guess they go with the easy digging is. Yeah. What's that?…
+  [Watch ▸](https://www.youtube.com/watch?v=QPIScWAE9_s&t=2642s)  _(term: `alpr_flock`)_
+
+- **[2024-06-20] Zoning Board of Appeals** — Zoning Board of Appeals - June 20, 2024
+  > …below now you have to include the bath and you have to include that office flock because that all could be considered part of the accessory department when you say office you mean…
+  [Watch ▸](https://www.youtube.com/watch?v=-LmhLkq1Ob4&t=518s)  _(term: `alpr_flock`)_
+
+
 ### Ansonia — 2 mentions
 
 - **[2022-12-14] Board of Aldermen** — Ansonia Connecticut Board of Aldermen
@@ -2164,24 +2521,13 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
 
 ### Coventry — 2 mentions
 
-- **[2026-08-17] Town Council** — Town Council Minutes - 2026-08-17
-  > …s, the grant could be rejected. Voting: For: Kyer, Hand, Gallagher, Larson, and Wheaton. Against: Blanchard. Abstain: 9. Miscellaneous/Correspondence: 9.A. * Correspondence: Squires - concern about Flock camera systems: Wheaton commented that he is delighted the Council Chair Lisa Thomas has asserted that the Town of Coventry is not looking to install flock cameras. Other councilors agreed. 9.B…
-  [Open document ▸](https://www.coventry-ct.gov/AgendaCenter/ViewFile/Minutes/_08172026-4592)  _(agenda/minutes · term: `alpr_flock`)_
-
 - **[2026-08-17] Town Council** — Town Council Agenda - 2026-08-17
   > …Documents: RFP COUNCIL LETTER DRAFT.PDF 26-27 - 10 SUMMARY SHEET.PDF 9. Miscellaneous/Correspondence: 9.A. * Correspondence: Squires - Concern About Flock Camera Systems (E) Documents: SQUIRES FLOCK CAMERAS.PDF 9.B. * Monthly Statistics, Police & Fire Departments: June/July 2026 (E) Documents:…
   [Open document ▸](https://www.coventry-ct.gov/AgendaCenter/ViewFile/Agenda/_08172026-4592)  _(agenda/minutes · term: `alpr_flock`)_
 
-
-### East Granby — 2 mentions
-
-- **[2026-05-27] Board of Selectmen** — East Granby Board of Selectmen - 05-27-26
-  > …actually just came in They just came in this evening, as I was driving in, um and including a license plate reader, if we choose to go that route, um as well as multiple cameras down there, as…
-  [Watch ▸](https://www.youtube.com/watch?v=2dYs-fg_dvg&t=924s)  _(term: `alpr_flock`)_
-
-- **[2026-04-22] Board of Selectmen** — East Granby Board of Selectmen  - 04-22-26
-  > …and livestock conflicts involve backyard chickens. I have personally been impacted with my backyard flock being mauled by a bear. My family owned business cannot take the…
-  [Watch ▸](https://www.youtube.com/watch?v=_Dy_vpHNwng&t=724s)  _(term: `alpr_flock`)_
+- **[2026-08-17] Town Council** — Town Council Minutes - 2026-08-17
+  > …s, the grant could be rejected. Voting: For: Kyer, Hand, Gallagher, Larson, and Wheaton. Against: Blanchard. Abstain: 9. Miscellaneous/Correspondence: 9.A. * Correspondence: Squires - concern about Flock camera systems: Wheaton commented that he is delighted the Council Chair Lisa Thomas has asserted that the Town of Coventry is not looking to install flock cameras. Other councilors agreed. 9.B…
+  [Open document ▸](https://www.coventry-ct.gov/AgendaCenter/ViewFile/Minutes/_08172026-4592)  _(agenda/minutes · term: `alpr_flock`)_
 
 
 ### Ellington — 2 mentions
@@ -2215,17 +2561,6 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
 - **[2025-12-18] Zoning Commission** — Borough of Naugatuck Zoning Meeting 12-18-25
   > …the time. It's a really nice sweating. Right now in Nagata, most of the people flock over to the golf course. It's a little tiny bunny thing. Only little tiny kids want to play there. This is…
   [Watch ▸](https://www.youtube.com/watch?v=NRgI9BBdiDM&t=4891s)  _(term: `alpr_flock`)_
-
-
-### New Britain — 2 mentions
-
-- **[2023-10-25] Common Council** — Common Council Regular Meeting Minutes - 2023-10-25
-  > …AXON 50 Fleet 3 Basic + Tap In-Car Cameras $101,400.00 WHEREAS, the New Britain Police Department requested a purchase order for the purchase of fifty (50) AXON Fleet 3 in-car video cameras from Axon Enterprise Inc. for patrol police vehicles as the current in-car camera equipment is over 10 years and is nearing the useful life of an in-car dash camera s…
-  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=821&doc_id=a34b0638-b60b-11ee-bb82-0050569183fa)  _(agenda/minutes · term: `alpr_vendor`)_
-
-- **[2022-11-09] Common Council** — Common Council Regular Meeting Minutes - 2022-11-09
-  > …ro. So voted. Approved by Mayor Erin E. Stewart November 10, 2022. 35928 RE: BUDGET APPROPRIATION – POLICE DEPARTMENT – EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT (JAG) FOR AXON FLEET 3 IN-CAR VIDEO CAMERAS To Her Honor, the Mayor, and the Common Council of the City of New Britain: the undersigned beg leave to recommend the adoption of the following:…
-  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=657&doc_id=bcaf0560-912c-11ed-96ab-0050569183fa)  _(agenda/minutes · term: `alpr_vendor`)_
 
 
 ### Ashford — 1 mention
@@ -2284,6 +2619,13 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
   [Open document ▸](https://www.middleburyct.gov/AgendaCenter/ViewFile/Minutes/_06082026-351)  _(agenda/minutes · term: `alpr_vendor`)_
 
 
+### Plainfield — 1 mention
+
+- **[2024-09-10] Planning & Zoning Commission** — September 10, 2024 Planning & Zoning Commission Part 1
+  > …up contamination different things that he had to do this is consistent with what they want to do uh intermar flock was subdivided off IRS was subdivided off other businesses were subdivided off…
+  [Watch ▸](https://www.youtube.com/watch?v=AEK1RHeDetg&t=1206s)  _(term: `alpr_flock`)_
+
+
 ### Plainville — 1 mention
 
 - **[2026-03-10] Town Council** — Plainville Town Council Budget Meeting - 03/10/26
@@ -2298,9 +2640,9 @@ _1 further mention in Farmington not shown here — all of them are in Farmingto
   [Watch ▸](https://www.youtube.com/watch?v=3WXzOtFeGp8&t=855s)  _(term: `alpr_flock`)_
 
 
-### Waterford — 1 mention
+### Wethersfield — 1 mention
 
-- **[2026-03-23] Board of Finance** — Board of Finance Agenda - 2026-03-23
-  > …nvironment. 86 OSW 4th Grade began an ongoing partnership with Flock Theater to explore curricular content through puppetry productions. OSW 5th Grade Students participated in Pfizer’s School of Science Mobile Experience in which students received hands-on…
-  [Open document ▸](https://www.waterfordct.gov/AgendaCenter/ViewFile/Agenda/_03232026-2382)  _(agenda/minutes · term: `alpr_flock`)_
+- **[2023-03-21] Planning and Zoning Commission** — March 21 2023 - PLANNING AND ZONING COMMISSION
+  > …um and a lot of the big players have already kind of decided on where their locations are you know they flock to like the major like the ones that opened up that were our Major League commercial…
+  [Watch ▸](https://www.youtube.com/watch?v=Ow8bRF2TZmQ&t=1015s)  _(term: `alpr_flock`)_
 

@@ -1,6 +1,6 @@
 # Gunshot detection: every mention, every town
 
-_Generated 2026-08-29T12:29:53 — 60 mentions across 3 towns, 2019-05-07 to 2026-08-05._
+_Generated 2026-08-31T08:49:17 — 69 mentions across 3 towns, 2019-05-07 to 2026-08-05._
 
 
 Acoustic sensor networks, such as ShotSpotter, that attempt to detect and locate gunfire.
@@ -23,7 +23,7 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **51** | 4 | 11 | 91% | 2020-05-20 | 2026-07-06 |
+| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **60** | 13 | 20 | 91% | 2020-05-20 | 2026-07-06 |
 | [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 2 | 96% | 2019-05-07 | 2024-04-16 |
 | [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 95% | 2026-08-05 | 2026-08-05 |
 
@@ -32,7 +32,7 @@ _No human review has been applied to any mention in this file._
 _Most recent first within each town. Every line links to the exact second of the meeting video._
 
 
-### New Haven — 51 mentions
+### New Haven — 60 mentions
 
 - **[2026-07-06] Board of Alders** — Board of Alders Agenda - 2026-07-06
   > …Safety. Favorable. a. Order of the Board of Alders of the City of New Haven authorizing the Mayor of the City of New Haven to enter into a five-year agreement with SoundThinking, Inc., for an annual ShotSpotter subscription in the amount of Two Million, Eighty-Four Thousand, Four Hundred And Thirty-One Dollars ($2,084,431.00) to provide a gunfire detection system and software. b. Order of the Bo…
@@ -83,7 +83,7 @@ _Most recent first within each town. Every line links to the exact second of the
   [Watch ▸](https://www.youtube.com/watch?v=wDg9WCWvuqI&t=775s)  _(term: `gunshot_detection`)_
 
 
-_39 further mentions in New Haven not shown here — all of them are in [New Haven's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)._
+_48 further mentions in New Haven not shown here — all of them are in [New Haven's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Hartford — 8 mentions

@@ -1,6 +1,6 @@
 # Other biometrics: every mention, every town
 
-_Generated 2026-08-29T12:29:57 — 8 mentions across 6 towns, 2021-03-11 to 2025-08-11._
+_Generated 2026-08-31T08:49:22 — 9 mentions across 6 towns, 2021-03-11 to 2025-08-11._
 
 
 Biometric identification other than face — gait, iris, voice.
@@ -24,14 +24,11 @@ _No human review has been applied to any mention in this file._
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
 | [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **3** | 3 | 3 | 95% | 2021-03-11 | 2025-08-11 |
-| East Windsor ⁽ⁿᵖ⁾ | **1** | · | 1 | 36% | 2024-03-28 | 2024-03-28 |
+| [Monroe](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 46% | 2022-11-07 | 2024-05-28 |
+| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 36% | 2024-03-28 | 2024-03-28 |
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2024-02-21 | 2024-02-21 |
-| Monroe ⁽ⁿᵖ⁾ | **1** | · | 1 | 23% | 2024-05-28 | 2024-05-28 |
-| Seymour ⁽ⁿᵖ⁾ | **1** | · | 1 | 75% | 2022-02-08 | 2022-02-08 |
+| [Seymour](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 83% | 2022-02-08 | 2022-02-08 |
 | [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2023-12-14 | 2023-12-14 |
-
-⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
-
 
 ## Receipts
 
@@ -53,6 +50,17 @@ _Most recent first within each town. Every line links to the exact second of the
   [Open document ▸](https://eltownhall.com/wp-content/uploads/2021/03/Police-Commission-March-11-2021-Minutes.pdf)  _(agenda/minutes · term: `biometrics_other`)_
 
 
+### Monroe — 2 mentions
+
+- **[2024-05-28] Town Council** — Town of Monroe Ct Town Council Regular Meeting 05/28/2024
+  > …agreements two snow plowing agreements number 7374 we also talked about the idemia identity and Security USA LLC Liv scan fingerprint system the uh fiscal year 25…
+  [Watch ▸](https://www.youtube.com/watch?v=qEFccOEhO0c&t=703s)  _(term: `biometrics_other`)_
+
+- **[2022-11-07] Town Council** — Town of Monroe Ct Town Council Regular Meeting 11/07/2022
+  > …performance Grant proposed discontinuance of a portion of Spring Hill Road idemia identity and Security USA LLC arcadis USA proposal and Professional Services agreement…
+  [Watch ▸](https://www.youtube.com/watch?v=F4kQ6nRfVJk&t=219s)  _(term: `biometrics_other`)_
+
+
 ### East Windsor — 1 mention
 
 - **[2024-03-28] Board of Finance** — Board of Finance Budget Workshop, Thursday March 28, 2024
@@ -65,13 +73,6 @@ _Most recent first within each town. Every line links to the exact second of the
 - **[2024-02-21] Board of Selectmen** — Board of Selectmen (Regular Meeting) - 2/21/2024
   > …motion uh deputy chief in 2020 the Department of Emergency Services and public protection contracted with idemia to serve as the state's biometric technology for the secure capture and…
   [Watch ▸](https://www.youtube.com/watch?v=T_M-3cLmct0&t=281s)  _(term: `biometrics_other`)_
-
-
-### Monroe — 1 mention
-
-- **[2024-05-28] Town Council** — Town of Monroe Ct Town Council Regular Meeting 05/28/2024
-  > …agreements two snow plowing agreements number 7374 we also talked about the idemia identity and Security USA LLC Liv scan fingerprint system the uh fiscal year 25…
-  [Watch ▸](https://www.youtube.com/watch?v=qEFccOEhO0c&t=703s)  _(term: `biometrics_other`)_
 
 
 ### Seymour — 1 mention

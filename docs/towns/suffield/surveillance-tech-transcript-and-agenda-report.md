@@ -1,49 +1,67 @@
-# Surveillance-tech transcript report: Suffield
+# Surveillance-tech report: Suffield
 
 
-_Generated 2026-08-29T10:21:00 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Suffield"`_
+## At a glance: Suffield
+
+This report collects every mention of surveillance technology found in **Suffield**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **3 mentions** across **2 meetings**
+- **First mention:** 2025-03-19  |  **Most recent:** 2026-06-09
+- **Technologies discussed:** drone, facial_recognition
+- **Coverage:** 102 of 114 known Suffield meetings transcribed (89%)
+- **Not the full history:** transcripts begin **2019-02-28**, but Suffield's published video archive goes back to **2018-09-26**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
-## Coverage status
-
-- Channels registered: 2
-- Active meeting bodies: 10
-- Videos registered: 114 (fetched: 102, no captions: 0)
-- Date range covered: 2018-09-26 to 2026-08-20 (all 114 videos dated)
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| Suffield Town Govt. (Live Stream) | suffield_town_govt | @suffieldtowngovt.4965 |
-| Sunlight on Suffield CT | suffield_sunlight | @SunlightonSuffieldCT1 |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| suffield_sunlight | streams | 2026-08-29 09:17:17.516636 | 0 |
-| suffield_sunlight | videos | 2026-08-29 09:17:19.893322 | 154 |
-| suffield_town_govt | streams | 2026-08-29 08:26:31.831738 | 0 |
-| suffield_town_govt | videos | 2026-08-29 08:26:32.666724 | 19 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-## Registered meeting bodies
+## Get the full transcripts
 
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Town Meeting / Budget | budget_finance | True | 13 |
-| Board of Selectmen | council | True | 56 |
-| Board of Education | education | True | 1 |
-| Charter Revision Commission | other | True | 13 |
-| Economic Development Commission | other | True | 2 |
-| Kent Memorial Library Commission | other | True | 20 |
-| Permanent Building Commission | other | True | 4 |
-| Planning and Zoning Commission | other | True | 2 |
-| Retirement Commission | other | True | 1 |
-| Fire Commission | public_safety | True | 2 |
+**[Download Suffield's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/suffield-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip suffield-meeting-transcripts.zip -d suffield
+cd suffield
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -186,20 +204,6 @@ _Generated 2026-08-29T10:21:00 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| suffield_custom | custom | https://www.suffieldct.gov/government/agendas-minutes | confirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -303,6 +307,66 @@ _Generated 2026-08-29T10:21:00 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 2
+- Active meeting bodies: 10
+- Videos registered: 114 (fetched: 102, no captions: 0)
+- Date range covered: 2018-09-26 to 2026-08-20 (all 114 videos dated)
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| Suffield Town Govt. (Live Stream) | suffield_town_govt | @suffieldtowngovt.4965 |
+| Sunlight on Suffield CT | suffield_sunlight | @SunlightonSuffieldCT1 |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| suffield_sunlight | videos | 2026-08-31 07:27:58.305477 | 154 |
+| suffield_town_govt | videos | 2026-08-31 07:13:37.164187 | 19 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Town Meeting / Budget | budget_finance | True | 13 |
+| Board of Selectmen | council | True | 56 |
+| Board of Education | education | True | 1 |
+| Charter Revision Commission | other | True | 13 |
+| Economic Development Commission | other | True | 2 |
+| Kent Memorial Library Commission | other | True | 20 |
+| Permanent Building Commission | other | True | 4 |
+| Planning and Zoning Commission | other | True | 2 |
+| Retirement Commission | other | True | 1 |
+| Fire Commission | public_safety | True | 2 |
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 0 (fetched: 0)
+- Date range covered: *no agenda document on file carries a parseable date yet*
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| suffield_custom | custom | https://www.suffieldct.gov/government/agendas-minutes | confirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -323,5 +387,14 @@ _Generated 2026-08-29T10:21:00 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### Tabs never crawled
 
-*(none)*
+| channel | tab |
+| --- | --- |
+| Suffield Town Govt. (Live Stream) | streams |
+| Sunlight on Suffield CT | streams |
+
+
+---
+
+
+_Generated 2026-08-31T08:18:51 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Suffield"`_
 

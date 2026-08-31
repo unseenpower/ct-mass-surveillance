@@ -1,44 +1,67 @@
-# Surveillance-tech transcript report: Brookfield
+# Surveillance-tech report: Brookfield
 
 
-_Generated 2026-08-29T10:15:30 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Brookfield"`_
+## At a glance: Brookfield
+
+This report collects every mention of surveillance technology found in **Brookfield**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **73 mentions** across **31 meetings**
+- **First mention:** 2020-10-08  |  **Most recent:** 2026-06-25
+- **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone, predictive_policing, surveillance_general
+- **Coverage:** 498 of 530 known Brookfield meetings transcribed (94%)
+- **Not the full history:** transcripts begin **2020-05-07**, but Brookfield's published video archive goes back to **2018-05-15**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 8
-- Videos registered: 530 (fetched: 498, no captions: 12)
-- Date range covered: 2018-05-15 to 2026-08-27 (all 530 videos dated)
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| BrookfieldCT | brookfield_ct | @brookfieldct06804 |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| brookfield_ct | streams | 2026-08-29 09:00:59.249340 | 669 |
-| brookfield_ct | videos | 2026-08-29 09:01:01.093116 | 100 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-## Registered meeting bodies
+## Get the full transcripts
 
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 113 |
-| Board of Selectmen | council | True | 74 |
-| Inland Wetlands Commission | other | True | 104 |
-| Planning Commission | other | True | 65 |
-| Planning and Zoning Commission | other | True | 14 |
-| Zoning Board of Appeals | other | True | 59 |
-| Zoning Commission | other | True | 100 |
-| Police Commission | public_safety | True | 1 |
+**[Download Brookfield's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/brookfield-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip brookfield-meeting-transcripts.zip -d brookfield
+cd brookfield
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -742,20 +765,6 @@ _Generated 2026-08-29T10:15:30 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| brookfield_custom | custom | https://onboard.brookfieldct.gov/ | unconfirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -859,6 +868,63 @@ _Generated 2026-08-29T10:15:30 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 8
+- Videos registered: 530 (fetched: 498, no captions: 12)
+- Date range covered: 2018-05-15 to 2026-08-27 (all 530 videos dated)
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| BrookfieldCT | brookfield_ct | @brookfieldct06804 |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| brookfield_ct | streams | 2026-08-31 07:28:54.393151 | 669 |
+| brookfield_ct | videos | 2026-08-31 07:28:56.078218 | 100 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Board of Finance | budget_finance | True | 113 |
+| Board of Selectmen | council | True | 74 |
+| Inland Wetlands Commission | other | True | 104 |
+| Planning Commission | other | True | 65 |
+| Planning and Zoning Commission | other | True | 14 |
+| Zoning Board of Appeals | other | True | 59 |
+| Zoning Commission | other | True | 100 |
+| Police Commission | public_safety | True | 1 |
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 0 (fetched: 0)
+- Date range covered: *no agenda document on file carries a parseable date yet*
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| brookfield_custom | custom | https://onboard.brookfieldct.gov/ | unconfirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -891,4 +957,10 @@ _Generated 2026-08-29T10:15:30 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:08:41 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Brookfield"`_
 

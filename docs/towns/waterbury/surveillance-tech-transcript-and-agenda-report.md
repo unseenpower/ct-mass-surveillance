@@ -1,48 +1,67 @@
-# Surveillance-tech transcript report: Waterbury
+# Surveillance-tech report: Waterbury
 
 
-_Generated 2026-08-29T10:21:14 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Waterbury"`_
+## At a glance: Waterbury
+
+This report collects every mention of surveillance technology found in **Waterbury**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **55 mentions** across **30 meetings**
+- **First mention:** 2017-09-11  |  **Most recent:** 2026-07-23
+- **Technologies discussed:** alpr, body_camera, drone, rtcc, surveillance_general
+- **Coverage:** 442 of 517 known Waterbury meetings transcribed (85%)
+- **Still incomplete:** 75 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
-## Coverage status
-
-- Channels registered: 2
-- Active meeting bodies: 6
-- Videos registered: 517 (fetched: 442, no captions: 13)
-- Date range covered: 2017-07-27 to 2026-08-20 — **based on the 511 of 517 videos that carry a parseable upload date**; the other 6 are undated, so the real corpus may extend beyond this range in either direction
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| City of Waterbury | city_of_waterbury | @cityofwaterbury2129 |
-| Waterbury Board of Education | waterbury_boe | @waterburyboardofeducation7591 |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| city_of_waterbury | streams | 2026-08-29 08:26:45.198645 | 194 |
-| city_of_waterbury | videos | 2026-08-29 08:26:47.096964 | 117 |
-| waterbury_boe | streams | 2026-08-29 09:08:52.037795 | 144 |
-| waterbury_boe | videos | 2026-08-29 09:08:54.814118 | 205 |
-
-
-## Registered meeting bodies
-
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Finance and Audit Review Commission | budget_finance | True | 0 |
-| Board of Aldermen | council | True | 259 |
-| Board of Education | education | True | 257 |
-| Board of Public Works | other | True | 0 |
-| Charter Revision Commission | other | True | 1 |
-| Board of Police Commissioners | public_safety | True | 0 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-**Zero videos registered for:** Finance and Audit Review Commission, Board of Public Works, Board of Police Commissioners
+## Get the full transcripts
+
+**[Download Waterbury's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/waterbury-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip waterbury-meeting-transcripts.zip -d waterbury
+cd waterbury
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -634,20 +653,6 @@ _Generated 2026-08-29T10:21:14 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| waterbury_custom | custom | https://www.waterburyct.org/administration/boards-and-commissions/agendas-minutes-notices | unconfirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -751,6 +756,67 @@ _Generated 2026-08-29T10:21:14 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 2
+- Active meeting bodies: 6
+- Videos registered: 517 (fetched: 442, no captions: 13)
+- Date range covered: 2017-07-27 to 2026-08-20 — **based on the 511 of 517 videos that carry a parseable upload date**; the other 6 are undated, so the real corpus may extend beyond this range in either direction
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| City of Waterbury | city_of_waterbury | @cityofwaterbury2129 |
+| Waterbury Board of Education | waterbury_boe | @waterburyboardofeducation7591 |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| city_of_waterbury | streams | 2026-08-31 07:13:48.915897 | 194 |
+| city_of_waterbury | videos | 2026-08-31 07:13:50.682215 | 117 |
+| waterbury_boe | streams | 2026-08-31 07:22:41.388726 | 144 |
+| waterbury_boe | videos | 2026-08-31 07:22:44.177655 | 205 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Finance and Audit Review Commission | budget_finance | True | 0 |
+| Board of Aldermen | council | True | 259 |
+| Board of Education | education | True | 257 |
+| Board of Public Works | other | True | 0 |
+| Charter Revision Commission | other | True | 1 |
+| Board of Police Commissioners | public_safety | True | 0 |
+
+
+**Zero videos registered for:** Finance and Audit Review Commission, Board of Public Works, Board of Police Commissioners
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 0 (fetched: 0)
+- Date range covered: *no agenda document on file carries a parseable date yet*
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| waterbury_custom | custom | https://www.waterburyct.org/administration/boards-and-commissions/agendas-minutes-notices | unconfirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -789,4 +855,10 @@ _Generated 2026-08-29T10:21:14 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:19:18 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Waterbury"`_
 

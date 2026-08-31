@@ -1,43 +1,61 @@
-# Surveillance-tech transcript report: Danbury
+# Surveillance-tech report: Danbury
 
 
-_Generated 2026-08-29T10:16:04 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Danbury"`_
+## At a glance: Danbury
+
+This report collects every mention of surveillance technology found in **Danbury**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 4
-- Videos registered: 20 (fetched: 20, no captions: 0)
-- Date range covered: 2020-05-05 to 2021-06-02 (all 20 videos dated)
+**No surveillance-technology mentions have been found in this town's meetings yet.** That is not the same as none existing -- read the coverage note below, and [Gaps and caveats](#gaps-and-caveats), before treating this as an answer about the town.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| City of Danbury | city_of_danbury | @CityofDanburyConnecticut |
+- **Coverage:** 20 of 20 known Danbury meetings transcribed (100%)
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| city_of_danbury | streams | 2026-08-29 08:45:59.401542 | 44 |
-| city_of_danbury | videos | 2026-08-29 08:46:01.034426 | 87 |
-
-
-## Registered meeting bodies
-
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| City Council | council | True | 17 |
-| Committee of the Whole | council | True | 1 |
-| General Government Committee | other | True | 2 |
-| Police Commission | public_safety | True | 0 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-**Zero videos registered for:** Police Commission
+## Get the full transcripts
+
+**[Download Danbury's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/danbury-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip danbury-meeting-transcripts.zip -d danbury
+cd danbury
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -153,21 +171,6 @@ _Generated 2026-08-29T10:16:04 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 2
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| danbury_agendacenter | agendacenter | https://www.danbury-ct.gov/AgendaCenter | confirmed |
-| danbury_granicus | granicus | https://danbury.granicus.com/ViewPublisher.php?view_id=3 | blocked |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -271,6 +274,63 @@ _Generated 2026-08-29T10:16:04 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 4
+- Videos registered: 20 (fetched: 20, no captions: 0)
+- Date range covered: 2020-05-05 to 2021-06-02 (all 20 videos dated)
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| City of Danbury | city_of_danbury | @CityofDanburyConnecticut |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| city_of_danbury | streams | 2026-08-31 07:18:10.886961 | 44 |
+| city_of_danbury | videos | 2026-08-31 07:18:12.394194 | 87 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| City Council | council | True | 17 |
+| Committee of the Whole | council | True | 1 |
+| General Government Committee | other | True | 2 |
+| Police Commission | public_safety | True | 0 |
+
+
+**Zero videos registered for:** Police Commission
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 2
+- Documents registered: 0 (fetched: 0)
+- Date range covered: *no agenda document on file carries a parseable date yet*
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| danbury_agendacenter | agendacenter | https://www.danbury-ct.gov/AgendaCenter | confirmed |
+| danbury_granicus | granicus | https://danbury.granicus.com/ViewPublisher.php?view_id=3 | blocked |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -292,4 +352,10 @@ _Generated 2026-08-29T10:16:04 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:09:32 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Danbury"`_
 

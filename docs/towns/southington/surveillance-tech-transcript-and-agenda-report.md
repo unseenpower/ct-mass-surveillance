@@ -1,43 +1,66 @@
-# Surveillance-tech transcript report: Southington
+# Surveillance-tech report: Southington
 
 
-_Generated 2026-08-29T10:20:51 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Southington"`_
+## At a glance: Southington
+
+This report collects every mention of surveillance technology found in **Southington**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **140 mentions** across **26 meetings**
+- **First mention:** 2020-09-09  |  **Most recent:** 2026-07-14
+- **Technologies discussed:** alpr, biometrics_other, body_camera, drone, facial_recognition
+- **Coverage:** 375 of 388 known Southington meetings transcribed (97%)
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 4
-- Videos registered: 388 (fetched: 375, no captions: 13)
-- Date range covered: 2019-07-22 to 2026-08-13 (all 388 videos dated)
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| Town of Southington | town_of_southington | @townofsouthington7646 |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| town_of_southington | streams | 2026-08-29 08:36:35.465485 | 304 |
-| town_of_southington | videos | 2026-08-29 08:36:38.887159 | 241 |
-
-
-## Registered meeting bodies
-
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 85 |
-| Town Council | council | True | 176 |
-| Board of Education | education | True | 127 |
-| Board of Police Commissioners | public_safety | True | 0 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-**Zero videos registered for:** Board of Police Commissioners
+## Get the full transcripts
+
+**[Download Southington's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/southington-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip southington-meeting-transcripts.zip -d southington
+cd southington
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -1119,21 +1142,6 @@ _Generated 2026-08-29T10:20:51 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 2
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| southington_boe_boardbook | custom | https://meetings.boardbook.org/public/Organization/2466 | unconfirmed |
-| southington_documents_on_demand | custom | https://southingtontownct.documents-on-demand.com/ | unconfirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -1237,6 +1245,63 @@ _Generated 2026-08-29T10:20:51 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 4
+- Videos registered: 388 (fetched: 375, no captions: 13)
+- Date range covered: 2019-07-22 to 2026-08-13 (all 388 videos dated)
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| Town of Southington | town_of_southington | @townofsouthington7646 |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| town_of_southington | streams | 2026-08-31 07:32:02.553984 | 304 |
+| town_of_southington | videos | 2026-08-31 07:32:06.170714 | 241 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Board of Finance | budget_finance | True | 85 |
+| Town Council | council | True | 176 |
+| Board of Education | education | True | 127 |
+| Board of Police Commissioners | public_safety | True | 0 |
+
+
+**Zero videos registered for:** Board of Police Commissioners
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 2
+- Documents registered: 0 (fetched: 0)
+- Date range covered: *no agenda document on file carries a parseable date yet*
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| southington_boe_boardbook | custom | https://meetings.boardbook.org/public/Organization/2466 | unconfirmed |
+| southington_documents_on_demand | custom | https://southingtontownct.documents-on-demand.com/ | unconfirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -1274,4 +1339,10 @@ _Generated 2026-08-29T10:20:51 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:18:36 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Southington"`_
 

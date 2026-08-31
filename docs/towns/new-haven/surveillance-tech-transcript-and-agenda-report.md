@@ -1,54 +1,67 @@
-# Surveillance-tech transcript report: New Haven
+# Surveillance-tech report: New Haven
 
 
-_Generated 2026-08-29T10:18:52 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Haven"`_
+## At a glance: New Haven
+
+This report collects every mention of surveillance technology found in **New Haven**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **172 mentions** across **35 meetings**
+- **First mention:** 2020-05-20  |  **Most recent:** 2026-06-30
+- **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone, facial_recognition, gunshot_detection, predictive_policing, rtcc
+- **Coverage:** 613 of 671 known New Haven meetings transcribed (91%)
+- **26 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
-## Coverage status
-
-- Channels registered: 2
-- Active meeting bodies: 12
-- Videos registered: 671 (fetched: 613, no captions: 57)
-- Date range covered: 2020-05-14 to 2026-08-26 — **based on the 641 of 671 videos that carry a parseable upload date**; the other 30 are undated, so the real corpus may extend beyond this range in either direction
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| New Haven Board of Alders | board_of_alders | @boardofalders8363 |
-| New Haven BOE TV | new_haven_boe | @NewHavenBOETV |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| board_of_alders | streams | 2026-08-29 08:35:19.983455 | 803 |
-| board_of_alders | videos | 2026-08-29 08:35:20.805591 | 12 |
-| new_haven_boe | streams | 2026-08-29 09:08:37.750225 | 149 |
-| new_haven_boe | videos | 2026-08-29 09:08:40.296040 | 85 |
-
-
-## Registered meeting bodies
-
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Finance Committee | budget_finance | True | 87 |
-| Board of Alders | council | True | 144 |
-| Board of Education | education | True | 153 |
-| Aldermanic Affairs Committee | other | True | 26 |
-| City Services and Environmental Policy Committee | other | True | 36 |
-| Community Development Committee | other | True | 41 |
-| Education Committee | other | True | 40 |
-| Legislation Committee | other | True | 51 |
-| Tax Abatement Committee | other | True | 56 |
-| Youth Services Committee | other | True | 10 |
-| Civilian Review Board | public_safety | True | 0 |
-| Public Safety Committee | public_safety | True | 27 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-**Zero videos registered for:** Civilian Review Board
+## Get the full transcripts
+
+**[Download New Haven's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/new-haven-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip new-haven-meeting-transcripts.zip -d new-haven
+cd new-haven
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -1364,20 +1377,6 @@ _Generated 2026-08-29T10:18:52 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 2113 (fetched: 399)
-- Date range covered: 2012-10-24 to 2026-09-03
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| new_haven_legistar | legistar | https://newhaven-ct.legistar.com/ | confirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -1423,15 +1422,197 @@ _Generated 2026-08-29T10:18:52 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### drone
 
-*(no mentions)*
+- **[2022-08-01] Board of Alders** -- Board of Alders Agenda - 2022-08-01 (agenda)
+  > ... From the Mayor’s Chief of Staff submitting an Order requesting time from the Public Safety
+Committee to conduct a workshop with the Chief Administrative Officer and the Chief of Police
+on the use of drone technology and the Star Chase program for discussion purposes. (Referred
+to Public Safety Committee).
+
+
+
+City of New Haven                                 Page 3                                 ...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2022/8/4035_A_Board_of_Alders_22-08-01_Meeting_Agenda.pdf)  _(term: drone, unreviewed)_
+
+- **[2023-12-11] Finance Committee** -- Finance Committee Minutes - 2023-12-11 (minutes)
+  > ...  1.     LM-2023-0636 ORDER OF THE BOARD OF ALDERS OF THE CITY OF NEW HAVEN
+                        AUTHORIZING THE MAYOR OF THE CITY OF NEW HAVEN TO
+                        PURCHASE AN ALL-INCLUSIVE BRINC LEMUR 2 DRONE “TWIN
+                        PACK” PACKAGE WITH FIVE-YEAR CONTRACT PRICING BY TRADING
+                        IN OUR CURRENT BRINC LEMUR S DRONES FOR A TECHNOLOGY
+                ...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/12/4364_M_Finance_Committee_23-12-11_Meeting_Minutes.pdf)  _(term: drone, unreviewed)_
+
+- **[2022-09-20] Public Safety Committee** -- Public Safety Committee Minutes - 2022-09-20 (minutes)
+  > ...n Branford years ago, where
+
+City of New Haven                                  Page 2
+Public Safety Committee                         Meeting Minutes                           September 20, 2022
+
+a drone was used to view through the window instead of placing officers in danger by
+entering. The use of drones will be assigned to each zone and footage cannot be deleted
+same as the body cameras util...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2022/9/4059_M_Public_Safety_Committee_22-09-20_Meeting_Minutes.pdf)  _(term: drone, unreviewed)_
+
+- **[2023-12-04] Board of Alders** -- Board of Alders Agenda - 2023-12-04 (agenda)
+  > ...      December 4, 2023
+
+
+
+
+12. From the Chief of Police submitting an Order of the Board of Alders of the City of New Haven
+authorizing the Mayor of the City of New Haven to purchase an all-inclusive Brinc Lemur 2 Drone
+“twin pack” package with five-year contract pricing by trading in our current Brinc Lemur S
+Drones for a technology upgrade and to purchase one additional controller to fly two dro...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/12/4361_A_Board_of_Alders_23-12-04_Meeting_Agenda.pdf)  _(term: drone, unreviewed)_
+
+- **[2023-12-11] Finance Committee** -- Finance Committee Agenda - 2023-12-11 (agenda)
+  > ...ollowing:
+    1. LM-2023-0636 ORDER OF THE BOARD OF ALDERS OF THE CITY OF NEW HAVEN
+                    AUTHORIZING THE MAYOR OF THE CITY OF NEW HAVEN TO
+                    PURCHASE AN ALL-INCLUSIVE BRINC LEMUR 2 DRONE “TWIN
+                    PACK” PACKAGE WITH FIVE-YEAR CONTRACT PRICING BY
+                    TRADING IN OUR CURRENT BRINC LEMUR S DRONES FOR A
+                    TECHNOLOGY UPGR...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/12/4364_A_Finance_Committee_23-12-11_Meeting_Agenda.pdf)  _(term: drone, unreviewed)_
+
+- **[2023-12-18] Board of Alders** -- Board of Alders Agenda - 2023-12-18 (agenda)
+  > ...                       December 18, 2023
+
+
+
+26. Finance Favorable
+
+a. Order of the Board of Alders of the City of New Haven authorizing the mayor of the City of
+New Haven to purchase an all-inclusive Brinc Lemur 2 drone “twin pack” package with five-year
+contract pricing by trading in our current Brinc Lemur drones for a technology upgrade and to
+purchase one additional controller to fly two drone...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/12/4366_A_Board_of_Alders_23-12-18_Meeting_Agenda.pdf)  _(term: drone, unreviewed)_
+
+- **[2024-01-02] Board of Alders** -- Board of Alders Agenda - 2024-01-02 (agenda)
+  > ...Order Granting Leave to
+Withdraw Passed).
+
+14. Finance. Favorable.
+a. Order of the Board of Alders of the City of New Haven authorizing the Mayor of the City of
+New Haven to purchase an all-inclusive Brinc Lemur 2 drone “twin pack” package with
+five-year contract pricing by trading in our current Brinc Lemur drones for a technology
+upgrade and to purchase one additional controller to fly two drone...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2024/1/4369_A_Board_of_Alders_24-01-02_Meeting_Agenda.pdf)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
 
-*(no mentions)*
+- **[2021-11-08] Finance Committee** -- Finance Committee Minutes - 2021-11-08 (minutes)
+  > ...21
+
+
+
+                    Mr. Gormany spoke on both transfer requests, followed by Mr. Sawicki and Chief
+                    Dominguez.
+
+                    Alder Festa asked if the cameras would use facial recognition. Chief Dominguez spoke
+                    about this.
+
+                    Alder Festa asked about why the need for a 3rd data center on the cloud. Mr. Sawicki
+                    ...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2021/11/3854_M_Finance_Committee_21-11-08_Meeting_Minutes.pdf)  _(term: facial_recognition, unreviewed)_
 
 
 ### gunshot_detection
+
+- **[2022-01-03] Board of Alders** -- Board of Alders Agenda - 2022-01-03 (agenda)
+  > ...OMMUNICATIONS
+9. From the Interim Chief of Police submitting an Order of the New Haven Board of Alders
+authorizing the City of New Haven (Mayor or Controller) to enter into a four-year agreement with
+Shotspotter Inc., in the amount of One-Million, Six Hundred and Seventy-Six Thousand,
+Nine-Hundred and Nineteen Dollars ($1,676,919) to expand and provide gunfire detection
+system/software. (Referred ...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2022/1/3888_A_Board_of_Alders_22-01-03_Meeting_Agenda.pdf)  _(term: gunshot_detection, unreviewed)_
+
+- **[2022-02-14] Finance Committee** -- Finance Committee Minutes - 2022-02-14 (minutes)
+  > ...494 ORDER OF THE NEW HAVEN BOARD OF ALDERS AUTHORIZING THE
+                              CITY OF NEW HAVEN (MAYOR OR CONTROLLER) TO ENTER INTO A
+                              FOUR-YEAR AGREEMENT WITH SHOTSPOTTER INC., IN THE AMOUNT OF
+                              ONE-MILLION, SIX HUNDRED AND SEVENTY-SIX THOUSAND,
+                              NINE-HUNDRED AND NINETEEN DOLLARS ($1,676,919) TO EXPA...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2022/2/3905_M_Finance_Committee_22-02-14_Meeting_Minutes.pdf)  _(term: gunshot_detection, unreviewed)_
+
+- **[2023-08-15] Public Safety Committee** -- Public Safety Committee Minutes - 2023-08-15 (minutes)
+  > ...CE
+                           CENTER BY EXTRACTING AND INTEGRATING IN REAL TIME PUBLIC
+                           SAFETY AND OTHER TECHNOLOGIES INCLUDING BUT NOT LIMITED
+                           TO SHOTSPOTTER, LICENSE PLATE READERS, CAD, AND PUBLIC
+                           CAMERAS TO AID IN SOLVING CRIMES AS THEY ARE OCCURRING
+                           AND FOR FOLLOW-UP INVESTIGATIONS. THE C...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/8/4299_M_Public_Safety_Committee_23-08-15_Meeting_Minutes.pdf)  _(term: gunshot_detection, unreviewed)_
+
+- **[2022-02-22] Board of Alders** -- Board of Alders Agenda - 2022-02-22 (agenda)
+  > ...                         February 22, 2022
+
+
+Order Passed).
+
+d. Order of the New Haven Board of Alders authorizing the City of New Haven (Mayor or
+Controller) to enter into a four-year agreement with ShotSpotter Inc., in the amount of One-Million,
+Six Hundred and Seventy-Six Thousand, Nine-Hundred and Nineteen Dollars ($1,676,919) to
+expand and provide gunfire detection system/software. (Motion to...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2022/2/3915_A_Board_of_Alders_22-02-22_Meeting_Agenda.pdf)  _(term: gunshot_detection, unreviewed)_
+
+- **[2022-02-14] Finance Committee** -- Finance Committee Agenda - 2022-02-14 (agenda)
+  > ...  7. LM-2021-0494 ORDER OF THE NEW HAVEN BOARD OF ALDERS AUTHORIZING THE
+                       CITY OF NEW HAVEN (MAYOR OR CONTROLLER) TO ENTER INTO A
+                       FOUR-YEAR AGREEMENT WITH SHOTSPOTTER INC., IN THE AMOUNT OF
+                       ONE-MILLION, SIX HUNDRED AND SEVENTY-SIX THOUSAND,
+                       NINE-HUNDRED AND NINETEEN DOLLARS ($1,676,919) TO EXPAND AND
+       ...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2022/2/3905_A_Finance_Committee_22-02-14_Meeting_Agenda.pdf)  _(term: gunshot_detection, unreviewed)_
+
+- **[2023-08-15] Public Safety Committee** -- Public Safety Committee Agenda - 2023-08-15 (agenda)
+  > ... GUN INTELLIGENCE
+                      CENTER BY EXTRACTING AND INTEGRATING IN REAL TIME PUBLIC
+                      SAFETY AND OTHER TECHNOLOGIES INCLUDING BUT NOT LIMITED
+                      TO SHOTSPOTTER, LICENSE PLATE READERS, CAD, AND PUBLIC
+                      CAMERAS TO AID IN SOLVING CRIMES AS THEY ARE OCCURRING
+                      AND FOR FOLLOW-UP INVESTIGATIONS. THE CONTRACT WI...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/8/4299_A_Public_Safety_Committee_23-08-15_Meeting_Agenda.pdf)  _(term: gunshot_detection, unreviewed)_
+
+- **[2023-08-07] Board of Alders** -- Board of Alders Agenda - 2023-08-07 (agenda)
+  > ... GUN
+                      INTELLIGENCE CENTER BY EXTRACTING AND INTEGRATING IN
+                      REAL TIME PUBLIC SAFETY AND OTHER TECHNOLOGIES
+                      INCLUDING BUT NOT LIMITED TO SHOTSPOTTER, LICENSE
+                      PLATE READERS, CAD, AND PUBLIC CAMERAS TO AID IN
+                      SOLVING CRIMES AS THEY ARE OCCURRING AND FOR
+                      FOLLOW-UP INVESTIGA...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/8/4291_A_Board_of_Alders_23-08-07_Meeting_Agenda.pdf)  _(term: gunshot_detection, unreviewed)_
+
+- **[2026-05-19] Public Safety Committee** -- Public Safety Committee Agenda - 2026-05-19 (agenda)
+  > ...Y OF NEW HAVEN
+                      AUTHORIZING THE MAYOR OF THE CITY OF NEW HAVEN TO ENTER
+                      INTO A FIVE-YEAR AGREEMENT WITH SOUNDTHINKING, INC. FOR
+                      ANNUAL SHOTSPOTTER SUBSCRIPTION, IN THE AMOUNT OF TWO
+                      MILLION, EIGHTY-FOUR THOUSAND, FOUR HUNDRED AND THIRTY
+                      ONE DOLLARS ($2,084,431.00) TO PROVIDE GUNFIRE DETECTI...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2026/5/4805_A_Public_Safety_Committee_26-05-19_Meeting_Agenda.pdf)  _(term: gunshot_detection, unreviewed)_
+
+- **[2023-09-05] Board of Alders** -- Board of Alders Agenda - 2023-09-05 (agenda)
+  > ...for
+software that will enhance the effectiveness of the NHPD crime gun intelligence center by
+extracting and integrating in real-time public safety and other technologies including but not
+limited to ShotSpotter, license plate readers, cad, and public cameras to aid in solving crimes as
+they are occurring and for follow-up investigations. The contract will be funded with ARPA funds
+and will become...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/9/4313_A_Board_of_Alders_23-09-05_Meeting_Agenda.pdf)  _(term: gunshot_detection, unreviewed)_
+
+- **[2023-09-18] Board of Alders** -- Board of Alders Agenda - 2023-09-18 (agenda)
+  > ...for
+software that will enhance the effectiveness of the NHPD crime gun intelligence center by
+extracting and integrating in real-time public safety and other technologies including but not
+limited to ShotSpotter, license plate readers, cad, and public cameras to aid in solving crimes as
+they are occurring and for follow-up investigations. (Order Passed).
+
+b. Resolution of the New Haven Board of Al...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/9/4318_A_Board_of_Alders_23-09-18_Meeting_Agenda.pdf)  _(term: gunshot_detection, unreviewed)_
 
 - **[2026-04-20] Board of Alders** -- Board of Alders Agenda - 2026-04-20 (agenda)
   > ...ef of Police Submitting an Order of The Board of Alders of The City of
@@ -1443,15 +1624,6 @@ Detection System/Software.
 
 City of New Haven     ...
   [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2026/4/4801_A_Board_of_Alders_26-04-20_Meeting_Agenda.pdf)  _(term: gunshot_detection, unreviewed)_
-
-- **[2026-05-19] Public Safety Committee** -- Public Safety Committee Agenda - 2026-05-19 (agenda)
-  > ...Y OF NEW HAVEN
-                      AUTHORIZING THE MAYOR OF THE CITY OF NEW HAVEN TO ENTER
-                      INTO A FIVE-YEAR AGREEMENT WITH SOUNDTHINKING, INC. FOR
-                      ANNUAL SHOTSPOTTER SUBSCRIPTION, IN THE AMOUNT OF TWO
-                      MILLION, EIGHTY-FOUR THOUSAND, FOUR HUNDRED AND THIRTY
-                      ONE DOLLARS ($2,084,431.00) TO PROVIDE GUNFIRE DETECTI...
-  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2026/5/4805_A_Public_Safety_Committee_26-05-19_Meeting_Agenda.pdf)  _(term: gunshot_detection, unreviewed)_
 
 - **[2026-06-01] Board of Alders** -- Board of Alders Agenda - 2026-06-01 (agenda)
   > ...n
@@ -1496,7 +1668,56 @@ b. Order of the Bo...
 
 ### rtcc
 
-*(no mentions)*
+- **[2023-08-07] Board of Alders** -- Board of Alders Agenda - 2023-08-07 (agenda)
+  > ...submitting a request to approve the Order of the Board of Alders
+of the City of New Haven authorizing the Mayor of the City of New Haven to execute a 3-year
+contract between the Police Department and FUSUS For Software which will enhance the
+effectiveness of the NHPD crime gun intelligence center by extracting and integrating in
+real-time public safety and other technologies including but not limi...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/8/4291_A_Board_of_Alders_23-08-07_Meeting_Agenda.pdf)  _(term: rtcc, unreviewed)_
+
+- **[2023-08-15] Public Safety Committee** -- Public Safety Committee Minutes - 2023-08-15 (minutes)
+  > ...EW HAVEN
+                           AUTHORIZING THE MAYOR OF THE CITY OF NEW HAVEN TO
+                           EXECUTE A 3-YEAR CONTRACT BETWEEN THE POLICE
+                           DEPARTMENT AND FUSUS FOR SOFTWARE WHICH WILL ENHANCE
+                           THE EFFECTIVENESS OF THE NHPD CRIME GUN INTELLIGENCE
+                           CENTER BY EXTRACTING AND INTEGRATING IN REAL TIME PUBLI...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/8/4299_M_Public_Safety_Committee_23-08-15_Meeting_Minutes.pdf)  _(term: rtcc, unreviewed)_
+
+- **[2023-09-05] Board of Alders** -- Board of Alders Agenda - 2023-09-05 (agenda)
+  > ...
+
+43. Public Safety. Favorable.
+
+a. Order of the Board of Alders of the City of New Haven authorizing the Mayor of the City of
+New Haven to execute a 3-year contract between the Police Department and FUSUS for
+software that will enhance the effectiveness of the NHPD crime gun intelligence center by
+extracting and integrating in real-time public safety and other technologies including but not
+limit...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/9/4313_A_Board_of_Alders_23-09-05_Meeting_Agenda.pdf)  _(term: rtcc, unreviewed)_
+
+- **[2023-08-15] Public Safety Committee** -- Public Safety Committee Agenda - 2023-08-15 (agenda)
+  > ...F THE CITY OF NEW HAVEN
+                      AUTHORIZING THE MAYOR OF THE CITY OF NEW HAVEN TO
+                      EXECUTE A 3-YEAR CONTRACT BETWEEN THE POLICE
+                      DEPARTMENT AND FUSUS FOR SOFTWARE WHICH WILL ENHANCE
+                      THE EFFECTIVENESS OF THE NHPD CRIME GUN INTELLIGENCE
+                      CENTER BY EXTRACTING AND INTEGRATING IN REAL TIME PUBLIC
+        ...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/8/4299_A_Public_Safety_Committee_23-08-15_Meeting_Agenda.pdf)  _(term: rtcc, unreviewed)_
+
+- **[2023-09-18] Board of Alders** -- Board of Alders Agenda - 2023-09-18 (agenda)
+  > ...
+
+25. Public Safety. Favorable.
+
+a. Order of the Board of Alders of the City of New Haven authorizing the Mayor of the City of
+New Haven to execute a 3-year contract between the Police Department and FUSUS for
+software that will enhance the effectiveness of the NHPD crime gun intelligence center by
+extracting and integrating in real-time public safety and other technologies including but not
+limit...
+  [View document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/9/4318_A_Board_of_Alders_23-09-18_Meeting_Agenda.pdf)  _(term: rtcc, unreviewed)_
 
 
 ### surveillance_general
@@ -1517,6 +1738,73 @@ b. Order of the Bo...
 ### video_analytics
 
 *(no mentions)*
+
+
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 2
+- Active meeting bodies: 12
+- Videos registered: 671 (fetched: 613, no captions: 57)
+- Date range covered: 2020-05-14 to 2026-08-26 — **based on the 641 of 671 videos that carry a parseable upload date**; the other 30 are undated, so the real corpus may extend beyond this range in either direction
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| New Haven Board of Alders | board_of_alders | @boardofalders8363 |
+| New Haven BOE TV | new_haven_boe | @NewHavenBOETV |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| board_of_alders | streams | 2026-08-31 07:30:50.213599 | 803 |
+| board_of_alders | videos | 2026-08-31 07:30:51.018197 | 12 |
+| new_haven_boe | streams | 2026-08-31 07:22:28.549536 | 149 |
+| new_haven_boe | videos | 2026-08-31 07:22:30.083899 | 85 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Finance Committee | budget_finance | True | 87 |
+| Board of Alders | council | True | 144 |
+| Board of Education | education | True | 153 |
+| Aldermanic Affairs Committee | other | True | 26 |
+| City Services and Environmental Policy Committee | other | True | 36 |
+| Community Development Committee | other | True | 41 |
+| Education Committee | other | True | 40 |
+| Legislation Committee | other | True | 51 |
+| Tax Abatement Committee | other | True | 56 |
+| Youth Services Committee | other | True | 10 |
+| Civilian Review Board | public_safety | True | 0 |
+| Public Safety Committee | public_safety | True | 27 |
+
+
+**Zero videos registered for:** Civilian Review Board
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 2113 (fetched: 924)
+- Date range covered: 2012-10-24 to 2026-09-03
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| new_haven_legistar | legistar | https://newhaven-ct.legistar.com/ | confirmed |
 
 
 ## Research log
@@ -1567,4 +1855,10 @@ b. Order of the Bo...
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:14:32 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Haven"`_
 

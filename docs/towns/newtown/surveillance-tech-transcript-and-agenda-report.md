@@ -1,39 +1,39 @@
-# Surveillance-tech transcript report: Newtown
+# Surveillance-tech report: Newtown
 
 
-_Generated 2026-08-29T10:19:04 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Newtown"`_
+## At a glance: Newtown
+
+This report collects every mention of surveillance technology found in **Newtown**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **1 mention** across **1 meeting**
+- **Technologies discussed:** body_camera
+- **Coverage:** 8 of 8 known Newtown meetings transcribed (100%)
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 3
-- Videos registered: 8 (fetched: 8, no captions: 0)
-- Date range covered: 2020-12-07 to 2020-12-07 — **based on the 1 of 8 videos that carry a parseable upload date**; the other 7 are undated, so the real corpus may extend beyond this range in either direction
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| Newtown Connecticut Meeting | newtown_ct_meeting | @newtownconnecticutmeeting6620 |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| newtown_ct_meeting | streams | 2026-08-29 08:28:54.888025 | 6 |
-| newtown_ct_meeting | videos | 2026-08-29 08:28:55.602756 | 9 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-## Registered meeting bodies
+## Get the full transcripts
 
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 1 |
-| Legislative Council | council | True | 2 |
-| Board of Selectmen | other | True | 5 |
+*Newtown has 8 transcripts so far -- too few to publish as an archive yet. It will appear here once the corpus grows.*
 
 
 ## Mentions by topic: first seen / most recent
@@ -160,20 +160,6 @@ _Generated 2026-08-29T10:19:04 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| newtown_custom | custom | https://www.newtown-ct.gov/minutes-and-agendas | unconfirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -277,6 +263,58 @@ _Generated 2026-08-29T10:19:04 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 3
+- Videos registered: 8 (fetched: 8, no captions: 0)
+- Date range covered: 2020-12-07 to 2020-12-07 — **based on the 1 of 8 videos that carry a parseable upload date**; the other 7 are undated, so the real corpus may extend beyond this range in either direction
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| Newtown Connecticut Meeting | newtown_ct_meeting | @newtownconnecticutmeeting6620 |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| newtown_ct_meeting | streams | 2026-08-31 07:15:51.339591 | 6 |
+| newtown_ct_meeting | videos | 2026-08-31 07:15:52.064989 | 9 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Board of Finance | budget_finance | True | 1 |
+| Legislative Council | council | True | 2 |
+| Board of Selectmen | other | True | 5 |
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 0 (fetched: 0)
+- Date range covered: *no agenda document on file carries a parseable date yet*
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| newtown_custom | custom | https://www.newtown-ct.gov/minutes-and-agendas | unconfirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -300,4 +338,10 @@ _Generated 2026-08-29T10:19:04 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:14:56 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Newtown"`_
 

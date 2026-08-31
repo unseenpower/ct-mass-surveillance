@@ -1,41 +1,61 @@
-# Surveillance-tech transcript report: Pomfret
+# Surveillance-tech report: Pomfret
 
 
-_Generated 2026-08-29T10:20:14 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Pomfret"`_
+## At a glance: Pomfret
+
+This report collects every mention of surveillance technology found in **Pomfret**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 5
-- Videos registered: 18 (fetched: 18, no captions: 0)
-- Date range covered: 2025-07-30 to 2026-08-29 (all 18 videos dated)
+**No surveillance-technology mentions have been found in this town's meetings yet.** That is not the same as none existing -- read the coverage note below, and [Gaps and caveats](#gaps-and-caveats), before treating this as an answer about the town.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| Kathleen Sposato (Sposato Uncensored, Pomfret CT) | pomfret_sposato | @parentsforpomfret |
+- **Coverage:** 18 of 18 known Pomfret meetings transcribed (100%)
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| pomfret_sposato | streams | 2026-08-29 09:16:34.971343 | 0 |
-| pomfret_sposato | videos | 2026-08-29 09:16:36.145359 | 44 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-## Registered meeting bodies
+## Get the full transcripts
 
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 2 |
-| Board of Selectmen | council | True | 9 |
-| Board of Education | education | True | 5 |
-| Planning & Zoning Commission | other | True | 1 |
-| Town Meeting | other | True | 1 |
+**[Download Pomfret's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/pomfret-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip pomfret-meeting-transcripts.zip -d pomfret
+cd pomfret
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -151,20 +171,6 @@ _Generated 2026-08-29T10:20:14 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| pomfret_custom | custom | https://www.pomfretct.gov/minutes-and-agendas | confirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -268,6 +274,59 @@ _Generated 2026-08-29T10:20:14 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 5
+- Videos registered: 18 (fetched: 18, no captions: 0)
+- Date range covered: 2025-07-30 to 2026-08-29 (all 18 videos dated)
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| Kathleen Sposato (Sposato Uncensored, Pomfret CT) | pomfret_sposato | @parentsforpomfret |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| pomfret_sposato | videos | 2026-08-31 07:27:17.443491 | 44 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Board of Finance | budget_finance | True | 2 |
+| Board of Selectmen | council | True | 9 |
+| Board of Education | education | True | 5 |
+| Planning & Zoning Commission | other | True | 1 |
+| Town Meeting | other | True | 1 |
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 0 (fetched: 0)
+- Date range covered: *no agenda document on file carries a parseable date yet*
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| pomfret_custom | custom | https://www.pomfretct.gov/minutes-and-agendas | confirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -289,5 +348,13 @@ _Generated 2026-08-29T10:20:14 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### Tabs never crawled
 
-*(none)*
+| channel | tab |
+| --- | --- |
+| Kathleen Sposato (Sposato Uncensored, Pomfret CT) | streams |
+
+
+---
+
+
+_Generated 2026-08-31T08:17:13 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Pomfret"`_
 

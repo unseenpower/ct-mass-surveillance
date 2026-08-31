@@ -1,46 +1,67 @@
-# Surveillance-tech transcript report: Griswold
+# Surveillance-tech report: Griswold
 
 
-_Generated 2026-08-29T12:25:36 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Griswold"`_
+## At a glance: Griswold
+
+This report collects every mention of surveillance technology found in **Griswold**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **5 mentions** across **2 meetings**
+- **First mention:** 2024-09-25  |  **Most recent:** 2025-11-26
+- **Technologies discussed:** alpr, predictive_policing
+- **Coverage:** 115 of 134 known Griswold meetings transcribed (86%)
+- **Not the full history:** transcripts begin **2023-01-18**, but Griswold's published video archive goes back to **2022-02-14**. Meetings before 2023 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 7
-- Videos registered: 134 (fetched: 115, no captions: 3)
-- Date range covered: 2022-02-14 to 2026-08-26 (all 134 videos dated)
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| Town of Griswold, Connecticut | griswold_ct | @townofgriswoldconnecticut9307 |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| griswold_ct | streams | 2026-08-29 10:37:04.787364 | 146 |
-| griswold_ct | videos | 2026-08-29 10:37:05.550454 | 0 |
-
-
-## Registered meeting bodies
-
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 43 |
-| Board of Selectmen | other | True | 79 |
-| Community Multi-Purpose Field Committee | other | True | 3 |
-| Land Use Commission | other | True | 0 |
-| Planning & Zoning Commission | other | True | 0 |
-| Town Meeting | other | True | 9 |
-| Zoning Board of Appeals | other | True | 0 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-**Zero videos registered for:** Land Use Commission, Planning & Zoning Commission, Zoning Board of Appeals
+## Get the full transcripts
+
+**[Download Griswold's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/griswold-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip griswold-meeting-transcripts.zip -d griswold
+cd griswold
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -195,20 +216,6 @@ _Generated 2026-08-29T12:25:36 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| griswold_unknown | unknown | https://www.griswold-ct.org | unconfirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -312,6 +319,64 @@ _Generated 2026-08-29T12:25:36 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 7
+- Videos registered: 134 (fetched: 115, no captions: 3)
+- Date range covered: 2022-02-14 to 2026-08-26 (all 134 videos dated)
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| Town of Griswold, Connecticut | griswold_ct | @townofgriswoldconnecticut9307 |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| griswold_ct | streams | 2026-08-31 07:20:10.310847 | 146 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Board of Finance | budget_finance | True | 43 |
+| Board of Selectmen | other | True | 79 |
+| Community Multi-Purpose Field Committee | other | True | 3 |
+| Land Use Commission | other | True | 0 |
+| Planning & Zoning Commission | other | True | 0 |
+| Town Meeting | other | True | 9 |
+| Zoning Board of Appeals | other | True | 0 |
+
+
+**Zero videos registered for:** Land Use Commission, Planning & Zoning Commission, Zoning Board of Appeals
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 0 (fetched: 0)
+- Date range covered: *no agenda document on file carries a parseable date yet*
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| griswold_unknown | unknown | https://www.griswold-ct.org | unconfirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -336,5 +401,13 @@ _Generated 2026-08-29T12:25:36 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### Tabs never crawled
 
-*(none)*
+| channel | tab |
+| --- | --- |
+| Town of Griswold, Connecticut | videos |
+
+
+---
+
+
+_Generated 2026-08-31T08:11:34 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Griswold"`_
 

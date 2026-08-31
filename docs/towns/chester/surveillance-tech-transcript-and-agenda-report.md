@@ -1,46 +1,62 @@
-# Surveillance-tech transcript report: Chester
+# Surveillance-tech report: Chester
 
 
-_Generated 2026-08-29T12:24:12 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Chester"`_
+## At a glance: Chester
+
+This report collects every mention of surveillance technology found in **Chester**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 10
-- Videos registered: 71 (fetched: 60, no captions: 1)
-- Date range covered: 2025-08-19 to 2026-08-24 — **based on the 69 of 71 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
+**No surveillance-technology mentions have been found in this town's meetings yet.** That is not the same as none existing -- read the coverage note below, and [Gaps and caveats](#gaps-and-caveats), before treating this as an answer about the town.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| Town of Chester | chester_ct | @TownofChester-05143 |
+- **Coverage:** 60 of 71 known Chester meetings transcribed (85%)
+- **Still incomplete:** 11 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| chester_ct | streams | 2026-08-29 11:09:39.309959 | 0 |
-| chester_ct | videos | 2026-08-29 11:09:40.809750 | 71 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-## Registered meeting bodies
+## Get the full transcripts
 
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Assessors | budget_finance | True | 1 |
-| Board of Tax Abatement | budget_finance | True | 7 |
-| Trustees of Public Funds | budget_finance | True | 3 |
-| Board of Civil Authority | other | True | 1 |
-| Development Review Board | other | True | 5 |
-| Economic Development Commission | other | True | 8 |
-| Housing Commission | other | True | 10 |
-| Planning Commission | other | True | 11 |
-| Selectboard | other | True | 24 |
-| Town Meeting | other | True | 1 |
+**[Download Chester's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/chester-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip chester-meeting-transcripts.zip -d chester
+cd chester
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -156,20 +172,6 @@ _Generated 2026-08-29T12:24:12 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 15 (fetched: 15)
-- Date range covered: 2026-01-12 to 2026-08-10
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| chester_agendacenter | agendacenter | https://www.chesterct.org/AgendaCenter | confirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -273,6 +275,64 @@ _Generated 2026-08-29T12:24:12 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 10
+- Videos registered: 71 (fetched: 60, no captions: 1)
+- Date range covered: 2025-08-19 to 2026-08-24 — **based on the 69 of 71 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| Town of Chester | chester_ct | @TownofChester-05143 |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| chester_ct | videos | 2026-08-31 07:16:26.940164 | 71 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Assessors | budget_finance | True | 1 |
+| Board of Tax Abatement | budget_finance | True | 7 |
+| Trustees of Public Funds | budget_finance | True | 3 |
+| Board of Civil Authority | other | True | 1 |
+| Development Review Board | other | True | 5 |
+| Economic Development Commission | other | True | 8 |
+| Housing Commission | other | True | 10 |
+| Planning Commission | other | True | 11 |
+| Selectboard | other | True | 24 |
+| Town Meeting | other | True | 1 |
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 15 (fetched: 15)
+- Date range covered: 2026-01-12 to 2026-08-10
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| chester_agendacenter | agendacenter | https://www.chesterct.org/AgendaCenter | confirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -295,5 +355,13 @@ _Generated 2026-08-29T12:24:12 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### Tabs never crawled
 
-*(none)*
+| channel | tab |
+| --- | --- |
+| Town of Chester | streams |
+
+
+---
+
+
+_Generated 2026-08-31T08:09:01 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Chester"`_
 

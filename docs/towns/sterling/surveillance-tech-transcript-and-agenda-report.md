@@ -1,45 +1,67 @@
-# Surveillance-tech transcript report: Sterling
+# Surveillance-tech report: Sterling
 
 
-_Generated 2026-08-29T10:20:54 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Sterling"`_
+## At a glance: Sterling
+
+This report collects every mention of surveillance technology found in **Sterling**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **4 mentions** across **3 meetings**
+- **First mention:** 2025-06-10  |  **Most recent:** 2026-05-12
+- **Technologies discussed:** drone, purchasing_broker
+- **Coverage:** 130 of 134 known Sterling meetings transcribed (97%)
+- **1 additional mention** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 9
-- Videos registered: 134 (fetched: 130, no captions: 4)
-- Date range covered: 2025-03-25 to 2026-08-19 (all 134 videos dated)
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| Town of Sterling (CT) | sterling_ct | @SterlingCT |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| sterling_ct | streams | 2026-08-29 09:08:17.768160 | 0 |
-| sterling_ct | videos | 2026-08-29 09:08:24.902959 | 136 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-## Registered meeting bodies
+## Get the full transcripts
 
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 17 |
-| Board of Selectmen | council | True | 35 |
-| Agricultural Commission | other | True | 14 |
-| Economic Development Commission | other | True | 13 |
-| Inland Wetland & Watercourses Commission | other | True | 7 |
-| Planning & Zoning Commission | other | True | 21 |
-| Town Meeting | other | True | 3 |
-| Water Pollution Control Authority | other | True | 18 |
-| Zoning Board of Appeals | other | True | 6 |
+**[Download Sterling's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/sterling-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip sterling-meeting-transcripts.zip -d sterling
+cd sterling
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -193,20 +215,6 @@ _Generated 2026-08-29T10:20:54 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 150 (fetched: 148)
-- Date range covered: 2026-01-07 to 2026-09-01
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| sterling_agendacenter | agendacenter | https://sterlingct.gov/AgendaCenter | confirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -316,6 +324,64 @@ _Generated 2026-08-29T10:20:54 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 9
+- Videos registered: 134 (fetched: 130, no captions: 4)
+- Date range covered: 2025-03-25 to 2026-08-19 (all 134 videos dated)
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| Town of Sterling (CT) | sterling_ct | @SterlingCT |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| sterling_ct | streams | 2026-08-31 07:30:13.131433 | 0 |
+| sterling_ct | videos | 2026-08-31 07:30:15.372966 | 136 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Board of Finance | budget_finance | True | 17 |
+| Board of Selectmen | council | True | 35 |
+| Agricultural Commission | other | True | 14 |
+| Economic Development Commission | other | True | 13 |
+| Inland Wetland & Watercourses Commission | other | True | 7 |
+| Planning & Zoning Commission | other | True | 21 |
+| Town Meeting | other | True | 3 |
+| Water Pollution Control Authority | other | True | 18 |
+| Zoning Board of Appeals | other | True | 6 |
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 150 (fetched: 148)
+- Date range covered: 2026-01-07 to 2026-09-01
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| sterling_agendacenter | agendacenter | https://sterlingct.gov/AgendaCenter | confirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -342,4 +408,10 @@ _Generated 2026-08-29T10:20:54 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:18:40 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Sterling"`_
 

@@ -1,44 +1,66 @@
-# Surveillance-tech transcript report: Ansonia
+# Surveillance-tech report: Ansonia
 
 
-_Generated 2026-08-29T12:23:12 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ansonia"`_
+## At a glance: Ansonia
+
+This report collects every mention of surveillance technology found in **Ansonia**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **17 mentions** across **15 meetings**
+- **First mention:** 2017-08-09  |  **Most recent:** 2026-02-11
+- **Technologies discussed:** alpr, body_camera, drone, predictive_policing, surveillance_general
+- **Coverage:** 109 of 114 known Ansonia meetings transcribed (96%)
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 5
-- Videos registered: 114 (fetched: 109, no captions: 3)
-- Date range covered: 2017-01-11 to 2026-08-06 (all 114 videos dated)
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| City of Ansonia | ansonia_ct | @ansoniact |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| ansonia_ct | streams | 2026-08-29 11:22:03.556005 | 2 |
-| ansonia_ct | videos | 2026-08-29 11:22:05.951012 | 127 |
-
-
-## Registered meeting bodies
-
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Board of Apportionment and Taxation | budget_finance | True | 0 |
-| Board of Aldermen | council | True | 111 |
-| School Building Commission | education | True | 0 |
-| Board of Public Works | other | True | 0 |
-| Water Pollution Control Authority (WPCA) | other | True | 3 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-**Zero videos registered for:** Board of Apportionment and Taxation, School Building Commission, Board of Public Works
+## Get the full transcripts
+
+**[Download Ansonia's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/ansonia-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip ansonia-meeting-transcripts.zip -d ansonia
+cd ansonia
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -327,20 +349,6 @@ _Generated 2026-08-29T12:23:12 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| ansonia_unknown | unknown | https://www.cityofansonia.com/content/8132/8622/8238/default.aspx | unconfirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -444,6 +452,63 @@ _Generated 2026-08-29T12:23:12 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 5
+- Videos registered: 114 (fetched: 109, no captions: 3)
+- Date range covered: 2017-01-11 to 2026-08-06 (all 114 videos dated)
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| City of Ansonia | ansonia_ct | @ansoniact |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| ansonia_ct | streams | 2026-08-31 07:39:07.886042 | 2 |
+| ansonia_ct | videos | 2026-08-31 07:39:10.047645 | 127 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Board of Apportionment and Taxation | budget_finance | True | 0 |
+| Board of Aldermen | council | True | 111 |
+| School Building Commission | education | True | 0 |
+| Board of Public Works | other | True | 0 |
+| Water Pollution Control Authority (WPCA) | other | True | 3 |
+
+
+**Zero videos registered for:** Board of Apportionment and Taxation, School Building Commission, Board of Public Works
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 0 (fetched: 0)
+- Date range covered: *no agenda document on file carries a parseable date yet*
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| ansonia_unknown | unknown | https://www.cityofansonia.com/content/8132/8622/8238/default.aspx | unconfirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -468,4 +533,10 @@ _Generated 2026-08-29T12:23:12 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:07:21 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ansonia"`_
 

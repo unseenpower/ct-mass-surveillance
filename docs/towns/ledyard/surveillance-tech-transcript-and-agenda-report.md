@@ -1,43 +1,66 @@
-# Surveillance-tech transcript report: Ledyard
+# Surveillance-tech report: Ledyard
 
 
-_Generated 2026-08-29T10:17:55 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ledyard"`_
+## At a glance: Ledyard
+
+This report collects every mention of surveillance technology found in **Ledyard**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **6 mentions** across **6 meetings**
+- **First mention:** 2012-08-22  |  **Most recent:** 2022-03-09
+- **Technologies discussed:** alpr, drone, facial_recognition, predictive_policing
+- **Coverage:** 254 of 272 known Ledyard meetings transcribed (93%)
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 7
-- Videos registered: 272 (fetched: 254, no captions: 13)
-- Date range covered: 2011-07-30 to 2023-06-29 — **based on the 271 of 272 videos that carry a parseable upload date**; the other 1 are undated, so the real corpus may extend beyond this range in either direction
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| Town of Ledyard | ledyard_ct |  |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| ledyard_ct | streams | 2026-08-29 09:11:32.477867 | 18 |
-| ledyard_ct | videos | 2026-08-29 09:11:39.706638 | 562 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-## Registered meeting bodies
+## Get the full transcripts
 
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Finance Committee | budget_finance | True | 35 |
-| Town Council | council | True | 173 |
-| Administration Committee | other | True | 20 |
-| Community Relations Committee | other | True | 8 |
-| Farmers' Market Committee | other | True | 12 |
-| Land Use/Planning/Public Works Committee | other | True | 21 |
-| Water Pollution Control Authority | other | True | 3 |
+**[Download Ledyard's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/ledyard-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip ledyard-meeting-transcripts.zip -d ledyard
+cd ledyard
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -216,20 +239,6 @@ _Generated 2026-08-29T10:17:55 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| ledyard_granicus | granicus | https://ledyardct.granicus.com/boards/ | blocked |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -333,6 +342,62 @@ _Generated 2026-08-29T10:17:55 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 7
+- Videos registered: 272 (fetched: 254, no captions: 13)
+- Date range covered: 2011-07-30 to 2023-06-29 — **based on the 271 of 272 videos that carry a parseable upload date**; the other 1 are undated, so the real corpus may extend beyond this range in either direction
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| Town of Ledyard | ledyard_ct |  |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| ledyard_ct | streams | 2026-08-31 07:25:12.199662 | 18 |
+| ledyard_ct | videos | 2026-08-31 07:25:18.947740 | 562 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Finance Committee | budget_finance | True | 35 |
+| Town Council | council | True | 173 |
+| Administration Committee | other | True | 20 |
+| Community Relations Committee | other | True | 8 |
+| Farmers' Market Committee | other | True | 12 |
+| Land Use/Planning/Public Works Committee | other | True | 21 |
+| Water Pollution Control Authority | other | True | 3 |
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 0 (fetched: 0)
+- Date range covered: *no agenda document on file carries a parseable date yet*
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| ledyard_granicus | granicus | https://ledyardct.granicus.com/boards/ | blocked |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -367,4 +432,10 @@ _Generated 2026-08-29T10:17:55 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:12:52 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ledyard"`_
 

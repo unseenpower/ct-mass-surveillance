@@ -1,6 +1,6 @@
 # OSINT / social-media monitoring: every mention, every town
 
-_Generated 2026-08-29T12:29:58 — 1 mentions across 1 towns, 2024-08-28 to 2024-08-28._
+_Generated 2026-08-31T08:49:23 — 2 mentions across 2 towns, 2022-09-06 to 2024-08-28._
 
 
 Open-source-intelligence and social-media monitoring tools.
@@ -24,6 +24,7 @@ _No human review has been applied to any mention in this file._
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2024-08-28 | 2024-08-28 |
+| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 63% | 2022-09-06 | 2022-09-06 |
 
 ## Receipts
 
@@ -35,4 +36,11 @@ _Most recent first within each town. Every line links to the exact second of the
 - **[2024-08-28] Board of Selectmen** — Board of Selectmen (Regular Meeting) - 8/28/2024
   > …say I um thank you Chief uh V on this is to hear consider an act on approving an agreement between chorus intelligence and the town of Fairfield for data capture and Analysis services this…
   [Watch ▸](https://www.youtube.com/watch?v=prQvHA9Zn74&t=878s)  _(term: `osint_social_monitor`)_
+
+
+### Groton — 1 mention
+
+- **[2022-09-06] Historic District Commission** — Groton Historic District Commission - 9/6/22
+  > …thank you for forwarding the revised drawings of the proposed renovation of the senator babel street that's basically these revlon drawings because you are aware of the above…
+  [Watch ▸](https://www.youtube.com/watch?v=HeBDk0s2VNs&t=7583s)  _(term: `osint_social_monitor`)_
 
