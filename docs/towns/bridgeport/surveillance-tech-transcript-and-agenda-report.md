@@ -1,53 +1,66 @@
-# Surveillance-tech transcript report: Bridgeport
+# Surveillance-tech report: Bridgeport
 
 
-_Generated 2026-08-29T10:15:22 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bridgeport"`_
+## At a glance: Bridgeport
+
+This report collects every mention of surveillance technology found in **Bridgeport**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **22 mentions** across **4 meetings**
+- **First mention:** 2026-01-20  |  **Most recent:** 2026-08-03
+- **Technologies discussed:** alpr, body_camera, drone, rtcc
+- **Coverage:** 141 of 157 known Bridgeport meetings transcribed (90%)
 
 
-## Coverage status
-
-- Channels registered: 2
-- Active meeting bodies: 11
-- Videos registered: 157 (fetched: 141, no captions: 14)
-- Date range covered: 2016-04-05 to 2026-08-24 — **based on the 145 of 157 videos that carry a parseable upload date**; the other 12 are undated, so the real corpus may extend beyond this range in either direction
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| City of Bridgeport | city_of_bridgeport | @CityofBridgeport1901 |
-| Bridgeport Public Schools | bridgeport_public_schools | @bpsct |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| bridgeport_public_schools | streams | 2026-08-29 08:34:59.075741 | 378 |
-| bridgeport_public_schools | videos | 2026-08-29 08:35:00.175440 | 43 |
-| city_of_bridgeport | streams | 2026-08-29 09:17:30.393134 | 43 |
-| city_of_bridgeport | videos | 2026-08-29 09:17:35.425152 | 393 |
-
-
-## Registered meeting bodies
-
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Budget and Appropriations Committee | budget_finance | True | 16 |
-| City Council | council | True | 36 |
-| Board of Education | education | True | 77 |
-| Contracts Committee | other | True | 24 |
-| Economic and Community Development and Environment Committee | other | True | 0 |
-| Education and Social Services Committee | other | True | 0 |
-| Miscellaneous Matters Committee | other | True | 0 |
-| Ordinances Committee | other | True | 4 |
-| Special Committee on CDBG | other | True | 0 |
-| Police Commission | public_safety | True | 0 |
-| Public Safety and Transportation Committee | public_safety | True | 0 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-**Zero videos registered for:** Economic and Community Development and Environment Committee, Education and Social Services Committee, Miscellaneous Matters Committee, Special Committee on CDBG, Police Commission, Public Safety and Transportation Committee
+## Get the full transcripts
+
+**[Download Bridgeport's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/bridgeport-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip bridgeport-meeting-transcripts.zip -d bridgeport
+cd bridgeport
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -312,20 +325,6 @@ _Generated 2026-08-29T10:15:22 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 8 (fetched: 8)
-- Date range covered: 2026-04-21 to 2026-08-03
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| bridgeport_legistar | legistar | https://bridgeportct.legistar.com/ | confirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -429,6 +428,72 @@ _Generated 2026-08-29T10:15:22 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 2
+- Active meeting bodies: 11
+- Videos registered: 157 (fetched: 141, no captions: 14)
+- Date range covered: 2016-04-05 to 2026-08-24 — **based on the 145 of 157 videos that carry a parseable upload date**; the other 12 are undated, so the real corpus may extend beyond this range in either direction
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| City of Bridgeport | city_of_bridgeport | @CityofBridgeport1901 |
+| Bridgeport Public Schools | bridgeport_public_schools | @bpsct |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| bridgeport_public_schools | streams | 2026-08-31 07:30:29.755771 | 378 |
+| bridgeport_public_schools | videos | 2026-08-31 07:30:30.828742 | 43 |
+| city_of_bridgeport | streams | 2026-08-31 07:35:53.204128 | 43 |
+| city_of_bridgeport | videos | 2026-08-31 07:35:58.361319 | 393 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Budget and Appropriations Committee | budget_finance | True | 16 |
+| City Council | council | True | 36 |
+| Board of Education | education | True | 77 |
+| Contracts Committee | other | True | 24 |
+| Economic and Community Development and Environment Committee | other | True | 0 |
+| Education and Social Services Committee | other | True | 0 |
+| Miscellaneous Matters Committee | other | True | 0 |
+| Ordinances Committee | other | True | 4 |
+| Special Committee on CDBG | other | True | 0 |
+| Police Commission | public_safety | True | 0 |
+| Public Safety and Transportation Committee | public_safety | True | 0 |
+
+
+**Zero videos registered for:** Economic and Community Development and Environment Committee, Education and Social Services Committee, Miscellaneous Matters Committee, Special Committee on CDBG, Police Commission, Public Safety and Transportation Committee
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 8 (fetched: 8)
+- Date range covered: 2026-04-21 to 2026-08-03
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| bridgeport_legistar | legistar | https://bridgeportct.legistar.com/ | confirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -467,4 +532,10 @@ _Generated 2026-08-29T10:15:22 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:08:21 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bridgeport"`_
 

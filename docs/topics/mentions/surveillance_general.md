@@ -1,6 +1,6 @@
 # General surveillance: every mention, every town
 
-_Generated 2026-08-29T12:29:40 — 176 mentions across 36 towns, 2017-01-03 to 2026-08-18._
+_Generated 2026-08-31T08:49:04 — 283 mentions across 43 towns, 2017-01-03 to 2026-08-18._
 
 
 General discussion of surveillance, privacy and camera policy that is not specific to one technology.
@@ -23,42 +23,49 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| Darien ⁽ⁿᵖ⁾ | **51** | 11 | 31 | 33% | 2023-01-20 | 2026-08-18 |
+| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **82** | 11 | 44 | 50% | 2022-10-03 | 2026-08-18 |
+| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **43** | · | 20 | 66% | 2022-10-25 | 2026-04-28 |
 | [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **19** | · | 15 | 98% | 2021-02-25 | 2026-06-11 |
-| Groton ⁽ⁿᵖ⁾ | **14** | · | 8 | 43% | 2021-04-23 | 2026-04-22 |
+| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **17** | · | 11 | 63% | 2021-04-23 | 2026-04-22 |
 | [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **13** | · | 3 | 90% | 2022-04-19 | 2026-03-24 |
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **10** | · | 6 | 98% | 2017-01-03 | 2026-01-07 |
-| Bethel ⁽ⁿᵖ⁾ | **7** | · | 4 | 38% | 2024-02-08 | 2024-11-14 |
+| [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **10** | · | 5 | 74% | 2021-12-15 | 2024-03-13 |
+| [Bethel](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 4 | 54% | 2024-02-08 | 2024-11-14 |
 | [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | **7** | 1 | 3 | 99% | 2026-03-05 | 2026-04-02 |
 | [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **6** | 2 | 5 | 95% | 2020-07-20 | 2026-04-08 |
-| Berlin ⁽ⁿᵖ⁾ | **4** | · | 3 | 78% | 2023-05-11 | 2024-09-12 |
-| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **4** | 1 | 4 | 95% | 2024-02-14 | 2025-08-14 |
-| Canaan ⁽ⁿᵖ⁾ | **3** | · | 2 | 63% | 2025-06-06 | 2025-08-11 |
-| East Hampton ⁽ⁿᵖ⁾ | **3** | · | 1 | 55% | 2021-03-27 | 2021-03-27 |
+| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **6** | 3 | 6 | 63% | 2018-10-24 | 2025-08-14 |
+| [Wethersfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 38% | 2022-04-19 | 2025-04-01 |
+| [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 78% | 2023-05-11 | 2024-09-12 |
+| [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 54% | 2026-04-14 | 2026-08-12 |
+| [Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/canaan/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 63% | 2025-06-06 | 2025-08-11 |
+| [East Hampton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 1 | 55% | 2021-03-27 | 2021-03-27 |
+| [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **3** | 1 | 3 | 46% | 2021-12-07 | 2026-04-21 |
+| [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 36% | 2024-01-13 | 2026-01-10 |
 | [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 85% | 2025-07-14 | 2025-12-15 |
 | [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 93% | 2024-09-24 | 2026-01-21 |
 | Beacon Falls ⁽ⁿᵖ⁾ | **2** | 2 | 2 | — | 2026-04-13 | 2026-07-13 |
 | [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 94% | 2025-08-04 | 2025-08-04 |
+| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 57% | 2025-08-14 | 2025-11-05 |
+| Franklin ⁽ⁿᵖ⁾ | **2** | 2 | 2 | — | 2026-01-20 | 2026-01-20 |
+| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 45% | 2020-11-18 | 2024-11-18 |
 | [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 96% | 2023-09-21 | 2023-09-21 |
-| Norwich ⁽ⁿᵖ⁾ | **2** | 1 | 2 | 53% | 2024-04-09 | 2026-05-19 |
-| Seymour ⁽ⁿᵖ⁾ | **2** | · | 2 | 75% | 2021-01-08 | 2021-04-06 |
-| Stonington ⁽ⁿᵖ⁾ | **2** | · | 2 | 70% | 2021-02-23 | 2024-04-24 |
-| Wethersfield ⁽ⁿᵖ⁾ | **2** | · | 2 | 21% | 2024-04-24 | 2025-04-01 |
+| [Norwich](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | **2** | 1 | 2 | 53% | 2024-04-09 | 2026-05-19 |
+| [Seymour](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 83% | 2021-01-08 | 2021-04-06 |
+| [Stonington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/stonington/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 70% | 2021-02-23 | 2024-04-24 |
+| [Watertown](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 78% | 2023-09-21 | 2023-12-07 |
 | [Ansonia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 96% | 2024-04-10 | 2024-04-10 |
 | Brooklyn ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-04-29 | 2026-04-29 |
 | Canton ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-06-01 | 2026-06-01 |
-| East Windsor ⁽ⁿᵖ⁾ | **1** | · | 1 | 36% | 2024-05-16 | 2024-05-16 |
-| Granby ⁽ⁿᵖ⁾ | **1** | · | 1 | 71% | 2026-06-10 | 2026-06-10 |
-| Guilford ⁽ⁿᵖ⁾ | **1** | · | 1 | 22% | 2024-11-18 | 2024-11-18 |
-| Mansfield ⁽ⁿᵖ⁾ | **1** | 1 | 1 | 28% | 2026-05-28 | 2026-05-28 |
-| Naugatuck ⁽ⁿᵖ⁾ | **1** | · | 1 | 58% | 2026-07-07 | 2026-07-07 |
-| New Canaan ⁽ⁿᵖ⁾ | **1** | · | 1 | 29% | 2026-04-28 | 2026-04-28 |
-| North Branford ⁽ⁿᵖ⁾ | **1** | 1 | 1 | 29% | 2026-04-21 | 2026-04-21 |
-| North Haven ⁽ⁿᵖ⁾ | **1** | · | 1 | 36% | 2026-01-10 | 2026-01-10 |
+| [East Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2025-01-22 | 2025-01-22 |
+| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 36% | 2024-05-16 | 2024-05-16 |
+| Essex ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-03-18 | 2026-03-18 |
+| [Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 99% | 2026-06-10 | 2026-06-10 |
+| [Mansfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 60% | 2026-05-28 | 2026-05-28 |
+| [Naugatuck](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 58% | 2026-07-07 | 2026-07-07 |
 | [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 99% | 2025-06-26 | 2025-06-26 |
-| Plymouth ⁽ⁿᵖ⁾ | **1** | · | 1 | 37% | 2024-01-10 | 2024-01-10 |
-| Rocky Hill ⁽ⁿᵖ⁾ | **1** | · | 1 | 47% | 2024-03-18 | 2024-03-18 |
-| Simsbury ⁽ⁿᵖ⁾ | **1** | · | 1 | 22% | 2024-09-10 | 2024-09-10 |
+| [Plymouth](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plymouth/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 37% | 2024-01-10 | 2024-01-10 |
+| [Rocky Hill](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 47% | 2024-03-18 | 2024-03-18 |
+| [Simsbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 38% | 2024-09-10 | 2024-09-10 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -68,7 +75,7 @@ _No human review has been applied to any mention in this file._
 _Most recent first within each town. Every line links to the exact second of the meeting video._
 
 
-### Darien — 51 mentions
+### Darien — 82 mentions
 
 - **[2026-08-18] Board of Finance** — Board of Finance Agenda - 2026-08-18
   > …d - Pool Fence $7,800 $7,800 Site Drainage - Cleaning and Repair $25,000 $25,000 Cleaning-CCTV-Repairs (Estimate) Driveway Repairs $7,613 $12,387 $20,000 500 LF @ Green House (Comp 8/26/24) Tree Trimming…
@@ -119,7 +126,61 @@ _Most recent first within each town. Every line links to the exact second of the
   [Open document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_03092026-2279)  _(agenda/minutes · term: `surveillance_general`)_
 
 
-_39 further mentions in Darien not shown here — all of them are in Darien's full report (not yet published)._
+_70 further mentions in Darien not shown here — all of them are in [Darien's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md)._
+
+
+### New Canaan — 43 mentions
+
+- **[2026-04-28] Planning & Zoning Commission** — Planning & Zoning Commision Meeting April 28, 2026
+  > …Furthermore, we are awaiting the results of the applicant's investigations of the existing sanitary sewer main CCTV work and flow monitoring because of the proposed increase in sanitary sewer…
+  [Watch ▸](https://www.youtube.com/watch?v=BSiGLSAQF1g&t=3055s)  _(term: `surveillance_general`)_
+
+- **[2025-11-18] Planning & Zoning Commission** — Planning & Zoning Commission Meeting November 18, 2025
+  > …2025. So, I'll touch with the sewer. Uh, the sewer laterals have been CCTV on September 22nd by Highland Sewer and Drain. They appear uh to be in good…
+  [Watch ▸](https://www.youtube.com/watch?v=pvNsBmFH378&t=3642s)  _(term: `surveillance_general`)_
+
+- **[2025-10-14] Water Pollution Control Authority** — Water Pollution Control Authority Meeting October 14, 2025
+  > …cleaning company has also commenced their work this morning with light cleaning and CCTV inspections in those same sub areas. Their work is slated to take approximately three weeks to…
+  [Watch ▸](https://www.youtube.com/watch?v=YZRMTrUwH3A&t=273s)  _(term: `surveillance_general`)_
+
+- **[2025-08-19] Board of Selectmen** — Board of Selectmen Meeting August 19, 2025
+  > …sanitary sewer collection system in South Avenue. Services include cleaning, CCTV inspection, cured inplace lining, and traffic control. Records indicate that this 8 in sewer man along this…
+  [Watch ▸](https://www.youtube.com/watch?v=8MjXIORknyk&t=2087s)  _(term: `surveillance_general`)_
+
+- **[2025-07-08] Board of Selectmen** — Board of Selectmen Meeting July 8, 2025
+  > …conditions, the works anticipated to commence in the fall. In addition, continued CCTV work of our mains in the district will resume with an estimated 40,100 linear feet of televised mains.…
+  [Watch ▸](https://www.youtube.com/watch?v=QNIHKSnskqg&t=1388s)  _(term: `surveillance_general`)_
+
+- **[2025-07-08] Board of Selectmen** — Board of Selectmen Meeting July 8, 2025
+  > …potentially might have to do some heavy cleaning of some of these mains in order to do the CCTV work. Um and with that there's there's a little and you can see that actually in…
+  [Watch ▸](https://www.youtube.com/watch?v=QNIHKSnskqg&t=1502s)  _(term: `surveillance_general`)_
+
+- **[2025-07-08] Board of Selectmen** — Board of Selectmen Meeting July 8, 2025
+  > …want need to be in high groundwater. But they'll be able to start getting in queue for um for the televising the CCTV work. That was strictly a question to say…
+  [Watch ▸](https://www.youtube.com/watch?v=QNIHKSnskqg&t=2180s)  _(term: `surveillance_general`)_
+
+- **[2025-05-07] Parking Commission** — Parking Commission Meeting May 7, 2025
+  > …the benefit of everyone in the office while I got it. It's okay. Another question. Do we have CCTV? Do we have CCTV cameras on those lots and on Elm Street…
+  [Watch ▸](https://www.youtube.com/watch?v=Lex_GYuf-Fg&t=5018s)  _(term: `surveillance_general`)_
+
+- **[2025-05-07] Parking Commission** — Parking Commission Meeting May 7, 2025
+  > …while I got it. It's okay. Another question. Do we have CCTV? Do we have CCTV cameras on those lots and on Elm Street in the Park Street? Um I'm I'm sorry.…
+  [Watch ▸](https://www.youtube.com/watch?v=Lex_GYuf-Fg&t=5021s)  _(term: `surveillance_general`)_
+
+- **[2025-05-07] Parking Commission** — Parking Commission Meeting May 7, 2025
+  > …And then related to that is the quest my my my question was whether or not we have CCTV cameras on Elm Street and in the those lots where we could do. We we we have we have cameras around town. We…
+  [Watch ▸](https://www.youtube.com/watch?v=Lex_GYuf-Fg&t=5057s)  _(term: `surveillance_general`)_
+
+- **[2024-10-08] Water Pollution Control Authority** — Water Pollution Control Authority Special Meeting October 8, 2024
+  > …projects will occur concurrently with the final years of the sewer system evaluation investigations including CCTV work at this point Sarah bchi from aeom can better walk you through her…
+  [Watch ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=247s)  _(term: `surveillance_general`)_
+
+- **[2024-10-08] Water Pollution Control Authority** — Water Pollution Control Authority Special Meeting October 8, 2024
+  > …anticipate identifying additional pipelining projects as we complete the CCTV inspection which is where they send a camera through the pipeline and identify defects in the…
+  [Watch ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=411s)  _(term: `surveillance_general`)_
+
+
+_31 further mentions in New Canaan not shown here — all of them are in [New Canaan's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Norwalk — 19 mentions
@@ -176,7 +237,7 @@ _39 further mentions in Darien not shown here — all of them are in Darien's fu
 _7 further mentions in Norwalk not shown here — all of them are in [Norwalk's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Groton — 14 mentions
+### Groton — 17 mentions
 
 - **[2026-04-22] Representative Town Meeting** — Groton RTM Public Works Committee - 4/22/26
   > …This is >> this is $30,000 for installation of new CCTV system and that would be for the uh Spicer House itself which houses the parks and recreation staff and then the…
@@ -227,7 +288,7 @@ _7 further mentions in Norwalk not shown here — all of them are in [Norwalk's 
   [Watch ▸](https://www.youtube.com/watch?v=WkseRh_beGo&t=1937s)  _(term: `surveillance_general`)_
 
 
-_2 further mentions in Groton not shown here — all of them are in Groton's full report (not yet published)._
+_5 further mentions in Groton not shown here — all of them are in [Groton's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Wallingford — 13 mentions
@@ -327,6 +388,49 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
   [Watch ▸](https://www.youtube.com/watch?v=ULW1oFUAe9Q&t=9020s)  _(term: `surveillance_general`)_
 
 
+### Newington — 10 mentions
+
+- **[2024-03-13] Town Plan & Zoning Commission** — Town Plan & Zoning Commission Regular Meeting Mar 13, 2024
+  > …quality structure ensure that it's still functioning effectively we performed a uh CCTV inspection of the entire uh site uh site development all of the drainage on site uh we opened the top of that…
+  [Watch ▸](https://www.youtube.com/watch?v=eVFYbC2J384&t=3616s)  _(term: `surveillance_general`)_
+
+- **[2023-01-25] Mayor & Town Council** — Mayor & Town Council Regular Meeting
+  > …above that has had design work started on that and the last item got approved with CCTV inspection equipment I know the last time that we presented any projects to you and that you approved it…
+  [Watch ▸](https://www.youtube.com/watch?v=dvBdICxyo20&t=4806s)  _(term: `surveillance_general`)_
+
+- **[2022-05-25] Mayor & Town Council** — Mayor & Town Council Regular Meeting
+  > …improvement projects for pheasant run fisk and gilbert and moreland drive in addition to the acquisition of a cctv inspection um piece of equipment…
+  [Watch ▸](https://www.youtube.com/watch?v=uZUeOj9-FXM&t=4372s)  _(term: `surveillance_general`)_
+
+- **[2022-05-11] Mayor & Town Council** — Mayor & Town Council Regular Meeting
+  > …this gilbert drainage for 100 000 moreland drive drainage for 750 000 and some cctv inspection equipment for 75 000. um i put in brief write-ups regarding each…
+  [Watch ▸](https://www.youtube.com/watch?v=Aqzs5YWb4X4&t=1191s)  _(term: `surveillance_general`)_
+
+- **[2022-05-11] Mayor & Town Council** — Mayor & Town Council Regular Meeting
+  > …for us to also tap in so if we needed to put in um cctv for security purposes and whatnot or access controls for gates and things of those natures so with that fiber…
+  [Watch ▸](https://www.youtube.com/watch?v=Aqzs5YWb4X4&t=1493s)  _(term: `surveillance_general`)_
+
+- **[2022-05-11] Mayor & Town Council** — Mayor & Town Council Regular Meeting
+  > …do do the three different sites and if i we could get um just a little more description or explanation of the cctv inspection equipment i know that there was there was a write-up but…
+  [Watch ▸](https://www.youtube.com/watch?v=Aqzs5YWb4X4&t=1994s)  _(term: `surveillance_general`)_
+
+- **[2022-05-11] Mayor & Town Council** — Mayor & Town Council Regular Meeting
+  > …hire a consultant to to move those uh forward um the uh the cctv equipment um it's closer it's closer look at television equipment that we can do our…
+  [Watch ▸](https://www.youtube.com/watch?v=Aqzs5YWb4X4&t=2040s)  _(term: `surveillance_general`)_
+
+- **[2022-05-11] Mayor & Town Council** — Mayor & Town Council Regular Meeting
+  > …what we you know beyond you know beyond the the cash basis and manholes um that's i mean essentially the cctv equipment it's the it's a mobile package uh you know that we it consists of…
+  [Watch ▸](https://www.youtube.com/watch?v=Aqzs5YWb4X4&t=2092s)  _(term: `surveillance_general`)_
+
+- **[2021-12-15] Mayor & Town Council** — Mayor & Town Council Regular Meeting
+  > …generators kick in on our critical items we also maintain wireless access points cctv security camera systems during the last several years information technology has played a…
+  [Watch ▸](https://www.youtube.com/watch?v=kOUpHa8da8A&t=11163s)  _(term: `surveillance_general`)_
+
+- **[2021-12-15] Mayor & Town Council** — Mayor & Town Council Regular Meeting
+  > …telecommunication rooms telephony and data outlets cctv systems door access control systems building management systems telephone systems voicemail installation…
+  [Watch ▸](https://www.youtube.com/watch?v=kOUpHa8da8A&t=11248s)  _(term: `surveillance_general`)_
+
+
 ### Bethel — 7 mentions
 
 - **[2024-11-14] Public Utilities Commission** — Public Utilities Commission Regular Meeting - 11/14/2024
@@ -416,6 +520,56 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
   [Open document ▸](https://eltownhall.com/wp-content/uploads/2020/07/BOF-July-20-2020-Minutes.pdf)  _(agenda/minutes · term: `surveillance_general`)_
 
 
+### New Britain — 6 mentions
+
+- **[2025-08-14] Common Council** — Common Council Regular Meeting
+  > …>> This is regarding $32,142 to Mammoth Security for the implementation of a new CCTV system at the water department's water filtration plant. I urge adoption.…
+  [Watch ▸](https://www.youtube.com/watch?v=zc0NINqurYc&t=2964s)  _(term: `surveillance_general`)_
+
+- **[2024-09-12] Common Council** — Common Council Regular Meeting
+  > …of galvaniz Steel storm pipe um the existing storm pipe was tested through the CCTV in inspected and it exposed that the pipeline is nonexisting resulting in sink holes on the road and…
+  [Watch ▸](https://www.youtube.com/watch?v=nCCvOF9c_T8&t=5825s)  _(term: `surveillance_general`)_
+
+- **[2024-08-15] Common Council** — Common Council Regular Meeting
+  > …flooding along Eaton and Newberry Eaton Hampton Eaton and new blueberry there are Simple Solutions run a CCTV camera down the infrastructure pipes Andor perform flow monitoring to identify…
+  [Watch ▸](https://www.youtube.com/watch?v=iSaFOMr0Oq4&t=630s)  _(term: `surveillance_general`)_
+
+- **[2024-02-14] Common Council** — Common Council Regular Meeting Minutes - 2024-02-14
+  > …ld work to be completed, and is expected to include additional field mapping to determine pipe connectivity, investigation of dry weather flows within the drainage network and assisting the City with CCTV investigations; and 87 February 14, 2024 WHEREAS, Funding is available for this within the P…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=856&doc_id=085e7e51-e151-11ee-98bb-0050569183fa)  _(agenda/minutes · term: `surveillance_general`)_
+
+- **[2018-12-12] Common Council** — Common Council Regular Meeting Minutes - 2018-12-12
+  > …ng complaints, (1) one dead animal complaint (1) one suspicious package complaint, (1) one suspicious vehicle complaint-unfounded (1) one recovered stolen vehicle complaint. The installation of a surveillance camera that allows 24/7 internet based monitoring during the day and night hours along with recording capabilities would cost approximately $18,000 per unit. In addition,…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=218&doc_id=e399aaab-3925-11e9-b021-0050569183fa)  _(agenda/minutes · term: `surveillance_general`)_
+
+- **[2018-10-24] Common Council** — Common Council Regular Meeting Minutes - 2018-10-24
+  > …omplaints; one (1) dead animal complaint; one (1) suspicious package complaint; one (1) suspicious vehicle complaint – unfounded; and one (1) recovered stolen vehicle complaint. The installation of a surveillance camera that allows 24/7 internet monitoring with recording capability, would cost approximately $18,000 per unit. It is recommended to increase the lighting in the cul-de-sac and increase…
+  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=209&doc_id=8d04bc3a-3925-11e9-b021-0050569183fa)  _(agenda/minutes · term: `surveillance_general`)_
+
+
+### Wethersfield — 5 mentions
+
+- **[2025-04-01] Planning and Zoning Commission** — Planning and Zoning Commission - April 1, 2025
+  > …teams available 24/7 365 to respond in the event that there's an incident such as so you've got basically CCTV full-time there with remote monitoring yes sir what about lighting lighting yep…
+  [Watch ▸](https://www.youtube.com/watch?v=eouP__E5y8A&t=2763s)  _(term: `surveillance_general`)_
+
+- **[2024-04-24] Budget Work Session** — Budget Work Session - April 24, 2024
+  > …doing as a town we're just going to take over that responsibility CCTV drainage inspections um I I used to get 15,000 it was reduced to 10 I'm just asking for getting back…
+  [Watch ▸](https://www.youtube.com/watch?v=HaNn0yQOk7c&t=6170s)  _(term: `surveillance_general`)_
+
+- **[2022-08-01] Town Council** — Town Council Meeting - August 1, 2022
+  > …lot of settlement issues out in this neighborhood that are pretty uncommon and unusual um we've done some cb cctv inspections of our pipes mdc's inspected theirs piping looks fine…
+  [Watch ▸](https://www.youtube.com/watch?v=IFovHLOZ4WI&t=9821s)  _(term: `surveillance_general`)_
+
+- **[2022-04-19] Town Council** — Town Council - Special Meeting 4-19-2022
+  > …as needed the other one that is a significant change is the cctv that's for drainage inspections um i had gotten that added to the budget a few years ago it's…
+  [Watch ▸](https://www.youtube.com/watch?v=JbCg9hLPnjk&t=380s)  _(term: `surveillance_general`)_
+
+- **[2022-04-19] Town Council** — Town Council - Special Meeting 4-19-2022
+  > …an increase of maybe around six thousand uh maybe more if i can get five thousand on the cctv and the next few items they were sawing did you say wetlands flagging…
+  [Watch ▸](https://www.youtube.com/watch?v=JbCg9hLPnjk&t=448s)  _(term: `surveillance_general`)_
+
+
 ### Berlin — 4 mentions
 
 - **[2024-09-12] Public Building Commission** — Public Building Commission 2024 09 12
@@ -435,23 +589,19 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
   [Watch ▸](https://www.youtube.com/watch?v=7FGjJKFq5jg&t=1069s)  _(term: `surveillance_general`)_
 
 
-### New Britain — 4 mentions
+### Bristol — 3 mentions
 
-- **[2025-08-14] Common Council** — Common Council Regular Meeting
-  > …>> This is regarding $32,142 to Mammoth Security for the implementation of a new CCTV system at the water department's water filtration plant. I urge adoption.…
-  [Watch ▸](https://www.youtube.com/watch?v=zc0NINqurYc&t=2964s)  _(term: `surveillance_general`)_
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …took a thousand cars went by and that data just disappears just like your home surveillance camera. Unless you're staring at your home surveillance camera 24/7,…
+  [Watch ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2805s)  _(term: `surveillance_general`)_
 
-- **[2024-09-12] Common Council** — Common Council Regular Meeting
-  > …of galvaniz Steel storm pipe um the existing storm pipe was tested through the CCTV in inspected and it exposed that the pipeline is nonexisting resulting in sink holes on the road and…
-  [Watch ▸](https://www.youtube.com/watch?v=nCCvOF9c_T8&t=5825s)  _(term: `surveillance_general`)_
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …data just disappears just like your home surveillance camera. Unless you're staring at your home surveillance camera 24/7, you really don't know who's going…
+  [Watch ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2806s)  _(term: `surveillance_general`)_
 
-- **[2024-08-15] Common Council** — Common Council Regular Meeting
-  > …flooding along Eaton and Newberry Eaton Hampton Eaton and new blueberry there are Simple Solutions run a CCTV camera down the infrastructure pipes Andor perform flow monitoring to identify…
-  [Watch ▸](https://www.youtube.com/watch?v=iSaFOMr0Oq4&t=630s)  _(term: `surveillance_general`)_
-
-- **[2024-02-14] Common Council** — Common Council Regular Meeting Minutes - 2024-02-14
-  > …ld work to be completed, and is expected to include additional field mapping to determine pipe connectivity, investigation of dry weather flows within the drainage network and assisting the City with CCTV investigations; and 87 February 14, 2024 WHEREAS, Funding is available for this within the P…
-  [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=856&doc_id=085e7e51-e151-11ee-98bb-0050569183fa)  _(agenda/minutes · term: `surveillance_general`)_
+- **[2026-04-14] City Council** — Bristol City Council Meeting - 04/14/26
+  > …uh drone radars, uh one Axon dead drone uh beyond which is a drone detection device, 250 Fus CCTV streams, Auror Retail Crime Hub, set items to be covered for 5 years effective June 2020.…
+  [Watch ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=5236s)  _(term: `surveillance_general`)_
 
 
 ### Canaan — 3 mentions
@@ -482,6 +632,36 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
 - **[2021-03-27] Board of Finance** — Board of Finance Budget Workshop
   > …purchase some of the cameras that uh rich was talking about and then the cctv upgrades is you know the related to the same system that high school and town hall are…
   [Watch ▸](https://www.youtube.com/watch?v=lHfqxewSRnk&t=4416s)  _(term: `surveillance_general`)_
+
+
+### North Branford — 3 mentions
+
+- **[2026-04-21] Town Council** — Town Council Meetings Minutes - 2026-04-21
+  > …ter opportunity to evaluate the I&I impact these areas are having. As rain events occur and data is evaluated, the Veolia team will review the data with you and provide a plan of further action i.e.: CCTV, dye testing, or move the Smart Cover to a different location. Unlike traditional flow studies where the flow measuring device remains in one location for the duration of the project, Smart Cover…
+  [Open document ▸](https://www.townofnorthbranfordct.com/AgendaCenter/ViewFile/Minutes/_04212026-982)  _(agenda/minutes · term: `surveillance_general`)_
+
+- **[2023-06-20] Town Council** — Town Council 06/20/2023
+  > …um vendors like the next gen crown castle fiber security infrastructure such as CCTV and card key access they were specific items that were on the list that they submitted to us but they…
+  [Watch ▸](https://www.youtube.com/watch?v=x_7uzpE94ao&t=2991s)  _(term: `surveillance_general`)_
+
+- **[2021-12-07] Town Council** — Town Council 12-07-2021
+  > …uh 20 of the lines the sewage lines throughout town every year they cctv inspect 10 of the lines every year they make recommendations for improvements um i work with their…
+  [Watch ▸](https://www.youtube.com/watch?v=z_ZWF7TooWs&t=619s)  _(term: `surveillance_general`)_
+
+
+### North Haven — 3 mentions
+
+- **[2026-01-10] Board of Finance** — Board of Finance - Budget Workshop 01/10/2026
+  > …fencing, and there is no bonafideed way to enter and exit. And there's also uh no CCTV coverage, camera coverage at all. So, we do have we've seen evidence in the past of loitering, um you know,…
+  [Watch ▸](https://www.youtube.com/watch?v=iZzwYsgT7YE&t=4075s)  _(term: `surveillance_general`)_
+
+- **[2024-01-13] Board of Finance** — Board of Finance Budget Workshop 01/13/2024
+  > …it okay why don't we move on to the next uh we've done this in the past in terms of uh CCTV and security and so forth every year for four years we put $20,000 aside to put cameras in each of…
+  [Watch ▸](https://www.youtube.com/watch?v=ivXYm0JlJAI&t=5708s)  _(term: `surveillance_general`)_
+
+- **[2024-01-13] Board of Finance** — Board of Finance Budget Workshop 01/13/2024
+  > …know Access Control in all of our stations uh we're looking to do the same thing now with the training center CCTV would still be installed as a deterrence but we need to work on some fencing that…
+  [Watch ▸](https://www.youtube.com/watch?v=ivXYm0JlJAI&t=5735s)  _(term: `surveillance_general`)_
 
 
 ### Waterbury — 3 mentions
@@ -536,6 +716,39 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
   [Watch ▸](https://www.youtube.com/watch?v=Id7r3q9BX7E&t=5054s)  _(term: `surveillance_general`)_
 
 
+### East Haddam — 2 mentions
+
+- **[2025-11-05] Public Information Meeting** — Public Hearing - ATESD Part 1 - 11.5.2025
+  > …pirate. Okay. She had to do her own [clears throat] gather her own surveillance camera footage off her vehicle in her house to present a case and to the chief of…
+  [Watch ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4133s)  _(term: `surveillance_general`)_
+
+- **[2025-08-14] Moodus Firehouse Committee** — Moodus Firehouse Building Committee - 8.14.2025
+  > …>> Okay. >> Yeah. Sure. Sure thing. Sure. >> Right. Also CCTV do we consider that we consider lock controls, access ways? >> Yeah. So we have we have a budget number…
+  [Watch ▸](https://www.youtube.com/watch?v=OE367ncJpHw&t=3932s)  _(term: `surveillance_general`)_
+
+
+### Franklin — 2 mentions
+
+- **[2026-01-20] (unassigned body)** — Planning and Zoning Commission Agenda - 2026-01-20
+  > …meets all requirements for the storage of this material per ATF guidelines. Security measures will be implemented, including locked fencing. building-mounted lighting, and CCTV, in accordance with Defense Counterintelligence and Security Agency (DCSA) requirements. The structure will only be accessed by Nalas employees and wil…
+  [Open document ▸](https://www.franklinct.gov/AgendaCenter/ViewFile/Agenda/_01202026-184)  _(agenda/minutes · term: `surveillance_general`)_
+
+- **[2026-01-20] (unassigned body)** — Planning and Zoning Commission Minutes - 2026-01-20
+  > …meets all requirements for the storage of this material per ATF guidelines. Security measures will be implemented, including locked fencing. building-mounted lighting, and CCTV, in accordance with Defense Counterintelligence and Security Agency (DCSA) requirements. The structure will only be accessed by Nalas employees and wil…
+  [Open document ▸](https://www.franklinct.gov/AgendaCenter/ViewFile/Minutes/_01202026-184)  _(agenda/minutes · term: `surveillance_general`)_
+
+
+### Guilford — 2 mentions
+
+- **[2024-11-18] Board of Selectmen** — BOS Capital Plan Workshop November 18, 2024 Part 1
+  > …cities where just a surveillance type thing no it's it it's not like that it's not a surveillance camera it's triggered by the motion and then it it will it's it just reads it reads the plate yes and…
+  [Watch ▸](https://www.youtube.com/watch?v=g-aQiILsCtg&t=5289s)  _(term: `surveillance_general`)_
+
+- **[2020-11-18] Board of Selectmen** — Board of Selectmen 11/18/20
+  > …the newest thing on the capital budget that that you'll see is is for this uh 2122 is the avigilon server uh over the last couple of years and…
+  [Watch ▸](https://www.youtube.com/watch?v=xtZozZKAFjE&t=7941s)  _(term: `surveillance_general`)_
+
+
 ### Hartford — 2 mentions
 
 - **[2023-09-21] Quality of Life and Public Safety Committee** — City of Hartford Quality of Life Public Safety Committee Meeting 9/21/23
@@ -580,15 +793,15 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
   [Watch ▸](https://www.youtube.com/watch?v=5LspFiajDWc&t=3034s)  _(term: `surveillance_general`)_
 
 
-### Wethersfield — 2 mentions
+### Watertown — 2 mentions
 
-- **[2025-04-01] Planning and Zoning Commission** — Planning and Zoning Commission - April 1, 2025
-  > …teams available 24/7 365 to respond in the event that there's an incident such as so you've got basically CCTV full-time there with remote monitoring yes sir what about lighting lighting yep…
-  [Watch ▸](https://www.youtube.com/watch?v=eouP__E5y8A&t=2763s)  _(term: `surveillance_general`)_
+- **[2023-12-07] Planning & Zoning Commission** — Planning & Zoning 6DEC23
+  > …it uh as for Poli as for what the police say uh parking lot will is suggested to be well lit CCTV camera is installed with signage around and possible installation of a camera at the entrance…
+  [Watch ▸](https://www.youtube.com/watch?v=tdbLDbmoag8&t=999s)  _(term: `surveillance_general`)_
 
-- **[2024-04-24] Budget Work Session** — Budget Work Session - April 24, 2024
-  > …doing as a town we're just going to take over that responsibility CCTV drainage inspections um I I used to get 15,000 it was reduced to 10 I'm just asking for getting back…
-  [Watch ▸](https://www.youtube.com/watch?v=HaNn0yQOk7c&t=6170s)  _(term: `surveillance_general`)_
+- **[2023-09-21] Water & Sewer Authority** — Water & Sewer 20Sep23
+  > …the customer side uh we had two lateral uh sewer repairs we did two sewer inspections and we had to do one CCTV inspection on the sewer line uh on the office business administration side the…
+  [Watch ▸](https://www.youtube.com/watch?v=onzwaPVZ2uU&t=123s)  _(term: `surveillance_general`)_
 
 
 ### Ansonia — 1 mention
@@ -612,6 +825,13 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
   [Open document ▸](https://www.townofcantonct.gov/AgendaCenter/ViewFile/Minutes/_06012026-594)  _(agenda/minutes · term: `surveillance_general`)_
 
 
+### East Granby — 1 mention
+
+- **[2025-01-22] Water Pollution Control Authority** — East Granby Water Pollution Control Authority - 01-22-25
+  > …investigations uh may include recommendations to complete uh closed circuit television inspections or CCTV inspections which help identify specific sources of infiltration to the system we…
+  [Watch ▸](https://www.youtube.com/watch?v=ZgV9slTeAU8&t=830s)  _(term: `surveillance_general`)_
+
+
 ### East Windsor — 1 mention
 
 - **[2024-05-16] Board of Selectmen** — Board of Selectmen Regular Meeting - May 16, 2024
@@ -619,18 +839,18 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
   [Watch ▸](https://www.youtube.com/watch?v=ku-2oyXAKE0&t=4276s)  _(term: `surveillance_general`)_
 
 
+### Essex — 1 mention
+
+- **[2026-03-18] (unassigned body)** — Board of Selectman Minutes - 2026-03-18
+  > …lity Data Services (Obj 504200-411)? QDS is the software used by both the Tax Collector and Assessor. It includes software & maintenance, web hosting, and printing/mailing of tax bills.  What is Verkada Licensing (Obj 504200-460)? This is the licensing for the Town’s security cameras (Town Hall, Hubbard Park, DPW, Transfer Station, etc.). These licenses were previously paid for by ARPA fundin…
+  [Open document ▸](https://www.essexct.gov/AgendaCenter/ViewFile/Minutes/_03182026-455)  _(agenda/minutes · term: `surveillance_general`)_
+
+
 ### Granby — 1 mention
 
 - **[2026-06-10] Inland Wetlands & Watercourses Commission** — Granby Inland Wetlands & Watercourses Commission - 06-10-26
   > …in. Um, additionally, we also um scoped the existing pipes today and I have that CCTV footage um that I can send to Kate. Um, and it looks like the drainage the the pipes are in good condition at…
   [Watch ▸](https://www.youtube.com/watch?v=mRNVsCa2faY&t=718s)  _(term: `surveillance_general`)_
-
-
-### Guilford — 1 mention
-
-- **[2024-11-18] Board of Selectmen** — BOS Capital Plan Workshop November 18, 2024 Part 1
-  > …cities where just a surveillance type thing no it's it it's not like that it's not a surveillance camera it's triggered by the motion and then it it will it's it just reads it reads the plate yes and…
-  [Watch ▸](https://www.youtube.com/watch?v=g-aQiILsCtg&t=5289s)  _(term: `surveillance_general`)_
 
 
 ### Mansfield — 1 mention
@@ -645,27 +865,6 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
 - **[2026-07-07] Board of Mayor and Burgesses** — Monthly Board of Mayor and Burgess meeting 07/07/2026
   > …involved with the side investigations for several years now. like back in 2022 was out in the field doing CCTV of all those drainage pipes figuring out drainage network. Um downstream we added…
   [Watch ▸](https://www.youtube.com/watch?v=GYqD-Emhr0g&t=2178s)  _(term: `surveillance_general`)_
-
-
-### New Canaan — 1 mention
-
-- **[2026-04-28] Planning & Zoning Commission** — Planning & Zoning Commision Meeting April 28, 2026
-  > …Furthermore, we are awaiting the results of the applicant's investigations of the existing sanitary sewer main CCTV work and flow monitoring because of the proposed increase in sanitary sewer…
-  [Watch ▸](https://www.youtube.com/watch?v=BSiGLSAQF1g&t=3055s)  _(term: `surveillance_general`)_
-
-
-### North Branford — 1 mention
-
-- **[2026-04-21] Town Council** — Town Council Meetings Minutes - 2026-04-21
-  > …ter opportunity to evaluate the I&I impact these areas are having. As rain events occur and data is evaluated, the Veolia team will review the data with you and provide a plan of further action i.e.: CCTV, dye testing, or move the Smart Cover to a different location. Unlike traditional flow studies where the flow measuring device remains in one location for the duration of the project, Smart Cover…
-  [Open document ▸](https://www.townofnorthbranfordct.com/AgendaCenter/ViewFile/Minutes/_04212026-982)  _(agenda/minutes · term: `surveillance_general`)_
-
-
-### North Haven — 1 mention
-
-- **[2026-01-10] Board of Finance** — Board of Finance - Budget Workshop 01/10/2026
-  > …fencing, and there is no bonafideed way to enter and exit. And there's also uh no CCTV coverage, camera coverage at all. So, we do have we've seen evidence in the past of loitering, um you know,…
-  [Watch ▸](https://www.youtube.com/watch?v=iZzwYsgT7YE&t=4075s)  _(term: `surveillance_general`)_
 
 
 ### Orange — 1 mention

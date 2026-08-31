@@ -1,45 +1,66 @@
-# Surveillance-tech transcript report: Wallingford
+# Surveillance-tech report: Wallingford
 
 
-_Generated 2026-08-29T10:21:10 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Wallingford"`_
+## At a glance: Wallingford
+
+This report collects every mention of surveillance technology found in **Wallingford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **61 mentions** across **25 meetings**
+- **First mention:** 2017-11-27  |  **Most recent:** 2026-06-09
+- **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone, surveillance_general
+- **Coverage:** 476 of 531 known Wallingford meetings transcribed (90%)
 
 
-## Coverage status
-
-- Channels registered: 2
-- Active meeting bodies: 3
-- Videos registered: 531 (fetched: 476, no captions: 55)
-- Date range covered: 2016-01-04 to 2026-08-26 — **based on the 529 of 531 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| Wallingford Government Media | wallingford_government_media | @wallingfordgovernmentmedia |
-| Wallingford PS | wallingford_ps |  |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| wallingford_government_media | streams | 2026-08-29 08:35:56.251160 | 359 |
-| wallingford_government_media | videos | 2026-08-29 08:36:04.137272 | 626 |
-| wallingford_ps | streams | 2026-08-29 08:36:17.969412 | 308 |
-| wallingford_ps | videos | 2026-08-29 08:36:21.492680 | 245 |
-
-
-## Registered meeting bodies
-
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Ordinance Committee | council | True | 0 |
-| Town Council | council | True | 318 |
-| Board of Education | education | True | 213 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-**Zero videos registered for:** Ordinance Committee
+## Get the full transcripts
+
+**[Download Wallingford's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/wallingford-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip wallingford-meeting-transcripts.zip -d wallingford
+cd wallingford
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -642,20 +663,6 @@ _Generated 2026-08-29T10:21:10 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| wallingford_custom | custom | https://www.wallingfordct.gov/minutes-and-agendas/ | unconfirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -759,6 +766,64 @@ _Generated 2026-08-29T10:21:10 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 2
+- Active meeting bodies: 3
+- Videos registered: 531 (fetched: 476, no captions: 55)
+- Date range covered: 2016-01-04 to 2026-08-26 — **based on the 529 of 531 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| Wallingford Government Media | wallingford_government_media | @wallingfordgovernmentmedia |
+| Wallingford PS | wallingford_ps |  |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| wallingford_government_media | streams | 2026-08-31 07:31:25.125811 | 360 |
+| wallingford_government_media | videos | 2026-08-31 07:31:32.915296 | 626 |
+| wallingford_ps | streams | 2026-08-31 07:31:46.001456 | 308 |
+| wallingford_ps | videos | 2026-08-31 07:31:49.451540 | 245 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Ordinance Committee | council | True | 0 |
+| Town Council | council | True | 318 |
+| Board of Education | education | True | 213 |
+
+
+**Zero videos registered for:** Ordinance Committee
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 0 (fetched: 0)
+- Date range covered: *no agenda document on file carries a parseable date yet*
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| wallingford_custom | custom | https://www.wallingfordct.gov/minutes-and-agendas/ | unconfirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -807,4 +872,10 @@ _Generated 2026-08-29T10:21:10 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:19:09 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Wallingford"`_
 

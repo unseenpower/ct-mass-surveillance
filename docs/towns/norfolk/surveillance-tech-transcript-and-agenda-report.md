@@ -1,43 +1,61 @@
-# Surveillance-tech transcript report: Norfolk
+# Surveillance-tech report: Norfolk
 
 
-_Generated 2026-08-29T10:19:07 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Norfolk"`_
+## At a glance: Norfolk
+
+This report collects every mention of surveillance technology found in **Norfolk**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 4
-- Videos registered: 42 (fetched: 39, no captions: 0)
-- Date range covered: 2020-12-10 to 2024-05-08 (all 42 videos dated)
+**No surveillance-technology mentions have been found in this town's meetings yet.** That is not the same as none existing -- read the coverage note below, and [Gaps and caveats](#gaps-and-caveats), before treating this as an answer about the town.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| Botelle Media (Norfolk CT Board of Education) | botelle_media |  |
+- **Coverage:** 39 of 42 known Norfolk meetings transcribed (93%)
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| botelle_media | streams | 2026-08-29 09:16:07.075160 | 0 |
-| botelle_media | videos | 2026-08-29 09:16:08.208066 | 44 |
-
-
-## Registered meeting bodies
-
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Board of Selectmen | council | True | 0 |
-| Board of Education | education | True | 42 |
-| Conservation Commission | other | True | 0 |
-| Planning and Zoning Commission | other | True | 0 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-**Zero videos registered for:** Board of Selectmen, Conservation Commission, Planning and Zoning Commission
+## Get the full transcripts
+
+**[Download Norfolk's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/norfolk-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip norfolk-meeting-transcripts.zip -d norfolk
+cd norfolk
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -153,20 +171,6 @@ _Generated 2026-08-29T10:19:07 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| norfolk_custom | custom | https://norfolkct.org/municipal-meetings/ | unconfirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -270,6 +274,61 @@ _Generated 2026-08-29T10:19:07 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 4
+- Videos registered: 42 (fetched: 39, no captions: 0)
+- Date range covered: 2020-12-10 to 2024-05-08 (all 42 videos dated)
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| Botelle Media (Norfolk CT Board of Education) | botelle_media |  |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| botelle_media | videos | 2026-08-31 07:26:50.956336 | 44 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Board of Selectmen | council | True | 0 |
+| Board of Education | education | True | 42 |
+| Conservation Commission | other | True | 0 |
+| Planning and Zoning Commission | other | True | 0 |
+
+
+**Zero videos registered for:** Board of Selectmen, Conservation Commission, Planning and Zoning Commission
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 0 (fetched: 0)
+- Date range covered: *no agenda document on file carries a parseable date yet*
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| norfolk_custom | custom | https://norfolkct.org/municipal-meetings/ | unconfirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -293,5 +352,13 @@ _Generated 2026-08-29T10:19:07 -- regenerate with `.venv/bin/python3 analysis/ge
 
 ### Tabs never crawled
 
-*(none)*
+| channel | tab |
+| --- | --- |
+| Botelle Media (Norfolk CT Board of Education) | streams |
+
+
+---
+
+
+_Generated 2026-08-31T08:15:00 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Norfolk"`_
 

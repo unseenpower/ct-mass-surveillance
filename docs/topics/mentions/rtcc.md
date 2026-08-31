@@ -1,6 +1,6 @@
 # Real-time crime centres: every mention, every town
 
-_Generated 2026-08-29T12:29:54 — 34 mentions across 5 towns, 2021-11-23 to 2026-07-23._
+_Generated 2026-08-31T08:49:18 — 39 mentions across 5 towns, 2021-11-23 to 2026-07-23._
 
 
 Real-time crime centres — control rooms that fuse many camera and data feeds into one live operational picture, often via platforms such as Axon's Fusus.
@@ -23,8 +23,8 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
+| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **16** | 5 | 12 | 91% | 2021-11-23 | 2026-05-19 |
 | [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **13** | · | 11 | 85% | 2022-06-02 | 2026-07-23 |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 7 | 91% | 2021-11-23 | 2026-05-19 |
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 98% | 2023-11-15 | 2026-04-07 |
 | [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 96% | 2024-04-16 | 2024-10-10 |
 | [Bridgeport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 90% | 2026-05-02 | 2026-05-02 |
@@ -32,6 +32,60 @@ _No human review has been applied to any mention in this file._
 ## Receipts
 
 _Most recent first within each town. Every line links to the exact second of the meeting video._
+
+
+### New Haven — 16 mentions
+
+- **[2026-05-19] Public Safety Committee** — BoA Public Safety Committee 5/19/2026
+  > …beneficial for um both PDs. It also will run through the real time crime center. So the data will be going to New Haven first and they'll have control of the camera and…
+  [Watch ▸](https://www.youtube.com/watch?v=wDg9WCWvuqI&t=1949s)  _(term: `rtcc`)_
+
+- **[2026-02-02] Board of Alders** — Full Board of Alders 2/2/2026
+  > …technology from installing hundreds of new cameras to the creation of a real-time crime center to purchasing new equipment that enables us to quickly analyze gun DNA data we were just…
+  [Watch ▸](https://www.youtube.com/watch?v=F_BXXT9syq8&t=1661s)  _(term: `rtcc`)_
+
+- **[2025-09-08] Finance Committee** — BoA Finance Committee 9/8/2025
+  > …thought of doing. Uh we currently have two crime analysts that work directly in the real time crime center and some of you have visited the real time crime center. Um modern policing definitely…
+  [Watch ▸](https://www.youtube.com/watch?v=5IktEoIkXXs&t=6475s)  _(term: `rtcc`)_
+
+- **[2025-09-08] Finance Committee** — BoA Finance Committee 9/8/2025
+  > …processing and real time intelligence. So, these two crime analysts that are currently in the real-time crime center, they're looking at cameras, they're making calls, they're looking up…
+  [Watch ▸](https://www.youtube.com/watch?v=5IktEoIkXXs&t=6491s)  _(term: `rtcc`)_
+
+- **[2025-09-08] Finance Committee** — BoA Finance Committee 9/8/2025
+  > …working. And on a daily basis, I hear officers asking for help from the real-time crime center. That is exactly what we need, that type of communication. So, um, with having a…
+  [Watch ▸](https://www.youtube.com/watch?v=5IktEoIkXXs&t=6507s)  _(term: `rtcc`)_
+
+- **[2024-11-19] Public Safety Committee** — BoA Public Safety Committee 11/19/2024
+  > …to 11 half million still getting the same great stuff but this this allows us to first of all act on merch with fusus fusus is our big um connection to the canas of the city…
+  [Watch ▸](https://www.youtube.com/watch?v=_Hn2ASL8BR0&t=2572s)  _(term: `rtcc`)_
+
+- **[2024-11-19] Public Safety Committee** — BoA Public Safety Committee 11/19/2024
+  > …same great stuff but this this allows us to first of all act on merch with fusus fusus is our big um connection to the canas of the city now that they work with Aon part of Aon…
+  [Watch ▸](https://www.youtube.com/watch?v=_Hn2ASL8BR0&t=2576s)  _(term: `rtcc`)_
+
+- **[2024-11-19] Public Safety Committee** — BoA Public Safety Committee 11/19/2024
+  > …we won't be paying Fus anymore we we contract with Aon for all those services and fusus has been reced it's connecting our cameras to um our real time Prim Center to our residents to our…
+  [Watch ▸](https://www.youtube.com/watch?v=_Hn2ASL8BR0&t=2588s)  _(term: `rtcc`)_
+
+- **[2024-02-05] Board of Alders** — Full Board of Alders meeting  2/5/2024
+  > …but we are making progress adding to the technology enhancements we've made in recent years our real time crime Center at Police Headquarters is now fully operational it is the new nerve center…
+  [Watch ▸](https://www.youtube.com/watch?v=AlLGG9JGbE4&t=2263s)  _(term: `rtcc`)_
+
+- **[2023-09-18] Board of Alders** — Board of Alders Agenda - 2023-09-18
+  > …25. Public Safety. Favorable. a. Order of the Board of Alders of the City of New Haven authorizing the Mayor of the City of New Haven to execute a 3-year contract between the Police Department and FUSUS for software that will enhance the effectiveness of the NHPD crime gun intelligence center by extracting and integrating in real-time public safety and other technologies including but not limit…
+  [Open document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/9/4318_A_Board_of_Alders_23-09-18_Meeting_Agenda.pdf)  _(agenda/minutes · term: `rtcc`)_
+
+- **[2023-09-05] Board of Alders** — Board of Alders Agenda - 2023-09-05
+  > …43. Public Safety. Favorable. a. Order of the Board of Alders of the City of New Haven authorizing the Mayor of the City of New Haven to execute a 3-year contract between the Police Department and FUSUS for software that will enhance the effectiveness of the NHPD crime gun intelligence center by extracting and integrating in real-time public safety and other technologies including but not limit…
+  [Open document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2023/9/4313_A_Board_of_Alders_23-09-05_Meeting_Agenda.pdf)  _(agenda/minutes · term: `rtcc`)_
+
+- **[2023-08-15] Public Safety Committee** — BoA Public Safety Committee 8.15.23
+  > …So today we're going to continue our response operations is a real-time crime Center cloud-based software solution which unifies all in all video levels and Technology systems…
+  [Watch ▸](https://www.youtube.com/watch?v=RX7uzCOh0o0&t=3251s)  _(term: `rtcc`)_
+
+
+_4 further mentions in New Haven not shown here — all of them are in [New Haven's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Waterbury — 13 mentions
@@ -86,53 +140,6 @@ _Most recent first within each town. Every line links to the exact second of the
 
 
 _1 further mention in Waterbury not shown here — all of them are in [Waterbury's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md)._
-
-
-### New Haven — 11 mentions
-
-- **[2026-05-19] Public Safety Committee** — BoA Public Safety Committee 5/19/2026
-  > …beneficial for um both PDs. It also will run through the real time crime center. So the data will be going to New Haven first and they'll have control of the camera and…
-  [Watch ▸](https://www.youtube.com/watch?v=wDg9WCWvuqI&t=1949s)  _(term: `rtcc`)_
-
-- **[2026-02-02] Board of Alders** — Full Board of Alders 2/2/2026
-  > …technology from installing hundreds of new cameras to the creation of a real-time crime center to purchasing new equipment that enables us to quickly analyze gun DNA data we were just…
-  [Watch ▸](https://www.youtube.com/watch?v=F_BXXT9syq8&t=1661s)  _(term: `rtcc`)_
-
-- **[2025-09-08] Finance Committee** — BoA Finance Committee 9/8/2025
-  > …thought of doing. Uh we currently have two crime analysts that work directly in the real time crime center and some of you have visited the real time crime center. Um modern policing definitely…
-  [Watch ▸](https://www.youtube.com/watch?v=5IktEoIkXXs&t=6475s)  _(term: `rtcc`)_
-
-- **[2025-09-08] Finance Committee** — BoA Finance Committee 9/8/2025
-  > …processing and real time intelligence. So, these two crime analysts that are currently in the real-time crime center, they're looking at cameras, they're making calls, they're looking up…
-  [Watch ▸](https://www.youtube.com/watch?v=5IktEoIkXXs&t=6491s)  _(term: `rtcc`)_
-
-- **[2025-09-08] Finance Committee** — BoA Finance Committee 9/8/2025
-  > …working. And on a daily basis, I hear officers asking for help from the real-time crime center. That is exactly what we need, that type of communication. So, um, with having a…
-  [Watch ▸](https://www.youtube.com/watch?v=5IktEoIkXXs&t=6507s)  _(term: `rtcc`)_
-
-- **[2024-11-19] Public Safety Committee** — BoA Public Safety Committee 11/19/2024
-  > …to 11 half million still getting the same great stuff but this this allows us to first of all act on merch with fusus fusus is our big um connection to the canas of the city…
-  [Watch ▸](https://www.youtube.com/watch?v=_Hn2ASL8BR0&t=2572s)  _(term: `rtcc`)_
-
-- **[2024-11-19] Public Safety Committee** — BoA Public Safety Committee 11/19/2024
-  > …same great stuff but this this allows us to first of all act on merch with fusus fusus is our big um connection to the canas of the city now that they work with Aon part of Aon…
-  [Watch ▸](https://www.youtube.com/watch?v=_Hn2ASL8BR0&t=2576s)  _(term: `rtcc`)_
-
-- **[2024-11-19] Public Safety Committee** — BoA Public Safety Committee 11/19/2024
-  > …we won't be paying Fus anymore we we contract with Aon for all those services and fusus has been reced it's connecting our cameras to um our real time Prim Center to our residents to our…
-  [Watch ▸](https://www.youtube.com/watch?v=_Hn2ASL8BR0&t=2588s)  _(term: `rtcc`)_
-
-- **[2024-02-05] Board of Alders** — Full Board of Alders meeting  2/5/2024
-  > …but we are making progress adding to the technology enhancements we've made in recent years our real time crime Center at Police Headquarters is now fully operational it is the new nerve center…
-  [Watch ▸](https://www.youtube.com/watch?v=AlLGG9JGbE4&t=2263s)  _(term: `rtcc`)_
-
-- **[2023-08-15] Public Safety Committee** — BoA Public Safety Committee 8.15.23
-  > …So today we're going to continue our response operations is a real-time crime Center cloud-based software solution which unifies all in all video levels and Technology systems…
-  [Watch ▸](https://www.youtube.com/watch?v=RX7uzCOh0o0&t=3251s)  _(term: `rtcc`)_
-
-- **[2021-11-23] Board of Alders** — Board of Alders - Aldermanic Affairs Committee
-  > …of the Connecticut Intelligence Center and during that time I visited the um realtime crime Center of with Harford police department and um so they explained fully how they use uh their…
-  [Watch ▸](https://www.youtube.com/watch?v=z9omUd-OuMw&t=5520s)  _(term: `rtcc`)_
 
 
 ### Fairfield — 4 mentions

@@ -1,6 +1,6 @@
 # Facial recognition: every mention, every town
 
-_Generated 2026-08-29T12:29:51 — 78 mentions across 18 towns, 2021-11-09 to 2026-08-05._
+_Generated 2026-08-31T08:49:15 — 92 mentions across 22 towns, 2021-11-08 to 2026-08-05._
 
 
 Software that attempts to identify individuals by matching face images against a database.
@@ -24,26 +24,27 @@ _No human review has been applied to any mention in this file._
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **54** | · | 7 | 96% | 2022-07-19 | 2023-03-21 |
+| [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 1 | 54% | 2026-04-14 | 2026-04-14 |
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 98% | 2023-03-09 | 2024-03-13 |
-| Darien ⁽ⁿᵖ⁾ | **2** | · | 1 | 33% | 2026-01-21 | 2026-01-21 |
+| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 50% | 2023-03-09 | 2026-01-21 |
+| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 66% | 2025-04-09 | 2025-09-17 |
+| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **3** | 1 | 2 | 91% | 2021-11-08 | 2021-11-09 |
 | [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2026-05-18 | 2026-08-05 |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 91% | 2021-11-09 | 2021-11-09 |
+| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 63% | 2023-03-13 | 2023-03-13 |
 | [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 93% | 2024-11-14 | 2026-08-04 |
-| Berlin ⁽ⁿᵖ⁾ | **1** | · | 1 | 78% | 2026-05-15 | 2026-05-15 |
-| Bethany ⁽ⁿᵖ⁾ | **1** | · | 1 | 70% | 2026-05-06 | 2026-05-06 |
-| East Windsor ⁽ⁿᵖ⁾ | **1** | · | 1 | 36% | 2026-02-05 | 2026-02-05 |
-| Killingly ⁽ⁿᵖ⁾ | **1** | · | 1 | 64% | 2026-02-10 | 2026-02-10 |
+| [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 78% | 2026-05-15 | 2026-05-15 |
+| [Bethany](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 70% | 2026-05-06 | 2026-05-06 |
+| [East Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2024-05-28 | 2024-05-28 |
+| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 36% | 2026-02-05 | 2026-02-05 |
+| [Killingly](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 64% | 2026-02-10 | 2026-02-10 |
 | [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 93% | 2022-03-09 | 2022-03-09 |
 | [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 95% | 2026-08-03 | 2026-08-03 |
-| Naugatuck ⁽ⁿᵖ⁾ | **1** | · | 1 | 58% | 2022-02-10 | 2022-02-10 |
-| New Milford ⁽ⁿᵖ⁾ | **1** | · | 1 | 39% | 2026-02-09 | 2026-02-09 |
-| North Haven ⁽ⁿᵖ⁾ | **1** | · | 1 | 36% | 2025-09-29 | 2025-09-29 |
-| Rocky Hill ⁽ⁿᵖ⁾ | **1** | · | 1 | 47% | 2026-04-06 | 2026-04-06 |
+| [Naugatuck](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 58% | 2022-02-10 | 2022-02-10 |
+| [New Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 39% | 2026-02-09 | 2026-02-09 |
+| [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 36% | 2025-09-29 | 2025-09-29 |
+| [Rocky Hill](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 47% | 2026-04-06 | 2026-04-06 |
 | [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2023-07-10 | 2023-07-10 |
 | [Suffield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/suffield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 89% | 2026-06-09 | 2026-06-09 |
-
-⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
-
 
 ## Receipts
 
@@ -104,6 +105,33 @@ _Most recent first within each town. Every line links to the exact second of the
 _42 further mentions in Hartford not shown here — all of them are in [Hartford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
+### Bristol — 6 mentions
+
+- **[2026-04-14] City Council** — Bristol City Council Meeting - 04/14/26
+  > …one of the 200 streams. >> And another one is um are any of these cameras uh fa have facial recognition or AI or any of that? >> No, we don't do that. We don't um we've…
+  [Watch ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3968s)  _(term: `facial_recognition`)_
+
+- **[2026-04-14] City Council** — Bristol City Council Meeting - 04/14/26
+  > …AI or any of that? >> No, we don't do that. We don't um we've stepped away from facial recognition a couple years ago. Um made that clear. And let's say one of these drones are…
+  [Watch ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3974s)  _(term: `facial_recognition`)_
+
+- **[2026-04-14] City Council** — Bristol City Council Meeting - 04/14/26
+  > …>> No, >> you can interrupt me anytime, Peter. >> Um, so there's no facial recognition. So I did find an article just from um December of last year where Axon is…
+  [Watch ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4094s)  _(term: `facial_recognition`)_
+
+- **[2026-04-14] City Council** — Bristol City Council Meeting - 04/14/26
+  > …December of last year where Axon is working with um a Canadian police department to put facial recognition into their body warn cameras. >> Yeah. So um we're not working on facial…
+  [Watch ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4107s)  _(term: `facial_recognition`)_
+
+- **[2026-04-14] City Council** — Bristol City Council Meeting - 04/14/26
+  > …we're not saying blanket, everybody is going to walk down the street and be recognized through facial recognition. It's facial, I guess, matching if you describe it that way.…
+  [Watch ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4149s)  _(term: `facial_recognition`)_
+
+- **[2026-04-14] City Council** — Bristol City Council Meeting - 04/14/26
+  > …It's facial, I guess, matching if you describe it that way. >> Okay. But this one is facial recognition technology is being incorporated into our police officers bodywn cameras and…
+  [Watch ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4154s)  _(term: `facial_recognition`)_
+
+
 ### Fairfield — 4 mentions
 
 - **[2024-03-13] Board of Selectmen** — Board of Selectmen (Regular Meeting) - 3/13/2024
@@ -123,7 +151,7 @@ _42 further mentions in Hartford not shown here — all of them are in [Hartford
   [Watch ▸](https://www.youtube.com/watch?v=q8KPmrygn5k&t=1575s)  _(term: `facial_recognition`)_
 
 
-### Darien — 2 mentions
+### Darien — 3 mentions
 
 - **[2026-01-21] Commission on Aging** — Commission on Aging   1-21-26
   > …there's two there's three there's three issues. One of them came up very recently and that's facial recognition in supermarkets. Uh it was discovered now that…
@@ -132,6 +160,40 @@ _42 further mentions in Hartford not shown here — all of them are in [Hartford
 - **[2026-01-21] Commission on Aging** — Commission on Aging   1-21-26
   > …can change even the shelves to do better job of selling to you. And of course, facial recognition technology also allows them to identify exactly who you are, your home address. And even if…
   [Watch ▸](https://www.youtube.com/watch?v=eF7Qc_devo0&t=936s)  _(term: `facial_recognition`)_
+
+- **[2023-03-09] Police Commission** — Darien Police Commission  3-9-2023
+  > …street that is captured in the image um but we don't enable any kind of facial recognition no ability to search for people right so even if there happen to be a person in the image you wouldn't…
+  [Watch ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=3124s)  _(term: `facial_recognition`)_
+
+
+### New Canaan — 3 mentions
+
+- **[2025-09-17] Police Commission** — Police Commission Meeting September 17, 2025
+  > …you know $10,000 ft attempt and through some good detective work. He got some facial recognition from uh ATM board I believe and uh was able to get on the rest for a suspect test strip…
+  [Watch ▸](https://www.youtube.com/watch?v=-g3ETSgNZOE&t=629s)  _(term: `facial_recognition`)_
+
+- **[2025-07-16] Police Commission** — Police Commission Meeting July 16, 2025
+  > …detective patent uh took numerous steps to to help identify the person through uh facial recognition software and was able to identify who the person was. um and then was able to contact the…
+  [Watch ▸](https://www.youtube.com/watch?v=yn3lEYtCEso&t=751s)  _(term: `facial_recognition`)_
+
+- **[2025-04-09] Parks and Recreation Commission** — Parks and Recreation Commission Meeting April 9, 2025
+  > …you know, if you want to put your wallet in there, your cell phone. They're going to be facial recognition so that when you go up to use them, you put your face there and then you come back and get in…
+  [Watch ▸](https://www.youtube.com/watch?v=GuVNl6gTIdY&t=2096s)  _(term: `facial_recognition`)_
+
+
+### New Haven — 3 mentions
+
+- **[2021-11-09] Board of Alders** — Board of Alders Finance Committee
+  > …we cross our t's dot our eyes let me i can answer as you go ma'am is that okay this is not facial recognition technology there there is none of that on the cameras or on the license plate…
+  [Watch ▸](https://www.youtube.com/watch?v=H7Q2P6ZjEyk&t=4972s)  _(term: `facial_recognition`)_
+
+- **[2021-11-09] Board of Alders** — Board of Alders Finance Committee
+  > …readers all it does is read uh letters from the on the actual license plate so nothing to do with facial recognition okay thank you for that also regarding…
+  [Watch ▸](https://www.youtube.com/watch?v=H7Q2P6ZjEyk&t=4983s)  _(term: `facial_recognition`)_
+
+- **[2021-11-08] Finance Committee** — Finance Committee Minutes - 2021-11-08
+  > …21 Mr. Gormany spoke on both transfer requests, followed by Mr. Sawicki and Chief Dominguez. Alder Festa asked if the cameras would use facial recognition. Chief Dominguez spoke about this. Alder Festa asked about why the need for a 3rd data center on the cloud. Mr. Sawicki…
+  [Open document ▸](https://legistar2.granicus.com/newhaven-ct/meetings/2021/11/3854_M_Finance_Committee_21-11-08_Meeting_Minutes.pdf)  _(agenda/minutes · term: `facial_recognition`)_
 
 
 ### East Lyme — 2 mentions
@@ -145,15 +207,15 @@ _42 further mentions in Hartford not shown here — all of them are in [Hartford
   [Watch ▸](https://www.youtube.com/watch?v=R7wIipF5fBY&t=2049s)  _(term: `facial_recognition`)_
 
 
-### New Haven — 2 mentions
+### Groton — 2 mentions
 
-- **[2021-11-09] Board of Alders** — Board of Alders Finance Committee
-  > …we cross our t's dot our eyes let me i can answer as you go ma'am is that okay this is not facial recognition technology there there is none of that on the cameras or on the license plate…
-  [Watch ▸](https://www.youtube.com/watch?v=H7Q2P6ZjEyk&t=4972s)  _(term: `facial_recognition`)_
+- **[2023-03-13] Planning and Zoning Commission** — Groton Planning and Zoning Commission - 3/13/23
+  > …follows them down there so that the police know that it'll talk to the point it elsewhere face recognition is looking at a bunch of different things certainly face recognition if we turn that…
+  [Watch ▸](https://www.youtube.com/watch?v=8dGrPE8qLp4&t=2239s)  _(term: `facial_recognition`)_
 
-- **[2021-11-09] Board of Alders** — Board of Alders Finance Committee
-  > …readers all it does is read uh letters from the on the actual license plate so nothing to do with facial recognition okay thank you for that also regarding…
-  [Watch ▸](https://www.youtube.com/watch?v=H7Q2P6ZjEyk&t=4983s)  _(term: `facial_recognition`)_
+- **[2023-03-13] Planning and Zoning Commission** — Groton Planning and Zoning Commission - 3/13/23
+  > …it elsewhere face recognition is looking at a bunch of different things certainly face recognition if we turn that component on and we have the ability to turn these on for privacy issues and so…
+  [Watch ▸](https://www.youtube.com/watch?v=8dGrPE8qLp4&t=2244s)  _(term: `facial_recognition`)_
 
 
 ### West Hartford — 2 mentions
@@ -179,6 +241,13 @@ _42 further mentions in Hartford not shown here — all of them are in [Hartford
 - **[2026-05-06] Planning & Zoning Commission** — 05/06/2026 Planning & Zoning Commission | Bethany, CT
   > …wanted these cameras on every street and he wants them equipped with microphones and with facial recognition and he wants it 24/7. What we have here is a naked attempt for…
   [Watch ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10435s)  _(term: `facial_recognition`)_
+
+
+### East Granby — 1 mention
+
+- **[2024-05-28] Board of Education** — East Granby Board of Education - 05-28-24
+  > …instead of using any phone could just all be on vention um and like facial recognition also comes with privacy leaks and like data so probably ensuring like a network…
+  [Watch ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=3372s)  _(term: `facial_recognition`)_
 
 
 ### East Windsor — 1 mention

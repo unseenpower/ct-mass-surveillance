@@ -1,42 +1,67 @@
-# Surveillance-tech transcript report: Cromwell
+# Surveillance-tech report: Cromwell
 
 
-_Generated 2026-08-29T10:16:01 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Cromwell"`_
+## At a glance: Cromwell
+
+This report collects every mention of surveillance technology found in **Cromwell**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **14 mentions** across **6 meetings**
+- **First mention:** 2025-03-18  |  **Most recent:** 2026-08-12
+- **Technologies discussed:** alpr, body_camera, drone, predictive_policing, surveillance_general
+- **Coverage:** 85 of 86 known Cromwell meetings transcribed (99%)
+- **1 additional mention** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 6
-- Videos registered: 86 (fetched: 85, no captions: 1)
-- Date range covered: 2025-03-18 to 2026-08-18 (all 86 videos dated)
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| Cromwell Town Hall | cromwell_ct | @cromwelltownhall9459 |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| cromwell_ct | streams | 2026-08-29 08:21:03.962936 | 20 |
-| cromwell_ct | videos | 2026-08-29 08:21:05.621882 | 86 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-## Registered meeting bodies
+## Get the full transcripts
 
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 16 |
-| Inland Wetlands & Watercourses Agency | other | True | 2 |
-| Planning & Zoning Commission | other | True | 27 |
-| Town Council | other | True | 36 |
-| Water Pollution Control Authority | other | True | 1 |
-| Zoning Board of Appeals | other | True | 4 |
+**[Download Cromwell's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/cromwell-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip cromwell-meeting-transcripts.zip -d cromwell
+cd cromwell
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -262,20 +287,6 @@ _Generated 2026-08-29T10:16:01 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 155 (fetched: 25)
-- Date range covered: 2026-01-06 to 2026-09-09
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| cromwell_agendacenter | agendacenter | https://www.cromwellct.gov/AgendaCenter | confirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -390,6 +401,61 @@ _Generated 2026-08-29T10:16:01 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 6
+- Videos registered: 86 (fetched: 85, no captions: 1)
+- Date range covered: 2025-03-18 to 2026-08-18 (all 86 videos dated)
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| Cromwell Town Hall | cromwell_ct | @cromwelltownhall9459 |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| cromwell_ct | streams | 2026-08-31 07:08:20.159897 | 20 |
+| cromwell_ct | videos | 2026-08-31 07:08:21.715900 | 86 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Board of Finance | budget_finance | True | 16 |
+| Inland Wetlands & Watercourses Agency | other | True | 2 |
+| Planning & Zoning Commission | other | True | 27 |
+| Town Council | other | True | 36 |
+| Water Pollution Control Authority | other | True | 1 |
+| Zoning Board of Appeals | other | True | 4 |
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 155 (fetched: 25)
+- Date range covered: 2026-01-06 to 2026-09-09
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| cromwell_agendacenter | agendacenter | https://www.cromwellct.gov/AgendaCenter | confirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -412,4 +478,10 @@ _Generated 2026-08-29T10:16:01 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:09:28 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Cromwell"`_
 

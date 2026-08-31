@@ -1,6 +1,6 @@
 # Doorbell-camera partnerships: every mention, every town
 
-_Generated 2026-08-29T12:29:56 — 19 mentions across 9 towns, 2020-10-08 to 2026-08-17._
+_Generated 2026-08-31T08:49:21 — 24 mentions across 13 towns, 2020-10-08 to 2026-08-17._
 
 
 Formal partnerships between police departments and consumer doorbell-camera networks such as Ring.
@@ -23,18 +23,19 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| Berlin ⁽ⁿᵖ⁾ | **4** | · | 3 | 78% | 2024-02-21 | 2026-08-17 |
+| [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 78% | 2024-02-21 | 2026-08-17 |
 | [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 94% | 2020-10-08 | 2023-10-12 |
 | [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 99% | 2025-08-26 | 2026-08-13 |
+| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 50% | 2023-03-09 | 2023-05-16 |
 | [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 96% | 2022-08-16 | 2026-04-12 |
 | [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2022-04-25 | 2022-06-06 |
 | [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 98% | 2023-04-13 | 2023-04-13 |
-| New Canaan ⁽ⁿᵖ⁾ | **1** | · | 1 | 29% | 2026-01-22 | 2026-01-22 |
+| [Kent](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 55% | 2024-07-10 | 2024-07-10 |
+| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 66% | 2026-01-22 | 2026-01-22 |
 | [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 91% | 2021-06-02 | 2021-06-02 |
+| [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 74% | 2024-09-18 | 2024-09-18 |
 | [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 90% | 2023-08-15 | 2023-08-15 |
-
-⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
-
+| [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 67% | 2025-06-23 | 2025-06-23 |
 
 ## Receipts
 
@@ -90,6 +91,17 @@ _Most recent first within each town. Every line links to the exact second of the
   [Watch ▸](https://www.youtube.com/watch?v=9UxqP9AT1-8&t=2824s)  _(term: `doorbell_partnership`)_
 
 
+### Darien — 2 mentions
+
+- **[2023-05-16] Architectural Review Board** — Architectural Review Bd  5-16-2023
+  > …excellent two people there's there's not a big traffic pedestrian traffic there I'll put a ring doorbell up for you and I'll and I'll send you a weekly thing of how many people walk by is about 10. so…
+  [Watch ▸](https://www.youtube.com/watch?v=Z9zjHmOm2OY&t=1091s)  _(term: `doorbell_partnership`)_
+
+- **[2023-03-09] Police Commission** — Darien Police Commission  3-9-2023
+  > …committed 75 of the time a vehicle is involved in that crime and if you have any identifiers with ring doorbell footage eyewitnesses even just the slightest of bit of information that you…
+  [Watch ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1420s)  _(term: `doorbell_partnership`)_
+
+
 ### Hartford — 2 mentions
 
 - **[2026-04-12] Operation, Management, Budget & Government Accountability Committee** — City of Hartford Budget Hearing FY27 CP, COO, Office of the Mayor, ROV, & Town & City Clerk
@@ -123,6 +135,13 @@ _Most recent first within each town. Every line links to the exact second of the
   [Watch ▸](https://www.youtube.com/watch?v=YjQUDv3LcG4&t=608s)  _(term: `doorbell_partnership`)_
 
 
+### Kent — 1 mention
+
+- **[2024-07-10] Board of Finance** — BOARD OF FINANCE REGULAR MEETING JULY 10, 2024
+  > …would be there for you know even though they would be on there they would have like a ring doorbell kind of a thing to announce people in there so there's there's a Safety and Security of the…
+  [Watch ▸](https://www.youtube.com/watch?v=Zvyn7J8VTY0&t=581s)  _(term: `doorbell_partnership`)_
+
+
 ### New Canaan — 1 mention
 
 - **[2026-01-22] Conservation Commission** — Conservation Commission Meeting January 22, 2026
@@ -137,9 +156,23 @@ _Most recent first within each town. Every line links to the exact second of the
   [Watch ▸](https://www.youtube.com/watch?v=8CUEFve9ZwA&t=647s)  _(term: `doorbell_partnership`)_
 
 
+### Newington — 1 mention
+
+- **[2024-09-18] Board of Assessment Appeals** — Board of Assessment Appeals Special Meeting - Hearings Sep 18, 2024
+  > …oh the Cherokee know was gone I could show you a live stream video of the of the car from The Ring doorbell in the garage a new one show your…
+  [Watch ▸](https://www.youtube.com/watch?v=3JvBQvS_FIA&t=11087s)  _(term: `doorbell_partnership`)_
+
+
 ### Wallingford — 1 mention
 
 - **[2023-08-15] Town Council** — Town Council - Regular Meeting - Tuesday, August 15, 2023
   > …doorbell at 3am um because I'm one of the last people who doesn't have a ring doorbell so whatever we disconnected it bye but um you're not waking me up anymore…
   [Watch ▸](https://www.youtube.com/watch?v=QO5CVifpBWE&t=7645s)  _(term: `doorbell_partnership`)_
+
+
+### Westport — 1 mention
+
+- **[2025-06-23] Disability Commission** — Disability Commission - June 23, 2025
+  > …dog. Correct. So, we could talk about purchasing or donating money for the purchase of Right. for the Ring doorbell kind of. Exactly. So, there's a couple of things. Um Mask Commission for the…
+  [Watch ▸](https://www.youtube.com/watch?v=GVvTGy6eXbA&t=4260s)  _(term: `doorbell_partnership`)_
 

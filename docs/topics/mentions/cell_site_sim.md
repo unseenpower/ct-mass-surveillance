@@ -1,6 +1,6 @@
 # Cell-site simulators: every mention, every town
 
-_Generated 2026-08-29T12:29:58 — 4 mentions across 4 towns, 2016-06-01 to 2025-04-10._
+_Generated 2026-08-31T08:49:22 — 4 mentions across 4 towns, 2016-06-01 to 2025-04-10._
 
 
 Cell-site simulators ('Stingrays') — devices that impersonate a cell tower to locate phones.
@@ -23,13 +23,10 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| Berlin ⁽ⁿᵖ⁾ | **1** | · | 1 | 78% | 2023-07-13 | 2023-07-13 |
-| Cheshire ⁽ⁿᵖ⁾ | **1** | · | 1 | 46% | 2025-04-10 | 2025-04-10 |
+| [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 78% | 2023-07-13 | 2023-07-13 |
+| [Cheshire](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 46% | 2025-04-10 | 2025-04-10 |
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2016-06-01 | 2016-06-01 |
 | [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2023-03-01 | 2023-03-01 |
-
-⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
-
 
 ## Receipts
 

@@ -1,42 +1,66 @@
-# Surveillance-tech transcript report: Fairfield
+# Surveillance-tech report: Fairfield
 
 
-_Generated 2026-08-29T10:17:00 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Fairfield"`_
+## At a glance: Fairfield
+
+This report collects every mention of surveillance technology found in **Fairfield**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **141 mentions** across **60 meetings**
+- **First mention:** 2011-03-22  |  **Most recent:** 2026-07-27
+- **Technologies discussed:** alpr, biometrics_other, body_camera, cell_site_sim, drone, facial_recognition, osint_social_monitor, predictive_policing, purchasing_broker, rtcc, surveillance_general
+- **Coverage:** 852 of 872 known Fairfield meetings transcribed (98%)
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 6
-- Videos registered: 872 (fetched: 852, no captions: 15)
-- Date range covered: 2009-08-05 to 2026-09-02 (all 872 videos dated)
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| FairTV (Town of Fairfield Government Access) | fairtv | @fairtvgovernment720 |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| fairtv | streams | 2026-08-29 09:10:01.428499 | 359 |
-| fairtv | videos | 2026-08-29 09:10:18.702226 | 1373 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-## Registered meeting bodies
+## Get the full transcripts
 
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 353 |
-| Board of Finance Audit Subcommittee | budget_finance | True | 20 |
-| Board of Selectmen | council | True | 383 |
-| Representative Town Meeting | council | True | 66 |
-| Charter Revision Commission | other | True | 30 |
-| RTM Standing Committees | other | True | 20 |
+**[Download Fairfield's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/fairfield-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip fairfield-meeting-transcripts.zip -d fairfield
+cd fairfield
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -1288,20 +1312,6 @@ _Generated 2026-08-29T10:17:00 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 0 (fetched: 0)
-- Date range covered: *no agenda document on file carries a parseable date yet*
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| fairfield_custom | custom | https://fairfieldct.gov/government/agendas___minutes_manager.php | unconfirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -1405,6 +1415,61 @@ _Generated 2026-08-29T10:17:00 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 6
+- Videos registered: 872 (fetched: 852, no captions: 15)
+- Date range covered: 2009-08-05 to 2026-09-02 (all 872 videos dated)
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| FairTV (Town of Fairfield Government Access) | fairtv | @fairtvgovernment720 |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| fairtv | streams | 2026-08-31 07:23:46.464697 | 359 |
+| fairtv | videos | 2026-08-31 07:24:02.794047 | 1373 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Board of Finance | budget_finance | True | 353 |
+| Board of Finance Audit Subcommittee | budget_finance | True | 20 |
+| Board of Selectmen | council | True | 383 |
+| Representative Town Meeting | council | True | 66 |
+| Charter Revision Commission | other | True | 30 |
+| RTM Standing Committees | other | True | 20 |
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 0 (fetched: 0)
+- Date range covered: *no agenda document on file carries a parseable date yet*
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| fairfield_custom | custom | https://fairfieldct.gov/government/agendas___minutes_manager.php | unconfirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -1443,4 +1508,10 @@ _Generated 2026-08-29T10:17:00 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:11:16 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Fairfield"`_
 

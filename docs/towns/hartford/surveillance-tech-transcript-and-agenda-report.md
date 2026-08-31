@@ -1,52 +1,66 @@
-# Surveillance-tech transcript report: Hartford
+# Surveillance-tech report: Hartford
 
 
-_Generated 2026-08-29T10:17:34 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Hartford"`_
+## At a glance: Hartford
+
+This report collects every mention of surveillance technology found in **Hartford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **102 mentions** across **29 meetings**
+- **First mention:** 2018-09-10  |  **Most recent:** 2026-04-22
+- **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone, facial_recognition, gunshot_detection, rtcc, surveillance_general
+- **Coverage:** 460 of 481 known Hartford meetings transcribed (96%)
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 13
-- Videos registered: 481 (fetched: 460, no captions: 21)
-- Date range covered: 2018-01-08 to 2026-08-20 (all 481 videos dated)
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| HPA-TV (Hartford Public Access Television) | hpa_tv | @hpa-tv2860 |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| hpa_tv | streams | 2026-08-29 09:00:14.510600 | 247 |
-| hpa_tv | videos | 2026-08-29 09:00:27.123977 | 987 |
-
-
-## Registered meeting bodies
-
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Operation, Management, Budget & Government Accountability Committee | budget_finance | True | 99 |
-| Committee of the Whole | council | True | 27 |
-| Court of Common Council | council | True | 160 |
-| Board of Education | education | True | 1 |
-| Charter Revision Committee | other | True | 27 |
-| Committee of Inquiry | other | True | 0 |
-| Health and Human Services Committee | other | True | 33 |
-| Labor, Education, Workforce, & Youth Development Committee | other | True | 26 |
-| Legislative Affairs Committee | other | True | 0 |
-| Planning, Economic Development & Housing Committee | other | True | 46 |
-| Public Works, Parks, Recreation, and the Environment Committee | other | True | 33 |
-| Civilian Police Review Board | public_safety | True | 0 |
-| Quality of Life and Public Safety Committee | public_safety | True | 29 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-**Zero videos registered for:** Committee of Inquiry, Legislative Affairs Committee, Civilian Police Review Board
+## Get the full transcripts
+
+**[Download Hartford's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/hartford-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip hartford-meeting-transcripts.zip -d hartford
+cd hartford
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -912,16 +926,6 @@ _Generated 2026-08-29T10:17:34 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-*No agenda source registered for this town yet.*
-
-
-### Agenda sources
-
-*(none)*
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -1025,6 +1029,67 @@ _Generated 2026-08-29T10:17:34 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 13
+- Videos registered: 481 (fetched: 460, no captions: 21)
+- Date range covered: 2018-01-08 to 2026-08-20 (all 481 videos dated)
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| HPA-TV (Hartford Public Access Television) | hpa_tv | @hpa-tv2860 |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| hpa_tv | streams | 2026-08-31 07:28:10.737369 | 247 |
+| hpa_tv | videos | 2026-08-31 07:28:22.941405 | 987 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Operation, Management, Budget & Government Accountability Committee | budget_finance | True | 99 |
+| Committee of the Whole | council | True | 27 |
+| Court of Common Council | council | True | 160 |
+| Board of Education | education | True | 1 |
+| Charter Revision Committee | other | True | 27 |
+| Committee of Inquiry | other | True | 0 |
+| Health and Human Services Committee | other | True | 33 |
+| Labor, Education, Workforce, & Youth Development Committee | other | True | 26 |
+| Legislative Affairs Committee | other | True | 0 |
+| Planning, Economic Development & Housing Committee | other | True | 46 |
+| Public Works, Parks, Recreation, and the Environment Committee | other | True | 33 |
+| Civilian Police Review Board | public_safety | True | 0 |
+| Quality of Life and Public Safety Committee | public_safety | True | 29 |
+
+
+**Zero videos registered for:** Committee of Inquiry, Legislative Affairs Committee, Civilian Police Review Board
+
+
+## Agenda/minutes coverage
+
+*No agenda source registered for this town yet.*
+
+
+### Agenda sources
+
+*(none)*
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -1070,4 +1135,10 @@ _Generated 2026-08-29T10:17:34 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:12:14 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Hartford"`_
 

@@ -1,48 +1,66 @@
-# Surveillance-tech transcript report: West Hartford
+# Surveillance-tech report: West Hartford
 
 
-_Generated 2026-08-29T10:21:28 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "West Hartford"`_
+## At a glance: West Hartford
+
+This report collects every mention of surveillance technology found in **West Hartford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **137 mentions** across **55 meetings**
+- **First mention:** 2017-03-29  |  **Most recent:** 2026-08-04
+- **Technologies discussed:** alpr, body_camera, drone, facial_recognition, surveillance_general
+- **Coverage:** 760 of 819 known West Hartford meetings transcribed (93%)
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 8
-- Videos registered: 819 (fetched: 760, no captions: 50)
-- Date range covered: 2012-09-18 to 2026-09-22 — **based on the 811 of 819 videos that carry a parseable upload date**; the other 8 are undated, so the real corpus may extend beyond this range in either direction
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| WHCi (West Hartford Community Interactive) | whci | @whci |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| whci | streams | 2026-08-29 08:18:13.190771 | 3757 |
-| whci | videos | 2026-08-29 08:18:41.807828 | 2469 |
-
-
-## Registered meeting bodies
-
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Board of Finance | budget_finance | False | 0 |
-| Finance and Administration Committee | budget_finance | True | 59 |
-| Town Council | council | True | 345 |
-| Board of Education | education | True | 248 |
-| Community Planning and Economic Development Committee | other | True | 25 |
-| Council Affairs and Governance Committee | other | True | 1 |
-| Human & Community Services Committee | other | True | 46 |
-| Public Works, Facilities, and Sustainability Committee | other | True | 38 |
-| Public Safety Committee | public_safety | True | 27 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-**Zero videos registered for:** Board of Finance
+## Get the full transcripts
+
+**[Download West Hartford's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/west-hartford-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip west-hartford-meeting-transcripts.zip -d west-hartford
+cd west-hartford
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -1251,20 +1269,6 @@ _Generated 2026-08-29T10:21:28 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 83 (fetched: 0)
-- Date range covered: 2026-01-06 to 2026-09-01
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| west_hartford_civicclerk | civicclerk | https://westhartfordct.portal.civicclerk.com/ | confirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -1368,6 +1372,67 @@ _Generated 2026-08-29T10:21:28 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 8
+- Videos registered: 819 (fetched: 760, no captions: 50)
+- Date range covered: 2012-09-18 to 2026-09-22 — **based on the 811 of 819 videos that carry a parseable upload date**; the other 8 are undated, so the real corpus may extend beyond this range in either direction
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| WHCi (West Hartford Community Interactive) | whci | @whci |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| whci | streams | 2026-08-31 07:05:38.453815 | 3758 |
+| whci | videos | 2026-08-31 07:06:06.333919 | 2469 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Board of Finance | budget_finance | False | 0 |
+| Finance and Administration Committee | budget_finance | True | 59 |
+| Town Council | council | True | 345 |
+| Board of Education | education | True | 248 |
+| Community Planning and Economic Development Committee | other | True | 25 |
+| Council Affairs and Governance Committee | other | True | 1 |
+| Human & Community Services Committee | other | True | 46 |
+| Public Works, Facilities, and Sustainability Committee | other | True | 38 |
+| Public Safety Committee | public_safety | True | 27 |
+
+
+**Zero videos registered for:** Board of Finance
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 83 (fetched: 0)
+- Date range covered: 2026-01-06 to 2026-09-01
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| west_hartford_civicclerk | civicclerk | https://westhartfordct.portal.civicclerk.com/ | confirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -1418,4 +1483,10 @@ _Generated 2026-08-29T10:21:28 -- regenerate with `.venv/bin/python3 analysis/ge
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:19:50 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "West Hartford"`_
 

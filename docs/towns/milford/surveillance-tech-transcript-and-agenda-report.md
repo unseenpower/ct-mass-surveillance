@@ -1,46 +1,67 @@
-# Surveillance-tech transcript report: Milford
+# Surveillance-tech report: Milford
 
 
-_Generated 2026-08-29T10:18:20 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Milford"`_
+## At a glance: Milford
+
+This report collects every mention of surveillance technology found in **Milford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+
+- **289 mentions** across **24 meetings**
+- **First mention:** 2015-12-14  |  **Most recent:** 2026-08-03
+- **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone, facial_recognition
+- **Coverage:** 327 of 345 known Milford meetings transcribed (95%)
+- **3 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
-## Coverage status
-
-- Channels registered: 1
-- Active meeting bodies: 7
-- Videos registered: 345 (fetched: 327, no captions: 17)
-- Date range covered: 2015-01-05 to 2026-08-27 (all 345 videos dated)
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
 
 
-### Channels
-
-| display_name | channel_id | handle |
-| --- | --- | --- |
-| MGAT (Milford Government Access Television) | mgat | @MGATCity |
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
-### Tab crawl history
+## Contents
 
-| channel_id | tab | last_crawled_at | video_count |
-| --- | --- | --- | --- |
-| mgat | streams | 2026-08-29 08:35:36.887716 | 514 |
-| mgat | videos | 2026-08-29 08:35:41.838393 | 389 |
-
-
-## Registered meeting bodies
-
-| body_name | category | active | video_count |
-| --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 74 |
-| Board of Aldermen | council | True | 206 |
-| Board of Education | education | True | 64 |
-| Ordinance Committee | other | True | 0 |
-| Public Works Committee | other | True | 0 |
-| Board of Police Commissioners | public_safety | True | 1 |
-| Public Safety and Welfare Committee | public_safety | True | 0 |
+- [Get the full transcripts](#get-the-full-transcripts)
+- [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
+- [Timeline](#timeline)
+- [Findings by topic](#findings-by-topic)
+- [Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)](#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet)
+- [How this report was built](#how-this-report-was-built)
+  - [Coverage status](#coverage-status)
+  - [Registered meeting bodies](#registered-meeting-bodies)
+  - [Agenda/minutes coverage](#agendaminutes-coverage)
+  - [Research log](#research-log)
+  - [Gaps and caveats](#gaps-and-caveats)
 
 
-**Zero videos registered for:** Ordinance Committee, Public Works Committee, Public Safety and Welfare Committee
+## Get the full transcripts
+
+**[Download Milford's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/milford-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip milford-meeting-transcripts.zip -d milford
+cd milford
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -2006,20 +2027,6 @@ _Generated 2026-08-29T10:18:20 -- regenerate with `.venv/bin/python3 analysis/ge
 *(no findings)*
 
 
-## Agenda/minutes coverage
-
-- Agenda sources registered: 1
-- Documents registered: 124 (fetched: 102)
-- Date range covered: 2026-01-05 to 2026-08-31
-
-
-### Agenda sources
-
-| source_id | platform | base_url | status |
-| --- | --- | --- | --- |
-| milford_agendacenter | agendacenter | https://www.milfordct.us/agendacenter | confirmed |
-
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -2154,6 +2161,65 @@ questioned the lower training costs and whether officers rece...
 *(no mentions)*
 
 
+## How this report was built
+
+
+_Everything below describes the corpus and its limits, rather than what was found in it._
+
+
+## Coverage status
+
+- Channels registered: 1
+- Active meeting bodies: 7
+- Videos registered: 345 (fetched: 327, no captions: 17)
+- Date range covered: 2015-01-05 to 2026-08-27 (all 345 videos dated)
+
+
+### Channels
+
+| display_name | channel_id | handle |
+| --- | --- | --- |
+| MGAT (Milford Government Access Television) | mgat | @MGATCity |
+
+
+### Tab crawl history
+
+| channel_id | tab | last_crawled_at | video_count |
+| --- | --- | --- | --- |
+| mgat | streams | 2026-08-31 07:31:06.586668 | 514 |
+| mgat | videos | 2026-08-31 07:31:11.463615 | 389 |
+
+
+## Registered meeting bodies
+
+| body_name | category | active | video_count |
+| --- | --- | --- | --- |
+| Board of Finance | budget_finance | True | 74 |
+| Board of Aldermen | council | True | 206 |
+| Board of Education | education | True | 64 |
+| Ordinance Committee | other | True | 0 |
+| Public Works Committee | other | True | 0 |
+| Board of Police Commissioners | public_safety | True | 1 |
+| Public Safety and Welfare Committee | public_safety | True | 0 |
+
+
+**Zero videos registered for:** Ordinance Committee, Public Works Committee, Public Safety and Welfare Committee
+
+
+## Agenda/minutes coverage
+
+- Agenda sources registered: 1
+- Documents registered: 124 (fetched: 102)
+- Date range covered: 2026-01-05 to 2026-08-31
+
+
+### Agenda sources
+
+| source_id | platform | base_url | status |
+| --- | --- | --- | --- |
+| milford_agendacenter | agendacenter | https://www.milfordct.us/agendacenter | confirmed |
+
+
 ## Research log
 
 | logged_at | field_name | new_value | source | by |
@@ -2194,4 +2260,10 @@ questioned the lower training costs and whether officers rece...
 ### Tabs never crawled
 
 *(none)*
+
+
+---
+
+
+_Generated 2026-08-31T08:13:33 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Milford"`_
 
