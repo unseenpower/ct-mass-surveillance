@@ -1,0 +1,61 @@
+site_name: CT Mass Surveillance
+site_description: >-
+  Public reference documents on mass surveillance in Connecticut — research
+  briefs, FOIA materials, and what Connecticut towns said in their own meetings.
+site_url: https://unseenpower.github.io/ct-mass-surveillance/
+repo_url: https://github.com/unseenpower/ct-mass-surveillance
+repo_name: unseenpower/ct-mass-surveillance
+edit_uri: ""
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle: {icon: material/brightness-auto, name: Switch to light mode}
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle: {icon: material/brightness-7, name: Switch to dark mode}
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle: {icon: material/brightness-4, name: Switch to system preference}
+
+plugins:
+  - search
+  - awesome-nav
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight: {anchor_linenums: true}
+  # GitHub-compatible heading slugs. The town reports are generated with
+  # GitHub's anchor algorithm, which keeps the empty segments left behind by
+  # stripped "/" and "--" characters (…first-seen--most-recent). Python-Markdown's
+  # default slugify collapses them, which would silently break ~190 in-page
+  # links across 95 town reports. Do not remove without regenerating those.
+  - toc:
+      permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/unseenpower/ct-mass-surveillance
