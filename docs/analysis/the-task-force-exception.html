@@ -1,0 +1,473 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Five Connecticut towns&#x27; Flock audit logs record 12.9 million searches. Only 3% came from Connecticut. An interactive map of the regional intelligence networks, fusion centers and federal agencies that reach into CT camera networks.">
+<link rel="canonical" href="https://unseenpower.github.io/ct-mass-surveillance/analysis/the-task-force-exception.html">
+<meta property="og:url" content="https://unseenpower.github.io/ct-mass-surveillance/analysis/the-task-force-exception.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="The Task Force Exception">
+<meta property="og:description" content="Five Connecticut towns&#x27; Flock audit logs record 12.9 million searches. Only 3% came from Connecticut. An interactive map of the regional intelligence networks, fusion centers and federal agencies that reach into CT camera networks.">
+<meta property="og:image" content="https://unseenpower.github.io/ct-mass-surveillance/analysis/the-task-force-exception.png">
+<meta name="twitter:card" content="summary_large_image">
+<style>:root{color-scheme:light dark}*{box-sizing:border-box}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>The Task Force Exception</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans+Condensed:wght@400;500;600;700&family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<style>
+:root{
+  --paper:#EDEFEF; --surface:#F8F9F9; --sunk:#E3E7E7;
+  --ink:#141A1C; --ink2:#3D4A4D; --muted:#6E7C7D; --rule:#CBD3D2;
+  --ct:#0E5D59; --riss:#A8321E; --fusion:#8A6410; --tf:#3C5A80; --fed:#5F3A6B; --other:#93A0A0;
+  --ct-soft:rgba(14,93,89,.12); --riss-soft:rgba(168,50,30,.13);
+  --shadow:0 1px 2px rgba(20,26,28,.06), 0 6px 18px rgba(20,26,28,.05);
+  --canvas:#E7EAEA;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --paper:#0E1315; --surface:#161D1F; --sunk:#0A0E10;
+  --ink:#E7ECEB; --ink2:#B3C0BF; --muted:#849695; --rule:#293335;
+  --ct:#4FB6AF; --riss:#E4735C; --fusion:#D9A94E; --tf:#8FB0D8; --fed:#C295CC; --other:#677575;
+  --ct-soft:rgba(79,182,175,.15); --riss-soft:rgba(228,115,92,.16);
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.35);
+  --canvas:#121819;
+}}
+:root[data-theme="dark"]{
+  --paper:#0E1315; --surface:#161D1F; --sunk:#0A0E10;
+  --ink:#E7ECEB; --ink2:#B3C0BF; --muted:#849695; --rule:#293335;
+  --ct:#4FB6AF; --riss:#E4735C; --fusion:#D9A94E; --tf:#8FB0D8; --fed:#C295CC; --other:#677575;
+  --ct-soft:rgba(79,182,175,.15); --riss-soft:rgba(228,115,92,.16);
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.35);
+  --canvas:#121819;
+}
+*{box-sizing:border-box}
+body{background:var(--paper); color:var(--ink);
+  font-family:"IBM Plex Serif",Georgia,"Times New Roman",serif; font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased;}
+.wrap{max-width:1120px;margin:0 auto;padding:0 24px 110px}
+.col{max-width:668px}
+h1,h2,h3,h4,.lbl,.eyebrow,th,.chip,.btn,figcaption b{font-family:"IBM Plex Sans Condensed",'Arial Narrow',Arial,sans-serif}
+.mono,td.num,.stat b,.pill,.tip{font-family:"IBM Plex Mono",ui-monospace,Menlo,monospace}
+a{color:inherit;text-decoration:none;border-bottom:1px solid var(--rule)}
+a:hover{border-bottom-color:var(--riss)}
+a:focus-visible,button:focus-visible{outline:2px solid var(--riss);outline-offset:3px;border-radius:2px}
+
+header.mast{padding:52px 0 0;border-top:3px solid var(--ink)}
+.eyebrow{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);
+  display:flex;gap:14px;flex-wrap:wrap;align-items:baseline;padding-top:14px}
+.eyebrow span:not(:last-child):after{content:"";display:inline-block;width:1px;height:10px;
+  background:var(--rule);margin-left:14px;vertical-align:-1px}
+h1{font-size:clamp(44px,7.6vw,80px);line-height:.94;font-weight:700;letter-spacing:-.022em;
+  margin:22px 0 0;text-wrap:balance;max-width:14ch}
+.stand{font-size:20.5px;line-height:1.5;color:var(--ink2);margin:24px 0 0;max-width:660px;text-wrap:pretty}
+.stand em{font-style:italic;color:var(--ink)}
+
+section{margin-top:62px}
+h2{font-size:13px;letter-spacing:.15em;text-transform:uppercase;font-weight:600;color:var(--riss);
+  margin:0 0 10px;display:flex;align-items:center;gap:12px}
+h2:after{content:"";flex:1;height:1px;background:var(--rule)}
+h3{font-size:25px;line-height:1.22;font-weight:600;letter-spacing:-.012em;margin:0 0 14px;text-wrap:balance}
+h4{font-size:15px;letter-spacing:.03em;font-weight:600;margin:0 0 8px}
+p{margin:0 0 17px}
+.lead{font-size:19px;color:var(--ink2)}
+.note{font-size:14.5px;color:var(--muted);line-height:1.55}
+blockquote{margin:24px 0;padding:4px 0 4px 22px;border-left:3px solid var(--riss);
+  font-style:italic;color:var(--ink2)}
+blockquote cite{display:block;font-style:normal;font-size:13.5px;color:var(--muted);margin-top:10px;
+  font-family:"IBM Plex Sans Condensed",Arial,sans-serif}
+code{font-family:"IBM Plex Mono",monospace;font-size:.88em;background:var(--sunk);padding:1px 5px;border-radius:2px}
+
+/* stats */
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(168px,1fr));gap:0;
+  border-top:1px solid var(--ink);border-bottom:1px solid var(--rule);margin:30px 0 0}
+.stat{padding:18px 20px 18px 0;border-right:1px solid var(--rule)}
+.stat:last-child{border-right:0}
+.stat b{display:block;font-size:30px;font-weight:500;letter-spacing:-.02em;line-height:1.05;
+  font-variant-numeric:tabular-nums}
+.stat span{display:block;font-size:13px;color:var(--muted);margin-top:7px;line-height:1.4;
+  font-family:"IBM Plex Sans Condensed",Arial,sans-serif}
+
+/* graph */
+.figure{margin:34px 0 0;background:var(--canvas);border:1px solid var(--rule);border-radius:3px;
+  overflow:hidden;box-shadow:var(--shadow)}
+.gbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:13px 16px;
+  border-bottom:1px solid var(--rule);background:var(--surface)}
+.chip{font-size:12px;letter-spacing:.04em;text-transform:uppercase;font-weight:600;
+  border:1px solid var(--rule);background:transparent;color:var(--ink2);
+  padding:5px 11px 5px 9px;border-radius:100px;cursor:pointer;display:inline-flex;align-items:center;gap:7px}
+.chip .sw{width:9px;height:9px;border-radius:50%;flex:none}
+.chip[aria-pressed="false"]{opacity:.36}
+.chip:hover{border-color:var(--ink2)}
+.btn{margin-left:auto;font-size:12px;letter-spacing:.06em;text-transform:uppercase;font-weight:600;
+  border:1px solid var(--rule);background:transparent;color:var(--ink2);padding:6px 13px;
+  border-radius:100px;cursor:pointer}
+.btn[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+#gwrap{position:relative}
+#g{display:block;width:100%;height:620px;touch-action:none}
+.tip{position:absolute;pointer-events:none;background:var(--surface);border:1px solid var(--rule);
+  box-shadow:var(--shadow);border-radius:3px;padding:9px 12px;font-size:12px;line-height:1.55;
+  max-width:290px;opacity:0;transition:opacity .1s;color:var(--ink)}
+.tip b{font-family:"IBM Plex Sans Condensed",Arial,sans-serif;font-size:13.5px;display:block;
+  margin-bottom:4px;letter-spacing:.01em}
+.tip i{font-style:normal;color:var(--muted)}
+figcaption{font-size:14px;color:var(--muted);line-height:1.55;padding:13px 16px;
+  border-top:1px solid var(--rule);background:var(--surface)}
+figcaption b{color:var(--ink2);font-weight:600}
+
+/* bars */
+.bars{margin:26px 0 0;display:grid;gap:7px}
+.bar{display:grid;grid-template-columns:170px 1fr 74px;gap:14px;align-items:center;font-size:14px}
+.bar .bl{color:var(--ink2);text-align:right;font-family:"IBM Plex Sans Condensed",Arial,sans-serif}
+.bar .bt{height:17px;background:var(--sunk);border-radius:2px;overflow:hidden}
+.bar .bf{height:100%;background:var(--ct);border-radius:2px}
+.bar .bv{font-family:"IBM Plex Mono",monospace;font-size:13px;color:var(--ink2);
+  font-variant-numeric:tabular-nums}
+
+table{width:100%;border-collapse:collapse;margin:22px 0 0;font-size:14.5px}
+th{text-align:left;font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);
+  font-weight:600;padding:0 12px 8px 0;border-bottom:1px solid var(--ink)}
+td{padding:9px 12px 9px 0;border-bottom:1px solid var(--rule);vertical-align:top}
+td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.scroll{overflow-x:auto}
+.tag{display:inline-block;font-family:"IBM Plex Sans Condensed",Arial,sans-serif;font-size:10.5px;
+  letter-spacing:.09em;text-transform:uppercase;font-weight:600;padding:2px 7px;border-radius:2px;
+  color:var(--paper)}
+ul.ticks{list-style:none;padding:0;margin:18px 0 0;display:grid;gap:14px}
+ul.ticks li{padding-left:26px;position:relative}
+ul.ticks li:before{content:"";position:absolute;left:0;top:.62em;width:13px;height:1px;background:var(--riss)}
+.foot{margin-top:70px;padding-top:22px;border-top:1px solid var(--rule);font-size:13.5px;color:var(--muted)}
+@media (max-width:640px){
+  .bar{grid-template-columns:112px 1fr 62px;gap:9px;font-size:13px}
+  #g{height:520px}
+  .stat{border-right:0;border-bottom:1px solid var(--rule)}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="mast">
+  <div class="eyebrow"><span>CT ALPR audit</span><span>Fusion centers &amp; RISS</span><span>5 Sept 2026</span></div>
+  <h1>The Task Force Exception</h1>
+  <p class="stand">Five Connecticut towns' Flock audit logs record <em>12.9 million</em> searches against their cameras. Only 3% came from Connecticut. Among the rest are all four regional RISS centers, nine fusion centers and nineteen federal agencies — none of which any Connecticut town has ever discussed in a public meeting. On 1 October a new state law draws a fence around this. The fence has a gate in it, and the gate is a term the statute never defines.</p>
+</header>
+
+<section>
+  <h2>The shape of it</h2>
+  <div class="stats">
+    <div class="stat"><b>12,894,062</b><span>distinct searches touching Manchester, Waterford, Farmington, Windsor or Darien, Jan 2023 – Jun 2026</span></div>
+    <div class="stat"><b>3.4%</b><span>of them run by a Connecticut agency</span></div>
+    <div class="stat"><b>5,646</b><span>distinct agencies reaching into those five towns</span></div>
+    <div class="stat"><b>59.3%</b><span>of searches swept 5,000+ camera networks at once</span></div>
+  </div>
+  <div class="col">
+  <p class="lead" style="margin-top:30px">The first thing the data settles is that "sharing" is the wrong mental model. A Connecticut town does not hand its footage to a partner. It leaves its cameras inside a national pool, and an officer anywhere in the country runs one query against several thousand networks at once.</p>
+  <p>The median search touching a Connecticut camera in this period spanned thousands of networks. Nearly nine in ten spanned more than a thousand. That is why a Missouri drug task force appears in Manchester's audit log thousands of times without anyone in Missouri ever deciding to look at Manchester: Manchester is simply inside the default.</p>
+  <p>It also means the raw counts below understate nothing and overstate nothing about intent. These are not targeted intrusions. They are the ordinary consequence of a design in which the search box defaults to the whole country.</p>
+  </div>
+</section>
+
+<section>
+  <h2>Who comes through the door</h2>
+  <div class="col">
+  <p>Below, the five Connecticut town networks we hold audit data for, and every multijurisdictional intelligence entity and federal agency that searched them. Node size is that entity's deduplicated search count; edges connect an entity to each town network it reached.</p>
+  <p class="note">The 5,271 ordinary municipal and 86 state police agencies are hidden by default — they are the overwhelming bulk of the traffic. Switch them on to see the intelligence entities in their true proportion.</p>
+  </div>
+
+  <figure class="figure">
+    <div class="gbar" role="group" aria-label="Filter entity categories">
+      <button class="chip" data-cat="riss" aria-pressed="true"><span class="sw" style="background:var(--riss)"></span>RISS centers</button>
+      <button class="chip" data-cat="fusion" aria-pressed="true"><span class="sw" style="background:var(--fusion)"></span>Fusion centers</button>
+      <button class="chip" data-cat="taskforce hidta" aria-pressed="true"><span class="sw" style="background:var(--tf)"></span>Task forces &amp; HIDTA</button>
+      <button class="chip" data-cat="federal" aria-pressed="true"><span class="sw" style="background:var(--fed)"></span>Federal</button>
+      <button class="btn" id="ctx" aria-pressed="false">+ all other agencies, by state</button>
+    </div>
+    <div id="gwrap">
+      <canvas id="g"></canvas>
+      <div class="tip" id="tip"></div>
+    </div>
+    <figcaption><b>Teal nodes are the five Connecticut town networks.</b> Hover any node for its search count, its average search breadth, and the span of dates it was active. Sources: the towns' own Flock network-audit exports, obtained by FOIA; deduplicated to one row per real-world search.</figcaption>
+  </figure>
+</section>
+
+<section>
+  <h2>The New England node</h2>
+  <div class="col">
+  <p><b>NESPIN</b> — the New England State Police Information Network — ran <b>5,363</b> searches that reached a Connecticut town in this window, across all five towns, from January 2023 to the last day of our data. Its average search spanned <b>5,488 camera networks</b>.</p>
+  <p>Set against USA TODAY's national Flock corpus, that figure has a striking property: NESPIN ran 12,236 searches nationwide in the same period, so <b>43.8% of everything NESPIN has ever searched in Flock touched one of five Connecticut towns.</b> Not because NESPIN is interested in Farmington, but because its searches are national by default and Farmington is in the pool.</p>
+  <p>NESPIN matters more than its volume, because of what it is. It is one of six centers in the federally funded <b>Regional Information Sharing Systems</b> program, and it is the hinge between Connecticut and the rest of RISSNET. Connecticut's own fusion centre, CTIC, is connected to RISSNET <em>through</em> NESPIN.</p>
+  <p>And NESPIN is not a police department. It is <b>New England State Police Information Network, Inc.</b>, a 501(c)(3) charitable corporation, EIN 04-3154163, at 124 Grove Street, Franklin, Massachusetts, founded 1992, roughly $4.5m in annual revenue, operating the RISS program under a Department of Justice award. That legal form is about to matter a great deal.</p>
+  </div>
+
+  <div class="scroll">
+  <table>
+    <thead><tr><th>Regional intelligence entity</th><th class="num">Searches into CT</th><th class="num">Avg networks</th><th class="num">Active</th></tr></thead>
+    <tbody>
+      <tr><td>NESPIN — New England (RISS)</td><td class="num">5,363</td><td class="num">5,488</td><td class="num">2023–2026</td></tr>
+      <tr><td>MOCIC — Mid-States (RISS)</td><td class="num">8,432</td><td class="num">5,693</td><td class="num">2023–2026</td></tr>
+      <tr><td>ROCIC — Southeast (RISS)</td><td class="num">2,396</td><td class="num">5,365</td><td class="num">2023–2026</td></tr>
+      <tr><td>MAGLOCLEN — Mid-Atlantic/Great Lakes (RISS)</td><td class="num">465</td><td class="num">5,932</td><td class="num">2023–2026</td></tr>
+      <tr><td>RMIN — Rocky Mountain (RISS)</td><td class="num">329</td><td class="num">3,659</td><td class="num">2023–2025</td></tr>
+      <tr><td>NYS Crime Analysis Center Network</td><td class="num">26,830</td><td class="num">2,068</td><td class="num">2023–2026</td></tr>
+      <tr><td>NCRIC — Northern California</td><td class="num">2,524</td><td class="num">3,586</td><td class="num">2023–2024</td></tr>
+      <tr><td>Northeast Ohio Regional Fusion Center</td><td class="num">457</td><td class="num">5,553</td><td class="num">2023–2026</td></tr>
+      <tr><td>Missouri Information Analysis Center</td><td class="num">515</td><td class="num">6,328</td><td class="num">2025–2026</td></tr>
+      <tr><td>US Postal Inspection Service <span class="tag" style="background:var(--fed)">federal</span></td><td class="num">94,687</td><td class="num">3,102</td><td class="num">2023–2026</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p class="note" style="margin-top:14px">Deduplicated distinct searches. "Avg networks" is the mean number of camera networks a single search from that entity spanned. The Postal Inspection Service line is the outlier of the whole dataset: 94,687 searches, <b>90.6% of every Flock search it ran nationwide</b>, touched one of these five Connecticut towns.</p>
+</section>
+
+<section>
+  <h2>The dragnet is widening</h2>
+  <div class="col">
+  <p>Every RISS center shows the same curve, independently. In 2023 their searches averaged 2,600–3,100 networks. By 2025 that had roughly doubled, to 6,150–6,450 — close to the ceiling of every network in the country.</p>
+  </div>
+  <div class="bars" style="max-width:640px">
+    <div class="bar"><div class="bl">NESPIN 2023</div><div class="bt"><div class="bf" style="width:48%"></div></div><div class="bv">3,121</div></div>
+    <div class="bar"><div class="bl">NESPIN 2025</div><div class="bt"><div class="bf" style="width:100%"></div></div><div class="bv">6,450</div></div>
+    <div class="bar"><div class="bl">MOCIC 2023</div><div class="bt"><div class="bf" style="width:40%"></div></div><div class="bv">2,616</div></div>
+    <div class="bar"><div class="bl">MOCIC 2025</div><div class="bt"><div class="bf" style="width:99%"></div></div><div class="bv">6,394</div></div>
+    <div class="bar"><div class="bl">ROCIC 2023</div><div class="bt"><div class="bf" style="width:42%"></div></div><div class="bv">2,715</div></div>
+    <div class="bar"><div class="bl">ROCIC 2025</div><div class="bt"><div class="bf" style="width:98%"></div></div><div class="bv">6,305</div></div>
+  </div>
+  <p class="note" style="margin-top:14px;max-width:660px">Mean camera networks per search, by year, for the three RISS centers with enough Connecticut volume to trend. Nothing in Connecticut caused this; the default search scope widened underneath every subscriber at once.</p>
+</section>
+<section>
+  <h2>What the law actually says</h2>
+  <div class="col">
+  <p>Connecticut's ALPR statute — <b>Public Act 26-14</b>, from House Bill 5449 — takes effect for these purposes on <b>1 October 2026</b>. Its core move is to replace a national default with a closed list of permitted recipients. Section 1(c)(6) prohibits sharing ALPR data unless the requester is:</p>
+  </div>
+  <div class="col">
+  <blockquote>(A) a public agency or law enforcement agency of this state, (B) a law enforcement agency of the state of New York or Rhode Island or the Commonwealth of Massachusetts or a municipality of said states or commonwealth <b>or a multijurisdictional task force of which a public agency or law enforcement agency of this state is a participating member</b> … (C) any other law enforcement agency … including any federal law enforcement agency, if such requesting law enforcement agency has a judicially issued probable cause warrant for the specific data requested, or is requesting specific data on an individual identified as a possible match in the Federal Terrorist Screening Database …
+  <cite>PA 26-14 § 1(c)(6)</cite></blockquote>
+  <p>Measured against the graph above, this is a demolition order. Texas agencies alone ran 2.86 million searches into these five towns; Georgia 1.53 million; Florida 1.12 million. None of those states is on the list. Neither is Missouri, home of MOCIC, nor Tennessee, home of ROCIC. On 1 October, the overwhelming majority of the traffic in that visualisation becomes unlawful to serve.</p>
+  <h3>Three gaps worth naming</h3>
+  <p><b>1. "Multijurisdictional task force" is never defined.</b> The act defines "law enforcement agency", "ALPR data", "hotlist" and "gender-affirming health care services." It does not define the one term that decides whether a regional intelligence network gets in. NESPIN is not a task force in any ordinary sense — it is a standing information-sharing utility with roughly 973 member agencies across New England — but it is exactly the sort of body that will be argued into the phrase, because nothing in the text forecloses it.</p>
+  <p><b>2. NESPIN is not a Massachusetts law enforcement agency.</b> Subparagraph (B) reaches "a law enforcement agency of … the Commonwealth of Massachusetts or a municipality of said … commonwealth." NESPIN, Inc. is a private 501(c)(3) charitable corporation. It is not an agency of the Commonwealth, not a municipality, and not a federal agency. Read strictly, it fits nowhere in (A)–(D) — which makes the undefined phrase in (B) the <em>only</em> door it can come through, and makes how that phrase gets construed the single highest-leverage question in the statute.</p>
+  <p><b>3. The Terrorist Screening Database is a warrantless federal path.</b> Subparagraph (C) lets any federal agency obtain data without a warrant on "an individual identified as a possible match in the Federal Terrorist Screening Database." A watchlist "possible match" is a low bar, it is not judicially reviewed, and the statute attaches no audit obligation specific to it.</p>
+  </div>
+
+  <div class="col">
+  <h3>What the act does well</h3>
+  <p>Three provisions are stronger than the coverage suggested, and they are the ones to build on.</p>
+  </div>
+  <ul class="ticks col">
+    <li><b>§ 1(c)(7) — the network condition.</b> A Connecticut agency may not participate in <em>any</em> multistate or national data-sharing network unless the network itself <em>requires every participant</em> to sign a compliance declaration as a condition of access. Flock's national network does not do this. Neither does RISSNET. Read plainly, this does not merely restrict who Connecticut shares with — it makes continued participation in the national pool, as presently constituted, unlawful.</li>
+    <li><b>§ 1(c)(8) — no standing feeds.</b> No public agency may have "real-time, bulk or automatic access" except in response to a documented, case-specific request. Fusion-centre integration is, definitionally, a standing feed. Fairfield's own police report describes "unfettered access to the Bridgeport Fusion Center and partnering federal agencies" — the exact arrangement this provision forbids.</li>
+    <li><b>§ 1(d) — the audit logs stay public.</b> ALPR data itself is now exempt from FOIA. But "any data … derived from any audit of an automated license plate reader system, usage logs for such system and logs detailing access to" that data remains disclosable, with plate data redacted. That is precisely the record this entire analysis is built from, and the legislature has now written it into statute.</li>
+    <li><b>§ 1(g) — a private right of action.</b> From 1 October, any aggrieved individual may sue for injunctive or declaratory relief, "including a determination of past violations," in the superior court where they live, with costs and reasonable attorney's fees on success, and the case is privileged for trial assignment. No damages — but a court can be asked to declare that past sharing was unlawful.</li>
+    <li><b>§ 3 — mandatory disclosure of the graph.</b> Every agency must report annually, by 31 January, "times automated license plate reader data was shared with or accessed by another entity, <b>the identity of each of those entities and the reason for sharing the data</b>," publish it on its own website, and file it with UConn's Institute for Municipal and Regional Policy, which submits a consolidated report to the Governor and the Public Safety and Judiciary committees by 30 July 2027.</li>
+  </ul>
+  <div class="col">
+  <p style="margin-top:20px">That last one is the sleeper. The state is about to compel every Connecticut department to publish the same graph this page reconstructs from FOIA. The first reports are due <b>31 January 2027</b>, covering calendar 2026 — a year already half-documented here. Which makes the audit data a <em>check</em> on those reports rather than a substitute for them.</p>
+  <p class="note">One caution on the timetable: the POSTC model policy is due 1 December 2026 and agencies must adopt it by 1 January 2027, but binding DESPP <em>regulations</em> are not required until <b>1 January 2033</b>. Between the two sits six years of policy-not-regulation.</p>
+  </div>
+</section>
+
+<section>
+  <h2>Where the oversight isn't</h2>
+  <div class="col">
+  <p>Connecticut's fusion centre, <b>CTIC</b>, has no enabling statute. It exists under the general emergency-management authority of DESPP's Division of Emergency Management and Homeland Security, Title 28, chapter 517. Its own state web page names a director and a partner list — DHS, FBI, TSA, HIDTA, the National Guard, Corrections, the Judicial Branch, State Police, local departments — and cites no statute, names no oversight body, and links no privacy policy. There is no legislative reporting requirement, no inspector general, no sunset.</p>
+  <p><b>NESPIN is further out of reach again.</b> As a private nonprofit corporation it is not a Connecticut public agency, so the state Freedom of Information Act does not reach it; it is not a federal agency, so the federal FOIA does not either. It is funded by Department of Justice awards and governed by its own board.</p>
+  <p>The one federal rule that does govern this world is <b>28 CFR Part 23</b>, the operating policy for federally funded multijurisdictional criminal intelligence systems, which requires reasonable suspicion of criminal conduct before information about a person is entered. Two things limit it badly here. It governs <em>criminal intelligence records</em>, not query access to someone else's camera network. And RISS's own published clarification places exactly this class of data outside the definition:</p>
+  <blockquote>… such sources as the Internet, newspapers, <b>motor vehicle administration records</b>, and other public record information on-line, such sources shall not be considered part of criminal intelligence systems.
+  <cite>RISS, 28 CFR Part 23 Policy Clarification</cite></blockquote>
+  <p>Part 23 also carries no private right of action; it is enforced, if at all, as a condition on federal funding. So the sole federal regime over fusion and RISS intelligence sharing arguably does not reach ALPR queries at all — and Connecticut's own law, which does, has never once been tested against these entities.</p>
+  </div>
+</section>
+
+<section>
+  <h2>One mention, and it was wrong</h2>
+  <div class="col">
+  <p>We hold <b>31,089</b> transcribed public meetings from Connecticut towns. Searched end to end:</p>
+  </div>
+  <div class="bars" style="max-width:620px">
+    <div class="bar"><div class="bl">"fusion center"</div><div class="bt"><div class="bf" style="width:9%;background:var(--fusion)"></div></div><div class="bv">15</div></div>
+    <div class="bar"><div class="bl">CTIC</div><div class="bt"><div class="bf" style="width:18%;background:var(--fusion)"></div></div><div class="bv">30</div></div>
+    <div class="bar"><div class="bl">NESPIN</div><div class="bt"><div class="bf" style="width:1.2%;background:var(--riss)"></div></div><div class="bv">1</div></div>
+    <div class="bar"><div class="bl">RISSNET</div><div class="bt"><div class="bf" style="width:0%"></div></div><div class="bv">0</div></div>
+    <div class="bar"><div class="bl">MAGLOCLEN / HIDTA</div><div class="bt"><div class="bf" style="width:1.2%;background:var(--riss)"></div></div><div class="bv">1</div></div>
+  </div>
+  <div class="col">
+  <p style="margin-top:26px">One mention of NESPIN, in a Board of Selectmen meeting in North Canaan on 4 May 2026, after the town's own Zoom meeting was raided. The First Selectman explains where the case went:</p>
+  <blockquote>He has found names, IP addresses, as well as a Facebook page, and now has turned it over to the NESPIN, which is basically <b>the cyber crimes unit for the Connecticut State Police</b>.
+  <cite>North Canaan Board of Selectmen, 4 May 2026</cite></blockquote>
+  <p>It is not that. It is a Massachusetts charity running a federal information-sharing program across six states and into RISSNET. The single time in 31,089 meetings that a Connecticut elected official says the name of the entity that ran 5,363 searches into Connecticut cameras, they describe it as a unit of their own state police.</p>
+  <p>The substantive fusion-centre discussions that do exist are worth reading, and they are not about ALPR. Danbury held an entire ad-hoc meeting in January 2021 on a grant whose condition was that "the city of Danbury shall provide a full-time qualified law enforcement officer as a regional intelligence liaison officer with the CTIC fusion center … for a period of two years" — the actual mechanism by which a Connecticut town joins the fusion centre. Hartford's council in September 2018 debated a $60,000 fusion-centre reimbursement and an alder asked what it meant "for the undocumented community" — the question PA 26-14 finally answered eight years later.</p>
+  </div>
+</section>
+
+<section>
+  <h2>Disclosure is a town-by-town accident</h2>
+  <div class="col">
+  <p>Flock's public transparency portals let each agency choose what to publish. Among Connecticut towns with a live portal, the number of sharing partners disclosed ranges over three orders of magnitude — and the low numbers are almost certainly under-disclosure, not less sharing.</p>
+  </div>
+  <div class="bars" style="max-width:620px">
+    <div class="bar"><div class="bl">Simsbury</div><div class="bt"><div class="bf" style="width:100%"></div></div><div class="bv">966</div></div>
+    <div class="bar"><div class="bl">Newtown</div><div class="bt"><div class="bf" style="width:34%"></div></div><div class="bv">329</div></div>
+    <div class="bar"><div class="bl">Clinton</div><div class="bt"><div class="bf" style="width:25%"></div></div><div class="bv">242</div></div>
+    <div class="bar"><div class="bl">Windsor / Cheshire</div><div class="bt"><div class="bf" style="width:6.2%"></div></div><div class="bv">60</div></div>
+    <div class="bar"><div class="bl">Manchester</div><div class="bt"><div class="bf" style="width:2%"></div></div><div class="bv">19</div></div>
+    <div class="bar"><div class="bl">Milford</div><div class="bt"><div class="bf" style="width:0.6%"></div></div><div class="bv">1</div></div>
+  </div>
+  <div class="col">
+  <p style="margin-top:26px">Only three Connecticut towns — Simsbury, Newtown and Clinton — publicly name a RISS centre or an out-of-state fusion centre as a sharing partner. Newtown lists both <b>NESPIN</b> and <b>MAGLOCLEN RISS</b>, alongside the <b>West Virginia Fusion Center</b>. Clinton lists NESPIN and West Virginia too. Every other town's portal is silent about them — and Manchester, whose audit log records more inbound searches than any other town here, discloses nineteen partners.</p>
+  </div>
+</section>
+
+<section>
+  <h2>What this opens</h2>
+  <ul class="ticks col">
+    <li><b>The construction of "multijurisdictional task force" is the whole ballgame.</b> POSTC writes the model policy by 1 December 2026. If that policy defines the term to exclude standing information-sharing networks such as RISS centres and fusion centres, the fence holds. If it is silent, the gate stays open by default. There are two POSTC meetings left before the deadline.</li>
+    <li><b>The § 1(c)(7) network condition is the strongest untested provision in the act.</b> It is not a restriction on recipients; it is a condition on participation. Whether Flock's national network can satisfy it — and what a Connecticut department is supposed to do on 1 October if it cannot — appears to be unasked so far.</li>
+    <li><b>Ask the towns directly, before the reports are due.</b> The § 3 annual report must name every entity data was shared with. A FOIA now for the current network-sharing configuration and the Flock event log — the only export that records who toggled which sharing setting — establishes the baseline that the January 2027 report can be checked against.</li>
+    <li><b>CTIC itself is unexamined.</b> No statute, no published privacy policy, no legislative reporting. Whether CTIC holds a Flock account, queries through NESPIN, or receives ALPR data from member towns is not answerable from the data here — CTIC appears nowhere in 5,646 searching agencies — and is a clean FOIA question to DESPP.</li>
+    <li><b>Fairfield's "unfettered access" language deserves a follow-up.</b> It is a town's own written description of a standing feed to a fusion centre, published before the statute that forbids one.</li>
+  </ul>
+</section>
+
+<p class="foot">Sources: Flock network-audit exports obtained by FOIA from Manchester, Waterford, Farmington, Windsor and Darien (25.7m raw rows, deduplicated to 12,894,062 distinct searches, 1 Jan 2023 – 30 Jun 2026); USA TODAY's national Flock search corpus for national denominators; Flock public transparency portals; 31,089 transcribed Connecticut municipal meetings; Connecticut HB 5449 / PA 26-14 as passed; 28 CFR Part 23 and RISS's published clarification; IRS/BJA records for NESPIN, Inc. Counts are deduplicated to one row per real-world search; a search appearing in several towns' exports is counted once per entity and once per town. Legal readings here are analysis, not advice.</p>
+</div>
+<script>const DATA=
+{"nodes":[{"id":"Manchester","c":"ct_town","s":10766672},{"id":"Waterford","c":"ct_town","s":7309365},{"id":"Farmington","c":"ct_town","s":5393350},{"id":"Windsor","c":"ct_town","s":2074014},{"id":"Darien","c":"ct_town","s":180570},{"id":"Texas Financial Crimes Intelligence Center","c":"fusion","s":1966,"an":6344,"f":"2023-01-31","l":"2026-06-30","st":"TX"},{"id":"Missouri Information Analysis Center","c":"fusion","s":515,"an":6328,"f":"2025-10-14","l":"2026-06-30","st":"MO"},{"id":"Utah County Major Crimes Taskforce UT","c":"taskforce","s":202,"an":4698,"f":"2023-02-26","l":"2025-09-22","st":"UT"},{"id":"Mid Missouri Drug Task Force MO","c":"taskforce","s":6361,"an":5291,"f":"2023-07-27","l":"2025-12-08","st":"MO"},{"id":"NYS Crime Analysis Center Network","c":"fusion","s":26830,"an":2068,"f":"2023-04-24","l":"2026-06-30","st":"NY"},{"id":"NESPIN - New England State Police Information Network","c":"riss","s":5363,"an":5488,"f":"2023-01-13","l":"2026-06-30"},{"id":"Chatham-Savannah Counter Narcotics Team","c":"taskforce","s":832,"an":6202,"f":"2025-08-18","l":"2026-06-30","st":"GA"},{"id":"Regional Vehicle Burglary Suppression Taskforce TX","c":"taskforce","s":891,"an":6270,"f":"2025-04-15","l":"2026-06-30"},{"id":"[Federal] Indiana Dunes National Park IN PD","c":"federal","s":46,"an":3828,"f":"2023-11-22","l":"2023-12-07"},{"id":"OH - Jefferson County Drug Task Force","c":"taskforce","s":85,"an":6036,"f":"2025-05-01","l":"2026-05-26","st":"OH"},{"id":"SEMO Drug Task Force MO","c":"taskforce","s":1220,"an":5293,"f":"2023-01-04","l":"2026-06-30"},{"id":"Kleberg TX County Attorney's Task Force","c":"taskforce","s":169,"an":6048,"f":"2026-02-17","l":"2026-06-25","st":"TX"},{"id":"South Central OH Major Crimes Unit","c":"taskforce","s":394,"an":5848,"f":"2023-02-27","l":"2025-12-08","st":"OH"},{"id":"OH - U.S.23 Major Crimes Task Force","c":"taskforce","s":7426,"an":6249,"f":"2025-02-10","l":"2026-06-30","st":"OH"},{"id":"Ohio Drug TF (HIDTA / Moreland Hills OH PD)","c":"hidta","s":477,"an":4616,"f":"2023-01-05","l":"2025-09-30","st":"OH"},{"id":"[Federal] Wright Patterson OH Air Force Base","c":"federal","s":22,"an":5360,"f":"2024-09-25","l":"2025-04-23"},{"id":"[Federal] US GSA Office of Inspector General","c":"federal","s":405,"an":4121,"f":"2023-01-31","l":"2025-03-26"},{"id":"Columbia River Drug Task Force WA","c":"taskforce","s":59,"an":6197,"f":"2025-02-13","l":"2025-09-17"},{"id":"Marshall County Drug Task Force WV","c":"taskforce","s":82,"an":6214,"f":"2025-10-27","l":"2026-06-17"},{"id":"Mineral Area Drug Task Force MO","c":"taskforce","s":55,"an":5475,"f":"2024-03-05","l":"2026-05-18"},{"id":"City of Calverton Park (Florissant MO PD)","c":"riss","s":17,"an":2574,"f":"2023-01-13","l":"2023-10-09","st":"MO"},{"id":"[Federal] ATF Louisville KY [inactive]","c":"federal","s":1951,"an":5115,"f":"2023-01-03","l":"2025-05-15"},{"id":"Rocky Mountain Information Network (RMIN/RISS) AZ [DEACTIVATED]","c":"riss","s":329,"an":3659,"f":"2023-01-13","l":"2025-03-03"},{"id":"NCRIC","c":"fusion","s":2524,"an":3586,"f":"2023-01-01","l":"2024-04-29"},{"id":"[Federal] Homeland Security Investigations [Inactive]","c":"federal","s":175,"an":5660,"f":"2025-03-10","l":"2025-05-01"},{"id":"[Federal] FBI [Inactive]","c":"federal","s":5651,"an":1921,"f":"2023-01-02","l":"2023-07-14"},{"id":"Northeast Ohio Regional Fusion Center","c":"fusion","s":457,"an":5553,"f":"2023-05-11","l":"2026-06-30","st":"OH"},{"id":"Northern Colorado Intelligence Unit CO","c":"fusion","s":137,"an":5553,"f":"2023-07-19","l":"2025-10-22","st":"CO"},{"id":"Florissant MO PD","c":"riss","s":364,"an":3725,"f":"2023-01-02","l":"2026-06-22","st":"MO"},{"id":"[Federal] The Presidio Trust CA - US Park Police","c":"federal","s":4,"an":2270,"f":"2023-01-18","l":"2023-01-18"},{"id":"[Federal] US Postal Inspection Service","c":"federal","s":94687,"an":2526,"f":"2023-01-01","l":"2026-06-30"},{"id":"Ozarks Drug Enforcement Team MO","c":"taskforce","s":2993,"an":5927,"f":"2023-09-15","l":"2026-06-30","st":"MO"},{"id":"National Center for Missing & Exploited Children [NCMEC]","c":"federal","s":904,"an":5113,"f":"2024-06-05","l":"2025-06-27"},{"id":"Alabama Drug Enforcement Task Force Region G","c":"taskforce","s":1529,"an":4902,"f":"2023-01-04","l":"2026-06-25","st":"AL"},{"id":"St. Louis Fusion Center MO","c":"fusion","s":19,"an":5315,"f":"2023-01-11","l":"2026-06-16"},{"id":"Paul Bunyan Task Force MN","c":"taskforce","s":268,"an":5302,"f":"2023-10-10","l":"2025-05-18"},{"id":"[Federal] National Park Service TN [Inactive]","c":"federal","s":213,"an":2733,"f":"2023-01-04","l":"2024-03-02"},{"id":"East Texas Auto Theft Task Force","c":"taskforce","s":17,"an":6034,"f":"2026-02-12","l":"2026-05-27","st":"TX"},{"id":"1st Judicial District Drug Task Force TN (Inactive)","c":"taskforce","s":5,"an":5744,"f":"2025-07-17","l":"2025-08-01"},{"id":"MAGLOCLEN RISS","c":"riss","s":465,"an":5932,"f":"2023-01-06","l":"2026-02-25"},{"id":"[Federal] Lake Mead NV NRA","c":"federal","s":14,"an":5976,"f":"2024-09-26","l":"2025-06-22"},{"id":"South Plains Auto Theft Task Force TX","c":"taskforce","s":243,"an":6139,"f":"2026-04-25","l":"2026-06-29"},{"id":"MOCIC ","c":"riss","s":8432,"an":5693,"f":"2023-01-04","l":"2026-06-30"},{"id":"Bowling Green Warren County Drug Task Force KY","c":"taskforce","s":1621,"an":6324,"f":"2024-09-11","l":"2025-12-08"},{"id":"South Central MO Drug Task Force","c":"taskforce","s":139,"an":6045,"f":"2024-04-03","l":"2026-05-06"},{"id":"Georgia Dept. of Corrections Intelligence Unit (GA)","c":"fusion","s":5796,"an":5508,"f":"2023-01-05","l":"2026-06-30","st":"GA"},{"id":"Indiana HIDTA ","c":"hidta","s":165,"an":5970,"f":"2024-09-06","l":"2026-03-27","st":"IN"},{"id":"[Federal] Langley VA Air Force Base","c":"federal","s":220,"an":4670,"f":"2024-03-22","l":"2025-05-14"},{"id":"Nacogdoches Co TX Criminal Taskforce Div","c":"taskforce","s":668,"an":6185,"f":"2023-03-14","l":"2025-09-29","st":"TX"},{"id":"North TX Anti-Gang Center (TAG)","c":"taskforce","s":120,"an":5376,"f":"2024-02-14","l":"2026-06-23","st":"TX"},{"id":"Davis Metro Narcotics Strike Force UT","c":"taskforce","s":335,"an":5192,"f":"2023-01-23","l":"2025-09-26","st":"UT"},{"id":"Tennessee Valley Authority Police","c":"federal","s":47,"an":3688,"f":"2023-01-04","l":"2026-01-30","st":"TN"},{"id":"[Federal] US Park Police - Chattahoochee River NRA","c":"federal","s":3,"an":4711,"f":"2024-01-31","l":"2025-01-05"},{"id":"[Federal] ATF Nashville TN [inactive]","c":"federal","s":24387,"an":2269,"f":"2023-01-04","l":"2025-06-19"},{"id":"TN ROCIC","c":"riss","s":2396,"an":5365,"f":"2023-01-03","l":"2026-06-30","st":"TN"},{"id":"Lehigh County PA (RIIC)","c":"fusion","s":7,"an":6347,"f":"2025-11-25","l":"2025-11-25","st":"PA"},{"id":"18th Judicial District Drug Task Force - TN PD","c":"taskforce","s":1694,"an":4015,"f":"2023-01-03","l":"2025-02-19","st":"TN"},{"id":"Illinois Statewide Auto Theft Taskforce","c":"taskforce","s":791,"an":3502,"f":"2023-01-03","l":"2024-10-23","st":"IL"},{"id":"[DEACTIVATED] - [Federal] Naval Criminal Investigative Service [Inactive]","c":"federal","s":127,"an":5439,"f":"2025-01-03","l":"2025-04-04"},{"id":"Midwest HIDTA","c":"hidta","s":265,"an":6021,"f":"2025-05-20","l":"2026-06-18"},{"id":"[Federal] US Border Patrol [Inactive]","c":"federal","s":209,"an":6421,"f":"2025-05-09","l":"2025-06-23"},{"id":"United States Border Control - Grand Forks Sector MN - DO NOT USE","c":"federal","s":10,"f":"2023-02-15","l":"2023-02-15"},{"id":"North Missouri Drug Task Force MO","c":"taskforce","s":222,"an":5307,"f":"2024-07-25","l":"2025-04-08","st":"MO"},{"id":"[Federal] Roudebush Medical Center IN Veterans Affairs PD","c":"federal","s":6,"an":5282,"f":"2024-03-05","l":"2025-03-12"},{"id":"OK \u2014 all other agencies","c":"other","s":486300,"st":"OK","n":81},{"id":"FL \u2014 all other agencies","c":"other","s":2242832,"st":"FL","n":234},{"id":"GA \u2014 all other agencies","c":"other","s":3021401,"st":"GA","n":360},{"id":"IN \u2014 all other agencies","c":"other","s":1475584,"st":"IN","n":274},{"id":"TX \u2014 all other agencies","c":"other","s":5064510,"st":"TX","n":482},{"id":"WI \u2014 all other agencies","c":"other","s":513455,"st":"WI","n":242},{"id":"MA \u2014 all other agencies","c":"other","s":378216,"st":"MA","n":120},{"id":"KY \u2014 all other agencies","c":"other","s":337192,"st":"KY","n":114},{"id":"MO \u2014 all other agencies","c":"other","s":671519,"st":"MO","n":194},{"id":"VA \u2014 all other agencies","c":"other","s":494780,"st":"VA","n":135},{"id":"KS \u2014 all other agencies","c":"other","s":376902,"st":"KS","n":129},{"id":"NE \u2014 all other agencies","c":"other","s":61173,"st":"NE","n":39},{"id":"MI \u2014 all other agencies","c":"other","s":760915,"st":"MI","n":176},{"id":"IL \u2014 all other agencies","c":"other","s":1702284,"st":"IL","n":466},{"id":"LA \u2014 all other agencies","c":"other","s":491865,"st":"LA","n":79},{"id":"WA \u2014 all other agencies","c":"other","s":77294,"st":"WA","n":86},{"id":"OH \u2014 all other agencies","c":"other","s":1111804,"st":"OH","n":412},{"id":"MS \u2014 all other agencies","c":"other","s":292793,"st":"MS","n":71},{"id":"CO \u2014 all other agencies","c":"other","s":303475,"st":"CO","n":102},{"id":"NC \u2014 all other agencies","c":"other","s":617061,"st":"NC","n":215},{"id":"TN \u2014 all other agencies","c":"other","s":651592,"st":"TN","n":175},{"id":"AZ \u2014 all other agencies","c":"other","s":300793,"st":"AZ","n":70},{"id":"CT \u2014 all other agencies","c":"ct_local","s":1050428,"st":"CT","n":66},{"id":"AL \u2014 all other agencies","c":"other","s":561757,"st":"AL","n":179},{"id":"CA \u2014 all other agencies","c":"other","s":447144,"st":"CA","n":173},{"id":"SC \u2014 all other agencies","c":"other","s":426746,"st":"SC","n":117},{"id":"PA \u2014 all other agencies","c":"other","s":73466,"st":"PA","n":89},{"id":"UT \u2014 all other agencies","c":"other","s":36201,"st":"UT","n":41},{"id":"NY \u2014 all other agencies","c":"other","s":338807,"st":"NY","n":144},{"id":"AR \u2014 all other agencies","c":"other","s":243649,"st":"AR","n":81},{"id":"OR \u2014 all other agencies","c":"other","s":34715,"st":"OR","n":29},{"id":"ZZ \u2014 all other agencies","c":"other","s":15035,"st":"ZZ","n":38},{"id":"DE \u2014 all other agencies","c":"other","s":80797,"st":"DE","n":17},{"id":"NJ \u2014 all other agencies","c":"other","s":83084,"st":"NJ","n":87},{"id":"IA \u2014 all other agencies","c":"other","s":119576,"st":"IA","n":63},{"id":"NV \u2014 all other agencies","c":"other","s":52259,"st":"NV","n":15},{"id":"NM \u2014 all other agencies","c":"other","s":48946,"st":"NM","n":34},{"id":"MD \u2014 all other agencies","c":"other","s":8580,"st":"MD","n":10},{"id":"RI \u2014 all other agencies","c":"other","s":184680,"st":"RI","n":28},{"id":"MN \u2014 all other agencies","c":"other","s":22082,"st":"MN","n":49},{"id":"ID \u2014 all other agencies","c":"other","s":12221,"st":"ID","n":15},{"id":"NH \u2014 all other agencies","c":"other","s":15198,"st":"NH","n":8},{"id":"SD \u2014 all other agencies","c":"other","s":7972,"st":"SD","n":13},{"id":"ND \u2014 all other agencies","c":"other","s":6433,"st":"ND","n":4},{"id":"ME \u2014 all other agencies","c":"other","s":5123,"st":"ME","n":11},{"id":"WY \u2014 all other agencies","c":"other","s":4720,"st":"WY","n":3},{"id":"DC \u2014 all other agencies","c":"other","s":25798,"st":"DC","n":1}],"links":[{"s":"Texas Financial Crimes Intelligence Center","t":"Waterford","w":725},{"s":"Missouri Information Analysis Center","t":"Farmington","w":515},{"s":"Utah County Major Crimes Taskforce UT","t":"Farmington","w":73},{"s":"Missouri Information Analysis Center","t":"Darien","w":10},{"s":"Mid Missouri Drug Task Force MO","t":"Manchester","w":6088},{"s":"NYS Crime Analysis Center Network","t":"Darien","w":22641},{"s":"NESPIN - New England State Police Information Network","t":"Farmington","w":1913},{"s":"NYS Crime Analysis Center Network","t":"Farmington","w":3685},{"s":"Chatham-Savannah Counter Narcotics Team","t":"Windsor","w":198},{"s":"Regional Vehicle Burglary Suppression Taskforce TX","t":"Windsor","w":38},{"s":"[Federal] Indiana Dunes National Park IN PD","t":"Waterford","w":25},{"s":"OH - Jefferson County Drug Task Force","t":"Farmington","w":75},{"s":"NESPIN - New England State Police Information Network","t":"Darien","w":18},{"s":"SEMO Drug Task Force MO","t":"Manchester","w":1143},{"s":"Kleberg TX County Attorney's Task Force","t":"Farmington","w":169},{"s":"Utah County Major Crimes Taskforce UT","t":"Windsor","w":51},{"s":"South Central OH Major Crimes Unit","t":"Farmington","w":216},{"s":"OH - U.S.23 Major Crimes Task Force","t":"Waterford","w":615},{"s":"Mid Missouri Drug Task Force MO","t":"Windsor","w":1105},{"s":"Chatham-Savannah Counter Narcotics Team","t":"Manchester","w":481},{"s":"Regional Vehicle Burglary Suppression Taskforce TX","t":"Manchester","w":538},{"s":"Ohio Drug TF (HIDTA / Moreland Hills OH PD)","t":"Farmington","w":48},{"s":"[Federal] Wright Patterson OH Air Force Base","t":"Waterford","w":22},{"s":"[Federal] US GSA Office of Inspector General","t":"Darien","w":3},{"s":"Missouri Information Analysis Center","t":"Manchester","w":288},{"s":"Utah County Major Crimes Taskforce UT","t":"Manchester","w":202},{"s":"SEMO Drug Task Force MO","t":"Windsor","w":249},{"s":"Columbia River Drug Task Force WA","t":"Waterford","w":59},{"s":"Marshall County Drug Task Force WV","t":"Farmington","w":82},{"s":"Mineral Area Drug Task Force MO","t":"Waterford","w":48},{"s":"City of Calverton Park (Florissant MO PD)","t":"Windsor","w":12},{"s":"[Federal] ATF Louisville KY [inactive]","t":"Waterford","w":1853},{"s":"NESPIN - New England State Police Information Network","t":"Manchester","w":4737},{"s":"Mid Missouri Drug Task Force MO","t":"Farmington","w":1649},{"s":"NYS Crime Analysis Center Network","t":"Manchester","w":3853},{"s":"Rocky Mountain Information Network (RMIN/RISS) AZ [DEACTIVATED]","t":"Waterford","w":157},{"s":"NCRIC","t":"Windsor","w":1167},{"s":"Ohio Drug TF (HIDTA / Moreland Hills OH PD)","t":"Windsor","w":135},{"s":"[Federal] Homeland Security Investigations [Inactive]","t":"Manchester","w":175},{"s":"South Central OH Major Crimes Unit","t":"Windsor","w":54},{"s":"Mid Missouri Drug Task Force MO","t":"Darien","w":56},{"s":"[Federal] US GSA Office of Inspector General","t":"Windsor","w":145},{"s":"OH - Jefferson County Drug Task Force","t":"Manchester","w":43},{"s":"[Federal] FBI [Inactive]","t":"Manchester","w":5651},{"s":"OH - U.S.23 Major Crimes Task Force","t":"Manchester","w":816},{"s":"Chatham-Savannah Counter Narcotics Team","t":"Waterford","w":430},{"s":"Northeast Ohio Regional Fusion Center","t":"Farmington","w":323},{"s":"Northern Colorado Intelligence Unit CO","t":"Farmington","w":57},{"s":"Regional Vehicle Burglary Suppression Taskforce TX","t":"Waterford","w":510},{"s":"Florissant MO PD","t":"Manchester","w":253},{"s":"[Federal] Indiana Dunes National Park IN PD","t":"Windsor","w":32},{"s":"[Federal] Wright Patterson OH Air Force Base","t":"Manchester","w":22},{"s":"Northeast Ohio Regional Fusion Center","t":"Darien","w":3},{"s":"Missouri Information Analysis Center","t":"Waterford","w":147},{"s":"Texas Financial Crimes Intelligence Center","t":"Farmington","w":1593},{"s":"Utah County Major Crimes Taskforce UT","t":"Waterford","w":169},{"s":"Texas Financial Crimes Intelligence Center","t":"Darien","w":7},{"s":"Columbia River Drug Task Force WA","t":"Manchester","w":59},{"s":"[Federal] The Presidio Trust CA - US Park Police","t":"Windsor","w":4},{"s":"[Federal] US Postal Inspection Service","t":"Waterford","w":45789},{"s":"Ozarks Drug Enforcement Team MO","t":"Waterford","w":2529},{"s":"National Center for Missing & Exploited Children [NCMEC]","t":"Waterford","w":904},{"s":"Alabama Drug Enforcement Task Force Region G","t":"Waterford","w":1044},{"s":"St. Louis Fusion Center MO","t":"Waterford","w":9},{"s":"Paul Bunyan Task Force MN","t":"Waterford","w":267},{"s":"[Federal] National Park Service TN [Inactive]","t":"Waterford","w":78},{"s":"East Texas Auto Theft Task Force","t":"Farmington","w":17},{"s":"1st Judicial District Drug Task Force TN (Inactive)","t":"Manchester","w":5},{"s":"MAGLOCLEN RISS","t":"Farmington","w":380},{"s":"Mineral Area Drug Task Force MO","t":"Manchester","w":44},{"s":"MAGLOCLEN RISS","t":"Darien","w":9},{"s":"[Federal] Lake Mead NV NRA","t":"Farmington","w":2},{"s":"NCRIC","t":"Manchester","w":2524},{"s":"South Central OH Major Crimes Unit","t":"Manchester","w":364},{"s":"[Federal] US GSA Office of Inspector General","t":"Manchester","w":405},{"s":"Chatham-Savannah Counter Narcotics Team","t":"Farmington","w":832},{"s":"Northeast Ohio Regional Fusion Center","t":"Waterford","w":149},{"s":"Northern Colorado Intelligence Unit CO","t":"Waterford","w":111},{"s":"NYS Crime Analysis Center Network","t":"Windsor","w":326},{"s":"Ohio Drug TF (HIDTA / Moreland Hills OH PD)","t":"Manchester","w":477},{"s":"NESPIN - New England State Police Information Network","t":"Windsor","w":919},{"s":"Regional Vehicle Burglary Suppression Taskforce TX","t":"Farmington","w":853},{"s":"South Plains Auto Theft Task Force TX","t":"Farmington","w":243},{"s":"Regional Vehicle Burglary Suppression Taskforce TX","t":"Darien","w":1},{"s":"Chatham-Savannah Counter Narcotics Team","t":"Darien","w":3},{"s":"OH - Jefferson County Drug Task Force","t":"Windsor","w":1},{"s":"MOCIC ","t":"Manchester","w":6476},{"s":"Bowling Green Warren County Drug Task Force KY","t":"Farmington","w":734},{"s":"South Central MO Drug Task Force","t":"Farmington","w":30},{"s":"Georgia Dept. of Corrections Intelligence Unit (GA)","t":"Farmington","w":2578},{"s":"Indiana HIDTA ","t":"Waterford","w":156},{"s":"[Federal] Langley VA Air Force Base","t":"Windsor","w":55},{"s":"Nacogdoches Co TX Criminal Taskforce Div","t":"Waterford","w":657},{"s":"North TX Anti-Gang Center (TAG)","t":"Waterford","w":77},{"s":"Davis Metro Narcotics Strike Force UT","t":"Manchester","w":335},{"s":"Georgia Dept. of Corrections Intelligence Unit (GA)","t":"Darien","w":30},{"s":"Tennessee Valley Authority Police","t":"Manchester","w":46},{"s":"[Federal] US Park Police - Chattahoochee River NRA","t":"Manchester","w":3},{"s":"MOCIC ","t":"Waterford","w":5279},{"s":"Nacogdoches Co TX Criminal Taskforce Div","t":"Manchester","w":668},{"s":"Davis Metro Narcotics Strike Force UT","t":"Waterford","w":271},{"s":"Indiana HIDTA ","t":"Manchester","w":157},{"s":"North TX Anti-Gang Center (TAG)","t":"Manchester","w":73},{"s":"[Federal] ATF Nashville TN [inactive]","t":"Farmington","w":156},{"s":"Tennessee Valley Authority Police","t":"Waterford","w":18},{"s":"[Federal] ATF Nashville TN [inactive]","t":"Darien","w":5},{"s":"[Federal] US Park Police - Chattahoochee River NRA","t":"Waterford","w":3},{"s":"TN ROCIC","t":"Waterford","w":1363},{"s":"SEMO Drug Task Force MO","t":"Farmington","w":263},{"s":"Lehigh County PA (RIIC)","t":"Farmington","w":7},{"s":"Kleberg TX County Attorney's Task Force","t":"Manchester","w":40},{"s":"SEMO Drug Task Force MO","t":"Darien","w":4},{"s":"18th Judicial District Drug Task Force - TN PD","t":"Windsor","w":524},{"s":"Illinois Statewide Auto Theft Taskforce","t":"Windsor","w":380},{"s":"[Federal] ATF Nashville TN [inactive]","t":"Windsor","w":3053},{"s":"[DEACTIVATED] - [Federal] Naval Criminal Investigative Service [Inactive]","t":"Manchester","w":127},{"s":"Midwest HIDTA","t":"Manchester","w":186},{"s":"[Federal] US Border Patrol [Inactive]","t":"Waterford","w":209},{"s":"Bowling Green Warren County Drug Task Force KY","t":"Windsor","w":176},{"s":"Georgia Dept. of Corrections Intelligence Unit (GA)","t":"Windsor","w":1038},{"s":"[DEACTIVATED] - [Federal] Naval Criminal Investigative Service [Inactive]","t":"Waterford","w":127},{"s":"Midwest HIDTA","t":"Waterford","w":176},{"s":"[Federal] US Border Patrol [Inactive]","t":"Manchester","w":209},{"s":"United States Border Control - Grand Forks Sector MN - DO NOT USE","t":"Manchester","w":10},{"s":"South Central MO Drug Task Force","t":"Windsor","w":13},{"s":"MOCIC ","t":"Windsor","w":1051},{"s":"[Federal] Langley VA Air Force Base","t":"Manchester","w":220},{"s":"[Federal] US Border Patrol [Inactive]","t":"Farmington","w":197},{"s":"Davis Metro Narcotics Strike Force UT","t":"Windsor","w":83},{"s":"Tennessee Valley Authority Police","t":"Windsor","w":24},{"s":"[Federal] US Park Police - Chattahoochee River NRA","t":"Windsor","w":2},{"s":"Bowling Green Warren County Drug Task Force KY","t":"Manchester","w":1483},{"s":"MOCIC ","t":"Farmington","w":4694},{"s":"Georgia Dept. of Corrections Intelligence Unit (GA)","t":"Manchester","w":4763},{"s":"[Federal] ATF Nashville TN [inactive]","t":"Waterford","w":7647},{"s":"18th Judicial District Drug Task Force - TN PD","t":"Waterford","w":1205},{"s":"South Central MO Drug Task Force","t":"Manchester","w":128},{"s":"MOCIC ","t":"Darien","w":85},{"s":"Illinois Statewide Auto Theft Taskforce","t":"Waterford","w":418},{"s":"Davis Metro Narcotics Strike Force UT","t":"Farmington","w":85},{"s":"[Federal] US Border Patrol [Inactive]","t":"Windsor","w":7},{"s":"United States Border Control - Grand Forks Sector MN - DO NOT USE","t":"Windsor","w":10},{"s":"Tennessee Valley Authority Police","t":"Farmington","w":12},{"s":"TN ROCIC","t":"Manchester","w":1909},{"s":"Texas Financial Crimes Intelligence Center","t":"Windsor","w":79},{"s":"NESPIN - New England State Police Information Network","t":"Waterford","w":4085},{"s":"[Federal] ATF Louisville KY [inactive]","t":"Manchester","w":1951},{"s":"NYS Crime Analysis Center Network","t":"Waterford","w":3538},{"s":"Rocky Mountain Information Network (RMIN/RISS) AZ [DEACTIVATED]","t":"Manchester","w":329},{"s":"Northeast Ohio Regional Fusion Center","t":"Windsor","w":50},{"s":"[Federal] Homeland Security Investigations [Inactive]","t":"Waterford","w":175},{"s":"Northern Colorado Intelligence Unit CO","t":"Windsor","w":20},{"s":"OH - Jefferson County Drug Task Force","t":"Waterford","w":23},{"s":"[Federal] US Postal Inspection Service","t":"Windsor","w":14255},{"s":"Alabama Drug Enforcement Task Force Region G","t":"Windsor","w":327},{"s":"MAGLOCLEN RISS","t":"Manchester","w":439},{"s":"Ozarks Drug Enforcement Team MO","t":"Windsor","w":288},{"s":"National Center for Missing & Exploited Children [NCMEC]","t":"Windsor","w":139},{"s":"Paul Bunyan Task Force MN","t":"Windsor","w":47},{"s":"North Missouri Drug Task Force MO","t":"Manchester","w":222},{"s":"[Federal] National Park Service TN [Inactive]","t":"Windsor","w":129},{"s":"Mineral Area Drug Task Force MO","t":"Farmington","w":12},{"s":"Marshall County Drug Task Force WV","t":"Waterford","w":22},{"s":"[Federal] Lake Mead NV NRA","t":"Manchester","w":14},{"s":"St. Louis Fusion Center MO","t":"Windsor","w":3},{"s":"[Federal] Roudebush Medical Center IN Veterans Affairs PD","t":"Manchester","w":6},{"s":"City of Calverton Park (Florissant MO PD)","t":"Manchester","w":17},{"s":"1st Judicial District Drug Task Force TN (Inactive)","t":"Farmington","w":5},{"s":"East Texas Auto Theft Task Force","t":"Manchester","w":2},{"s":"[Federal] ATF Nashville TN [inactive]","t":"Manchester","w":24387},{"s":"Bowling Green Warren County Drug Task Force KY","t":"Waterford","w":1621},{"s":"18th Judicial District Drug Task Force - TN PD","t":"Manchester","w":1694},{"s":"Georgia Dept. of Corrections Intelligence Unit (GA)","t":"Waterford","w":3750},{"s":"Illinois Statewide Auto Theft Taskforce","t":"Manchester","w":791},{"s":"Nacogdoches Co TX Criminal Taskforce Div","t":"Farmington","w":566},{"s":"Indiana HIDTA ","t":"Farmington","w":46},{"s":"North TX Anti-Gang Center (TAG)","t":"Farmington","w":68},{"s":"South Central MO Drug Task Force","t":"Waterford","w":122},{"s":"[DEACTIVATED] - [Federal] Naval Criminal Investigative Service [Inactive]","t":"Windsor","w":10},{"s":"Midwest HIDTA","t":"Windsor","w":10},{"s":"Nacogdoches Co TX Criminal Taskforce Div","t":"Windsor","w":124},{"s":"North TX Anti-Gang Center (TAG)","t":"Windsor","w":16},{"s":"[Federal] Langley VA Air Force Base","t":"Waterford","w":220},{"s":"Midwest HIDTA","t":"Farmington","w":263},{"s":"Indiana HIDTA ","t":"Windsor","w":9},{"s":"Marshall County Drug Task Force WV","t":"Manchester","w":41},{"s":"MAGLOCLEN RISS","t":"Waterford","w":394},{"s":"North Missouri Drug Task Force MO","t":"Waterford","w":222},{"s":"[Federal] Lake Mead NV NRA","t":"Waterford","w":14},{"s":"1st Judicial District Drug Task Force TN (Inactive)","t":"Windsor","w":4},{"s":"[Federal] US Postal Inspection Service","t":"Manchester","w":62481},{"s":"Ozarks Drug Enforcement Team MO","t":"Manchester","w":2596},{"s":"National Center for Missing & Exploited Children [NCMEC]","t":"Manchester","w":904},{"s":"Alabama Drug Enforcement Task Force Region G","t":"Manchester","w":1300},{"s":"MAGLOCLEN RISS","t":"Windsor","w":41},{"s":"Paul Bunyan Task Force MN","t":"Manchester","w":268},{"s":"St. Louis Fusion Center MO","t":"Manchester","w":11},{"s":"North Missouri Drug Task Force MO","t":"Windsor","w":40},{"s":"[Federal] National Park Service TN [Inactive]","t":"Manchester","w":213},{"s":"1st Judicial District Drug Task Force TN (Inactive)","t":"Waterford","w":5},{"s":"[Federal] Lake Mead NV NRA","t":"Windsor","w":3},{"s":"[Federal] FBI [Inactive]","t":"Windsor","w":4930},{"s":"Mid Missouri Drug Task Force MO","t":"Waterford","w":5819},{"s":"OH - U.S.23 Major Crimes Task Force","t":"Windsor","w":3},{"s":"Florissant MO PD","t":"Windsor","w":166},{"s":"[Federal] Indiana Dunes National Park IN PD","t":"Manchester","w":46},{"s":"[Federal] ATF Louisville KY [inactive]","t":"Darien","w":7},{"s":"TN ROCIC","t":"Farmington","w":1236},{"s":"SEMO Drug Task Force MO","t":"Waterford","w":1023},{"s":"Lehigh County PA (RIIC)","t":"Waterford","w":7},{"s":"[Federal] The Presidio Trust CA - US Park Police","t":"Manchester","w":4},{"s":"TN ROCIC","t":"Darien","w":1},{"s":"[Federal] US Postal Inspection Service","t":"Farmington","w":47194},{"s":"Ozarks Drug Enforcement Team MO","t":"Farmington","w":1643},{"s":"[Federal] US Postal Inspection Service","t":"Darien","w":6006},{"s":"Alabama Drug Enforcement Task Force Region G","t":"Farmington","w":466},{"s":"National Center for Missing & Exploited Children [NCMEC]","t":"Farmington","w":62},{"s":"Ozarks Drug Enforcement Team MO","t":"Darien","w":28},{"s":"[Federal] Roudebush Medical Center IN Veterans Affairs PD","t":"Waterford","w":6},{"s":"St. Louis Fusion Center MO","t":"Farmington","w":10},{"s":"Texas Financial Crimes Intelligence Center","t":"Manchester","w":1026},{"s":"TN ROCIC","t":"Windsor","w":401},{"s":"Columbia River Drug Task Force WA","t":"Farmington","w":23},{"s":"South Central OH Major Crimes Unit","t":"Waterford","w":377},{"s":"[Federal] US GSA Office of Inspector General","t":"Waterford","w":312},{"s":"OH - U.S.23 Major Crimes Task Force","t":"Farmington","w":7364},{"s":"Northeast Ohio Regional Fusion Center","t":"Manchester","w":210},{"s":"[Federal] ATF Louisville KY [inactive]","t":"Windsor","w":473},{"s":"Northern Colorado Intelligence Unit CO","t":"Manchester","w":137},{"s":"Florissant MO PD","t":"Farmington","w":118},{"s":"NCRIC","t":"Waterford","w":1187},{"s":"Ohio Drug TF (HIDTA / Moreland Hills OH PD)","t":"Waterford","w":385},{"s":"Rocky Mountain Information Network (RMIN/RISS) AZ [DEACTIVATED]","t":"Windsor","w":151},{"s":"OK \u2014 all other agencies","t":"Manchester","w":174150},{"s":"OK \u2014 all other agencies","t":"Waterford","w":147218},{"s":"FL \u2014 all other agencies","t":"Waterford","w":637942},{"s":"GA \u2014 all other agencies","t":"Waterford","w":888105},{"s":"IN \u2014 all other agencies","t":"Waterford","w":444943},{"s":"TX \u2014 all other agencies","t":"Windsor","w":415874},{"s":"IN \u2014 all other agencies","t":"Windsor","w":102038},{"s":"WI \u2014 all other agencies","t":"Windsor","w":36097},{"s":"MA \u2014 all other agencies","t":"Waterford","w":92919},{"s":"FL \u2014 all other agencies","t":"Windsor","w":149641},{"s":"KY \u2014 all other agencies","t":"Manchester","w":120819},{"s":"MO \u2014 all other agencies","t":"Waterford","w":219311},{"s":"VA \u2014 all other agencies","t":"Windsor","w":54560},{"s":"KS \u2014 all other agencies","t":"Waterford","w":116990},{"s":"NE \u2014 all other agencies","t":"Waterford","w":19147},{"s":"GA \u2014 all other agencies","t":"Windsor","w":233549},{"s":"MI \u2014 all other agencies","t":"Waterford","w":239942},{"s":"WI \u2014 all other agencies","t":"Manchester","w":193469},{"s":"MO \u2014 all other agencies","t":"Manchester","w":252877},{"s":"IN \u2014 all other agencies","t":"Manchester","w":587146},{"s":"IN \u2014 all other agencies","t":"Farmington","w":337223},{"s":"IL \u2014 all other agencies","t":"Waterford","w":565499},{"s":"LA \u2014 all other agencies","t":"Manchester","w":191496},{"s":"WA \u2014 all other agencies","t":"Manchester","w":31989},{"s":"KS \u2014 all other agencies","t":"Farmington","w":106106},{"s":"OH \u2014 all other agencies","t":"Manchester","w":415693},{"s":"MS \u2014 all other agencies","t":"Manchester","w":109239},{"s":"MA \u2014 all other agencies","t":"Farmington","w":84282},{"s":"FL \u2014 all other agencies","t":"Manchester","w":918512},{"s":"GA \u2014 all other agencies","t":"Manchester","w":1283801},{"s":"TX \u2014 all other agencies","t":"Manchester","w":2506275},{"s":"IL \u2014 all other agencies","t":"Manchester","w":692565},{"s":"CO \u2014 all other agencies","t":"Manchester","w":117950},{"s":"NC \u2014 all other agencies","t":"Waterford","w":181645},{"s":"TX \u2014 all other agencies","t":"Waterford","w":981499},{"s":"TN \u2014 all other agencies","t":"Windsor","w":48205},{"s":"AZ \u2014 all other agencies","t":"Waterford","w":107107},{"s":"CT \u2014 all other agencies","t":"Waterford","w":272241},{"s":"AL \u2014 all other agencies","t":"Waterford","w":163079},{"s":"LA \u2014 all other agencies","t":"Windsor","w":40050},{"s":"CA \u2014 all other agencies","t":"Windsor","w":82136},{"s":"AL \u2014 all other agencies","t":"Windsor","w":44331},{"s":"SC \u2014 all other agencies","t":"Waterford","w":112411},{"s":"TN \u2014 all other agencies","t":"Manchester","w":263446},{"s":"MA \u2014 all other agencies","t":"Manchester","w":168929},{"s":"CA \u2014 all other agencies","t":"Manchester","w":211282},{"s":"MI \u2014 all other agencies","t":"Manchester","w":315871},{"s":"VA \u2014 all other agencies","t":"Manchester","w":225134},{"s":"WI \u2014 all other agencies","t":"Farmington","w":110732},{"s":"TX \u2014 all other agencies","t":"Farmington","w":1151642},{"s":"NC \u2014 all other agencies","t":"Farmington","w":164386},{"s":"AL \u2014 all other agencies","t":"Farmington","w":150205},{"s":"GA \u2014 all other agencies","t":"Farmington","w":608338},{"s":"FL \u2014 all other agencies","t":"Farmington","w":530289},{"s":"MO \u2014 all other agencies","t":"Farmington","w":147645},{"s":"IL \u2014 all other agencies","t":"Farmington","w":279672},{"s":"TN \u2014 all other agencies","t":"Waterford","w":203395},{"s":"PA \u2014 all other agencies","t":"Waterford","w":21015},{"s":"OH \u2014 all other agencies","t":"Waterford","w":362607},{"s":"CT \u2014 all other agencies","t":"Windsor","w":177876},{"s":"UT \u2014 all other agencies","t":"Waterford","w":12292},{"s":"CO \u2014 all other agencies","t":"Waterford","w":104759},{"s":"NC \u2014 all other agencies","t":"Manchester","w":232494},{"s":"CO \u2014 all other agencies","t":"Farmington","w":59460},{"s":"MS \u2014 all other agencies","t":"Farmington","w":75267},{"s":"TN \u2014 all other agencies","t":"Farmington","w":134934},{"s":"OH \u2014 all other agencies","t":"Farmington","w":250998},{"s":"KY \u2014 all other agencies","t":"Farmington","w":92900},{"s":"AZ \u2014 all other agencies","t":"Manchester","w":117871},{"s":"NY \u2014 all other agencies","t":"Farmington","w":53380},{"s":"WI \u2014 all other agencies","t":"Waterford","w":171658},{"s":"AR \u2014 all other agencies","t":"Windsor","w":12360},{"s":"OR \u2014 all other agencies","t":"Waterford","w":13306},{"s":"CA \u2014 all other agencies","t":"Waterford","w":153388},{"s":"WA \u2014 all other agencies","t":"Waterford","w":28855},{"s":"AL \u2014 all other agencies","t":"Manchester","w":202107},{"s":"ZZ \u2014 all other agencies","t":"Manchester","w":6422},{"s":"OK \u2014 all other agencies","t":"Farmington","w":136031},{"s":"AL \u2014 all other agencies","t":"Darien","w":2035},{"s":"KS \u2014 all other agencies","t":"Darien","w":1429},{"s":"OK \u2014 all other agencies","t":"Darien","w":2656},{"s":"CT \u2014 all other agencies","t":"Farmington","w":181617},{"s":"NC \u2014 all other agencies","t":"Darien","w":2266},{"s":"NE \u2014 all other agencies","t":"Farmington","w":18468},{"s":"CT \u2014 all other agencies","t":"Darien","w":54219},{"s":"DE \u2014 all other agencies","t":"Windsor","w":4997},{"s":"PA \u2014 all other agencies","t":"Manchester","w":24624},{"s":"NJ \u2014 all other agencies","t":"Manchester","w":34246},{"s":"WA \u2014 all other agencies","t":"Farmington","w":10245},{"s":"IA \u2014 all other agencies","t":"Farmington","w":31267},{"s":"NV \u2014 all other agencies","t":"Farmington","w":13728},{"s":"MI \u2014 all other agencies","t":"Farmington","w":139933},{"s":"SC \u2014 all other agencies","t":"Windsor","w":24286},{"s":"NM \u2014 all other agencies","t":"Waterford","w":13567},{"s":"MD \u2014 all other agencies","t":"Waterford","w":2774},{"s":"VA \u2014 all other agencies","t":"Waterford","w":201585},{"s":"RI \u2014 all other agencies","t":"Manchester","w":61177},{"s":"KY \u2014 all other agencies","t":"Waterford","w":104664},{"s":"NY \u2014 all other agencies","t":"Darien","w":33601},{"s":"MN \u2014 all other agencies","t":"Manchester","w":10376},{"s":"AR \u2014 all other agencies","t":"Farmington","w":67224},{"s":"GA \u2014 all other agencies","t":"Darien","w":7608},{"s":"IL \u2014 all other agencies","t":"Darien","w":4414},{"s":"NM \u2014 all other agencies","t":"Manchester","w":17109},{"s":"LA \u2014 all other agencies","t":"Farmington","w":95322},{"s":"MS \u2014 all other agencies","t":"Darien","w":1112},{"s":"UT \u2014 all other agencies","t":"Farmington","w":5556},{"s":"VA \u2014 all other agencies","t":"Farmington","w":13219},{"s":"OR \u2014 all other agencies","t":"Farmington","w":4889},{"s":"RI \u2014 all other agencies","t":"Windsor","w":7789},{"s":"CO \u2014 all other agencies","t":"Windsor","w":20745},{"s":"IL \u2014 all other agencies","t":"Windsor","w":160134},{"s":"NY \u2014 all other agencies","t":"Waterford","w":59273},{"s":"NM \u2014 all other agencies","t":"Farmington","w":16453},{"s":"OH \u2014 all other agencies","t":"Windsor","w":79330},{"s":"TX \u2014 all other agencies","t":"Darien","w":9220},{"s":"MA \u2014 all other agencies","t":"Darien","w":540},{"s":"WA \u2014 all other agencies","t":"Windsor","w":6121},{"s":"KY \u2014 all other agencies","t":"Windsor","w":17411},{"s":"NV \u2014 all other agencies","t":"Windsor","w":2431},{"s":"NY \u2014 all other agencies","t":"Windsor","w":24898},{"s":"MO \u2014 all other agencies","t":"Windsor","w":49548},{"s":"NC \u2014 all other agencies","t":"Windsor","w":36270},{"s":"MN \u2014 all other agencies","t":"Windsor","w":1965},{"s":"MS \u2014 all other agencies","t":"Waterford","w":90270},{"s":"VA \u2014 all other agencies","t":"Darien","w":282},{"s":"RI \u2014 all other agencies","t":"Waterford","w":99314},{"s":"NM \u2014 all other agencies","t":"Windsor","w":1567},{"s":"NY \u2014 all other agencies","t":"Manchester","w":167655},{"s":"NJ \u2014 all other agencies","t":"Farmington","w":20354},{"s":"NJ \u2014 all other agencies","t":"Waterford","w":18935},{"s":"KS \u2014 all other agencies","t":"Windsor","w":17968},{"s":"CO \u2014 all other agencies","t":"Darien","w":561},{"s":"TN \u2014 all other agencies","t":"Darien","w":1612},{"s":"NE \u2014 all other agencies","t":"Windsor","w":2396},{"s":"CA \u2014 all other agencies","t":"Darien","w":338},{"s":"IA \u2014 all other agencies","t":"Manchester","w":43027},{"s":"IN \u2014 all other agencies","t":"Darien","w":4234},{"s":"AR \u2014 all other agencies","t":"Darien","w":702},{"s":"LA \u2014 all other agencies","t":"Darien","w":1255},{"s":"IA \u2014 all other agencies","t":"Darien","w":320},{"s":"IA \u2014 all other agencies","t":"Windsor","w":5890},{"s":"FL \u2014 all other agencies","t":"Darien","w":6448},{"s":"MI \u2014 all other agencies","t":"Windsor","w":62770},{"s":"OH \u2014 all other agencies","t":"Darien","w":3176},{"s":"WI \u2014 all other agencies","t":"Darien","w":1499},{"s":"AR \u2014 all other agencies","t":"Waterford","w":76942},{"s":"NJ \u2014 all other agencies","t":"Windsor","w":6797},{"s":"LA \u2014 all other agencies","t":"Waterford","w":163742},{"s":"ID \u2014 all other agencies","t":"Windsor","w":246},{"s":"UT \u2014 all other agencies","t":"Windsor","w":3460},{"s":"WA \u2014 all other agencies","t":"Darien","w":84},{"s":"SC \u2014 all other agencies","t":"Manchester","w":213100},{"s":"KY \u2014 all other agencies","t":"Darien","w":1398},{"s":"MO \u2014 all other agencies","t":"Darien","w":2138},{"s":"OR \u2014 all other agencies","t":"Darien","w":39},{"s":"MA \u2014 all other agencies","t":"Windsor","w":31546},{"s":"MI \u2014 all other agencies","t":"Darien","w":2399},{"s":"NJ \u2014 all other agencies","t":"Darien","w":2752},{"s":"ZZ \u2014 all other agencies","t":"Windsor","w":2264},{"s":"NM \u2014 all other agencies","t":"Darien","w":250},{"s":"AZ \u2014 all other agencies","t":"Windsor","w":23452},{"s":"UT \u2014 all other agencies","t":"Darien","w":68},{"s":"NE \u2014 all other agencies","t":"Darien","w":179},{"s":"OR \u2014 all other agencies","t":"Manchester","w":14118},{"s":"CT \u2014 all other agencies","t":"Manchester","w":364475},{"s":"NV \u2014 all other agencies","t":"Manchester","w":18872},{"s":"IA \u2014 all other agencies","t":"Waterford","w":39072},{"s":"AZ \u2014 all other agencies","t":"Farmington","w":51709},{"s":"AZ \u2014 all other agencies","t":"Darien","w":654},{"s":"ZZ \u2014 all other agencies","t":"Waterford","w":4458},{"s":"UT \u2014 all other agencies","t":"Manchester","w":14825},{"s":"NH \u2014 all other agencies","t":"Waterford","w":3843},{"s":"PA \u2014 all other agencies","t":"Farmington","w":24772},{"s":"OK \u2014 all other agencies","t":"Windsor","w":26245},{"s":"AR \u2014 all other agencies","t":"Manchester","w":86421},{"s":"ID \u2014 all other agencies","t":"Manchester","w":4086},{"s":"MN \u2014 all other agencies","t":"Waterford","w":9734},{"s":"SD \u2014 all other agencies","t":"Manchester","w":2520},{"s":"NH \u2014 all other agencies","t":"Farmington","w":6275},{"s":"MS \u2014 all other agencies","t":"Windsor","w":16905},{"s":"ZZ \u2014 all other agencies","t":"Farmington","w":1868},{"s":"ND \u2014 all other agencies","t":"Manchester","w":2191},{"s":"SD \u2014 all other agencies","t":"Windsor","w":205},{"s":"KS \u2014 all other agencies","t":"Manchester","w":134409},{"s":"ID \u2014 all other agencies","t":"Waterford","w":3725},{"s":"SC \u2014 all other agencies","t":"Farmington","w":75991},{"s":"NV \u2014 all other agencies","t":"Darien","w":108},{"s":"DE \u2014 all other agencies","t":"Farmington","w":22225},{"s":"OR \u2014 all other agencies","t":"Windsor","w":2363},{"s":"RI \u2014 all other agencies","t":"Farmington","w":16179},{"s":"ME \u2014 all other agencies","t":"Manchester","w":1838},{"s":"ID \u2014 all other agencies","t":"Farmington","w":4131},{"s":"MD \u2014 all other agencies","t":"Manchester","w":2830},{"s":"NH \u2014 all other agencies","t":"Manchester","w":4757},{"s":"DE \u2014 all other agencies","t":"Darien","w":181},{"s":"SC \u2014 all other agencies","t":"Darien","w":958},{"s":"RI \u2014 all other agencies","t":"Darien","w":221},{"s":"ID \u2014 all other agencies","t":"Darien","w":33},{"s":"DE \u2014 all other agencies","t":"Waterford","w":25501},{"s":"NV \u2014 all other agencies","t":"Waterford","w":17120},{"s":"SD \u2014 all other agencies","t":"Waterford","w":2210},{"s":"PA \u2014 all other agencies","t":"Windsor","w":2815},{"s":"ME \u2014 all other agencies","t":"Waterford","w":1729},{"s":"ND \u2014 all other agencies","t":"Windsor","w":145},{"s":"PA \u2014 all other agencies","t":"Darien","w":240},{"s":"NE \u2014 all other agencies","t":"Manchester","w":20983},{"s":"ME \u2014 all other agencies","t":"Windsor","w":374},{"s":"MD \u2014 all other agencies","t":"Windsor","w":234},{"s":"ZZ \u2014 all other agencies","t":"Darien","w":23},{"s":"DE \u2014 all other agencies","t":"Manchester","w":27893},{"s":"SD \u2014 all other agencies","t":"Farmington","w":3021},{"s":"ND \u2014 all other agencies","t":"Farmington","w":2006},{"s":"SD \u2014 all other agencies","t":"Darien","w":16},{"s":"NH \u2014 all other agencies","t":"Windsor","w":201},{"s":"MD \u2014 all other agencies","t":"Farmington","w":2736},{"s":"ND \u2014 all other agencies","t":"Waterford","w":2071},{"s":"ME \u2014 all other agencies","t":"Farmington","w":1162},{"s":"WY \u2014 all other agencies","t":"Farmington","w":1476},{"s":"NH \u2014 all other agencies","t":"Darien","w":122},{"s":"WY \u2014 all other agencies","t":"Darien","w":7},{"s":"DC \u2014 all other agencies","t":"Waterford","w":9064},{"s":"DC \u2014 all other agencies","t":"Manchester","w":9190},{"s":"ME \u2014 all other agencies","t":"Darien","w":20},{"s":"WY \u2014 all other agencies","t":"Manchester","w":1684},{"s":"WY \u2014 all other agencies","t":"Waterford","w":1458},{"s":"MD \u2014 all other agencies","t":"Darien","w":6},{"s":"MN \u2014 all other agencies","t":"Darien","w":7},{"s":"DC \u2014 all other agencies","t":"Farmington","w":6598},{"s":"DC \u2014 all other agencies","t":"Darien","w":178},{"s":"WY \u2014 all other agencies","t":"Windsor","w":95},{"s":"ND \u2014 all other agencies","t":"Darien","w":20},{"s":"DC \u2014 all other agencies","t":"Windsor","w":768}]};</script>
+<script>
+(function(){
+const CAT={ct_town:{v:'--ct',n:'Connecticut town network'},riss:{v:'--riss',n:'RISS regional intelligence center'},
+ fusion:{v:'--fusion',n:'Fusion center / intelligence unit'},taskforce:{v:'--tf',n:'Multijurisdictional task force'},
+ hidta:{v:'--tf',n:'HIDTA'},federal:{v:'--fed',n:'Federal agency'},
+ other:{v:'--other',n:'All other agencies in state'},ct_local:{v:'--other',n:'Other Connecticut agencies'}};
+const CTX=new Set(['other','ct_local']);
+const cv=document.getElementById('g'), ctx=cv.getContext('2d'), tip=document.getElementById('tip'), wrap=document.getElementById('gwrap');
+let COL={}, W=0, H=0, DPR=1;
+function readColors(){const cs=getComputedStyle(document.documentElement);
+  for(const k in CAT) COL[k]=cs.getPropertyValue(CAT[k].v).trim();
+  COL.rule=cs.getPropertyValue('--rule').trim(); COL.ink=cs.getPropertyValue('--ink').trim();
+  COL.muted=cs.getPropertyValue('--muted').trim(); COL.paper=cs.getPropertyValue('--canvas').trim();}
+readColors();
+matchMedia('(prefers-color-scheme:dark)').addEventListener('change',()=>{readColors();draw();});
+
+const byId=new Map();
+DATA.nodes.forEach(n=>{n.r=0;n.x=0;n.y=0;n.vx=0;n.vy=0;byId.set(n.id,n)});
+const towns=DATA.nodes.filter(n=>n.c==='ct_town');
+const maxOrg=Math.max(...DATA.nodes.filter(n=>!CTX.has(n.c)&&n.c!=='ct_town').map(n=>n.s));
+const maxCtx=Math.max(...DATA.nodes.filter(n=>CTX.has(n.c)).map(n=>n.s),1);
+DATA.nodes.forEach(n=>{
+  if(n.c==='ct_town') n.r=24;
+  else if(CTX.has(n.c)) n.r=5+16*Math.sqrt(n.s/maxCtx);
+  else n.r=3.4+15*Math.sqrt(n.s/maxOrg);
+});
+const links=DATA.links.map(l=>({s:byId.get(l.s),t:byId.get(l.t),w:l.w})).filter(l=>l.s&&l.t);
+const maxW=Math.max(...links.map(l=>l.w));
+
+const off=new Set(); let showCtx=false, hover=null, alpha=1;
+function vis(n){ if(n.c==='ct_town') return true; if(CTX.has(n.c)) return showCtx; return !off.has(n.c); }
+
+function resize(){
+  DPR=Math.min(window.devicePixelRatio||1,2);
+  W=cv.clientWidth; H=cv.clientHeight;
+  cv.width=W*DPR; cv.height=H*DPR; ctx.setTransform(DPR,0,0,DPR,0,0);
+  towns.forEach((n,i)=>{const a=-Math.PI/2+i*2*Math.PI/towns.length;
+    n.ax=W/2+Math.min(W,H)*0.305*Math.cos(a); n.ay=H/2+Math.min(W,H)*0.305*Math.sin(a)*0.92;});
+}
+function seed(){ DATA.nodes.forEach((n,i)=>{ if(n.c==='ct_town'){n.x=n.ax;n.y=n.ay;}
+  else {const a=i*2.39996, rad=Math.min(W,H)*(0.30+0.16*((i*7919)%97)/97);
+    n.x=W/2+rad*Math.cos(a); n.y=H/2+rad*Math.sin(a)*0.9;} n.vx=n.vy=0; }); }
+
+function tick(){
+  const act=DATA.nodes.filter(vis);
+  for(let i=0;i<act.length;i++){const a=act[i];
+    for(let j=i+1;j<act.length;j++){const b=act[j];
+      let dx=b.x-a.x, dy=b.y-a.y, d2=dx*dx+dy*dy;
+      if(d2<1){dx=(Math.random()-.5);dy=(Math.random()-.5);d2=1;}
+      const d=Math.sqrt(d2), minD=a.r+b.r+7;
+      let f=(4200+(a.r*b.r)*5.2)/d2;
+      if(d<minD) f+= (minD-d)*0.9;
+      const fx=dx/d*f, fy=dy/d*f;
+      a.vx-=fx; a.vy-=fy; b.vx+=fx; b.vy+=fy;}}
+  links.forEach(l=>{ if(!vis(l.s)||!vis(l.t))return;
+    const dx=l.t.x-l.s.x, dy=l.t.y-l.s.y, d=Math.max(Math.sqrt(dx*dx+dy*dy),1);
+    const rest=l.s.r+l.t.r+118, k=0.028*(0.35+0.65*Math.sqrt(l.w/maxW));
+    const f=(d-rest)*k, fx=dx/d*f, fy=dy/d*f;
+    l.s.vx+=fx; l.s.vy+=fy; l.t.vx-=fx; l.t.vy-=fy;});
+  act.forEach(n=>{
+    if(n.c==='ct_town'){ n.x=n.ax; n.y=n.ay; n.vx=n.vy=0; return; }
+    n.vx+=(W/2-n.x)*0.010; n.vy+=(H/2-n.y)*0.012;
+    n.vx*=0.80; n.vy*=0.80;
+    n.x+=n.vx*alpha; n.y+=n.vy*alpha;
+    n.x=Math.max(n.r+4,Math.min(W-n.r-4,n.x)); n.y=Math.max(n.r+4,Math.min(H-n.r-4,n.y));});
+}
+function label(n){ return n.id.replace(/^\[Federal\]\s*/,'').replace(/\s*\[(in)?active\]/ig,'')
+  .replace(/\s*\[DEACTIVATED\]\s*-?\s*/i,'').replace(/ — all other agencies$/,'').replace(/ - New England.*$/,'').trim(); }
+function draw(){
+  ctx.clearRect(0,0,W,H);
+  links.forEach(l=>{ if(!vis(l.s)||!vis(l.t))return;
+    const hot = hover && (l.s===hover||l.t===hover);
+    ctx.globalAlpha = hot?0.55:0.13+0.20*Math.sqrt(l.w/maxW);
+    ctx.strokeStyle = hot?COL[l.s.c==='ct_town'?l.t.c:l.s.c]:COL.rule;
+    ctx.lineWidth = hot?1.6:0.8;
+    ctx.beginPath(); ctx.moveTo(l.s.x,l.s.y); ctx.lineTo(l.t.x,l.t.y); ctx.stroke();});
+  ctx.globalAlpha=1;
+  const act=DATA.nodes.filter(vis).sort((a,b)=>a.r-b.r);
+  act.forEach(n=>{
+    ctx.beginPath(); ctx.arc(n.x,n.y,n.r,0,6.2832);
+    ctx.fillStyle=COL[n.c]; ctx.globalAlpha=(hover&&hover!==n)?0.45:(n.c==='ct_town'?0.92:0.82); ctx.fill();
+    ctx.globalAlpha=1; ctx.lineWidth=n.c==='ct_town'?2:1;
+    ctx.strokeStyle=COL.paper; ctx.stroke();});
+  ctx.textAlign='center'; ctx.textBaseline='middle';
+  act.forEach(n=>{
+    const big = n.c==='ct_town' || n.r>10.5 || n===hover;
+    if(!big) return;
+    const t=label(n), y=n.y+n.r+11;
+    ctx.font=(n.c==='ct_town'?'600 13px ':'500 11.5px ')+'"IBM Plex Sans Condensed",Arial,sans-serif';
+    const w=ctx.measureText(t).width;
+    ctx.globalAlpha=0.82; ctx.fillStyle=COL.paper;
+    ctx.fillRect(n.x-w/2-3,y-7.5,w+6,15); ctx.globalAlpha=1;
+    ctx.fillStyle=n.c==='ct_town'?COL.ct_town:COL.ink;
+    ctx.fillText(t,n.x,y);});
+}
+let raf=null;
+function loop(){ tick(); draw(); alpha=Math.max(alpha*0.994,0.12); raf=requestAnimationFrame(loop); }
+function kick(){ alpha=1; if(!raf) loop(); }
+
+const reduce=matchMedia('(prefers-reduced-motion:reduce)').matches;
+function start(){ resize(); seed(); if(reduce){ for(let i=0;i<420;i++){alpha=Math.max(1-i/420,0.12);tick();} alpha=0.12; draw(); } else kick(); }
+
+const nf=new Intl.NumberFormat('en-US');
+function hit(mx,my){ let best=null,bd=1e9;
+  DATA.nodes.filter(vis).forEach(n=>{const d=Math.hypot(n.x-mx,n.y-my); if(d<n.r+5&&d<bd){bd=d;best=n;}}); return best; }
+cv.addEventListener('mousemove',e=>{
+  const b=cv.getBoundingClientRect(), mx=e.clientX-b.left, my=e.clientY-b.top;
+  const n=hit(mx,my);
+  if(n!==hover){hover=n; if(reduce) draw();}
+  if(n){ let h='<b>'+label(n)+'</b>';
+    if(n.c==='ct_town'){ h+='<i>Connecticut town camera network</i><br>'+nf.format(n.s)+' distinct searches reached these cameras'; }
+    else if(CTX.has(n.c)){ h+='<i>'+(n.n?nf.format(n.n)+' agencies':'')+'</i><br>'+nf.format(n.s)+' searches into these five towns'; }
+    else { h+='<i>'+CAT[n.c].n+'</i><br>'+nf.format(n.s)+' searches into these five towns';
+      if(n.an) h+='<br>avg '+nf.format(n.an)+' networks per search';
+      if(n.f) h+='<br>'+n.f+' → '+n.l; }
+    tip.innerHTML=h; tip.style.opacity=1;
+    const tw=tip.offsetWidth||260, th=tip.offsetHeight||70;
+    tip.style.left=Math.max(6,Math.min(W-tw-6,mx+16))+'px';
+    tip.style.top=Math.max(6,Math.min(H-th-6,my-th-12))+'px';
+  } else tip.style.opacity=0;
+});
+cv.addEventListener('mouseleave',()=>{hover=null;tip.style.opacity=0;if(reduce)draw();});
+
+document.querySelectorAll('.chip').forEach(c=>c.addEventListener('click',()=>{
+  const ks=c.dataset.cat.split(' '), on=c.getAttribute('aria-pressed')==='true';
+  c.setAttribute('aria-pressed', on?'false':'true');
+  ks.forEach(k=>{ if(on) off.add(k); else off.delete(k); });
+  if(reduce){ for(let i=0;i<200;i++) tick(); draw(); } else kick();
+}));
+const cb=document.getElementById('ctx');
+cb.addEventListener('click',()=>{ showCtx=!showCtx; cb.setAttribute('aria-pressed',showCtx?'true':'false');
+  cb.textContent = showCtx?'– hide other agencies':'+ all other agencies, by state';
+  if(reduce){ for(let i=0;i<260;i++) tick(); draw(); } else kick(); });
+
+let rt; window.addEventListener('resize',()=>{clearTimeout(rt);rt=setTimeout(()=>{resize();if(reduce){for(let i=0;i<200;i++)tick();draw();}else kick();},160);});
+start();
+})();
+</script>
+</body>
+</html>
