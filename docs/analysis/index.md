@@ -27,7 +27,11 @@ multijurisdictional task force of which a public agency or law enforcement agenc
 of this state is a participating member." **The act never defines that term**, and
 it is the only category NESPIN fits.
 
-The page includes an interactive force-directed map of every intelligence entity
-and federal agency that reached those five town networks, filterable by category.
+The page carries an interactive map of every agency that reached those five town
+networks, placed at its true compass bearing and distance from them. Six buttons
+widen the frame one jurisdiction at a time — the five towns, their bordering
+departments, the rest of Connecticut, the regional centres in New York and New
+England, every other regional centre, and finally all 5,516 remaining departments
+— with the running share of the 12.9 million searches each ring accounts for.
 
 [Open the piece →](the-task-force-exception.html){ .md-button .md-button--primary }
