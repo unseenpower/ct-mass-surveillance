@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **Ashford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **8 mentions** across **6 meetings**
+- **9 mentions** across **7 meetings**
 - **First mention:** 2020-05-29  |  **Most recent:** 2026-03-06
 - **Technologies discussed:** alpr, drone, predictive_policing
-- **Coverage:** 155 of 467 known Ashford meetings transcribed (33%)
-- **Still incomplete:** 312 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 205 of 467 known Ashford meetings transcribed (44%)
+- **Still incomplete:** 262 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -69,59 +69,66 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 1 | 1 | 2024-12-09 | 2024-12-09 |
-| drone | 6 | 4 | 2020-11-10 | 2026-03-06 |
+| drone | 7 | 5 | 2020-11-10 | 2026-03-06 |
 | predictive_policing | 1 | 1 | 2020-05-29 | 2020-05-29 |
 
 
 ## Timeline
 
-6 meetings surfaced a finding (6 dated, spanning 2020-05-29 to 2026-03-06; 0 of unknown date, listed last).
+7 meetings surfaced a finding (7 dated, spanning 2020-05-29 to 2026-03-06; 0 of unknown date, listed last).
 
 
 ### 2020-05-29 -- Board of Finance
 
 **Ashford Board of Finance Special Meeting 2020 0506** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=21vdM58TgGM&t=11639s)  > ...May 20th 2020 to be held virtually I need a I need a motion and a second this is Gotham I'll make a motion that we increase their budget by the 90,000 like we discussed...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=21vdM58TgGM&t=11639s)  > ...May 20th 2020 to be held virtually I need a I need a motion and a second this is Gotham I'll make a motion that we increase their budget by the 90,000 like we discussed...
 
 
 ### 2020-11-10 -- Planning & Zoning Commission
 
 **Planning and Zoning Commission 110920** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5395s)  > ...they haven't changed much uh one is a and i can get you pictures i may be able to get you some drone footage of uh when one building the medline building...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5395s)  > ...they haven't changed much uh one is a and i can get you pictures i may be able to get you some drone footage of uh when one building the medline building...
 
-- `drone` [▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5419s)  > ...but that's the that's the kind of the size building we're talking about so maybe maybe a drone drone footage of that kind of place would be...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5419s)  > ...but that's the that's the kind of the size building we're talking about so maybe maybe a drone drone footage of that kind of place would be...
 
-- `drone` [▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5420s)  > ...size building we're talking about so maybe maybe a drone drone footage of that kind of place would be important to see yeah maybe the...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5420s)  > ...size building we're talking about so maybe maybe a drone drone footage of that kind of place would be important to see yeah maybe the...
+
+
+### 2023-09-25 -- Conservation Commission
+
+**Conservation Commission, September 25, 2023** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9f3HeNxnKDU&t=7466s)  > ...um so I'll let you know and uh again it should be this week I'll take a lot of pictures maybe I'll even do a drone thing oh good there you go oh well great that's all I had sorry...
 
 
 ### 2024-10-21 -- Board of Selectmen
 
 **Board of Selectmen, October 21, 2024** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=s3Uq-sQP20U&t=2064s)  > ...as a result of that change order um the solar um solar guy um took a drone and put it over there uh on uh Saturday but in addition Garland has been monitoring this project all...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=s3Uq-sQP20U&t=2064s)  > ...as a result of that change order um the solar um solar guy um took a drone and put it over there uh on uh Saturday but in addition Garland has been monitoring this project all...
 
 
 ### 2024-12-09 -- Planning & Zoning Commission
 
 **Planning & Zoning Commission, December 9, 2024** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=rnp-ssOztow&t=7773s)  > ...don't think it's as important that we judge as to whether people are going to flock to this as something that they see as fun as it is that we understand that this is something that will help support...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rnp-ssOztow&t=7773s)  > ...don't think it's as important that we judge as to whether people are going to flock to this as something that they see as fun as it is that we understand that this is something that will help support...
 
 
 ### 2025-04-08 -- Board of Finance
 
 **Board of Finance, April 8, 2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=nKYWcpXL3RY&t=3090s)  > ...it while we have it. Um, and thank you for your patience and listening to me drone on about money. And thank you to the first selectwoman for the hard work that she...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nKYWcpXL3RY&t=3090s)  > ...it while we have it. Um, and thank you for your patience and listening to me drone on about money. And thank you to the first selectwoman for the hard work that she...
 
 
 ### 2026-03-06 -- Board of Finance
 
 **Board of Finance, March 6, 2026** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=LBqQ9Rmvlxs&t=6307s)  > ...and our current revenue estimate um and the reval which if you've joined any other meetings you've heard me drone on and on about that. Uh this and this reval makes life difficult. It shifts...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LBqQ9Rmvlxs&t=6307s)  > ...and our current revenue estimate um and the reval which if you've joined any other meetings you've heard me drone on and on about that. Uh this and this reval makes life difficult. It shifts...
 
 
 ## Findings by topic
@@ -182,6 +189,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2024-10-21] Board of Selectmen** -- Board of Selectmen, October 21, 2024
   > ...as a result of that change order um the solar um solar guy um took a drone and put it over there uh on uh Saturday but in addition Garland has been monitoring this project all...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=s3Uq-sQP20U&t=2064s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Conservation Commission** -- Conservation Commission, September 25, 2023
+  > ...um so I'll let you know and uh again it should be this week I'll take a lot of pictures maybe I'll even do a drone thing oh good there you go oh well great that's all I had sorry...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9f3HeNxnKDU&t=7466s)  _(term: drone, unreviewed)_
 
 - **[2020-11-10] Planning & Zoning Commission** -- Planning and Zoning Commission 110920
   > ...size building we're talking about so maybe maybe a drone drone footage of that kind of place would be important to see yeah maybe the...
@@ -371,7 +382,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 14
-- Videos registered: 467 (fetched: 155, no captions: 0)
+- Videos registered: 467 (fetched: 205, no captions: 0)
 - Date range covered: 2020-04-06 to 2026-08-27 (all 467 videos dated)
 
 
@@ -386,7 +397,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| ashford_ct | videos | 2026-08-31 13:39:48.474441 | 481 |
+| ashford_ct | videos | 2026-09-07 16:26:37.060895 | 482 |
 
 
 ## Registered meeting bodies
@@ -412,8 +423,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 242 (fetched: 238)
-- Date range covered: 2026-01-05 to 2026-09-09
+- Documents registered: 247 (fetched: 243)
+- Date range covered: 2026-01-05 to 2026-09-14
 
 
 ### Agenda sources
@@ -451,5 +462,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:35:07 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ashford"`_
+_Generated 2026-09-07T17:27:21 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ashford"`_
 

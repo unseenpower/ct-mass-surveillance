@@ -81,14 +81,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Bolton Board of Education: May 9, 2024** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=3ycHEP8Komo&t=610s)  > ...sustainable food source or a stud income for example goats sheep heos pigs a flock of chicks ducks and honeybees are all offered for various uses a family can use the wall as she provides for...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3ycHEP8Komo&t=610s)  > ...sustainable food source or a stud income for example goats sheep heos pigs a flock of chicks ducks and honeybees are all offered for various uses a family can use the wall as she provides for...
 
 
 ### 2025-12-11 -- Board of Education
 
 **Bolton Board of Education - December 11, 2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=_zeHSW0HYRM&t=3110s)  > ...logistics were discussed >> for it being a Saturday, it was decided that people would get their own drone. That was offered as an additional piece though. Yes. Perfect....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_zeHSW0HYRM&t=3110s)  > ...logistics were discussed >> for it being a Saturday, it was decided that people would get their own drone. That was offered as an additional piece though. Yes. Perfect....
 
 
 ## Findings by topic
@@ -331,7 +331,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| cvc | videos | 2026-08-31 14:14:27.674814 | 2025 |
+| cvc | videos | 2026-09-07 16:31:59.779015 | 2027 |
 
 
 ## Registered meeting bodies
@@ -388,5 +388,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:35:41 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bolton"`_
+_Generated 2026-09-07T17:28:08 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bolton"`_
 

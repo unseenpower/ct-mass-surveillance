@@ -5,10 +5,10 @@
 
 This report collects every mention of surveillance technology found in **Portland**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **7 mentions** across **7 meetings**
-- **First mention:** 2024-05-01  |  **Most recent:** 2026-02-26
+- **9 mentions** across **9 meetings**
+- **First mention:** 2022-09-01  |  **Most recent:** 2026-02-26
 - **Technologies discussed:** alpr, drone
-- **Coverage:** 135 of 473 known Portland meetings transcribed (29%)
+- **Coverage:** 208 of 475 known Portland meetings transcribed (44%)
 - **Not the full history:** transcripts begin **2014-10-10**, but Portland's published video archive goes back to **2013-05-01**. Meetings before 2014 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -69,61 +69,75 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 1 | 1 | 2026-02-18 | 2026-02-18 |
-| drone | 6 | 6 | 2024-05-01 | 2026-02-26 |
+| drone | 8 | 8 | 2022-09-01 | 2026-02-26 |
 
 
 ## Timeline
 
-7 meetings surfaced a finding (7 dated, spanning 2024-05-01 to 2026-02-26; 0 of unknown date, listed last).
+9 meetings surfaced a finding (9 dated, spanning 2022-09-01 to 2026-02-26; 0 of unknown date, listed last).
+
+
+### 2022-09-01 -- Planning and Zoning Commission
+
+**Planning and Zoning | Public Hearing| Portland, CT | 9/1/22** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=bOSMhn2uB2Y&t=1724s)  > ...to be good to to account have thought of for service how about drone deliveries i'm sure i'm sure amazon will get on that when they when they can...
+
+
+### 2022-09-07 -- Town Meeting
+
+**Board of Selectmen | Town Meeting | Portland, CT | 9/7/22** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ntg_w9bvJPg&t=3253s)  > ...passive view of the water and we'll keep an actual this to me was the best drone shot um I don't know if you got them all Ryan I did yeah no I like this yeah yeah this...
 
 
 ### 2024-05-01 -- Board of Selectmen
 
 **Board of Selectmen | Regular Meeting | Portland, CT | 05/01/2024** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=gvdJ7_zfniw&t=1776s)  > ...last Friday they at no cost to the town hired or allowed us to use their their drone team and they sent a drone team out and took some really stunning videos and footage of the property not just...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gvdJ7_zfniw&t=1776s)  > ...last Friday they at no cost to the town hired or allowed us to use their their drone team and they sent a drone team out and took some really stunning videos and footage of the property not just...
 
 
 ### 2024-05-08 -- Planning and Zoning Commission
 
 **Portland Planning and Zoning Special Meeting 5/8/24** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=qZhFzkbmeUY&t=4339s)  > ...expansion expansive Horizon of Rolling Hills next image please these are drone photos taken at the proposed view from a new restaurant next image...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qZhFzkbmeUY&t=4339s)  > ...expansion expansive Horizon of Rolling Hills next image please these are drone photos taken at the proposed view from a new restaurant next image...
 
 
 ### 2024-05-23 -- Planning and Zoning Commission
 
 **Portland Planning and Zoning Special Meeting 5/23/24** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=T08q_Kuo_D4&t=9885s)  > ...residential as far as the addition of two more floors well I understand a chef came by flew a drone and said yes I want to have a a restaurant on this level okay is going to be four stories so okay...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T08q_Kuo_D4&t=9885s)  > ...residential as far as the addition of two more floors well I understand a chef came by flew a drone and said yes I want to have a a restaurant on this level okay is going to be four stories so okay...
 
 
 ### 2024-08-08 -- Planning and Zoning Commission
 
 **Planning and Zoning Special Meeting 8/8/24** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=YyBHGECOVSs&t=1546s)  > ...Bridge gentle River and the expansive Horizon of Rolling Hills slide please these are drone photos taken at the proposed view from a new restaurant at building a slide...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YyBHGECOVSs&t=1546s)  > ...Bridge gentle River and the expansive Horizon of Rolling Hills slide please these are drone photos taken at the proposed view from a new restaurant at building a slide...
 
 
 ### 2025-05-01 -- Strategic Capital Improvements Committee
 
 **Strategic Capital Improvements Committee 5/1/2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=7hGowoBhlTA&t=4428s)  > ...know he was using the 30,000 elevation. Well, now I need him to dial it down to, you know, drone. We got to make sure and I respect that you respect his numbers, but I trust verify. I just want to see...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7hGowoBhlTA&t=4428s)  > ...know he was using the 30,000 elevation. Well, now I need him to dial it down to, you know, drone. We got to make sure and I respect that you respect his numbers, but I trust verify. I just want to see...
 
 
 ### 2026-02-18 -- Board of Selectmen
 
 **Board of Selectmen Meeting 2/18/2026** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=3WXzOtFeGp8&t=855s)  > ...>> Do you let people know uh the ones that people are watching what LPRs are? >> License plate reader cameras. >> Yeah. I'm sorry. So, we have a set we have three sets of those, three...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3WXzOtFeGp8&t=855s)  > ...>> Do you let people know uh the ones that people are watching what LPRs are? >> License plate reader cameras. >> Yeah. I'm sorry. So, we have a set we have three sets of those, three...
 
 
 ### 2026-02-26 -- Board of Education
 
 **Town of Portland Podcast | TOP & BOE Joint Episode | Ep 75 | February 26, 2026** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=HO9xRCnQtw4&t=2417s)  > ...about what this will become. you you'll have to talk to Dylan. Maybe you can put the drone up and take some pictures of that. >> We did that. I got lots of video....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=HO9xRCnQtw4&t=2417s)  > ...about what this will become. you you'll have to talk to Dylan. Maybe you can put the drone up and take some pictures of that. >> We did that. I got lots of video....
 
 
 ## Findings by topic
@@ -196,6 +210,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2024-05-01] Board of Selectmen** -- Board of Selectmen | Regular Meeting | Portland, CT | 05/01/2024
   > ...last Friday they at no cost to the town hired or allowed us to use their their drone team and they sent a drone team out and took some really stunning videos and footage of the property not just...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gvdJ7_zfniw&t=1776s)  _(term: drone, unreviewed)_
+
+- **[2022-09-07] Town Meeting** -- Board of Selectmen | Town Meeting | Portland, CT | 9/7/22
+  > ...passive view of the water and we'll keep an actual this to me was the best drone shot um I don't know if you got them all Ryan I did yeah no I like this yeah yeah this...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ntg_w9bvJPg&t=3253s)  _(term: drone, unreviewed)_
+
+- **[2022-09-01] Planning and Zoning Commission** -- Planning and Zoning | Public Hearing| Portland, CT | 9/1/22
+  > ...to be good to to account have thought of for service how about drone deliveries i'm sure i'm sure amazon will get on that when they when they can...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bOSMhn2uB2Y&t=1724s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -371,8 +393,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 473 (fetched: 135, no captions: 2)
-- Date range covered: 2013-05-01 to 2026-08-24 (all 473 videos dated)
+- Videos registered: 475 (fetched: 208, no captions: 5)
+- Date range covered: 2013-05-01 to 2026-09-02 (all 475 videos dated)
 
 
 ### Channels
@@ -386,8 +408,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| portland_ct | streams | 2026-08-31 13:48:52.944350 | 229 |
-| portland_ct | videos | 2026-08-31 13:49:02.137280 | 685 |
+| portland_ct | streams | 2026-09-07 16:41:25.610119 | 230 |
+| portland_ct | videos | 2026-09-07 16:41:22.223192 | 686 |
 
 
 ## Registered meeting bodies
@@ -395,13 +417,13 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Strategic Capital Improvements Committee | budget_finance | True | 13 |
-| Board of Selectmen | council | True | 339 |
+| Board of Selectmen | council | True | 340 |
 | Board of Education | education | True | 11 |
 | School Building Committee | education | True | 3 |
 | Board of Assessment Review (BAR Committee) | other | True | 1 |
 | Economic Development Commission | other | True | 4 |
 | Land and Building Usage Assessment Committee | other | True | 8 |
-| Planning and Zoning Commission | other | True | 42 |
+| Planning and Zoning Commission | other | True | 43 |
 | Town Meeting | other | True | 49 |
 | Zoning Board of Appeals | other | True | 3 |
 
@@ -433,12 +455,15 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (2 shown, max 25)
+### Videos with no captions available (5 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Planning & Zoning Commission Special Meeting 8/27/2026 | 2026-08-27 |
 | Board of Selectman Special Meeting 7/23/24 | 2024-07-23 |
 | Board of Selectmen | Town Meeting | Portland, CT | 2/7/24 | 2024-02-07 |
+| Board of Selectmen | Public Hearing | Portland, CT | 3/14/23 | 2023-03-14 |
+| Board of Selectmen | Public Hearing | Portland, CT | 3/14/23 | 2023-03-14 |
 
 
 ### Tabs never crawled
@@ -449,5 +474,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:43:22 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Portland"`_
+_Generated 2026-09-07T17:39:24 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Portland"`_
 

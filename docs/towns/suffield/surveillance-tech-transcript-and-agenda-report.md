@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Suffiel
 - **4 mentions** across **3 meetings**
 - **First mention:** 2025-03-19  |  **Most recent:** 2026-06-09
 - **Technologies discussed:** alpr, drone, facial_recognition
-- **Coverage:** 102 of 114 known Suffield meetings transcribed (89%)
+- **Coverage:** 104 of 116 known Suffield meetings transcribed (90%)
 - **Not the full history:** transcripts begin **2019-02-28**, but Suffield's published video archive goes back to **2018-09-26**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -82,23 +82,23 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Suffield BOS 03 19 2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=n3xi-cb-StY&t=1107s)  > ...that he'd be a great fit for this position I know he's does a lot of the Drone footage he's done it for I'm sorry a lot of Drone footage so he's done it for some of our our Parks and Recreation...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=n3xi-cb-StY&t=1107s)  > ...that he'd be a great fit for this position I know he's does a lot of the Drone footage he's done it for I'm sorry a lot of Drone footage so he's done it for some of our our Parks and Recreation...
 
-- `drone` [▸](https://www.youtube.com/watch?v=n3xi-cb-StY&t=1110s)  > ...position I know he's does a lot of the Drone footage he's done it for I'm sorry a lot of Drone footage so he's done it for some of our our Parks and Recreation events already which includes the summer...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=n3xi-cb-StY&t=1110s)  > ...position I know he's does a lot of the Drone footage he's done it for I'm sorry a lot of Drone footage so he's done it for some of our our Parks and Recreation events already which includes the summer...
 
 
 ### 2025-06-04 -- Board of Selectmen
 
 **BOS June 4 2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=osf808-mPyc&t=2833s)  > ...they're different what they would be. Uh [clears throat] so the cameras we spoke about previously were license plate reader cameras. Yes....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=osf808-mPyc&t=2833s)  > ...they're different what they would be. Uh [clears throat] so the cameras we spoke about previously were license plate reader cameras. Yes....
 
 
 ### 2026-06-09 -- Kent Memorial Library Commission
 
 **KMLC regular meeting June 9 2026** _(topics: facial_recognition)_
 
-- `facial_recognition` [▸](https://www.youtube.com/watch?v=sAHqokYkb1U&t=2910s)  > ...>> can't find out their name. >> It's true. >> Facial recognition software. It's also difficult for staff because not all staff is on at the same time. So...
+- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=sAHqokYkb1U&t=2910s)  > ...>> can't find out their name. >> It's true. >> Facial recognition software. It's also difficult for staff because not all staff is on at the same time. So...
 
 
 ## Findings by topic
@@ -332,8 +332,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 2
 - Active meeting bodies: 10
-- Videos registered: 114 (fetched: 102, no captions: 0)
-- Date range covered: 2018-09-26 to 2026-08-20 (all 114 videos dated)
+- Videos registered: 116 (fetched: 104, no captions: 0)
+- Date range covered: 2018-09-26 to 2026-09-02 (all 116 videos dated)
 
 
 ### Channels
@@ -348,8 +348,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| suffield_sunlight | videos | 2026-08-31 14:03:26.475559 | 154 |
-| suffield_town_govt | videos | 2026-08-31 13:41:43.468449 | 19 |
+| suffield_sunlight | videos | 2026-09-07 17:04:06.468990 | 156 |
+| suffield_town_govt | videos | 2026-09-07 16:29:18.775673 | 19 |
 
 
 ## Registered meeting bodies
@@ -357,13 +357,13 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Town Meeting / Budget | budget_finance | True | 13 |
-| Board of Selectmen | council | True | 56 |
+| Board of Selectmen | council | True | 57 |
 | Board of Education | education | True | 1 |
 | Charter Revision Commission | other | True | 13 |
 | Economic Development Commission | other | True | 2 |
 | Kent Memorial Library Commission | other | True | 20 |
 | Permanent Building Commission | other | True | 4 |
-| Planning and Zoning Commission | other | True | 2 |
+| Planning and Zoning Commission | other | True | 3 |
 | Retirement Commission | other | True | 1 |
 | Fire Commission | public_safety | True | 2 |
 
@@ -411,5 +411,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:44:21 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Suffield"`_
+_Generated 2026-09-07T17:40:46 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Suffield"`_
 

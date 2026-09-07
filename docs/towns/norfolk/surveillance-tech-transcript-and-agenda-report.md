@@ -304,7 +304,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| botelle_media | videos | 2026-08-31 14:02:17.806807 | 44 |
+| botelle_media | videos | 2026-09-07 17:02:35.111341 | 44 |
 
 
 ## Registered meeting bodies
@@ -365,5 +365,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:41:48 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Norfolk"`_
+_Generated 2026-09-07T17:37:19 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Norfolk"`_
 

@@ -81,20 +81,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Board of Selectmen** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=lVPbQqw27bk&t=614s)  > ...Connecticut so and he had a Mill and everything there and a Foundry they took Pete out of the ground they had their own fuel there's there's a lot of stuff wrapped...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=lVPbQqw27bk&t=614s)  > ...Connecticut so and he had a Mill and everything there and a Foundry they took Pete out of the ground they had their own fuel there's there's a lot of stuff wrapped...
 
 
 ### 2025-11-26 -- Board of Selectmen
 
 **Regular BOS Meeting** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=2882s)  > ...be coming to you. The burrow is um looking into um investing into what they call flock safety cameras. Um they are cameras that uh take a very precise picture of a make of a car and a license...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=2882s)  > ...be coming to you. The burrow is um looking into um investing into what they call flock safety cameras. Um they are cameras that uh take a very precise picture of a make of a car and a license...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=2963s)  > ...Montville, and Graten. So, I'd like to um if if you guys are open to it, I'd like to ask the uh flock safety people that presented to us to present to you. And um of course, there is a cost...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=2963s)  > ...Montville, and Graten. So, I'd like to um if if you guys are open to it, I'd like to ask the uh flock safety people that presented to us to present to you. And um of course, there is a cost...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3282s)  > ...resident went to have a medical procedure in another state, he can log into the flock cameras and see where it is. And there's there's just it's very there's a lot of big brother to it....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3282s)  > ...resident went to have a medical procedure in another state, he can log into the flock cameras and see where it is. And there's there's just it's very there's a lot of big brother to it....
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3314s)  > ...sales rep version of of why it's good. >> Okay. Yes. >> View 59 Leah Avenue. Regarding the flock cameras, are they be do they want to be installed for a specific purpose like...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3314s)  > ...sales rep version of of why it's good. >> Okay. Yes. >> View 59 Leah Avenue. Regarding the flock cameras, are they be do they want to be installed for a specific purpose like...
 
 
 ## Findings by topic
@@ -349,7 +349,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| griswold_ct | streams | 2026-08-31 14:14:49.254694 | 146 |
+| griswold_ct | streams | 2026-09-07 16:32:31.241077 | 146 |
 
 
 ## Registered meeting bodies
@@ -414,5 +414,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:38:28 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Griswold"`_
+_Generated 2026-09-07T17:32:52 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Griswold"`_
 

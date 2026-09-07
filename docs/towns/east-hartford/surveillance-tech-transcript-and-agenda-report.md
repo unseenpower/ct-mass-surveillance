@@ -884,5 +884,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-06T22:27:01 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "East Hartford"`_
+_Generated 2026-09-07T17:31:25 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "East Hartford"`_
 

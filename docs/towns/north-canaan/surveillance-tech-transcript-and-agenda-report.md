@@ -79,9 +79,9 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Events Committee Quarterly Meeting (4-28-2025)** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=tXrZYp3sLm4&t=2072s)  > ...year, um we took some funds out of the firework budget. We moved them to the drone show. So, to get the exact same show that we had last year, which was a shorter show,...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=tXrZYp3sLm4&t=2072s)  > ...year, um we took some funds out of the firework budget. We moved them to the drone show. So, to get the exact same show that we had last year, which was a shorter show,...
 
-- `drone` [▸](https://www.youtube.com/watch?v=tXrZYp3sLm4&t=2180s)  > ...Last year it was shorter Mhm. because of the drones. This year there's no drone show, so I think people are going to want to just have the expanded fireworks show...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=tXrZYp3sLm4&t=2180s)  > ...Last year it was shorter Mhm. because of the drones. This year there's no drone show, so I think people are going to want to just have the expanded fireworks show...
 
 
 ## Findings by topic
@@ -326,7 +326,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| north_canaan_ct | videos | 2026-08-31 13:41:33.914476 | 101 |
+| north_canaan_ct | videos | 2026-09-07 16:29:03.878410 | 101 |
 
 
 ## Registered meeting bodies
@@ -391,5 +391,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:41:58 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "North Canaan"`_
+_Generated 2026-09-07T17:37:33 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "North Canaan"`_
 

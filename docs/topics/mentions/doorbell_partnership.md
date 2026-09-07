@@ -1,6 +1,6 @@
 # Doorbell-camera partnerships: every mention, every town
 
-_Generated 2026-08-31T14:55:47 — 26 mentions across 14 towns, 2020-10-08 to 2026-08-17._
+_Generated 2026-09-07T17:43:37 — 28 mentions across 15 towns, 2020-03-12 to 2026-08-17._
 
 
 Formal partnerships between police departments and consumer doorbell-camera networks such as Ring.
@@ -25,17 +25,18 @@ _No human review has been applied to any mention in this file._
 | --- | --- | --- | --- | --- | --- | --- |
 | [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 78% | 2024-02-21 | 2026-08-17 |
 | [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 94% | 2020-10-08 | 2023-10-12 |
-| [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 99% | 2025-08-26 | 2026-08-13 |
-| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 53% | 2023-03-09 | 2023-05-16 |
-| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 96% | 2022-08-16 | 2026-04-12 |
+| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 77% | 2021-06-22 | 2023-05-16 |
+| [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 98% | 2025-08-26 | 2026-08-13 |
+| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2022-08-16 | 2026-04-12 |
 | [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2022-04-25 | 2022-06-06 |
 | [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 98% | 2023-04-13 | 2023-04-13 |
 | [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 95% | 2020-11-12 | 2020-11-12 |
-| [Kent](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 55% | 2024-07-10 | 2024-07-10 |
-| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 68% | 2026-01-22 | 2026-01-22 |
+| [Kent](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 71% | 2024-07-10 | 2024-07-10 |
+| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 82% | 2026-01-22 | 2026-01-22 |
 | [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 91% | 2021-06-02 | 2021-06-02 |
 | [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 73% | 2024-09-18 | 2024-09-18 |
-| [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 90% | 2023-08-15 | 2023-08-15 |
+| [Plainville](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainville/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 69% | 2020-03-12 | 2020-03-12 |
+| [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 89% | 2023-08-15 | 2023-08-15 |
 | [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 67% | 2025-06-23 | 2025-06-23 |
 
 ## Receipts
@@ -47,144 +48,155 @@ _Most recent first within each town. Every line links to the exact second of the
 
 - **[2026-08-17] Police Commission** — Police Commission 2026 08 17
   > …than a decade and we go only have a case of a missing kid or something and we go look at Ring doorbell footage and you know, your stores would I know now the big ones are private property. Your…
-  [Watch ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3986s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3986s)  _(term: `doorbell_partnership`)_
 
 - **[2026-01-27] Zoning Board of Appeals** — Zoning Board of Appeals 2026-01-27
   > …Friday, Saturday, and Sundays 10 to 5 on our system farm stand. And I will be having a Ring doorbell inside of my farm stand in a lock box. And I have QR codes. And I've been working on this for…
-  [Watch ▸](https://www.youtube.com/watch?v=PPBXb_B7xJI&t=452s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PPBXb_B7xJI&t=452s)  _(term: `doorbell_partnership`)_
 
 - **[2024-02-21] Police Commission** — Police Commission 2024-02-21
   > …kind of video footage of activity a lot of a lot of things you know a lot of people relied on the ring doorbell I don't know if you know this but ring doorbell cameras those we get a lot of…
-  [Watch ▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3551s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3551s)  _(term: `doorbell_partnership`)_
 
 - **[2024-02-21] Police Commission** — Police Commission 2024-02-21
   > …of a lot of things you know a lot of people relied on the ring doorbell I don't know if you know this but ring doorbell cameras those we get a lot of footage from them but ring just…
-  [Watch ▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3552s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3552s)  _(term: `doorbell_partnership`)_
 
 - **[2024-02-21] Police Commission** — Police Commission 2024-02-21
   > …can just download right into it I'm putting it on my own house I'm going to get rid of my ring doorbell because I pay a monthly fee yeah I will I looked it up you…
-  [Watch ▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3587s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3587s)  _(term: `doorbell_partnership`)_
 
 
 ### Brookfield — 3 mentions
 
 - **[2023-10-12] Zoning Commission** — 2023-10-12 Zoning Commission Meeting
   > …the property um numerous amounts of material were brought in um I spoke to the resident through a ring doorbell I indicated to them that they needed to cease and assist all operations uh they…
-  [Watch ▸](https://www.youtube.com/watch?v=ICgnNm4z4z0&t=430s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ICgnNm4z4z0&t=430s)  _(term: `doorbell_partnership`)_
 
 - **[2020-10-22] Zoning Commission** — 2020-10-22 Zoning Commission Meeting
   > …line i got a complaint from the neighbor i went out there um knocked on the door she's got the ring doorbell i know she's seeing me there i rang the doorbell put my card in the door and a…
-  [Watch ▸](https://www.youtube.com/watch?v=f_hajm_MfG8&t=488s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=f_hajm_MfG8&t=488s)  _(term: `doorbell_partnership`)_
 
 - **[2020-10-08] Zoning Commission** — 2020-10-08 Zoning Commission Meeting
   > …from the smell and stuff i did go out there i knocked in the door they had the ring doorbell i rang the doorbell put a red tag on the door took a picture of it then i sent a notif notice a violation…
-  [Watch ▸](https://www.youtube.com/watch?v=OXx0Ft58biI&t=300s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OXx0Ft58biI&t=300s)  _(term: `doorbell_partnership`)_
+
+
+### Darien — 3 mentions
+
+- **[2023-05-16] Architectural Review Board** — Architectural Review Bd  5-16-2023
+  > …excellent two people there's there's not a big traffic pedestrian traffic there I'll put a ring doorbell up for you and I'll and I'll send you a weekly thing of how many people walk by is about 10. so…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z9zjHmOm2OY&t=1091s)  _(term: `doorbell_partnership`)_
+
+- **[2023-03-09] Police Commission** — Darien Police Commission  3-9-2023
+  > …committed 75 of the time a vehicle is involved in that crime and if you have any identifiers with ring doorbell footage eyewitnesses even just the slightest of bit of information that you…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1420s)  _(term: `doorbell_partnership`)_
+
+- **[2021-06-22] Housing Authority** — Darien Housing Authority  6-22-21
+  > …left here they used to call me and tell me they're outside get the package we'll put a ring doorbell out there videotape the guys today who are the…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZeoIDBAZzFI&t=2705s)  _(term: `doorbell_partnership`)_
 
 
 ### Orange — 3 mentions
 
 - **[2026-08-13] Board of Selectmen** — August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > …we all have to look in the mirror when we complain about this because how many of you have a Ring doorbell? If you're if you're if you're Yeah. If you're sitting on your porch or…
-  [Watch ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=3347s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=3347s)  _(term: `doorbell_partnership`)_
 
 - **[2026-08-13] Board of Selectmen** — August 12 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings
   > …you're sitting on your porch or somewhere near your front door, you have a Ring doorbell and you're talking to about something, it picks it up. How many of you have Alexa in the house? It…
-  [Watch ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=3356s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yGZnMy3L294&t=3356s)  _(term: `doorbell_partnership`)_
 
 - **[2025-08-26] Zoning Board of Appeals** — August 25 - Zoning Board of Appeals - Special Meeting - Town of Orange, CT Live Meetings
   > …it today. And I go out there three and four times a year. I monitor it very carefully. I have a Ring doorbell and the thing is uh and cameras and I have um…
-  [Watch ▸](https://www.youtube.com/watch?v=9UxqP9AT1-8&t=2824s)  _(term: `doorbell_partnership`)_
-
-
-### Darien — 2 mentions
-
-- **[2023-05-16] Architectural Review Board** — Architectural Review Bd  5-16-2023
-  > …excellent two people there's there's not a big traffic pedestrian traffic there I'll put a ring doorbell up for you and I'll and I'll send you a weekly thing of how many people walk by is about 10. so…
-  [Watch ▸](https://www.youtube.com/watch?v=Z9zjHmOm2OY&t=1091s)  _(term: `doorbell_partnership`)_
-
-- **[2023-03-09] Police Commission** — Darien Police Commission  3-9-2023
-  > …committed 75 of the time a vehicle is involved in that crime and if you have any identifiers with ring doorbell footage eyewitnesses even just the slightest of bit of information that you…
-  [Watch ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1420s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9UxqP9AT1-8&t=2824s)  _(term: `doorbell_partnership`)_
 
 
 ### Hartford — 2 mentions
 
 - **[2026-04-12] Operation, Management, Budget & Government Accountability Committee** — City of Hartford Budget Hearing FY27 CP, COO, Office of the Mayor, ROV, & Town & City Clerk
   > …focus on it and I hope it continues to be elevated to that level. Um, I noticed that the Ring doorbell distribution, I don't know, you know, if that was a one-time thing or if it's going to…
-  [Watch ▸](https://www.youtube.com/watch?v=sWQn2FL46i0&t=3723s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=sWQn2FL46i0&t=3723s)  _(term: `doorbell_partnership`)_
 
 - **[2022-08-16] Quality of Life and Public Safety Committee** — City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
   > …sensitive these are all older cases but we get a lot of these third-party cameras this was a ring doorbell camera of a residential burglary with a really clean shot at that face…
-  [Watch ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2134s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2134s)  _(term: `doorbell_partnership`)_
 
 
 ### Milford — 2 mentions
 
 - **[2022-06-06] Board of Aldermen** — Board Of Aldermen 6-6-22
   > …time uh thank you for hearing me uh my name is Andrew King I live at 32 Cedar Lane uh every day my ring doorbell app goes off showing another car that's been broken into in town several weeks ago a…
-  [Watch ▸](https://www.youtube.com/watch?v=u6mp-y7o9VE&t=1470s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=u6mp-y7o9VE&t=1470s)  _(term: `doorbell_partnership`)_
 
 - **[2022-04-25] Board of Aldermen** — Board of Aldermen: Budget Hearing 04/25/2022
   > …and I was wondering if there are other little things that we can do as Citizens um we recently got a a ring doorbell at our house and and I laughed to my wife said you know we live across the street…
-  [Watch ▸](https://www.youtube.com/watch?v=gMl482q5Thg&t=7986s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMl482q5Thg&t=7986s)  _(term: `doorbell_partnership`)_
 
 
 ### Norwalk — 2 mentions
 
 - **[2023-04-13] Finance and Claims Committee** — Finance and Claims Committee 4-13-23
   > …where it appeared that um some one of the data collectors was picked up on a ring doorbell um and he's been reprimanded for um just not being completely…
-  [Watch ▸](https://www.youtube.com/watch?v=Fxx6N5mJegw&t=587s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fxx6N5mJegw&t=587s)  _(term: `doorbell_partnership`)_
 
 - **[2023-04-13] Finance and Claims Committee** — Finance and Claims Committee 4-13-23
   > …where it appeared that um some one of the data collectors was picked up on a ring doorbell um and he's been reprimanded for um just not being completely…
-  [Watch ▸](https://www.youtube.com/watch?v=YjQUDv3LcG4&t=608s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YjQUDv3LcG4&t=608s)  _(term: `doorbell_partnership`)_
 
 
 ### East Lyme — 1 mention
 
 - **[2020-11-12] Board of Finance** — East Lyme, CT Board of Finance Meeting 11/12/2020
   > …cell block booking video we may have surveillance video from a a commercial establishment a ring doorbell all of that can be uploaded into one…
-  [Watch ▸](https://www.youtube.com/watch?v=AZkFNh2NCFQ&t=3398s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AZkFNh2NCFQ&t=3398s)  _(term: `doorbell_partnership`)_
 
 
 ### Kent — 1 mention
 
 - **[2024-07-10] Board of Finance** — BOARD OF FINANCE REGULAR MEETING JULY 10, 2024
   > …would be there for you know even though they would be on there they would have like a ring doorbell kind of a thing to announce people in there so there's there's a Safety and Security of the…
-  [Watch ▸](https://www.youtube.com/watch?v=Zvyn7J8VTY0&t=581s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Zvyn7J8VTY0&t=581s)  _(term: `doorbell_partnership`)_
 
 
 ### New Canaan — 1 mention
 
 - **[2026-01-22] Conservation Commission** — Conservation Commission Meeting January 22, 2026
   > …see before they pick up. I was still there, but they won't let me install like a Ring doorbell. Anyway, you've given me a bunch of good info on that. Thank you. I appreciate it. Um, the…
-  [Watch ▸](https://www.youtube.com/watch?v=7SUZnx-T3Wo&t=863s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7SUZnx-T3Wo&t=863s)  _(term: `doorbell_partnership`)_
 
 
 ### New Haven — 1 mention
 
 - **[2021-06-02] Public Safety Committee** — BoA Public Safety Committee
   > …that the city has to offer summer programs um ring doorbell programs that the police department is partnering with any kind of literature that we can give…
-  [Watch ▸](https://www.youtube.com/watch?v=8CUEFve9ZwA&t=647s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8CUEFve9ZwA&t=647s)  _(term: `doorbell_partnership`)_
 
 
 ### Newington — 1 mention
 
 - **[2024-09-18] Board of Assessment Appeals** — Board of Assessment Appeals Special Meeting - Hearings Sep 18, 2024
   > …oh the Cherokee know was gone I could show you a live stream video of the of the car from The Ring doorbell in the garage a new one show your…
-  [Watch ▸](https://www.youtube.com/watch?v=3JvBQvS_FIA&t=11087s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3JvBQvS_FIA&t=11087s)  _(term: `doorbell_partnership`)_
+
+
+### Plainville — 1 mention
+
+- **[2020-03-12] Town Council** — Plainville Town Council Budget Meeting - 3/12/20
+  > …know when someone breaks into an apartment or breaks into a house you know or ring doorbell we have all of those pieces now so video is becoming more our photos you know a camera today…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YUvfoWrAZXA&t=3842s)  _(term: `doorbell_partnership`)_
 
 
 ### Wallingford — 1 mention
 
 - **[2023-08-15] Town Council** — Town Council - Regular Meeting - Tuesday, August 15, 2023
   > …doorbell at 3am um because I'm one of the last people who doesn't have a ring doorbell so whatever we disconnected it bye but um you're not waking me up anymore…
-  [Watch ▸](https://www.youtube.com/watch?v=QO5CVifpBWE&t=7645s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QO5CVifpBWE&t=7645s)  _(term: `doorbell_partnership`)_
 
 
 ### Westport — 1 mention
 
 - **[2025-06-23] Disability Commission** — Disability Commission - June 23, 2025
   > …dog. Correct. So, we could talk about purchasing or donating money for the purchase of Right. for the Ring doorbell kind of. Exactly. So, there's a couple of things. Um Mask Commission for the…
-  [Watch ▸](https://www.youtube.com/watch?v=GVvTGy6eXbA&t=4260s)  _(term: `doorbell_partnership`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=GVvTGy6eXbA&t=4260s)  _(term: `doorbell_partnership`)_
 

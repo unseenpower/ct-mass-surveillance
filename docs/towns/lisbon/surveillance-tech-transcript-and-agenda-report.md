@@ -304,7 +304,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| lisbon_ct | videos | 2026-08-31 13:46:32.884319 | 22 |
+| lisbon_ct | videos | 2026-09-07 16:38:24.864863 | 22 |
 
 
 ## Registered meeting bodies
@@ -321,8 +321,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 63 (fetched: 2)
-- Date range covered: 2026-01-12 to 2026-08-24
+- Documents registered: 65 (fetched: 2)
+- Date range covered: 2026-01-12 to 2026-09-03
 
 
 ### Agenda sources
@@ -359,5 +359,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:40:05 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Lisbon"`_
+_Generated 2026-09-07T17:34:59 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Lisbon"`_
 

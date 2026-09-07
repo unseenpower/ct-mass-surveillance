@@ -81,23 +81,23 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **BoE Meeting 9/27 @ EHS** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eU-ipYQ_VXA&t=1103s)  > ...into dishonesty and deception we are going to lose a whole lot of good teachers they're going to flock to districts who don't misrepresent them I really need this to not happen to our...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eU-ipYQ_VXA&t=1103s)  > ...into dishonesty and deception we are going to lose a whole lot of good teachers they're going to flock to districts who don't misrepresent them I really need this to not happen to our...
 
 
 ### 2024-06-12 -- Board of Education
 
 **BoE Meeting @ EHS 6/12/24** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=TDIiRvxQfDY&t=1786s)  > ...pathway at a her main experience was caring for her small poultry flock at home and working at the Stafford Veterinary Clinic um some of her highlights include...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=TDIiRvxQfDY&t=1786s)  > ...pathway at a her main experience was caring for her small poultry flock at home and working at the Stafford Veterinary Clinic um some of her highlights include...
 
 
 ### 2026-03-25 -- Board of Education
 
 **BoE Meeting @ EHS 3/25/26** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=nPfMmVoHSkI&t=3523s)  > ...Youth Services hosted their dodgeball tournament on the 19th. Uh the drone team, the very first EMS drone team, uh competed on the 7th. Um and one of the teams was honored with a...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nPfMmVoHSkI&t=3523s)  > ...Youth Services hosted their dodgeball tournament on the 19th. Uh the drone team, the very first EMS drone team, uh competed on the 7th. Um and one of the teams was honored with a...
 
-- `drone` [▸](https://www.youtube.com/watch?v=nPfMmVoHSkI&t=3526s)  > ...tournament on the 19th. Uh the drone team, the very first EMS drone team, uh competed on the 7th. Um and one of the teams was honored with a judges award for kindness and support...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nPfMmVoHSkI&t=3526s)  > ...tournament on the 19th. Uh the drone team, the very first EMS drone team, uh competed on the 7th. Um and one of the teams was honored with a judges award for kindness and support...
 
 
 ## Findings by topic
@@ -348,8 +348,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| ellington_boe_ct | streams | 2026-08-31 13:40:56.922029 | 117 |
-| ellington_boe_ct | videos | 2026-08-31 13:41:01.614796 | 345 |
+| ellington_boe_ct | streams | 2026-09-07 16:28:16.510111 | 117 |
+| ellington_boe_ct | videos | 2026-09-07 16:28:14.592921 | 346 |
 
 
 ## Registered meeting bodies
@@ -408,5 +408,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:38:05 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ellington"`_
+_Generated 2026-09-07T17:32:17 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ellington"`_
 

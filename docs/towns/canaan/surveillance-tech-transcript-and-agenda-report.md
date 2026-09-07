@@ -81,30 +81,30 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Town of Canaan/Falls Village P&Z meeting 12 17 24** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=ikIh4sGdlrU&t=4132s)  > ...planet and I didn't see any drones so I think we're you were the Drone person I was wondering if the government was aware oh yeah so you could look at the face of...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ikIh4sGdlrU&t=4132s)  > ...planet and I didn't see any drones so I think we're you were the Drone person I was wondering if the government was aware oh yeah so you could look at the face of...
 
 
 ### 2025-06-06 -- Board of Finance
 
 **Board of Finance Special Meeting 6.6.25** _(topics: surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=CgjfALNH-uo&t=701s)  > ...uh the upgrade for my computer because I'm in that cycle right now. Can we have to look at a CCTV camera to monitor our ballot files? Is that coming out of a reserve or is...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=CgjfALNH-uo&t=701s)  > ...uh the upgrade for my computer because I'm in that cycle right now. Can we have to look at a CCTV camera to monitor our ballot files? Is that coming out of a reserve or is...
 
 
 ### 2025-08-11 -- Board of Selectmen
 
 **Selectmen and Finance Meeting - 8.11.25. Town of Canaan/Falls Village** _(topics: surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=hD7CrVeggRg&t=3338s)  > ...finance recommend to town meeting up to $9,000 for the purpose of CCTV cameras over the ballot box from the front and back of town hall to come from the 107108 Main...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=hD7CrVeggRg&t=3338s)  > ...finance recommend to town meeting up to $9,000 for the purpose of CCTV cameras over the ballot box from the front and back of town hall to come from the 107108 Main...
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=hD7CrVeggRg&t=3871s)  > ...Tim Mezer will fill her position and Kathy Clark will fill position the uh CCTV uh we'll talk about a little bit later at length I would I think under a new...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=hD7CrVeggRg&t=3871s)  > ...Tim Mezer will fill her position and Kathy Clark will fill position the uh CCTV uh we'll talk about a little bit later at length I would I think under a new...
 
 
 ### 2026-04-23 -- Planning & Zoning Commission
 
 **Planning & Zoning 4.23.26 Town of Canaan/Falls Village** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=F9Y_XICnIQg&t=4107s)  > ...>> Yeah. Anybody else have discussion on those two points, affordability and drone units? Anybody have any comment on the rest of the changes as presented to you tonight?...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=F9Y_XICnIQg&t=4107s)  > ...>> Yeah. Anybody else have discussion on those two points, affordability and drone units? Anybody have any comment on the rest of the changes as presented to you tonight?...
 
 
 ## Findings by topic
@@ -359,7 +359,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| canaan_falls_village_ct | videos | 2026-08-31 14:10:45.806602 | 97 |
+| canaan_falls_village_ct | videos | 2026-09-07 16:45:47.959950 | 97 |
 
 
 ## Registered meeting bodies
@@ -435,5 +435,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:36:02 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Canaan"`_
+_Generated 2026-09-07T17:28:37 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Canaan"`_
 

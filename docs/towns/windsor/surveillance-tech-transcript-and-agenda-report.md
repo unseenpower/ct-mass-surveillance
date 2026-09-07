@@ -83,53 +83,53 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **2018 Windsor Board of Education Special Meeting November 6** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=vWRlCUpoTRY&t=1024s)  > ...teacher surveys so this is where I am gonna depart a little bit from my promise not to drone on because I just read home visit surveys some of which were done in the home but here's an...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=vWRlCUpoTRY&t=1024s)  > ...teacher surveys so this is where I am gonna depart a little bit from my promise not to drone on because I just read home visit surveys some of which were done in the home but here's an...
 
 
 ### 2024-04-16 -- Board of Education
 
 **WPS Board of Education - Regular Meeting | April 16, 2024** _(topics: body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=VDb_ep_S8Jo&t=10932s)  > ...okay you can't call them racist we're doing a hard job and you're watching the body cam footage so and it's especially amusing when young white women call black cops racist I love those videos um...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VDb_ep_S8Jo&t=10932s)  > ...okay you can't call them racist we're doing a hard job and you're watching the body cam footage so and it's especially amusing when young white women call black cops racist I love those videos um...
 
 
 ### 2024-12-17 -- Board of Education
 
 **Windsor Board of Education Regular Meeting  with Public Forum - December 17, 2024** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=KGJlBNzzwqk&t=8135s)  > ...get involved thank you thank you Mr walliston could you explain how one would flock someone for those who don't know it might be...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=KGJlBNzzwqk&t=8135s)  > ...get involved thank you thank you Mr walliston could you explain how one would flock someone for those who don't know it might be...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=KGJlBNzzwqk&t=8141s)  > ...someone for those who don't know it might be suspicious um flamingos flock and on front yards throughout Town actually a lot of uh towns do this uh you wake up...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=KGJlBNzzwqk&t=8141s)  > ...someone for those who don't know it might be suspicious um flamingos flock and on front yards throughout Town actually a lot of uh towns do this uh you wake up...
 
 
 ### 2025-04-08 -- Board of Education
 
 **Windsor Board of Education Regular Meeting: April 8, 2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=ZpRdX7aqx_s&t=5559s)  > ...report. I don't know if you have anything to add. Oh, I mean not much to add. Who do we reach out to to flock somebody? I want to do it. So, I'll make sure you're flocked first and then what...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZpRdX7aqx_s&t=5559s)  > ...report. I don't know if you have anything to add. Oh, I mean not much to add. Who do we reach out to to flock somebody? I want to do it. So, I'll make sure you're flocked first and then what...
 
 
 ### 2025-05-20 -- Board of Education
 
 **Windsor Board of Education Regular Meeting: May 20 2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=XFmxth45xcg&t=6084s)  > ...purchase one. That is, um, at a cost. It is a fundraiser for Project Graduation. Um, and you can still flock a friend. I I did. Um, did you enjoy that? Okay. Um, there's still a few days to flock a...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XFmxth45xcg&t=6084s)  > ...purchase one. That is, um, at a cost. It is a fundraiser for Project Graduation. Um, and you can still flock a friend. I I did. Um, did you enjoy that? Okay. Um, there's still a few days to flock a...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=XFmxth45xcg&t=6092s)  > ...Um, and you can still flock a friend. I I did. Um, did you enjoy that? Okay. Um, there's still a few days to flock a friend. Again, a a fundraiser for Project Graduation till May 31st. Um,...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XFmxth45xcg&t=6092s)  > ...Um, and you can still flock a friend. I I did. Um, did you enjoy that? Okay. Um, there's still a few days to flock a friend. Again, a a fundraiser for Project Graduation till May 31st. Um,...
 
 
 ### 2026-05-19 -- Board of Education
 
 **Windsor Board of Education Regular Meeting Tuesday, May 19, 2026 7:00 PM** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=_n1Ted5_PLA&t=5074s)  > ...project graduation. So, I implore you if you want to get involved. Um, you can do something fun for $20. You can flock a neighbor or a friend and they put all the, you know, the flamingos. They come...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_n1Ted5_PLA&t=5074s)  > ...project graduation. So, I implore you if you want to get involved. Um, you can do something fun for $20. You can flock a neighbor or a friend and they put all the, you know, the flamingos. They come...
 
 
 ### 2026-05-20 -- Board of Education
 
 **Board of Education Regular Meeting May 2026** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=jq1YtW9JZwU&t=6782s)  > ...implore you, if you want to get involved, um you can do something fun. For $20, you can flock a a neighbor or a friend, and they put all the you know, the flamingos they come in in the...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=jq1YtW9JZwU&t=6782s)  > ...implore you, if you want to get involved, um you can do something fun. For $20, you can flock a a neighbor or a friend, and they put all the you know, the flamingos they come in in the...
 
 
 ## Findings by topic
@@ -456,8 +456,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| win_tv | streams | 2026-08-31 13:47:25.623225 | 166 |
-| win_tv | videos | 2026-08-31 13:47:48.916139 | 1905 |
+| win_tv | streams | 2026-09-07 16:39:54.167110 | 166 |
+| win_tv | videos | 2026-09-07 16:39:51.474882 | 1908 |
 
 
 ## Registered meeting bodies
@@ -480,7 +480,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 122 (fetched: 103)
+- Documents registered: 123 (fetched: 104)
 - Date range covered: 2026-01-05 to 2026-12-21
 
 
@@ -529,5 +529,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:45:21 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Windsor"`_
+_Generated 2026-09-07T17:42:02 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Windsor"`_
 

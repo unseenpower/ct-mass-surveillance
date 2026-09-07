@@ -305,8 +305,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| vernon_ct | streams | 2026-08-31 13:39:31.047874 | 56 |
-| vernon_ct | videos | 2026-08-31 13:39:32.640394 | 83 |
+| vernon_ct | streams | 2026-09-07 16:26:16.001153 | 56 |
+| vernon_ct | videos | 2026-09-07 16:26:14.562112 | 83 |
 
 
 ## Registered meeting bodies
@@ -390,5 +390,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:44:28 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Vernon"`_
+_Generated 2026-09-07T17:40:56 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Vernon"`_
 

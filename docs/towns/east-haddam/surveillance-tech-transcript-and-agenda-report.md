@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **East Haddam**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **43 mentions** across **24 meetings**
-- **First mention:** 2022-10-13  |  **Most recent:** 2026-06-09
+- **49 mentions** across **27 meetings**
+- **First mention:** 2022-02-22  |  **Most recent:** 2026-06-09
 - **Technologies discussed:** alpr, body_camera, drone, facial_recognition, predictive_policing, purchasing_broker, surveillance_general
-- **Coverage:** 951 of 1,635 known East Haddam meetings transcribed (58%)
-- **Not the full history:** transcripts begin **2022-09-06**, but East Haddam's published video archive goes back to **2018-03-20**. Meetings before 2022 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+- **Coverage:** 1,322 of 1,642 known East Haddam meetings transcribed (81%)
+- **Not the full history:** transcripts begin **2020-10-20**, but East Haddam's published video archive goes back to **2018-03-20**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -70,7 +70,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | --- | --- | --- | --- | --- |
 | alpr | 13 | 5 | 2023-11-30 | 2025-12-08 |
 | body_camera | 1 | 1 | 2024-02-21 | 2024-02-21 |
-| drone | 24 | 14 | 2022-10-13 | 2026-06-09 |
+| drone | 30 | 17 | 2022-02-22 | 2026-06-09 |
 | facial_recognition | 1 | 1 | 2025-11-05 | 2025-11-05 |
 | predictive_policing | 1 | 1 | 2022-10-25 | 2022-10-25 |
 | purchasing_broker | 1 | 1 | 2024-02-29 | 2024-02-29 |
@@ -79,213 +79,240 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ## Timeline
 
-24 meetings surfaced a finding (24 dated, spanning 2022-10-13 to 2026-06-09; 0 of unknown date, listed last).
+27 meetings surfaced a finding (27 dated, spanning 2022-02-22 to 2026-06-09; 0 of unknown date, listed last).
+
+
+### 2022-02-22 -- Planning & Zoning Commission
+
+**Planning and Zoning - 2.22.2022** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=H9qf8e8ntik&t=2040s)  > ...no you had it you had you had to redo them but they they produced a ton of water yeah so you know that the drone was just tapping the river there were water tests...
+
+
+### 2022-07-05 -- Conservation Commission
+
+**Conservation Commission - 7.5.2022** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fl8I6JfNzL4&t=5137s)  > ...know it's interesting what about drones like what what's the policy that we have about drone use on some of these preserves is it is that something to to talk about...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fl8I6JfNzL4&t=5174s)  > ...fields you'd be self-limiting you you'd be running that drone into so many trees yeah is it is it difficult to pilot them i have no idea maybe i don't know i...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fl8I6JfNzL4&t=5209s)  > ...is not per is not permitted so what if someone just wants to go and and run their drone up and down and do stuff you know what i mean in the permitted...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fl8I6JfNzL4&t=5285s)  > ...i think the problem with any drone is it's going to have to be above the level of preserve because...
+
+
+### 2022-07-27 -- Economic Development Commission
+
+**Planning & Zoning/Economic Development - Moodus Center Planning Review Committee  - 7.27.2022** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5ydkWoxDTgw&t=1098s)  > ...a little bit i mean like it was before you got here we're talking about the deep river uh drone safety audit they just did um...
 
 
 ### 2022-10-13 -- Redevelopment Agency
 
 **Redevelopment Agency - 10.13.2022** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=Qf0TZWce7jk&t=549s)  > ...19 Maine has been the same ownership for 42 years and they're really issues with drone road but it's what is the intentions of that is that is that a back door for the developer is that...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qf0TZWce7jk&t=549s)  > ...19 Maine has been the same ownership for 42 years and they're really issues with drone road but it's what is the intentions of that is that is that a back door for the developer is that...
 
 
 ### 2022-10-25 -- Planning & Zoning Commission
 
 **Planning and Zoning - 10.25.2022** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=Xa4BW0lDISw&t=750s)  > ...topogy just for the septic is required Foundry film for reference map so it's a beast [Applause]...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xa4BW0lDISw&t=750s)  > ...topogy just for the septic is required Foundry film for reference map so it's a beast [Applause]...
 
 
 ### 2023-01-10 -- Planning & Zoning Commission
 
 **Planning and Zoning - 1.10.2023** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=bDmFdjzvRbU&t=1281s)  > ...initial letter no no I mean realistically Town Street you know when playing drone doesn't have any traffic list you know speeding and all that stuff because they're coming up to...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=bDmFdjzvRbU&t=1281s)  > ...initial letter no no I mean realistically Town Street you know when playing drone doesn't have any traffic list you know speeding and all that stuff because they're coming up to...
 
 
 ### 2023-03-11 -- Board of Assessment Appeals
 
 **Board of Assessment Appeals - Part 1 - 3.11.2023** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=AA0ppMdaok4&t=9879s)  > ...built a little angled wall here and and angle it at this point and put it along drone Road in an angled the boom road to the north this property is still down property there's nothing ever said this...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=AA0ppMdaok4&t=9879s)  > ...built a little angled wall here and and angle it at this point and put it along drone Road in an angled the boom road to the north this property is still down property there's nothing ever said this...
 
 
 ### 2023-07-20 -- Cemetery Committee
 
 **Cemetery Committee - 7.20.2023** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=IhrvF7LCxQI&t=1297s)  > ...I'm going to check with the like dot has some standards on launching and flying from I certainly doing a drone yeah so you'd probably get away with it but technically the dot has standards...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IhrvF7LCxQI&t=1297s)  > ...I'm going to check with the like dot has some standards on launching and flying from I certainly doing a drone yeah so you'd probably get away with it but technically the dot has standards...
 
-- `drone` [▸](https://www.youtube.com/watch?v=IhrvF7LCxQI&t=1313s)  > ...they if you need to file for permission okay I don't know offhand I can ask our drone Pilots but I'm not going to be in for the next one...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IhrvF7LCxQI&t=1313s)  > ...they if you need to file for permission okay I don't know offhand I can ask our drone Pilots but I'm not going to be in for the next one...
 
 
 ### 2023-10-03 -- Sustainability / Climate Resiliency
 
 **Sustainability Team - 10.3.2023** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=hDjLwysFur4&t=3366s)  > ...okay I put somebody else in charge there's like spreadsheets and aerial drone pictures and and all kinds of things that I am no longer involved in but...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=hDjLwysFur4&t=3366s)  > ...okay I put somebody else in charge there's like spreadsheets and aerial drone pictures and and all kinds of things that I am no longer involved in but...
 
 
 ### 2023-11-30 -- Public Information Meeting
 
 **Public Information Meeting - Open Space - 11.30.2023** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=WnjAvDso5MY&t=868s)  > ...as you can see with the yellow going around we also have had the idea that you can't just have everybody flock to one spot you need neighborhood things one of the studies shows that open space...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=WnjAvDso5MY&t=868s)  > ...as you can see with the yellow going around we also have had the idea that you can't just have everybody flock to one spot you need neighborhood things one of the studies shows that open space...
 
 
 ### 2024-01-16 -- Cemetery Committee
 
 **Cemetery Committee - 1.16.2024** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=1978s)  > ...they're just cremations and that wouldn't need a full survey but just the Drone things so we could so my question is if it's going to cost money to do that why would we do...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=1978s)  > ...they're just cremations and that wouldn't need a full survey but just the Drone things so we could so my question is if it's going to cost money to do that why would we do...
 
-- `drone` [▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2330s)  > ...it's really good for picking up headstones that type of stuff now we we drone all the time um and you can lay out markers and then do a flight and then...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2330s)  > ...it's really good for picking up headstones that type of stuff now we we drone all the time um and you can lay out markers and then do a flight and then...
 
-- `drone` [▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2474s)  > ...moved right so it's okay and you know we could go out and do a a visual survey or a much cheaper drone flight to locate all the um all the headstones I mean a drone flight's not that expensive and uh...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2474s)  > ...moved right so it's okay and you know we could go out and do a a visual survey or a much cheaper drone flight to locate all the um all the headstones I mean a drone flight's not that expensive and uh...
 
-- `drone` [▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2479s)  > ...a much cheaper drone flight to locate all the um all the headstones I mean a drone flight's not that expensive and uh they can even just give you a picture you can again you're spending money on...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2479s)  > ...a much cheaper drone flight to locate all the um all the headstones I mean a drone flight's not that expensive and uh they can even just give you a picture you can again you're spending money on...
 
 
 ### 2024-02-21 -- Board of Selectmen
 
 **Board of Selectmen Budget Workshop - Part 2 2.21.2024** _(topics: body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=f9DRpn3g2nA&t=6553s)  > ...it we'll make a note to I'll bring my body camera or your body cam should get accosted my badge oh don't forget the...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=f9DRpn3g2nA&t=6553s)  > ...it we'll make a note to I'll bring my body camera or your body cam should get accosted my badge oh don't forget the...
 
 
 ### 2024-02-29 -- Board of Selectmen
 
 **Board of Selectmen Budget Workshop 2.29.2024** _(topics: purchasing_broker)_
 
-- `purchasing_broker` [▸](https://www.youtube.com/watch?v=6S3njSU9iJQ&t=4789s)  > ...replace those with newer computers anyway so uh and then there's a change to cdwg uh C piece of software called Duo that's how uh the um administrators and uh people in the IT...
+- `purchasing_broker` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6S3njSU9iJQ&t=4789s)  > ...replace those with newer computers anyway so uh and then there's a change to cdwg uh C piece of software called Duo that's how uh the um administrators and uh people in the IT...
 
 
 ### 2024-04-02 -- Conservation Commission
 
 **Conservation Commission - 4.2.2024** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=UMWXXLFS-hk&t=6690s)  > ...animals there has to be more variation than we have so and I don't want to drone on about this but I mean the land trust right now for example has got an application in for a grant where in one...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UMWXXLFS-hk&t=6690s)  > ...animals there has to be more variation than we have so and I don't want to drone on about this but I mean the land trust right now for example has got an application in for a grant where in one...
 
 
 ### 2024-04-02 -- Moodus Firehouse Committee
 
 **Moodus Firehouse Renovation Committee - 4.2.2024** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=399s)  > ...even thinking like it would be nice if we could get dagel or somebody to do some drone shots of the property that we could sit it on to it for some of the renderings and show how it would lay out...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=399s)  > ...even thinking like it would be nice if we could get dagel or somebody to do some drone shots of the property that we could sit it on to it for some of the renderings and show how it would lay out...
 
-- `drone` [▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=437s)  > ...three-dimensionally already in our program so we are able to do that if you could provide us with some Drone footage that'd be great because then we can you could sort of superimpose to those...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=437s)  > ...three-dimensionally already in our program so we are able to do that if you could provide us with some Drone footage that'd be great because then we can you could sort of superimpose to those...
 
-- `drone` [▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=466s)  > ...resolution and stuff but if you do if that is something that you can do it just provided some drone shots that'd be awesome okay what was your question so all the...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=466s)  > ...resolution and stuff but if you do if that is something that you can do it just provided some drone shots that'd be awesome okay what was your question so all the...
 
-- `drone` [▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=1388s)  > ...outside envelope will look like a little bit even if it doesn't include the full drone but at least start getting conception some rendering of the exterior would be good so David what do...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=1388s)  > ...outside envelope will look like a little bit even if it doesn't include the full drone but at least start getting conception some rendering of the exterior would be good so David what do...
 
 
 ### 2024-05-23 -- Redevelopment Agency
 
 **Redevelopment Agency - 5.23.2024** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=TynbCsT-Ni8&t=8239s)  > ...right you might want to you I my flock you my flock might well yes but might want to raise the question more...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=TynbCsT-Ni8&t=8239s)  > ...right you might want to you I my flock you my flock might well yes but might want to raise the question more...
 
 
 ### 2024-06-20 -- Cemetery Committee
 
 **Cemetery Committee - 6.20.2024** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=_B9Ri63CrQY&t=245s)  > ...the company and um uh just last week they had a uh did a drone survey that took like 2 minutes and cost I think it's around...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_B9Ri63CrQY&t=245s)  > ...the company and um uh just last week they had a uh did a drone survey that took like 2 minutes and cost I think it's around...
 
 
 ### 2024-10-17 -- Cemetery Committee
 
 **Cemetery Committee - 10.17.2024** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=HzAPkLiuZUE&t=865s)  > ...if it's a topo survey where we located the headstones and such and that that a drone is perfect for plus it's the small Cemetery well I think the question is is which is our priority of which...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=HzAPkLiuZUE&t=865s)  > ...if it's a topo survey where we located the headstones and such and that that a drone is perfect for plus it's the small Cemetery well I think the question is is which is our priority of which...
 
-- `drone` [▸](https://www.youtube.com/watch?v=HzAPkLiuZUE&t=1049s)  > ...of the cemeteries we think have potential for expansion doing a drone flight to then locate headstones and and furor rard that's relatively easy and a cheap...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=HzAPkLiuZUE&t=1049s)  > ...of the cemeteries we think have potential for expansion doing a drone flight to then locate headstones and and furor rard that's relatively easy and a cheap...
 
-- `drone` [▸](https://www.youtube.com/watch?v=HzAPkLiuZUE&t=1258s)  > ...thought there was room for cremations around the outer edge yeah so that's more the drone flight and break up the Lots so that you know if we can't afford an A2 maybe that's one that we do that...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=HzAPkLiuZUE&t=1258s)  > ...thought there was room for cremations around the outer edge yeah so that's more the drone flight and break up the Lots so that you know if we can't afford an A2 maybe that's one that we do that...
 
 
 ### 2025-02-20 -- Economic Development Commission
 
 **Economic Development Commission - 2.20.2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=ipcL6KJ26Qc&t=68s)  > ...we're going do the best we can you know I I got a you know 400 excavator over there pick it right up and reach and we're I told him you know he can be there and tell us you know where the stuff is we flew a drone over it so get the steel I mean the steel is just 10 it's just rip the steel down you got to start...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ipcL6KJ26Qc&t=68s)  > ...we're going do the best we can you know I I got a you know 400 excavator over there pick it right up and reach and we're I told him you know he can be there and tell us you know where the stuff is we flew a drone over it so get the steel I mean the steel is just 10 it's just rip the steel down you got to start...
 
 
 ### 2025-02-24 -- Board of Selectmen
 
 **Board of Selectmen - Budget Workshop 2.24.2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=ouT2lNy7G3c&t=9295s)  > ...so um if the appraisal came in less we could have potentially leave funding for a drone survey at aley Cemetery which is another Cemetery where we believe around the edges um there would probably be...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ouT2lNy7G3c&t=9295s)  > ...so um if the appraisal came in less we could have potentially leave funding for a drone survey at aley Cemetery which is another Cemetery where we believe around the edges um there would probably be...
 
 
 ### 2025-06-19 -- Economic Development Commission
 
 **Economic Development Commission - 6.19.2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=rKYOr7ZkRE0&t=3667s)  > ...contractor asked me if they could have access to the airport because they wanted to fly a drone down the river because there was a question of addressing this the sighting the...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rKYOr7ZkRE0&t=3667s)  > ...contractor asked me if they could have access to the airport because they wanted to fly a drone down the river because there was a question of addressing this the sighting the...
 
-- `drone` [▸](https://www.youtube.com/watch?v=rKYOr7ZkRE0&t=3676s)  > ...addressing this the sighting the position and how it would look from a boat. So they had to fly a drone like it was a boat going down a river and they they put a balloon up so you could see...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rKYOr7ZkRE0&t=3676s)  > ...addressing this the sighting the position and how it would look from a boat. So they had to fly a drone like it was a boat going down a river and they they put a balloon up so you could see...
 
 
 ### 2025-08-14 -- Moodus Firehouse Committee
 
 **Moodus Firehouse Building Committee - 8.14.2025** _(topics: surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=OE367ncJpHw&t=3932s)  > ...>> Okay. >> Yeah. Sure. Sure thing. Sure. >> Right. Also CCTV do we consider that we consider lock controls, access ways? >> Yeah. So we have we have a budget number...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OE367ncJpHw&t=3932s)  > ...>> Okay. >> Yeah. Sure. Sure thing. Sure. >> Right. Also CCTV do we consider that we consider lock controls, access ways? >> Yeah. So we have we have a budget number...
 
 
 ### 2025-11-05 -- Public Information Meeting
 
 **Public Hearing - ATESD Part 1 - 11.5.2025** _(topics: alpr, surveillance_general)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4050s)  > ...to share this stuff, police agencies use it without a warrant. It links up to the flock cameras. >> That's right. >> Flock. [clears throat]...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4050s)  > ...to share this stuff, police agencies use it without a warrant. It links up to the flock cameras. >> That's right. >> Flock. [clears throat]...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4052s)  > ...flock cameras. >> That's right. >> Flock. [clears throat] >> Flock. They're actually mocking us by saying it. clock....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4052s)  > ...flock cameras. >> That's right. >> Flock. [clears throat] >> Flock. They're actually mocking us by saying it. clock....
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4053s)  > ...>> That's right. >> Flock. [clears throat] >> Flock. They're actually mocking us by saying it. clock. >> Okay, don't believe what he tells you....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4053s)  > ...>> That's right. >> Flock. [clears throat] >> Flock. They're actually mocking us by saying it. clock. >> Okay, don't believe what he tells you....
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4133s)  > ...pirate. Okay. She had to do her own [clears throat] gather her own surveillance camera footage off her vehicle in her house to present a case and to the chief of...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4133s)  > ...pirate. Okay. She had to do her own [clears throat] gather her own surveillance camera footage off her vehicle in her house to present a case and to the chief of...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5241s)  > ...>> His wife might be [laughter] >> I I heard actually heard this gentleman mentioned Flock. And are you affiliated with Flock? Not >> now. is your database shared....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5241s)  > ...>> His wife might be [laughter] >> I I heard actually heard this gentleman mentioned Flock. And are you affiliated with Flock? Not >> now. is your database shared....
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5244s)  > ...>> I I heard actually heard this gentleman mentioned Flock. And are you affiliated with Flock? Not >> now. is your database shared. >> We are not for the play....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5244s)  > ...>> I I heard actually heard this gentleman mentioned Flock. And are you affiliated with Flock? Not >> now. is your database shared. >> We are not for the play....
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5254s)  > ...>> So, so you could be sold or you could be bought. Let's say you could be bought by the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5254s)  > ...>> So, so you could be sold or you could be bought. Let's say you could be bought by the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5260s)  > ...the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I understand is there's over 4,800 law enforcement agencies who pay something...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5260s)  > ...the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I understand is there's over 4,800 law enforcement agencies who pay something...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5277s)  > ...database. So they they use it and then there's another 1,000 or more currently that pay into flock to access retail and insurance company uh related uh information from the database. So what's...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5277s)  > ...database. So they they use it and then there's another 1,000 or more currently that pay into flock to access retail and insurance company uh related uh information from the database. So what's...
 
 
 ### 2025-11-05 -- Public Information Meeting
 
 **Public Hearing - ATESD Part 2 - 11.5.2025** _(topics: facial_recognition)_
 
-- `facial_recognition` [▸](https://www.youtube.com/watch?v=Xn3syNVbMQs&t=4173s)  > ...that these cameras can only be used for speeding unless there is a court order to look for a criminal with face recognition. Seven, who will securely dispose of all the pictures once the...
+- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xn3syNVbMQs&t=4173s)  > ...that these cameras can only be used for speeding unless there is a court order to look for a criminal with face recognition. Seven, who will securely dispose of all the pictures once the...
 
 
 ### 2025-12-02 -- Board of Selectmen
 
 **Board of Selectmen - 12.2.2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=ax_Nj0RDb_Y&t=1050s)  > ...time as said in the paper it is time for the state to regulate the use and sharing of automated license plate reader data through legislation. They want the ordinance to be better worded...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ax_Nj0RDb_Y&t=1050s)  > ...time as said in the paper it is time for the state to regulate the use and sharing of automated license plate reader data through legislation. They want the ordinance to be better worded...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=ax_Nj0RDb_Y&t=4534s)  > ...back to the cameras, the speed cameras or whatever, license plate readers. This is not a license plate reader, but years ago, uh, we had suggested that when they redid the bridge work, that a,...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ax_Nj0RDb_Y&t=4534s)  > ...back to the cameras, the speed cameras or whatever, license plate readers. This is not a license plate reader, but years ago, uh, we had suggested that when they redid the bridge work, that a,...
 
 
 ### 2025-12-08 -- Board of Finance
 
 **Board of Finance - 12.8.2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=Bs2XttcdwHQ&t=4651s)  > ...and um and also another item that the LPR system doesn't address the operator. That's why it's called a license plate reader. You're you cite an infraction against the vehicle, not the operator....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Bs2XttcdwHQ&t=4651s)  > ...and um and also another item that the LPR system doesn't address the operator. That's why it's called a license plate reader. You're you cite an infraction against the vehicle, not the operator....
 
 
 ### 2026-06-09 -- Planning & Zoning Commission
 
 **Planning & Zoning Commission - 6.9.2026** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=EGbjAGz-Bk0&t=2863s)  > ...>> Damn right. Damn right. >> You getting a drone approval for your office? >> I don't need it. I got Google Earth. It...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=EGbjAGz-Bk0&t=2863s)  > ...>> Damn right. Damn right. >> You getting a drone approval for your office? >> I don't need it. I got Google Earth. It...
 
 
 ## Findings by topic
@@ -311,20 +338,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ax_Nj0RDb_Y&t=1050s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
-  > ...>> So, so you could be sold or you could be bought. Let's say you could be bought by the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5254s)  _(term: alpr_flock, unreviewed)_
+  > ...to share this stuff, police agencies use it without a warrant. It links up to the flock cameras. >> That's right. >> Flock. [clears throat]...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4050s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
   > ...flock cameras. >> That's right. >> Flock. [clears throat] >> Flock. They're actually mocking us by saying it. clock....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4052s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
-  > ...the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I understand is there's over 4,800 law enforcement agencies who pay something...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5260s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
-  > ...to share this stuff, police agencies use it without a warrant. It links up to the flock cameras. >> That's right. >> Flock. [clears throat]...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4050s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
   > ...>> That's right. >> Flock. [clears throat] >> Flock. They're actually mocking us by saying it. clock. >> Okay, don't believe what he tells you....
@@ -335,12 +354,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5241s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
+  > ...>> I I heard actually heard this gentleman mentioned Flock. And are you affiliated with Flock? Not >> now. is your database shared. >> We are not for the play....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5244s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
+  > ...>> So, so you could be sold or you could be bought. Let's say you could be bought by the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5254s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
   > ...database. So they they use it and then there's another 1,000 or more currently that pay into flock to access retail and insurance company uh related uh information from the database. So what's...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5277s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
-  > ...>> I I heard actually heard this gentleman mentioned Flock. And are you affiliated with Flock? Not >> now. is your database shared. >> We are not for the play....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5244s)  _(term: alpr_flock, unreviewed)_
+  > ...the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I understand is there's over 4,800 law enforcement agencies who pay something...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5260s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-05-23] Redevelopment Agency** -- Redevelopment Agency - 5.23.2024
   > ...right you might want to you I my flock you my flock might well yes but might want to raise the question more...
@@ -390,12 +417,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=EGbjAGz-Bk0&t=2863s)  _(term: drone, unreviewed)_
 
 - **[2025-06-19] Economic Development Commission** -- Economic Development Commission - 6.19.2025
-  > ...contractor asked me if they could have access to the airport because they wanted to fly a drone down the river because there was a question of addressing this the sighting the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rKYOr7ZkRE0&t=3667s)  _(term: drone, unreviewed)_
-
-- **[2025-06-19] Economic Development Commission** -- Economic Development Commission - 6.19.2025
   > ...addressing this the sighting the position and how it would look from a boat. So they had to fly a drone like it was a boat going down a river and they they put a balloon up so you could see...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rKYOr7ZkRE0&t=3676s)  _(term: drone, unreviewed)_
+
+- **[2025-06-19] Economic Development Commission** -- Economic Development Commission - 6.19.2025
+  > ...contractor asked me if they could have access to the airport because they wanted to fly a drone down the river because there was a question of addressing this the sighting the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rKYOr7ZkRE0&t=3667s)  _(term: drone, unreviewed)_
 
 - **[2025-02-24] Board of Selectmen** -- Board of Selectmen - Budget Workshop 2.24.2025
   > ...so um if the appraisal came in less we could have potentially leave funding for a drone survey at aley Cemetery which is another Cemetery where we believe around the edges um there would probably be...
@@ -406,10 +433,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ipcL6KJ26Qc&t=68s)  _(term: drone, unreviewed)_
 
 - **[2024-10-17] Cemetery Committee** -- Cemetery Committee - 10.17.2024
-  > ...thought there was room for cremations around the outer edge yeah so that's more the drone flight and break up the Lots so that you know if we can't afford an A2 maybe that's one that we do that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=HzAPkLiuZUE&t=1258s)  _(term: drone, unreviewed)_
-
-- **[2024-10-17] Cemetery Committee** -- Cemetery Committee - 10.17.2024
   > ...if it's a topo survey where we located the headstones and such and that that a drone is perfect for plus it's the small Cemetery well I think the question is is which is our priority of which...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=HzAPkLiuZUE&t=865s)  _(term: drone, unreviewed)_
 
@@ -417,21 +440,21 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...of the cemeteries we think have potential for expansion doing a drone flight to then locate headstones and and furor rard that's relatively easy and a cheap...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=HzAPkLiuZUE&t=1049s)  _(term: drone, unreviewed)_
 
+- **[2024-10-17] Cemetery Committee** -- Cemetery Committee - 10.17.2024
+  > ...thought there was room for cremations around the outer edge yeah so that's more the drone flight and break up the Lots so that you know if we can't afford an A2 maybe that's one that we do that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=HzAPkLiuZUE&t=1258s)  _(term: drone, unreviewed)_
+
 - **[2024-06-20] Cemetery Committee** -- Cemetery Committee - 6.20.2024
   > ...the company and um uh just last week they had a uh did a drone survey that took like 2 minutes and cost I think it's around...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_B9Ri63CrQY&t=245s)  _(term: drone, unreviewed)_
-
-- **[2024-04-02] Moodus Firehouse Committee** -- Moodus Firehouse Renovation Committee - 4.2.2024
-  > ...resolution and stuff but if you do if that is something that you can do it just provided some drone shots that'd be awesome okay what was your question so all the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=466s)  _(term: drone, unreviewed)_
 
 - **[2024-04-02] Moodus Firehouse Committee** -- Moodus Firehouse Renovation Committee - 4.2.2024
   > ...three-dimensionally already in our program so we are able to do that if you could provide us with some Drone footage that'd be great because then we can you could sort of superimpose to those...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=437s)  _(term: drone, unreviewed)_
 
 - **[2024-04-02] Moodus Firehouse Committee** -- Moodus Firehouse Renovation Committee - 4.2.2024
-  > ...outside envelope will look like a little bit even if it doesn't include the full drone but at least start getting conception some rendering of the exterior would be good so David what do...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=1388s)  _(term: drone, unreviewed)_
+  > ...resolution and stuff but if you do if that is something that you can do it just provided some drone shots that'd be awesome okay what was your question so all the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=466s)  _(term: drone, unreviewed)_
 
 - **[2024-04-02] Moodus Firehouse Committee** -- Moodus Firehouse Renovation Committee - 4.2.2024
   > ...even thinking like it would be nice if we could get dagel or somebody to do some drone shots of the property that we could sit it on to it for some of the renderings and show how it would lay out...
@@ -441,21 +464,25 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...animals there has to be more variation than we have so and I don't want to drone on about this but I mean the land trust right now for example has got an application in for a grant where in one...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UMWXXLFS-hk&t=6690s)  _(term: drone, unreviewed)_
 
+- **[2024-04-02] Moodus Firehouse Committee** -- Moodus Firehouse Renovation Committee - 4.2.2024
+  > ...outside envelope will look like a little bit even if it doesn't include the full drone but at least start getting conception some rendering of the exterior would be good so David what do...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=1388s)  _(term: drone, unreviewed)_
+
+- **[2024-01-16] Cemetery Committee** -- Cemetery Committee - 1.16.2024
+  > ...they're just cremations and that wouldn't need a full survey but just the Drone things so we could so my question is if it's going to cost money to do that why would we do...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=1978s)  _(term: drone, unreviewed)_
+
 - **[2024-01-16] Cemetery Committee** -- Cemetery Committee - 1.16.2024
   > ...moved right so it's okay and you know we could go out and do a a visual survey or a much cheaper drone flight to locate all the um all the headstones I mean a drone flight's not that expensive and uh...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2474s)  _(term: drone, unreviewed)_
-
-- **[2024-01-16] Cemetery Committee** -- Cemetery Committee - 1.16.2024
-  > ...a much cheaper drone flight to locate all the um all the headstones I mean a drone flight's not that expensive and uh they can even just give you a picture you can again you're spending money on...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2479s)  _(term: drone, unreviewed)_
 
 - **[2024-01-16] Cemetery Committee** -- Cemetery Committee - 1.16.2024
   > ...it's really good for picking up headstones that type of stuff now we we drone all the time um and you can lay out markers and then do a flight and then...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2330s)  _(term: drone, unreviewed)_
 
 - **[2024-01-16] Cemetery Committee** -- Cemetery Committee - 1.16.2024
-  > ...they're just cremations and that wouldn't need a full survey but just the Drone things so we could so my question is if it's going to cost money to do that why would we do...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=1978s)  _(term: drone, unreviewed)_
+  > ...a much cheaper drone flight to locate all the um all the headstones I mean a drone flight's not that expensive and uh they can even just give you a picture you can again you're spending money on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2479s)  _(term: drone, unreviewed)_
 
 - **[2023-10-03] Sustainability / Climate Resiliency** -- Sustainability Team - 10.3.2023
   > ...okay I put somebody else in charge there's like spreadsheets and aerial drone pictures and and all kinds of things that I am no longer involved in but...
@@ -480,6 +507,30 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2022-10-13] Redevelopment Agency** -- Redevelopment Agency - 10.13.2022
   > ...19 Maine has been the same ownership for 42 years and they're really issues with drone road but it's what is the intentions of that is that is that a back door for the developer is that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qf0TZWce7jk&t=549s)  _(term: drone, unreviewed)_
+
+- **[2022-07-27] Economic Development Commission** -- Planning & Zoning/Economic Development - Moodus Center Planning Review Committee  - 7.27.2022
+  > ...a little bit i mean like it was before you got here we're talking about the deep river uh drone safety audit they just did um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5ydkWoxDTgw&t=1098s)  _(term: drone, unreviewed)_
+
+- **[2022-07-05] Conservation Commission** -- Conservation Commission - 7.5.2022
+  > ...fields you'd be self-limiting you you'd be running that drone into so many trees yeah is it is it difficult to pilot them i have no idea maybe i don't know i...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fl8I6JfNzL4&t=5174s)  _(term: drone, unreviewed)_
+
+- **[2022-07-05] Conservation Commission** -- Conservation Commission - 7.5.2022
+  > ...know it's interesting what about drones like what what's the policy that we have about drone use on some of these preserves is it is that something to to talk about...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fl8I6JfNzL4&t=5137s)  _(term: drone, unreviewed)_
+
+- **[2022-07-05] Conservation Commission** -- Conservation Commission - 7.5.2022
+  > ...is not per is not permitted so what if someone just wants to go and and run their drone up and down and do stuff you know what i mean in the permitted...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fl8I6JfNzL4&t=5209s)  _(term: drone, unreviewed)_
+
+- **[2022-07-05] Conservation Commission** -- Conservation Commission - 7.5.2022
+  > ...i think the problem with any drone is it's going to have to be above the level of preserve because...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fl8I6JfNzL4&t=5285s)  _(term: drone, unreviewed)_
+
+- **[2022-02-22] Planning & Zoning Commission** -- Planning and Zoning - 2.22.2022
+  > ...no you had it you had you had to redo them but they they produced a ton of water yeah so you know that the drone was just tapping the river there were water tests...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=H9qf8e8ntik&t=2040s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -667,8 +718,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 34
-- Videos registered: 1635 (fetched: 951, no captions: 19)
-- Date range covered: 2018-03-20 to 2026-09-01 (all 1635 videos dated)
+- Videos registered: 1642 (fetched: 1322, no captions: 20)
+- Date range covered: 2018-03-20 to 2026-09-08 (all 1642 videos dated)
 
 
 ### Channels
@@ -682,8 +733,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| east_haddam_ct | streams | 2026-08-31 14:11:26.143649 | 1408 |
-| east_haddam_ct | videos | 2026-08-31 14:11:29.343439 | 227 |
+| east_haddam_ct | streams | 2026-09-07 16:46:39.410800 | 1413 |
+| east_haddam_ct | videos | 2026-09-07 16:46:20.834442 | 227 |
 
 
 ## Registered meeting bodies
@@ -697,10 +748,10 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Board of Education | education | True | 1 |
 | Agriculture Commission | other | True | 25 |
 | Board of Assessment Appeals | other | True | 7 |
-| Board of Selectmen | other | True | 266 |
+| Board of Selectmen | other | True | 269 |
 | Broadband Committee | other | True | 56 |
 | Cemetery Committee | other | True | 41 |
-| Conservation Commission | other | True | 87 |
+| Conservation Commission | other | True | 88 |
 | East Haddam Village Revitalization Committee | other | True | 18 |
 | Economic Development Commission | other | True | 75 |
 | Ethics Commission | other | True | 23 |
@@ -710,13 +761,13 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Inland Wetlands and Watercourses Commission | other | True | 82 |
 | Library Committees | other | True | 93 |
 | Open Space Committee | other | True | 29 |
-| Planning & Zoning Commission | other | True | 143 |
+| Planning & Zoning Commission | other | True | 144 |
 | Public Information Meeting | other | True | 52 |
 | Recreation Commission | other | True | 32 |
 | Redevelopment Agency | other | True | 59 |
-| Sustainability / Climate Resiliency | other | True | 43 |
+| Sustainability / Climate Resiliency | other | True | 44 |
 | Swing Bridge Project | other | True | 1 |
-| Town Meeting | other | True | 31 |
+| Town Meeting | other | True | 32 |
 | Tri-Board Meeting | other | True | 3 |
 | USA 250 Celebration Committee | other | True | 14 |
 | Water Pollution Control Authority | other | True | 29 |
@@ -754,7 +805,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (19 shown, max 25)
+### Videos with no captions available (20 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
@@ -773,10 +824,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Board of Selectman 10.22.2024 | 2024-10-22 |
 | Broadband Implementation Committee - 9.22.2023 | 2023-09-22 |
 | Budget Town Meeting -  8.29.2023 | 2023-08-29 |
-| Board of Selectman 8.16.2023 | 2023-08-16 |
 | Board of Finance -  8.16.2023 | 2023-08-16 |
 | Budget Public Hearing -  8.16.2023 | 2023-08-16 |
+| Board of Selectman 8.16.2023 | 2023-08-16 |
 | Redevelopment Agency - 12.8.2022 | 2022-12-08 |
+| Inland Wetlands - 8.16.2022 | 2022-08-16 |
 
 
 ### Tabs never crawled
@@ -787,5 +839,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:37:12 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "East Haddam"`_
+_Generated 2026-09-07T17:30:23 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "East Haddam"`_
 

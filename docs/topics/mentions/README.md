@@ -1,6 +1,6 @@
 # Surveillance topics: all towns, by technology
 
-_Generated 2026-08-31T14:55:49._
+_Generated 2026-09-07T17:43:40._
 
 
 Each file gathers every Connecticut town's mentions of one technology into a single document, with a timestamped link to the exact second of the meeting video for each. The [cross-town matrix](../../cross-town-matrix.md) is the count-only overview of the same data; the per-town reports under [`docs/towns/`](../../towns/) are the complete record for any one town.
@@ -18,18 +18,19 @@ _These files are generated automatically. No human review has been applied to an
 
 | Topic | Mentions | Towns |
 | --- | --- | --- |
-| [Drones](drone.md) | 1,972 | 81 |
-| [ALPR / Flock](alpr.md) | 1,794 | 73 |
-| [Body cameras](body_camera.md) | 338 | 46 |
-| [General surveillance](surveillance_general.md) | 287 | 44 |
-| [Facial recognition](facial_recognition.md) | 139 | 25 |
-| [Predictive policing](predictive_policing.md) | 103 | 31 |
-| [Gunshot detection](gunshot_detection.md) | 69 | 3 |
-| [Real-time crime centres](rtcc.md) | 57 | 6 |
-| [Doorbell-camera partnerships](doorbell_partnership.md) | 26 | 14 |
-| [Purchasing / procurement](purchasing_broker.md) | 25 | 6 |
+| [Drones](drone.md) | 2,263 | 84 |
+| [ALPR / Flock](alpr.md) | 1,883 | 75 |
+| [Body cameras](body_camera.md) | 420 | 50 |
+| [General surveillance](surveillance_general.md) | 345 | 46 |
+| [Facial recognition](facial_recognition.md) | 149 | 28 |
+| [Predictive policing](predictive_policing.md) | 114 | 34 |
+| [Gunshot detection](gunshot_detection.md) | 76 | 3 |
+| [Real-time crime centres](rtcc.md) | 58 | 7 |
+| [Doorbell-camera partnerships](doorbell_partnership.md) | 28 | 15 |
+| [Purchasing / procurement](purchasing_broker.md) | 27 | 6 |
 | [Other biometrics](biometrics_other.md) | 9 | 6 |
-| [Cell-site simulators](cell_site_sim.md) | 4 | 4 |
+| [Data brokers](data_broker.md) | 8 | 1 |
+| [Cell-site simulators](cell_site_sim.md) | 7 | 5 |
 | [Computer-aided dispatch](cad.md) | 2 | 1 |
 | [Mobile forensics](mobile_forensics.md) | 2 | 1 |
 | [OSINT / social-media monitoring](osint_social_monitor.md) | 2 | 2 |

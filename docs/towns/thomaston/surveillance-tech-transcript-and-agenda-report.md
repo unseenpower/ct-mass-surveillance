@@ -9,7 +9,7 @@ This report collects every mention of surveillance technology found in **Thomast
 **No surveillance-technology mentions have been found in this town's meetings yet.** That is not the same as none existing -- read the coverage note below, and [Gaps and caveats](#gaps-and-caveats), before treating this as an answer about the town.
 
 
-- **Coverage:** 30 of 95 known Thomaston meetings transcribed (32%)
+- **Coverage:** 31 of 97 known Thomaston meetings transcribed (32%)
 - **Not the full history:** transcripts begin **2020-05-27**, but Thomaston's published video archive goes back to **2016-02-17**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -290,8 +290,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 8
-- Videos registered: 95 (fetched: 30, no captions: 0)
-- Date range covered: 2016-02-17 to 2026-08-18 (all 95 videos dated)
+- Videos registered: 97 (fetched: 31, no captions: 1)
+- Date range covered: 2016-02-17 to 2026-09-01 (all 97 videos dated)
 
 
 ### Channels
@@ -305,8 +305,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| thomaston_ct | streams | 2026-08-31 14:17:00.638875 | 72 |
-| thomaston_ct | videos | 2026-08-31 14:17:01.723210 | 31 |
+| thomaston_ct | streams | 2026-09-07 16:35:13.224563 | 72 |
+| thomaston_ct | videos | 2026-09-07 16:35:11.706710 | 33 |
 
 
 ## Registered meeting bodies
@@ -314,11 +314,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 12 |
-| Board of Selectmen | council | True | 18 |
+| Board of Selectmen | council | True | 19 |
 | Board of Education | education | True | 15 |
 | Economic Development Commission | other | True | 10 |
 | Inland Wetlands & Watercourses Commission | other | True | 5 |
-| Planning & Zoning Commission | other | True | 24 |
+| Planning & Zoning Commission | other | True | 25 |
 | Water Pollution Control Authority | other | True | 8 |
 | Zoning Board of Appeals | other | True | 3 |
 
@@ -351,9 +351,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (0 shown, max 25)
+### Videos with no captions available (1 shown, max 25)
 
-*(none)*
+| title | upload_date |
+| --- | --- |
+| Thomaston Planning and Zoning Commission Meeting Recording August 5th, 2026 | 2026-08-05 |
 
 
 ### Tabs never crawled
@@ -364,5 +366,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:44:25 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Thomaston"`_
+_Generated 2026-09-07T17:40:51 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Thomaston"`_
 

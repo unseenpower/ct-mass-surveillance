@@ -8,8 +8,8 @@ This report collects every mention of surveillance technology found in **New Fai
 - **1 mention** across **1 meeting**
 - **First mention:** 2024-06-26  |  **Most recent:** 2024-06-26
 - **Technologies discussed:** drone
-- **Coverage:** 145 of 191 known New Fairfield meetings transcribed (76%)
-- **Still incomplete:** 46 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 145 of 192 known New Fairfield meetings transcribed (76%)
+- **Still incomplete:** 47 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -80,7 +80,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Margeriwe Trail Meeting 25 June 2024** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=JouIwi7UQCc&t=8244s)  > ...and Sal B construction and I was kept a prized there were photos there were drone videos there were it was um and then we've got a project that's 10 miles from our office that is going sideways...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JouIwi7UQCc&t=8244s)  > ...and Sal B construction and I was kept a prized there were photos there were drone videos there were it was um and then we've got a project that's 10 miles from our office that is going sideways...
 
 
 ## Findings by topic
@@ -306,8 +306,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 11
-- Videos registered: 191 (fetched: 145, no captions: 32)
-- Date range covered: 2022-06-02 to 2026-08-06 (all 191 videos dated)
+- Videos registered: 192 (fetched: 145, no captions: 33)
+- Date range covered: 2022-06-02 to 2026-09-02 (all 192 videos dated)
 
 
 ### Channels
@@ -321,7 +321,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| nf_tv | streams | 2026-08-31 13:41:23.189522 | 196 |
+| nf_tv | streams | 2026-09-07 16:28:48.090989 | 197 |
 
 
 ## Registered meeting bodies
@@ -338,7 +338,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Planning Commission | other | True | 15 |
 | Town Meeting | other | True | 20 |
 | Zoning Board of Appeals | other | True | 2 |
-| Zoning Commission | other | True | 5 |
+| Zoning Commission | other | True | 6 |
 
 
 ## Agenda/minutes coverage
@@ -375,6 +375,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | title | upload_date |
 | --- | --- |
+| Zoning Commission 2 September 2026 | 2026-09-02 |
 | Planning Commission 18 May 2026 | 2026-05-19 |
 | Town Meeting 9 April 2026 | 2026-04-10 |
 | Special Board of Selectmen 7 July 2025 | 2025-07-08 |
@@ -399,7 +400,6 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Board of Education 18 January 2024 | 2024-01-19 |
 | Board of Education 7 December 2023 | 2023-12-08 |
 | Board of Education 5 October 2023 | 2023-10-06 |
-| Town Meeting 22 June 2023 | 2023-06-23 |
 
 
 ### Tabs never crawled
@@ -412,5 +412,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:41:06 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Fairfield"`_
+_Generated 2026-09-07T17:36:19 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Fairfield"`_
 

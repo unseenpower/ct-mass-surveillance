@@ -84,58 +84,58 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Town of Cromwell Planning and Zoning Meeting 3-18-2025** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=_MYXrLBhMoY&t=4812s)  > ...believe in the late 18 or yeah late 1800s early 1900s it was originally a Foundry um and it has always had a water issue I I I guess...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_MYXrLBhMoY&t=4812s)  > ...believe in the late 18 or yeah late 1800s early 1900s it was originally a Foundry um and it has always had a water issue I I I guess...
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=_MYXrLBhMoY&t=5095s)  > ...the The Vault system that there's some remnants of it existing from I guess when The Foundry had it um there's there's some concrete work that has to be done um some studs going into some of...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_MYXrLBhMoY&t=5095s)  > ...the The Vault system that there's some remnants of it existing from I guess when The Foundry had it um there's there's some concrete work that has to be done um some studs going into some of...
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=_MYXrLBhMoY&t=5105s)  > ...the walls because there's more doors there than there were when it was a Foundry so these uh temp these uh I'll call them slots where you would slide in a a piece of Steel uh which so you have...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_MYXrLBhMoY&t=5105s)  > ...the walls because there's more doors there than there were when it was a Foundry so these uh temp these uh I'll call them slots where you would slide in a a piece of Steel uh which so you have...
 
 
 ### 2025-06-26 -- Board of Finance
 
 **Town of Cromwell Board of Finance Meeting 6-26-2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=t4s_ZnxG31w&t=4535s)  > ...meeting, I will email around the latest uh packet. There's loaded with with pictures uh you know, aerial drone photos of the building, you know, which at this point is um...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=t4s_ZnxG31w&t=4535s)  > ...meeting, I will email around the latest uh packet. There's loaded with with pictures uh you know, aerial drone photos of the building, you know, which at this point is um...
 
 
 ### 2025-08-13 -- Town Council
 
 **Town Of Cromwell Town Council 8-13-2025 Regular Meeting** _(topics: body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=3Mkexy151jQ&t=4875s)  > ...>> If I stood here and told you how much time we spend just on FOI request for body cam video, >> you know, that that alone could take almost a full-time person. If this we...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3Mkexy151jQ&t=4875s)  > ...>> If I stood here and told you how much time we spend just on FOI request for body cam video, >> you know, that that alone could take almost a full-time person. If this we...
 
 
 ### 2026-03-05 -- Town Council
 
 **Town of Cromwell Town Council Special Meeting Budget Workshop 3-05-2026** _(topics: surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=Itl2gX21H50&t=7755s)  > ...>> I'll request that the IT manager also attend the board of finance meeting. >> Um next is the CT renewal CT CCTV renewals for the three schools phase one. Uh any discussion on this one or...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Itl2gX21H50&t=7755s)  > ...>> I'll request that the IT manager also attend the board of finance meeting. >> Um next is the CT renewal CT CCTV renewals for the three schools phase one. Uh any discussion on this one or...
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=Itl2gX21H50&t=8658s)  > ...the IAQ, we did the replace the water heater, we agreed to 50,000 for the upgrade of telephones. We think the CCTV renewals are necessary, although we have significant questions about the cost...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Itl2gX21H50&t=8658s)  > ...the IAQ, we did the replace the water heater, we agreed to 50,000 for the upgrade of telephones. We think the CCTV renewals are necessary, although we have significant questions about the cost...
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=Itl2gX21H50&t=8864s)  > ...>> Some of these are in phases as well. Yeah, I'm really I mean I know Tony you're recommending the re CT C CCTV renewals as well. That makes me really uncomfortable though. I mean not not the...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Itl2gX21H50&t=8864s)  > ...>> Some of these are in phases as well. Yeah, I'm really I mean I know Tony you're recommending the re CT C CCTV renewals as well. That makes me really uncomfortable though. I mean not not the...
 
 
 ### 2026-04-02 -- Board of Finance
 
 **Town of Cromwell Board of Finance Special Meeting 4-2-2026** _(topics: drone, surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=1971s)  > ...carries. All right. Can I have a motion then uh for uh to put on a future list for an appropriation uh the CCTV renewal at uh ECS phase one in the amount of $62,100....
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=1971s)  > ...carries. All right. Can I have a motion then uh for uh to put on a future list for an appropriation uh the CCTV renewal at uh ECS phase one in the amount of $62,100....
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=2482s)  > ...on a list for a future appropriation uh in the amount of $51,750 for CCTV renewal at the at Crumbl High School? So moved. >> Second....
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=2482s)  > ...on a list for a future appropriation uh in the amount of $51,750 for CCTV renewal at the at Crumbl High School? So moved. >> Second....
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=2504s)  > ...a list for a future appropriation in the amount of $41,400 uh for the CCTV renewal at Woodside Intermediate School. >> So move second....
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=2504s)  > ...a list for a future appropriation in the amount of $41,400 uh for the CCTV renewal at Woodside Intermediate School. >> So move second....
 
-- `drone` [▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=9447s)  > ...other kinds of things and it kind of ranged from like 7,000 to like 20,000. Uh we're also looking at a drone show which we just got some quotes this week. So we're trying to absorb that and...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=9447s)  > ...other kinds of things and it kind of ranged from like 7,000 to like 20,000. Uh we're also looking at a drone show which we just got some quotes this week. So we're trying to absorb that and...
 
-- `drone` [▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=9453s)  > ...So we're trying to absorb that and figure out what that is. But anything even the drone show it'll depend on how many drones you have, how long it is, so on and so forth. So we just don't have...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=-aZ9tNEUegM&t=9453s)  > ...So we're trying to absorb that and figure out what that is. But anything even the drone show it'll depend on how many drones you have, how long it is, so on and so forth. So we just don't have...
 
 
 ### 2026-08-12 -- Town Council
 
 **Town of Cromwell Town Council Regular Meeting 08-12-2026** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=1-E3VFG4210&t=6255s)  > ...about all the cameras that are being installed in town. >> The flock cameras. >> Yeah. You know, people are in an uproar. >> We don't have any in town....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=1-E3VFG4210&t=6255s)  > ...about all the cameras that are being installed in town. >> The flock cameras. >> Yeah. You know, people are in an uproar. >> We don't have any in town....
 
 
 ## Findings by topic
@@ -431,8 +431,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| cromwell_ct | streams | 2026-08-31 13:36:23.103778 | 20 |
-| cromwell_ct | videos | 2026-08-31 13:36:24.731073 | 86 |
+| cromwell_ct | streams | 2026-09-07 16:22:16.776974 | 20 |
+| cromwell_ct | videos | 2026-09-07 16:22:15.824369 | 86 |
 
 
 ## Registered meeting bodies
@@ -450,7 +450,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 155 (fetched: 25)
+- Documents registered: 156 (fetched: 25)
 - Date range covered: 2026-01-06 to 2026-09-09
 
 
@@ -488,5 +488,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:36:39 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Cromwell"`_
+_Generated 2026-09-07T17:29:30 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Cromwell"`_
 

@@ -8,8 +8,8 @@ This report collects every mention of surveillance technology found in **Coventr
 - **2 mentions** across **2 meetings**
 - **First mention:** 2020-03-05  |  **Most recent:** 2024-03-18
 - **Technologies discussed:** drone
-- **Coverage:** 32 of 124 known Coventry meetings transcribed (26%)
-- **Still incomplete:** 92 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 32 of 585 known Coventry meetings transcribed (5%)
+- **Still incomplete:** 553 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 - **2 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
@@ -81,14 +81,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Coventry CT Town Council Meetings** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=FuJSAf_xRtE&t=3342s)  > ...asked Lord just to throw some of the pictures that we got because it's just a really nice drone footage and you're going to see things that we don't see from the ground when we think about the...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FuJSAf_xRtE&t=3342s)  > ...asked Lord just to throw some of the pictures that we got because it's just a really nice drone footage and you're going to see things that we don't see from the ground when we think about the...
 
 
 ### 2024-03-18 -- Town Council
 
 **Town Council Meeting - March 18, 2024** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=Qyj8jgCBDik&t=7269s)  > ...being resurfaced and a growing popular sport um this is a great shot I'm not sure if anyone seen this this is a drone shot of Creer Park and um this is two years ago it's...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qyj8jgCBDik&t=7269s)  > ...being resurfaced and a growing popular sport um this is a great shot I'm not sure if anyone seen this this is a drone shot of Creer Park and um this is two years ago it's...
 
 
 ## Findings by topic
@@ -349,10 +349,10 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 ## Coverage status
 
-- Channels registered: 1
-- Active meeting bodies: 12
-- Videos registered: 124 (fetched: 32, no captions: 22)
-- Date range covered: 2020-03-05 to 2025-10-20 (all 124 videos dated)
+- Channels registered: 2
+- Active meeting bodies: 14
+- Videos registered: 585 (fetched: 32, no captions: 22)
+- Date range covered: 2020-03-05 to 2026-08-27 (all 585 videos dated)
 
 
 ### Channels
@@ -360,42 +360,46 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | display_name | channel_id | handle |
 | --- | --- | --- |
 | Coventry Vision | coventry_ct | @coventryvision2543 |
+| Coventry CT — Government and Educational Programming (Viebit) | coventryct_viebit |  |
 
 
 ### Tab crawl history
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| coventry_ct | streams | 2026-08-31 13:48:01.834790 | 176 |
-| coventry_ct | videos | 2026-08-31 13:47:58.868705 | 5 |
+| coventry_ct | streams | 2026-09-07 16:40:11.460976 | 176 |
+| coventry_ct | videos | 2026-09-07 16:40:08.788496 | 5 |
+| coventryct_viebit | viebit_vod | 2026-09-04 12:10:27.290440 | 461 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
+| Board of Education | education | True | 101 |
 | Board of Assessment Appeals | other | True | 0 |
-| Charter Revision Commission | other | True | 0 |
+| Boards and Commissions | other | True | 50 |
+| Charter Revision Commission | other | True | 1 |
 | Conservation Commission | other | True | 0 |
 | Economic Development Commission | other | True | 1 |
 | Housing Authority | other | True | 0 |
-| Inland Wetlands Agency | other | True | 0 |
+| Inland Wetlands Agency | other | True | 32 |
 | Parks & Recreation Commission | other | True | 0 |
-| Planning & Zoning Commission | other | True | 0 |
-| Town Council | other | True | 121 |
+| Planning & Zoning Commission | other | True | 2 |
+| Town Council | other | True | 396 |
 | Town Meeting | other | True | 2 |
 | Water Pollution Control Authority | other | True | 0 |
 | Zoning Board of Appeals | other | True | 0 |
 
 
-**Zero videos registered for:** Board of Assessment Appeals, Charter Revision Commission, Conservation Commission, Housing Authority, Inland Wetlands Agency, Parks & Recreation Commission, Planning & Zoning Commission, Water Pollution Control Authority, Zoning Board of Appeals
+**Zero videos registered for:** Board of Assessment Appeals, Conservation Commission, Housing Authority, Parks & Recreation Commission, Water Pollution Control Authority, Zoning Board of Appeals
 
 
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 292 (fetched: 228)
-- Date range covered: 2026-01-05 to 2026-09-09
+- Documents registered: 315 (fetched: 230)
+- Date range covered: 2022-01-03 to 2026-09-09
 
 
 ### Agenda sources
@@ -411,8 +415,13 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | --- | --- | --- | --- | --- |
 | 2026-08-27 12:57:34.908155 | agenda_platform_confirmed | coventry-ct.gov/agendacenter confirmed CivicPlus AgendaCenter; its category list gave a full real roster of 38 boards/commissions/ad-hoc committees, only the most relevant standing bodies registered here. | WebFetch of coventry-ct.gov and /agendacenter, 2026-08-27 | claude |
 | 2026-08-27 12:57:34.908155 | channel_found | coventry_ct (Coventry Vision, @coventryvision2543) -- confirmed via yt-dlp ytsearch10 (WebSearch budget exhausted this session) then direct probe. | yt-dlp ytsearch10:"\"Town of Coventry\" Connecticut meeting" + --skip-download probe, 2026-08-27 | claude |
+| 2026-09-04 12:05:33.654486 | channel_found | coventryct_viebit -- Viebit tenant `coventryct` ("Government and Educational Programming"), 554 videos of which 461 are meetings (780 h), spanning 2020-04-22 to 2026-08-27 for the meeting corpus (the tenant reaches back to 2004-07-01, but only in the non-meeting folders). The second CT town found on Viebit; the other is East Hartford. | Viebit /vb/public/folders + /vb/public/vod catalog API, 2026-09-04 | claude |
 | 2026-08-27 12:57:34.908155 | channel_rejected | "Town of Coventry Rhode Island" is a separate real town with its own council-manager government and Economic Development Committee -- correctly not this town. | yt-dlp ytsearch10 result inspection, 2026-08-27 | claude |
+| 2026-09-04 12:05:33.654486 | media_storage_key_differs | The media storage key is `coventry` while the web subdomain is `coventryct`. Media 404s under /coventryct/ and serves under /coventry/. Read off each catalog row's poster URL by viebit_api.storage_key(), never hardcoded -- this tenant is the reason that function exists. | HEAD probes against vbfast-vod.viebit.com under both prefixes, 2026-09-04 | claude |
+| 2026-09-04 12:05:33.654486 | mixed_public_access_channel | Unlike East Hartford, this tenant is NOT a pure meetings feed. 93 of 554 videos (81 hours) are a local talk show ("Coventry Conversations", 39 videos), town events, PSAs and special programming. Cataloguing therefore walks folders and takes a --folder-filter, so those 81 hours are never archived or transcribed. This is also why body assignment had to learn to use the folder: East Hartford titles every video after its body ("Town Council" x76) so title regex sufficed, while Coventry's titles are descriptive ("Christmas in Coventry Village 2010") and carry no body at all. | Per-folder video and duration counts from the catalog API, 2026-09-04 | claude |
+| 2026-09-04 12:05:33.654486 | out_of_state_collision_ruled_out | Coventry also exists in RI, NY and the UK. Confirmed Connecticut from the tenant's own folder list rather than its name: Town Council Meetings / Board of Education Meetings / Board and Commission Meetings, a CT town-council-and-BOE structure, with content naming CT people and places throughout (e.g. a "Coventry Conversations" episode with Tim Ackert, a CT state representative). Corroborated by coventry-ct.gov linking this tenant for recorded meetings. | Per-folder inspection of the tenant catalog, 2026-09-04 | claude |
 | 2026-08-27 12:57:34.908155 | patterns_validated_from_real_titles | Combined /videos+/streams crawl (181 usable titles) -- 124/126 real government-meeting-shaped titles matched at least one body; remaining ~57 titles are confirmed non-governance filler (Business Spotlight PR segments, Community Bulletin Board, generic livestream placeholders, one literal "test"). | yt-dlp --flat-playlist crawl + Python pattern validation, 2026-08-27 | claude |
+| 2026-09-04 12:05:33.654486 | patterns_validated_from_real_titles | 461/461 (100%) of meeting-folder videos matched a body: Town Council 269, Board of Education 107, Boards and Commissions 85. Folder is tried first, then title patterns, which is what reassigns the handful of BOE-titled recordings filed under the Town Council folder (folder counts are 274/98/89). "Boards and Commissions" is deliberately one combined body: the tenant files Planning, Zoning and Wetlands together and the titles do not reliably distinguish them. | Pattern validation against the full 461-video meeting corpus, 2026-09-04 | claude |
 | 2026-08-27 12:57:34.908155 | streams_tab_mandatory_confirmed | /videos has only 5 unrelated PR/seasonal videos; /streams has 177 titles carrying essentially the entire real meeting archive. A /videos-only crawl would have found ZERO real government content. | yt-dlp --flat-playlist crawl of youtube.com/channel/UC-bvJ2hvyzj2i_Gitdr7NAA/videos and /streams, 2026-08-27 | claude |
 
 
@@ -449,11 +458,14 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 ### Tabs never crawled
 
-*(none)*
+| channel | tab |
+| --- | --- |
+| Coventry CT — Government and Educational Programming (Viebit) | videos |
+| Coventry CT — Government and Educational Programming (Viebit) | streams |
 
 
 ---
 
 
-_Generated 2026-08-31T14:36:35 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Coventry"`_
+_Generated 2026-09-07T17:29:24 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Coventry"`_
 

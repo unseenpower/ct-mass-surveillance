@@ -8,8 +8,8 @@ This report collects every mention of surveillance technology found in **Lyme**'
 - **2 mentions** across **2 meetings**
 - **First mention:** 2021-08-05  |  **Most recent:** 2021-10-07
 - **Technologies discussed:** drone
-- **Coverage:** 74 of 99 known Lyme meetings transcribed (75%)
-- **Still incomplete:** 25 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 74 of 100 known Lyme meetings transcribed (74%)
+- **Still incomplete:** 26 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -80,14 +80,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **BOE Meeting Aug 4** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=K-Ye6yg8D6g&t=3890s)  > ...fabric so that'll be the finished height will be around with a drone a little bit just to show you so this picture the center is where...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=K-Ye6yg8D6g&t=3890s)  > ...fabric so that'll be the finished height will be around with a drone a little bit just to show you so this picture the center is where...
 
 
 ### 2021-10-07 -- Region 18 Board of Education
 
 **Oct 6th BOE Meeting** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=cpChtUrfyoo&t=271s)  > ...projects wlym morning news broadcasts ping pong club drone lessons and even being a member of our in-district mentoring program for students...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=cpChtUrfyoo&t=271s)  > ...projects wlym morning news broadcasts ping pong club drone lessons and even being a member of our in-district mentoring program for students...
 
 
 ## Findings by topic
@@ -317,8 +317,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 4
-- Videos registered: 99 (fetched: 74, no captions: 1)
-- Date range covered: 2021-01-12 to 2026-08-05 (all 99 videos dated)
+- Videos registered: 100 (fetched: 74, no captions: 1)
+- Date range covered: 2021-01-12 to 2026-09-02 (all 100 videos dated)
 
 
 ### Channels
@@ -332,8 +332,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| region18_boe | streams | 2026-08-31 14:11:51.413077 | 120 |
-| region18_boe | videos | 2026-08-31 14:11:52.102287 | 1 |
+| region18_boe | streams | 2026-09-07 16:47:12.786021 | 121 |
+| region18_boe | videos | 2026-09-07 16:47:10.593531 | 1 |
 
 
 ## Registered meeting bodies
@@ -341,7 +341,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 0 |
-| Region 18 Board of Education | education | True | 99 |
+| Region 18 Board of Education | education | True | 100 |
 | Board of Selectpeople | other | True | 0 |
 | Planning & Zoning Commission | other | True | 0 |
 
@@ -392,5 +392,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:40:09 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Lyme"`_
+_Generated 2026-09-07T17:35:04 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Lyme"`_
 

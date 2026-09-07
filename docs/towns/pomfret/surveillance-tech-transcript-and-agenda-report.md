@@ -304,7 +304,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| pomfret_sposato | videos | 2026-08-31 14:02:44.378348 | 44 |
+| pomfret_sposato | videos | 2026-09-07 17:03:12.498442 | 44 |
 
 
 ## Registered meeting bodies
@@ -361,5 +361,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:43:18 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Pomfret"`_
+_Generated 2026-09-07T17:39:18 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Pomfret"`_
 

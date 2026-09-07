@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **New Mil
 - **32 mentions** across **15 meetings**
 - **First mention:** 2020-02-28  |  **Most recent:** 2026-08-24
 - **Technologies discussed:** alpr, body_camera, drone, facial_recognition, predictive_policing
-- **Coverage:** 171 of 442 known New Milford meetings transcribed (39%)
+- **Coverage:** 171 of 443 known New Milford meetings transcribed (39%)
 - **Not the full history:** transcripts begin **2016-03-01**, but New Milford's published video archive goes back to **2014-01-13**. Meetings before 2016 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -84,139 +84,139 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **27 Feb Budget Meeting** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=oc9U663KpYI&t=4195s)  > ...thousand dollars therefore an imprudent manner not to do that the board decided and we once again people of Gotham my name is work with the town bring forward helps everyone here on...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oc9U663KpYI&t=4195s)  > ...thousand dollars therefore an imprudent manner not to do that the board decided and we once again people of Gotham my name is work with the town bring forward helps everyone here on...
 
 
 ### 2020-06-07 -- Virtual Town Hall (Mayor's briefing)
 
 ***Special* Virtual Town Hall With Mayor Pete Bass and NMPD Chief Spencer Cerruto** _(topics: body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=ivhRciQ0vfU&t=1854s)  > ...Ellen power thank you thank you guys for tuning in and Mandy says do you need to purchase a body cam for each individual officer when they just use them while on duty...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ivhRciQ0vfU&t=1854s)  > ...Ellen power thank you thank you guys for tuning in and Mandy says do you need to purchase a body cam for each individual officer when they just use them while on duty...
 
 
 ### 2022-07-14 -- Virtual Town Hall (Mayor's briefing)
 
 **13 July 2022 NMHS Fire Updates Virtual Townhall** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=728_UQ0Rn8Q&t=2122s)  > ...helping provide plans and had maintenance people there that we could talk to the building they had a drone flying over there live showing hot spots for their people and that we were able...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=728_UQ0Rn8Q&t=2122s)  > ...helping provide plans and had maintenance people there that we could talk to the building they had a drone flying over there live showing hot spots for their people and that we were able...
 
 
 ### 2024-02-26 -- Town Council
 
 **LIVE Public Hearing + New Milford Town Council Regular Meeting | February 26th, 2024** _(topics: facial_recognition)_
 
-- `facial_recognition` [▸](https://www.youtube.com/watch?v=d1RywDK7_Jg&t=1726s)  > ...vendors that have been used in Connecticut already um they are using facial recognition um they're using automatic Tools in Suburban areas and like I said...
+- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1RywDK7_Jg&t=1726s)  > ...vendors that have been used in Connecticut already um they are using facial recognition um they're using automatic Tools in Suburban areas and like I said...
 
 
 ### 2024-02-28 -- Joint Budget Hearing
 
 **LIVE Town of New Milford Joint Budget Hearing | February 28th, 2024** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=PHAbkmn5b5s&t=6996s)  > ...mayor anyway I want to a few highlights while we're since we're um there's some new things Micah is our drone operator we have a drone um in fact mayor we have a nice video of the of the lovers leap...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PHAbkmn5b5s&t=6996s)  > ...mayor anyway I want to a few highlights while we're since we're um there's some new things Micah is our drone operator we have a drone um in fact mayor we have a nice video of the of the lovers leap...
 
-- `drone` [▸](https://www.youtube.com/watch?v=PHAbkmn5b5s&t=6998s)  > ...while we're since we're um there's some new things Micah is our drone operator we have a drone um in fact mayor we have a nice video of the of the lovers leap bridge and good news is it looks really...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PHAbkmn5b5s&t=6998s)  > ...while we're since we're um there's some new things Micah is our drone operator we have a drone um in fact mayor we have a nice video of the of the lovers leap bridge and good news is it looks really...
 
-- `drone` [▸](https://www.youtube.com/watch?v=PHAbkmn5b5s&t=7075s)  > ...much as you may think this is in poor condition it's really not that bad so I had Mike do a camera uh do a drone on that it really underneath I mean if we could get the deck fixed and you know...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PHAbkmn5b5s&t=7075s)  > ...much as you may think this is in poor condition it's really not that bad so I had Mike do a camera uh do a drone on that it really underneath I mean if we could get the deck fixed and you know...
 
 
 ### 2024-02-29 -- Joint Budget Hearing
 
 **LIVE Town of New Milford Joint Budget Hearing | February 29th, 2024** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=xvsbSXJ-rVk&t=1252s)  > ...right-and picture uh was one of our snow days and uh Mr Cunningham now has a commercial drone license and so this is one of our images uh from that drone showing um how the how the Lots in the...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=xvsbSXJ-rVk&t=1252s)  > ...right-and picture uh was one of our snow days and uh Mr Cunningham now has a commercial drone license and so this is one of our images uh from that drone showing um how the how the Lots in the...
 
-- `drone` [▸](https://www.youtube.com/watch?v=xvsbSXJ-rVk&t=1254s)  > ...days and uh Mr Cunningham now has a commercial drone license and so this is one of our images uh from that drone showing um how the how the Lots in the road were nicely cleaned up um and so...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=xvsbSXJ-rVk&t=1254s)  > ...days and uh Mr Cunningham now has a commercial drone license and so this is one of our images uh from that drone showing um how the how the Lots in the road were nicely cleaned up um and so...
 
-- `drone` [▸](https://www.youtube.com/watch?v=xvsbSXJ-rVk&t=1280s)  > ...helps us look at our response drills such as fire drills um when we put the Drone up and take a look at what's going on there bottom left hand we have a very lovely uh social media presence and...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=xvsbSXJ-rVk&t=1280s)  > ...helps us look at our response drills such as fire drills um when we put the Drone up and take a look at what's going on there bottom left hand we have a very lovely uh social media presence and...
 
-- `drone` [▸](https://www.youtube.com/watch?v=xvsbSXJ-rVk&t=1922s)  > ...just a quick comment I've been approached and asked why does the Board of Education have a drone and I said it's probably safety and maintenance well so one of the reasons...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=xvsbSXJ-rVk&t=1922s)  > ...just a quick comment I've been approached and asked why does the Board of Education have a drone and I said it's probably safety and maintenance well so one of the reasons...
 
 
 ### 2024-11-25 -- Town Meeting
 
 **Regular Town Meeting | November 25th, 2024** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=n9LD4e4OBPE&t=6682s)  > ...readers are installed to capture vehicle information from all traffic Lanes these enclosures would house the License Plate Reader cameras illuminators and antenna uh for this...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=n9LD4e4OBPE&t=6682s)  > ...readers are installed to capture vehicle information from all traffic Lanes these enclosures would house the License Plate Reader cameras illuminators and antenna uh for this...
 
 
 ### 2025-05-27 -- Town Council
 
 **Regular Meeting of the Town Council | May 27th, 2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=WlZB18r13bA&t=6246s)  > ...patrols in those areas. So, we work very uh closely with uh First Light. Uh we also have a drone that we put up over their property to look for people who are swimming in areas that are dangerous...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=WlZB18r13bA&t=6246s)  > ...patrols in those areas. So, we work very uh closely with uh First Light. Uh we also have a drone that we put up over their property to look for people who are swimming in areas that are dangerous...
 
 
 ### 2025-09-22 -- Town Council
 
 **Regular Meeting of the Town Council | September 22nd, 2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=LKFWTWXfkPc&t=2351s)  > ...units like the K9 team, the dive team, the aviation, the drone, the detectives, the dispatch. Also, they're going to allow you to use the simulator, which is for we we used...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LKFWTWXfkPc&t=2351s)  > ...units like the K9 team, the dive team, the aviation, the drone, the detectives, the dispatch. Also, they're going to allow you to use the simulator, which is for we we used...
 
 
 ### 2025-10-27 -- Town Council
 
 **Regular Meeting of the Town Council | October 27th, 2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=EkJJiwb0_TA&t=7366s)  > ...So, we uh did conduct an inspection of the bridge back in 2024. That included a combination of drone inspection with a scan of the bridge, some hands-on inspection. And those inspections...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=EkJJiwb0_TA&t=7366s)  > ...So, we uh did conduct an inspection of the bridge back in 2024. That included a combination of drone inspection with a scan of the bridge, some hands-on inspection. And those inspections...
 
 
 ### 2025-12-08 -- Town Council
 
 **Regular Meeting of the Town Council / New Milford, CT / December 8th, 2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=QUHNYCy1bp4&t=7791s)  > ...>> sixth one, sixth sixth academy. >> She is donating uh $1,000 to go to our drone to the PD's drone unit and $1,000 for other departmental needs. >> Second....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QUHNYCy1bp4&t=7791s)  > ...>> sixth one, sixth sixth academy. >> She is donating uh $1,000 to go to our drone to the PD's drone unit and $1,000 for other departmental needs. >> Second....
 
 
 ### 2026-02-09 -- Town Council
 
 **Regular Meeting of the Town Council / February 9th, 2026 / New Milford, CT** _(topics: facial_recognition)_
 
-- `facial_recognition` [▸](https://www.youtube.com/watch?v=ed4x-dysXmQ&t=1797s)  > ...more. Um, we work hard to leverage technology. We're using rapid DNA. We're using facial recognition. We're using social media uh software that allows us to scan open sources and provide us with...
+- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ed4x-dysXmQ&t=1797s)  > ...more. Um, we work hard to leverage technology. We're using rapid DNA. We're using facial recognition. We're using social media uh software that allows us to scan open sources and provide us with...
 
 
 ### 2026-05-11 -- Town Council
 
 **Town Council Regular Meeting / May 11, 2026 / New Milford, CT** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=ubxr0Fth57E&t=5752s)  > ...J&J Collision and Repair. West Street Power. the New Milford Foundry, the Bleachery, Mitchell Oil. These are just to name a few that are in the aquifer....
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ubxr0Fth57E&t=5752s)  > ...J&J Collision and Repair. West Street Power. the New Milford Foundry, the Bleachery, Mitchell Oil. These are just to name a few that are in the aquifer....
 
 
 ### 2026-07-23 -- Virtual Town Hall (Mayor's briefing)
 
 **Weekly Virtual Town Hall with  Mayor Pete Bass!** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=caAeCKttLH0&t=847s)  > ...We're going to have the helicopter that's going to land and display. We're going to have the police drone. We're going to have the K9 demo. We're going to be shooting hoops with the officers....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=caAeCKttLH0&t=847s)  > ...We're going to have the helicopter that's going to land and display. We're going to have the police drone. We're going to have the K9 demo. We're going to be shooting hoops with the officers....
 
 
 ### 2026-08-24 -- Town Council
 
 **Town Council Regular Meeting / August 24, 2026 / New Milford, CT** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1272s)  > ...public works has received about a camera that's in the Gaylordsville area. Some people claiming that to be a flock camera. First and foremost, New Milford does not have flock cameras. Uh I've...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1272s)  > ...public works has received about a camera that's in the Gaylordsville area. Some people claiming that to be a flock camera. First and foremost, New Milford does not have flock cameras. Uh I've...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1277s)  > ...people claiming that to be a flock camera. First and foremost, New Milford does not have flock cameras. Uh I've asked the police department, the chief is there. He can talk a little bit about...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1277s)  > ...people claiming that to be a flock camera. First and foremost, New Milford does not have flock cameras. Uh I've asked the police department, the chief is there. He can talk a little bit about...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1286s)  > ...it as well. Also ask our public works departments. There are no, we have no flock cameras. We've uh contacted Connecticut DOT. We've contacted the state police to see what they are and I...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1286s)  > ...it as well. Also ask our public works departments. There are no, we have no flock cameras. We've uh contacted Connecticut DOT. We've contacted the state police to see what they are and I...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1305s)  > ...but I'll apprise the council once we hear more from that as well. >> Ari, so um Flock is a name brand like Kleenex, right? Um but there are other automated license plate reader products...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1305s)  > ...but I'll apprise the council once we hear more from that as well. >> Ari, so um Flock is a name brand like Kleenex, right? Um but there are other automated license plate reader products...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1311s)  > ...>> Ari, so um Flock is a name brand like Kleenex, right? Um but there are other automated license plate reader products out there. Do we have any automated license plate readers in Milford? N and...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1311s)  > ...>> Ari, so um Flock is a name brand like Kleenex, right? Um but there are other automated license plate reader products out there. Do we have any automated license plate readers in Milford? N and...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1314s)  > ...Kleenex, right? Um but there are other automated license plate reader products out there. Do we have any automated license plate readers in Milford? N and this one, this one people are telling us...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1314s)  > ...Kleenex, right? Um but there are other automated license plate reader products out there. Do we have any automated license plate readers in Milford? N and this one, this one people are telling us...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1325s)  > ...this one, this one people are telling us that are asking, they're saying it's an actual flock. >> So the chief is uh here tonight too. They're going to investigate to see...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1325s)  > ...this one, this one people are telling us that are asking, they're saying it's an actual flock. >> So the chief is uh here tonight too. They're going to investigate to see...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1336s)  > ...if it is. >> Could we perhaps at a future meeting uh discuss a moratorum on the automated license plate readers? >> Absolutely....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=1336s)  > ...if it is. >> Could we perhaps at a future meeting uh discuss a moratorum on the automated license plate readers? >> Absolutely....
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=6055s)  > ...>> Before we adjourn, I I just asked earlier if we could put on a future agenda a moratorum on automated license plate readers. Is that something we would be asking attorney Debella to...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=6055s)  > ...>> Before we adjourn, I I just asked earlier if we could put on a future agenda a moratorum on automated license plate readers. Is that something we would be asking attorney Debella to...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=6078s)  > ...of like we're doing with these ordinances. >> You're not talking about the flock the the multiple people getting it. You're talking about just having...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=6078s)  > ...of like we're doing with these ordinances. >> You're not talking about the flock the the multiple people getting it. You're talking about just having...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=6083s)  > ...the multiple people getting it. You're talking about just having >> that same style whether it's the flock brand or another brand. Well, the flock means it takes every car that goes by....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=6083s)  > ...the multiple people getting it. You're talking about just having >> that same style whether it's the flock brand or another brand. Well, the flock means it takes every car that goes by....
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=6085s)  > ...talking about just having >> that same style whether it's the flock brand or another brand. Well, the flock means it takes every car that goes by. >> Well, that's the name brand,...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=6085s)  > ...talking about just having >> that same style whether it's the flock brand or another brand. Well, the flock means it takes every car that goes by. >> Well, that's the name brand,...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=6110s)  > ...the Danbury News Times today about the difference between the different kinds of cameras. And flock is just a name brand for the for a variety that information can be shared...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nHT4vtO-iBo&t=6110s)  > ...the Danbury News Times today about the difference between the different kinds of cameras. And flock is just a name brand for the for a variety that information can be shared...
 
 
 ## Findings by topic
@@ -558,8 +558,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 9
-- Videos registered: 442 (fetched: 171, no captions: 0)
-- Date range covered: 2014-01-13 to 2026-08-27 — **based on the 441 of 442 videos that carry a parseable upload date**; the other 1 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 443 (fetched: 171, no captions: 0)
+- Date range covered: 2014-01-13 to 2026-08-27 — **based on the 441 of 443 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -573,8 +573,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| town_of_new_milford | streams | 2026-08-31 13:37:14.023326 | 262 |
-| town_of_new_milford | videos | 2026-08-31 13:37:18.573395 | 234 |
+| town_of_new_milford | streams | 2026-09-07 16:23:32.099019 | 263 |
+| town_of_new_milford | videos | 2026-09-07 16:23:27.998416 | 234 |
 
 
 ## Registered meeting bodies
@@ -587,7 +587,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Board of Education | education | True | 0 |
 | Planning Commission | other | True | 0 |
 | Town Meeting | other | True | 22 |
-| Virtual Town Hall (Mayor's briefing) | other | True | 38 |
+| Virtual Town Hall (Mayor's briefing) | other | True | 39 |
 | Zoning Commission | other | True | 1 |
 | Police Commission | public_safety | True | 0 |
 
@@ -639,5 +639,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:41:30 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Milford"`_
+_Generated 2026-09-07T17:36:55 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Milford"`_
 

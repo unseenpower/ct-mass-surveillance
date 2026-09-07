@@ -305,7 +305,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| roxbury_ct | videos | 2026-08-31 13:49:14.962162 | 291 |
+| roxbury_ct | videos | 2026-09-07 16:41:43.547620 | 291 |
 
 
 ## Registered meeting bodies
@@ -367,5 +367,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:43:31 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Roxbury"`_
+_Generated 2026-09-07T17:39:39 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Roxbury"`_
 

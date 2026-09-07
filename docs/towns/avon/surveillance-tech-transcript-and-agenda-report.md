@@ -305,8 +305,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| nutmeg_tv | streams | 2026-08-31 14:17:55.743411 | 3 |
-| nutmeg_tv | videos | 2026-08-31 14:19:03.178474 | 5271 |
+| nutmeg_tv | streams | 2026-09-07 16:50:01.480623 | 3 |
+| nutmeg_tv | videos | 2026-09-07 16:50:00.685188 | 5282 |
 
 
 ## Registered meeting bodies
@@ -357,5 +357,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:35:11 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Avon"`_
+_Generated 2026-09-07T17:27:27 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Avon"`_
 

@@ -80,7 +80,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Town Council Sept. 11 2018** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=R9PkZeJuSY4&t=684s)  > ...helping and same so we do do those type things councillor McCleary councillor Gotham 11 man thank you for your presentation Lorna's right and I say listen we're at...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=R9PkZeJuSY4&t=684s)  > ...helping and same so we do do those type things councillor McCleary councillor Gotham 11 man thank you for your presentation Lorna's right and I say listen we're at...
 
 
 ## Findings by topic
@@ -321,8 +321,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| batv | streams | 2026-08-31 14:04:00.180298 | 0 |
-| batv | videos | 2026-08-31 14:04:01.782745 | 77 |
+| batv | streams | 2026-09-07 16:43:06.774187 | 0 |
+| batv | videos | 2026-09-07 16:43:06.089548 | 77 |
 
 
 ## Registered meeting bodies
@@ -340,7 +340,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 121 (fetched: 75)
+- Documents registered: 123 (fetched: 76)
 - Date range covered: 2026-01-12 to 2026-09-16
 
 
@@ -378,5 +378,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:35:37 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bloomfield"`_
+_Generated 2026-09-07T17:28:03 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bloomfield"`_
 

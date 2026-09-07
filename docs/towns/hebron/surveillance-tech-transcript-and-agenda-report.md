@@ -80,7 +80,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Hebron Town Council - April 23, 2026** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=xdhPAVh3pdw&t=4209s)  > ...I did go down there at one more I did go down there and flew and flew my drone because you really need to see this site. That's the salt shed....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=xdhPAVh3pdw&t=4209s)  > ...I did go down there at one more I did go down there and flew and flew my drone because you really need to see this site. That's the salt shed....
 
 
 ## Findings by topic
@@ -321,7 +321,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| cvc | videos | 2026-08-31 14:14:27.674814 | 2025 |
+| cvc | videos | 2026-09-07 16:31:59.779015 | 2027 |
 
 
 ## Registered meeting bodies
@@ -379,5 +379,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:39:38 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Hebron"`_
+_Generated 2026-09-07T17:34:17 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Hebron"`_
 

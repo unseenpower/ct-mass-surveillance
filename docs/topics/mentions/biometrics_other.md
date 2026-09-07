@@ -1,6 +1,6 @@
 # Other biometrics: every mention, every town
 
-_Generated 2026-08-31T14:55:49 — 9 mentions across 6 towns, 2021-03-11 to 2025-08-11._
+_Generated 2026-09-07T17:43:39 — 9 mentions across 6 towns, 2021-03-11 to 2025-08-11._
 
 
 Biometric identification other than face — gait, iris, voice.
@@ -24,8 +24,8 @@ _No human review has been applied to any mention in this file._
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
 | [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **3** | 3 | 3 | 95% | 2021-03-11 | 2025-08-11 |
-| [Monroe](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 46% | 2022-11-07 | 2024-05-28 |
-| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 36% | 2024-03-28 | 2024-03-28 |
+| [Monroe](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 64% | 2022-11-07 | 2024-05-28 |
+| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 42% | 2024-03-28 | 2024-03-28 |
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2024-02-21 | 2024-02-21 |
 | [Seymour](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 83% | 2022-02-08 | 2022-02-08 |
 | [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2023-12-14 | 2023-12-14 |
@@ -54,37 +54,37 @@ _Most recent first within each town. Every line links to the exact second of the
 
 - **[2024-05-28] Town Council** — Town of Monroe Ct Town Council Regular Meeting 05/28/2024
   > …agreements two snow plowing agreements number 7374 we also talked about the idemia identity and Security USA LLC Liv scan fingerprint system the uh fiscal year 25…
-  [Watch ▸](https://www.youtube.com/watch?v=qEFccOEhO0c&t=703s)  _(term: `biometrics_other`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qEFccOEhO0c&t=703s)  _(term: `biometrics_other`)_
 
 - **[2022-11-07] Town Council** — Town of Monroe Ct Town Council Regular Meeting 11/07/2022
   > …performance Grant proposed discontinuance of a portion of Spring Hill Road idemia identity and Security USA LLC arcadis USA proposal and Professional Services agreement…
-  [Watch ▸](https://www.youtube.com/watch?v=F4kQ6nRfVJk&t=219s)  _(term: `biometrics_other`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=F4kQ6nRfVJk&t=219s)  _(term: `biometrics_other`)_
 
 
 ### East Windsor — 1 mention
 
 - **[2024-03-28] Board of Finance** — Board of Finance Budget Workshop, Thursday March 28, 2024
   > …we have two machines that are down there one Prince civilian one Prince prisoners it's called idemia for the last several years there's a warranty required by the state of connectic nothing we can do…
-  [Watch ▸](https://www.youtube.com/watch?v=yEE-c7v8XKg&t=2296s)  _(term: `biometrics_other`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yEE-c7v8XKg&t=2296s)  _(term: `biometrics_other`)_
 
 
 ### Fairfield — 1 mention
 
 - **[2024-02-21] Board of Selectmen** — Board of Selectmen (Regular Meeting) - 2/21/2024
   > …motion uh deputy chief in 2020 the Department of Emergency Services and public protection contracted with idemia to serve as the state's biometric technology for the secure capture and…
-  [Watch ▸](https://www.youtube.com/watch?v=T_M-3cLmct0&t=281s)  _(term: `biometrics_other`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=T_M-3cLmct0&t=281s)  _(term: `biometrics_other`)_
 
 
 ### Seymour — 1 mention
 
 - **[2022-02-08] Budget Hearing / State of the Town** — Board of Finance 20220207 Budget Workshop
   > …that was done away with about a year ago the state went to a different system called idemia we no longer use it so the 4250 that was in there uh reduced to…
-  [Watch ▸](https://www.youtube.com/watch?v=OoExig3puKg&t=867s)  _(term: `biometrics_other`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OoExig3puKg&t=867s)  _(term: `biometrics_other`)_
 
 
 ### Southington — 1 mention
 
 - **[2023-12-14] Board of Education** — Board of Education 12/14/2023
   > …slows the onboarding process so we have brought on some software called uh idemia and it essentially allows us to do the fingerprinting here and have access to the database here uh for…
-  [Watch ▸](https://www.youtube.com/watch?v=lvr7R3BcNHc&t=1508s)  _(term: `biometrics_other`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=lvr7R3BcNHc&t=1508s)  _(term: `biometrics_other`)_
 

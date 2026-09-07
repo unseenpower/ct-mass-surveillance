@@ -82,87 +82,87 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Granby Board of Selectmen - 03-18-24** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=QiXJPrPtUsY&t=665s)  > ...facilities perhaps Public Safety answering points a shared shooting range SWAT teams K9 programs drone use and access collection of insurance receivables shared Public Works...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QiXJPrPtUsY&t=665s)  > ...facilities perhaps Public Safety answering points a shared shooting range SWAT teams K9 programs drone use and access collection of insurance receivables shared Public Works...
 
 
 ### 2024-08-21 -- Center Advisory Committee
 
 **Granby Center Advisory Committee Special Meeting - 08-21-24** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=Vn4to44iT4Q&t=767s)  > ...residential with re uh retail on the ground floor and that that RFP was answered by our developer by Gotham uh so I think these are all uh references for us but with that I'm going to turn...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vn4to44iT4Q&t=767s)  > ...residential with re uh retail on the ground floor and that that RFP was answered by our developer by Gotham uh so I think these are all uh references for us but with that I'm going to turn...
 
 
 ### 2025-07-08 -- Planning & Zoning Commission
 
 **Granby Planning & Zoning Commission - 07-08-25** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=PCA-ZtJy3gA&t=4905s)  > ...Um there's no change to the plan. Uh there's just um they updated the survey uh for a recent drone flight to um include some of the new changes to the topography over the course of uh since...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PCA-ZtJy3gA&t=4905s)  > ...Um there's no change to the plan. Uh there's just um they updated the survey uh for a recent drone flight to um include some of the new changes to the topography over the course of uh since...
 
 
 ### 2025-07-10 -- Center Advisory Committee
 
 **Granby Center Advisory Committee - 07-10-25** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=SbQNGsbpTHY&t=2458s)  > ...state, they put those strips in roads to count car traffic. Yeah. Do we do flying a drone a couple times a week? >> But do we engage? But but that's not again I want to be very careful about...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SbQNGsbpTHY&t=2458s)  > ...state, they put those strips in roads to count car traffic. Yeah. Do we do flying a drone a couple times a week? >> But do we engage? But but that's not again I want to be very careful about...
 
 
 ### 2025-10-06 -- Capital Program Priority Advisory Committee
 
 **Granby Capital Program Priority Advisory Committee - 10-06-25** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=2yCFtN8oc3E&t=2952s)  > ...>> next slide, please. This is an aerial view. Um drone footage of the fields. You can see those two locations that we just talked about. And then that dark green spot,...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=2yCFtN8oc3E&t=2952s)  > ...>> next slide, please. This is an aerial view. Um drone footage of the fields. You can see those two locations that we just talked about. And then that dark green spot,...
 
-- `drone` [▸](https://www.youtube.com/watch?v=2yCFtN8oc3E&t=2974s)  > ...>> Okay, so still not encroaching on the actual football field and lucky >> and that drone footage uh was taken by John Croninger today. And between those two spots you can see two benches. The...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=2yCFtN8oc3E&t=2974s)  > ...>> Okay, so still not encroaching on the actual football field and lucky >> and that drone footage uh was taken by John Croninger today. And between those two spots you can see two benches. The...
 
 
 ### 2025-11-19 -- Board of Education
 
 **Granby Board of Education - 11-19-25** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=cfN7ql8g4dI&t=2487s)  > ...obviously one for reading one for math would there be any other subjects on >> science social studies the UAS and work habits and habits of mind >> and so the teachers have to input all of...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=cfN7ql8g4dI&t=2487s)  > ...obviously one for reading one for math would there be any other subjects on >> science social studies the UAS and work habits and habits of mind >> and so the teachers have to input all of...
 
 
 ### 2026-01-05 -- Board of Selectmen
 
 **Granby Board of Selectmen - 01-05-26** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=D3BO3GDfFsU&t=2885s)  > ...an arrest. You probably heard uh mid December there was a missing mother and three children. Uh using the flock system which is the camera system across the nation uh for communities that opt...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=D3BO3GDfFsU&t=2885s)  > ...an arrest. You probably heard uh mid December there was a missing mother and three children. Uh using the flock system which is the camera system across the nation uh for communities that opt...
 
 
 ### 2026-03-05 -- Board of Finance
 
 **Granby 2026-2027 Budget Workshop #1 - 03-05-26** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=F3rBUldgk4A&t=8040s)  > ...Avon, Farmington, um US, uh Canton. So, we all share a SWAT team, accident reconstruction team, uh a drone team, and a negotiator's team. So, um it would cost us...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=F3rBUldgk4A&t=8040s)  > ...Avon, Farmington, um US, uh Canton. So, we all share a SWAT team, accident reconstruction team, uh a drone team, and a negotiator's team. So, um it would cost us...
 
 
 ### 2026-06-03 -- Board of Education
 
 **Granby Board of Education - 06-03-26** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=1KRACU734CE&t=1444s)  > ...from reliable sources. In addition to talking about our core classes, we also reflected on our UAS. So, I chose band. Overall, I was most proud of how I've developed as a...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=1KRACU734CE&t=1444s)  > ...from reliable sources. In addition to talking about our core classes, we also reflected on our UAS. So, I chose band. Overall, I was most proud of how I've developed as a...
 
 
 ### 2026-06-10 -- Inland Wetlands & Watercourses Commission
 
 **Granby Inland Wetlands & Watercourses Commission - 06-10-26** _(topics: surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=mRNVsCa2faY&t=718s)  > ...in. Um, additionally, we also um scoped the existing pipes today and I have that CCTV footage um that I can send to Kate. Um, and it looks like the drainage the the pipes are in good condition at...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=mRNVsCa2faY&t=718s)  > ...in. Um, additionally, we also um scoped the existing pipes today and I have that CCTV footage um that I can send to Kate. Um, and it looks like the drainage the the pipes are in good condition at...
 
 
 ### 2026-08-03 -- Board of Selectmen
 
 **Granby Board of Selectmen - 08-03-26** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=T4CIf4ueTUI&t=2524s)  > ...override your town ordinance. Second, I have concerns regarding the potential use of Flock surveillance cameras. It's come to my attention that neighboring towns such as Simsbury and...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4CIf4ueTUI&t=2524s)  > ...override your town ordinance. Second, I have concerns regarding the potential use of Flock surveillance cameras. It's come to my attention that neighboring towns such as Simsbury and...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=T4CIf4ueTUI&t=2541s)  > ...which raises serious privacy concerns. Can you please confirm if Granby currently utilizes Flock or similar surveillance cameras? If so, can you provide the total number of cameras in...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4CIf4ueTUI&t=2541s)  > ...which raises serious privacy concerns. Can you please confirm if Granby currently utilizes Flock or similar surveillance cameras? If so, can you provide the total number of cameras in...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=T4CIf4ueTUI&t=3062s)  > ...>> We do not. >> All right. I will accept a >> to address the flock surveillance >> Oh, thank you, Peggy. Yes, Mr. Flanagan or...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4CIf4ueTUI&t=3062s)  > ...>> We do not. >> All right. I will accept a >> to address the flock surveillance >> Oh, thank you, Peggy. Yes, Mr. Flanagan or...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=T4CIf4ueTUI&t=3071s)  > ...or Michael, you asked us that we the town is not using flock cameras. I >> That's correct....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4CIf4ueTUI&t=3071s)  > ...or Michael, you asked us that we the town is not using flock cameras. I >> That's correct....
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=T4CIf4ueTUI&t=3080s)  > ...>> [laughter] >> That was easy. There's no no ambiguity. We're not using the flock cameras. Yeah. We are not using them. >> Only our cars still do not have...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4CIf4ueTUI&t=3080s)  > ...>> [laughter] >> That was easy. There's no no ambiguity. We're not using the flock cameras. Yeah. We are not using them. >> Only our cars still do not have...
 
 
 ## Findings by topic
@@ -457,8 +457,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| gctv16 | streams | 2026-08-31 14:20:48.358826 | 1 |
-| gctv16 | videos | 2026-08-31 14:20:58.772464 | 777 |
+| gctv16 | streams | 2026-09-07 16:52:30.162285 | 1 |
+| gctv16 | videos | 2026-09-07 16:52:29.441548 | 779 |
 
 
 ## Registered meeting bodies
@@ -521,5 +521,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:38:25 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Granby"`_
+_Generated 2026-09-07T17:32:46 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Granby"`_
 

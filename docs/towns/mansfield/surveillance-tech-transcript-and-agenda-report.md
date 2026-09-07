@@ -5,10 +5,10 @@
 
 This report collects every mention of surveillance technology found in **Mansfield**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **52 mentions** across **21 meetings**
-- **First mention:** 2023-05-31  |  **Most recent:** 2026-08-10
+- **73 mentions** across **33 meetings**
+- **First mention:** 2022-04-28  |  **Most recent:** 2026-08-10
 - **Technologies discussed:** alpr, drone, predictive_policing
-- **Coverage:** 773 of 1,256 known Mansfield meetings transcribed (62%)
+- **Coverage:** 954 of 1,258 known Mansfield meetings transcribed (76%)
 - **Not the full history:** transcripts begin **2021-01-15**, but Mansfield's published video archive goes back to **2015-05-06**. Meetings before 2021 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 - **2 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
@@ -70,222 +70,324 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 30 | 11 | 2023-05-31 | 2026-08-10 |
-| drone | 21 | 9 | 2024-03-11 | 2026-04-30 |
-| predictive_policing | 1 | 1 | 2026-06-22 | 2026-06-22 |
+| drone | 41 | 20 | 2022-04-28 | 2026-04-30 |
+| predictive_policing | 2 | 2 | 2023-01-26 | 2026-06-22 |
 
 
 ## Timeline
 
-21 meetings surfaced a finding (21 dated, spanning 2023-05-31 to 2026-08-10; 0 of unknown date, listed last).
+33 meetings surfaced a finding (33 dated, spanning 2022-04-28 to 2026-08-10; 0 of unknown date, listed last).
+
+
+### 2022-04-28 -- School Building Committee
+
+**School Building Committee 04/28/2022** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=abTTWndg0xI&t=1575s)  > ...can everyone see the photos yes okay unfortunately it was too windy today to take drone photos we almost lost our drone um...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=abTTWndg0xI&t=1578s)  > ...okay unfortunately it was too windy today to take drone photos we almost lost our drone um i'll have extra ones for next time...
+
+
+### 2022-06-09 -- School Building Committee
+
+**School Building Committee 06/09/2022** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IoPQ_d29veE&t=1602s)  > ...we'll move on to the contractor update ow start uh we don't have any drone photos today because our our drone was out of power...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IoPQ_d29veE&t=1602s)  > ...ow start uh we don't have any drone photos today because our our drone was out of power but we will have more next next meeting...
+
+
+### 2022-06-23 -- School Building Committee
+
+**School Building Committee 06/23/2022** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XegRvoRD6TQ&t=180s)  > ...all right so these are the photos go through these first um so these are the drone photos this is the uh the pump house area they've started working on the siding now around...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XegRvoRD6TQ&t=199s)  > ...uh they've been pouring this for a few days no i mean the drone flight was it today yeah yes the drone photos are from today this is area b south...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XegRvoRD6TQ&t=201s)  > ...days no i mean the drone flight was it today yeah yes the drone photos are from today this is area b south um you can see the pv panels are...
+
+
+### 2022-07-14 -- School Building Committee
+
+**School Building Committee 07/14/2022** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=2ECYO2PrQgQ&t=88s)  > ...okay yes [Music] so we got some drunk drone photos to start with this is a a picture of the overall building...
+
+
+### 2022-07-28 -- School Building Committee
+
+**School Building Committee 07/28/2022** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=8uQ8rJHjcOg&t=222s)  > ...they'll do the cement board siding back on this roof area this is a drone shot of the south area bay you can see sidewalks are going in...
+
+
+### 2022-08-25 -- School Building Committee
+
+**School Building Committee 08/25/2022** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eFwqZxC28xg&t=1780s)  > ...okay so this is the uh drone photo uh looking north you see the uh the...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eFwqZxC28xg&t=1841s)  > ...gradually we're getting more and more of the space so um this is a drone photo of the entire building looking east this is the...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eFwqZxC28xg&t=1854s)  > ...of the entire building looking east this is the drone photo of b north and c east some ground the last picture and it was on the first...
+
+
+### 2022-09-22 -- School Building Committee
+
+**School Building Committee 09/22/2022** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0-lwlDjz48k&t=133s)  > ...hey everyone else on the screen yes we can so we'll go through the Drone photos first this is the uh the rear area the north...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0-lwlDjz48k&t=624s)  > ...thank you here's another shot of the building this is the last of the Drone photos photos can everyone see the...
+
+
+### 2022-10-11 -- Town Council
+
+**Town Council 10/11/2022** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=n0wG1ZA584E&t=1661s)  > ...um well I will start if I miss something you can you can join in um so here's a drone view of the building um you can see the building up towards...
+
+
+### 2022-12-08 -- School Building Committee
+
+**School Building Committee Special Meeting 12/08/2022** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Wr3NUMwCmak&t=402s)  > ...little issues okay I'm sharing the screen here so I'm going to go through the Drone photos first this is a shot of...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Wr3NUMwCmak&t=1706s)  > ...you've got an ice skating rink all right so that was the last of the Drone photos now pretty some camera photos this is just showing the uh...
+
+
+### 2023-01-09 -- Town Council
+
+**Town Council 01/09/2023** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nQjNbx5qlO0&t=562s)  > ...uh Al for to show some pictures so the first couple of photos are drone photos these were actually taken...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nQjNbx5qlO0&t=567s)  > ...these were actually taken last month as our drone battery died today so um but we were pretty much done with the parking lot in exterior building last...
+
+
+### 2023-01-12 -- School Building Committee
+
+**School Building Committee Special Meeting 01/12/2023** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dROqbSbtbHk&t=358s)  > ...to the microphone you're going to start up just with a couple of drone photos this is the completed parking lot and the uh...
+
+
+### 2023-01-26 -- School Building Committee
+
+**School Building Committee Special Meeting 01/26/2023** _(topics: predictive_policing)_
+
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ji0xREgHboU&t=534s)  > ...um about two weeks on that we were able to secure the trench strains I think there's one Foundry drain cover that we we don't have a handle on yet um...
 
 
 ### 2023-05-31 -- Planning and Zoning Commission
 
 **PZC   Regulatory Review Commitee   Special Meeting 05/31/2023** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=2YGhAy1mj2o&t=1448s)  > ...our regulations I can I can only tell you from growing up that the farm that had a had a flock of guinea hens could not contain them and so they were constantly getting out and being all...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=2YGhAy1mj2o&t=1448s)  > ...our regulations I can I can only tell you from growing up that the farm that had a had a flock of guinea hens could not contain them and so they were constantly getting out and being all...
 
 
 ### 2024-03-11 -- Town Council
 
 **Town Council Meeting 3/11/2024** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=RYRR5eTFDvQ&t=13797s)  > ...handled by zoning or or another thing um the mansfi assessor office is not does not Implement drone technology um but we do subscribe to Ortho imagery um so those are not...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=RYRR5eTFDvQ&t=13797s)  > ...handled by zoning or or another thing um the mansfi assessor office is not does not Implement drone technology um but we do subscribe to Ortho imagery um so those are not...
 
-- `drone` [▸](https://www.youtube.com/watch?v=RYRR5eTFDvQ&t=13806s)  > ...technology um but we do subscribe to Ortho imagery um so those are not drone technology like we're not in there with our little remote control and flying a drone around but there are um...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=RYRR5eTFDvQ&t=13806s)  > ...technology um but we do subscribe to Ortho imagery um so those are not drone technology like we're not in there with our little remote control and flying a drone around but there are um...
 
-- `drone` [▸](https://www.youtube.com/watch?v=RYRR5eTFDvQ&t=13810s)  > ...drone technology like we're not in there with our little remote control and flying a drone around but there are um PL planes that are flying across the country um and capturing images of um...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=RYRR5eTFDvQ&t=13810s)  > ...drone technology like we're not in there with our little remote control and flying a drone around but there are um PL planes that are flying across the country um and capturing images of um...
 
 
 ### 2024-05-28 -- Town Council
 
 **Town Council Meeting 5/28/2024** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=6WNpoFLv7CM&t=4036s)  > ...many of the tools that you need for electronic repairs for your laptop or smartphone or tablet or drone and um we've also added things like soil testers contour...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6WNpoFLv7CM&t=4036s)  > ...many of the tools that you need for electronic repairs for your laptop or smartphone or tablet or drone and um we've also added things like soil testers contour...
 
 
 ### 2024-06-18 -- Planning and Zoning Commission
 
 **PZC/IWA Meeting** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=RLcH8ObCzSk&t=9932s)  > ...your town website one of your Prime photos shows eille from a downstream direction from a drone you'll see the grouted rip wrap and those areas have not required any maintenance the only...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=RLcH8ObCzSk&t=9932s)  > ...your town website one of your Prime photos shows eille from a downstream direction from a drone you'll see the grouted rip wrap and those areas have not required any maintenance the only...
 
 
 ### 2025-01-27 -- Town Council
 
 **Town Council  1/27/2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=22KBeFDn4E4&t=3607s)  > ...we solve crimes and uh coverage for Manfield uh I've had couple meetings with flock safety flock safety is a technology company that provides all sorts of resources to law enforcement...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=22KBeFDn4E4&t=3607s)  > ...we solve crimes and uh coverage for Manfield uh I've had couple meetings with flock safety flock safety is a technology company that provides all sorts of resources to law enforcement...
 
 
 ### 2025-02-10 -- Town Council
 
 **Town Council  2/10/2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=XHBCFFt7FRM&t=7293s)  > ...of birds on their own property many of which wander loose one of those depopulation orders went to a flock of chickens uh and I would strongly suspect that there are numbers of people in the...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XHBCFFt7FRM&t=7293s)  > ...of birds on their own property many of which wander loose one of those depopulation orders went to a flock of chickens uh and I would strongly suspect that there are numbers of people in the...
 
 
 ### 2025-03-13 -- Parks and Natural Resources Committee
 
 **PNRC 03/13/2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3556s)  > ...you can follow with Pro prohibitions or permitted activities or whatever Julian I saw you raising your hand yeah I had two questions um one is drones oh yeah drone law what about it um if if those are permitted or prohibited okay so drones...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3556s)  > ...you can follow with Pro prohibitions or permitted activities or whatever Julian I saw you raising your hand yeah I had two questions um one is drones oh yeah drone law what about it um if if those are permitted or prohibited okay so drones...
 
-- `drone` [▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3608s)  > ...got from not the town attorney but a land use attorney um in December um was that in general a drone is a RV device which is just a toy until you start using it to do anything that is remotely violating someone's property rights don't walk up to the line don't even walk within 10 ft of the line of...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3608s)  > ...got from not the town attorney but a land use attorney um in December um was that in general a drone is a RV device which is just a toy until you start using it to do anything that is remotely violating someone's property rights don't walk up to the line don't even walk within 10 ft of the line of...
 
-- `drone` [▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3734s)  > ...nature yeah I would say that valid fair point however what if someone wants to video a soccer game from above there may be valid reasons that someone would want to use a drone to take photography or video of an activity that we like in the park is the hum of a drone somewhat annoying can be but much like the idea...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3734s)  > ...nature yeah I would say that valid fair point however what if someone wants to video a soccer game from above there may be valid reasons that someone would want to use a drone to take photography or video of an activity that we like in the park is the hum of a drone somewhat annoying can be but much like the idea...
 
-- `drone` [▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3745s)  > ...above there may be valid reasons that someone would want to use a drone to take photography or video of an activity that we like in the park is the hum of a drone somewhat annoying can be but much like the idea of there's going to be push back on a push to ban all bicycles in all of our parks and all places because people enjoy nature in different...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3745s)  > ...above there may be valid reasons that someone would want to use a drone to take photography or video of an activity that we like in the park is the hum of a drone somewhat annoying can be but much like the idea of there's going to be push back on a push to ban all bicycles in all of our parks and all places because people enjoy nature in different...
 
-- `drone` [▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3782s)  > ...know drones only allowed in certain with a permit we could put drones in a you know tell the town if you're going to fly a drone and that could be fair but I think a a flat ban on them runs into like well you know people enjoy things in different ways even even a a permit that says uh um permit required if not drone filming of an organized...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3782s)  > ...know drones only allowed in certain with a permit we could put drones in a you know tell the town if you're going to fly a drone and that could be fair but I think a a flat ban on them runs into like well you know people enjoy things in different ways even even a a permit that says uh um permit required if not drone filming of an organized...
 
-- `drone` [▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3793s)  > ...drone and that could be fair but I think a a flat ban on them runs into like well you know people enjoy things in different ways even even a a permit that says uh um permit required if not drone filming of an organized sport good does you don't have to issue a permit for there's another thing that enters in here there's an FAA rule about how far...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3793s)  > ...drone and that could be fair but I think a a flat ban on them runs into like well you know people enjoy things in different ways even even a a permit that says uh um permit required if not drone filming of an organized sport good does you don't have to issue a permit for there's another thing that enters in here there's an FAA rule about how far...
 
-- `drone` [▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3839s)  > ...line Falls someplace in the feral Fields across the road from from my house oh you know that that actually that covers a good part of town so you you really couldn't fly a drone in most of uh Menville Hollow State Park or on the soccer fields there's five months all kinds of reg the regulations start getting a lot stronger I'm sure you know FAA has...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3839s)  > ...line Falls someplace in the feral Fields across the road from from my house oh you know that that actually that covers a good part of town so you you really couldn't fly a drone in most of uh Menville Hollow State Park or on the soccer fields there's five months all kinds of reg the regulations start getting a lot stronger I'm sure you know FAA has...
 
-- `drone` [▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=5374s)  > ...this guy come go I'd say that's not a Transit device so he gets to do it and also it's obviously not what we're trying the block I know it's just a grounded drone yeah it's we're allowing we're silent on drones it's it's adds to the amusement of the park actually because we get a huge chuckle out of him every time he goes by and he's really good about it...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=5374s)  > ...this guy come go I'd say that's not a Transit device so he gets to do it and also it's obviously not what we're trying the block I know it's just a grounded drone yeah it's we're allowing we're silent on drones it's it's adds to the amusement of the park actually because we get a huge chuckle out of him every time he goes by and he's really good about it...
 
 
 ### 2025-04-15 -- Agriculture Committee
 
 **Agriculture Committee Special Meeting 04/15/2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=Ek_iacuBPmA&t=1041s)  > ...table. What uh just a brief review of your farming situation, livestock or or crops or both? Um, I have a huge flock of um chickens, geese, ducks, quail, feeasant, turkeys, and guinea hens. So,...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ek_iacuBPmA&t=1041s)  > ...table. What uh just a brief review of your farming situation, livestock or or crops or both? Um, I have a huge flock of um chickens, geese, ducks, quail, feeasant, turkeys, and guinea hens. So,...
 
 
 ### 2025-04-21 -- Planning and Zoning Commission
 
 **PZC  04/21/2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2808s)  > ...Tanner. I'm I've been a 30-year resident of Mansfield. I have a 2acre lot and I have a a flock of chickens and a rooster. And I just wanted to give you a sense of some of the other upsides of...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2808s)  > ...Tanner. I'm I've been a 30-year resident of Mansfield. I have a 2acre lot and I have a a flock of chickens and a rooster. And I just wanted to give you a sense of some of the other upsides of...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2816s)  > ...rooster. And I just wanted to give you a sense of some of the other upsides of having a chicken flock. If I don't have a rooster, I can't I can't have a flock because of the predation with coyotes...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2816s)  > ...rooster. And I just wanted to give you a sense of some of the other upsides of having a chicken flock. If I don't have a rooster, I can't I can't have a flock because of the predation with coyotes...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2818s)  > ...sense of some of the other upsides of having a chicken flock. If I don't have a rooster, I can't I can't have a flock because of the predation with coyotes and foxes, etc., etc. So, they they come...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2818s)  > ...sense of some of the other upsides of having a chicken flock. If I don't have a rooster, I can't I can't have a flock because of the predation with coyotes and foxes, etc., etc. So, they they come...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2882s)  > ...children. So, um it's uh for me, if I don't have a rooster, I don't have a flock. And I've been I've been like I've said I've I've had chickens for over 30 years and it's just part of my lifestyle...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2882s)  > ...children. So, um it's uh for me, if I don't have a rooster, I don't have a flock. And I've been I've been like I've said I've I've had chickens for over 30 years and it's just part of my lifestyle...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=3212s)  > ...finds a way. can't increase your acorage but your flock is going to get increased when by just natural things right so my father mentioned earlier I have...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=3212s)  > ...finds a way. can't increase your acorage but your flock is going to get increased when by just natural things right so my father mentioned earlier I have...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=3370s)  > ...another one. Right. One. I need the roosters to protect the flock. And two, that if out of those...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=3370s)  > ...another one. Right. One. I need the roosters to protect the flock. And two, that if out of those...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=4620s)  > ...so by by restricting and every I don't want to repeat what other people said about flock size. Flock size isn't so easy to manage. It has to do with the age of the bird. It has to do with how...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=4620s)  > ...so by by restricting and every I don't want to repeat what other people said about flock size. Flock size isn't so easy to manage. It has to do with the age of the bird. It has to do with how...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=4630s)  > ...many birds. It has to do with time of the year. There's all these components that go into flock size. It's not so easy to say x amount of square foot per bird and just call it a day. That that's...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=4630s)  > ...many birds. It has to do with time of the year. There's all these components that go into flock size. It's not so easy to say x amount of square foot per bird and just call it a day. That that's...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=5444s)  > ...lot, the more feed you have to buy for your chickens. Feed is expensive. Your flock starts getting too big. You have to buy too much feed. And you say, "I'm not willing to spend that much on feed."...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=5444s)  > ...lot, the more feed you have to buy for your chickens. Feed is expensive. Your flock starts getting too big. You have to buy too much feed. And you say, "I'm not willing to spend that much on feed."...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=5450s)  > ...to buy too much feed. And you say, "I'm not willing to spend that much on feed." So then you cut back on your flock size. You don't replace as many. And and it and it it's not an exact science. It...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=5450s)  > ...to buy too much feed. And you say, "I'm not willing to spend that much on feed." So then you cut back on your flock size. You don't replace as many. And and it and it it's not an exact science. It...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6373s)  > ...rooster. I do not have chickens. I might have chickens one day. I recognize that roosters are important for the flock. I grew up here. I live now in the same house that I was raised in. I'm in my...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6373s)  > ...rooster. I do not have chickens. I might have chickens one day. I recognize that roosters are important for the flock. I grew up here. I live now in the same house that I was raised in. I'm in my...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6512s)  > ...speak again on the chickens thing like everyone else does. Um so obviously roosters are important to the flock. I think like most owners uh are able to control the amount of roosters they have...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6512s)  > ...speak again on the chickens thing like everyone else does. Um so obviously roosters are important to the flock. I think like most owners uh are able to control the amount of roosters they have...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6526s)  > ...owner is only going to have the set or amount of roosters that is going to be sized for their flock. Um, you know, aside from the noise ordinance, I'm can't imagine how many complaints you...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6526s)  > ...owner is only going to have the set or amount of roosters that is going to be sized for their flock. Um, you know, aside from the noise ordinance, I'm can't imagine how many complaints you...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6584s)  > ...the agricultural stuff having roosters being able to have roosters being able to have a flock u where other towns limit you a lot more uh as we talked about you know so I you know I believe...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6584s)  > ...the agricultural stuff having roosters being able to have roosters being able to have a flock u where other towns limit you a lot more uh as we talked about you know so I you know I believe...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6630s)  > ...regulation, they could take complaints on a case- by case basis if that owner is uh taking their flock and they're um you know, they're keeping it clean and they're being a proper bird owner. You...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6630s)  > ...regulation, they could take complaints on a case- by case basis if that owner is uh taking their flock and they're um you know, they're keeping it clean and they're being a proper bird owner. You...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=7056s)  > ...flocks and they become pets to these families and they allow us to replenish our flock as chickens stop laying eggs after a few years. Roosters are essential to the flock. Instead of...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=7056s)  > ...flocks and they become pets to these families and they allow us to replenish our flock as chickens stop laying eggs after a few years. Roosters are essential to the flock. Instead of...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=7060s)  > ...our flock as chickens stop laying eggs after a few years. Roosters are essential to the flock. Instead of completely changing our town's values and upbringing for a few newcomers, why...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=7060s)  > ...our flock as chickens stop laying eggs after a few years. Roosters are essential to the flock. Instead of completely changing our town's values and upbringing for a few newcomers, why...
 
 
 ### 2025-04-28 -- Town Council
 
 **Town Council  4/28/2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=NkdwvBf9YmA&t=5110s)  > ...four uh summer fund destinations and original music by Waldron Studio 88 and drone footage by um Levvenworks, which was great. Okay. Um, also exciting again is...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=NkdwvBf9YmA&t=5110s)  > ...four uh summer fund destinations and original music by Waldron Studio 88 and drone footage by um Levvenworks, which was great. Okay. Um, also exciting again is...
 
 
 ### 2025-05-01 -- Affordable Housing Committee
 
 **Affordable Housing Committee 05/01/2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=Mky0kzUMuAc&t=2266s)  > ...me just confirms that these working families are being used to be people would flock to Mansfield because of the schools if they have kids. Right. Right. But they can't flock because they can't...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Mky0kzUMuAc&t=2266s)  > ...me just confirms that these working families are being used to be people would flock to Mansfield because of the schools if they have kids. Right. Right. But they can't flock because they can't...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=Mky0kzUMuAc&t=2270s)  > ...would flock to Mansfield because of the schools if they have kids. Right. Right. But they can't flock because they can't afford houses. It's not just affordable rental. It's not just affordability. I...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Mky0kzUMuAc&t=2270s)  > ...would flock to Mansfield because of the schools if they have kids. Right. Right. But they can't flock because they can't afford houses. It's not just affordable rental. It's not just affordability. I...
 
 
 ### 2025-05-27 -- Agriculture Committee
 
 **Agriculture Committee  05/27/2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=fSFmQif-ETo&t=1948s)  > ...guinea pow. Um whereas everyone who had roosters said these are these are an integral part of my flock and I can't have chickens without a rooster. Do we have that captured up there? We do. It's...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fSFmQif-ETo&t=1948s)  > ...guinea pow. Um whereas everyone who had roosters said these are these are an integral part of my flock and I can't have chickens without a rooster. Do we have that captured up there? We do. It's...
 
 
 ### 2025-06-18 -- Conservation Commission
 
 **Conservation Commission 06/18/2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=E24NqLTmYcY&t=3568s)  > ...Fun facts. Fun facts. We learned something today. Um, I have a question about uh drone activities. Okay. Particularly around town events. I...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=E24NqLTmYcY&t=3568s)  > ...Fun facts. Fun facts. We learned something today. Um, I have a question about uh drone activities. Okay. Particularly around town events. I...
 
-- `drone` [▸](https://www.youtube.com/watch?v=E24NqLTmYcY&t=3674s)  > ...should people have a reasonable expectation of privacy against them flying a drone over their property or even flying a drone just straight up from the street and looking over the...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=E24NqLTmYcY&t=3674s)  > ...should people have a reasonable expectation of privacy against them flying a drone over their property or even flying a drone just straight up from the street and looking over the...
 
-- `drone` [▸](https://www.youtube.com/watch?v=E24NqLTmYcY&t=3676s)  > ...expectation of privacy against them flying a drone over their property or even flying a drone just straight up from the street and looking over the back of your house. Never been ruled on....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=E24NqLTmYcY&t=3676s)  > ...expectation of privacy against them flying a drone over their property or even flying a drone just straight up from the street and looking over the back of your house. Never been ruled on....
 
 
 ### 2025-07-17 -- Economic Development Commission
 
 **Economic Development Commission 07/17/2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=MHpRmezH5bo&t=2329s)  > ...it. Um, I'm going to share my screen again because it's easier to look at stuff than listen to me drone on. Uh there we go. So um we had it kind of broken out into three different groups...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=MHpRmezH5bo&t=2329s)  > ...it. Um, I'm going to share my screen again because it's easier to look at stuff than listen to me drone on. Uh there we go. So um we had it kind of broken out into three different groups...
 
 
 ### 2025-07-17 -- Planning and Zoning Commission
 
 **PZC Regulatory Review Committee Meeting 7/17/2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=ojM79_oPago&t=3905s)  > ...rooster for breathing >> and the protection that they provide to the flock. I >> It was a valid point that you It was a valid point that you're not supposed to...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ojM79_oPago&t=3905s)  > ...rooster for breathing >> and the protection that they provide to the flock. I >> It was a valid point that you It was a valid point that you're not supposed to...
 
 
 ### 2025-11-06 -- Parks and Natural Resources Committee
 
 **PNRC 11/06/2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=lgCNWqf0vF0&t=7397s)  > ...Uh, but I I can look into adding coyotes. Uh, and not coyote flock. That's a different thing in town. Um, which was acknowledged by the way in USA...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=lgCNWqf0vF0&t=7397s)  > ...Uh, but I I can look into adding coyotes. Uh, and not coyote flock. That's a different thing in town. Um, which was acknowledged by the way in USA...
 
 
 ### 2025-11-25 -- Agriculture Committee
 
 **Agriculture Committee  11/25/2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=M9BgsVnQ5aQ&t=2359s)  > ...gives me plenty of time to cajul Steve into uh letting me have a whole flock of chickens. Uh, a horse. >> Oh, yeah. I'll stick to food animals....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=M9BgsVnQ5aQ&t=2359s)  > ...gives me plenty of time to cajul Steve into uh letting me have a whole flock of chickens. Uh, a horse. >> Oh, yeah. I'll stick to food animals....
 
 
 ### 2026-02-09 -- Town Council
 
 **Town Council 2/9/2026** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=Hr1R1GwB2eU&t=991s)  > ...>> This one here. >> Okay. >> I got to do a screen share for >> Sure. And this is compliments of a Cana Deep using drone foot. They had a drone up in the air, so it's a little hard to see on this. Um, but it'll give you an idea of the size and the scope of what we had. Um, we did have 13 train cars detached from a the train called in...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Hr1R1GwB2eU&t=991s)  > ...>> This one here. >> Okay. >> I got to do a screen share for >> Sure. And this is compliments of a Cana Deep using drone foot. They had a drone up in the air, so it's a little hard to see on this. Um, but it'll give you an idea of the size and the scope of what we had. Um, we did have 13 train cars detached from a the train called in...
 
-- `drone` [▸](https://www.youtube.com/watch?v=Hr1R1GwB2eU&t=6351s)  > ...the part that's still not done. They have to run the wire from 89 all the way down the road, connect it so you can send the power out. >> I'll uh I'll circulate a drone photo of it to the council so you can get a sense. It's pretty pretty visually dramatic. Yeah. >> And also here's future swap shop. I know we've been talking about this for a...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Hr1R1GwB2eU&t=6351s)  > ...the part that's still not done. They have to run the wire from 89 all the way down the road, connect it so you can send the power out. >> I'll uh I'll circulate a drone photo of it to the council so you can get a sense. It's pretty pretty visually dramatic. Yeah. >> And also here's future swap shop. I know we've been talking about this for a...
 
 
 ### 2026-04-30 -- Board of Education
 
 **Board of Education 04/30/2026** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=LXXgwc-PKv0&t=1790s)  > ...they were able to come to enrichment for Xlock. Um middle at the bottom is a bird's eye view from the drone of students testing their robots in bsentennial...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LXXgwc-PKv0&t=1790s)  > ...they were able to come to enrichment for Xlock. Um middle at the bottom is a bird's eye view from the drone of students testing their robots in bsentennial...
 
 
 ### 2026-06-22 -- Town Council
 
 **Town Council  6/22/2026** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=dBbW-Cn1bXw&t=9340s)  > ...take feedback from the community. So, thank you to all. >> Ms. Gotham. >> You know, as a a fellow bibliophile...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dBbW-Cn1bXw&t=9340s)  > ...take feedback from the community. So, thank you to all. >> Ms. Gotham. >> You know, as a a fellow bibliophile...
 
 
 ### 2026-08-10 -- Town Council
 
 **Town Council  8/10/2026** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3864s)  > ...ALPRs? Um this is in reaction primarily to police departments' use of the readers, the Flock camera systems, and other things like that, but um are you aware that the governor's asked...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3864s)  > ...ALPRs? Um this is in reaction primarily to police departments' use of the readers, the Flock camera systems, and other things like that, but um are you aware that the governor's asked...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3957s)  > ...see any of the documentation in the packet around this that the specific ALPR technology that this company is using, you know, one of their revenue streams...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3957s)  > ...see any of the documentation in the packet around this that the specific ALPR technology that this company is using, you know, one of their revenue streams...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3995s)  > ...municipal police departments around the around the state, to make a list of all the ALPR technologies that are in use in the state. I'm imagining this would be on that list....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3995s)  > ...municipal police departments around the around the state, to make a list of all the ALPR technologies that are in use in the state. I'm imagining this would be on that list....
 
 
 ## Findings by topic
@@ -303,12 +405,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3864s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-10] Town Council** -- Town Council  8/10/2026
-  > ...see any of the documentation in the packet around this that the specific ALPR technology that this company is using, you know, one of their revenue streams...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3957s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-10] Town Council** -- Town Council  8/10/2026
   > ...municipal police departments around the around the state, to make a list of all the ALPR technologies that are in use in the state. I'm imagining this would be on that list....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3995s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-10] Town Council** -- Town Council  8/10/2026
+  > ...see any of the documentation in the packet around this that the specific ALPR technology that this company is using, you know, one of their revenue streams...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cjsRJPm2fVc&t=3957s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-25] Agriculture Committee** -- Agriculture Committee  11/25/2025
   > ...gives me plenty of time to cajul Steve into uh letting me have a whole flock of chickens. Uh, a horse. >> Oh, yeah. I'll stick to food animals....
@@ -335,72 +437,72 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Mky0kzUMuAc&t=2266s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
-  > ...so by by restricting and every I don't want to repeat what other people said about flock size. Flock size isn't so easy to manage. It has to do with the age of the bird. It has to do with how...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=4620s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
-  > ...speak again on the chickens thing like everyone else does. Um so obviously roosters are important to the flock. I think like most owners uh are able to control the amount of roosters they have...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6512s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
-  > ...many birds. It has to do with time of the year. There's all these components that go into flock size. It's not so easy to say x amount of square foot per bird and just call it a day. That that's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=4630s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
-  > ...flocks and they become pets to these families and they allow us to replenish our flock as chickens stop laying eggs after a few years. Roosters are essential to the flock. Instead of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=7056s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
-  > ...our flock as chickens stop laying eggs after a few years. Roosters are essential to the flock. Instead of completely changing our town's values and upbringing for a few newcomers, why...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=7060s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
-  > ...rooster. And I just wanted to give you a sense of some of the other upsides of having a chicken flock. If I don't have a rooster, I can't I can't have a flock because of the predation with coyotes...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2816s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
-  > ...regulation, they could take complaints on a case- by case basis if that owner is uh taking their flock and they're um you know, they're keeping it clean and they're being a proper bird owner. You...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6630s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
-  > ...lot, the more feed you have to buy for your chickens. Feed is expensive. Your flock starts getting too big. You have to buy too much feed. And you say, "I'm not willing to spend that much on feed."...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=5444s)  _(term: alpr_flock, unreviewed)_
+  > ...to buy too much feed. And you say, "I'm not willing to spend that much on feed." So then you cut back on your flock size. You don't replace as many. And and it and it it's not an exact science. It...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=5450s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
   > ...Tanner. I'm I've been a 30-year resident of Mansfield. I have a 2acre lot and I have a a flock of chickens and a rooster. And I just wanted to give you a sense of some of the other upsides of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2808s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
-  > ...children. So, um it's uh for me, if I don't have a rooster, I don't have a flock. And I've been I've been like I've said I've I've had chickens for over 30 years and it's just part of my lifestyle...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2882s)  _(term: alpr_flock, unreviewed)_
+  > ...rooster. I do not have chickens. I might have chickens one day. I recognize that roosters are important for the flock. I grew up here. I live now in the same house that I was raised in. I'm in my...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6373s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
+  > ...rooster. And I just wanted to give you a sense of some of the other upsides of having a chicken flock. If I don't have a rooster, I can't I can't have a flock because of the predation with coyotes...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2816s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
+  > ...flocks and they become pets to these families and they allow us to replenish our flock as chickens stop laying eggs after a few years. Roosters are essential to the flock. Instead of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=7056s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
   > ...the agricultural stuff having roosters being able to have roosters being able to have a flock u where other towns limit you a lot more uh as we talked about you know so I you know I believe...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6584s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
-  > ...rooster. I do not have chickens. I might have chickens one day. I recognize that roosters are important for the flock. I grew up here. I live now in the same house that I was raised in. I'm in my...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6373s)  _(term: alpr_flock, unreviewed)_
+  > ...sense of some of the other upsides of having a chicken flock. If I don't have a rooster, I can't I can't have a flock because of the predation with coyotes and foxes, etc., etc. So, they they come...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2818s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
-  > ...another one. Right. One. I need the roosters to protect the flock. And two, that if out of those...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=3370s)  _(term: alpr_flock, unreviewed)_
+  > ...lot, the more feed you have to buy for your chickens. Feed is expensive. Your flock starts getting too big. You have to buy too much feed. And you say, "I'm not willing to spend that much on feed."...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=5444s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
-  > ...owner is only going to have the set or amount of roosters that is going to be sized for their flock. Um, you know, aside from the noise ordinance, I'm can't imagine how many complaints you...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6526s)  _(term: alpr_flock, unreviewed)_
+  > ...regulation, they could take complaints on a case- by case basis if that owner is uh taking their flock and they're um you know, they're keeping it clean and they're being a proper bird owner. You...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6630s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
+  > ...speak again on the chickens thing like everyone else does. Um so obviously roosters are important to the flock. I think like most owners uh are able to control the amount of roosters they have...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6512s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
+  > ...children. So, um it's uh for me, if I don't have a rooster, I don't have a flock. And I've been I've been like I've said I've I've had chickens for over 30 years and it's just part of my lifestyle...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2882s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
   > ...finds a way. can't increase your acorage but your flock is going to get increased when by just natural things right so my father mentioned earlier I have...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=3212s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
-  > ...sense of some of the other upsides of having a chicken flock. If I don't have a rooster, I can't I can't have a flock because of the predation with coyotes and foxes, etc., etc. So, they they come...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2818s)  _(term: alpr_flock, unreviewed)_
+  > ...our flock as chickens stop laying eggs after a few years. Roosters are essential to the flock. Instead of completely changing our town's values and upbringing for a few newcomers, why...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=7060s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
-  > ...to buy too much feed. And you say, "I'm not willing to spend that much on feed." So then you cut back on your flock size. You don't replace as many. And and it and it it's not an exact science. It...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=5450s)  _(term: alpr_flock, unreviewed)_
+  > ...another one. Right. One. I need the roosters to protect the flock. And two, that if out of those...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=3370s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
+  > ...so by by restricting and every I don't want to repeat what other people said about flock size. Flock size isn't so easy to manage. It has to do with the age of the bird. It has to do with how...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=4620s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
+  > ...owner is only going to have the set or amount of roosters that is going to be sized for their flock. Um, you know, aside from the noise ordinance, I'm can't imagine how many complaints you...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=6526s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-04-21] Planning and Zoning Commission** -- PZC  04/21/2025
+  > ...many birds. It has to do with time of the year. There's all these components that go into flock size. It's not so easy to say x amount of square foot per bird and just call it a day. That that's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=4630s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-04-15] Agriculture Committee** -- Agriculture Committee Special Meeting 04/15/2025
   > ...table. What uh just a brief review of your farming situation, livestock or or crops or both? Um, I have a huge flock of um chickens, geese, ducks, quail, feeasant, turkeys, and guinea hens. So,...
@@ -468,12 +570,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=MHpRmezH5bo&t=2329s)  _(term: drone, unreviewed)_
 
 - **[2025-06-18] Conservation Commission** -- Conservation Commission 06/18/2025
-  > ...expectation of privacy against them flying a drone over their property or even flying a drone just straight up from the street and looking over the back of your house. Never been ruled on....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=E24NqLTmYcY&t=3676s)  _(term: drone, unreviewed)_
-
-- **[2025-06-18] Conservation Commission** -- Conservation Commission 06/18/2025
   > ...Fun facts. Fun facts. We learned something today. Um, I have a question about uh drone activities. Okay. Particularly around town events. I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=E24NqLTmYcY&t=3568s)  _(term: drone, unreviewed)_
+
+- **[2025-06-18] Conservation Commission** -- Conservation Commission 06/18/2025
+  > ...expectation of privacy against them flying a drone over their property or even flying a drone just straight up from the street and looking over the back of your house. Never been ruled on....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=E24NqLTmYcY&t=3676s)  _(term: drone, unreviewed)_
 
 - **[2025-06-18] Conservation Commission** -- Conservation Commission 06/18/2025
   > ...should people have a reasonable expectation of privacy against them flying a drone over their property or even flying a drone just straight up from the street and looking over the...
@@ -484,36 +586,36 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=NkdwvBf9YmA&t=5110s)  _(term: drone, unreviewed)_
 
 - **[2025-03-13] Parks and Natural Resources Committee** -- PNRC 03/13/2025
-  > ...nature yeah I would say that valid fair point however what if someone wants to video a soccer game from above there may be valid reasons that someone would want to use a drone to take photography or video of an activity that we like in the park is the hum of a drone somewhat annoying can be but much like the idea...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3734s)  _(term: drone, unreviewed)_
-
-- **[2025-03-13] Parks and Natural Resources Committee** -- PNRC 03/13/2025
-  > ...you can follow with Pro prohibitions or permitted activities or whatever Julian I saw you raising your hand yeah I had two questions um one is drones oh yeah drone law what about it um if if those are permitted or prohibited okay so drones...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3556s)  _(term: drone, unreviewed)_
-
-- **[2025-03-13] Parks and Natural Resources Committee** -- PNRC 03/13/2025
   > ...got from not the town attorney but a land use attorney um in December um was that in general a drone is a RV device which is just a toy until you start using it to do anything that is remotely violating someone's property rights don't walk up to the line don't even walk within 10 ft of the line of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3608s)  _(term: drone, unreviewed)_
 
 - **[2025-03-13] Parks and Natural Resources Committee** -- PNRC 03/13/2025
-  > ...above there may be valid reasons that someone would want to use a drone to take photography or video of an activity that we like in the park is the hum of a drone somewhat annoying can be but much like the idea of there's going to be push back on a push to ban all bicycles in all of our parks and all places because people enjoy nature in different...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3745s)  _(term: drone, unreviewed)_
+  > ...this guy come go I'd say that's not a Transit device so he gets to do it and also it's obviously not what we're trying the block I know it's just a grounded drone yeah it's we're allowing we're silent on drones it's it's adds to the amusement of the park actually because we get a huge chuckle out of him every time he goes by and he's really good about it...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=5374s)  _(term: drone, unreviewed)_
 
 - **[2025-03-13] Parks and Natural Resources Committee** -- PNRC 03/13/2025
-  > ...know drones only allowed in certain with a permit we could put drones in a you know tell the town if you're going to fly a drone and that could be fair but I think a a flat ban on them runs into like well you know people enjoy things in different ways even even a a permit that says uh um permit required if not drone filming of an organized...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3782s)  _(term: drone, unreviewed)_
-
-- **[2025-03-13] Parks and Natural Resources Committee** -- PNRC 03/13/2025
-  > ...drone and that could be fair but I think a a flat ban on them runs into like well you know people enjoy things in different ways even even a a permit that says uh um permit required if not drone filming of an organized sport good does you don't have to issue a permit for there's another thing that enters in here there's an FAA rule about how far...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3793s)  _(term: drone, unreviewed)_
+  > ...nature yeah I would say that valid fair point however what if someone wants to video a soccer game from above there may be valid reasons that someone would want to use a drone to take photography or video of an activity that we like in the park is the hum of a drone somewhat annoying can be but much like the idea...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3734s)  _(term: drone, unreviewed)_
 
 - **[2025-03-13] Parks and Natural Resources Committee** -- PNRC 03/13/2025
   > ...line Falls someplace in the feral Fields across the road from from my house oh you know that that actually that covers a good part of town so you you really couldn't fly a drone in most of uh Menville Hollow State Park or on the soccer fields there's five months all kinds of reg the regulations start getting a lot stronger I'm sure you know FAA has...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3839s)  _(term: drone, unreviewed)_
 
 - **[2025-03-13] Parks and Natural Resources Committee** -- PNRC 03/13/2025
-  > ...this guy come go I'd say that's not a Transit device so he gets to do it and also it's obviously not what we're trying the block I know it's just a grounded drone yeah it's we're allowing we're silent on drones it's it's adds to the amusement of the park actually because we get a huge chuckle out of him every time he goes by and he's really good about it...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=5374s)  _(term: drone, unreviewed)_
+  > ...above there may be valid reasons that someone would want to use a drone to take photography or video of an activity that we like in the park is the hum of a drone somewhat annoying can be but much like the idea of there's going to be push back on a push to ban all bicycles in all of our parks and all places because people enjoy nature in different...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3745s)  _(term: drone, unreviewed)_
+
+- **[2025-03-13] Parks and Natural Resources Committee** -- PNRC 03/13/2025
+  > ...drone and that could be fair but I think a a flat ban on them runs into like well you know people enjoy things in different ways even even a a permit that says uh um permit required if not drone filming of an organized sport good does you don't have to issue a permit for there's another thing that enters in here there's an FAA rule about how far...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3793s)  _(term: drone, unreviewed)_
+
+- **[2025-03-13] Parks and Natural Resources Committee** -- PNRC 03/13/2025
+  > ...know drones only allowed in certain with a permit we could put drones in a you know tell the town if you're going to fly a drone and that could be fair but I think a a flat ban on them runs into like well you know people enjoy things in different ways even even a a permit that says uh um permit required if not drone filming of an organized...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3782s)  _(term: drone, unreviewed)_
+
+- **[2025-03-13] Parks and Natural Resources Committee** -- PNRC 03/13/2025
+  > ...you can follow with Pro prohibitions or permitted activities or whatever Julian I saw you raising your hand yeah I had two questions um one is drones oh yeah drone law what about it um if if those are permitted or prohibited okay so drones...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=l65azDVQHyo&t=3556s)  _(term: drone, unreviewed)_
 
 - **[2024-06-18] Planning and Zoning Commission** -- PZC/IWA Meeting
   > ...your town website one of your Prime photos shows eille from a downstream direction from a drone you'll see the grouted rip wrap and those areas have not required any maintenance the only...
@@ -534,6 +636,86 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2024-03-11] Town Council** -- Town Council Meeting 3/11/2024
   > ...technology um but we do subscribe to Ortho imagery um so those are not drone technology like we're not in there with our little remote control and flying a drone around but there are um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RYRR5eTFDvQ&t=13806s)  _(term: drone, unreviewed)_
+
+- **[2023-01-12] School Building Committee** -- School Building Committee Special Meeting 01/12/2023
+  > ...to the microphone you're going to start up just with a couple of drone photos this is the completed parking lot and the uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dROqbSbtbHk&t=358s)  _(term: drone, unreviewed)_
+
+- **[2023-01-09] Town Council** -- Town Council 01/09/2023
+  > ...uh Al for to show some pictures so the first couple of photos are drone photos these were actually taken...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nQjNbx5qlO0&t=562s)  _(term: drone, unreviewed)_
+
+- **[2023-01-09] Town Council** -- Town Council 01/09/2023
+  > ...these were actually taken last month as our drone battery died today so um but we were pretty much done with the parking lot in exterior building last...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nQjNbx5qlO0&t=567s)  _(term: drone, unreviewed)_
+
+- **[2022-12-08] School Building Committee** -- School Building Committee Special Meeting 12/08/2022
+  > ...you've got an ice skating rink all right so that was the last of the Drone photos now pretty some camera photos this is just showing the uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Wr3NUMwCmak&t=1706s)  _(term: drone, unreviewed)_
+
+- **[2022-12-08] School Building Committee** -- School Building Committee Special Meeting 12/08/2022
+  > ...little issues okay I'm sharing the screen here so I'm going to go through the Drone photos first this is a shot of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Wr3NUMwCmak&t=402s)  _(term: drone, unreviewed)_
+
+- **[2022-10-11] Town Council** -- Town Council 10/11/2022
+  > ...um well I will start if I miss something you can you can join in um so here's a drone view of the building um you can see the building up towards...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=n0wG1ZA584E&t=1661s)  _(term: drone, unreviewed)_
+
+- **[2022-09-22] School Building Committee** -- School Building Committee 09/22/2022
+  > ...thank you here's another shot of the building this is the last of the Drone photos photos can everyone see the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=0-lwlDjz48k&t=624s)  _(term: drone, unreviewed)_
+
+- **[2022-09-22] School Building Committee** -- School Building Committee 09/22/2022
+  > ...hey everyone else on the screen yes we can so we'll go through the Drone photos first this is the uh the rear area the north...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=0-lwlDjz48k&t=133s)  _(term: drone, unreviewed)_
+
+- **[2022-08-25] School Building Committee** -- School Building Committee 08/25/2022
+  > ...okay so this is the uh drone photo uh looking north you see the uh the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eFwqZxC28xg&t=1780s)  _(term: drone, unreviewed)_
+
+- **[2022-08-25] School Building Committee** -- School Building Committee 08/25/2022
+  > ...gradually we're getting more and more of the space so um this is a drone photo of the entire building looking east this is the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eFwqZxC28xg&t=1841s)  _(term: drone, unreviewed)_
+
+- **[2022-08-25] School Building Committee** -- School Building Committee 08/25/2022
+  > ...of the entire building looking east this is the drone photo of b north and c east some ground the last picture and it was on the first...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eFwqZxC28xg&t=1854s)  _(term: drone, unreviewed)_
+
+- **[2022-07-28] School Building Committee** -- School Building Committee 07/28/2022
+  > ...they'll do the cement board siding back on this roof area this is a drone shot of the south area bay you can see sidewalks are going in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8uQ8rJHjcOg&t=222s)  _(term: drone, unreviewed)_
+
+- **[2022-07-14] School Building Committee** -- School Building Committee 07/14/2022
+  > ...okay yes [Music] so we got some drunk drone photos to start with this is a a picture of the overall building...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2ECYO2PrQgQ&t=88s)  _(term: drone, unreviewed)_
+
+- **[2022-06-23] School Building Committee** -- School Building Committee 06/23/2022
+  > ...uh they've been pouring this for a few days no i mean the drone flight was it today yeah yes the drone photos are from today this is area b south...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XegRvoRD6TQ&t=199s)  _(term: drone, unreviewed)_
+
+- **[2022-06-23] School Building Committee** -- School Building Committee 06/23/2022
+  > ...days no i mean the drone flight was it today yeah yes the drone photos are from today this is area b south um you can see the pv panels are...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XegRvoRD6TQ&t=201s)  _(term: drone, unreviewed)_
+
+- **[2022-06-23] School Building Committee** -- School Building Committee 06/23/2022
+  > ...all right so these are the photos go through these first um so these are the drone photos this is the uh the pump house area they've started working on the siding now around...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XegRvoRD6TQ&t=180s)  _(term: drone, unreviewed)_
+
+- **[2022-06-09] School Building Committee** -- School Building Committee 06/09/2022
+  > ...we'll move on to the contractor update ow start uh we don't have any drone photos today because our our drone was out of power...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IoPQ_d29veE&t=1602s)  _(term: drone, unreviewed)_
+
+- **[2022-06-09] School Building Committee** -- School Building Committee 06/09/2022
+  > ...ow start uh we don't have any drone photos today because our our drone was out of power but we will have more next next meeting...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IoPQ_d29veE&t=1602s)  _(term: drone, unreviewed)_
+
+- **[2022-04-28] School Building Committee** -- School Building Committee 04/28/2022
+  > ...okay unfortunately it was too windy today to take drone photos we almost lost our drone um i'll have extra ones for next time...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=abTTWndg0xI&t=1578s)  _(term: drone, unreviewed)_
+
+- **[2022-04-28] School Building Committee** -- School Building Committee 04/28/2022
+  > ...can everyone see the photos yes okay unfortunately it was too windy today to take drone photos we almost lost our drone um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=abTTWndg0xI&t=1575s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -561,6 +743,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2026-06-22] Town Council** -- Town Council  6/22/2026
   > ...take feedback from the community. So, thank you to all. >> Ms. Gotham. >> You know, as a a fellow bibliophile...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dBbW-Cn1bXw&t=9340s)  _(term: predictive_policing, unreviewed)_
+
+- **[2023-01-26] School Building Committee** -- School Building Committee Special Meeting 01/26/2023
+  > ...um about two weeks on that we were able to secure the trench strains I think there's one Foundry drain cover that we we don't have a handle on yet um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ji0xREgHboU&t=534s)  _(term: predictive_policing, unreviewed)_
 
 
 ### purchasing_broker
@@ -723,8 +909,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 28
-- Videos registered: 1256 (fetched: 773, no captions: 12)
-- Date range covered: 2015-05-06 to 2026-08-27 (all 1256 videos dated)
+- Videos registered: 1258 (fetched: 954, no captions: 14)
+- Date range covered: 2015-05-06 to 2026-09-03 (all 1258 videos dated)
 
 
 ### Channels
@@ -738,8 +924,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| mansfield_ct_stream | streams | 2026-08-31 14:15:44.078678 | 401 |
-| mansfield_ct_stream | videos | 2026-08-31 14:15:57.108071 | 1048 |
+| mansfield_ct_stream | streams | 2026-09-07 16:33:48.560738 | 402 |
+| mansfield_ct_stream | videos | 2026-09-07 16:33:43.199769 | 1050 |
 
 
 ## Registered meeting bodies
@@ -760,10 +946,10 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Economic Development Commission | other | True | 59 |
 | Ethics Board | other | True | 6 |
 | Historic District Commission | other | True | 28 |
-| Human Rights Commission | other | True | 65 |
+| Human Rights Commission | other | True | 66 |
 | Human Services Advisory Committee | other | True | 8 |
 | Mansfield Advocates for Children | other | True | 23 |
-| Mansfield Downtown Partnership | other | True | 30 |
+| Mansfield Downtown Partnership | other | True | 31 |
 | Parks and Natural Resources Committee | other | True | 31 |
 | Personnel Committee | other | True | 35 |
 | Planning and Zoning Commission | other | True | 154 |
@@ -779,8 +965,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 571 (fetched: 563)
-- Date range covered: 2011-01-19 to 2026-09-02
+- Documents registered: 585 (fetched: 577)
+- Date range covered: 2011-01-19 to 2026-09-10
 
 
 ### Agenda sources
@@ -803,7 +989,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (12 shown, max 25)
+### Videos with no captions available (14 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
@@ -818,6 +1004,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | IWA/PZC 12/02/2024 | 2024-12-02 |
 | Agriculture Committee 5/16/2024 | 2024-05-16 |
 | Board of Education Meeting 10/12/2023 | 2023-10-12 |
+| Board of Education 10/13/2022 | 2022-10-13 |
+| Board of Education - Special Meeting 05/25/2022 | 2022-05-25 |
 | ZBA Meeting | 2021-01-20 |
 
 
@@ -829,5 +1017,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:40:16 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Mansfield"`_
+_Generated 2026-09-07T17:35:14 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Mansfield"`_
 

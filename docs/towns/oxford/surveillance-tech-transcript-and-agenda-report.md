@@ -9,8 +9,8 @@ This report collects every mention of surveillance technology found in **Oxford*
 **No surveillance-technology mentions have been found in this town's meetings yet.** That is not the same as none existing -- read the coverage note below, and [Gaps and caveats](#gaps-and-caveats), before treating this as an answer about the town.
 
 
-- **Coverage:** 35 of 46 known Oxford meetings transcribed (76%)
-- **Still incomplete:** 11 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 35 of 48 known Oxford meetings transcribed (73%)
+- **Still incomplete:** 13 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 ## Contents
@@ -290,8 +290,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 2
 - Active meeting bodies: 6
-- Videos registered: 46 (fetched: 35, no captions: 10)
-- Date range covered: 2024-05-06 to 2026-07-16 (all 46 videos dated)
+- Videos registered: 48 (fetched: 35, no captions: 12)
+- Date range covered: 2024-05-06 to 2026-09-02 (all 48 videos dated)
 
 
 ### Channels
@@ -306,8 +306,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| oxford_bos_ct | streams | 2026-08-31 14:12:11.772721 | 22 |
-| oxford_underground_press | videos | 2026-08-31 14:12:02.045895 | 37 |
+| oxford_bos_ct | streams | 2026-09-07 16:47:42.510983 | 24 |
+| oxford_underground_press | videos | 2026-09-07 16:47:27.693564 | 37 |
 
 
 ## Registered meeting bodies
@@ -315,7 +315,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 13 |
-| Board of Selectmen | council | True | 24 |
+| Board of Selectmen | council | True | 26 |
 | Board of Education | education | True | 0 |
 | Planning & Zoning Commission | other | True | 1 |
 | Public Hearing | other | True | 3 |
@@ -328,7 +328,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 138 (fetched: 2)
+- Documents registered: 140 (fetched: 2)
 - Date range covered: 2026-01-06 to 2026-10-20
 
 
@@ -355,18 +355,20 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (10 shown, max 25)
+### Videos with no captions available (12 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| 9 02 26 BOS Meeting | 2026-09-02 |
+| 9 02 26 BOS Meeting | 2026-09-02 |
 | 04 02 25 BoS Meeting, Oxford, CT | 2025-04-02 |
 | 03 24 25 BoF Special Mtg with BOE - Oxford, CT  (Part 1 of 2) | 2025-03-24 |
 | 3 19 25 Board of Selectmen Meeting, Oxford, CT Part 2 of 2 | 2025-03-19 |
 | 03 19 25 BoS Meeting, Oxford, CT Part 1 of 2 | 2025-03-19 |
 | 03-05-25 Board of Selectmen Meeting - Oxford, CT | 2025-03-05 |
 | 02-19-25 Board of Selectmen Meeting Oxford, CT | 2025-02-19 |
-| 02-05-25 Town Meeting - Oxford, CT | 2025-02-05 |
 | 02-05-25 Town Meeting - Lot 1, E Commerce Drive, Oxford, CT | 2025-02-05 |
+| 02-05-25 Town Meeting - Oxford, CT | 2025-02-05 |
 | 01 08 25 BoS Special Meeting Part 1 of 2- Oxford CT | 2025-01-08 |
 | 10 16 24 BoS Meeting, Oxford, CT | 2024-10-16 |
 
@@ -382,5 +384,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:43:03 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Oxford"`_
+_Generated 2026-09-07T17:38:56 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Oxford"`_
 
