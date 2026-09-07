@@ -8,8 +8,8 @@ This report collects every mention of surveillance technology found in **Canterb
 - **5 mentions** across **2 meetings**
 - **First mention:** 2023-09-13  |  **Most recent:** 2026-03-17
 - **Technologies discussed:** drone
-- **Coverage:** 95 of 243 known Canterbury meetings transcribed (39%)
-- **Still incomplete:** 148 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 95 of 245 known Canterbury meetings transcribed (39%)
+- **Still incomplete:** 150 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -80,20 +80,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Board of Education 09//12/23** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=107s)  > ...together about the high school there's a video about our AG program there's a video in there about our drone program which we started there's another video that is our barn and our animals and we...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=107s)  > ...together about the high school there's a video about our AG program there's a video in there about our drone program which we started there's another video that is our barn and our animals and we...
 
-- `drone` [▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=713s)  > ...outside new course offerings there you see the Drone pilot that is so cool you know you you you get a drone certification and we had a kid who um is...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=713s)  > ...outside new course offerings there you see the Drone pilot that is so cool you know you you you get a drone certification and we had a kid who um is...
 
-- `drone` [▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=715s)  > ...new course offerings there you see the Drone pilot that is so cool you know you you you get a drone certification and we had a kid who um is that's his job that's like his business...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=715s)  > ...new course offerings there you see the Drone pilot that is so cool you know you you you get a drone certification and we had a kid who um is that's his job that's like his business...
 
-- `drone` [▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=723s)  > ...certification and we had a kid who um is that's his job that's like his business now he has a he has a drone he he works with real estate agents you know showcasing their land using the the...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=723s)  > ...certification and we had a kid who um is that's his job that's like his business now he has a he has a drone he he works with real estate agents you know showcasing their land using the the...
 
 
 ### 2026-03-17 -- Board of Selectmen
 
 **Board of Selectmen 03/17/26** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=mfhjbqC6mJw&t=706s)  > ...up there. I think that um you know, it behooves us to take a look at this is a drone. Uh anecdotally, I'm not going to provide dates cuz I don't remember them all, but in the time I've...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=mfhjbqC6mJw&t=706s)  > ...up there. I think that um you know, it behooves us to take a look at this is a drone. Uh anecdotally, I'm not going to provide dates cuz I don't remember them all, but in the time I've...
 
 
 ## Findings by topic
@@ -335,8 +335,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 11
-- Videos registered: 243 (fetched: 95, no captions: 0)
-- Date range covered: 2020-03-18 to 2026-07-21 (all 243 videos dated)
+- Videos registered: 245 (fetched: 95, no captions: 1)
+- Date range covered: 2020-03-18 to 2026-09-03 (all 245 videos dated)
 
 
 ### Channels
@@ -350,8 +350,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| canterbury_ct | streams | 2026-08-31 13:39:59.840198 | 146 |
-| canterbury_ct | videos | 2026-08-31 13:40:01.887272 | 100 |
+| canterbury_ct | streams | 2026-09-07 16:26:55.868741 | 148 |
+| canterbury_ct | videos | 2026-09-07 16:26:53.075318 | 100 |
 
 
 ## Registered meeting bodies
@@ -362,12 +362,12 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Capital Improvement Plan Committee | budget_finance | True | 3 |
 | Board of Education | education | True | 2 |
 | Board of Assessment Appeals | other | True | 3 |
-| Board of Selectmen | other | True | 135 |
+| Board of Selectmen | other | True | 136 |
 | COL Committee | other | True | 1 |
 | CPL Committee | other | True | 4 |
 | Inland Wetlands & Watercourses Commission | other | True | 1 |
 | Planning & Zoning Commission | other | True | 2 |
-| Town Meeting | other | True | 5 |
+| Town Meeting | other | True | 6 |
 | Tri-Board Meeting | other | True | 2 |
 
 
@@ -399,9 +399,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (0 shown, max 25)
+### Videos with no captions available (1 shown, max 25)
 
-*(none)*
+| title | upload_date |
+| --- | --- |
+| Town Meeting 09/03/2026 | 2026-09-03 |
 
 
 ### Tabs never crawled
@@ -412,5 +414,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:36:06 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Canterbury"`_
+_Generated 2026-09-07T17:28:42 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Canterbury"`_
 

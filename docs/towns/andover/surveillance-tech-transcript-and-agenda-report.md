@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Andover
 - **1 mention** across **1 meeting**
 - **First mention:** 2025-11-19  |  **Most recent:** 2025-11-19
 - **Technologies discussed:** predictive_policing
-- **Coverage:** 192 of 487 known Andover meetings transcribed (39%)
+- **Coverage:** 217 of 487 known Andover meetings transcribed (45%)
 - **Not the full history:** transcripts begin **2021-05-04**, but Andover's published video archive goes back to **2020-04-03**. Meetings before 2021 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -80,7 +80,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Zoning Board of Appeals11.19.25** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=S8M_S9gb7Nw&t=507s)  > ...conforming, closer to what the overall zone wanted. In that case, it was going from an existing foundry use to a car repair shop. So they the courts held after the after the variance was upheld,...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=S8M_S9gb7Nw&t=507s)  > ...conforming, closer to what the overall zone wanted. In that case, it was going from an existing foundry use to a car repair shop. So they the courts held after the after the variance was upheld,...
 
 
 ## Findings by topic
@@ -306,7 +306,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 9
-- Videos registered: 487 (fetched: 192, no captions: 4)
+- Videos registered: 487 (fetched: 217, no captions: 4)
 - Date range covered: 2020-04-03 to 2026-08-26 (all 487 videos dated)
 
 
@@ -321,7 +321,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| andover_ct | videos | 2026-08-31 14:20:26.814237 | 510 |
+| andover_ct | videos | 2026-09-07 16:51:48.090161 | 510 |
 
 
 ## Registered meeting bodies
@@ -386,5 +386,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:34:58 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Andover"`_
+_Generated 2026-09-07T17:27:09 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Andover"`_
 

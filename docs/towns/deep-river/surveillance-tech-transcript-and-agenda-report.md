@@ -8,8 +8,8 @@ This report collects every mention of surveillance technology found in **Deep Ri
 - **6 mentions** across **2 meetings**
 - **First mention:** 2024-12-12  |  **Most recent:** 2025-01-14
 - **Technologies discussed:** alpr
-- **Coverage:** 83 of 262 known Deep River meetings transcribed (32%)
-- **Not the full history:** transcripts begin **2024-01-09**, but Deep River's published video archive goes back to **2017-03-27**. Meetings before 2024 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+- **Coverage:** 125 of 262 known Deep River meetings transcribed (48%)
+- **Not the full history:** transcripts begin **2022-01-25**, but Deep River's published video archive goes back to **2017-03-27**. Meetings before 2022 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -80,22 +80,22 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Deep River Planning & Zoning meeting December 12, 2024** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=22d3rhwA-R0&t=1857s)  > ...up because the reason I first approached um Planning and Zoning is to request the variant to allow me to increase my flock of hens um and currently as you're I'm sure you're all aware there's a limit on...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=22d3rhwA-R0&t=1857s)  > ...up because the reason I first approached um Planning and Zoning is to request the variant to allow me to increase my flock of hens um and currently as you're I'm sure you're all aware there's a limit on...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=22d3rhwA-R0&t=1917s)  > ...make this a viable business I would really need to be able to increase A Flock I just submitted a a grant to be able to redo the fenced area um to the the current structure we have our hens...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=22d3rhwA-R0&t=1917s)  > ...make this a viable business I would really need to be able to increase A Flock I just submitted a a grant to be able to redo the fenced area um to the the current structure we have our hens...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=22d3rhwA-R0&t=1951s)  > ...everything so that's what the Grant I submitted for is however obviously I can't increase my flock without having some sort of variance but when I approached Planning and Zoning Tony said...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=22d3rhwA-R0&t=1951s)  > ...everything so that's what the Grant I submitted for is however obviously I can't increase my flock without having some sort of variance but when I approached Planning and Zoning Tony said...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=22d3rhwA-R0&t=2684s)  > ...our these are our pets and yeah it's putting me in in a tough position of do I basically Co my flock and start over with new hens just so that I can stay under that minimum of 25 Birds...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=22d3rhwA-R0&t=2684s)  > ...our these are our pets and yeah it's putting me in in a tough position of do I basically Co my flock and start over with new hens just so that I can stay under that minimum of 25 Birds...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=22d3rhwA-R0&t=2855s)  > ...wouldn't be spot zoning because you do the whole yeah yeah yeah my concern would be that I would increase my flock and then something happens and someone says okay you need to get rid of X...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=22d3rhwA-R0&t=2855s)  > ...wouldn't be spot zoning because you do the whole yeah yeah yeah my concern would be that I would increase my flock and then something happens and someone says okay you need to get rid of X...
 
 
 ### 2025-01-14 -- Board of Selectmen
 
 **Deep River Town Meetings - January 14 2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=7KT5N0EGaJE&t=1558s)  > ...first so then we would refer you to some of these resources but they do um ask that if you have a domestic flock of birds you know chickens or something they encourage you to get registered...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7KT5N0EGaJE&t=1558s)  > ...first so then we would refer you to some of these resources but they do um ask that if you have a domestic flock of birds you know chickens or something they encourage you to get registered...
 
 
 ## Findings by topic
@@ -341,7 +341,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 2
 - Active meeting bodies: 7
-- Videos registered: 262 (fetched: 83, no captions: 0)
+- Videos registered: 262 (fetched: 125, no captions: 0)
 - Date range covered: 2017-03-27 to 2026-08-19 (all 262 videos dated)
 
 
@@ -357,9 +357,9 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| deep_river_ct | videos | 2026-08-31 13:40:33.571083 | 91 |
-| vsctv | streams | 2026-08-31 13:34:37.404801 | 1 |
-| vsctv | videos | 2026-08-31 13:35:20.086257 | 3352 |
+| deep_river_ct | videos | 2026-09-07 16:27:38.225590 | 91 |
+| vsctv | streams | 2026-09-07 16:20:49.158131 | 1 |
+| vsctv | videos | 2026-09-07 16:20:48.413846 | 3352 |
 
 
 ## Registered meeting bodies
@@ -424,5 +424,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:37:02 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Deep River"`_
+_Generated 2026-09-07T17:30:09 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Deep River"`_
 

@@ -81,16 +81,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Cornwall CT's selectman's meeting102015** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=gwzcRBCnHYs&t=113s)  > ...in the uh Connecticut uh tourism office uh called up and said there will be a uh camera on a drone flying around West Cornwall taking pictures of cover bridge and all glory this week U...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gwzcRBCnHYs&t=113s)  > ...in the uh Connecticut uh tourism office uh called up and said there will be a uh camera on a drone flying around West Cornwall taking pictures of cover bridge and all glory this week U...
 
-- `drone` [▸](https://www.youtube.com/watch?v=gwzcRBCnHYs&t=125s)  > ...Cornwall taking pictures of cover bridge and all glory this week U so if you see a drone we're not being uh invaded or anything um where was she from she's from the Connecticut Tourism...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gwzcRBCnHYs&t=125s)  > ...Cornwall taking pictures of cover bridge and all glory this week U so if you see a drone we're not being uh invaded or anything um where was she from she's from the Connecticut Tourism...
 
 
 ### 2024-01-23 -- Economic Development Commission
 
 **Cornwall Regular EDC Meeting 1 23 24** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=cY0RkspjWMI&t=2883s)  > ...Octobers when the weather was like that and still they you know people would flock to the town you know I've been with this almost 30 years and it was just phenomenally...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=cY0RkspjWMI&t=2883s)  > ...Octobers when the weather was like that and still they you know people would flock to the town you know I've been with this almost 30 years and it was just phenomenally...
 
 
 ## Findings by topic
@@ -337,7 +337,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| cornwall_ct | videos | 2026-08-31 13:40:23.055089 | 987 |
+| cornwall_ct | videos | 2026-09-07 16:27:22.382788 | 987 |
 
 
 ## Registered meeting bodies
@@ -405,5 +405,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:36:30 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Cornwall"`_
+_Generated 2026-09-07T17:29:16 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Cornwall"`_
 

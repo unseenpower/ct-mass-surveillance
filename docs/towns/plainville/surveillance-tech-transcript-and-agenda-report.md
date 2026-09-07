@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **Plainville**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **9 mentions** across **9 meetings**
-- **First mention:** 2024-03-11  |  **Most recent:** 2026-08-17
-- **Technologies discussed:** alpr, drone
-- **Coverage:** 118 of 325 known Plainville meetings transcribed (36%)
-- **Not the full history:** transcripts begin **2023-07-24**, but Plainville's published video archive goes back to **2017-01-17**. Meetings before 2023 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+- **24 mentions** across **18 meetings**
+- **First mention:** 2020-03-12  |  **Most recent:** 2026-08-17
+- **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone
+- **Coverage:** 225 of 325 known Plainville meetings transcribed (69%)
+- **Not the full history:** transcripts begin **2019-09-09**, but Plainville's published video archive goes back to **2017-01-17**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -69,75 +69,152 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 1 | 1 | 2026-03-10 | 2026-03-10 |
-| drone | 8 | 8 | 2024-03-11 | 2026-08-17 |
+| body_camera | 4 | 3 | 2020-07-20 | 2021-03-10 |
+| doorbell_partnership | 1 | 1 | 2020-03-12 | 2020-03-12 |
+| drone | 18 | 14 | 2021-03-09 | 2026-08-17 |
 
 
 ## Timeline
 
-9 meetings surfaced a finding (9 dated, spanning 2024-03-11 to 2026-08-17; 0 of unknown date, listed last).
+18 meetings surfaced a finding (18 dated, spanning 2020-03-12 to 2026-08-17; 0 of unknown date, listed last).
+
+
+### 2020-03-12 -- Town Council
+
+**Plainville Town Council Budget Meeting - 3/12/20** _(topics: doorbell_partnership)_
+
+- `doorbell_partnership` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YUvfoWrAZXA&t=3842s)  > ...know when someone breaks into an apartment or breaks into a house you know or ring doorbell we have all of those pieces now so video is becoming more our photos you know a camera today...
+
+
+### 2020-07-20 -- Town Council
+
+**Plainville Town Council Meeting - 7/20/20** _(topics: body_camera)_
+
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3Cjq3ZaRE4g&t=1412s)  > ...i'm sorry i must have been mistaken i see video surveillance from the police officer's body cam as well as the car cam as necessary and i also see it as a mutually...
+
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3Cjq3ZaRE4g&t=2529s)  > ...uh so somebody may be using taser's product to act on his taser they they make a body cam so they're purchasing that we couldn't really regionalize with...
+
+
+### 2021-03-09 -- Town Council
+
+**Plainville Town Council Budget Meeting - 3/9/21** _(topics: body_camera, drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JTH8nk9LifY&t=3580s)  > ...the two new ones are these last two it's the fingerprinting machine and the uh drone pilot's license we need uh nine nine roughly nine nine nine pilots license at...
+
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JTH8nk9LifY&t=3978s)  > ...yes we were let me ask you a question of course uh lieutenant the body cam's three to five years is that due to changing technology wear and tear...
+
+
+### 2021-03-10 -- Town Council
+
+**Plainville Town Council Budget Meeting - 3/10/21** _(topics: body_camera)_
+
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=hipaeM0hpeI&t=2738s)  > ...believe that is to uh cover the cost for the body cam storage i think this is more um and to make sure that the body cams are backed up the the...
+
+
+### 2022-03-14 -- Town Council
+
+**Plainville Town Council Budget Meeting 03-14-22** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=vI2yzDFtHes&t=3800s)  > ...like that occurs we also have uh the the police department did acquire a drone uh a while ago that we had to buy insurance...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=vI2yzDFtHes&t=3808s)  > ...for that that's twenty two hundred dollars two thousand two hundred dollars where's the drone i mean is it for the police department yes yes and and yeah yeah...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=vI2yzDFtHes&t=3819s)  > ...yeah yeah we have to have an faa licensed officer running the drone whenever it's being used if you will so we have to pay for a license this...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=vI2yzDFtHes&t=3876s)  > ...figured we had to get it to benefit the public so and insurance is in case the drone hits something or somebody or what can yeah i mean because there's cameras on...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=vI2yzDFtHes&t=3909s)  > ...you know that's why it has to be an faa licensed right uh uh you know person running the drone because obviously you need to know what what the you know especially having an airport...
+
+
+### 2022-05-16 -- Town Council
+
+**Plainville Town Council Meeting - 05-16-22** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=v3fE2NaZFZA&t=2040s)  > ...hamburgers from noon to 1. they will also have the plainville police department there with their drone unit and amr will be in attendance for a live extrication demo at 2pm they're...
+
+
+### 2023-01-17 -- Town Council
+
+**Plainville Town Council Meeting - 01-17-23** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JALyVGFYwTk&t=596s)  > ...Sergeant fto coordinator Honor Guard member drone pilot and most recently administrative Sergeant where he has managed the Traffic Division Training...
+
+
+### 2023-03-06 -- Town Council
+
+**Plainville Town Council Meeting - 03-06-23** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ac2f-u5uA9o&t=195s)  > ...the areas of handcuffing OC spray and Baton he is currently one of our drone operators he has been awarded the Mothers Against Drunk Driving award on...
+
+
+### 2023-03-13 -- Town Budget Meeting / Public Hearing
+
+**Plainville Town Budget Meeting - 03-13-23** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=jqgOM-CupME&t=4328s)  > ...items below that the the main main property insurance line item or cyber Insurance drone flood insurance flood insurance is going up and I I believe I mentioned to Mike this morning or...
 
 
 ### 2024-03-11 -- Town Council
 
 **Plainville Town Council Budget Meeting - 03/11/24** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=5P8vw8ZnQdk&t=3373s)  > ...let's hope not so we're you know that's a good thing you know then we also have the smaller policies of drone Insurance flood insurance uh underground storage tanks and then we have our miscellaneous...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5P8vw8ZnQdk&t=3373s)  > ...let's hope not so we're you know that's a good thing you know then we also have the smaller policies of drone Insurance flood insurance uh underground storage tanks and then we have our miscellaneous...
 
 
 ### 2024-10-07 -- Town Council
 
 **Plainville Town Council Meeting - 10/07/24** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=y5bpShtlhko&t=5968s)  > ...country I'm not even sure the name of the company but they did go through and they did find a very low frequency drone type of a vibration noise that's coming out but it's not a noise that 90 plus...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=y5bpShtlhko&t=5968s)  > ...country I'm not even sure the name of the company but they did go through and they did find a very low frequency drone type of a vibration noise that's coming out but it's not a noise that 90 plus...
 
 
 ### 2025-03-10 -- Town Council
 
 **Plainville Town Council Budget Meeting - 03/10/25** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=pNS2EKOBVuI&t=3006s)  > ...all our policies shown below you know we have multiple policies liability Auto properties cyber Insurance drone Insurance flood insurance we no longer have the underground storage tank so we...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=pNS2EKOBVuI&t=3006s)  > ...all our policies shown below you know we have multiple policies liability Auto properties cyber Insurance drone Insurance flood insurance we no longer have the underground storage tank so we...
 
 
 ### 2025-06-02 -- Town Council
 
 **Plainville Town Council Meeting - 06/02/25** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=hvT3U49QbsI&t=3118s)  > ...company is A1 Drilling and Blasting Company. Um they do a drone process to look and fly uh the site. Uh they take uh detailed uh photos uh and specific uh patterns. Um...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=hvT3U49QbsI&t=3118s)  > ...company is A1 Drilling and Blasting Company. Um they do a drone process to look and fly uh the site. Uh they take uh detailed uh photos uh and specific uh patterns. Um...
 
 
 ### 2025-08-18 -- Town Council
 
 **Plainville Town Council Meeting - 08/18/25** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=FlMW4DHnyCw&t=4843s)  > ...weather, one at 6 am and one at 6 pm. There'll also be a car show that same day and a drone light show on Saturday night at 9:00 p.m. On both days, there will be kitty rides and arts and crafts...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FlMW4DHnyCw&t=4843s)  > ...weather, one at 6 am and one at 6 pm. There'll also be a car show that same day and a drone light show on Saturday night at 9:00 p.m. On both days, there will be kitty rides and arts and crafts...
 
 
 ### 2025-12-01 -- Town Council
 
 **Plainville Town Council Meeting - 12/01/25** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=Idsz-dvXqMg&t=4379s)  > ...[snorts] >> Correct. That is from a drone shot from top of Pinnacle Mountain over 3,000 ft away from Tilon site....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Idsz-dvXqMg&t=4379s)  > ...[snorts] >> Correct. That is from a drone shot from top of Pinnacle Mountain over 3,000 ft away from Tilon site....
 
 
 ### 2026-03-10 -- Town Council
 
 **Plainville Town Council Budget Meeting - 03/10/26** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=LslLBXGahRw&t=3735s)  > ...left, I'll be looking to try to get more LPRs, probably through a company called Flock. Uh, again, that's that's up in the air, but I do know I want to increase our stationary license plate...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LslLBXGahRw&t=3735s)  > ...left, I'll be looking to try to get more LPRs, probably through a company called Flock. Uh, again, that's that's up in the air, but I do know I want to increase our stationary license plate...
 
 
 ### 2026-04-07 -- Town Council
 
 **Plainville Special Town Council Meeting - 04/07/26** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=3VFX2XQEY3E&t=1241s)  > ...earlier, the image at the top is the Middletown Landfill. This is taken from a drone, so you get an aerial view of what that project looks like. Comparative to Plainville, that project...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3VFX2XQEY3E&t=1241s)  > ...earlier, the image at the top is the Middletown Landfill. This is taken from a drone, so you get an aerial view of what that project looks like. Comparative to Plainville, that project...
 
 
 ### 2026-08-17 -- Water Pollution Control Authority
 
 **Plainville Town Council As Water Pollution Control Authority and Regular Council Meeting - 08/17/26** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=TxCxxEUzvOY&t=4037s)  > ...then on Saturday the 29th from 9:00 to 9:00 at Norton Park. Um, there will be a drone show on Saturday night. That'll be added this year. >> Wow....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=TxCxxEUzvOY&t=4037s)  > ...then on Saturday the 29th from 9:00 to 9:00 at Norton Park. Um, there will be a drone show on Saturday night. That'll be added this year. >> Wow....
 
 
 ## Findings by topic
@@ -162,7 +239,21 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### body_camera
 
-*(no findings)*
+- **[2021-03-10] Town Council** -- Plainville Town Council Budget Meeting - 3/10/21
+  > ...believe that is to uh cover the cost for the body cam storage i think this is more um and to make sure that the body cams are backed up the the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hipaeM0hpeI&t=2738s)  _(term: body_camera, unreviewed)_
+
+- **[2021-03-09] Town Council** -- Plainville Town Council Budget Meeting - 3/9/21
+  > ...yes we were let me ask you a question of course uh lieutenant the body cam's three to five years is that due to changing technology wear and tear...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JTH8nk9LifY&t=3978s)  _(term: body_camera, unreviewed)_
+
+- **[2020-07-20] Town Council** -- Plainville Town Council Meeting - 7/20/20
+  > ...i'm sorry i must have been mistaken i see video surveillance from the police officer's body cam as well as the car cam as necessary and i also see it as a mutually...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3Cjq3ZaRE4g&t=1412s)  _(term: body_camera, unreviewed)_
+
+- **[2020-07-20] Town Council** -- Plainville Town Council Meeting - 7/20/20
+  > ...uh so somebody may be using taser's product to act on his taser they they make a body cam so they're purchasing that we couldn't really regionalize with...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3Cjq3ZaRE4g&t=2529s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -182,7 +273,9 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### doorbell_partnership
 
-*(no findings)*
+- **[2020-03-12] Town Council** -- Plainville Town Council Budget Meeting - 3/12/20
+  > ...know when someone breaks into an apartment or breaks into a house you know or ring doorbell we have all of those pieces now so video is becoming more our photos you know a camera today...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YUvfoWrAZXA&t=3842s)  _(term: doorbell_partnership, unreviewed)_
 
 
 ### drone
@@ -218,6 +311,46 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2024-03-11] Town Council** -- Plainville Town Council Budget Meeting - 03/11/24
   > ...let's hope not so we're you know that's a good thing you know then we also have the smaller policies of drone Insurance flood insurance uh underground storage tanks and then we have our miscellaneous...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5P8vw8ZnQdk&t=3373s)  _(term: drone, unreviewed)_
+
+- **[2023-03-13] Town Budget Meeting / Public Hearing** -- Plainville Town Budget Meeting - 03-13-23
+  > ...items below that the the main main property insurance line item or cyber Insurance drone flood insurance flood insurance is going up and I I believe I mentioned to Mike this morning or...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jqgOM-CupME&t=4328s)  _(term: drone, unreviewed)_
+
+- **[2023-03-06] Town Council** -- Plainville Town Council Meeting - 03-06-23
+  > ...the areas of handcuffing OC spray and Baton he is currently one of our drone operators he has been awarded the Mothers Against Drunk Driving award on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ac2f-u5uA9o&t=195s)  _(term: drone, unreviewed)_
+
+- **[2023-01-17] Town Council** -- Plainville Town Council Meeting - 01-17-23
+  > ...Sergeant fto coordinator Honor Guard member drone pilot and most recently administrative Sergeant where he has managed the Traffic Division Training...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JALyVGFYwTk&t=596s)  _(term: drone, unreviewed)_
+
+- **[2022-05-16] Town Council** -- Plainville Town Council Meeting - 05-16-22
+  > ...hamburgers from noon to 1. they will also have the plainville police department there with their drone unit and amr will be in attendance for a live extrication demo at 2pm they're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=v3fE2NaZFZA&t=2040s)  _(term: drone, unreviewed)_
+
+- **[2022-03-14] Town Council** -- Plainville Town Council Budget Meeting 03-14-22
+  > ...figured we had to get it to benefit the public so and insurance is in case the drone hits something or somebody or what can yeah i mean because there's cameras on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vI2yzDFtHes&t=3876s)  _(term: drone, unreviewed)_
+
+- **[2022-03-14] Town Council** -- Plainville Town Council Budget Meeting 03-14-22
+  > ...yeah yeah we have to have an faa licensed officer running the drone whenever it's being used if you will so we have to pay for a license this...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vI2yzDFtHes&t=3819s)  _(term: drone, unreviewed)_
+
+- **[2022-03-14] Town Council** -- Plainville Town Council Budget Meeting 03-14-22
+  > ...for that that's twenty two hundred dollars two thousand two hundred dollars where's the drone i mean is it for the police department yes yes and and yeah yeah...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vI2yzDFtHes&t=3808s)  _(term: drone, unreviewed)_
+
+- **[2022-03-14] Town Council** -- Plainville Town Council Budget Meeting 03-14-22
+  > ...you know that's why it has to be an faa licensed right uh uh you know person running the drone because obviously you need to know what what the you know especially having an airport...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vI2yzDFtHes&t=3909s)  _(term: drone, unreviewed)_
+
+- **[2022-03-14] Town Council** -- Plainville Town Council Budget Meeting 03-14-22
+  > ...like that occurs we also have uh the the police department did acquire a drone uh a while ago that we had to buy insurance...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vI2yzDFtHes&t=3800s)  _(term: drone, unreviewed)_
+
+- **[2021-03-09] Town Council** -- Plainville Town Council Budget Meeting - 3/9/21
+  > ...the two new ones are these last two it's the fingerprinting machine and the uh drone pilot's license we need uh nine nine roughly nine nine nine pilots license at...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JTH8nk9LifY&t=3580s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -393,7 +526,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 8
-- Videos registered: 325 (fetched: 118, no captions: 1)
+- Videos registered: 325 (fetched: 225, no captions: 1)
 - Date range covered: 2017-01-17 to 2026-08-17 (all 325 videos dated)
 
 
@@ -408,8 +541,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| nutmeg_tv | streams | 2026-08-31 14:17:55.743411 | 3 |
-| nutmeg_tv | videos | 2026-08-31 14:19:03.178474 | 5271 |
+| nutmeg_tv | streams | 2026-09-07 16:50:01.480623 | 3 |
+| nutmeg_tv | videos | 2026-09-07 16:50:00.685188 | 5282 |
 
 
 ## Registered meeting bodies
@@ -470,5 +603,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:43:12 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Plainville"`_
+_Generated 2026-09-07T17:39:08 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Plainville"`_
 

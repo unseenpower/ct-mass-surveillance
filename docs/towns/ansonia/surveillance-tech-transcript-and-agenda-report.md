@@ -83,109 +83,109 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Ansonia Connecticut Board of Aldermen** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=FI3guTl4sJM&t=4416s)  > ...you to come over I I have right here and I'd be happy to and I'd be happy to look at it my point drone uh Mr y I've got some more want Mr Blackwell you had your hand up first just want to make it clear...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FI3guTl4sJM&t=4416s)  > ...you to come over I I have right here and I'd be happy to and I'd be happy to look at it my point drone uh Mr y I've got some more want Mr Blackwell you had your hand up first just want to make it clear...
 
 
 ### 2020-07-07 -- Board of Aldermen
 
 **Ansonia Connecticut Board of Aldermen** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=L6HPW0zJNeo&t=8472s)  > ...this project and go out to rebid in the market that we were in we have Foundry bids end up to be a higher number a tree bid because sometimes the low bidders would back...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=L6HPW0zJNeo&t=8472s)  > ...this project and go out to rebid in the market that we were in we have Foundry bids end up to be a higher number a tree bid because sometimes the low bidders would back...
 
 
 ### 2020-09-14 -- Board of Aldermen
 
 **Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=4wXVi0jTXJU&t=1426s)  > ...i guess finances pricing moving forward we are waiting for some stuff from our our body cam uh company they've had some questions for us we've answered those so i don't have anything uh specific right...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4wXVi0jTXJU&t=1426s)  > ...i guess finances pricing moving forward we are waiting for some stuff from our our body cam uh company they've had some questions for us we've answered those so i don't have anything uh specific right...
 
 
 ### 2020-11-03 -- Board of Aldermen
 
 **Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=E_pwFNAy6WQ&t=5983s)  > ...uh talking about the additional cost that um this bill is going to to uh just for the body cam I think was going to be about almost $100,000 a year for for derby um and we had our own numbers from...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=E_pwFNAy6WQ&t=5983s)  > ...uh talking about the additional cost that um this bill is going to to uh just for the body cam I think was going to be about almost $100,000 a year for for derby um and we had our own numbers from...
 
 
 ### 2021-01-13 -- Board of Aldermen
 
 **Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=VFqIA7Q_NcM&t=2379s)  > ...and then the one that we're waiting for a final number but we're working with our body cam company because we've had them for almost six years now um that's going to...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VFqIA7Q_NcM&t=2379s)  > ...and then the one that we're waiting for a final number but we're working with our body cam company because we've had them for almost six years now um that's going to...
 
 
 ### 2021-07-15 -- Board of Aldermen
 
 **Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=qf-PAQq7QMQ&t=2159s)  > ...so we are we have been paying roughly 32 let's say 32 to 35 000 a year for our current body cam system and we're going up to roughly eighty thousand dollars...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qf-PAQq7QMQ&t=2159s)  > ...so we are we have been paying roughly 32 let's say 32 to 35 000 a year for our current body cam system and we're going up to roughly eighty thousand dollars...
 
 
 ### 2021-08-11 -- Board of Aldermen
 
 **Ansonia Connecticut Board of Aldermen** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=9fjXfxpqlXA&t=1713s)  > ...i mentioned i mentioned this to mickey one day i was sitting at the traffic light coming down foundry hill and uh [Music]...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9fjXfxpqlXA&t=1713s)  > ...i mentioned i mentioned this to mickey one day i was sitting at the traffic light coming down foundry hill and uh [Music]...
 
 
 ### 2022-06-23 -- Board of Aldermen
 
 **Ansonia Connecticut Board of Aldermen** _(topics: alpr)_
 
-- `alpr_vendor` [▸](https://www.youtube.com/watch?v=BXyNry8NL_U&t=1627s)  > ...vehicle in the next uh budget axon fleet if you drove by the police department today you may have seen uh them out working on cars in the parking...
+- `alpr_vendor` [Watch on YouTube ▸](https://www.youtube.com/watch?v=BXyNry8NL_U&t=1627s)  > ...vehicle in the next uh budget axon fleet if you drove by the police department today you may have seen uh them out working on cars in the parking...
 
 
 ### 2022-12-14 -- Board of Aldermen
 
 **Ansonia Connecticut Board of Aldermen** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=hApXtLIRNrA&t=4432s)  > ...oh absolutely okay absolutely yeah that's where the License Plate Reader and that uh that the real-time monitoring part comes in so so you only got...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=hApXtLIRNrA&t=4432s)  > ...oh absolutely okay absolutely yeah that's where the License Plate Reader and that uh that the real-time monitoring part comes in so so you only got...
 
 
 ### 2023-09-13 -- Board of Aldermen
 
 **Ansonia Connecticut Board of Aldermen** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=E_MKZB2H7F8&t=3114s)  > ...owner that owns two former feral buildings one is the one that you see here the form of The Foundry that abuts um the end of Main Street so as you go down right past the police station the...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=E_MKZB2H7F8&t=3114s)  > ...owner that owns two former feral buildings one is the one that you see here the form of The Foundry that abuts um the end of Main Street so as you go down right past the police station the...
 
 
 ### 2024-04-10 -- Board of Aldermen
 
 **Ansonia Connecticut Board of Aldermen** _(topics: surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=xR2fpiWuYr4&t=1746s)  > ...and the additional survey work has been completed pipe cleaning and CCTV inspection has been completed um retaining wall is in design and um you know just moving along not not exciting...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=xR2fpiWuYr4&t=1746s)  > ...and the additional survey work has been completed pipe cleaning and CCTV inspection has been completed um retaining wall is in design and um you know just moving along not not exciting...
 
 
 ### 2025-02-12 -- Board of Aldermen
 
 **Ansonia Connecticut Board of Aldermen** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=V0qSwkkxEso&t=1866s)  > ...noticed there's a chain link fence that has been recently put up around the church at the base of Foundry Hill and uh I'm wondering is is that to prepare for its...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=V0qSwkkxEso&t=1866s)  > ...noticed there's a chain link fence that has been recently put up around the church at the base of Foundry Hill and uh I'm wondering is is that to prepare for its...
 
 
 ### 2025-06-11 -- Board of Aldermen
 
 **Ansonia Connecticut Board of Aldermen** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=dAbjq3EbCzY&t=2136s)  > ...And that's He sits more to the right, John. I think he's down in the 30. My drone will pick it up. Unless you just put Chargers on both sides like the Jets. Both sides. No, let's not do...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dAbjq3EbCzY&t=2136s)  > ...And that's He sits more to the right, John. I think he's down in the 30. My drone will pick it up. Unless you just put Chargers on both sides like the Jets. Both sides. No, let's not do...
 
-- `drone` [▸](https://www.youtube.com/watch?v=dAbjq3EbCzY&t=5086s)  > ...times and um I just curious, do we have uh in that uh the ability to uh have drone surveillance? Does anybody uh close by and other police departments or other investigations? I will tell you as...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dAbjq3EbCzY&t=5086s)  > ...times and um I just curious, do we have uh in that uh the ability to uh have drone surveillance? Does anybody uh close by and other police departments or other investigations? I will tell you as...
 
 
 ### 2026-01-14 -- Board of Aldermen
 
 **Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=oKQG_cNTkDE&t=471s)  > ...>> Yep. And we will discuss it. Uh police >> I'll take a look at it because obviously there'll be body cam footage. So if officer was rude or disrespectful, I'll be able to watch the interaction...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oKQG_cNTkDE&t=471s)  > ...>> Yep. And we will discuss it. Uh police >> I'll take a look at it because obviously there'll be body cam footage. So if officer was rude or disrespectful, I'll be able to watch the interaction...
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=oKQG_cNTkDE&t=3319s)  > ...thing about people when there's a complaint made about an officer is they all wear a body cam. So I can just sit play and watch what happened. Um and I will tell you it will probably be...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oKQG_cNTkDE&t=3319s)  > ...thing about people when there's a complaint made about an officer is they all wear a body cam. So I can just sit play and watch what happened. Um and I will tell you it will probably be...
 
 
 ### 2026-02-11 -- Board of Aldermen
 
 **Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=mHzwOQ3OgIk&t=5041s)  > ...There was an officer and a supervisor that had gone there. I watched their body cam videos. Um there was definitely no rudeness. There was definitely no disrespect. There was trying to resolve...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=mHzwOQ3OgIk&t=5041s)  > ...There was an officer and a supervisor that had gone there. I watched their body cam videos. Um there was definitely no rudeness. There was definitely no disrespect. There was trying to resolve...
 
 
 ## Findings by topic
@@ -482,8 +482,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| ansonia_ct | streams | 2026-08-31 14:20:36.424929 | 2 |
-| ansonia_ct | videos | 2026-08-31 14:20:38.637210 | 127 |
+| ansonia_ct | streams | 2026-09-07 16:52:04.847057 | 2 |
+| ansonia_ct | videos | 2026-09-07 16:52:04.107433 | 127 |
 
 
 ## Registered meeting bodies
@@ -543,5 +543,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:35:03 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ansonia"`_
+_Generated 2026-09-07T17:27:15 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ansonia"`_
 

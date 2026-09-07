@@ -80,7 +80,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Easton Board of Education Meeting** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=ZvyDU8RUhmg&t=4114s)  > ...uh that'll take us to item seven board committee reports um so devin i know uh we had our dji community we'll come there as well so devin...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZvyDU8RUhmg&t=4114s)  > ...uh that'll take us to item seven board committee reports um so devin i know uh we had our dji community we'll come there as well so devin...
 
 
 ## Findings by topic
@@ -321,8 +321,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| easton_boe_ct | streams | 2026-08-31 13:40:45.207990 | 151 |
-| easton_boe_ct | videos | 2026-08-31 13:40:46.111592 | 26 |
+| easton_boe_ct | streams | 2026-09-07 16:27:55.759783 | 151 |
+| easton_boe_ct | videos | 2026-09-07 16:27:53.001535 | 26 |
 
 
 ## Registered meeting bodies
@@ -344,8 +344,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 76 (fetched: 1)
-- Date range covered: 2026-01-06 to 2026-08-31
+- Documents registered: 79 (fetched: 1)
+- Date range covered: 2026-01-06 to 2026-09-08
 
 
 ### Agenda sources
@@ -386,5 +386,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:38:01 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Easton"`_
+_Generated 2026-09-07T17:32:12 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Easton"`_
 

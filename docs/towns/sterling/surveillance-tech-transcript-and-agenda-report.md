@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Sterlin
 - **4 mentions** across **3 meetings**
 - **First mention:** 2025-06-10  |  **Most recent:** 2026-05-12
 - **Technologies discussed:** drone, purchasing_broker
-- **Coverage:** 130 of 134 known Sterling meetings transcribed (97%)
+- **Coverage:** 131 of 136 known Sterling meetings transcribed (96%)
 - **1 additional mention** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
@@ -81,23 +81,23 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Sterling EDC Meeting - Land Surveying RFP - 06/10/2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=e1JiwfSGL-0&t=1772s)  > ...look at to the aerial. take a look at those children get older. So, we do have drone pictures of all industrial park including this property too. If you'd like to see them,...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=e1JiwfSGL-0&t=1772s)  > ...look at to the aerial. take a look at those children get older. So, we do have drone pictures of all industrial park including this property too. If you'd like to see them,...
 
 
 ### 2026-02-11 -- Board of Finance
 
 **Sterling BOF-Regular Meeting - 02/11/2026** _(topics: purchasing_broker)_
 
-- `purchasing_broker` [▸](https://www.youtube.com/watch?v=B6JXZOXORK8&t=227s)  > ...new business. Letter A, consider an act on a CDWG quote quote of um I think that's computer discount warehouse. I'm not...
+- `purchasing_broker` [Watch on YouTube ▸](https://www.youtube.com/watch?v=B6JXZOXORK8&t=227s)  > ...new business. Letter A, consider an act on a CDWG quote quote of um I think that's computer discount warehouse. I'm not...
 
 
 ### 2026-05-12 -- Economic Development Commission
 
 **Sterling EDC-Regular Meeting - 05/12/2026** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=YsRoKNv67Ms&t=3347s)  > ...>> Okay. >> We have aerial maps of the industrial park. We got drone cameras of all the the full industrial park. They want that. We got plenty of pictures. So...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YsRoKNv67Ms&t=3347s)  > ...>> Okay. >> We have aerial maps of the industrial park. We got drone cameras of all the the full industrial park. They want that. We got plenty of pictures. So...
 
-- `drone` [▸](https://www.youtube.com/watch?v=YsRoKNv67Ms&t=3356s)  > ...that. We got plenty of pictures. So >> yeah, we have a pretty good map though with the drone. So >> Okay. So this is something all new for me....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YsRoKNv67Ms&t=3356s)  > ...that. We got plenty of pictures. So >> yeah, we have a pretty good map though with the drone. So >> Okay. So this is something all new for me....
 
 
 ## Findings by topic
@@ -339,8 +339,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 9
-- Videos registered: 134 (fetched: 130, no captions: 4)
-- Date range covered: 2025-03-25 to 2026-08-19 (all 134 videos dated)
+- Videos registered: 136 (fetched: 131, no captions: 5)
+- Date range covered: 2025-03-25 to 2026-09-02 (all 136 videos dated)
 
 
 ### Channels
@@ -354,8 +354,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| sterling_ct | streams | 2026-08-31 13:44:02.343720 | 0 |
-| sterling_ct | videos | 2026-08-31 13:44:04.708728 | 136 |
+| sterling_ct | streams | 2026-09-07 16:56:35.489909 | 0 |
+| sterling_ct | videos | 2026-09-07 16:56:34.784565 | 138 |
 
 
 ## Registered meeting bodies
@@ -363,8 +363,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 17 |
-| Board of Selectmen | council | True | 35 |
-| Agricultural Commission | other | True | 14 |
+| Board of Selectmen | council | True | 36 |
+| Agricultural Commission | other | True | 15 |
 | Economic Development Commission | other | True | 13 |
 | Inland Wetland & Watercourses Commission | other | True | 7 |
 | Planning & Zoning Commission | other | True | 21 |
@@ -376,8 +376,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 150 (fetched: 148)
-- Date range covered: 2026-01-07 to 2026-09-01
+- Documents registered: 153 (fetched: 151)
+- Date range covered: 2026-01-07 to 2026-09-09
 
 
 ### Agenda sources
@@ -400,10 +400,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (4 shown, max 25)
+### Videos with no captions available (5 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Sterling BOS-Regular Meeting (Evening) - 09/02/2026 | 2026-09-02 |
 | Sterling BOS-Special Meeting - 10/09/2025 | 2025-10-09 |
 | Sterling BOS - Special Meeting - 10/06/2025 | 2025-10-06 |
 | Sterling Ag. Comm. - 07/01/2025 | 2025-07-01 |
@@ -418,5 +419,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:44:13 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Sterling"`_
+_Generated 2026-09-07T17:40:34 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Sterling"`_
 

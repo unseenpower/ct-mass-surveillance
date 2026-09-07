@@ -1,6 +1,6 @@
 # AI data fusion: every mention, every town
 
-_Generated 2026-08-31T14:55:49 — 1 mentions across 1 towns, 2026-03-16 to 2026-03-16._
+_Generated 2026-09-07T17:43:40 — 1 mentions across 1 towns, 2026-03-16 to 2026-03-16._
 
 
 Platforms that combine multiple data sources with AI analysis.
@@ -34,5 +34,5 @@ _Most recent first within each town. Every line links to the exact second of the
 
 - **[2026-03-16] Town Council** — Town Council Regular Meeting - March 16, 2026
   > …over time, and record where they're going. All of that gets fed into their Flock Nova analytics platform, which infers what they're doing and who they're doing those things with.…
-  [Watch ▸](https://www.youtube.com/watch?v=na7vGQk44nc&t=2515s)  _(term: `ai_data_fusion`)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=na7vGQk44nc&t=2515s)  _(term: `ai_data_fusion`)_
 

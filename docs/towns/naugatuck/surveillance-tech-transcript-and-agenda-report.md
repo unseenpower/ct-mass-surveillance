@@ -8,8 +8,8 @@ This report collects every mention of surveillance technology found in **Naugatu
 - **18 mentions** across **9 meetings**
 - **First mention:** 2022-02-10  |  **Most recent:** 2026-08-04
 - **Technologies discussed:** alpr, body_camera, drone, facial_recognition, surveillance_general
-- **Coverage:** 141 of 242 known Naugatuck meetings transcribed (58%)
-- **Still incomplete:** 101 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 141 of 243 known Naugatuck meetings transcribed (58%)
+- **Still incomplete:** 102 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -84,81 +84,81 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Naugatuck Board of Education Meeting Feb. 10, 2022** _(topics: facial_recognition)_
 
-- `facial_recognition` [▸](https://www.youtube.com/watch?v=ZjYeVPNY_ik&t=2043s)  > ...her whole school career so far has been seeing teachers covered part of kids development is facial recognition due to the pandemic and the unscientific guidelines put in place...
+- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZjYeVPNY_ik&t=2043s)  > ...her whole school career so far has been seeing teachers covered part of kids development is facial recognition due to the pandemic and the unscientific guidelines put in place...
 
-- `facial_recognition` [▸](https://www.youtube.com/watch?v=ZjYeVPNY_ik&t=3148s)  > ...unconstitutional moving forward it the mass enables children to read facial cues facial recognition understanding someone's emotions based off their facial...
+- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZjYeVPNY_ik&t=3148s)  > ...unconstitutional moving forward it the mass enables children to read facial cues facial recognition understanding someone's emotions based off their facial...
 
 
 ### 2024-03-04 -- Finance Board
 
 **Finance Board Budget Workshop Meeting 03-4-24** _(topics: body_camera, drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=233s)  > ...black the assessor dat books for the National Association for depreciation as well as the Drone software some IP cameras at fire and some survey software that we are...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=233s)  > ...black the assessor dat books for the National Association for depreciation as well as the Drone software some IP cameras at fire and some survey software that we are...
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=855s)  > ...back a couple of years ago Hartford sent down and said that every municipality will have a body cam for every officer that could possibly be in the policing capacity so that takes it from your...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=855s)  > ...back a couple of years ago Hartford sent down and said that every municipality will have a body cam for every officer that could possibly be in the policing capacity so that takes it from your...
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=867s)  > ...standard patrol officer and the Cruisers all the way to the chief so even Chief mallister has body Cam that he's required to wear if there's any possibility that he could be in a...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=867s)  > ...standard patrol officer and the Cruisers all the way to the chief so even Chief mallister has body Cam that he's required to wear if there's any possibility that he could be in a...
 
-- `drone` [▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=977s)  > ...sir okay anything else any other questions how many drones do we have we have my know is we have one drone but we might have a backup I know we we crashed one um and we got a replacement for it...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=977s)  > ...sir okay anything else any other questions how many drones do we have we have my know is we have one drone but we might have a backup I know we we crashed one um and we got a replacement for it...
 
-- `drone` [▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=991s)  > ...to be able to have um better reporting zooming capability streaming capability from that drone um the drones right now located at PD and they're the ones that appet um some of the stuff that I've...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=991s)  > ...to be able to have um better reporting zooming capability streaming capability from that drone um the drones right now located at PD and they're the ones that appet um some of the stuff that I've...
 
-- `drone` [▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=1008s)  > ...destination he has his own from that I've not actually flown our drone but c f I was just wondering because if it's made in China or Russia very soon we not...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=1008s)  > ...destination he has his own from that I've not actually flown our drone but c f I was just wondering because if it's made in China or Russia very soon we not...
 
 
 ### 2024-03-18 -- Finance Board
 
 **Finance Board Budget Workshop Meeting 03-18-24** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=0Mu4sCYEBP4&t=1119s)  > ...if you pick that up thanks I appreciate that up and um the $4,000 on the Drone should be in Jim's budget we did have we we were discussing...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0Mu4sCYEBP4&t=1119s)  > ...if you pick that up thanks I appreciate that up and um the $4,000 on the Drone should be in Jim's budget we did have we we were discussing...
 
 
 ### 2024-08-29 -- Board of Mayor and Burgesses
 
 **Special Board of Mayor and Burgess meeting 8-29-24** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=synqGVNTPJ0&t=665s)  > ...by step up we had hundreds pictures take it was impassible but I think by what by did you put the Drone up there and have it fly over to see the capture the whole...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=synqGVNTPJ0&t=665s)  > ...by step up we had hundreds pictures take it was impassible but I think by what by did you put the Drone up there and have it fly over to see the capture the whole...
 
 
 ### 2025-03-04 -- Board of Mayor and Burgesses
 
 **Monthly Board of Mayor and Burgess meeting 03/04/2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=HAlhO87vdls&t=4715s)  > ...these islands and Banks where it's too steep for us to get our equipment on that's the first it's kind like a drone you sit there with little controller yeah cool we rented one a couple years...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=HAlhO87vdls&t=4715s)  > ...these islands and Banks where it's too steep for us to get our equipment on that's the first it's kind like a drone you sit there with little controller yeah cool we rented one a couple years...
 
 
 ### 2025-12-18 -- Zoning Commission
 
 **Borough of Naugatuck Zoning Meeting 12-18-25** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=NRgI9BBdiDM&t=4891s)  > ...the time. It's a really nice sweating. Right now in Nagata, most of the people flock over to the golf course. It's a little tiny bunny thing. Only little tiny kids want to play there. This is...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=NRgI9BBdiDM&t=4891s)  > ...the time. It's a really nice sweating. Right now in Nagata, most of the people flock over to the golf course. It's a little tiny bunny thing. Only little tiny kids want to play there. This is...
 
 
 ### 2026-07-07 -- Board of Mayor and Burgesses
 
 **Monthly Board of Mayor and Burgess meeting 07/07/2026** _(topics: surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=GYqD-Emhr0g&t=2178s)  > ...involved with the side investigations for several years now. like back in 2022 was out in the field doing CCTV of all those drainage pipes figuring out drainage network. Um downstream we added...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GYqD-Emhr0g&t=2178s)  > ...involved with the side investigations for several years now. like back in 2022 was out in the field doing CCTV of all those drainage pipes figuring out drainage network. Um downstream we added...
 
 
 ### 2026-08-03 -- Planning Commission
 
 **Planning Commission Meeting 8-3-26** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=AH4cVHcYvzY&t=3327s)  > ...phenomenal. It was coffins. It was making all sorts of noises, tweets, and mechanical sounds. It was a flock of redwing blackbirds and they were in vibration. Now, if you've seen this...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=AH4cVHcYvzY&t=3327s)  > ...phenomenal. It was coffins. It was making all sorts of noises, tweets, and mechanical sounds. It was a flock of redwing blackbirds and they were in vibration. Now, if you've seen this...
 
 
 ### 2026-08-04 -- Board of Mayor and Burgesses
 
 **Monthly Board of Mayor and Burgess meeting 08/04/2026** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4750s)  > ...because of the Chinese manufacturer it's been legislated out so uh Axon partners with the drone companies getting two additional drones out of here again that technology interface allows the drones...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4750s)  > ...because of the Chinese manufacturer it's been legislated out so uh Axon partners with the drone companies getting two additional drones out of here again that technology interface allows the drones...
 
-- `drone` [▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4817s)  > ...can't resell them to a 78 market. They really aren't standalone products. And the DJI drones aren't there. You can't import them after the first few year. China's going to spy on us with a drone....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4817s)  > ...can't resell them to a 78 market. They really aren't standalone products. And the DJI drones aren't there. You can't import them after the first few year. China's going to spy on us with a drone....
 
-- `drone` [▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4821s)  > ...the DJI drones aren't there. You can't import them after the first few year. China's going to spy on us with a drone. But yeah, so they the feds do like using our drones,...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4821s)  > ...the DJI drones aren't there. You can't import them after the first few year. China's going to spy on us with a drone. But yeah, so they the feds do like using our drones,...
 
-- `drone` [▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4852s)  > ...>> Just as a side note, we did explore a VFR program under this contract, just drone first responder program. Um, I thought it was a little bit cost prohibitive and I also don't think we're...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4852s)  > ...>> Just as a side note, we did explore a VFR program under this contract, just drone first responder program. Um, I thought it was a little bit cost prohibitive and I also don't think we're...
 
 
 ## Findings by topic
@@ -444,8 +444,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 2
 - Active meeting bodies: 11
-- Videos registered: 242 (fetched: 141, no captions: 6)
-- Date range covered: 2018-08-16 to 2027-11-07 — **based on the 237 of 242 videos that carry a parseable upload date**; the other 5 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 243 (fetched: 141, no captions: 7)
+- Date range covered: 2018-08-16 to 2027-11-07 — **based on the 238 of 243 videos that carry a parseable upload date**; the other 5 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -460,9 +460,9 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| naugatuck_borough | videos | 2026-08-31 13:36:36.955360 | 224 |
-| naugatuck_schools | streams | 2026-08-31 13:36:50.270068 | 158 |
-| naugatuck_schools | videos | 2026-08-31 13:36:47.702166 | 96 |
+| naugatuck_borough | videos | 2026-09-07 16:22:34.256388 | 225 |
+| naugatuck_schools | streams | 2026-09-07 16:22:52.977024 | 158 |
+| naugatuck_schools | videos | 2026-09-07 16:22:50.154632 | 96 |
 
 
 ## Registered meeting bodies
@@ -470,7 +470,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Finance Board | budget_finance | True | 35 |
-| Board of Mayor and Burgesses | council | True | 84 |
+| Board of Mayor and Burgesses | council | True | 85 |
 | Board of Education | education | True | 33 |
 | Economic Development Commission | other | True | 1 |
 | Fair Rent Commission | other | True | 2 |
@@ -509,16 +509,17 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (6 shown, max 25)
+### Videos with no captions available (7 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Monthly Board of Mayor and Burgess meeting 9-1-26 | 2026-09-01 |
 | Zoning Meeting (1) - 11-19-25 | 2025-11-19 |
 | Monthly Board of Mayor and Burgess Meeting 12/03/2024 | 2024-12-03 |
 | Naugatuck Board of Education meeting |  |
 | Naugatuck Board of Education Meeting |  |
-| Naugatuck Board of Education |  |
 | Board of Education message to our CHMS 8th Graders |  |
+| Naugatuck Board of Education |  |
 
 
 ### Tabs never crawled
@@ -531,5 +532,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:40:41 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Naugatuck"`_
+_Generated 2026-09-07T17:35:47 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Naugatuck"`_
 

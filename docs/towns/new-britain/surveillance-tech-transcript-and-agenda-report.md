@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **New Britain**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **7 mentions** across **6 meetings**
-- **First mention:** 2022-11-10  |  **Most recent:** 2025-08-14
-- **Technologies discussed:** body_camera, purchasing_broker, surveillance_general
-- **Coverage:** 175 of 271 known New Britain meetings transcribed (65%)
-- **Not the full history:** transcripts begin **2020-04-20**, but New Britain's published video archive goes back to **2017-01-11**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+- **11 mentions** across **10 meetings**
+- **First mention:** 2021-10-04  |  **Most recent:** 2025-08-14
+- **Technologies discussed:** body_camera, drone, facial_recognition, predictive_policing, purchasing_broker, surveillance_general
+- **Coverage:** 246 of 868 known New Britain meetings transcribed (28%)
+- **Not the full history:** transcripts begin **2019-10-08**, but New Britain's published video archive goes back to **2017-01-11**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 - **17 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
@@ -70,57 +70,88 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | body_camera | 3 | 2 | 2022-11-10 | 2024-06-27 |
+| drone | 1 | 1 | 2024-02-21 | 2024-02-21 |
+| facial_recognition | 1 | 1 | 2021-10-04 | 2021-10-04 |
+| predictive_policing | 2 | 2 | 2023-05-08 | 2023-05-19 |
 | purchasing_broker | 1 | 1 | 2025-06-26 | 2025-06-26 |
 | surveillance_general | 3 | 3 | 2024-08-15 | 2025-08-14 |
 
 
 ## Timeline
 
-6 meetings surfaced a finding (6 dated, spanning 2022-11-10 to 2025-08-14; 0 of unknown date, listed last).
+10 meetings surfaced a finding (10 dated, spanning 2021-10-04 to 2025-08-14; 0 of unknown date, listed last).
+
+
+### 2021-10-04 -- Board of Education
+
+**New Britain Board of Education - 10/4/2021** _(topics: facial_recognition)_
+
+- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=zrZ1Vhr1JHk&t=2128s)  > ...does so every single camera is intelligent it has analytics we're not doing any sort of facial recognition there's no ferpa issues or anything like that that i know are a big...
 
 
 ### 2022-11-10 -- Common Council
 
 **Common Council Regular Meeting** _(topics: body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=7NIeUA7hZDA&t=1152s)  > ...it's from the Bureau of Justice assistance says funding available under the body worn camera policy and implementation program uh these are funds that will help...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7NIeUA7hZDA&t=1152s)  > ...it's from the Bureau of Justice assistance says funding available under the body worn camera policy and implementation program uh these are funds that will help...
+
+
+### 2023-05-08 -- Board of Education
+
+**New Britain Board of Education - 05-08-23** _(topics: predictive_policing)_
+
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=-pAFc06j0Hc&t=1366s)  > ...very good public speaker last night this week um Dr Gotham for coming behalf of class it was fun and but I also want to Echo two that was a deposit on the the name...
+
+
+### 2023-05-19 -- Consolidated Subcommittee
+
+**Consolidated Subcommittee Budget Meeting** _(topics: predictive_policing)_
+
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=m0jm5m5zMjM&t=6467s)  > ...school where I started my career at Manchester High School they still had a Foundry uh we don't we don't melt metal anymore in high schools but I think uh kind of out with the old Indian with the...
+
+
+### 2024-02-21 -- Zoning Subcommittee
+
+**Zoning Subcommittee Special Meeting** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eVxs3PtzzXg&t=1739s)  > ...like grilling because I know it's like other development had done previous with like drone and Corbin they don't allow you to have grills or anything outside so are there going to be able to have an...
 
 
 ### 2024-06-27 -- Common Council
 
 **Common Council Regular Meeting** _(topics: body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3609s)  > ...in securing uh money for body cams so Chief if you could just talk a little bit about the body cam system and how our our officers use it I know there was extensive training in in body cams and...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3609s)  > ...in securing uh money for body cams so Chief if you could just talk a little bit about the body cam system and how our our officers use it I know there was extensive training in in body cams and...
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3665s)  > ...second floor with the detective division uh and they can come in and do that so it all connects to both our body cam video and our uh unlimited storage so we have that at our disposal moving forward...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3665s)  > ...second floor with the detective division uh and they can come in and do that so it all connects to both our body cam video and our uh unlimited storage so we have that at our disposal moving forward...
 
 
 ### 2024-08-15 -- Common Council
 
 **Common Council Regular Meeting** _(topics: surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=iSaFOMr0Oq4&t=630s)  > ...flooding along Eaton and Newberry Eaton Hampton Eaton and new blueberry there are Simple Solutions run a CCTV camera down the infrastructure pipes Andor perform flow monitoring to identify...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iSaFOMr0Oq4&t=630s)  > ...flooding along Eaton and Newberry Eaton Hampton Eaton and new blueberry there are Simple Solutions run a CCTV camera down the infrastructure pipes Andor perform flow monitoring to identify...
 
 
 ### 2024-09-12 -- Common Council
 
 **Common Council Regular Meeting** _(topics: surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=nCCvOF9c_T8&t=5825s)  > ...of galvaniz Steel storm pipe um the existing storm pipe was tested through the CCTV in inspected and it exposed that the pipeline is nonexisting resulting in sink holes on the road and...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nCCvOF9c_T8&t=5825s)  > ...of galvaniz Steel storm pipe um the existing storm pipe was tested through the CCTV in inspected and it exposed that the pipeline is nonexisting resulting in sink holes on the road and...
 
 
 ### 2025-06-26 -- Common Council
 
 **Common Council Regular Meeting** _(topics: purchasing_broker)_
 
-- `purchasing_broker` [▸](https://www.youtube.com/watch?v=1TL_61l6SI8&t=2615s)  > ...we utilize for our firewalls. Um you'll actually see the following resolution is a CDWG um resolution for a UPS that equipment. If I would have you that...
+- `purchasing_broker` [Watch on YouTube ▸](https://www.youtube.com/watch?v=1TL_61l6SI8&t=2615s)  > ...we utilize for our firewalls. Um you'll actually see the following resolution is a CDWG um resolution for a UPS that equipment. If I would have you that...
 
 
 ### 2025-08-14 -- Common Council
 
 **Common Council Regular Meeting** _(topics: surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=zc0NINqurYc&t=2964s)  > ...>> This is regarding $32,142 to Mammoth Security for the implementation of a new CCTV system at the water department's water filtration plant. I urge adoption....
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=zc0NINqurYc&t=2964s)  > ...>> This is regarding $32,142 to Mammoth Security for the implementation of a new CCTV system at the water department's water filtration plant. I urge adoption....
 
 
 ## Findings by topic
@@ -178,12 +209,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### drone
 
-*(no findings)*
+- **[2024-02-21] Zoning Subcommittee** -- Zoning Subcommittee Special Meeting
+  > ...like grilling because I know it's like other development had done previous with like drone and Corbin they don't allow you to have grills or anything outside so are there going to be able to have an...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eVxs3PtzzXg&t=1739s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
 
-*(no findings)*
+- **[2021-10-04] Board of Education** -- New Britain Board of Education - 10/4/2021
+  > ...does so every single camera is intelligent it has analytics we're not doing any sort of facial recognition there's no ferpa issues or anything like that that i know are a big...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zrZ1Vhr1JHk&t=2128s)  _(term: facial_recognition, unreviewed)_
 
 
 ### gunshot_detection
@@ -203,7 +238,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### predictive_policing
 
-*(no findings)*
+- **[2023-05-19] Consolidated Subcommittee** -- Consolidated Subcommittee Budget Meeting
+  > ...school where I started my career at Manchester High School they still had a Foundry uh we don't we don't melt metal anymore in high schools but I think uh kind of out with the old Indian with the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=m0jm5m5zMjM&t=6467s)  _(term: predictive_policing, unreviewed)_
+
+- **[2023-05-08] Board of Education** -- New Britain Board of Education - 05-08-23
+  > ...very good public speaker last night this week um Dr Gotham for coming behalf of class it was fun and but I also want to Echo two that was a deposit on the the name...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-pAFc06j0Hc&t=1366s)  _(term: predictive_policing, unreviewed)_
 
 
 ### purchasing_broker
@@ -527,10 +568,10 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 ## Coverage status
 
-- Channels registered: 3
-- Active meeting bodies: 5
-- Videos registered: 271 (fetched: 175, no captions: 6)
-- Date range covered: 2017-01-11 to 2026-08-13 — **based on the 266 of 271 videos that carry a parseable upload date**; the other 5 are undated, so the real corpus may extend beyond this range in either direction
+- Channels registered: 4
+- Active meeting bodies: 11
+- Videos registered: 868 (fetched: 246, no captions: 7)
+- Date range covered: 2017-01-11 to 2026-08-26 — **based on the 750 of 868 videos that carry a parseable upload date**; the other 118 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -540,39 +581,47 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | City of New Britain | conbct | @CONBCT |
 | Consolidated School District of New Britain | csdnb | @consolidatedschooldistrict6597 |
 | Nutmeg TV | nutmeg_tv |  |
+| City of New Britain (Granicus) | new_britain_granicus |  |
 
 
 ### Tab crawl history
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| conbct | streams | 2026-08-31 14:12:57.750555 | 195 |
-| conbct | videos | 2026-08-31 14:12:58.673064 | 25 |
-| csdnb | streams | 2026-08-31 13:42:20.253518 | 155 |
-| csdnb | videos | 2026-08-31 13:42:22.690431 | 158 |
-| nutmeg_tv | streams | 2026-08-31 14:17:55.743411 | 3 |
-| nutmeg_tv | videos | 2026-08-31 14:19:03.178474 | 5271 |
+| conbct | streams | 2026-09-07 16:30:20.604509 | 196 |
+| conbct | videos | 2026-09-07 16:30:17.361631 | 25 |
+| csdnb | streams | 2026-09-07 16:54:21.537633 | 155 |
+| csdnb | videos | 2026-09-07 16:54:18.780012 | 158 |
+| new_britain_granicus | New Britain CT - Granicus Content | 2026-09-06 11:48:18.144951 | 564 |
+| nutmeg_tv | streams | 2026-09-07 16:50:01.480623 | 3 |
+| nutmeg_tv | videos | 2026-09-07 16:50:00.685188 | 5282 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Administration, Finance and Law Committee | budget_finance | True | 26 |
+| Administration, Finance and Law Committee | budget_finance | True | 98 |
 | Board of Finance | budget_finance | True | 0 |
-| Common Council | council | True | 138 |
+| Committee on Administration, Finance and Law | budget_finance | True | 0 |
+| Standing Bonding Subcommittee | budget_finance | True | 17 |
+| Common Council | council | True | 444 |
+| Consolidated Subcommittee | council | True | 41 |
 | Board of Education | education | True | 107 |
+| Committee on Planning, Zoning and Housing | land_use | True | 84 |
+| Zoning Subcommittee | land_use | True | 39 |
+| Compensation Committee | other | True | 19 |
 | Police Commission | public_safety | True | 0 |
 
 
-**Zero videos registered for:** Board of Finance, Police Commission
+**Zero videos registered for:** Board of Finance, Committee on Administration, Finance and Law, Police Commission
 
 
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 956 (fetched: 363)
-- Date range covered: 2016-09-06 to 2026-09-02
+- Documents registered: 959 (fetched: 391)
+- Date range covered: 2016-09-06 to 2026-09-09
 
 
 ### Agenda sources
@@ -589,16 +638,19 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | 2026-08-13 16:40:34.194018 | boe_surveillance_note | BOE Community Forum: district described school security cameras as directly "connected to the police department that track real life intruders," alongside badge access control. | BOE transcript keyword scan + context review, 2026-08-13 | claude |
 | 2026-08-13 14:22:06.907572 | channel_found | conbct (@CONBCT) for Common Council/general city government; csdnb (@consolidatedschooldistrict6597) SEPARATELY for Board of Education -- same split pattern as Bridgeport/Norwalk/Waterbury. Both confirmed real via yt-dlp. | yt-dlp-confirmed handles | claude |
 | 2026-08-13 14:22:06.907572 | committees_confirmed | Common Council + standing subcommittee "Administration, Finance and Law [and Public Services]" (title wording varies) confirmed via real title matches. Board of Finance and Police Commission confirmed real per newbritainct.gov but zero title matches in the crawl -- registered anyway per project convention. | newbritainct.gov/gov/common-council/defaulthtm, yt-dlp --flat-playlist crawl of youtube.com/@CONBCT streams+videos, 2026-08-13 | claude |
+| 2026-09-04 20:09:32.289957 | no_police_commission | Exactly one of 564 archived New Britain meetings carries a public-safety word in its title, and it is a Consolidated Subcommittee special meeting on a climate emergency. There is no police commission and no public safety committee in this archive. Police budget and procurement therefore run through the Committee on Administration, Finance and Law (~54 clips, ~62 h) and capital borrowing through the Standing Bonding Subcommittee (14 clips, 18 h) -- those are the bodies to read for surveillance spending in this city, not a dedicated oversight committee, because none exists. | Keyword pass over all 564 clip titles, 2026-09-04 | claude |
 | 2026-08-13 14:22:06.907572 | scope_boundary_confirmed | Planning, Zoning and Housing Committee / Zoning Subcommittee excluded as land-use (real, frequent matches). Compensation Committee and Standing Bonding Subcommittee excluded as personnel/municipal-debt bodies, not surveillance-tech oversight scope -- same precedent as Fire Commission in Milford, noted rather than silently dropped. | yt-dlp --flat-playlist crawl of youtube.com/@CONBCT streams+videos, 2026-08-13 | claude |
+| 2026-09-04 20:09:32.289957 | second_platform_granicus | New Britain publishes a Granicus archive of 564 meetings and ~860 hours, 2017-05-02 to 2026-08-26, alongside the YouTube channel this repo already follows. Single view. Only 105 distinct title forms -- the most concentrated archive of the four Granicus towns onboarded in this batch. | Granicus view discovery + per-clip table parse, 2026-09-04 | claude |
 
 
 ## Gaps and caveats
 
 
-### Videos with no captions available (6 shown, max 25)
+### Videos with no captions available (7 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Standing Bonding Subcommittee | 2025-03-20 |
 | New Britain Board of Education Meeting (November 2, 2020) | 2020-11-02 |
 | New Britain Board of Education Meeting (August 17, 2020) | 2020-08-17 |
 | Common Council Public Hearing |  |
@@ -609,11 +661,14 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 ### Tabs never crawled
 
-*(none)*
+| channel | tab |
+| --- | --- |
+| City of New Britain (Granicus) | videos |
+| City of New Britain (Granicus) | streams |
 
 
 ---
 
 
-_Generated 2026-08-31T14:40:52 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Britain"`_
+_Generated 2026-09-07T17:36:00 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Britain"`_
 

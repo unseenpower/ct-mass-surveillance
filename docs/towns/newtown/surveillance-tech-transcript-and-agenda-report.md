@@ -52,7 +52,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 **Board of Selectmen 1/25** _(topics: body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=UyiCM9Ao2U0&t=1833s)  > ...you know looking at some of that funding there um is our body cam program body camera program is going to be five years old um we're pretty much hitting the end of...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UyiCM9Ao2U0&t=1833s)  > ...you know looking at some of that funding there um is our body cam program body camera program is going to be five years old um we're pretty much hitting the end of...
 
 
 ## Findings by topic
@@ -293,8 +293,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| newtown_ct_meeting | streams | 2026-08-31 14:10:18.510122 | 6 |
-| newtown_ct_meeting | videos | 2026-08-31 14:10:19.263792 | 9 |
+| newtown_ct_meeting | streams | 2026-09-07 16:45:14.845858 | 6 |
+| newtown_ct_meeting | videos | 2026-09-07 16:45:14.027018 | 9 |
 
 
 ## Registered meeting bodies
@@ -348,5 +348,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:41:45 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Newtown"`_
+_Generated 2026-09-07T17:37:14 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Newtown"`_
 

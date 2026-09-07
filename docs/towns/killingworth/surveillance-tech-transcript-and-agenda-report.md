@@ -82,144 +82,144 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Public Health Agency 4 22 20** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=X0jmFNth0ms&t=2749s)  > ...it's hilarious when you watch the news and everything i could just see this drone flying over and like you know sorry you're only four feet apart you know...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=X0jmFNth0ms&t=2749s)  > ...it's hilarious when you watch the news and everything i could just see this drone flying over and like you know sorry you're only four feet apart you know...
 
 
 ### 2021-04-15 -- Conservation Commission
 
 **Conservation Commission 4 15 21** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=byulCaANefQ&t=4472s)  > ...need to get to the side of the road though or you can just get a drone and take pictures oh that's that's that's that's droning...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=byulCaANefQ&t=4472s)  > ...need to get to the side of the road though or you can just get a drone and take pictures oh that's that's that's that's droning...
 
 
 ### 2024-12-09 -- Board of Selectmen
 
 **Board of Selectmen 12-9-2024** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=mb3qKtD9vWI&t=975s)  > ...don't know if this is allowed but to speak to Kathy's point the website touts um technology that shows Drone footage to determine volumes of sand and resources and so it's interesting that...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=mb3qKtD9vWI&t=975s)  > ...don't know if this is allowed but to speak to Kathy's point the website touts um technology that shows Drone footage to determine volumes of sand and resources and so it's interesting that...
 
 
 ### 2025-01-09 -- Public Health Agency
 
 **Public Health Agency 1-9-2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=c6wal7BbM0I&t=496s)  > ...contact um if you or you or there's somebody in your town that is a um domestic flock uh person meaning they have their own chickens um and they have the same thing happen a multitude of...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=c6wal7BbM0I&t=496s)  > ...contact um if you or you or there's somebody in your town that is a um domestic flock uh person meaning they have their own chickens um and they have the same thing happen a multitude of...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=c6wal7BbM0I&t=517s)  > ...the domestic birds and all testing uh let's if somebody uh who has a domestic flock wants those birds tested that all will happen with the Connecticut veterans um which is up at...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=c6wal7BbM0I&t=517s)  > ...the domestic birds and all testing uh let's if somebody uh who has a domestic flock wants those birds tested that all will happen with the Connecticut veterans um which is up at...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=c6wal7BbM0I&t=887s)  > ...them know what their options are well that came up on the discussion and um many uh personal uh flock owners aren't don't aren't registered and the um the the the place where you might get a list...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=c6wal7BbM0I&t=887s)  > ...them know what their options are well that came up on the discussion and um many uh personal uh flock owners aren't don't aren't registered and the um the the the place where you might get a list...
 
 
 ### 2025-01-27 -- Board of Selectmen
 
 **BOS Regular meeting 1-27-2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=x8Hdfe_R3ro&t=465s)  > ...where the state is um licensing a license plate reader uh background software for tracking cars that are...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=x8Hdfe_R3ro&t=465s)  > ...where the state is um licensing a license plate reader uh background software for tracking cars that are...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=x8Hdfe_R3ro&t=969s)  > ...for Green Hill is like redesigning Green Hill yeah but you know to just to keep the separate so this License Plate Reader won't have anything to do necessarily with speeding speeding it...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=x8Hdfe_R3ro&t=969s)  > ...for Green Hill is like redesigning Green Hill yeah but you know to just to keep the separate so this License Plate Reader won't have anything to do necessarily with speeding speeding it...
 
 
 ### 2025-03-10 -- Board of Selectmen
 
 **Board of Selectmen 3-10-2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=Yf22C4oBPoU&t=909s)  > ...capital um just to go over some of the things that we have by consent added or remove um so in capital I'll note that we have added the for the residen a trooper the flock safety C Falcon cameras those are the License Plate Reader cameras that are requested and that's a little bit lower price than we had talked about at the last meeting or we got a better was that the meeting you...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Yf22C4oBPoU&t=909s)  > ...capital um just to go over some of the things that we have by consent added or remove um so in capital I'll note that we have added the for the residen a trooper the flock safety C Falcon cameras those are the License Plate Reader cameras that are requested and that's a little bit lower price than we had talked about at the last meeting or we got a better was that the meeting you...
 
 
 ### 2025-04-29 -- Board of Selectmen
 
 **BOS Special Meeting 4-29-2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=Lfg_EygYfR4&t=3399s)  > ...now DOT is holding hard and fast to those dates. Okay. Um, but yes, we have the flock camera still in place in capital plan....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Lfg_EygYfR4&t=3399s)  > ...now DOT is holding hard and fast to those dates. Okay. Um, but yes, we have the flock camera still in place in capital plan....
 
 
 ### 2025-05-28 -- Board of Selectmen
 
 **Board of Selectmen 5-28-2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=aJ0r5W5Brrg&t=1461s)  > ...cruising the roads and pulling over the locals. Okay. I think it's having a billing worth of Okay. So, horseman is still going on. Um, we had a meeting today with uh Flock about the kicking off the installation of the license plate reader cameras. Um, does did Clinton get theirs installed? Because I think when I was if you're going down there's an app that...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=aJ0r5W5Brrg&t=1461s)  > ...cruising the roads and pulling over the locals. Okay. I think it's having a billing worth of Okay. So, horseman is still going on. Um, we had a meeting today with uh Flock about the kicking off the installation of the license plate reader cameras. Um, does did Clinton get theirs installed? Because I think when I was if you're going down there's an app that...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=aJ0r5W5Brrg&t=1469s)  > ...Okay. I think it's having a billing worth of Okay. So, horseman is still going on. Um, we had a meeting today with uh Flock about the kicking off the installation of the license plate reader cameras. Um, does did Clinton get theirs installed? Because I think when I was if you're going down there's an app that tells you where they are. Oh, interesting. Yeah. Interesting. Because...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=aJ0r5W5Brrg&t=1469s)  > ...Okay. I think it's having a billing worth of Okay. So, horseman is still going on. Um, we had a meeting today with uh Flock about the kicking off the installation of the license plate reader cameras. Um, does did Clinton get theirs installed? Because I think when I was if you're going down there's an app that tells you where they are. Oh, interesting. Yeah. Interesting. Because...
 
 
 ### 2025-06-09 -- Board of Selectmen
 
 **Board of Selectmen 6-9-2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=YoiEfLgMpHY&t=3004s)  > ...now they have that off-road vehicle, we can take that off the plan. Another item was discussion of purchasing a drone. So, um, when the wildfire happened in, uh, it wasn't really a wildfire, but...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YoiEfLgMpHY&t=3004s)  > ...now they have that off-road vehicle, we can take that off the plan. Another item was discussion of purchasing a drone. So, um, when the wildfire happened in, uh, it wasn't really a wildfire, but...
 
-- `drone` [▸](https://www.youtube.com/watch?v=YoiEfLgMpHY&t=3027s)  > ...1,000 acres, sorry. Um, they used the state and fire companies used a drone to determine where the fire was spreading to um, and the extent of it. So we included in that in the...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YoiEfLgMpHY&t=3027s)  > ...1,000 acres, sorry. Um, they used the state and fire companies used a drone to determine where the fire was spreading to um, and the extent of it. So we included in that in the...
 
-- `drone` [▸](https://www.youtube.com/watch?v=YoiEfLgMpHY&t=3035s)  > ...was spreading to um, and the extent of it. So we included in that in the current plan a drone because we could also see use of that in uh wetlands building department seeing okay this guy...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YoiEfLgMpHY&t=3035s)  > ...was spreading to um, and the extent of it. So we included in that in the current plan a drone because we could also see use of that in uh wetlands building department seeing okay this guy...
 
 
 ### 2025-06-23 -- Board of Selectmen
 
 **Board of Selectmen Regular Meeting 6-23-2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=crid9CC6g8E&t=973s)  > ...This is going to be ongoing work. Um that's the biggest new piece of equipment. Two of them. Yes. Okay. So um otherwise the permit uh request is in for the license plate reader cameras for 8180. Um, that's in the state's hand. The final decision of where they're going to go. Yes, we So, when when we submitted...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=crid9CC6g8E&t=973s)  > ...This is going to be ongoing work. Um that's the biggest new piece of equipment. Two of them. Yes. Okay. So um otherwise the permit uh request is in for the license plate reader cameras for 8180. Um, that's in the state's hand. The final decision of where they're going to go. Yes, we So, when when we submitted...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=crid9CC6g8E&t=1033s)  > ...you're going down 81, you pass right into Clinton, I think before. It's not Silver. Is it Silver Bridge? Silver Birch. Silver Birch. I think there's a flock camera right there. Yes. And I think Yeah. Yeah. So, I'm going to assume that that's what it's going to look like. Yeah. Okay. Um,...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=crid9CC6g8E&t=1033s)  > ...you're going down 81, you pass right into Clinton, I think before. It's not Silver. Is it Silver Bridge? Silver Birch. Silver Birch. I think there's a flock camera right there. Yes. And I think Yeah. Yeah. So, I'm going to assume that that's what it's going to look like. Yeah. Okay. Um,...
 
 
 ### 2025-07-14 -- Board of Selectmen
 
 **Board of Selectmen 7-14-2025** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=5_b6HQfNXpE&t=1924s)  > ...you'll probably get a lot of voices being like they'll be like, "What is In fact, I think when the flock cameras go up, you know, I'm sure we'll hear some >> If you've noticed in the last email set...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5_b6HQfNXpE&t=1924s)  > ...you'll probably get a lot of voices being like they'll be like, "What is In fact, I think when the flock cameras go up, you know, I'm sure we'll hear some >> If you've noticed in the last email set...
 
 
 ### 2025-08-25 -- Board of Selectmen
 
 **Board of Selectman 8-25-2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=RnYanX2S3Sg&t=2290s)  > ...department uses the property. Uh, and honestly, I'm not against nonprofits using it. It's a perfect spot to drone business up coming out of recycle way. Understand that....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=RnYanX2S3Sg&t=2290s)  > ...department uses the property. Uh, and honestly, I'm not against nonprofits using it. It's a perfect spot to drone business up coming out of recycle way. Understand that....
 
 
 ### 2025-10-27 -- Board of Selectmen
 
 **Board of Selectmen 10-27-2025** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=BegWMdygCAI&t=1973s)  > ...apparatus under fire company that's a ladder truck um >> we're not we're not getting a drone Mhm. >> Or rather a a two and a half two and a quarter million drum um...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=BegWMdygCAI&t=1973s)  > ...apparatus under fire company that's a ladder truck um >> we're not we're not getting a drone Mhm. >> Or rather a a two and a half two and a quarter million drum um...
 
 
 ### 2026-01-26 -- Board of Selectmen
 
 **Board of Selectmen 1-26-2026** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=qr5x0qOHP1E&t=2013s)  > ...public and tracking their movements. >> Um I haven't heard so much about the flock cameras, though I did have a long discussion with one person um concerned about the block cameras that we...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qr5x0qOHP1E&t=2013s)  > ...public and tracking their movements. >> Um I haven't heard so much about the flock cameras, though I did have a long discussion with one person um concerned about the block cameras that we...
 
 
 ### 2026-02-09 -- Board of Selectmen
 
 **Board of Selectmen 2-9-2026** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=EL24RubWmXE&t=873s)  > ...necessary. Um, one idea that's come up in the last two plans is the possibility of the fire company getting a drone um, in case there's uh, wildfires to see where the extent of wildfires are or if...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=EL24RubWmXE&t=873s)  > ...necessary. Um, one idea that's come up in the last two plans is the possibility of the fire company getting a drone um, in case there's uh, wildfires to see where the extent of wildfires are or if...
 
-- `drone` [▸](https://www.youtube.com/watch?v=EL24RubWmXE&t=951s)  > ...plan kind of calls out >> uh for the towns and then some of those big ticket capital items like a drone or having somebody uh able to pilot that drone in the power company. So,...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=EL24RubWmXE&t=951s)  > ...plan kind of calls out >> uh for the towns and then some of those big ticket capital items like a drone or having somebody uh able to pilot that drone in the power company. So,...
 
-- `drone` [▸](https://www.youtube.com/watch?v=EL24RubWmXE&t=956s)  > ...big ticket capital items like a drone or having somebody uh able to pilot that drone in the power company. So, >> um >> I do have a question though. We have...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=EL24RubWmXE&t=956s)  > ...big ticket capital items like a drone or having somebody uh able to pilot that drone in the power company. So, >> um >> I do have a question though. We have...
 
 
 ### 2026-06-08 -- Board of Selectmen
 
 **Board of Selectman 6-8-2026** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=ClwkBeRgz5A&t=2484s)  > ...concerns last year that were raised about security and you know privacy. Um but a lot more information about flock in particular came about after both board of selectment and board of finance...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ClwkBeRgz5A&t=2484s)  > ...concerns last year that were raised about security and you know privacy. Um but a lot more information about flock in particular came about after both board of selectment and board of finance...
 
 
 ### 2026-07-20 -- Zoning Board of Appeals
 
 **Zoning Board of Appeals 7-20-2026** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=1eijh7OUR_0&t=1622s)  > ...enforcement officer made an error in issuing the permit to allow this home foundry at 45 Stevens Road. >> you're alleging that the reason that...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=1eijh7OUR_0&t=1622s)  > ...enforcement officer made an error in issuing the permit to allow this home foundry at 45 Stevens Road. >> you're alleging that the reason that...
 
 
 ### 2026-07-27 -- Board of Selectmen
 
 **Board of Selectman 7-27-2026** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=4iZZOkGRXmM&t=2689s)  > ...we approach utilizing any sort of technology. Um we just got burned on Flock. I want us to be a little bit more cautious in the future. Uh particularly around...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4iZZOkGRXmM&t=2689s)  > ...we approach utilizing any sort of technology. Um we just got burned on Flock. I want us to be a little bit more cautious in the future. Uh particularly around...
 
 
 ## Findings by topic
@@ -560,7 +560,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| killingworth_ct | videos | 2026-08-31 13:52:35.319911 | 469 |
+| killingworth_ct | videos | 2026-09-07 17:00:08.079058 | 469 |
 
 
 ## Registered meeting bodies
@@ -622,5 +622,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:39:53 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Killingworth"`_
+_Generated 2026-09-07T17:34:40 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Killingworth"`_
 

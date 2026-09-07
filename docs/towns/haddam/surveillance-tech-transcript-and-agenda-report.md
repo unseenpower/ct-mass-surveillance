@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **Haddam**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **Coverage:** 1 of 100 known Haddam meetings transcribed (1%)
+- **Coverage:** 7 of 100 known Haddam meetings transcribed (7%)
 - **Not the full history:** transcripts begin **2020-06-10**, but Haddam's published video archive goes back to **2018-01-08**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 - **1 additional mention** in agendas and minutes (keyword scan, not yet human-reviewed)
 
@@ -33,7 +33,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ## Get the full transcripts
 
-*Haddam has 1 transcript so far -- too few to publish as an archive yet. It will appear here once the corpus grows.*
+*Haddam has 7 transcripts so far -- too few to publish as an archive yet. It will appear here once the corpus grows.*
 
 
 ## Mentions by topic: first seen / most recent
@@ -273,7 +273,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 7
-- Videos registered: 100 (fetched: 1, no captions: 0)
+- Videos registered: 100 (fetched: 7, no captions: 0)
 - Date range covered: 2018-01-08 to 2022-04-14 (all 100 videos dated)
 
 
@@ -288,8 +288,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| vsctv | streams | 2026-08-31 13:34:37.404801 | 1 |
-| vsctv | videos | 2026-08-31 13:35:20.086257 | 3352 |
+| vsctv | streams | 2026-09-07 16:20:49.158131 | 1 |
+| vsctv | videos | 2026-09-07 16:20:48.413846 | 3352 |
 
 
 ## Registered meeting bodies
@@ -350,5 +350,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:38:46 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Haddam"`_
+_Generated 2026-09-07T17:33:17 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Haddam"`_
 

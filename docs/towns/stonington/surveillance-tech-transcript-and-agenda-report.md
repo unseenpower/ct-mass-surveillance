@@ -5,10 +5,10 @@
 
 This report collects every mention of surveillance technology found in **Stonington**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **21 mentions** across **13 meetings**
-- **First mention:** 2020-05-07  |  **Most recent:** 2026-03-30
+- **23 mentions** across **14 meetings**
+- **First mention:** 2020-05-07  |  **Most recent:** 2026-08-26
 - **Technologies discussed:** alpr, body_camera, drone, predictive_policing, surveillance_general
-- **Coverage:** 271 of 386 known Stonington meetings transcribed (70%)
+- **Coverage:** 272 of 387 known Stonington meetings transcribed (70%)
 - **Still incomplete:** 115 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
@@ -68,7 +68,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 9 | 4 | 2021-03-11 | 2026-03-30 |
+| alpr | 11 | 5 | 2021-03-11 | 2026-08-26 |
 | body_camera | 4 | 3 | 2021-03-11 | 2026-03-30 |
 | drone | 3 | 3 | 2021-03-10 | 2026-03-02 |
 | predictive_policing | 3 | 3 | 2020-05-07 | 2026-03-04 |
@@ -77,114 +77,123 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ## Timeline
 
-13 meetings surfaced a finding (13 dated, spanning 2020-05-07 to 2026-03-30; 0 of unknown date, listed last).
+14 meetings surfaced a finding (14 dated, spanning 2020-05-07 to 2026-08-26; 0 of unknown date, listed last).
 
 
 ### 2020-05-07 -- Board of Selectmen
 
 **Town of Stonington Board of Selectmen - Special Meeting with UCONN Students - 5/7/20** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=R77V4Z-neLg&t=523s)  > ...than 10 which are indicated by the red hashes and are found underneath a former foundry of the mill building to the right are the non hazardous areas which are indicated by blue hashes and they're...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=R77V4Z-neLg&t=523s)  > ...than 10 which are indicated by the red hashes and are found underneath a former foundry of the mill building to the right are the non hazardous areas which are indicated by blue hashes and they're...
 
 
 ### 2021-02-23 -- Board of Finance
 
 **Board of Finance Budget Hearings Tuesday Feb 23 General Govt wCIP WPCA wCIP 2/23/21** _(topics: surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=5LspFiajDWc&t=3034s)  > ...at page 92 93 93 line 13 town wide surveillance camera program i think line line three video security...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5LspFiajDWc&t=3034s)  > ...at page 92 93 93 line 13 town wide surveillance camera program i think line line three video security...
 
 
 ### 2021-03-10 -- Board of Finance
 
 **Board of Finance Budget Hearings 3/10/21** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=dudlSrZuPSI&t=7355s)  > ...i've got him here i don't i didn't seagulls now i gotta get the drone out and look at that yeah but it just seems very extremely fragile to me for...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dudlSrZuPSI&t=7355s)  > ...i've got him here i don't i didn't seagulls now i gotta get the drone out and look at that yeah but it just seems very extremely fragile to me for...
 
 
 ### 2021-03-11 -- Board of Finance
 
 **Board of Finance Budget Hearings 3/11/21** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=V-Ml-iamfX8&t=4461s)  > ...though are uh the license plate readers currently we maintain a one license plate reader um it's a 25 to 30 thousand dollar option that's been a sip request in the future...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=V-Ml-iamfX8&t=4461s)  > ...though are uh the license plate readers currently we maintain a one license plate reader um it's a 25 to 30 thousand dollar option that's been a sip request in the future...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=V-Ml-iamfX8&t=4479s)  > ...one that we have based on the lpr technology that's going to go into the car so the license plate reader now for anybody who doesn't know it captures license plates stores them in a database...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=V-Ml-iamfX8&t=4479s)  > ...one that we have based on the lpr technology that's going to go into the car so the license plate reader now for anybody who doesn't know it captures license plates stores them in a database...
 
 
 ### 2021-03-11 -- Board of Police Commissioners
 
 **Board of Police Commissioners 3/11/21** _(topics: alpr, body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=jvlzmqFAcBk&t=3618s)  > ...the florida finance and one of the big things is the axon which is a body cam and dash cam quote um so we have lieutenant schneider behind me...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=jvlzmqFAcBk&t=3618s)  > ...the florida finance and one of the big things is the axon which is a body cam and dash cam quote um so we have lieutenant schneider behind me...
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=jvlzmqFAcBk&t=3805s)  > ...assurance plan and what that does is it allows the pd to acquire 45 individual body cam units and some may ask why 45 when you have a...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=jvlzmqFAcBk&t=3805s)  > ...assurance plan and what that does is it allows the pd to acquire 45 individual body cam units and some may ask why 45 when you have a...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=jvlzmqFAcBk&t=3988s)  > ...uh has lpr technology built into it lpr is the uh license plate reader that we currently have on one of our cars that's a sip item that we usually uh...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=jvlzmqFAcBk&t=3988s)  > ...uh has lpr technology built into it lpr is the uh license plate reader that we currently have on one of our cars that's a sip item that we usually uh...
 
 
 ### 2021-08-04 -- Board of Finance
 
 **Board of Finance 08 04 2021** _(topics: body_camera)_
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=FhuoAjV21Kk&t=2546s)  > ...yes so this is just part of the necessary upgrades we're going to need to support the upcoming body cam camera system uh for the police department...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FhuoAjV21Kk&t=2546s)  > ...yes so this is just part of the necessary upgrades we're going to need to support the upcoming body cam camera system uh for the police department...
 
 
 ### 2024-04-24 -- Board of Selectmen
 
 **Board of Selectmen - 04.24.24** _(topics: surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=hS7epmXqlHQ&t=73s)  > ...you want to come here just because we are recording these now um thank you CCTV um we sit there and spoiler alert for everyone else you'll get the same exact...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=hS7epmXqlHQ&t=73s)  > ...you want to come here just because we are recording these now um thank you CCTV um we sit there and spoiler alert for everyone else you'll get the same exact...
 
 
 ### 2024-06-12 -- Board of Selectmen
 
 **Board of Selectmen - 06.12.24** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=3BbnEouQtaI&t=1235s)  > ...there like a software that doesn't read the license plate yeah so there's a license plate reader component in that and what it does is it takes all the information from that and if it meets...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3BbnEouQtaI&t=1235s)  > ...there like a software that doesn't read the license plate yeah so there's a license plate reader component in that and what it does is it takes all the information from that and if it meets...
 
 
 ### 2025-09-24 -- Board of Selectmen
 
 **Board of Selectmen - 09.24.25** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=vcg3g7paAsk&t=2884s)  > ...Thanks, Jen. All right. Um, nothing else. We can stand adjourned. And Debbie, thanks for joining via Gotham. Oh, thank you. See you soon....
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=vcg3g7paAsk&t=2884s)  > ...Thanks, Jen. All right. Um, nothing else. We can stand adjourned. And Debbie, thanks for joining via Gotham. Oh, thank you. See you soon....
 
 
 ### 2026-02-03 -- Planning & Zoning Commission
 
 **Stonington Planning & Zoning Commission 2-3-2026** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=eBEIRn1uFZc&t=3681s)  > ...square foot lot in an RH10. And if you look at the site map, the this was this was shot with a drone on the on uh November 16th, I believe it was. Uh and if you look, there's an...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eBEIRn1uFZc&t=3681s)  > ...square foot lot in an RH10. And if you look at the site map, the this was this was shot with a drone on the on uh November 16th, I believe it was. Uh and if you look, there's an...
 
 
 ### 2026-03-02 -- Board of Finance
 
 **Board of Finance - 03.02.26** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=uhZXQYTE36M&t=3026s)  > ...leaking issues and a thermal study done on the roof. New thermal studies are absolutely awesome. They use a drone fly over it to get a full picture. Not like the old ones where they just took a...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uhZXQYTE36M&t=3026s)  > ...leaking issues and a thermal study done on the roof. New thermal studies are absolutely awesome. They use a drone fly over it to get a full picture. Not like the old ones where they just took a...
 
 
 ### 2026-03-04 -- Board of Finance
 
 **Board of Finance -03.04.26** _(topics: predictive_policing)_
 
-- `predictive_policing` [▸](https://www.youtube.com/watch?v=ox4QoUtGqik&t=2764s)  > ...particular model, look at marry the specs with the model. We needed to find a a foundry that could produce the core from 1962 or equal. We needed a company that can...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ox4QoUtGqik&t=2764s)  > ...particular model, look at marry the specs with the model. We needed to find a a foundry that could produce the core from 1962 or equal. We needed a company that can...
 
 
 ### 2026-03-30 -- Board of Finance
 
 **Board of Finance - 03.30.26** _(topics: alpr, body_camera)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1316s)  > ...children have gone from kindergarten all the way through 8th grade now. Um today I wanted to talk about the Flock security cameras. >> Get a little closer to the mic....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1316s)  > ...children have gone from kindergarten all the way through 8th grade now. Um today I wanted to talk about the Flock security cameras. >> Get a little closer to the mic....
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1328s)  > ...>> Get a little closer to the mic. >> Sure. the flock security cameras um that were approved in the budget in 2022 um kind of during the co uh since then...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1328s)  > ...>> Get a little closer to the mic. >> Sure. the flock security cameras um that were approved in the budget in 2022 um kind of during the co uh since then...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1358s)  > ...things but um you uh the electronic founder Fontation did uh a pretty good uh dive into the Flock security cameras and many of the the security vulnerabilities that they found uh were...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1358s)  > ...things but um you uh the electronic founder Fontation did uh a pretty good uh dive into the Flock security cameras and many of the the security vulnerabilities that they found uh were...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1367s)  > ...and many of the the security vulnerabilities that they found uh were were startling and it took Flock a very long time to patch these vulnerabilities and the reaction of the company itself...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1367s)  > ...and many of the the security vulnerabilities that they found uh were were startling and it took Flock a very long time to patch these vulnerabilities and the reaction of the company itself...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1467s)  > ...Um, we have we have to hire third party people to to find these security vulnerabilities and Flock's very quiet and um secretive about all of their technology which has been shown to be...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1467s)  > ...Um, we have we have to hire third party people to to find these security vulnerabilities and Flock's very quiet and um secretive about all of their technology which has been shown to be...
 
-- `body_camera` [▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=9394s)  > ...Taking 168650 from the old turf account, $70,000 from the body cam account. uh 53,500 from the file retention account and...
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=9394s)  > ...Taking 168650 from the old turf account, $70,000 from the body cam account. uh 53,500 from the file retention account and...
+
+
+### 2026-08-26 -- Board of Selectmen
+
+**Board of Selectmen - 08.26.26** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=jS25JLlbdHg&t=1095s)  > ...question, what is the official stance from the town of Stonington on data centers, flock, you name it. I'd like to know what your stance is. I understand that flock has...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=jS25JLlbdHg&t=1100s)  > ...centers, flock, you name it. I'd like to know what your stance is. I understand that flock has been incorporated in the town of Stonington for a couple years now and...
 
 
 ## Findings by topic
@@ -196,6 +205,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 
 ### alpr
+
+- **[2026-08-26] Board of Selectmen** -- Board of Selectmen - 08.26.26
+  > ...centers, flock, you name it. I'd like to know what your stance is. I understand that flock has been incorporated in the town of Stonington for a couple years now and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jS25JLlbdHg&t=1100s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-26] Board of Selectmen** -- Board of Selectmen - 08.26.26
+  > ...question, what is the official stance from the town of Stonington on data centers, flock, you name it. I'd like to know what your stance is. I understand that flock has...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jS25JLlbdHg&t=1095s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-30] Board of Finance** -- Board of Finance - 03.30.26
   > ...Um, we have we have to hire third party people to to find these security vulnerabilities and Flock's very quiet and um secretive about all of their technology which has been shown to be...
@@ -482,8 +499,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 20
-- Videos registered: 386 (fetched: 271, no captions: 3)
-- Date range covered: 2020-03-19 to 2026-08-18 (all 386 videos dated)
+- Videos registered: 387 (fetched: 272, no captions: 3)
+- Date range covered: 2020-03-19 to 2026-08-26 (all 387 videos dated)
 
 
 ### Channels
@@ -497,8 +514,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| stonington_ct | streams | 2026-08-31 13:36:06.868834 | 16 |
-| stonington_ct | videos | 2026-08-31 13:36:13.345290 | 475 |
+| stonington_ct | streams | 2026-09-07 16:22:00.206558 | 16 |
+| stonington_ct | videos | 2026-09-07 16:21:59.355472 | 476 |
 
 
 ## Registered meeting bodies
@@ -512,7 +529,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Architectural Design Review Board | other | True | 10 |
 | Beautification Committee | other | True | 4 |
 | Board of Assessment Appeals | other | True | 5 |
-| Board of Selectmen | other | True | 102 |
+| Board of Selectmen | other | True | 103 |
 | Charter Revision Commission | other | True | 20 |
 | Climate Change Task Force | other | True | 10 |
 | Economic Development Commission | other | True | 14 |
@@ -574,5 +591,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:44:18 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Stonington"`_
+_Generated 2026-09-07T17:40:40 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Stonington"`_
 

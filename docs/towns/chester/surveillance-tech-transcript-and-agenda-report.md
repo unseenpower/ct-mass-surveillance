@@ -9,7 +9,7 @@ This report collects every mention of surveillance technology found in **Chester
 **No surveillance-technology mentions have been found in this town's meetings yet.** That is not the same as none existing -- read the coverage note below, and [Gaps and caveats](#gaps-and-caveats), before treating this as an answer about the town.
 
 
-- **Coverage:** 60 of 72 known Chester meetings transcribed (83%)
+- **Coverage:** 61 of 73 known Chester meetings transcribed (84%)
 - **Still incomplete:** 12 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
@@ -290,8 +290,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 72 (fetched: 60, no captions: 2)
-- Date range covered: 2025-08-19 to 2026-08-26 — **based on the 70 of 72 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 73 (fetched: 61, no captions: 2)
+- Date range covered: 2025-08-19 to 2026-09-02 — **based on the 71 of 73 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -305,7 +305,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| chester_ct | videos | 2026-08-31 14:10:56.340858 | 72 |
+| chester_ct | videos | 2026-09-07 16:46:03.542760 | 73 |
 
 
 ## Registered meeting bodies
@@ -320,7 +320,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Economic Development Commission | other | True | 9 |
 | Housing Commission | other | True | 10 |
 | Planning Commission | other | True | 11 |
-| Selectboard | other | True | 24 |
+| Selectboard | other | True | 25 |
 | Town Meeting | other | True | 1 |
 
 
@@ -369,5 +369,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:36:15 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Chester"`_
+_Generated 2026-09-07T17:28:55 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Chester"`_
 

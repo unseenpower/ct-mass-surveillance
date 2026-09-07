@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **Columbia**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **45 mentions** across **17 meetings**
-- **First mention:** 2024-01-17  |  **Most recent:** 2026-08-04
+- **58 mentions** across **22 meetings**
+- **First mention:** 2023-03-27  |  **Most recent:** 2026-08-04
 - **Technologies discussed:** alpr, drone, surveillance_general
-- **Coverage:** 280 of 634 known Columbia meetings transcribed (44%)
-- **Still incomplete:** 354 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 356 of 635 known Columbia meetings transcribed (56%)
+- **Still incomplete:** 279 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -69,188 +69,239 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 21 | 8 | 2025-09-03 | 2026-08-04 |
-| drone | 23 | 9 | 2024-01-17 | 2026-05-07 |
+| drone | 36 | 14 | 2023-03-27 | 2026-05-07 |
 | surveillance_general | 1 | 1 | 2024-07-17 | 2024-07-17 |
 
 
 ## Timeline
 
-17 meetings surfaced a finding (17 dated, spanning 2024-01-17 to 2026-08-04; 0 of unknown date, listed last).
+22 meetings surfaced a finding (22 dated, spanning 2023-03-27 to 2026-08-04; 0 of unknown date, listed last).
+
+
+### 2023-03-27 -- Planning and Zoning Commission
+
+**Planning and Zoning Meeting 3/27/23** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=RsP6DfkM2KA&t=4288s)  > ...Cassio for sound leveling but you didn't conduct any sound testing on a drone correct correct pattern so you were hired by turning bricks to in a sense critique the work of Dr...
+
+
+### 2023-07-19 -- Safety Committee
+
+**Safety Committee Meeting 7/19/23** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=BdgZA6npulU&t=624s)  > ...so I guess the key is you make sure we notify the fire department make sure we start the fire drone when we save the money right and we notify 9-1-1 and we notify which is what's psychology...
+
+
+### 2023-08-23 -- Lake Management Advisory Commission
+
+**LMAC Subcommittee Meeting 8/23/23** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=g_QvURNOwlg&t=6103s)  > ...me ask you this I'm gonna sell my house next week on the lake and I got a realtor come over and they use a drone they're not allowed to go over the lake and take photos tou touche Bob and you...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=g_QvURNOwlg&t=6114s)  > ...know what I was told then why did that multi-million downon Mansion four houses down just have a drone over it look at the pictures when they uh went went up for...
+
+
+### 2023-08-23 -- Lake Management Advisory Commission
+
+**Lake Management Advisory Sub-Committee Meeting 8/23/23** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=V7CXGEYlVbo&t=6103s)  > ...ask you this I'm gonna sell my house next week on the lake and I got a realtor come over and they use a drone they're not allowed to go over the lake and take photos tou touche Bob and you...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=V7CXGEYlVbo&t=6114s)  > ...know what I was told then why did that multi-million downon Mansion four houses down just have a drone over it look at the pictures when they uh went went up for...
+
+
+### 2023-11-21 -- Board of Selectmen
+
+**Board of Selectmen Meeting 11/21/23** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=NvjBsX5TebA&t=989s)  > ...that uh missz asked about the of Dron we have the clarification and prohibiting drone use G control deep a...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=NvjBsX5TebA&t=1136s)  > ...get so people wouldn't do it I mean it just seems like is it easy to know who's flying the Drone well I can tell you that we literally on Ron Road had one over three properties that was very um...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=NvjBsX5TebA&t=1261s)  > ...right yes Michael Nazo member um in order for a drone operator to operate commercially yeah they need to have a drone...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=NvjBsX5TebA&t=1271s)  > ...Nazo member um in order for a drone operator to operate commercially yeah they need to have a drone license which I actually have and so in order to go through and and operate in a...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=NvjBsX5TebA&t=1313s)  > ...related to airspace and and air uh aircraft um but uh either way um you know a drone operator should know a commercial excuse me commercial operator in commercial operations should know...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=NvjBsX5TebA&t=1331s)  > ...commercially yeah this could be amended as being discussed to Simply say that drone use is prohibited without proper uh authorization and leave at that in it...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=NvjBsX5TebA&t=1415s)  > ...water fair enough clearly what we don't need is the spotter of the skar operating a drone at the same time that they're supposed to be watching for the safety of the SK...
 
 
 ### 2024-01-17 -- Safety Committee
 
 **Safety Committee Meeting 1/17/24** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=Q2rRE6AZhM4&t=370s)  > ...we're in a fire drill did Mary say not leave the building we haven't had a fire drone would anybody know what to do if you fire that's why we're going to have a fire...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Q2rRE6AZhM4&t=370s)  > ...we're in a fire drill did Mary say not leave the building we haven't had a fire drone would anybody know what to do if you fire that's why we're going to have a fire...
 
-- `drone` [▸](https://www.youtube.com/watch?v=Q2rRE6AZhM4&t=374s)  > ...you fire that's why we're going to have a fire drone we've written up instructions of what to do where to meet and regars anytime they're in their office calls my...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Q2rRE6AZhM4&t=374s)  > ...you fire that's why we're going to have a fire drone we've written up instructions of what to do where to meet and regars anytime they're in their office calls my...
 
 
 ### 2024-02-20 -- Hop River Preserve Management Committee
 
 **Hop River Preserve Management Committee Meeting 2/20/24** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=1ttPUgBr_EE&t=746s)  > ...structural uh footprint some Cellar things like that those are cultural features uh we use unmanned aerial vehicles or drones uh picture here uh liar which have already shown you maps...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=1ttPUgBr_EE&t=746s)  > ...structural uh footprint some Cellar things like that those are cultural features uh we use unmanned aerial vehicles or drones uh picture here uh liar which have already shown you maps...
 
 
 ### 2024-07-17 -- Safety Committee
 
 **Safety Committee Meeting 7/17/24** _(topics: surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=RVUMAPLRvyA&t=638s)  > ...make terms and go through safely to be sure a r help out or maybe a surveillance camera hand people tickets out I don't I don't know ask you're...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=RVUMAPLRvyA&t=638s)  > ...make terms and go through safely to be sure a r help out or maybe a surveillance camera hand people tickets out I don't I don't know ask you're...
 
 
 ### 2024-11-12 -- Board of Selectmen
 
 **Board of Selectmen Meeting 11/12/24** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=2602s)  > ...that's what my next step would be see how that works see if we really need to bring a drone in the problem you have is line of sight so the remote control boats...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=2602s)  > ...that's what my next step would be see how that works see if we really need to bring a drone in the problem you have is line of sight so the remote control boats...
 
-- `drone` [▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=2613s)  > ...um only you know go a couple hundred yards and you can't see them uh our drone similar thing you know you have to be a pretty good operator because we don't want drones being lost in the lake...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=2613s)  > ...um only you know go a couple hundred yards and you can't see them uh our drone similar thing you know you have to be a pretty good operator because we don't want drones being lost in the lake...
 
-- `drone` [▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=2619s)  > ...be a pretty good operator because we don't want drones being lost in the lake so if we did use a a drone I'd want to put like a pieces of noodle underneath them so they would...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=2619s)  > ...be a pretty good operator because we don't want drones being lost in the lake so if we did use a a drone I'd want to put like a pieces of noodle underneath them so they would...
 
-- `drone` [▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3035s)  > ...going to be in compliance with those requirements well we make sure uh I I'm not a drone expert you have to have an FAA license to fly drones commercially commercially we...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3035s)  > ...going to be in compliance with those requirements well we make sure uh I I'm not a drone expert you have to have an FAA license to fly drones commercially commercially we...
 
-- `drone` [▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3045s)  > ...commercially we have I'm I'm a certified I'm an FAA pilot as well as drone pilot and if I want to fly my drone recreationally or you know for for you know whatever use I...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3045s)  > ...commercially we have I'm I'm a certified I'm an FAA pilot as well as drone pilot and if I want to fly my drone recreationally or you know for for you know whatever use I...
 
-- `drone` [▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3048s)  > ...have I'm I'm a certified I'm an FAA pilot as well as drone pilot and if I want to fly my drone recreationally or you know for for you know whatever use I can do that but if I'm going to get paid...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3048s)  > ...have I'm I'm a certified I'm an FAA pilot as well as drone pilot and if I want to fly my drone recreationally or you know for for you know whatever use I can do that but if I'm going to get paid...
 
-- `drone` [▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3139s)  > ...just wanted the ability to try it and the drones we don't need a fancy $22,000 drone just need something to harass the geese off of somebody's yard and get them off the lake so...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3139s)  > ...just wanted the ability to try it and the drones we don't need a fancy $22,000 drone just need something to harass the geese off of somebody's yard and get them off the lake so...
 
-- `drone` [▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3157s)  > ...don't have a answer for you on that but there is a one of the members of the patrol has a drone and I can check with him on his licensing and and I okay3...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3157s)  > ...don't have a answer for you on that but there is a one of the members of the patrol has a drone and I can check with him on his licensing and and I okay3...
 
-- `drone` [▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3536s)  > ...houses yeah part of the communication would be you know you're going to try a drone can communicate that out if you're don't want it over your house let us know I guess something that you look...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3536s)  > ...houses yeah part of the communication would be you know you're going to try a drone can communicate that out if you're don't want it over your house let us know I guess something that you look...
 
-- `drone` [▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3633s)  > ...take the drones out of this you know because we're not getting a real warm fuzzy drone situation so we take the drones out of this do we find that it's you...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3633s)  > ...take the drones out of this you know because we're not getting a real warm fuzzy drone situation so we take the drones out of this do we find that it's you...
 
-- `drone` [▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3643s)  > ...you know are people more the Drone idea came because you know walking around the lake is is difficult and um at you know the shallow...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3643s)  > ...you know are people more the Drone idea came because you know walking around the lake is is difficult and um at you know the shallow...
 
-- `drone` [▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3797s)  > ...anything other than addling eggs to and the only way you're G to find those Ness and nutly swamp is if you have a drone you're not getting out there I walk there you are getting out in that swamp...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3797s)  > ...anything other than addling eggs to and the only way you're G to find those Ness and nutly swamp is if you have a drone you're not getting out there I walk there you are getting out in that swamp...
 
 
 ### 2025-05-20 -- Board of Selectmen
 
 **Board of Selectmen Meeting 5/20/25** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=PG8ht9WWM_o&t=6585s)  > ...against you know, right? They bring KFC. Is that against regulations? I think they might. They might launch a a drone to get a aerial shot. I think that's it. Thank...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PG8ht9WWM_o&t=6585s)  > ...against you know, right? They bring KFC. Is that against regulations? I think they might. They might launch a a drone to get a aerial shot. I think that's it. Thank...
 
 
 ### 2025-07-17 -- Open Space Committee
 
 **Open Space Committee Meeting 7/17/25** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=0eJgmDzJDQM&t=2539s)  > ...and So, um the best we can do is beat the drone um when um after the elections or before...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0eJgmDzJDQM&t=2539s)  > ...and So, um the best we can do is beat the drone um when um after the elections or before...
 
 
 ### 2025-07-28 -- Planning and Zoning Commission
 
 **7/28/25 PZC Meeting** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=WwlmKG49laI&t=5763s)  > ...renderings and flythroughs have gotten increasingly easy to do. Um you know and and drone flights and things like that are very cheap. So, you know, there there are other tools available to to...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=WwlmKG49laI&t=5763s)  > ...renderings and flythroughs have gotten increasingly easy to do. Um you know and and drone flights and things like that are very cheap. So, you know, there there are other tools available to to...
 
 
 ### 2025-09-03 -- Lake Management Advisory Commission
 
 **LMAC Meeting 9/3/25** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=cPGwJ4Li988&t=1730s)  > ...for the lake because it won't be if you think about creating a fine layer of flock of alumin uh bound of phosphorus at the bottom of the lake. As soon as more algae cells start to die and settle...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=cPGwJ4Li988&t=1730s)  > ...for the lake because it won't be if you think about creating a fine layer of flock of alumin uh bound of phosphorus at the bottom of the lake. As soon as more algae cells start to die and settle...
 
 
 ### 2025-09-09 -- Planning and Zoning Commission
 
 **9/9/25 PZC Meeting** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=Kcy6VGgMbMw&t=2212s)  > ...>> thank you for your comments. Um yes, >> tracing center right behind her drone. One other thing in the original letter that um Jeff had written up, he had said for the...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kcy6VGgMbMw&t=2212s)  > ...>> thank you for your comments. Um yes, >> tracing center right behind her drone. One other thing in the original letter that um Jeff had written up, he had said for the...
 
 
 ### 2025-10-01 -- Lake Management Advisory Commission
 
 **LMAC Meeting 10/1/25** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=DhPubdsJUak&t=2134s)  > ...cuz I haven't seen >> but two three four since mid August there was one flock of 31 then Glenn Keegan got him off the lake but I got off the lake the next day and and Greg...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=DhPubdsJUak&t=2134s)  > ...cuz I haven't seen >> but two three four since mid August there was one flock of 31 then Glenn Keegan got him off the lake but I got off the lake the next day and and Greg...
 
 
 ### 2025-10-21 -- Board of Selectmen
 
 **Board of Selectmen Meeting 10/21/25** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=VHcbM-6Sm-c&t=749s)  > ...that's managing that is out of Dallas and they were requiring us to get them better pictures from the from a drone that we did hire a drone to it was done free....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VHcbM-6Sm-c&t=749s)  > ...that's managing that is out of Dallas and they were requiring us to get them better pictures from the from a drone that we did hire a drone to it was done free....
 
-- `drone` [▸](https://www.youtube.com/watch?v=VHcbM-6Sm-c&t=752s)  > ...and they were requiring us to get them better pictures from the from a drone that we did hire a drone to it was done free. >> So the roof drawings weren't enough....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VHcbM-6Sm-c&t=752s)  > ...and they were requiring us to get them better pictures from the from a drone that we did hire a drone to it was done free. >> So the roof drawings weren't enough....
 
-- `drone` [▸](https://www.youtube.com/watch?v=VHcbM-6Sm-c&t=757s)  > ...free. >> So the roof drawings weren't enough. >> They weren't they needed a drone and now they want to spray paint onto the roof and show exactly where...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VHcbM-6Sm-c&t=757s)  > ...free. >> So the roof drawings weren't enough. >> They weren't they needed a drone and now they want to spray paint onto the roof and show exactly where...
 
 
 ### 2025-11-05 -- Lake Management Advisory Commission
 
 **LMAC Meeting 11/5/25** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=iPd9j5B7Mns&t=3282s)  > ...And uh fishing >> fishing looms. We got a couple lons. >> Yeah. Oh, we had a flock of black scoters. >> Yeah....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iPd9j5B7Mns&t=3282s)  > ...And uh fishing >> fishing looms. We got a couple lons. >> Yeah. Oh, we had a flock of black scoters. >> Yeah....
 
 
 ### 2026-01-07 -- Lake Management Advisory Commission
 
 **LMAC Meeting 1/7/26** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=tABVypEbeFM&t=3584s)  > ...than water and as it moves through the water it creates a a white precipitate flock. Um and that flock is more dense than water and it's it picks up phosphorus as it settles and and uh...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=tABVypEbeFM&t=3584s)  > ...than water and as it moves through the water it creates a a white precipitate flock. Um and that flock is more dense than water and it's it picks up phosphorus as it settles and and uh...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=tABVypEbeFM&t=4528s)  > ...>> you know, I don't know how many geese you're scaring off, but if you're scaring off a flock of 30, that's a pretty sizable change in phosphorus loading....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=tABVypEbeFM&t=4528s)  > ...>> you know, I don't know how many geese you're scaring off, but if you're scaring off a flock of 30, that's a pretty sizable change in phosphorus loading....
 
 
 ### 2026-02-04 -- Traffic and Transportation Committee
 
 **Traffic & Transportation Committee Meeting 2/4/26** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2258s)  > ...>> well, I think it depends on who your vendor is cuz that one's talking about flock and a lot of issues that have gone on with flock and even though at the federal level they banned ICE from using...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2258s)  > ...>> well, I think it depends on who your vendor is cuz that one's talking about flock and a lot of issues that have gone on with flock and even though at the federal level they banned ICE from using...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2260s)  > ...vendor is cuz that one's talking about flock and a lot of issues that have gone on with flock and even though at the federal level they banned ICE from using flock, they're going to local...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2260s)  > ...vendor is cuz that one's talking about flock and a lot of issues that have gone on with flock and even though at the federal level they banned ICE from using flock, they're going to local...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2265s)  > ...on with flock and even though at the federal level they banned ICE from using flock, they're going to local departments and still accessing flock data. So, it it's sort of interesting to...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2265s)  > ...on with flock and even though at the federal level they banned ICE from using flock, they're going to local departments and still accessing flock data. So, it it's sort of interesting to...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2266s)  > ...federal level they banned ICE from using flock, they're going to local departments and still accessing flock data. So, it it's sort of interesting to see a comprehensive review of what's...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2266s)  > ...federal level they banned ICE from using flock, they're going to local departments and still accessing flock data. So, it it's sort of interesting to see a comprehensive review of what's...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2302s)  > ...any interaction with that data outside of >> I'm just saying because flock goes and buys different companies. So we we can't guarantee that won't change....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2302s)  > ...any interaction with that data outside of >> I'm just saying because flock goes and buys different companies. So we we can't guarantee that won't change....
 
 
 ### 2026-05-07 -- Informational/Public Meeting
 
 **Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26** _(topics: alpr, drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=2621s)  > ...high now we don't my camera and every road between them around. But a road like twinkling drone it was right the center you would slow you you would slow down...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=2621s)  > ...high now we don't my camera and every road between them around. But a road like twinkling drone it was right the center you would slow you you would slow down...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=4713s)  > ...>> was that >> block >> flock? No, it's not. These aren't not flock. >> and then we will be a public bid...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=4713s)  > ...>> was that >> block >> flock? No, it's not. These aren't not flock. >> and then we will be a public bid...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=4715s)  > ...>> block >> flock? No, it's not. These aren't not flock. >> and then we will be a public bid process....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=4715s)  > ...>> block >> flock? No, it's not. These aren't not flock. >> and then we will be a public bid process....
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6636s)  > ...>> It's a different type of camera they were turning off. >> Okay. They're turn off flock cameras which record data like coming in and out there and it's it's a flock, right?...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6636s)  > ...>> It's a different type of camera they were turning off. >> Okay. They're turn off flock cameras which record data like coming in and out there and it's it's a flock, right?...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6639s)  > ...>> Okay. They're turn off flock cameras which record data like coming in and out there and it's it's a flock, right? Because you share with your flock. Yeah. >> The sharing part was bothering the...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6639s)  > ...>> Okay. They're turn off flock cameras which record data like coming in and out there and it's it's a flock, right? Because you share with your flock. Yeah. >> The sharing part was bothering the...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6640s)  > ...which record data like coming in and out there and it's it's a flock, right? Because you share with your flock. Yeah. >> The sharing part was bothering the residents. Seriously, they turn the...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6640s)  > ...which record data like coming in and out there and it's it's a flock, right? Because you share with your flock. Yeah. >> The sharing part was bothering the residents. Seriously, they turn the...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6645s)  > ...>> The sharing part was bothering the residents. Seriously, they turn the flock cameras off. >> Different different thing entirely. >> Okay. Thank you....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6645s)  > ...>> The sharing part was bothering the residents. Seriously, they turn the flock cameras off. >> Different different thing entirely. >> Okay. Thank you....
 
 
 ### 2026-07-07 -- Board of Selectmen
 
 **Board of Selectmen Meeting 7/7/26** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=l8B8feXYJaM&t=3087s)  > ...then there's the big question, and I'm not way up on this, about um, sharing information. Big talk about flock, scanning your phones, all your stuff in your car when you go under these things....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=l8B8feXYJaM&t=3087s)  > ...then there's the big question, and I'm not way up on this, about um, sharing information. Big talk about flock, scanning your phones, all your stuff in your car when you go under these things....
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=l8B8feXYJaM&t=3098s)  > ...your car when you go under these things. I know according to that meeting, they were using flock, but then there's murder. Mergers and acquisitions happen daily. These people are swallowing up...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=l8B8feXYJaM&t=3098s)  > ...your car when you go under these things. I know according to that meeting, they were using flock, but then there's murder. Mergers and acquisitions happen daily. These people are swallowing up...
 
 
 ### 2026-08-04 -- Board of Selectmen
 
 **Board of Selectmen Meeting August 4, 2026** _(topics: alpr)_
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=t8OKNlvmU6w&t=2609s)  > ...we took those from Clinton and they had a great, uh, cheat sheet on what's the difference between a flock ALPR camera and a ATSD program...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=t8OKNlvmU6w&t=2609s)  > ...we took those from Clinton and they had a great, uh, cheat sheet on what's the difference between a flock ALPR camera and a ATSD program...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=t8OKNlvmU6w&t=2631s)  > ...light enforcement uh focusing on roadway safety. Not on the flock cameras which Clinton has both. They have both flock ALPR cameras and ATSD programs. Um,...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=t8OKNlvmU6w&t=2631s)  > ...light enforcement uh focusing on roadway safety. Not on the flock cameras which Clinton has both. They have both flock ALPR cameras and ATSD programs. Um,...
 
-- `alpr_flock` [▸](https://www.youtube.com/watch?v=t8OKNlvmU6w&t=2633s)  > ...uh focusing on roadway safety. Not on the flock cameras which Clinton has both. They have both flock ALPR cameras and ATSD programs. Um, and they explain in their question...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=t8OKNlvmU6w&t=2633s)  > ...uh focusing on roadway safety. Not on the flock cameras which Clinton has both. They have both flock ALPR cameras and ATSD programs. Um, and they explain in their question...
 
 
 ## Findings by topic
@@ -264,16 +315,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### alpr
 
 - **[2026-08-04] Board of Selectmen** -- Board of Selectmen Meeting August 4, 2026
+  > ...we took those from Clinton and they had a great, uh, cheat sheet on what's the difference between a flock ALPR camera and a ATSD program...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=t8OKNlvmU6w&t=2609s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Board of Selectmen** -- Board of Selectmen Meeting August 4, 2026
   > ...light enforcement uh focusing on roadway safety. Not on the flock cameras which Clinton has both. They have both flock ALPR cameras and ATSD programs. Um,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=t8OKNlvmU6w&t=2631s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Board of Selectmen** -- Board of Selectmen Meeting August 4, 2026
   > ...uh focusing on roadway safety. Not on the flock cameras which Clinton has both. They have both flock ALPR cameras and ATSD programs. Um, and they explain in their question...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=t8OKNlvmU6w&t=2633s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Board of Selectmen** -- Board of Selectmen Meeting August 4, 2026
-  > ...we took those from Clinton and they had a great, uh, cheat sheet on what's the difference between a flock ALPR camera and a ATSD program...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=t8OKNlvmU6w&t=2609s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-07] Board of Selectmen** -- Board of Selectmen Meeting 7/7/26
   > ...then there's the big question, and I'm not way up on this, about um, sharing information. Big talk about flock, scanning your phones, all your stuff in your car when you go under these things....
@@ -284,48 +335,48 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=l8B8feXYJaM&t=3098s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-05-07] Informational/Public Meeting** -- Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
-  > ...>> Okay. They're turn off flock cameras which record data like coming in and out there and it's it's a flock, right? Because you share with your flock. Yeah. >> The sharing part was bothering the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6639s)  _(term: alpr_flock, unreviewed)_
+  > ...>> block >> flock? No, it's not. These aren't not flock. >> and then we will be a public bid process....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=4715s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-05-07] Informational/Public Meeting** -- Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
+  > ...which record data like coming in and out there and it's it's a flock, right? Because you share with your flock. Yeah. >> The sharing part was bothering the residents. Seriously, they turn the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6640s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-05-07] Informational/Public Meeting** -- Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
   > ...>> was that >> block >> flock? No, it's not. These aren't not flock. >> and then we will be a public bid...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=4713s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-05-07] Informational/Public Meeting** -- Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
-  > ...>> block >> flock? No, it's not. These aren't not flock. >> and then we will be a public bid process....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=4715s)  _(term: alpr_flock, unreviewed)_
+  > ...>> The sharing part was bothering the residents. Seriously, they turn the flock cameras off. >> Different different thing entirely. >> Okay. Thank you....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6645s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-05-07] Informational/Public Meeting** -- Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
   > ...>> It's a different type of camera they were turning off. >> Okay. They're turn off flock cameras which record data like coming in and out there and it's it's a flock, right?...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6636s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-05-07] Informational/Public Meeting** -- Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
-  > ...>> The sharing part was bothering the residents. Seriously, they turn the flock cameras off. >> Different different thing entirely. >> Okay. Thank you....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6645s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-05-07] Informational/Public Meeting** -- Informational Meeting: Discuss Speed Traffic Cameras and Other Potential Solutions 5/7/26
-  > ...which record data like coming in and out there and it's it's a flock, right? Because you share with your flock. Yeah. >> The sharing part was bothering the residents. Seriously, they turn the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6640s)  _(term: alpr_flock, unreviewed)_
+  > ...>> Okay. They're turn off flock cameras which record data like coming in and out there and it's it's a flock, right? Because you share with your flock. Yeah. >> The sharing part was bothering the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=6639s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-04] Traffic and Transportation Committee** -- Traffic & Transportation Committee Meeting 2/4/26
-  > ...vendor is cuz that one's talking about flock and a lot of issues that have gone on with flock and even though at the federal level they banned ICE from using flock, they're going to local...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2260s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-04] Traffic and Transportation Committee** -- Traffic & Transportation Committee Meeting 2/4/26
-  > ...any interaction with that data outside of >> I'm just saying because flock goes and buys different companies. So we we can't guarantee that won't change....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2302s)  _(term: alpr_flock, unreviewed)_
+  > ...on with flock and even though at the federal level they banned ICE from using flock, they're going to local departments and still accessing flock data. So, it it's sort of interesting to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2265s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-04] Traffic and Transportation Committee** -- Traffic & Transportation Committee Meeting 2/4/26
   > ...federal level they banned ICE from using flock, they're going to local departments and still accessing flock data. So, it it's sort of interesting to see a comprehensive review of what's...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2266s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-04] Traffic and Transportation Committee** -- Traffic & Transportation Committee Meeting 2/4/26
-  > ...>> well, I think it depends on who your vendor is cuz that one's talking about flock and a lot of issues that have gone on with flock and even though at the federal level they banned ICE from using...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2258s)  _(term: alpr_flock, unreviewed)_
+  > ...any interaction with that data outside of >> I'm just saying because flock goes and buys different companies. So we we can't guarantee that won't change....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2302s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-04] Traffic and Transportation Committee** -- Traffic & Transportation Committee Meeting 2/4/26
-  > ...on with flock and even though at the federal level they banned ICE from using flock, they're going to local departments and still accessing flock data. So, it it's sort of interesting to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2265s)  _(term: alpr_flock, unreviewed)_
+  > ...vendor is cuz that one's talking about flock and a lot of issues that have gone on with flock and even though at the federal level they banned ICE from using flock, they're going to local...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2260s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-04] Traffic and Transportation Committee** -- Traffic & Transportation Committee Meeting 2/4/26
+  > ...>> well, I think it depends on who your vendor is cuz that one's talking about flock and a lot of issues that have gone on with flock and even though at the federal level they banned ICE from using...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2258s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-07] Lake Management Advisory Commission** -- LMAC Meeting 1/7/26
   > ...>> you know, I don't know how many geese you're scaring off, but if you're scaring off a flock of 30, that's a pretty sizable change in phosphorus loading....
@@ -385,16 +436,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ey515_PINcI&t=2621s)  _(term: drone, unreviewed)_
 
 - **[2025-10-21] Board of Selectmen** -- Board of Selectmen Meeting 10/21/25
-  > ...free. >> So the roof drawings weren't enough. >> They weren't they needed a drone and now they want to spray paint onto the roof and show exactly where...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=VHcbM-6Sm-c&t=757s)  _(term: drone, unreviewed)_
+  > ...that's managing that is out of Dallas and they were requiring us to get them better pictures from the from a drone that we did hire a drone to it was done free....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=VHcbM-6Sm-c&t=749s)  _(term: drone, unreviewed)_
 
 - **[2025-10-21] Board of Selectmen** -- Board of Selectmen Meeting 10/21/25
   > ...and they were requiring us to get them better pictures from the from a drone that we did hire a drone to it was done free. >> So the roof drawings weren't enough....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=VHcbM-6Sm-c&t=752s)  _(term: drone, unreviewed)_
 
 - **[2025-10-21] Board of Selectmen** -- Board of Selectmen Meeting 10/21/25
-  > ...that's managing that is out of Dallas and they were requiring us to get them better pictures from the from a drone that we did hire a drone to it was done free....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=VHcbM-6Sm-c&t=749s)  _(term: drone, unreviewed)_
+  > ...free. >> So the roof drawings weren't enough. >> They weren't they needed a drone and now they want to spray paint onto the roof and show exactly where...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=VHcbM-6Sm-c&t=757s)  _(term: drone, unreviewed)_
 
 - **[2025-09-09] Planning and Zoning Commission** -- 9/9/25 PZC Meeting
   > ...>> thank you for your comments. Um yes, >> tracing center right behind her drone. One other thing in the original letter that um Jeff had written up, he had said for the...
@@ -417,20 +468,36 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3536s)  _(term: drone, unreviewed)_
 
 - **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
-  > ...you know are people more the Drone idea came because you know walking around the lake is is difficult and um at you know the shallow...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3643s)  _(term: drone, unreviewed)_
+  > ...be a pretty good operator because we don't want drones being lost in the lake so if we did use a a drone I'd want to put like a pieces of noodle underneath them so they would...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=2619s)  _(term: drone, unreviewed)_
 
 - **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
   > ...don't have a answer for you on that but there is a one of the members of the patrol has a drone and I can check with him on his licensing and and I okay3...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3157s)  _(term: drone, unreviewed)_
 
 - **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
+  > ...you know are people more the Drone idea came because you know walking around the lake is is difficult and um at you know the shallow...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3643s)  _(term: drone, unreviewed)_
+
+- **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
+  > ...just wanted the ability to try it and the drones we don't need a fancy $22,000 drone just need something to harass the geese off of somebody's yard and get them off the lake so...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3139s)  _(term: drone, unreviewed)_
+
+- **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
   > ...take the drones out of this you know because we're not getting a real warm fuzzy drone situation so we take the drones out of this do we find that it's you...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3633s)  _(term: drone, unreviewed)_
 
 - **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
+  > ...that's what my next step would be see how that works see if we really need to bring a drone in the problem you have is line of sight so the remote control boats...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=2602s)  _(term: drone, unreviewed)_
+
+- **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
   > ...have I'm I'm a certified I'm an FAA pilot as well as drone pilot and if I want to fly my drone recreationally or you know for for you know whatever use I can do that but if I'm going to get paid...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3048s)  _(term: drone, unreviewed)_
+
+- **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
+  > ...anything other than addling eggs to and the only way you're G to find those Ness and nutly swamp is if you have a drone you're not getting out there I walk there you are getting out in that swamp...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3797s)  _(term: drone, unreviewed)_
 
 - **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
   > ...commercially we have I'm I'm a certified I'm an FAA pilot as well as drone pilot and if I want to fly my drone recreationally or you know for for you know whatever use I...
@@ -441,36 +508,72 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3035s)  _(term: drone, unreviewed)_
 
 - **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
-  > ...be a pretty good operator because we don't want drones being lost in the lake so if we did use a a drone I'd want to put like a pieces of noodle underneath them so they would...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=2619s)  _(term: drone, unreviewed)_
-
-- **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
   > ...um only you know go a couple hundred yards and you can't see them uh our drone similar thing you know you have to be a pretty good operator because we don't want drones being lost in the lake...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=2613s)  _(term: drone, unreviewed)_
-
-- **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
-  > ...anything other than addling eggs to and the only way you're G to find those Ness and nutly swamp is if you have a drone you're not getting out there I walk there you are getting out in that swamp...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3797s)  _(term: drone, unreviewed)_
-
-- **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
-  > ...that's what my next step would be see how that works see if we really need to bring a drone in the problem you have is line of sight so the remote control boats...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=2602s)  _(term: drone, unreviewed)_
-
-- **[2024-11-12] Board of Selectmen** -- Board of Selectmen Meeting 11/12/24
-  > ...just wanted the ability to try it and the drones we don't need a fancy $22,000 drone just need something to harass the geese off of somebody's yard and get them off the lake so...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UUhNzlAR6q8&t=3139s)  _(term: drone, unreviewed)_
 
 - **[2024-02-20] Hop River Preserve Management Committee** -- Hop River Preserve Management Committee Meeting 2/20/24
   > ...structural uh footprint some Cellar things like that those are cultural features uh we use unmanned aerial vehicles or drones uh picture here uh liar which have already shown you maps...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1ttPUgBr_EE&t=746s)  _(term: drone, unreviewed)_
 
 - **[2024-01-17] Safety Committee** -- Safety Committee Meeting 1/17/24
+  > ...you fire that's why we're going to have a fire drone we've written up instructions of what to do where to meet and regars anytime they're in their office calls my...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Q2rRE6AZhM4&t=374s)  _(term: drone, unreviewed)_
+
+- **[2024-01-17] Safety Committee** -- Safety Committee Meeting 1/17/24
   > ...we're in a fire drill did Mary say not leave the building we haven't had a fire drone would anybody know what to do if you fire that's why we're going to have a fire...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Q2rRE6AZhM4&t=370s)  _(term: drone, unreviewed)_
 
-- **[2024-01-17] Safety Committee** -- Safety Committee Meeting 1/17/24
-  > ...you fire that's why we're going to have a fire drone we've written up instructions of what to do where to meet and regars anytime they're in their office calls my...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Q2rRE6AZhM4&t=374s)  _(term: drone, unreviewed)_
+- **[2023-11-21] Board of Selectmen** -- Board of Selectmen Meeting 11/21/23
+  > ...get so people wouldn't do it I mean it just seems like is it easy to know who's flying the Drone well I can tell you that we literally on Ron Road had one over three properties that was very um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NvjBsX5TebA&t=1136s)  _(term: drone, unreviewed)_
+
+- **[2023-11-21] Board of Selectmen** -- Board of Selectmen Meeting 11/21/23
+  > ...water fair enough clearly what we don't need is the spotter of the skar operating a drone at the same time that they're supposed to be watching for the safety of the SK...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NvjBsX5TebA&t=1415s)  _(term: drone, unreviewed)_
+
+- **[2023-11-21] Board of Selectmen** -- Board of Selectmen Meeting 11/21/23
+  > ...right yes Michael Nazo member um in order for a drone operator to operate commercially yeah they need to have a drone...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NvjBsX5TebA&t=1261s)  _(term: drone, unreviewed)_
+
+- **[2023-11-21] Board of Selectmen** -- Board of Selectmen Meeting 11/21/23
+  > ...Nazo member um in order for a drone operator to operate commercially yeah they need to have a drone license which I actually have and so in order to go through and and operate in a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NvjBsX5TebA&t=1271s)  _(term: drone, unreviewed)_
+
+- **[2023-11-21] Board of Selectmen** -- Board of Selectmen Meeting 11/21/23
+  > ...that uh missz asked about the of Dron we have the clarification and prohibiting drone use G control deep a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NvjBsX5TebA&t=989s)  _(term: drone, unreviewed)_
+
+- **[2023-11-21] Board of Selectmen** -- Board of Selectmen Meeting 11/21/23
+  > ...related to airspace and and air uh aircraft um but uh either way um you know a drone operator should know a commercial excuse me commercial operator in commercial operations should know...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NvjBsX5TebA&t=1313s)  _(term: drone, unreviewed)_
+
+- **[2023-11-21] Board of Selectmen** -- Board of Selectmen Meeting 11/21/23
+  > ...commercially yeah this could be amended as being discussed to Simply say that drone use is prohibited without proper uh authorization and leave at that in it...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NvjBsX5TebA&t=1331s)  _(term: drone, unreviewed)_
+
+- **[2023-08-23] Lake Management Advisory Commission** -- LMAC Subcommittee Meeting 8/23/23
+  > ...me ask you this I'm gonna sell my house next week on the lake and I got a realtor come over and they use a drone they're not allowed to go over the lake and take photos tou touche Bob and you...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=g_QvURNOwlg&t=6103s)  _(term: drone, unreviewed)_
+
+- **[2023-08-23] Lake Management Advisory Commission** -- Lake Management Advisory Sub-Committee Meeting 8/23/23
+  > ...know what I was told then why did that multi-million downon Mansion four houses down just have a drone over it look at the pictures when they uh went went up for...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=V7CXGEYlVbo&t=6114s)  _(term: drone, unreviewed)_
+
+- **[2023-08-23] Lake Management Advisory Commission** -- LMAC Subcommittee Meeting 8/23/23
+  > ...know what I was told then why did that multi-million downon Mansion four houses down just have a drone over it look at the pictures when they uh went went up for...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=g_QvURNOwlg&t=6114s)  _(term: drone, unreviewed)_
+
+- **[2023-08-23] Lake Management Advisory Commission** -- Lake Management Advisory Sub-Committee Meeting 8/23/23
+  > ...ask you this I'm gonna sell my house next week on the lake and I got a realtor come over and they use a drone they're not allowed to go over the lake and take photos tou touche Bob and you...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=V7CXGEYlVbo&t=6103s)  _(term: drone, unreviewed)_
+
+- **[2023-07-19] Safety Committee** -- Safety Committee Meeting 7/19/23
+  > ...so I guess the key is you make sure we notify the fire department make sure we start the fire drone when we save the money right and we notify 9-1-1 and we notify which is what's psychology...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BdgZA6npulU&t=624s)  _(term: drone, unreviewed)_
+
+- **[2023-03-27] Planning and Zoning Commission** -- Planning and Zoning Meeting 3/27/23
+  > ...Cassio for sound leveling but you didn't conduct any sound testing on a drone correct correct pattern so you were hired by turning bricks to in a sense critique the work of Dr...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RsP6DfkM2KA&t=4288s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -648,8 +751,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 26
-- Videos registered: 634 (fetched: 280, no captions: 14)
-- Date range covered: 2020-04-07 to 2026-08-18 (all 634 videos dated)
+- Videos registered: 635 (fetched: 356, no captions: 14)
+- Date range covered: 2020-04-07 to 2026-09-01 (all 635 videos dated)
 
 
 ### Channels
@@ -663,7 +766,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| columbia_ct | videos | 2026-08-31 14:01:46.620055 | 646 |
+| columbia_ct | videos | 2026-09-07 17:01:52.586546 | 647 |
 
 
 ## Registered meeting bodies
@@ -675,7 +778,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Horace Porter School HVAC Building Committee | education | True | 5 |
 | America 250 Committee | other | True | 2 |
 | Board of Assessment Appeals | other | True | 14 |
-| Board of Selectmen | other | True | 157 |
+| Board of Selectmen | other | True | 158 |
 | Charter Revision Commission | other | True | 12 |
 | Commission on Aging | other | True | 14 |
 | Conservation and Agriculture Commission | other | True | 3 |
@@ -755,5 +858,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:36:27 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Columbia"`_
+_Generated 2026-09-07T17:29:11 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Columbia"`_
 

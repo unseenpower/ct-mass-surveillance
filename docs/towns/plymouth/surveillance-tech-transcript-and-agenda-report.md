@@ -8,8 +8,8 @@ This report collects every mention of surveillance technology found in **Plymout
 - **2 mentions** across **2 meetings**
 - **First mention:** 2024-01-10  |  **Most recent:** 2026-04-15
 - **Technologies discussed:** drone, surveillance_general
-- **Coverage:** 46 of 126 known Plymouth meetings transcribed (37%)
-- **Still incomplete:** 80 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 47 of 128 known Plymouth meetings transcribed (37%)
+- **Still incomplete:** 81 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -81,14 +81,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **BOE Meeting 1/10/24** _(topics: surveillance_general)_
 
-- `surveillance_general` [▸](https://www.youtube.com/watch?v=Lvx96QOprwI&t=8577s)  > ...for a Fortune 100 company in the physical security standpoints physical security Setter um CCTV security systems I have National contacts things along those lines if there's something and...
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Lvx96QOprwI&t=8577s)  > ...for a Fortune 100 company in the physical security standpoints physical security Setter um CCTV security systems I have National contacts things along those lines if there's something and...
 
 
 ### 2026-04-15 -- Board of Education
 
 **BOE Meeting 4/15/26** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=jqJRLlrKdn4&t=3311s)  > ...uh in all honesty, when you go to Plymouth Center, when you look up, you see the sky. When you take a drone and you look down, well, that entire roof has solar panels on it. It does. So, if...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=jqJRLlrKdn4&t=3311s)  > ...uh in all honesty, when you go to Plymouth Center, when you look up, you see the sky. When you take a drone and you look down, well, that entire roof has solar panels on it. It does. So, if...
 
 
 ## Findings by topic
@@ -316,8 +316,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 2
 - Active meeting bodies: 3
-- Videos registered: 126 (fetched: 46, no captions: 0)
-- Date range covered: 2017-02-08 to 2026-08-04 (all 126 videos dated)
+- Videos registered: 128 (fetched: 47, no captions: 0)
+- Date range covered: 2017-02-08 to 2026-09-01 (all 128 videos dated)
 
 
 ### Channels
@@ -332,18 +332,18 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| plymouth_ct | streams | 2026-08-31 13:37:53.194703 | 13 |
-| plymouth_ct | videos | 2026-08-31 13:37:53.867184 | 3 |
-| plymouth_public_schools | streams | 2026-08-31 13:43:32.064157 | 2 |
-| plymouth_public_schools | videos | 2026-08-31 13:43:34.772098 | 180 |
+| plymouth_ct | streams | 2026-09-07 16:24:19.369379 | 14 |
+| plymouth_ct | videos | 2026-09-07 16:24:18.510096 | 3 |
+| plymouth_public_schools | streams | 2026-09-07 16:55:55.787381 | 2 |
+| plymouth_public_schools | videos | 2026-09-07 16:55:55.063057 | 181 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Town Council | council | True | 14 |
-| Board of Education | education | True | 111 |
+| Town Council | council | True | 15 |
+| Board of Education | education | True | 112 |
 | Public Hearing | other | True | 1 |
 
 
@@ -388,5 +388,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:43:15 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Plymouth"`_
+_Generated 2026-09-07T17:39:13 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Plymouth"`_
 

@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **New Har
 - **2 mentions** across **1 meeting**
 - **First mention:** 2026-02-03  |  **Most recent:** 2026-02-03
 - **Technologies discussed:** drone
-- **Coverage:** 59 of 136 known New Hartford meetings transcribed (43%)
+- **Coverage:** 60 of 137 known New Hartford meetings transcribed (44%)
 - **Still incomplete:** 77 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
@@ -80,9 +80,9 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **New Hartford Public Schools - Board Meeting - 02/03/2026** _(topics: drone)_
 
-- `drone` [▸](https://www.youtube.com/watch?v=gCzwkInEPII&t=324s)  > ...opportunities. Sixth grade is also working on creating a drone container designed to help remote villages get medicine faster and more efficiently. Working together in a...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gCzwkInEPII&t=324s)  > ...opportunities. Sixth grade is also working on creating a drone container designed to help remote villages get medicine faster and more efficiently. Working together in a...
 
-- `drone` [▸](https://www.youtube.com/watch?v=gCzwkInEPII&t=331s)  > ...more efficiently. Working together in a group of four, students will be designing drone containers to keep an ice cube frozen. Our schools have been learning together...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gCzwkInEPII&t=331s)  > ...more efficiently. Working together in a group of four, students will be designing drone containers to keep an ice cube frozen. Our schools have been learning together...
 
 
 ## Findings by topic
@@ -312,8 +312,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 2
 - Active meeting bodies: 7
-- Videos registered: 136 (fetched: 59, no captions: 10)
-- Date range covered: 2009-10-27 to 2026-08-18 (all 136 videos dated)
+- Videos registered: 137 (fetched: 60, no captions: 10)
+- Date range covered: 2009-10-27 to 2026-09-02 (all 137 videos dated)
 
 
 ### Channels
@@ -328,9 +328,9 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| new_hartford_boe | streams | 2026-08-31 13:37:00.059979 | 27 |
-| new_hartford_boe | videos | 2026-08-31 13:37:01.272973 | 48 |
-| new_hartford_plus | videos | 2026-08-31 14:16:08.922301 | 182 |
+| new_hartford_boe | streams | 2026-09-07 16:23:10.225665 | 27 |
+| new_hartford_boe | videos | 2026-09-07 16:23:08.374227 | 49 |
+| new_hartford_plus | videos | 2026-09-07 16:34:05.253088 | 182 |
 
 
 ## Registered meeting bodies
@@ -339,7 +339,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 11 |
 | Board of Selectmen | council | True | 13 |
-| Board of Education | education | True | 97 |
+| Board of Education | education | True | 98 |
 | Regional School District 7 Board of Education | education | True | 7 |
 | Planning & Zoning Commission | other | True | 1 |
 | Town Meeting | other | True | 2 |
@@ -403,5 +403,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-08-31T14:41:09 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Hartford"`_
+_Generated 2026-09-07T17:36:24 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Hartford"`_
 
