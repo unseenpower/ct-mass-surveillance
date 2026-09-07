@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **East Ha
 - **77 mentions** across **12 meetings**
 - **First mention:** 2023-06-06  |  **Most recent:** 2026-09-01
 - **Technologies discussed:** alpr, body_camera, drone, facial_recognition, surveillance_general
-- **Coverage:** 125 of 126 known East Hartford meetings transcribed (99%)
+- **Coverage:** 126 of 126 known East Hartford meetings transcribed (100%)
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -812,7 +812,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 - Channels registered: 1
 - Active meeting bodies: 5
-- Videos registered: 126 (fetched: 125, no captions: 0)
+- Videos registered: 126 (fetched: 126, no captions: 0)
 - Date range covered: 2021-03-10 to 2026-09-01 (all 126 videos dated)
 
 
@@ -884,5 +884,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-05T13:45:10 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "East Hartford"`_
+_Generated 2026-09-06T22:27:01 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "East Hartford"`_
 
