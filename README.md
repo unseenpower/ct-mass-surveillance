@@ -18,6 +18,13 @@ towns whose transcripts were downloaded for the first time, and topics
 appearing for the first time in a town already being watched. Regenerated
 continuously.
 
+**[ALPR FOIA request template](docs/foia/ct-alpr-foia-template.md)** — a
+fill-in-the-blanks Connecticut FOI Act request covering both ALPR systems a
+police department is likely to run: the Flock Safety network, and the Axon
+in-car system most towns have never mentioned in public. Built from two real
+requests to West Hartford PD, with the homework to do first, the statutory
+cites, and notes on why each item is worded the way it is.
+
 **[Meetings to watch](docs/meetings-to-watch.md)** — where surveillance
 technology is most likely to come up next: meetings towns have already
 scheduled at bodies that have raised it before, and the ~160 committees and
