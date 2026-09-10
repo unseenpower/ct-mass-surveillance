@@ -9,6 +9,14 @@ edit_uri: ""
 
 theme:
   name: material
+  # Material's default pulls Roboto from fonts.googleapis.com and
+  # fonts.gstatic.com, which sends every reader's IP address and User-Agent
+  # to Google on every page load. On a site about mass surveillance that is
+  # not a defensible default. `font: false` drops both requests and falls
+  # back to the reader's own system stack; nothing else here loads from a
+  # third party, and there is no analytics, no cookies and no consent
+  # banner. Do not re-enable without replacing it with self-hosted files.
+  font: false
   features:
     - navigation.instant
     - navigation.tracking

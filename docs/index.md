@@ -53,9 +53,9 @@ single document. Start here to read what a dozen towns said about ALPR without
 opening a dozen town reports.
 
 **[findings.csv](data/README.md)** — every mention in one machine-readable
-file: 3,528 rows, 81 towns, 14 topics, each with a timestamped link to the
-exact second of the meeting video. For spreadsheets, scripts, or pointing an
-AI assistant at.
+file: <!-- stats:start -->5,394 rows, 96 towns, 17 topics<!-- stats:end -->,
+each with a link to the exact second of the meeting video. For spreadsheets,
+scripts, or pointing an AI assistant at.
 
 ## Searching
 
