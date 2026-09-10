@@ -1,6 +1,6 @@
 # Cell-site simulators: every mention, every town
 
-_Generated 2026-09-10T16:21:33 — 7 mentions across 5 towns, 2016-06-01 to 2025-04-10._
+_Generated 2026-09-10T17:12:48 — 7 mentions across 5 towns, 2016-06-01 to 2025-04-10._
 
 
 Cell-site simulators ('Stingrays') — devices that impersonate a cell tower to locate phones.

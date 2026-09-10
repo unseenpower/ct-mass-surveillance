@@ -1,6 +1,6 @@
 # CT surveillance-tech mentions: cross-town matrix
 
-_Generated 2026-09-10T16:21:39 — 99 towns, 5,956 total mentions across 17 topics._
+_Generated 2026-09-10T17:12:54 — 99 towns, 5,956 total mentions across 17 topics._
 
 
 > **Read the coverage column first.** Every number here is a raw keyword match, not a human-reviewed finding — keywords are ambiguous, so a count is a pointer to somewhere worth reading, not a conclusion. And a **low or zero count is not evidence a town has avoided surveillance technology**: it usually means that town's transcript backlog is not fetched yet, its meetings are not captioned, or its archive is on a platform this pipeline cannot read. Coverage is the share of that town's known meeting videos whose transcripts have actually been downloaded, and **Transcripts from** is the year the corpus begins — a town can be well covered recently and have nothing at all from its earlier years.
@@ -94,25 +94,25 @@ Town names link to the full per-town report, which carries the timestamped sourc
 | **[Ellington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ellington/surveillance-tech-transcript-and-agenda-report.md)** | 36% | 2022 †2020 | 3 | **4** | · | 2 | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | **[Suffield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/suffield/surveillance-tech-transcript-and-agenda-report.md)** | 90% | 2019 †2018 | 3 | **4** | · | 2 | 1 | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · |
 | **[Cornwall](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cornwall/surveillance-tech-transcript-and-agenda-report.md)** | 22% | 2015 †2010 | 2 | **3** | · | 2 | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| Franklin ⁽ⁿᵖ⁾ | — | — | 2 | **2** | 2 | · | · | · | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | **[Plymouth](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plymouth/surveillance-tech-transcript-and-agenda-report.md)** | 38% | 2017 | 2 | **2** | · | 1 | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| **[Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/lyme/surveillance-tech-transcript-and-agenda-report.md)** | 75% | 2021 | 2 | **2** | · | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | **[North Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-canaan/surveillance-tech-transcript-and-agenda-report.md)** | 99% | 2025 | 1 | **2** | · | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | **[Bolton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bolton/surveillance-tech-transcript-and-agenda-report.md)** | 37% | 2020 †2015 | 2 | **2** | · | 1 | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| Franklin ⁽ⁿᵖ⁾ | — | — | 2 | **2** | 2 | · | · | · | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Essex ⁽ⁿᵖ⁾ | — | — | 2 | **2** | 2 | · | · | · | 1 | · | 1 | · | · | · | · | · | · | · | · | · | · | · |
 | **[New Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-hartford/surveillance-tech-transcript-and-agenda-report.md)** | 44% | 2009 | 1 | **2** | · | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| **[Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/lyme/surveillance-tech-transcript-and-agenda-report.md)** | 75% | 2021 | 2 | **2** | · | 2 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | **[Hebron](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hebron/surveillance-tech-transcript-and-agenda-report.md)** | 37% | 2024 †2019 | 1 | **1** | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| Canton ⁽ⁿᵖ⁾ | — | — | 1 | **1** | 1 | · | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| Salem ⁽ⁿᵖ⁾ | 0% | — | 1 | **1** | 1 | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| **[Roxbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/roxbury/surveillance-tech-transcript-and-agenda-report.md)** | 18% | 2023 †2020 | 1 | **1** | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Bozrah ⁽ⁿᵖ⁾ | — | — | 1 | **1** | 1 | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Brooklyn ⁽ⁿᵖ⁾ | — | — | 1 | **1** | 1 | · | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | **[Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/haddam/surveillance-tech-transcript-and-agenda-report.md)** | 10% | 2020 †2018 | 1 | **1** | 1 | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | **[Newtown](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newtown/surveillance-tech-transcript-and-agenda-report.md)** | 100% | 2020 | 1 | **1** | · | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | **[Andover](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/andover/surveillance-tech-transcript-and-agenda-report.md)** | 49% | 2021 †2020 | 1 | **1** | · | · | · | · | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · |
-| Middlebury ⁽ⁿᵖ⁾ | — | — | 1 | **1** | 1 | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | **[Bloomfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bloomfield/surveillance-tech-transcript-and-agenda-report.md)** | 20% | 2018 †2017 | 1 | **1** | · | · | · | · | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · |
 | **[Easton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/easton/surveillance-tech-transcript-and-agenda-report.md)** | 83% | 2020 | 1 | **1** | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| Middlebury ⁽ⁿᵖ⁾ | — | — | 1 | **1** | 1 | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| Canton ⁽ⁿᵖ⁾ | — | — | 1 | **1** | 1 | · | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| Salem ⁽ⁿᵖ⁾ | 0% | — | 1 | **1** | 1 | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| **[Roxbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/roxbury/surveillance-tech-transcript-and-agenda-report.md)** | 18% | 2023 †2020 | 1 | **1** | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | **[New Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-fairfield/surveillance-tech-transcript-and-agenda-report.md)** | 76% | 2022 | 1 | **1** | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 
 **Transcripts from** is the year this corpus actually begins for that town. `2024 †2016` means transcripts start in 2024 while the town has published meeting video back to 2016 — those earlier meetings exist but are **not transcribed yet**, so nothing in this table can tell you what was discussed then. Recent meetings are fetched first, and older ones are still being backfilled.

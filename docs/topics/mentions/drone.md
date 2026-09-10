@@ -1,6 +1,6 @@
 # Drones: every mention, every town
 
-_Generated 2026-09-10T16:18:59 — 2,571 mentions across 87 towns, 2013-12-04 to 2026-09-09._
+_Generated 2026-09-10T17:10:52 — 2,571 mentions across 87 towns, 2013-12-04 to 2026-09-09._
 
 
 Police and municipal drones, including 'drone as first responder' programmes that launch autonomously in response to calls.

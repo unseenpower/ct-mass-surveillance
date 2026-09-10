@@ -1,15 +1,15 @@
 # This Week in Surveillance — Connecticut
 
-_Last updated 10 September 2026 at 4:21 PM EDT. Covering the 7 days to 10 September 2026._
+_Last updated 10 September 2026 at 5:13 PM EDT. Covering the 7 days to 10 September 2026._
 
 ## Headlines
 
 - **[Meetings held in the last 7 days](#meetings-held-in-the-last-7-days)** — 48 mention(s) across 10 town(s) — South Windsor, Bristol, East Lyme
 - **[Additional towns covered in the tracker this week](#additional-towns-covered-in-the-tracker-this-week)** — 3 town(s) entered the tracker
-- **[New signal: topics appearing for the first time in towns already being watched](#new-signal-topics-appearing-for-the-first-time-in-towns-already-being-watched)** — 15 town/topic pairing(s) — Coventry (General surveillance), Danbury (ALPR / Flock)
+- **[New signal: topics appearing for the first time in towns already being watched](#new-signal-topics-appearing-for-the-first-time-in-towns-already-being-watched)** — 14 town/topic pairing(s) — Coventry (General surveillance), Danbury (ALPR / Flock)
 - **[In the news](#in-the-news)** — no new items; most recent sweep on file ran 2026-08-23
 - **[Coming up](#coming-up)** — 10 scheduled meeting(s)
-- **[Volume surfaced this week, by topic](#volume-surfaced-this-week-by-topic)** — 869 mentions across 12 topics — Drones 489, ALPR / Flock 194, Body cameras 75
+- **[Volume surfaced this week, by topic](#volume-surfaced-this-week-by-topic)** — 845 mentions across 12 topics — Drones 475, ALPR / Flock 192, General surveillance 70
 
 
 > **Unreviewed keyword matches, not verified claims.** Every item below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous and auto-captions mis-transcribe. Follow the timestamped link and listen before citing anything.
@@ -19,7 +19,7 @@ _Last updated 10 September 2026 at 4:21 PM EDT. Covering the 7 days to 10 Septem
 
 ## Meetings held in the last 7 days
 
-_842 mentions newly surfaced in this window, from 5,183 meeting transcripts added across 170 keyword scans._
+_818 mentions newly surfaced in this window, from 5,175 meeting transcripts added across 168 keyword scans._
 
 _48 mention(s) across 10 town(s) — the genuinely current slice._
 
@@ -123,7 +123,7 @@ _3 town(s) entered the tracker this week — their meeting transcripts were down
 
 ## New signal: topics appearing for the first time in towns already being watched
 
-_15 town/topic pairing(s). These towns already had transcripts in the corpus before this window, so a first appearance here is not simply the effect of new coverage._
+_14 town/topic pairing(s). These towns already had transcripts in the corpus before this window, so a first appearance here is not simply the effect of new coverage._
 
 
 ### [Coventry](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/coventry/surveillance-tech-transcript-and-agenda-report.md) — General surveillance (3 mentions)
@@ -267,21 +267,6 @@ _15 town/topic pairing(s). These towns already had transcripts in the corpus bef
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=v3n0zRl5_As&t=956s)  _(term: `predictive_policing`)_
 
 
-### [Plainville](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainville/surveillance-tech-transcript-and-agenda-report.md) — Body cameras (4 mentions)
-
-- **[2020-07-20] Town Council** — Plainville Town Council Meeting - 7/20/20
-  > …i'm sorry i must have been mistaken i see video surveillance from the police officer's body cam as well as the car cam as necessary and i also see it as a mutually…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3Cjq3ZaRE4g&t=1412s)  _(term: `body_camera`)_
-
-- **[2020-07-20] Town Council** — Plainville Town Council Meeting - 7/20/20
-  > …uh so somebody may be using taser's product to act on his taser they they make a body cam so they're purchasing that we couldn't really regionalize with…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3Cjq3ZaRE4g&t=2529s)  _(term: `body_camera`, 2 matches in this stretch)_
-
-- **[2021-03-09] Town Council** — Plainville Town Council Budget Meeting - 3/9/21
-  > …yes we were let me ask you a question of course uh lieutenant the body cam's three to five years is that due to changing technology wear and tear…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JTH8nk9LifY&t=3978s)  _(term: `body_camera`)_
-
-
 ### [Plainville](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainville/surveillance-tech-transcript-and-agenda-report.md) — Doorbell-camera partnerships (1 mention)
 
 - **[2020-03-12] Town Council** — Plainville Town Council Budget Meeting - 3/12/20
@@ -400,17 +385,17 @@ The full watch list — every body that keeps returning to the subject, and when
 
 | Topic | Newly surfaced | Towns |
 | --- | --- | --- |
-| [Drones](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/drone.md) | 489 | 34 |
-| [ALPR / Flock](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/alpr.md) | 194 | 27 |
-| [Body cameras](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md) | 75 | 16 |
-| [General surveillance](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/surveillance_general.md) | 72 | 9 |
+| [Drones](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/drone.md) | 475 | 34 |
+| [ALPR / Flock](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/alpr.md) | 192 | 27 |
+| [General surveillance](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/surveillance_general.md) | 70 | 8 |
+| [Body cameras](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md) | 70 | 15 |
 | [Facial recognition](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/facial_recognition.md) | 18 | 5 |
 | [Predictive policing](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/predictive_policing.md) | 5 | 4 |
 | [Purchasing / procurement](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/purchasing_broker.md) | 5 | 2 |
-| [Data brokers](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/data_broker.md) | 3 | 1 |
 | [Cell-site simulators](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/cell_site_sim.md) | 3 | 1 |
+| [Data brokers](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/data_broker.md) | 3 | 1 |
 | [Gunshot detection](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/gunshot_detection.md) | 2 | 2 |
-| [Doorbell-camera partnerships](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/doorbell_partnership.md) | 2 | 2 |
+| [Doorbell-camera partnerships](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/doorbell_partnership.md) | 1 | 1 |
 | [Real-time crime centres](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/rtcc.md) | 1 | 1 |
 
 ---
