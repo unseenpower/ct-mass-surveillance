@@ -1,6 +1,6 @@
 # General surveillance: every mention, every town
 
-_Generated 2026-09-10T16:21:04 — 389 mentions across 49 towns, 2014-06-26 to 2026-08-18._
+_Generated 2026-09-10T17:12:20 — 389 mentions across 49 towns, 2014-06-26 to 2026-08-18._
 
 
 General discussion of surveillance, privacy and camera policy that is not specific to one technology.

@@ -1,6 +1,6 @@
 # Surveillance topics: all towns, by technology
 
-_Generated 2026-09-10T16:21:33._
+_Generated 2026-09-10T17:12:48._
 
 
 Each file gathers every Connecticut town's mentions of one technology into a single document, with a timestamped link to the exact second of the meeting video for each. The [cross-town matrix](../../cross-town-matrix.md) is the count-only overview of the same data; the per-town reports under [`docs/towns/`](../../towns/) are the complete record for any one town.
