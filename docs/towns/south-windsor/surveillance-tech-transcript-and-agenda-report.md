@@ -9,6 +9,7 @@ This report collects every mention of surveillance technology found in **South W
 - **First mention:** 2021-09-21  |  **Most recent:** 2026-09-08
 - **Technologies discussed:** ai_data_fusion, alpr, body_camera, drone, predictive_policing
 - **Coverage:** 140 of 144 known South Windsor meetings transcribed (97%)
+- **7,658 licence-plate searches** run by South Windsor's own police appear in six towns' released Flock audit logs -- [see the numbers](#licence-plate-searches-by-south-windsor-police)
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -20,6 +21,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 ## Contents
 
 - [Get the full transcripts](#get-the-full-transcripts)
+- [Licence-plate searches by South Windsor police](#licence-plate-searches-by-south-windsor-police)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -61,6 +63,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 
 > These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+
+
+## Licence-plate searches by South Windsor police
+
+Six Connecticut towns have released the Flock audit log of every search run against their cameras. Below is what that record holds for South Windsor's own police department -- not a finding, just the log.
+
+
+**South Windsor CT PD**
+
+- **7,658 searches** between 2023-05 and 2026-08 (40 months with at least one search)
+- **358 camera networks** swept by the average single search
+- **96%** of them reached beyond South Windsor's own cameras
+- The commonest stated reason is free text or a numeric code, rather than one of the preset categories Flock introduced in December 2025
+
+**[Open South Windsor CT PD's search dashboard](../../analysis/towns/south-windsor-alpr-searches.html)** -- every one of those searches, filterable by month, stated reason, search type and how far it reached, with a **[How to read this](../../analysis/towns/south-windsor-alpr-searches.html#how)** tab covering what each field means and what the record cannot tell you.
+
+
+> **A floor, not a total.** The record only sees queries that reached those six towns' cameras. A single Flock query typically sweeps thousands of networks at once, so most of a Connecticut department's searching does land in it -- but the real count is higher. Nothing in it names an officer, shows a plate, or records what any search returned.
 
 
 ## Mentions by topic: first seen / most recent
@@ -968,8 +988,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | --- | --- | --- | --- |
 | south_windsor_public_schools | streams | 2026-09-10 13:37:15.640972 | 6 |
 | south_windsor_public_schools | videos | 2026-09-10 13:37:14.858683 | 2 |
-| town_of_south_windsor | streams | 2026-09-10 12:03:35.341213 | 324 |
-| town_of_south_windsor | videos | 2026-09-10 12:03:30.449100 | 22 |
+| town_of_south_windsor | streams | 2026-09-10 14:40:51.669071 | 324 |
+| town_of_south_windsor | videos | 2026-09-10 14:40:46.844088 | 22 |
 
 
 ## Registered meeting bodies
@@ -1027,5 +1047,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-10T14:16:01 from South Windsor's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-10T15:02:20 from South Windsor's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 
