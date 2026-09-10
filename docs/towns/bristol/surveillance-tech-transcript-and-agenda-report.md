@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **Bristol**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **82 mentions** across **11 meetings**
-- **First mention:** 2021-09-14  |  **Most recent:** 2026-08-12
+- **90 mentions** across **12 meetings**
+- **First mention:** 2021-09-14  |  **Most recent:** 2026-09-08
 - **Technologies discussed:** alpr, body_camera, drone, facial_recognition, surveillance_general
-- **Coverage:** 176 of 237 known Bristol meetings transcribed (74%)
-- **Not the full history:** transcripts begin **2019-09-10**, but Bristol's published video archive goes back to **2016-01-12**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+- **Coverage:** 183 of 241 known Bristol meetings transcribed (76%)
+- **Not the full history:** transcripts begin **2019-05-14**, but Bristol's published video archive goes back to **2016-01-12**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -68,7 +68,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 32 | 6 | 2023-08-08 | 2026-08-12 |
+| alpr | 40 | 7 | 2023-08-08 | 2026-09-08 |
 | body_camera | 7 | 4 | 2021-09-14 | 2026-08-12 |
 | drone | 32 | 4 | 2024-09-10 | 2026-04-14 |
 | facial_recognition | 8 | 2 | 2023-08-08 | 2026-04-14 |
@@ -77,7 +77,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ## Timeline
 
-11 meetings surfaced a finding (11 dated, spanning 2021-09-14 to 2026-08-12; 0 of unknown date, listed last).
+12 meetings surfaced a finding (12 dated, spanning 2021-09-14 to 2026-09-08; 0 of unknown date, listed last).
 
 
 ### 2021-09-14 -- City Council
@@ -299,6 +299,27 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=3797s)  > ...are they going to hold on to what are our asurances that Axon or Recor or Flock isn't going to take that data um off of you know the server and without our knowledge use it or sell it or share...
 
 
+### 2026-09-08 -- City Council
+
+**Bristol City Council Meeting - 09/08/26** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1259s)  > ...Bristol. Uh, resident property owner here. I'm here tonight about the city's license plate reader program. Um, you know, when asking fellow members of the community about the ALPR program, its...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1263s)  > ...license plate reader program. Um, you know, when asking fellow members of the community about the ALPR program, its inception, and you know, all that's transpired since before I moved here,...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1280s)  > ...to be an issue which stems from an overgeneralization. You know, when referring to flock cameras, uh, I feel like we have to stop addressing it as a flock specific...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1284s)  > ...You know, when referring to flock cameras, uh, I feel like we have to stop addressing it as a flock specific problem. Axon system does the same thing as flocks did. You know, when residents...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1290s)  > ...problem. Axon system does the same thing as flocks did. You know, when residents raise concern about flock, that's really concerned about this whole category of surveillance technology, not just the...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1316s)  > ...council in October. Once both of those are complete, Bristol have a total of 27 license plate reader cameras which almost doubles today's count. Uh just last month, as I'm sure you guys are...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1328s)  > ...municipality to pause new camera installations while the state post council reviews the ALPR statewide. I checked today. I don't think they have made a uh judgment on that yet. Um...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1347s)  > ...Town has paused its cameras on August 21st. Windsor voted to permanently shut off and remove all 16 of its flock cameras. Just last week, Milford turned off several ALPRs and put its own speed...
+
+
 ## Findings by topic
 
 
@@ -309,121 +330,153 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
-- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...party um our information is our information. Uh that cloud is locked down. Flock can't go into our cloud and access that information. Um we would have to allow them to go into that to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2521s)  _(term: alpr_flock, unreviewed)_
+- **[2026-09-08] City Council** -- Bristol City Council Meeting - 09/08/26
+  > ...You know, when referring to flock cameras, uh, I feel like we have to stop addressing it as a flock specific problem. Axon system does the same thing as flocks did. You know, when residents...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1284s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...the most um Chief, why don't you come up so you can be part of this? Um the three vendors, Recor and Axon and Flock and so we heard from them and we also had a very spirited presentation and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2031s)  _(term: alpr_flock, unreviewed)_
+- **[2026-09-08] City Council** -- Bristol City Council Meeting - 09/08/26
+  > ...Town has paused its cameras on August 21st. Windsor voted to permanently shut off and remove all 16 of its flock cameras. Just last week, Milford turned off several ALPRs and put its own speed...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1347s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...I would be in full support and saying that these cameras, all all of the cameras, the flock cameras, the LPRs, let's stop using the word flock. Um, the license plate readers and other...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=3427s)  _(term: alpr_flock, unreviewed)_
+- **[2026-09-08] City Council** -- Bristol City Council Meeting - 09/08/26
+  > ...municipality to pause new camera installations while the state post council reviews the ALPR statewide. I checked today. I don't think they have made a uh judgment on that yet. Um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1328s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...are they going to hold on to what are our asurances that Axon or Recor or Flock isn't going to take that data um off of you know the server and without our knowledge use it or sell it or share...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=3797s)  _(term: alpr_flock, unreviewed)_
+- **[2026-09-08] City Council** -- Bristol City Council Meeting - 09/08/26
+  > ...license plate reader program. Um, you know, when asking fellow members of the community about the ALPR program, its inception, and you know, all that's transpired since before I moved here,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1263s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] City Council** -- Bristol City Council Meeting - 09/08/26
+  > ...council in October. Once both of those are complete, Bristol have a total of 27 license plate reader cameras which almost doubles today's count. Uh just last month, as I'm sure you guys are...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1316s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] City Council** -- Bristol City Council Meeting - 09/08/26
+  > ...to be an issue which stems from an overgeneralization. You know, when referring to flock cameras, uh, I feel like we have to stop addressing it as a flock specific...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1280s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] City Council** -- Bristol City Council Meeting - 09/08/26
+  > ...problem. Axon system does the same thing as flocks did. You know, when residents raise concern about flock, that's really concerned about this whole category of surveillance technology, not just the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1290s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] City Council** -- Bristol City Council Meeting - 09/08/26
+  > ...Bristol. Uh, resident property owner here. I'm here tonight about the city's license plate reader program. Um, you know, when asking fellow members of the community about the ALPR program, its...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1259s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
   > ...studies and it tells us that let's say a thousand cars went by that day. That license plate reader essentially says we took a thousand cars went by and that data just disappears just like your home...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2796s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...that these cameras, all all of the cameras, the flock cameras, the LPRs, let's stop using the word flock. Um, the license plate readers and other technology is great and wonderful...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=3430s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...Flock, but it's a that's a company name. LPRs or license plate readers are are what Flock is. And what it enables us to do is identify vehicles that are coming into our city. Um, generally stolen...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2329s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...I was one of the police commissioners chief two and a half years ago. When did we first get flock? >> Yeah, I think three >> two and a half...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=3454s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...concerns. Um, and I think the recent state law that was passed regulating the use of flock cameras. Um, I'll use Flock, but it's a that's a company name. LPRs or license plate readers are are...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2320s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...murder in Milford was just solved quickly and two individuals were charged or in custody because of a license plate reader. So the technology if utilized correctly and uh Chief Morela touched on...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=3351s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...>> 14 flock cameras and we are in a position right now of doing a non-renewal with flock. Um, so that is in process and we're going to be moving into a better situation with Axon, which...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2141s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...12 flock cameras, >> 14 >> 14 flock cameras and we are in a position right now of doing a non-renewal with flock. Um, so that is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2136s)  _(term: alpr_flock, unreviewed)_
+  > ...are they going to hold on to what are our asurances that Axon or Recor or Flock isn't going to take that data um off of you know the server and without our knowledge use it or sell it or share...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=3797s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
   > ...burden. The person committing the fra infraction should always be the one to get the ticket. And then the flock cameras. You know, I've had five cars stolen in my life. I actually love the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=1551s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
+  > ...the most um Chief, why don't you come up so you can be part of this? Um the three vendors, Recor and Axon and Flock and so we heard from them and we also had a very spirited presentation and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2031s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
   > ...andor Labor Day in that window. Um, we currently have 12 flock cameras, >> 14 >> 14 flock cameras and we are in a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2134s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
+  > ...12 flock cameras, >> 14 >> 14 flock cameras and we are in a position right now of doing a non-renewal with flock. Um, so that is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2136s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
+  > ...>> 14 flock cameras and we are in a position right now of doing a non-renewal with flock. Um, so that is in process and we're going to be moving into a better situation with Axon, which...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2141s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
+  > ...concerns. Um, and I think the recent state law that was passed regulating the use of flock cameras. Um, I'll use Flock, but it's a that's a company name. LPRs or license plate readers are are...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2320s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
   > ...state law that was passed regulating the use of flock cameras. Um, I'll use Flock, but it's a that's a company name. LPRs or license plate readers are are what Flock is. And what it enables us to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2324s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-07-14] City Council** -- Bristol City Council Meeting - 07/14/26
-  > ...wave of econ AI economic revolution. But my greatest fear in all of this is that in your desire to be ahead of the flock, you will be the first to leap off the cliff of idealized,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=asGIRRMGDso&t=1848s)  _(term: alpr_flock, unreviewed)_
+- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
+  > ...Flock, but it's a that's a company name. LPRs or license plate readers are are what Flock is. And what it enables us to do is identify vehicles that are coming into our city. Um, generally stolen...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2329s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
+  > ...party um our information is our information. Uh that cloud is locked down. Flock can't go into our cloud and access that information. Um we would have to allow them to go into that to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2521s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
+  > ...I would be in full support and saying that these cameras, all all of the cameras, the flock cameras, the LPRs, let's stop using the word flock. Um, the license plate readers and other...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=3427s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
+  > ...that these cameras, all all of the cameras, the flock cameras, the LPRs, let's stop using the word flock. Um, the license plate readers and other technology is great and wonderful...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=3430s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
+  > ...I was one of the police commissioners chief two and a half years ago. When did we first get flock? >> Yeah, I think three >> two and a half...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=3454s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
+  > ...murder in Milford was just solved quickly and two individuals were charged or in custody because of a license plate reader. So the technology if utilized correctly and uh Chief Morela touched on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=3351s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-14] City Council** -- Bristol City Council Meeting - 07/14/26
   > ...and I've gone down rabbit hole after rabbit hole with Palunteer and Oracle and Flock cameras and Axon cameras and gone through the whole funding. And for one thing, Pal um Peter Teal, his...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=asGIRRMGDso&t=1268s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-14] City Council** -- Bristol City Council Meeting - 07/14/26
+  > ...wave of econ AI economic revolution. But my greatest fear in all of this is that in your desire to be ahead of the flock, you will be the first to leap off the cliff of idealized,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=asGIRRMGDso&t=1848s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-14] City Council** -- Bristol City Council Meeting - 07/14/26
   > ...one thing, Pal um Peter Teal, his founding firm, which donated a lot of money to Flock to get them started, also received a $40 million investment from Jeffrey Epstein. And I'm extremely...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=asGIRRMGDso&t=1279s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-06-09] City Council** -- Bristol City Council Meeting - 06/09/26
-  > ...dangerous. Um, that being said, I don't think automatic license plate readers are the answer. Automatic license plate reader technology is unreliable and is operated by even less trustable or...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ov6s4HYxlWw&t=1740s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-06-09] City Council** -- Bristol City Council Meeting - 06/09/26
   > ...do. For considering all that, I respectfully request that the city council do not pass the ALPR ordinances. Thank you. >> Thank you....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ov6s4HYxlWw&t=1887s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-05-12] City Council** -- Bristol City Council Meeting - 05/12/26
-  > ...>> are those aren't, Chris. Those aren't safety cameras. Okay. >> The flock cameras. Okay. These are for just the red light cameras. Okay....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1XionM3iBBs&t=2099s)  _(term: alpr_flock, unreviewed)_
+- **[2026-06-09] City Council** -- Bristol City Council Meeting - 06/09/26
+  > ...dangerous. Um, that being said, I don't think automatic license plate readers are the answer. Automatic license plate reader technology is unreliable and is operated by even less trustable or...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ov6s4HYxlWw&t=1740s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-05-12] City Council** -- Bristol City Council Meeting - 05/12/26
   > ...Through the chair. Um does this it says automo- automated traffic. Does that include flock cameras as well? Or is that a separate issue?...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1XionM3iBBs&t=2091s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-05-12] City Council** -- Bristol City Council Meeting - 05/12/26
+  > ...>> are those aren't, Chris. Those aren't safety cameras. Okay. >> The flock cameras. Okay. These are for just the red light cameras. Okay....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1XionM3iBBs&t=2099s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
   > ...all their other assets. >> And just for people who don't know, but um LPR is license plate reader. So So are we going to have 20 250 extra little cameras that can go in parks or...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3858s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-08-08] City Council** -- Bristol City Council Meeting - 08/08/23
-  > ...um so flock safety our mission is to eliminate crime we have over 23 cities and towns in Connecticut using flock safety there's no personal information let me...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RY0hm3buJ3A&t=1243s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-08-08] City Council** -- Bristol City Council Meeting - 08/08/23
-  > ...Lynch from flock safety if you go to the next slide please um so flock safety our mission is to eliminate crime we have over 23 cities and towns in Connecticut using flock...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RY0hm3buJ3A&t=1241s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-08-08] City Council** -- Bristol City Council Meeting - 08/08/23
-  > ...safety there's no personal information let me just back this up flock safety is a vehicle fingerprint technology camera so it will capture the rear of the vehicle...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RY0hm3buJ3A&t=1248s)  _(term: alpr_flock, unreviewed)_
+  > ...introduce Craig from flock and Craig will come up and he'll give you a little presentation on what flock is and what it does and more importantly what it does not do Greg...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RY0hm3buJ3A&t=1210s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-08-08] City Council** -- Bristol City Council Meeting - 08/08/23
   > ...it out loud yes go ahead thank you all for your time tonight my name is Craig Lynch from flock safety if you go to the next slide please um so flock safety our mission is to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RY0hm3buJ3A&t=1228s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-08-08] City Council** -- Bristol City Council Meeting - 08/08/23
-  > ...and it's tied to a case or a call number that that vehicle is going to be captured on that License Plate Reader and it will deliver that information back to the police department they do...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RY0hm3buJ3A&t=1354s)  _(term: alpr_flock, unreviewed)_
+  > ...Lynch from flock safety if you go to the next slide please um so flock safety our mission is to eliminate crime we have over 23 cities and towns in Connecticut using flock...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RY0hm3buJ3A&t=1241s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-08-08] City Council** -- Bristol City Council Meeting - 08/08/23
-  > ...introduce Craig from flock and Craig will come up and he'll give you a little presentation on what flock is and what it does and more importantly what it does not do Greg...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RY0hm3buJ3A&t=1210s)  _(term: alpr_flock, unreviewed)_
+  > ...um so flock safety our mission is to eliminate crime we have over 23 cities and towns in Connecticut using flock safety there's no personal information let me...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RY0hm3buJ3A&t=1243s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-08-08] City Council** -- Bristol City Council Meeting - 08/08/23
+  > ...safety there's no personal information let me just back this up flock safety is a vehicle fingerprint technology camera so it will capture the rear of the vehicle...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RY0hm3buJ3A&t=1248s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-08-08] City Council** -- Bristol City Council Meeting - 08/08/23
+  > ...and it's tied to a case or a call number that that vehicle is going to be captured on that License Plate Reader and it will deliver that information back to the police department they do...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RY0hm3buJ3A&t=1354s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-08-08] City Council** -- Bristol City Council Meeting - 08/08/23
   > ...in early 2022 they had over 50 successes in the first six months of having their license plate readers up from flock from catalytic converters to Armed robberies vehicle carjackings there were...
@@ -446,20 +499,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### body_camera
 
 - **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...into a better situation with Axon, which is a coordinated uh network that the chief can speak to for our body cam, our dashboard cam. Um there are drones involved and there are other pieces that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2153s)  _(term: body_camera, unreviewed)_
+  > ...an FOI request absolutely not >> okay has there ever been any significant breaches with leaks of body cam of people in vulnerable moments >> not in personal...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2874s)  _(term: body_camera, unreviewed)_
 
 - **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...see people in the privacy of their homes and you're recording, what happens to that? the body cam >> that information is stored on on on the cloud the Saxon network...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2858s)  _(term: body_camera, unreviewed)_
+  > ...into a better situation with Axon, which is a coordinated uh network that the chief can speak to for our body cam, our dashboard cam. Um there are drones involved and there are other pieces that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2153s)  _(term: body_camera, unreviewed)_
 
 - **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
   > ...you respond to a medical call or criminal incident within someone's home and body cam is activated and you come in and you see people in the privacy of their homes...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2845s)  _(term: body_camera, unreviewed)_
 
 - **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...an FOI request absolutely not >> okay has there ever been any significant breaches with leaks of body cam of people in vulnerable moments >> not in personal...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2874s)  _(term: body_camera, unreviewed)_
+  > ...see people in the privacy of their homes and you're recording, what happens to that? the body cam >> that information is stored on on on the cloud the Saxon network...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2858s)  _(term: body_camera, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
   > ...that you said about we will also have the feature of language translation that will be available through body cam. So we can choose a language and be able to communicate with people more so than we...
@@ -497,88 +550,88 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### drone
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...>> Well, I mean, common practice would be, um, say it's going to 123 Main Street. The drone's going to deploy straight up. It's not It's going to go right to that address. Once it's at that address, the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4003s)  _(term: drone, unreviewed)_
-
-- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...time or >> it's just a relay of information. >> That person who's flying the drone if it's appropriate per policy or what have you. Um I'll use the fire example again....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3670s)  _(term: drone, unreviewed)_
+  > ...the next five? >> Yeah, I only say that because I'm a drone pilot myself. So, >> any other questions? >> Yeah, actually I got a few. Okay. Um and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3713s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
   > ...And let's say one of these drones are drones are deployed and somebody's in their backyard and this drone is flying over. It's going to be recording all this. Where will all that information...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3983s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...the next five? >> Yeah, I only say that because I'm a drone pilot myself. So, >> any other questions? >> Yeah, actually I got a few. Okay. Um and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3713s)  _(term: drone, unreviewed)_
+  > ...three patrol lead drones, and two tactical drones, three Axon dead drone uh drone radars, uh one Axon dead drone uh beyond which is a drone detection device, 250 Fus CCTV streams, Auror...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=5228s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...elect if there's um you know the fire department's on scene and they need access to the live stream of the drone feed they can send a secure link to the fire chief for example and that fire...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3642s)  _(term: drone, unreviewed)_
-
-- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...>> so anybody could foyer that so like let's say my neighbor says well I was just naked in my backyard and zone drone came over oh I want to see this >> yeah but if...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4049s)  _(term: drone, unreviewed)_
-
-- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...say doing, you know, whatever in their backyard. They're skinny dipping or whatever. Um, you know, and this drone flies over that's going to pick them up as well, right?...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3993s)  _(term: drone, unreviewed)_
-
-- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...>> It would be reported over the radio. Okay. That operator would be handling handling the drone. >> Okay. That's Just a question on that. I thought one...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3591s)  _(term: drone, unreviewed)_
+  > ...time or >> it's just a relay of information. >> That person who's flying the drone if it's appropriate per policy or what have you. Um I'll use the fire example again....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3670s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
   > ...It's not It's going to go right to that address. Once it's at that address, the operator will then use the drone to look for what they're looking for. >> But it is recording from the police...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4008s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
+  > ...elect if there's um you know the fire department's on scene and they need access to the live stream of the drone feed they can send a secure link to the fire chief for example and that fire...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3642s)  _(term: drone, unreviewed)_
+
+- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
   > ...information the the PD wants to release so that if a a resident rightfully has a concern about hey this drone was over my head um they could obviously foyer the information but also there's a portal...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4035s)  _(term: drone, unreviewed)_
+
+- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
+  > ...>> It would be reported over the radio. Okay. That operator would be handling handling the drone. >> Okay. That's Just a question on that. I thought one...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3591s)  _(term: drone, unreviewed)_
+
+- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
+  > ...>> Well, I mean, common practice would be, um, say it's going to 123 Main Street. The drone's going to deploy straight up. It's not It's going to go right to that address. Once it's at that address, the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4003s)  _(term: drone, unreviewed)_
+
+- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
+  > ...>> so anybody could foyer that so like let's say my neighbor says well I was just naked in my backyard and zone drone came over oh I want to see this >> yeah but if...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4049s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
   > ...>> Right now, >> one who's deploying it? >> It would be an operator of of the drone. Right now, we're working on an SOP how exactly that would would work out. um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3560s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...we've been working with agencies enough where rather than approaching and talking about drone as first responder in 2026 and then acts on assistant in 2027 worked with the police department...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4786s)  _(term: drone, unreviewed)_
-
-- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...>> it'll be short. Let's say they're going to a job. They're flying a drone to the job. Now, do you set like a waypoint and then it automatically comes back so it doesn't...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=5092s)  _(term: drone, unreviewed)_
+  > ...looking at again in several demos, you're looking straight line of sight to where the drone's going. Once you get on scene, then the operator is looking for the suspect or...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4067s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
   > ...>> I have a question. Um, let's say you're deploying one of these drones. Who has access to that drone at that time? Multiple officers or is it just one? >> Right now,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3553s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...three Skyo drones as first responder, three patrol lead drones, and two tactical drones, three Axon dead drone uh drone radars, uh one Axon dead drone uh beyond which is a drone detection...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=5225s)  _(term: drone, unreviewed)_
-
-- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
   > ...this way to continue it. If you go the alakart alakart route, um the 400 foot high ceiling uh drone would be $200,000 just alone. Here we're getting three drones to cover the city. um three...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3478s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...three patrol lead drones, and two tactical drones, three Axon dead drone uh drone radars, uh one Axon dead drone uh beyond which is a drone detection device, 250 Fus CCTV streams, Auror...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=5228s)  _(term: drone, unreviewed)_
+  > ...we've been working with agencies enough where rather than approaching and talking about drone as first responder in 2026 and then acts on assistant in 2027 worked with the police department...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4786s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
   > ...a portal via our um department website and it would explain why, when, and um the reason that drone was deployed. Um so the community can ensure that we are being transparent um with them. Some of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3395s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...tactical drones, three Axon dead drone uh drone radars, uh one Axon dead drone uh beyond which is a drone detection device, 250 Fus CCTV streams, Auror Retail Crime Hub, set items to be...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=5233s)  _(term: drone, unreviewed)_
+  > ...>> it'll be short. Let's say they're going to a job. They're flying a drone to the job. Now, do you set like a waypoint and then it automatically comes back so it doesn't...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=5092s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
   > ...he doesn't have the personnel to cover the entire area, so we'd be able to, um, deploy a drone to system. Also, he has um the water tanks to check the viability of them. And water and sewer...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3365s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...looking at again in several demos, you're looking straight line of sight to where the drone's going. Once you get on scene, then the operator is looking for the suspect or...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4067s)  _(term: drone, unreviewed)_
+  > ...say doing, you know, whatever in their backyard. They're skinny dipping or whatever. Um, you know, and this drone flies over that's going to pick them up as well, right?...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3993s)  _(term: drone, unreviewed)_
+
+- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
+  > ...three Skyo drones as first responder, three patrol lead drones, and two tactical drones, three Axon dead drone uh drone radars, uh one Axon dead drone uh beyond which is a drone detection...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=5225s)  _(term: drone, unreviewed)_
+
+- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
+  > ...tactical drones, three Axon dead drone uh drone radars, uh one Axon dead drone uh beyond which is a drone detection device, 250 Fus CCTV streams, Auror Retail Crime Hub, set items to be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=5233s)  _(term: drone, unreviewed)_
 
 - **[2026-04-01] Board of Education** -- 4-1-2026 Regular Board of Education Meeting
   > ...also there. So wanted to acknowledge and congratulate Jean. We also had the BAS drone team. Bames proudly hosted the robotics education and competition foundation aerial drone competition on...
@@ -593,28 +646,28 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_foGvrhIVrc&t=415s)  _(term: drone, unreviewed)_
 
 - **[2025-04-02] Board of Education** -- 04-02-25  Regular Board of Education Meeting
-  > ...of our Royal Bees drone team. Uh, this is an offshoot of our technology student association. Our TSA and drone club adviser, Miss Crystal Cowet, is here. Um, she has all of these students both...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_foGvrhIVrc&t=254s)  _(term: drone, unreviewed)_
-
-- **[2025-04-02] Board of Education** -- 04-02-25  Regular Board of Education Meeting
-  > ...staff and student recognition. Um I would like to call up Leah McCabe for Bames Royal Bees drone team. Thanks, Jeff. I I appreciate the applause, but I did not do anything. Um,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_foGvrhIVrc&t=225s)  _(term: drone, unreviewed)_
+  > ...distance by using color codes. The piloting skills field where Emma flies the drone through an obstacle course. And the teamwork skills mission is the largest field where two teams works...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_foGvrhIVrc&t=336s)  _(term: drone, unreviewed)_
 
 - **[2025-04-02] Board of Education** -- 04-02-25  Regular Board of Education Meeting
   > ...seventh grader and the lead pilot and teamwork skills lead. The target. The largest competition of the drone competitions is the field challenges. There are three field challenges. The...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_foGvrhIVrc&t=317s)  _(term: drone, unreviewed)_
 
 - **[2025-04-02] Board of Education** -- 04-02-25  Regular Board of Education Meeting
-  > ...distance by using color codes. The piloting skills field where Emma flies the drone through an obstacle course. And the teamwork skills mission is the largest field where two teams works...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_foGvrhIVrc&t=336s)  _(term: drone, unreviewed)_
-
-- **[2025-04-02] Board of Education** -- 04-02-25  Regular Board of Education Meeting
   > ...it is my pleasure, uh, Commissioner Ponds, uh, to, uh, introduce the members of our Royal Bees drone team. Uh, this is an offshoot of our technology student association. Our TSA and drone club...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_foGvrhIVrc&t=249s)  _(term: drone, unreviewed)_
 
 - **[2025-04-02] Board of Education** -- 04-02-25  Regular Board of Education Meeting
+  > ...of our Royal Bees drone team. Uh, this is an offshoot of our technology student association. Our TSA and drone club adviser, Miss Crystal Cowet, is here. Um, she has all of these students both...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_foGvrhIVrc&t=254s)  _(term: drone, unreviewed)_
+
+- **[2025-04-02] Board of Education** -- 04-02-25  Regular Board of Education Meeting
   > ...topics we enjoyed. On March 22nd, we competed in our second ever drone competition at the Gilbert School in Winstead. There were 22 teams from areas middle school and high high...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_foGvrhIVrc&t=460s)  _(term: drone, unreviewed)_
+
+- **[2025-04-02] Board of Education** -- 04-02-25  Regular Board of Education Meeting
+  > ...staff and student recognition. Um I would like to call up Leah McCabe for Bames Royal Bees drone team. Thanks, Jeff. I I appreciate the applause, but I did not do anything. Um,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_foGvrhIVrc&t=225s)  _(term: drone, unreviewed)_
 
 - **[2025-04-02] Board of Education** -- 04-02-25  Regular Board of Education Meeting
   > ...enough money to compete. We also hope that our success will inspire other schools in Bristol to create drone teams of their own. Thank you. I just w I wanted to just recognize...
@@ -632,28 +685,28 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4110s)  _(term: facial_recognition, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...AI or any of that? >> No, we don't do that. We don't um we've stepped away from facial recognition a couple years ago. Um made that clear. And let's say one of these drones are...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3974s)  _(term: facial_recognition, unreviewed)_
-
-- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...one of the 200 streams. >> And another one is um are any of these cameras uh fa have facial recognition or AI or any of that? >> No, we don't do that. We don't um we've...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3968s)  _(term: facial_recognition, unreviewed)_
-
-- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...>> No, >> you can interrupt me anytime, Peter. >> Um, so there's no facial recognition. So I did find an article just from um December of last year where Axon is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4094s)  _(term: facial_recognition, unreviewed)_
-
-- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...December of last year where Axon is working with um a Canadian police department to put facial recognition into their body warn cameras. >> Yeah. So um we're not working on facial...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4107s)  _(term: facial_recognition, unreviewed)_
+  > ...It's facial, I guess, matching if you describe it that way. >> Okay. But this one is facial recognition technology is being incorporated into our police officers bodywn cameras and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4154s)  _(term: facial_recognition, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
   > ...we're not saying blanket, everybody is going to walk down the street and be recognized through facial recognition. It's facial, I guess, matching if you describe it that way....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4149s)  _(term: facial_recognition, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
-  > ...It's facial, I guess, matching if you describe it that way. >> Okay. But this one is facial recognition technology is being incorporated into our police officers bodywn cameras and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4154s)  _(term: facial_recognition, unreviewed)_
+  > ...December of last year where Axon is working with um a Canadian police department to put facial recognition into their body warn cameras. >> Yeah. So um we're not working on facial...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4107s)  _(term: facial_recognition, unreviewed)_
+
+- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
+  > ...>> No, >> you can interrupt me anytime, Peter. >> Um, so there's no facial recognition. So I did find an article just from um December of last year where Axon is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4094s)  _(term: facial_recognition, unreviewed)_
+
+- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
+  > ...one of the 200 streams. >> And another one is um are any of these cameras uh fa have facial recognition or AI or any of that? >> No, we don't do that. We don't um we've...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3968s)  _(term: facial_recognition, unreviewed)_
+
+- **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
+  > ...AI or any of that? >> No, we don't do that. We don't um we've stepped away from facial recognition a couple years ago. Um made that clear. And let's say one of these drones are...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=3974s)  _(term: facial_recognition, unreviewed)_
 
 - **[2023-08-08] City Council** -- Bristol City Council Meeting - 08/08/23
   > ...public roadways what the technology isn't is the most important part there's zero facial recognition it's getting the rear of the vehicle it's not tied to any personal information taking a picture of...
@@ -693,12 +746,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### surveillance_general
 
 - **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
-  > ...data just disappears just like your home surveillance camera. Unless you're staring at your home surveillance camera 24/7, you really don't know who's going...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2806s)  _(term: surveillance_general, unreviewed)_
-
-- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
   > ...took a thousand cars went by and that data just disappears just like your home surveillance camera. Unless you're staring at your home surveillance camera 24/7,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2805s)  _(term: surveillance_general, unreviewed)_
+
+- **[2026-08-12] City Council** -- Bristol City Council Meeting - 08/12/26
+  > ...data just disappears just like your home surveillance camera. Unless you're staring at your home surveillance camera 24/7, you really don't know who's going...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2806s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-04-14] City Council** -- Bristol City Council Meeting - 04/14/26
   > ...uh drone radars, uh one Axon dead drone uh beyond which is a drone detection device, 250 Fus CCTV streams, Auror Retail Crime Hub, set items to be covered for 5 years effective June 2020....
@@ -831,15 +884,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 2
 - Active meeting bodies: 8
-- Videos registered: 237 (fetched: 176, no captions: 1)
-- Date range covered: 2016-01-12 to 2026-08-12 (all 237 videos dated)
+- Videos registered: 241 (fetched: 183, no captions: 1)
+- Date range covered: 2016-01-12 to 2026-09-09 (all 241 videos dated)
 
 
 ### Channels
@@ -854,22 +907,22 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| bristol_public_schools | streams | 2026-09-07 16:42:16.335338 | 2 |
-| bristol_public_schools | videos | 2026-09-07 16:42:15.638110 | 132 |
-| nutmeg_tv | streams | 2026-09-07 16:50:01.480623 | 3 |
-| nutmeg_tv | videos | 2026-09-07 16:50:00.685188 | 5282 |
+| bristol_public_schools | streams | 2026-09-10 11:59:31.094466 | 2 |
+| bristol_public_schools | videos | 2026-09-10 11:59:30.350322 | 135 |
+| nutmeg_tv | streams | 2026-09-10 11:37:23.451548 | 3 |
+| nutmeg_tv | videos | 2026-09-10 11:37:22.711081 | 5289 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Education |  | True | 80 |
-| City Council |  | True | 110 |
+| Board of Education |  | True | 82 |
+| City Council |  | True | 111 |
 | Finance & Operations Committee |  | True | 16 |
 | Labor Relations Committee |  | True | 1 |
 | Policy Committee |  | True | 13 |
-| School Safety Committee |  | True | 3 |
+| School Safety Committee |  | True | 4 |
 | School, Family & Community Partnerships |  | True | 8 |
 | Student Achievement & Outcomes Committee |  | True | 6 |
 
@@ -911,5 +964,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:28:23 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bristol"`_
+_Generated 2026-09-10T13:56:45 from Bristol's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

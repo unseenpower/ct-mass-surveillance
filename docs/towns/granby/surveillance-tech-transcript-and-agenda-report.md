@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Granby*
 - **16 mentions** across **11 meetings**
 - **First mention:** 2024-03-18  |  **Most recent:** 2026-08-03
 - **Technologies discussed:** alpr, drone, predictive_policing, surveillance_general
-- **Coverage:** 269 of 273 known Granby meetings transcribed (99%)
+- **Coverage:** 269 of 274 known Granby meetings transcribed (98%)
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -435,15 +435,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 273 (fetched: 269, no captions: 2)
-- Date range covered: 2014-11-20 to 2026-08-18 (all 273 videos dated)
+- Videos registered: 274 (fetched: 269, no captions: 3)
+- Date range covered: 2014-11-20 to 2026-09-08 (all 274 videos dated)
 
 
 ### Channels
@@ -457,8 +457,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| gctv16 | streams | 2026-09-07 16:52:30.162285 | 1 |
-| gctv16 | videos | 2026-09-07 16:52:29.441548 | 779 |
+| gctv16 | streams | 2026-09-10 11:40:20.054934 | 1 |
+| gctv16 | videos | 2026-09-10 11:40:19.331062 | 782 |
 
 
 ## Registered meeting bodies
@@ -473,7 +473,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Center Advisory Committee | other | True | 23 |
 | Inland Wetlands & Watercourses Commission | other | True | 30 |
 | Plan of Conservation and Development Committee | other | True | 8 |
-| Planning & Zoning Commission | other | True | 40 |
+| Planning & Zoning Commission | other | True | 41 |
 | Zoning Board of Appeals | other | True | 17 |
 
 
@@ -496,7 +496,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | logged_at | field_name | new_value | source | by |
 | --- | --- | --- | --- | --- |
 | 2026-08-27 13:59:58.631162 | agenda_platform_confirmed | granby-ct.gov's Boards & Commissions page links directly to /AgendaCenter -- confirmed CivicPlus AgendaCenter, same vendor as Milford (this project's one already-fetchable agenda platform). | WebFetch of granby-ct.gov/27/Boards-Commissions, 2026-08-27 | claude |
-| 2026-08-27 13:59:58.631162 | channel_found | gctv16 (GCTV16) -- already registered under East Granby's name in the previous batch (schema/seed_east_granby.sql), whose own notes already documented it as shared with Granby. Verified directly this session by re-crawling the full corpus rather than trusting that note alone: 777 /videos + 1 /streams titles, 310 prefixed "Granby" (not "East Granby"). | re-crawl of youtube.com/channel/UCZnbatLuVPJEM91xypyJ-uQ (/videos + /streams), 2026-08-27 | claude |
+| 2026-08-27 13:59:58.631162 | channel_found | gctv16 (GCTV16) -- already registered under East Granby's name in the previous batch (a seed script), whose own notes already documented it as shared with Granby. Verified directly this session by re-crawling the full corpus rather than trusting that note alone: 777 /videos + 1 /streams titles, 310 prefixed "Granby" (not "East Granby"). | re-crawl of youtube.com/channel/UCZnbatLuVPJEM91xypyJ-uQ (/videos + /streams), 2026-08-27 | claude |
 | 2026-08-27 13:59:58.631162 | leak_check_both_directions | Confirmed zero leaks in both directions: Granby's 10 anchored patterns match none of East Granby's 258 anchored titles; East Granby's 12 existing anchored patterns match none of Granby's 310 anchored titles. | Python leak-check script against full corpus, 2026-08-27 | claude |
 | 2026-08-27 13:59:58.631162 | patterns_validated_from_real_titles | 273/310 Granby-anchored titles matched at least one body (88.1%) -- the 37 unmatched are ceremonial/PR/community content (Memorial Day Parade, Volunteer Fair, Poll Workers Appreciation, Youth/Senior Services PSA series, library events), correctly not government oversight meetings. | Python pattern validation against the anchored subset, 2026-08-27 | claude |
 | 2026-08-27 13:59:58.631162 | shared_channel_link_added | Added town_channels row linking Granby to the existing gctv16 channel (not a new channel registration). All Granby patterns anchored ^granby\b -- since East Granby titles always start with "East" not the bare word "Granby", this anchor cleanly separates the two towns. | Python two-way leak check against the full 778-title corpus using both towns' exact shipped patterns, 2026-08-27 | claude |
@@ -505,10 +505,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (2 shown, max 25)
+### Videos with no captions available (3 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Granby Planning & Zoning Commission - 09-08-26 | 2026-09-08 |
 | Granby Three Board Budget Meeting - 01-20-26 | 2026-01-20 |
 | Granby Board of Finance - 05-27-25 | 2025-05-27 |
 
@@ -521,5 +522,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:32:46 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Granby"`_
+_Generated 2026-09-10T14:03:42 from Granby's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Andover
 - **1 mention** across **1 meeting**
 - **First mention:** 2025-11-19  |  **Most recent:** 2025-11-19
 - **Technologies discussed:** predictive_policing
-- **Coverage:** 217 of 487 known Andover meetings transcribed (45%)
+- **Coverage:** 242 of 489 known Andover meetings transcribed (49%)
 - **Not the full history:** transcripts begin **2021-05-04**, but Andover's published video archive goes back to **2020-04-03**. Meetings before 2021 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -299,15 +299,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 9
-- Videos registered: 487 (fetched: 217, no captions: 4)
-- Date range covered: 2020-04-03 to 2026-08-26 (all 487 videos dated)
+- Videos registered: 489 (fetched: 242, no captions: 6)
+- Date range covered: 2020-04-03 to 2026-09-03 (all 489 videos dated)
 
 
 ### Channels
@@ -321,7 +321,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| andover_ct | videos | 2026-09-07 16:51:48.090161 | 510 |
+| andover_ct | videos | 2026-09-10 11:39:33.739933 | 512 |
 
 
 ## Registered meeting bodies
@@ -333,8 +333,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Capital Improvement Planning Committee | budget_finance | True | 4 |
 | Andover Charter Revision Commission | other | True | 7 |
 | Board of Assessment Appeals | other | True | 11 |
-| Board of Selectmen | other | True | 169 |
-| Inland Wetlands and Watercourses Commission | other | True | 58 |
+| Board of Selectmen | other | True | 170 |
+| Inland Wetlands and Watercourses Commission | other | True | 59 |
 | Planning and Zoning Commission | other | True | 81 |
 | Zoning Board of Appeals | other | True | 13 |
 
@@ -366,13 +366,15 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (4 shown, max 25)
+### Videos with no captions available (6 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| IWWC- Regular Meeting 9.1.26 | 2026-09-01 |
 | Board of Finance- Budget Meeting 3.18.26 | 2026-03-18 |
 | Board of Finance- Budget Meeting 3.11.26 | 2026-03-11 |
 | IWWC 12.2.24 Regular Meeting | 2024-12-02 |
+| Town Meeting 5.2.23 | 2023-05-02 |
 | IWWC #20-27 Application, 129 Hebron Road, Puerto - Video 2 | 2020-11-02 |
 
 
@@ -386,5 +388,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:27:09 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Andover"`_
+_Generated 2026-09-10T13:54:50 from Andover's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

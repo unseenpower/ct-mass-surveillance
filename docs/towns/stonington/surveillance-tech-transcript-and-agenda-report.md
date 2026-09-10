@@ -8,8 +8,8 @@ This report collects every mention of surveillance technology found in **Stoning
 - **23 mentions** across **14 meetings**
 - **First mention:** 2020-05-07  |  **Most recent:** 2026-08-26
 - **Technologies discussed:** alpr, body_camera, drone, predictive_policing, surveillance_general
-- **Coverage:** 272 of 387 known Stonington meetings transcribed (70%)
-- **Still incomplete:** 115 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 274 of 390 known Stonington meetings transcribed (70%)
+- **Still incomplete:** 116 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -492,15 +492,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 20
-- Videos registered: 387 (fetched: 272, no captions: 3)
-- Date range covered: 2020-03-19 to 2026-08-26 (all 387 videos dated)
+- Videos registered: 390 (fetched: 274, no captions: 4)
+- Date range covered: 2020-03-19 to 2026-09-02 (all 390 videos dated)
 
 
 ### Channels
@@ -514,18 +514,18 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| stonington_ct | streams | 2026-09-07 16:22:00.206558 | 16 |
-| stonington_ct | videos | 2026-09-07 16:21:59.355472 | 476 |
+| stonington_ct | streams | 2026-09-10 13:27:53.545701 | 16 |
+| stonington_ct | videos | 2026-09-10 13:27:52.717898 | 479 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 52 |
+| Board of Finance | budget_finance | True | 53 |
 | Board of Selectmen/Board of Finance Joint Meeting | budget_finance | True | 0 |
 | Retirement Board | budget_finance | True | 3 |
-| K-12 Building Committee | education | True | 3 |
+| K-12 Building Committee | education | True | 4 |
 | Architectural Design Review Board | other | True | 10 |
 | Beautification Committee | other | True | 4 |
 | Board of Assessment Appeals | other | True | 5 |
@@ -536,7 +536,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Harbor Management Commission | other | True | 17 |
 | Inland Wetlands & Water Courses Commission | other | True | 2 |
 | Mystic River Boathouse Park Implementation Committee | other | True | 11 |
-| Planning & Zoning Commission | other | True | 83 |
+| Planning & Zoning Commission | other | True | 84 |
 | Public Communications Ad Hoc Committee | other | True | 6 |
 | Shellfish Commission | other | True | 2 |
 | Waterfront Commission | other | True | 7 |
@@ -574,10 +574,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (3 shown, max 25)
+### Videos with no captions available (4 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Stonington Planning & Zoning Commission 09 01 26 | 2026-09-01 |
 | Board of Finance - 03.10.26 | 2026-03-10 |
 | Stonington Planning & Zoning Commission 03-03-2026 | 2026-03-03 |
 | Town of Stonington, CT Board of Finance meeting 3-18/2020 5:00 PM | 2020-03-20 |
@@ -591,5 +592,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:40:40 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Stonington"`_
+_Generated 2026-09-10T14:16:45 from Stonington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

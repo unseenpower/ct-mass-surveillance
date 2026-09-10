@@ -8,8 +8,8 @@ This report collects every mention of surveillance technology found in **Lyme**'
 - **2 mentions** across **2 meetings**
 - **First mention:** 2021-08-05  |  **Most recent:** 2021-10-07
 - **Technologies discussed:** drone
-- **Coverage:** 74 of 100 known Lyme meetings transcribed (74%)
-- **Still incomplete:** 26 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 75 of 100 known Lyme meetings transcribed (75%)
+- **Still incomplete:** 25 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -310,14 +310,14 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 4
-- Videos registered: 100 (fetched: 74, no captions: 1)
+- Videos registered: 100 (fetched: 75, no captions: 1)
 - Date range covered: 2021-01-12 to 2026-09-02 (all 100 videos dated)
 
 
@@ -332,8 +332,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| region18_boe | streams | 2026-09-07 16:47:12.786021 | 121 |
-| region18_boe | videos | 2026-09-07 16:47:10.593531 | 1 |
+| region18_boe | streams | 2026-09-10 13:42:03.089863 | 121 |
+| region18_boe | videos | 2026-09-10 13:42:00.946161 | 1 |
 
 
 ## Registered meeting bodies
@@ -392,5 +392,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:35:04 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Lyme"`_
+_Generated 2026-09-10T14:06:57 from Lyme's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

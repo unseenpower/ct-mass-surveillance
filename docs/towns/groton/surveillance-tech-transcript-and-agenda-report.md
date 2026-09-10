@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **Groton**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **114 mentions** across **63 meetings**
-- **First mention:** 2020-09-23  |  **Most recent:** 2026-09-03
+- **119 mentions** across **65 meetings**
+- **First mention:** 2020-06-23  |  **Most recent:** 2026-09-08
 - **Technologies discussed:** alpr, body_camera, drone, facial_recognition, osint_social_monitor, predictive_policing, surveillance_general
-- **Coverage:** 1,154 of 1,433 known Groton meetings transcribed (81%)
-- **Still incomplete:** 279 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 1,181 of 1,436 known Groton meetings transcribed (82%)
+- **Still incomplete:** 255 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -68,8 +68,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 6 | 3 | 2022-04-08 | 2025-12-09 |
-| body_camera | 8 | 7 | 2020-09-23 | 2026-08-04 |
+| alpr | 7 | 4 | 2022-04-08 | 2026-09-08 |
+| body_camera | 12 | 8 | 2020-06-23 | 2026-08-04 |
 | drone | 75 | 37 | 2020-10-06 | 2026-08-18 |
 | facial_recognition | 2 | 1 | 2023-03-13 | 2023-03-13 |
 | osint_social_monitor | 1 | 1 | 2022-09-06 | 2022-09-06 |
@@ -79,7 +79,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ## Timeline
 
-63 meetings surfaced a finding (63 dated, spanning 2020-09-23 to 2026-09-03; 0 of unknown date, listed last).
+65 meetings surfaced a finding (65 dated, spanning 2020-06-23 to 2026-09-08; 0 of unknown date, listed last).
+
+
+### 2020-06-23 -- Town Council Committee of the Whole
+
+**Groton Town Council C.O.W. and Groton Resource Recovery Authority 6/23/20** _(topics: body_camera)_
+
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=DIUI7rk2k_w&t=4879s)  > ...promulgates uh is helpful to us um one of the ones you may be most familiar with is our body-worn camera policy that has a lot of stuff in it that was a state policy that the preceding council...
+
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=DIUI7rk2k_w&t=6473s)  > ...make sure that there's they're aware or the person involved is aware for reviewing body-worn camera footage it has been helpful it it i think it shows our officers doing the right thing...
+
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=DIUI7rk2k_w&t=6495s)  > ...we have an audit trail and every month a supervisor is assigned to do audits random audits of those body-worn camera videos there's a retention cycle if something is non-criminal it does go...
+
+- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=DIUI7rk2k_w&t=10280s)  > ...seen come out the pursuits policies the use of force policy the complaint policy the body-worn camera policy those are all state policies that when i say state i...
 
 
 ### 2020-09-23 -- Representative Town Meeting
@@ -625,6 +638,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=vHtKuoS--I4&t=359s)  > ...a uh somebody that can actually cut a piece to those specifications, a foundry or plasma art cutter hopefully in the area somewhere. Yeah, I could do that....
 
 
+### 2026-09-08 -- Town Council
+
+**Groton Town Council Committee of the Whole and Special Town Council- 9/8/26** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vcr0U9jzMVM&t=329s)  > ...>> Thank you. Okay, so I received communications regarding the flock cameras and the school lunch program. I did reach out to the superintendent and chairperson...
+
+
 ## Findings by topic
 
 
@@ -635,6 +655,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
+- **[2026-09-08] Town Council** -- Groton Town Council Committee of the Whole and Special Town Council- 9/8/26
+  > ...>> Thank you. Okay, so I received communications regarding the flock cameras and the school lunch program. I did reach out to the superintendent and chairperson...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vcr0U9jzMVM&t=329s)  _(term: alpr_flock, unreviewed)_
+
 - **[2025-12-09] Planning and Zoning Commission** -- Groton Planning and Zoning Commission - 12/9/25
   > ...little bit dark now. Um, I have a uh a camera that measures vehicles that come in and go out. You know, it's my license plate reader just for security. So, I I get a a good indication of when people...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QoZ077VckTQ&t=2280s)  _(term: alpr_flock, unreviewed)_
@@ -644,8 +668,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-PEisoWv4yw&t=716s)  _(term: alpr_flock, unreviewed)_
 
 - **[2022-04-08] Town Council** -- Groton Town Council FYE 2024 Budget Review Session #2 - 4/8/22
-  > ...looking for a vehicle we will enter with their search fields that you can put in flock and it'll identify when the car if it's been through your town...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5IC2gEEYfPQ&t=5199s)  _(term: alpr_flock, unreviewed)_
+  > ...and recovering stolen vehicles certainly so we entered into a trial period with a flock camera so a flock camera is a stationary license plate for your camera um and essentially the point of the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5IC2gEEYfPQ&t=5115s)  _(term: alpr_flock, unreviewed)_
 
 - **[2022-04-08] Town Council** -- Groton Town Council FYE 2024 Budget Review Session #2 - 4/8/22
   > ...and is it fair to say that 10 stolen vehicles would not have been recovered without the assistance of flock excellent thank you have you seen the overdose increases...
@@ -656,8 +680,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5IC2gEEYfPQ&t=3329s)  _(term: alpr_flock, unreviewed)_
 
 - **[2022-04-08] Town Council** -- Groton Town Council FYE 2024 Budget Review Session #2 - 4/8/22
-  > ...and recovering stolen vehicles certainly so we entered into a trial period with a flock camera so a flock camera is a stationary license plate for your camera um and essentially the point of the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5IC2gEEYfPQ&t=5115s)  _(term: alpr_flock, unreviewed)_
+  > ...looking for a vehicle we will enter with their search fields that you can put in flock and it'll identify when the car if it's been through your town...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5IC2gEEYfPQ&t=5199s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -698,6 +722,22 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2020-09-23] Representative Town Meeting** -- Groton RTM Civilian Oversight Research and Town Council Public Safety Joint Meeting 9/23/20
   > ...anything to do with the police besides utilizing their services bwc would be a body worn camera are you referencing some acronyms i used here yes...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=2nq9nx9f0-Y&t=2669s)  _(term: body_camera, unreviewed)_
+
+- **[2020-06-23] Town Council Committee of the Whole** -- Groton Town Council C.O.W. and Groton Resource Recovery Authority 6/23/20
+  > ...seen come out the pursuits policies the use of force policy the complaint policy the body-worn camera policy those are all state policies that when i say state i...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DIUI7rk2k_w&t=10280s)  _(term: body_camera, unreviewed)_
+
+- **[2020-06-23] Town Council Committee of the Whole** -- Groton Town Council C.O.W. and Groton Resource Recovery Authority 6/23/20
+  > ...we have an audit trail and every month a supervisor is assigned to do audits random audits of those body-worn camera videos there's a retention cycle if something is non-criminal it does go...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DIUI7rk2k_w&t=6495s)  _(term: body_camera, unreviewed)_
+
+- **[2020-06-23] Town Council Committee of the Whole** -- Groton Town Council C.O.W. and Groton Resource Recovery Authority 6/23/20
+  > ...make sure that there's they're aware or the person involved is aware for reviewing body-worn camera footage it has been helpful it it i think it shows our officers doing the right thing...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DIUI7rk2k_w&t=6473s)  _(term: body_camera, unreviewed)_
+
+- **[2020-06-23] Town Council Committee of the Whole** -- Groton Town Council C.O.W. and Groton Resource Recovery Authority 6/23/20
+  > ...promulgates uh is helpful to us um one of the ones you may be most familiar with is our body-worn camera policy that has a lot of stuff in it that was a state policy that the preceding council...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DIUI7rk2k_w&t=4879s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -743,20 +783,28 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TvY4zVNv1UU&t=4681s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Conservation Commission** -- Groton Conservation Commission - 5/4/26
-  > ...species uh with up to 99% accuracy using um a very high high resolution camera on a drone. Um, and for our purposes, although the exact software they used is free and publicly available, it's very...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1655s)  _(term: drone, unreviewed)_
+  > ...you need to be able to deal with the data it generates. And the drone can be drone and camera can be even more expensive. So up to $10,000. Um, and so uh, most invasive species in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1672s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Conservation Commission** -- Groton Conservation Commission - 5/4/26
   > ...Grten. Um we wanted to we sought out to identify quite a few methods including um drone technology, mobile apps, online other online resources and um consulting companies. And within each of these...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1344s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Conservation Commission** -- Groton Conservation Commission - 5/4/26
-  > ...for drone usage. The numbers um articulate the feet uh that you can fly a drone to and these highlighted red areas um talk about additional restrictions and we can get to how you...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1720s)  _(term: drone, unreviewed)_
+  > ...on that imagery. Um they're called UAVs uh in the industry which stands for unmanned aerial vehicles. Um and so one of the papers that we looked at they developed a protocol which they...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1542s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Conservation Commission** -- Groton Conservation Commission - 5/4/26
   > ...squares articulate um kind of an accelerated process that you can apply for drone usage. The numbers um articulate the feet uh that you can fly a drone to and these highlighted red...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1714s)  _(term: drone, unreviewed)_
+
+- **[2026-05-04] Conservation Commission** -- Groton Conservation Commission - 5/4/26
+  > ...for drone usage. The numbers um articulate the feet uh that you can fly a drone to and these highlighted red areas um talk about additional restrictions and we can get to how you...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1720s)  _(term: drone, unreviewed)_
+
+- **[2026-05-04] Conservation Commission** -- Groton Conservation Commission - 5/4/26
+  > ...assessed as the most userfriendly method. Um they use something called a Phantom 4 Pro drone. There are many alternatives. This one has been discontinued in the US, but there are...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1555s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Conservation Commission** -- Groton Conservation Commission - 5/4/26
   > ...so you need to customize the AI um, and you need to be able to deal with the data it generates. And the drone can be drone and camera can be even more expensive. So up to $10,000....
@@ -771,16 +819,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1620s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Conservation Commission** -- Groton Conservation Commission - 5/4/26
-  > ...on that imagery. Um they're called UAVs uh in the industry which stands for unmanned aerial vehicles. Um and so one of the papers that we looked at they developed a protocol which they...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1542s)  _(term: drone, unreviewed)_
-
-- **[2026-05-04] Conservation Commission** -- Groton Conservation Commission - 5/4/26
-  > ...you need to be able to deal with the data it generates. And the drone can be drone and camera can be even more expensive. So up to $10,000. Um, and so uh, most invasive species in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1672s)  _(term: drone, unreviewed)_
-
-- **[2026-05-04] Conservation Commission** -- Groton Conservation Commission - 5/4/26
-  > ...assessed as the most userfriendly method. Um they use something called a Phantom 4 Pro drone. There are many alternatives. This one has been discontinued in the US, but there are...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1555s)  _(term: drone, unreviewed)_
+  > ...species uh with up to 99% accuracy using um a very high high resolution camera on a drone. Um, and for our purposes, although the exact software they used is free and publicly available, it's very...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1655s)  _(term: drone, unreviewed)_
 
 - **[2026-04-07] Historic District Commission** -- Groton Historic District Commission - 4/7/26
   > ...this is where we are. And so are you knocking anything down at this point or you just doing drone work? >> Uh we're going to do both. So right now immediately we want to we want to be...
@@ -807,28 +847,28 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=01OIyYJJz8s&t=1461s)  _(term: drone, unreviewed)_
 
 - **[2025-12-01] Conservation Commission** -- Groton Conservation Commission 12/1/25
-  > ...what I was saying. Like >> Well, no, we could No, no, I don't even know have a drone. >> Like 30 feet long. >> Yeah. Imagine...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xm2FDfB_R1Y&t=7556s)  _(term: drone, unreviewed)_
-
-- **[2025-12-01] Conservation Commission** -- Groton Conservation Commission 12/1/25
-  > ...that's a win, right? >> So, okay. >> I I I heard you say they have a drone and I'm like, well, >> literally,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xm2FDfB_R1Y&t=7638s)  _(term: drone, unreviewed)_
-
-- **[2025-12-01] Conservation Commission** -- Groton Conservation Commission 12/1/25
-  > ...sure that's the only potential. >> Well, and and maybe they'll find out that they can't actually do the drone, but what would it take? What would it take for what would it take for the town...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xm2FDfB_R1Y&t=7508s)  _(term: drone, unreviewed)_
+  > ...invasive species mapping. >> Yeah. No, I I think it's great. I just You said they had a drone, so that's what I was saying. Like >> Well, no, we could No, no, I don't even...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xm2FDfB_R1Y&t=7551s)  _(term: drone, unreviewed)_
 
 - **[2025-12-01] Conservation Commission** -- Groton Conservation Commission 12/1/25
   > ...mean the but they scope it out and if it turns out it's possible and someone has a drone then they could do a test test of it right take for the town to do...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xm2FDfB_R1Y&t=7568s)  _(term: drone, unreviewed)_
 
 - **[2025-12-01] Conservation Commission** -- Groton Conservation Commission 12/1/25
+  > ...what I was saying. Like >> Well, no, we could No, no, I don't even know have a drone. >> Like 30 feet long. >> Yeah. Imagine...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xm2FDfB_R1Y&t=7556s)  _(term: drone, unreviewed)_
+
+- **[2025-12-01] Conservation Commission** -- Groton Conservation Commission 12/1/25
   > ...but what would it take? What would it take for what would it take for the town to have a system of doing drone mapping of invasive species? >> I think this this would be on town owned...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xm2FDfB_R1Y&t=7514s)  _(term: drone, unreviewed)_
 
 - **[2025-12-01] Conservation Commission** -- Groton Conservation Commission 12/1/25
-  > ...invasive species mapping. >> Yeah. No, I I think it's great. I just You said they had a drone, so that's what I was saying. Like >> Well, no, we could No, no, I don't even...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xm2FDfB_R1Y&t=7551s)  _(term: drone, unreviewed)_
+  > ...sure that's the only potential. >> Well, and and maybe they'll find out that they can't actually do the drone, but what would it take? What would it take for what would it take for the town...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xm2FDfB_R1Y&t=7508s)  _(term: drone, unreviewed)_
+
+- **[2025-12-01] Conservation Commission** -- Groton Conservation Commission 12/1/25
+  > ...that's a win, right? >> So, okay. >> I I I heard you say they have a drone and I'm like, well, >> literally,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xm2FDfB_R1Y&t=7638s)  _(term: drone, unreviewed)_
 
 - **[2025-08-05] Town Council** -- Groton Town Council - 8/5/25
   > ...in, I'm the developer and I want to do X thing and X building at X spot in this tiff drone that's been sitting there with nothing for a long time. Um, and my vision doesn't...
@@ -839,12 +879,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-_zuJ8oBwWg&t=2113s)  _(term: drone, unreviewed)_
 
 - **[2025-04-21] RTM Finance Committee** -- Groton RTM Finance Committee - 4/21/25
-  > ...everything, but contingency. Um, I noticed that the drone uh projected versus budget is 5x what you thought it was going to be. Did...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=b_k5UmL12TI&t=479s)  _(term: drone, unreviewed)_
-
-- **[2025-04-21] RTM Finance Committee** -- Groton RTM Finance Committee - 4/21/25
   > ...thought it was going to be. Did something weird happen there? Oh, um, there was a new drone added into one of the departments and that was a particularis....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=b_k5UmL12TI&t=489s)  _(term: drone, unreviewed)_
+
+- **[2025-04-21] RTM Finance Committee** -- Groton RTM Finance Committee - 4/21/25
+  > ...everything, but contingency. Um, I noticed that the drone uh projected versus budget is 5x what you thought it was going to be. Did...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=b_k5UmL12TI&t=479s)  _(term: drone, unreviewed)_
 
 - **[2025-04-15] Historic District Commission** -- Groton Historic District Commission 4/15/25
   > ...looks at that is my office so like I'm not really that bothered by it where am I here so This is the drone view from the back. So 49 is here parking lot. And right now this is,...
@@ -863,28 +903,32 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=FujD8GCVisY&t=3338s)  _(term: drone, unreviewed)_
 
 - **[2024-05-01] Representative Town Meeting** -- Groton RTM FYE 2025 Town Budget Review Session #1  - 5/1/24
-  > ...would use in reference to a school building I am the co- advisory of our GMS drone Club while this year several schools in the district receive grants to purchase drones stem cost money funds...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=weXMbLQ059Y&t=3031s)  _(term: drone, unreviewed)_
-
-- **[2024-05-01] Representative Town Meeting** -- Groton RTM FYE 2025 Town Budget Review Session #1  - 5/1/24
   > ...should not have to do that it was worth it though because last Friday we held our first ever drone scrimmage at GMS M that brought nine teams from around the district to compete and while the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=weXMbLQ059Y&t=3054s)  _(term: drone, unreviewed)_
 
-- **[2024-04-01] Conservation Commission** -- Groton Conservation Commission 4/1/24
-  > ...the is this you're talking for someone in the town to use a drone yeah or hire someone with a drone you pay satellite hire somebody to do the Drone data right so say I'm just suggesting that it'd be...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Rj1xYJrZRvQ&t=1621s)  _(term: drone, unreviewed)_
+- **[2024-05-01] Representative Town Meeting** -- Groton RTM FYE 2025 Town Budget Review Session #1  - 5/1/24
+  > ...would use in reference to a school building I am the co- advisory of our GMS drone Club while this year several schools in the district receive grants to purchase drones stem cost money funds...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=weXMbLQ059Y&t=3031s)  _(term: drone, unreviewed)_
 
 - **[2024-04-01] Conservation Commission** -- Groton Conservation Commission 4/1/24
-  > ...that he should be able to integrate a bunch of that stuff but um I don't know I know we talked about a drone before um if we have one no no no but um but the the one of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Rj1xYJrZRvQ&t=1607s)  _(term: drone, unreviewed)_
+  > ...in the town to use a drone yeah or hire someone with a drone you pay satellite hire somebody to do the Drone data right so say I'm just suggesting that it'd be nice to know you know in cost benefit...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Rj1xYJrZRvQ&t=1625s)  _(term: drone, unreviewed)_
 
 - **[2024-04-01] Conservation Commission** -- Groton Conservation Commission 4/1/24
   > ...approaches whether it's drone or satellite and I got to not so much well the Drone I think would have a clear picture so the satellite is good for I think a broader view but the I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Rj1xYJrZRvQ&t=1559s)  _(term: drone, unreviewed)_
 
 - **[2024-04-01] Conservation Commission** -- Groton Conservation Commission 4/1/24
-  > ...in the town to use a drone yeah or hire someone with a drone you pay satellite hire somebody to do the Drone data right so say I'm just suggesting that it'd be nice to know you know in cost benefit...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Rj1xYJrZRvQ&t=1625s)  _(term: drone, unreviewed)_
+  > ...the is this you're talking for someone in the town to use a drone yeah or hire someone with a drone you pay satellite hire somebody to do the Drone data right so say I'm just suggesting that it'd be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Rj1xYJrZRvQ&t=1621s)  _(term: drone, unreviewed)_
+
+- **[2024-04-01] Conservation Commission** -- Groton Conservation Commission 4/1/24
+  > ...issue with the students the town should think about you at least look into what it would take to get a drone to do a a property I did ask can one determine invasive species via the these...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Rj1xYJrZRvQ&t=1544s)  _(term: drone, unreviewed)_
+
+- **[2024-04-01] Conservation Commission** -- Groton Conservation Commission 4/1/24
+  > ...that he should be able to integrate a bunch of that stuff but um I don't know I know we talked about a drone before um if we have one no no no but um but the the one of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Rj1xYJrZRvQ&t=1607s)  _(term: drone, unreviewed)_
 
 - **[2024-04-01] Conservation Commission** -- Groton Conservation Commission 4/1/24
   > ...property I did ask can one determine invasive species via the these approaches whether it's drone or satellite and I got to not so much well the Drone I think would have a...
@@ -894,17 +938,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...the things is whoever is responsible for the is this you're talking for someone in the town to use a drone yeah or hire someone with a drone you pay satellite hire somebody to do the Drone data right...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Rj1xYJrZRvQ&t=1619s)  _(term: drone, unreviewed)_
 
-- **[2024-04-01] Conservation Commission** -- Groton Conservation Commission 4/1/24
-  > ...issue with the students the town should think about you at least look into what it would take to get a drone to do a a property I did ask can one determine invasive species via the these...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Rj1xYJrZRvQ&t=1544s)  _(term: drone, unreviewed)_
+- **[2024-03-28] Town Council** -- Groton Town Council FYE 2025 Budget Review Session #1 3/28/24
+  > ...increase I didn't know if that was yeah so any of the Personnel costs or actuaries are actuaries that ronu uas of Finance director has already done so those costs are I couldn't adjust those...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7FWmUQ00as8&t=968s)  _(term: drone, unreviewed)_
 
 - **[2024-03-28] Town Council** -- Groton Town Council FYE 2025 Budget Review Session #1 3/28/24
   > ...Jones second and by Parker hello would you like to introduce yourselves hi I'm Ron uas I'm the president of the fire district uh our new uh Chief did not could not make it...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7FWmUQ00as8&t=7978s)  _(term: drone, unreviewed)_
-
-- **[2024-03-28] Town Council** -- Groton Town Council FYE 2025 Budget Review Session #1 3/28/24
-  > ...increase I didn't know if that was yeah so any of the Personnel costs or actuaries are actuaries that ronu uas of Finance director has already done so those costs are I couldn't adjust those...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7FWmUQ00as8&t=968s)  _(term: drone, unreviewed)_
 
 - **[2024-01-23] Planning and Zoning Commission** -- Groton Planning and Zoning Commission - 1/23/24
   > ...the site this was done existing conditions on the site and I overlaid it onto a Drone footage that we took over the site just recently so this is all pretty much up to date so...
@@ -931,40 +971,40 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=3sChExxBjZo&t=4012s)  _(term: drone, unreviewed)_
 
 - **[2023-02-28] Representative Town Meeting** -- Groton RTM Community Development & Services Committee Special Meeting - 2/28/23
-  > ...people a different perspective so it's a very useful tool and today a lot of a lot of videos you would lies a Drone footage the one we have is is pretty good uh there are a couple things that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4x3WZ3pNVDw&t=631s)  _(term: drone, unreviewed)_
-
-- **[2023-02-28] Representative Town Meeting** -- Groton RTM Community Development & Services Committee Special Meeting - 2/28/23
   > ...next door to us that we have to pretty much get uh approval for for every time we lift off our drone um I am FAA certified I have commercial FAA license Supply uavs and uh and if we...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4x3WZ3pNVDw&t=685s)  _(term: drone, unreviewed)_
+
+- **[2023-02-28] Representative Town Meeting** -- Groton RTM Community Development & Services Committee Special Meeting - 2/28/23
+  > ...so but in the meantime uh we put up for Grant hopefully we'll upgrade our our drone as well so so that's uh that's pretty much it um we uh we've had we have already applied for the scrap...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4x3WZ3pNVDw&t=856s)  _(term: drone, unreviewed)_
 
 - **[2023-02-28] Representative Town Meeting** -- Groton RTM Community Development & Services Committee Special Meeting - 2/28/23
   > ...that drone or be next to it to be able to grab control of that that drone so a lot of you in charge of that drone uh as long and Liam uh was uh also a certified uh fa uh UAV pilot as well there is a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4x3WZ3pNVDw&t=704s)  _(term: drone, unreviewed)_
 
 - **[2023-02-28] Representative Town Meeting** -- Groton RTM Community Development & Services Committee Special Meeting - 2/28/23
-  > ...could be you know 100 feet away from it to be able to do that we're also looking to update our drone we do have a drone that we use here at the library it's about five years old...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4x3WZ3pNVDw&t=590s)  _(term: drone, unreviewed)_
-
-- **[2023-02-28] Representative Town Meeting** -- Groton RTM Community Development & Services Committee Special Meeting - 2/28/23
   > ...FAA license Supply uavs and uh and if we are out I have to be in control or of that drone or be next to it to be able to grab control of that that drone so a lot of you in charge of that drone uh as...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4x3WZ3pNVDw&t=699s)  _(term: drone, unreviewed)_
-
-- **[2023-02-28] Representative Town Meeting** -- Groton RTM Community Development & Services Committee Special Meeting - 2/28/23
-  > ...kind of hoping it would already be there by now uh but we have not heard words that they're doing our particular drone uh updating with a third party or some software upgrade so...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4x3WZ3pNVDw&t=660s)  _(term: drone, unreviewed)_
-
-- **[2023-02-28] Representative Town Meeting** -- Groton RTM Community Development & Services Committee Special Meeting - 2/28/23
-  > ...are out I have to be in control or of that drone or be next to it to be able to grab control of that that drone so a lot of you in charge of that drone uh as long and Liam uh was uh also a certified...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4x3WZ3pNVDw&t=702s)  _(term: drone, unreviewed)_
 
 - **[2023-02-28] Representative Town Meeting** -- Groton RTM Community Development & Services Committee Special Meeting - 2/28/23
   > ...good uh there are a couple things that are going on with drones these days uh for one uh in February our drone will not be in compliance unless they make it in compliance with a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4x3WZ3pNVDw&t=640s)  _(term: drone, unreviewed)_
 
 - **[2023-02-28] Representative Town Meeting** -- Groton RTM Community Development & Services Committee Special Meeting - 2/28/23
-  > ...so but in the meantime uh we put up for Grant hopefully we'll upgrade our our drone as well so so that's uh that's pretty much it um we uh we've had we have already applied for the scrap...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4x3WZ3pNVDw&t=856s)  _(term: drone, unreviewed)_
+  > ...could be you know 100 feet away from it to be able to do that we're also looking to update our drone we do have a drone that we use here at the library it's about five years old...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4x3WZ3pNVDw&t=590s)  _(term: drone, unreviewed)_
+
+- **[2023-02-28] Representative Town Meeting** -- Groton RTM Community Development & Services Committee Special Meeting - 2/28/23
+  > ...are out I have to be in control or of that drone or be next to it to be able to grab control of that that drone so a lot of you in charge of that drone uh as long and Liam uh was uh also a certified...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4x3WZ3pNVDw&t=702s)  _(term: drone, unreviewed)_
+
+- **[2023-02-28] Representative Town Meeting** -- Groton RTM Community Development & Services Committee Special Meeting - 2/28/23
+  > ...people a different perspective so it's a very useful tool and today a lot of a lot of videos you would lies a Drone footage the one we have is is pretty good uh there are a couple things that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4x3WZ3pNVDw&t=631s)  _(term: drone, unreviewed)_
+
+- **[2023-02-28] Representative Town Meeting** -- Groton RTM Community Development & Services Committee Special Meeting - 2/28/23
+  > ...kind of hoping it would already be there by now uh but we have not heard words that they're doing our particular drone uh updating with a third party or some software upgrade so...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4x3WZ3pNVDw&t=660s)  _(term: drone, unreviewed)_
 
 - **[2022-09-27] Planning and Zoning Commission** -- Groton Planning and Zoning Commission - 9/27/22
   > ...garbage trucks no I don't have to go into the garbage truck maybe I can get a better drone park it up there all day [Music] what what you know I'm not I have better...
@@ -1095,28 +1135,28 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=0zr1AxP1ebw&t=1275s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-03-04] Planning and Zoning Commission** -- Groton Planning and Zoning Commission - 3/4/26
-  > ...>> All right. Uh this is 6 I Spicer Boat House. Uh we're requesting $30,000 for the installation of CCTV equipment. Uh the Spicer property contains the Spicer House,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mWh4Q0FFsm4&t=1838s)  _(term: surveillance_general, unreviewed)_
-
-- **[2026-03-04] Planning and Zoning Commission** -- Groton Planning and Zoning Commission - 3/4/26
   > ...equipment stored. So, we're requesting fund in the amount of $30,000 to install CCTV equipment for protection of those two buildings on that site. >> Great. Any comments or questions?...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mWh4Q0FFsm4&t=1871s)  _(term: surveillance_general, unreviewed)_
+
+- **[2026-03-04] Planning and Zoning Commission** -- Groton Planning and Zoning Commission - 3/4/26
+  > ...>> All right. Uh this is 6 I Spicer Boat House. Uh we're requesting $30,000 for the installation of CCTV equipment. Uh the Spicer property contains the Spicer House,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mWh4Q0FFsm4&t=1838s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-11-12] Water Pollution Control Authority** -- Groton Water Pollution Control Authority 11/12/24
   > ...clay but is the clay eventually going to disintegrate usually they'll do kind of CCTV beforehand to understand the condition of the Interior pipe to make sure they have a solid wall that the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zwgC-Ls6Pyo&t=1759s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-11-12] Water Pollution Control Authority** -- Groton Water Pollution Control Authority 11/12/24
-  > ...okay okay when would the work be done or the CCTV we would probably I would recommend doing it at another Spring Time Event so um when the ground...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zwgC-Ls6Pyo&t=1231s)  _(term: surveillance_general, unreviewed)_
+  > ...those areas where again either moderate or excessive II have been identified and then one we have that CCTV work you've identified what your defects are you're then able to um kind of go on to the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zwgC-Ls6Pyo&t=1198s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-11-12] Water Pollution Control Authority** -- Groton Water Pollution Control Authority 11/12/24
   > ...lines were delineated just as um potential you know also to be considered for either CCTV or even doing further uh die dilution study in this area this is what we evaluated but you know...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zwgC-Ls6Pyo&t=1321s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-11-12] Water Pollution Control Authority** -- Groton Water Pollution Control Authority 11/12/24
-  > ...those areas where again either moderate or excessive II have been identified and then one we have that CCTV work you've identified what your defects are you're then able to um kind of go on to the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zwgC-Ls6Pyo&t=1198s)  _(term: surveillance_general, unreviewed)_
+  > ...okay okay when would the work be done or the CCTV we would probably I would recommend doing it at another Spring Time Event so um when the ground...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zwgC-Ls6Pyo&t=1231s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-05-20] Representative Town Meeting** -- Groton RTM FYE 2025 Town Budget Review Session #6  - 5/20/24
   > ...unanimously thank you next uh public buildings C Town Hall complex this money is to upgrade to CCTV systems at Town Hall current system uses DVR tape system $75,000 was moved and approved for...
@@ -1147,12 +1187,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-Zhy69HSpYw&t=4356s)  _(term: surveillance_general, unreviewed)_
 
 - **[2021-04-23] Representative Town Meeting** -- Groton RTM Public Works Committee
-  > ...together because we're gonna be putting in obviously a new boiler and cctv cameras which to me says we are moving ahead with...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UR6E5gNAdnQ&t=3886s)  _(term: surveillance_general, unreviewed)_
-
-- **[2021-04-23] Representative Town Meeting** -- Groton RTM Public Works Committee
   > ...the uh design of the boiler replacement and then the uh cctv cameras okay okay is that at the cct cameras for the town hall complex...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UR6E5gNAdnQ&t=3826s)  _(term: surveillance_general, unreviewed)_
+
+- **[2021-04-23] Representative Town Meeting** -- Groton RTM Public Works Committee
+  > ...together because we're gonna be putting in obviously a new boiler and cctv cameras which to me says we are moving ahead with...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UR6E5gNAdnQ&t=3886s)  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools
@@ -1281,15 +1321,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 14
-- Videos registered: 1433 (fetched: 1154, no captions: 12)
-- Date range covered: 2016-05-11 to 2026-09-03 (all 1433 videos dated)
+- Videos registered: 1436 (fetched: 1181, no captions: 13)
+- Date range covered: 2016-05-11 to 2026-09-09 (all 1436 videos dated)
 
 
 ### Channels
@@ -1303,8 +1343,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| gmtv | streams | 2026-09-07 16:31:19.864131 | 532 |
-| gmtv | videos | 2026-09-07 16:31:12.510909 | 2954 |
+| gmtv | streams | 2026-09-10 13:44:54.293889 | 534 |
+| gmtv | videos | 2026-09-10 13:44:46.858775 | 2958 |
 
 
 ## Registered meeting bodies
@@ -1312,16 +1352,16 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | RTM Finance Committee | budget_finance | True | 49 |
-| Town Council | council | True | 426 |
+| Town Council | council | True | 427 |
 | Town Council Committee of the Whole | council | True | 96 |
 | Beautification Committee | other | True | 55 |
 | Conservation Commission | other | True | 80 |
 | Economic Development Commission | other | True | 55 |
 | Historic District Commission | other | True | 135 |
-| Inland Wetlands Agency | other | True | 91 |
+| Inland Wetlands Agency | other | True | 92 |
 | Parks and Recreation Commission | other | True | 53 |
 | Personnel and Appointments Committee | other | True | 0 |
-| Planning and Zoning Commission | other | True | 137 |
+| Planning and Zoning Commission | other | True | 138 |
 | Representative Town Meeting | other | True | 158 |
 | Water Pollution Control Authority | other | True | 54 |
 | Zoning Board of Appeals | other | True | 44 |
@@ -1350,17 +1390,18 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | --- | --- | --- | --- | --- |
 | 2026-08-26 20:39:58.145918 | channel_found | gmtv (Groton Municipal Television, @GrotonMunicipalTelevision) -- shared channel, see channel_scope_warning | WebSearch + direct yt-dlp confirmation against youtube.com/c/GrotonMunicipalTelevision | claude |
 | 2026-08-26 20:39:58.145918 | channel_scope_warning | GMTV broadcasts THREE distinct governments on one channel: Town of Groton, the separate City of Groton (incorporated city within the town), and the Borough of Noank. Unfiltered crawl (2948 titles) shows clearly distinct title prefixes ("City of Groton Mayor & Council -", "City of Groton Planning and Zoning Commission -", "Noank Zoning Commission") that were deliberately EXCLUDED from every pattern registered here -- only plain "Groton ..." (no "City of") / "Town of Groton ..." titles are this town's bodies. | yt-dlp --flat-playlist crawl of youtube.com/channel/UCBk-9Ahudi4nbh26x3jZxlA/videos, 2026-08-26; corroborated by cityofgroton.com being the City of Groton's own separate site with its own separate AgendaCenter | claude |
-| 2026-08-27 07:11:53.755092 | pattern_leak_fix | Anchored 5 patterns (Economic Development Commission, Water Pollution Control Authority, Zoning Board of Appeals, Inland Wetlands Agency, Personnel and Appointments Committee) with ^groton to stop them matching "City of Groton ..." / "Noank ..." titles on the shared GMTV channel. Independent review (PR #15) caught the Economic Development Commission pattern already live-contaminated: 10 real "City of Groton Economic Development Commission" videos (2024-2026) had been registered and all 10 eventually had captions fetched under Town of Groton -- all 10 deleted (videos/transcripts/transcript_segments). No findings had been generated from them. The other 4 patterns had zero real leaks yet but shared the same unanchored structure. | PR #15 review + direct DB query against db/ct_surveillance.duckdb | claude |
+| 2026-08-27 07:11:53.755092 | pattern_leak_fix | Anchored 5 patterns (Economic Development Commission, Water Pollution Control Authority, Zoning Board of Appeals, Inland Wetlands Agency, Personnel and Appointments Committee) with ^groton to stop them matching "City of Groton ..." / "Noank ..." titles on the shared GMTV channel. Independent review (PR #15) caught the Economic Development Commission pattern already live-contaminated: 10 real "City of Groton Economic Development Commission" videos (2024-2026) had been registered and all 10 eventually had captions fetched under Town of Groton -- all 10 deleted (videos/transcripts/transcript_segments). No findings had been generated from them. The other 4 patterns had zero real leaks yet but shared the same unanchored structure. | PR #15 review + direct DB query against the project database | claude |
 | 2026-08-26 20:39:58.145918 | patterns_validated_from_real_titles | Unfiltered crawl of /videos (2948 titles, all 3 governments combined) -- Town-of-Groton-scoped patterns matched 1204/2948 (40.8% of the full shared-channel crawl; the balance is real City of Groton / Noank content, deliberately excluded, plus some Town bodies not yet registered) | yt-dlp --flat-playlist crawl of youtube.com/channel/UCBk-9Ahudi4nbh26x3jZxlA/videos, 2026-08-26 | claude |
 
 
 ## Gaps and caveats
 
 
-### Videos with no captions available (12 shown, max 25)
+### Videos with no captions available (13 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Groton Planning and Zoning Commission - 9/8/26 | 2026-09-08 |
 | Groton Parks and Recreation Commission - 8/26/26 | 2026-08-26 |
 | Groton Town Council Committee of the Whole 5/9/23 | 2023-05-09 |
 | Groton Zoning Board of Appeals - 5/11/22 | 2022-05-11 |
@@ -1383,5 +1424,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:33:02 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Groton"`_
+_Generated 2026-09-10T14:04:06 from Groton's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

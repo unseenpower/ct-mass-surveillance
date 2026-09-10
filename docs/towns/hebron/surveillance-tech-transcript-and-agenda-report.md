@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Hebron*
 - **1 mention** across **1 meeting**
 - **First mention:** 2026-04-23  |  **Most recent:** 2026-04-23
 - **Technologies discussed:** drone
-- **Coverage:** 56 of 153 known Hebron meetings transcribed (37%)
+- **Coverage:** 57 of 154 known Hebron meetings transcribed (37%)
 - **Not the full history:** transcripts begin **2024-01-04**, but Hebron's published video archive goes back to **2019-10-03**. Meetings before 2024 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -299,15 +299,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 3
-- Videos registered: 153 (fetched: 56, no captions: 2)
-- Date range covered: 2019-10-03 to 2026-08-20 (all 153 videos dated)
+- Videos registered: 154 (fetched: 57, no captions: 2)
+- Date range covered: 2019-10-03 to 2026-09-03 (all 154 videos dated)
 
 
 ### Channels
@@ -321,7 +321,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| cvc | videos | 2026-09-07 16:31:59.779015 | 2027 |
+| cvc | videos | 2026-09-10 13:45:36.835112 | 2033 |
 
 
 ## Registered meeting bodies
@@ -330,7 +330,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 11 |
 | Board of Selectmen | other | True | 128 |
-| Town Council | other | True | 14 |
+| Town Council | other | True | 15 |
 
 
 ## Agenda/minutes coverage
@@ -379,5 +379,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:34:17 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Hebron"`_
+_Generated 2026-09-10T14:05:58 from Hebron's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

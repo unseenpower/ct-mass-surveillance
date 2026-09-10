@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **Plainville**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **24 mentions** across **18 meetings**
-- **First mention:** 2020-03-12  |  **Most recent:** 2026-08-17
+- **25 mentions** across **19 meetings**
+- **First mention:** 2019-04-08  |  **Most recent:** 2026-08-17
 - **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone
-- **Coverage:** 225 of 325 known Plainville meetings transcribed (69%)
-- **Not the full history:** transcripts begin **2019-09-09**, but Plainville's published video archive goes back to **2017-01-17**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+- **Coverage:** 236 of 326 known Plainville meetings transcribed (72%)
+- **Not the full history:** transcripts begin **2019-04-08**, but Plainville's published video archive goes back to **2017-01-17**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -71,12 +71,19 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | alpr | 1 | 1 | 2026-03-10 | 2026-03-10 |
 | body_camera | 4 | 3 | 2020-07-20 | 2021-03-10 |
 | doorbell_partnership | 1 | 1 | 2020-03-12 | 2020-03-12 |
-| drone | 18 | 14 | 2021-03-09 | 2026-08-17 |
+| drone | 19 | 15 | 2019-04-08 | 2026-08-17 |
 
 
 ## Timeline
 
-18 meetings surfaced a finding (18 dated, spanning 2020-03-12 to 2026-08-17; 0 of unknown date, listed last).
+19 meetings surfaced a finding (19 dated, spanning 2019-04-08 to 2026-08-17; 0 of unknown date, listed last).
+
+
+### 2019-04-08 -- Town Council
+
+**Plainville Town Council Special Meeting - 4/8/19** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XpmqiFrr6FM&t=4487s)  > ...a great voice over what you did miss was a very nice panoramic shots CGI does now use drone technology to get beautiful panoramic landscape views as well and they really do produce some high quality...
 
 
 ### 2020-03-12 -- Town Council
@@ -341,16 +348,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vI2yzDFtHes&t=3808s)  _(term: drone, unreviewed)_
 
 - **[2022-03-14] Town Council** -- Plainville Town Council Budget Meeting 03-14-22
-  > ...you know that's why it has to be an faa licensed right uh uh you know person running the drone because obviously you need to know what what the you know especially having an airport...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vI2yzDFtHes&t=3909s)  _(term: drone, unreviewed)_
-
-- **[2022-03-14] Town Council** -- Plainville Town Council Budget Meeting 03-14-22
   > ...like that occurs we also have uh the the police department did acquire a drone uh a while ago that we had to buy insurance...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vI2yzDFtHes&t=3800s)  _(term: drone, unreviewed)_
+
+- **[2022-03-14] Town Council** -- Plainville Town Council Budget Meeting 03-14-22
+  > ...you know that's why it has to be an faa licensed right uh uh you know person running the drone because obviously you need to know what what the you know especially having an airport...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vI2yzDFtHes&t=3909s)  _(term: drone, unreviewed)_
 
 - **[2021-03-09] Town Council** -- Plainville Town Council Budget Meeting - 3/9/21
   > ...the two new ones are these last two it's the fingerprinting machine and the uh drone pilot's license we need uh nine nine roughly nine nine nine pilots license at...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JTH8nk9LifY&t=3580s)  _(term: drone, unreviewed)_
+
+- **[2019-04-08] Town Council** -- Plainville Town Council Special Meeting - 4/8/19
+  > ...a great voice over what you did miss was a very nice panoramic shots CGI does now use drone technology to get beautiful panoramic landscape views as well and they really do produce some high quality...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XpmqiFrr6FM&t=4487s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -519,15 +530,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 8
-- Videos registered: 325 (fetched: 225, no captions: 1)
-- Date range covered: 2017-01-17 to 2026-08-17 (all 325 videos dated)
+- Videos registered: 326 (fetched: 236, no captions: 1)
+- Date range covered: 2017-01-17 to 2026-09-08 (all 326 videos dated)
 
 
 ### Channels
@@ -541,8 +552,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| nutmeg_tv | streams | 2026-09-07 16:50:01.480623 | 3 |
-| nutmeg_tv | videos | 2026-09-07 16:50:00.685188 | 5282 |
+| nutmeg_tv | streams | 2026-09-10 11:37:23.451548 | 3 |
+| nutmeg_tv | videos | 2026-09-10 11:37:22.711081 | 5289 |
 
 
 ## Registered meeting bodies
@@ -554,7 +565,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Board of Education | education | True | 30 |
 | Charter Revision Commission | other | True | 4 |
 | Inland Wetlands and Watercourses Commission | other | True | 7 |
-| Planning and Zoning Commission | other | True | 12 |
+| Planning and Zoning Commission | other | True | 13 |
 | Water Pollution Control Authority | other | True | 2 |
 | Zoning Board of Appeals | other | True | 5 |
 
@@ -603,5 +614,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:39:08 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Plainville"`_
+_Generated 2026-09-10T14:13:59 from Plainville's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

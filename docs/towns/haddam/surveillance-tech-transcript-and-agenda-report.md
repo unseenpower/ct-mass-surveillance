@@ -5,7 +5,7 @@
 
 This report collects every mention of surveillance technology found in **Haddam**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **Coverage:** 7 of 100 known Haddam meetings transcribed (7%)
+- **Coverage:** 10 of 100 known Haddam meetings transcribed (10%)
 - **Not the full history:** transcripts begin **2020-06-10**, but Haddam's published video archive goes back to **2018-01-08**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 - **1 additional mention** in agendas and minutes (keyword scan, not yet human-reviewed)
 
@@ -33,7 +33,33 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ## Get the full transcripts
 
-*Haddam has 7 transcripts so far -- too few to publish as an archive yet. It will appear here once the corpus grows.*
+**[Download Haddam's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/haddam-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip haddam-meeting-transcripts.zip -d haddam
+cd haddam
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ## Mentions by topic: first seen / most recent
@@ -266,14 +292,14 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 7
-- Videos registered: 100 (fetched: 7, no captions: 0)
+- Videos registered: 100 (fetched: 10, no captions: 0)
 - Date range covered: 2018-01-08 to 2022-04-14 (all 100 videos dated)
 
 
@@ -288,8 +314,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| vsctv | streams | 2026-09-07 16:20:49.158131 | 1 |
-| vsctv | videos | 2026-09-07 16:20:48.413846 | 3352 |
+| vsctv | streams | 2026-09-10 13:26:38.282919 | 1 |
+| vsctv | videos | 2026-09-10 13:26:37.502399 | 3373 |
 
 
 ## Registered meeting bodies
@@ -327,7 +353,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | logged_at | field_name | new_value | source | by |
 | --- | --- | --- | --- | --- |
 | 2026-08-27 13:59:58.901240 | agenda_platform_confirmed | haddam.org/agendacenter confirmed AgendaCenter (CivicEngage/CivicPlus), with a full 18-category real board list. | WebFetch of haddam.org/agendacenter, 2026-08-27 | claude |
-| 2026-08-27 13:59:58.901240 | channel_found | vsctv (Valley Shore Community Television) -- already registered under Deep River's name in the previous batch (schema/seed_deep_river.sql), whose own notes already named Haddam as one of six towns served. Verified directly this session by re-crawling the full corpus rather than trusting that note alone: 3352 /videos + 1 /streams titles, 128 prefixed "Haddam" with real Board of Selectmen/Board of Finance content. | re-crawl of youtube.com/channel/UCNt0O-D0K8uCKr21-Aoaf2Q (/videos + /streams), 2026-08-27 | claude |
+| 2026-08-27 13:59:58.901240 | channel_found | vsctv (Valley Shore Community Television) -- already registered under Deep River's name in the previous batch (a seed script), whose own notes already named Haddam as one of six towns served. Verified directly this session by re-crawling the full corpus rather than trusting that note alone: 3352 /videos + 1 /streams titles, 128 prefixed "Haddam" with real Board of Selectmen/Board of Finance content. | re-crawl of youtube.com/channel/UCNt0O-D0K8uCKr21-Aoaf2Q (/videos + /streams), 2026-08-27 | claude |
 | 2026-08-27 13:59:58.901240 | essex_vsctv_checked_and_rejected | While crawling vsctv for Haddam, also checked Essex (also in this batch, and named in Deep River's channel notes as another vsctv town) -- found vsctv's 214 "Essex"-prefixed titles are 209/214 "Essex Congregational [Church]" service recordings, not government meetings; only 3 non-church titles exist, all ceremonial, zero oversight-body coverage. Essex NOT registered against vsctv -- independently discovered real source, see its own seed file. | grep/regex inspection of the same vsctv /videos crawl used for Haddam, 2026-08-27 | claude |
 | 2026-08-27 13:59:58.901240 | leak_check_vs_deep_river | Confirmed zero leaks in both directions: Haddam's 7 anchored patterns match none of Deep River's 192 anchored titles; Deep River's 7 existing anchored patterns match none of Haddam's 129 anchored titles. | Python leak-check script against full vsctv corpus, 2026-08-27 | claude |
 | 2026-08-27 13:59:58.901240 | patterns_validated_from_real_titles | 100/129 Haddam-anchored titles matched at least one body (77.5%) -- the 29 unmatched are ceremonial/PR content (Memorial Day, Neck Fair, museums, candidate forums, elementary-school info sessions) and Haddam-Killingworth regional-school-district sports broadcasts, correctly not government oversight meetings. | Python pattern validation against the anchored subset, 2026-08-27 | claude |
@@ -350,5 +376,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:33:17 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Haddam"`_
+_Generated 2026-09-10T14:04:40 from Haddam's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

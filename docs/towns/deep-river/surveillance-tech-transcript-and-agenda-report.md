@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **Deep River**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **6 mentions** across **2 meetings**
-- **First mention:** 2024-12-12  |  **Most recent:** 2025-01-14
-- **Technologies discussed:** alpr
-- **Coverage:** 125 of 262 known Deep River meetings transcribed (48%)
-- **Not the full history:** transcripts begin **2022-01-25**, but Deep River's published video archive goes back to **2017-03-27**. Meetings before 2022 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+- **7 mentions** across **3 meetings**
+- **First mention:** 2021-10-12  |  **Most recent:** 2025-01-14
+- **Technologies discussed:** alpr, drone
+- **Coverage:** 134 of 262 known Deep River meetings transcribed (51%)
+- **Not the full history:** transcripts begin **2021-08-24**, but Deep River's published video archive goes back to **2017-03-27**. Meetings before 2021 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -69,11 +69,19 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 6 | 2 | 2024-12-12 | 2025-01-14 |
+| drone | 1 | 1 | 2021-10-12 | 2021-10-12 |
 
 
 ## Timeline
 
-2 meetings surfaced a finding (2 dated, spanning 2024-12-12 to 2025-01-14; 0 of unknown date, listed last).
+3 meetings surfaced a finding (3 dated, spanning 2021-10-12 to 2025-01-14; 0 of unknown date, listed last).
+
+
+### 2021-10-12 -- Board of Selectmen
+
+**Deep River Town Meetings - October 12 2021** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4F28VVEUJQw&t=3093s)  > ...completed it's done okay all right or actually i'm not sure if that's done so my drone is done and mitchell is done they're going to come back and do that curbing i'm assuming that they did they...
 
 
 ### 2024-12-12 -- Planning & Zoning Commission
@@ -165,7 +173,9 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### drone
 
-*(no findings)*
+- **[2021-10-12] Board of Selectmen** -- Deep River Town Meetings - October 12 2021
+  > ...completed it's done okay all right or actually i'm not sure if that's done so my drone is done and mitchell is done they're going to come back and do that curbing i'm assuming that they did they...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4F28VVEUJQw&t=3093s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -334,14 +344,14 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 2
 - Active meeting bodies: 7
-- Videos registered: 262 (fetched: 125, no captions: 0)
+- Videos registered: 262 (fetched: 134, no captions: 0)
 - Date range covered: 2017-03-27 to 2026-08-19 (all 262 videos dated)
 
 
@@ -357,9 +367,9 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| deep_river_ct | videos | 2026-09-07 16:27:38.225590 | 91 |
-| vsctv | streams | 2026-09-07 16:20:49.158131 | 1 |
-| vsctv | videos | 2026-09-07 16:20:48.413846 | 3352 |
+| deep_river_ct | videos | 2026-09-10 13:34:41.161026 | 91 |
+| vsctv | streams | 2026-09-10 13:26:38.282919 | 1 |
+| vsctv | videos | 2026-09-10 13:26:37.502399 | 3373 |
 
 
 ## Registered meeting bodies
@@ -424,5 +434,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:30:09 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Deep River"`_
+_Generated 2026-09-10T13:59:37 from Deep River's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

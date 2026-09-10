@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Sterlin
 - **4 mentions** across **3 meetings**
 - **First mention:** 2025-06-10  |  **Most recent:** 2026-05-12
 - **Technologies discussed:** drone, purchasing_broker
-- **Coverage:** 131 of 136 known Sterling meetings transcribed (96%)
+- **Coverage:** 132 of 137 known Sterling meetings transcribed (96%)
 - **1 additional mention** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
@@ -332,15 +332,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 9
-- Videos registered: 136 (fetched: 131, no captions: 5)
-- Date range covered: 2025-03-25 to 2026-09-02 (all 136 videos dated)
+- Videos registered: 137 (fetched: 132, no captions: 5)
+- Date range covered: 2025-03-25 to 2026-09-09 (all 137 videos dated)
 
 
 ### Channels
@@ -354,15 +354,15 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| sterling_ct | streams | 2026-09-07 16:56:35.489909 | 0 |
-| sterling_ct | videos | 2026-09-07 16:56:34.784565 | 138 |
+| sterling_ct | streams | 2026-09-10 11:51:34.594091 | 0 |
+| sterling_ct | videos | 2026-09-10 11:51:33.893089 | 139 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 17 |
+| Board of Finance | budget_finance | True | 18 |
 | Board of Selectmen | council | True | 36 |
 | Agricultural Commission | other | True | 15 |
 | Economic Development Commission | other | True | 13 |
@@ -376,7 +376,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 153 (fetched: 151)
+- Documents registered: 155 (fetched: 153)
 - Date range covered: 2026-01-07 to 2026-09-09
 
 
@@ -391,7 +391,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | logged_at | field_name | new_value | source | by |
 | --- | --- | --- | --- | --- |
-| 2026-08-27 16:02:07.863641 | agenda_platform_confirmed | sterlingct.gov links /agendacenter from its home page and https://sterlingct.gov/AgendaCenter returns HTTP 200 -- CivicPlus AgendaCenter, FETCHABLE by ingest/fetch_agenda_documents.py today. Note the domain is sterlingct.GOV; the older ctsterling.com does not resolve. | curl of sterlingct.gov and /AgendaCenter (HTTP 200), 2026-08-27 | claude |
+| 2026-08-27 16:02:07.863641 | agenda_platform_confirmed | sterlingct.gov links /agendacenter from its home page and https://sterlingct.gov/AgendaCenter returns HTTP 200 -- CivicPlus AgendaCenter, FETCHABLE by the agenda fetcher today. Note the domain is sterlingct.GOV; the older ctsterling.com does not resolve. | curl of sterlingct.gov and /AgendaCenter (HTTP 200), 2026-08-27 | claude |
 | 2026-08-27 16:02:07.863641 | channel_found | sterling_ct -- "Town of Sterling" (UC8uWWABNR6uve5QuN1pzhWg, @SterlingCT), confirmed via direct yt-dlp probe AND independently corroborated by sterlingct.gov, which links youtube.com/@SterlingCT/videos from its home page. 136 /videos titles; /streams tab returned zero titles. | yt-dlp ytsearch12:"Sterling Connecticut Board of Selectmen meeting" + direct probe + curl of sterlingct.gov, 2026-08-27 | claude |
 | 2026-08-27 16:02:07.863641 | out_of_state_collision_ruled_out | Sterling also exists in VA, IL, CO, MA, AK and KS. Ruled out two ways: (1) sterlingct.gov -- the Town of Sterling CT's own site -- links this exact handle; (2) CT-only body vocabulary in the corpus: Board of Selectmen, Board of Finance, Inland Wetland & Watercourses Commission, Water Pollution Control Authority. Sterling VA is an unincorporated CDP with no town government at all; Sterling IL and CO are City Council cities; Sterling MA uses a Select Board. | curl of sterlingct.gov + full 136-title corpus inspection, 2026-08-27 | claude |
 | 2026-08-27 16:02:07.863641 | patterns_validated_from_real_titles | 134/136 titles matched (98.5%) -- both tabs checked, /streams returned zero, so 136 IS the combined total. Body split: Board of Selectmen 35, Planning & Zoning 21, WPCA 18, Board of Finance 17, Agricultural Commission 14, EDC 13, IWWC 7, ZBA 6, Town Meeting 3. This town abbreviates heavily in its own titles (BOS, BOF, WPCA, EDC, IWWC, ZBA, P&Z, "Ag. Comm.") so every pattern covers both the abbreviation and the spelled-out form -- a patterns list built from .gov body names alone would have matched almost nothing, the same lesson Hartford taught. Board of Education matched ZERO and was deliberately not registered. | yt-dlp --flat-playlist crawls of both tabs + Python pattern validation, 2026-08-27 | claude |
@@ -419,5 +419,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:40:34 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Sterling"`_
+_Generated 2026-09-10T14:16:34 from Sterling's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

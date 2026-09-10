@@ -5,10 +5,10 @@
 
 This report collects every mention of surveillance technology found in **South Windsor**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **81 mentions** across **11 meetings**
-- **First mention:** 2021-09-21  |  **Most recent:** 2026-07-06
+- **100 mentions** across **12 meetings**
+- **First mention:** 2021-09-21  |  **Most recent:** 2026-09-08
 - **Technologies discussed:** ai_data_fusion, alpr, body_camera, drone, predictive_policing
-- **Coverage:** 139 of 142 known South Windsor meetings transcribed (98%)
+- **Coverage:** 140 of 144 known South Windsor meetings transcribed (97%)
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -68,7 +68,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | ai_data_fusion | 1 | 1 | 2026-03-16 | 2026-03-16 |
-| alpr | 73 | 8 | 2021-09-21 | 2026-07-06 |
+| alpr | 92 | 9 | 2021-09-21 | 2026-09-08 |
 | body_camera | 1 | 1 | 2021-12-06 | 2021-12-06 |
 | drone | 3 | 2 | 2022-03-07 | 2022-06-27 |
 | predictive_policing | 3 | 2 | 2026-03-16 | 2026-04-06 |
@@ -76,7 +76,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ## Timeline
 
-11 meetings surfaced a finding (11 dated, spanning 2021-09-21 to 2026-07-06; 0 of unknown date, listed last).
+12 meetings surfaced a finding (12 dated, spanning 2021-09-21 to 2026-09-08; 0 of unknown date, listed last).
 
 
 ### 2021-09-21 -- Town Council
@@ -296,6 +296,49 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=70GYPoyeTh0&t=2695s)  > ...neighborhood and others are worried about all the things we've talked about with flock with LPRs. Before anyone calls me a hypocrite for being supportive of the LPRs and hesitant with...
 
 
+### 2026-09-08 -- Town Council
+
+**Town Council Regular Meeting - September 8, 2026** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=55s)  > ...I know is that a world where big big tech companies are tracking our movements with ALPR cameras is a world that will breed mistrust confusion and fear Do you want to live in such a world If not please see Sarah Gary who's a a key wave Sarah um...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=544s)  > ...cute puppies or kittens It's It's opposition to the mass surveillance that Flock cameras represent And there's nationwide and communitywide support support for their removal You might...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=795s)  > ...looking at police technology surveillance and privacy rights Uh recently I presented here on the the use of automated license plate readers in a nonpartisan manner because my organization is nonpartisan But this evening...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=882s)  > ...correction Uh there was an individual earlier who talked about the number of of cameras According to publicly reported data it's approximately 120,000 automated license plate readers around the country country with flock uh publicly reported again controlling...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=885s)  > ...about the number of of cameras According to publicly reported data it's approximately 120,000 automated license plate readers around the country country with flock uh publicly reported again controlling approximately 85% of those cameras So as a community is...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=906s)  > ...hear uh that to date there hasn't been a specific court case case uh that has ruled that automated license plate readers are unconstitutional but I think the juristprudence is changing and evolving rapidly given recent Supreme Court decisions on...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=1201s)  > ...So I would just ask that somebody maybe come out and take a look at that and see if that's a hazard and maybe get that fixed I appreciate it Uh for the record on the flock camera I I I do agree with uh everyone here tonight who spoke I'm not a favorite of...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=1519s)  > ...and the extensions passes unanimously All right we are up to item uh 13A 13A which is uh flock safety cameras Um Um and just a a point of reference for people on our agenda Next items it says who...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=1559s)  > ...formally Police Chief Lindstöm um and Josh Josh Thomas who I hope is um online who's a representative from Flock Safety Safety uh to tonight's meeting as we try to bring in Thank you U thank you Mr Thomas Uh before we start the...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=1669s)  > ...Uh in 2023 after an executive session the then town town council um our police department entered into a contract with Flock Safety to I believe install eight cameras at specific specific town-owned...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=1794s)  > ...you want us to consider consider at this time Uh clearly um this is an unusual topic for a town council council meeting So I would view you and the representative as flock as if you will the 10th and 11th or the today the 9th and the the 10th town council member So if...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2399s)  > ...right we're hiring honest hardworking forthcoming people Um once they're hired once they're trained once they're certified they'll get a flock user account that's linked to their department department email And for them to access...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2409s)  > ...that's linked to their department department email And for them to access the data they'll log into Flock It's a dual factor authentication So they'll put in their username and password and then they'll get a a second factor authentication to...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2562s)  > ...query I'll I'll read to you directly from our policy which mirrors the state's policy Queries can be made to the A A ALPR system for a permitted purpose The user must log in with their personal credentials which are specific to that user only To query the system...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2650s)  > ...rules that we are in terms of uh post post model policy and state legislation Um when flock started started when flock first um we were able to and there was a lot of reciprocity with outofstate agencies and um you know...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2654s)  > ...legislation Um when flock started started when flock first um we were able to and there was a lot of reciprocity with outofstate agencies and um you know agencies that really had no direct ties to us and then we...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2694s)  > ...just instate sharing sharing and that's where we currently sit today is instate sharing Um I get each month from flock flock a sharing report and I have August here turn to the right page Um Um it it says a monthly...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2836s)  > ...one is something that I haven't asked asked you that you'd like to share before we talk to the the person from flock and then have the council have a discussion. Yeah the you know I wanted to I kind of been been ignoring Josh up there in the monitor but um he was here in case you had...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2845s)  > ...the you know I wanted to I kind of been been ignoring Josh up there in the monitor but um he was here in case you had technical questions about flock that I couldn't answer Um so before I I I read some remarks I'll ask Josh...
+
+
 ## Findings by topic
 
 
@@ -308,17 +351,97 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
-- **[2026-07-06] Town Council** -- Town Council Regular Meeting - July 6, 2026
-  > ...neighborhood and others are worried about all the things we've talked about with flock with LPRs. Before anyone calls me a hypocrite for being supportive of the LPRs and hesitant with...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=70GYPoyeTh0&t=2695s)  _(term: alpr_flock, unreviewed)_
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...one is something that I haven't asked asked you that you'd like to share before we talk to the the person from flock and then have the council have a discussion. Yeah the you know I wanted to I kind of been been ignoring Josh up there in the monitor but um he was here in case you had...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2836s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...just instate sharing sharing and that's where we currently sit today is instate sharing Um I get each month from flock flock a sharing report and I have August here turn to the right page Um Um it it says a monthly...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2694s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...legislation Um when flock started started when flock first um we were able to and there was a lot of reciprocity with outofstate agencies and um you know agencies that really had no direct ties to us and then we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2654s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...rules that we are in terms of uh post post model policy and state legislation Um when flock started started when flock first um we were able to and there was a lot of reciprocity with outofstate agencies and um you know...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2650s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...query I'll I'll read to you directly from our policy which mirrors the state's policy Queries can be made to the A A ALPR system for a permitted purpose The user must log in with their personal credentials which are specific to that user only To query the system...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2562s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...that's linked to their department department email And for them to access the data they'll log into Flock It's a dual factor authentication So they'll put in their username and password and then they'll get a a second factor authentication to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2409s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...right we're hiring honest hardworking forthcoming people Um once they're hired once they're trained once they're certified they'll get a flock user account that's linked to their department department email And for them to access...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2399s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...you want us to consider consider at this time Uh clearly um this is an unusual topic for a town council council meeting So I would view you and the representative as flock as if you will the 10th and 11th or the today the 9th and the the 10th town council member So if...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=1794s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...Uh in 2023 after an executive session the then town town council um our police department entered into a contract with Flock Safety to I believe install eight cameras at specific specific town-owned...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=1669s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...formally Police Chief Lindstöm um and Josh Josh Thomas who I hope is um online who's a representative from Flock Safety Safety uh to tonight's meeting as we try to bring in Thank you U thank you Mr Thomas Uh before we start the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=1559s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...and the extensions passes unanimously All right we are up to item uh 13A 13A which is uh flock safety cameras Um Um and just a a point of reference for people on our agenda Next items it says who...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=1519s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...So I would just ask that somebody maybe come out and take a look at that and see if that's a hazard and maybe get that fixed I appreciate it Uh for the record on the flock camera I I I do agree with uh everyone here tonight who spoke I'm not a favorite of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=1201s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...hear uh that to date there hasn't been a specific court case case uh that has ruled that automated license plate readers are unconstitutional but I think the juristprudence is changing and evolving rapidly given recent Supreme Court decisions on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=906s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...about the number of of cameras According to publicly reported data it's approximately 120,000 automated license plate readers around the country country with flock uh publicly reported again controlling approximately 85% of those cameras So as a community is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=885s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...correction Uh there was an individual earlier who talked about the number of of cameras According to publicly reported data it's approximately 120,000 automated license plate readers around the country country with flock uh publicly reported again controlling...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=882s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...looking at police technology surveillance and privacy rights Uh recently I presented here on the the use of automated license plate readers in a nonpartisan manner because my organization is nonpartisan But this evening...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=795s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...cute puppies or kittens It's It's opposition to the mass surveillance that Flock cameras represent And there's nationwide and communitywide support support for their removal You might...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=544s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...I know is that a world where big big tech companies are tracking our movements with ALPR cameras is a world that will breed mistrust confusion and fear Do you want to live in such a world If not please see Sarah Gary who's a a key wave Sarah um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=55s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Town Council Regular Meeting - September 8, 2026
+  > ...the you know I wanted to I kind of been been ignoring Josh up there in the monitor but um he was here in case you had technical questions about flock that I couldn't answer Um so before I I I read some remarks I'll ask Josh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2845s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-06] Town Council** -- Town Council Regular Meeting - July 6, 2026
   > ...off the bat that this is a different topic, a different conversation entirely than the license plate reader conversation. They're two different devices, two different objectives, two...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=70GYPoyeTh0&t=840s)  _(term: alpr_flock, unreviewed)_
 
+- **[2026-07-06] Town Council** -- Town Council Regular Meeting - July 6, 2026
+  > ...neighborhood and others are worried about all the things we've talked about with flock with LPRs. Before anyone calls me a hypocrite for being supportive of the LPRs and hesitant with...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=70GYPoyeTh0&t=2695s)  _(term: alpr_flock, unreviewed)_
+
 - **[2026-06-01] Town Council** -- Town Council Regular Meeting - June 1, 2026
   > ...>> That's a lot of hard work. >> That is a lot of work. >> And then also the uh the flock license plate reader. I guess there's there's a lot of comments that how it's an...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=nWUf2yAjsUQ&t=2539s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-20] Town Council** -- Town Council Regular Meeting - April 20, 2026
+  > ...I can't drive anywhere without Flock tracking that. If I go somewhere, that says something about me. Now, Flock recently started making actual judgment statements about a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nPlVTli9jAQ&t=1986s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-20] Town Council** -- Town Council Regular Meeting - April 20, 2026
   > ...firstly, thank you to the council for hearing my concerns in the past several weeks regarding our use of Flock. Um I appreciate you listening, asking questions, researching on your own....
@@ -368,21 +491,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...person's intentions based on its observations. That was about a year ago. So, now we have Flock looking at my activity and not just logging it and making decisions about what I'm doing,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=nPlVTli9jAQ&t=1997s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-04-20] Town Council** -- Town Council Regular Meeting - April 20, 2026
-  > ...I can't drive anywhere without Flock tracking that. If I go somewhere, that says something about me. Now, Flock recently started making actual judgment statements about a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nPlVTli9jAQ&t=1986s)  _(term: alpr_flock, unreviewed)_
+- **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
+  > ...because their contract clearly specifies that they can do it. Now, we know that Flock is partnered with Palantir, which is a scary mass surveillance company....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=3013s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...the same type of cameras? The same type of cameras. >> of cameras. It's the license plate reader. There's no video anywhere. >> Right. Our reciprocity is just LPRs....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2222s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...now the chief mentioned that among other things he does not believe that Flock is sharing that data with other companies. Um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2946s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...you're at that comfort level, that kind of honest level. Okay. Thank you. And and Flock has also offered to come to council meetings in Connecticut and speak and I don't know if we're to that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2391s)  _(term: alpr_flock, unreviewed)_
+  > ...the Flock transparency portal where each Flock customer uh has their usage of Flock disclosed and South Windsor had nothing. We had apparently opted out of that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2925s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
   > ...of the car as it goes by these these readers. So, one last question. How confident are you that the Flock Corporation is not going into or entering into agreements with other...
@@ -437,12 +552,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=1633s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
+  > ...are getting this data. It's not disclosed. But, the fact that the Flock contract clearly specifies that they can do so, that they don't have to pay us for all...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=3025s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
   > ...efficient in holding suspects accountable. Flock does nothing other than take a picture. It's then left to the skill set of our investigators to go and piece...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=1593s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...are getting this data. It's not disclosed. But, the fact that the Flock contract clearly specifies that they can do so, that they don't have to pay us for all...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=3025s)  _(term: alpr_flock, unreviewed)_
+  > ...the same type of cameras? The same type of cameras. >> of cameras. It's the license plate reader. There's no video anywhere. >> Right. Our reciprocity is just LPRs....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2222s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
   > ...still close by. Uh it helps us saturate areas for investigative purposes. Um Flock does not take any pictures of people. You've been told otherwise....
@@ -457,60 +576,60 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=1333s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...paid license to use, reproduce, modify, and distribute the customer data. That is a right granted to Flock. So, I would like to know who Flock is doing...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2999s)  _(term: alpr_flock, unreviewed)_
+  > ...too. All I can do is rely on what Flock tells me. I did read the Flock contract. It's publicly available. It's right on their website....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2965s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
   > ...maybe three, depending on who's around, to look for this car that left. What we can do is we can check Flock cameras. We call them cameras. Um they're not doing any video. It's a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=1327s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...because their contract clearly specifies that they can do it. Now, we know that Flock is partnered with Palantir, which is a scary mass surveillance company....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=3013s)  _(term: alpr_flock, unreviewed)_
+  > ...Flock was telling him though which is completely fair. That's what I'm doing too. All I can do is rely on what Flock tells me. I did read the Flock contract. It's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2961s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
   > ...how it works. All of our um officers have been trained in using it. They have a Flock accounts. They log in with their own credentials. So, if they're making queries in the system, it...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=1287s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...now he mentioned that we are not using the any you know, people monitoring systems from Flock which I appreciate knowing because I didn't know. I went to the Flock transparency portal where each...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2918s)  _(term: alpr_flock, unreviewed)_
+  > ...paid license to use, reproduce, modify, and distribute the customer data. That is a right granted to Flock. So, I would like to know who Flock is doing...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2999s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...too. All I can do is rely on what Flock tells me. I did read the Flock contract. It's publicly available. It's right on their website....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2965s)  _(term: alpr_flock, unreviewed)_
+  > ...issues if they were doing so. And that he could only rely on what Flock was telling him though which is completely fair. That's what I'm doing too. All I can do is rely on what Flock...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2958s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
   > ...is stored for 30 days. That's our data, the town of South Windsor's data, housed on Flock's cloud hardware software. Um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=1263s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...systems from Flock which I appreciate knowing because I didn't know. I went to the Flock transparency portal where each Flock customer uh has their usage of Flock disclosed...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2921s)  _(term: alpr_flock, unreviewed)_
+  > ...protecting us from on a daily basis. Obviously I spoke before regarding my concerns about Flock and I did just want to follow up on a couple things that the chief said. Um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2906s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...Flock was telling him though which is completely fair. That's what I'm doing too. All I can do is rely on what Flock tells me. I did read the Flock contract. It's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2961s)  _(term: alpr_flock, unreviewed)_
+  > ...now the chief mentioned that among other things he does not believe that Flock is sharing that data with other companies. Um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2946s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
   > ...gentleman from the public was here um and spoke on Flock and quite frankly there was a lot of misinformation that was given to you folks. I know you're...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=1202s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...knowing because I didn't know. I went to the Flock transparency portal where each Flock customer uh has their usage of Flock disclosed and South Windsor had nothing. We had...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2924s)  _(term: alpr_flock, unreviewed)_
+  > ...now he mentioned that we are not using the any you know, people monitoring systems from Flock which I appreciate knowing because I didn't know. I went to the Flock transparency portal where each...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2918s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...protecting us from on a daily basis. Obviously I spoke before regarding my concerns about Flock and I did just want to follow up on a couple things that the chief said. Um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2906s)  _(term: alpr_flock, unreviewed)_
+  > ...you're at that comfort level, that kind of honest level. Okay. Thank you. And and Flock has also offered to come to council meetings in Connecticut and speak and I don't know if we're to that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2391s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
   > ...currently uses Flock Safety is a private company. And uh we utilize Flock Safety's license plate reader system. They have a lot of different products within their their product line. The one...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=1153s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...the Flock transparency portal where each Flock customer uh has their usage of Flock disclosed and South Windsor had nothing. We had apparently opted out of that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2925s)  _(term: alpr_flock, unreviewed)_
+  > ...systems from Flock which I appreciate knowing because I didn't know. I went to the Flock transparency portal where each Flock customer uh has their usage of Flock disclosed...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2921s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
   > ...Thank you, Mr. Mayor. Uh as you had requested, uh Chief Lindstrom is here to talk about the Flock camera systems, and I'm going to yield my time over to him uh for this period of time....
@@ -521,12 +640,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=1150s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...apparently opted out of that transparency report. So I didn't know we weren't using those specific Flock Condor vulnerable cameras. I'm still concerned about the ALPRs...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2934s)  _(term: alpr_flock, unreviewed)_
+  > ...knowing because I didn't know. I went to the Flock transparency portal where each Flock customer uh has their usage of Flock disclosed and South Windsor had nothing. We had...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2924s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
-  > ...issues if they were doing so. And that he could only rely on what Flock was telling him though which is completely fair. That's what I'm doing too. All I can do is rely on what Flock...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2958s)  _(term: alpr_flock, unreviewed)_
+  > ...apparently opted out of that transparency report. So I didn't know we weren't using those specific Flock Condor vulnerable cameras. I'm still concerned about the ALPRs...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=S6igw8DSCcc&t=2934s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council Regular Meeting - April 6, 2026
   > ...and what we're doing. So, uh the town of South Windsor currently uses Flock Safety is a private company. And uh we utilize Flock Safety's license plate reader system....
@@ -545,8 +664,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=na7vGQk44nc&t=2525s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-16] Town Council** -- Town Council Regular Meeting - March 16, 2026
-  > ...In the Flock contract, you have the one copy that the police department holds, but you are also granting the Flock corporate a second copy of that data. It's a complete royalty-free copy. They...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=na7vGQk44nc&t=2760s)  _(term: alpr_flock, unreviewed)_
+  > ...demand its deletion and the cessation of further collection. In the Flock contract, you have the one copy that the police department holds, but you are also granting the Flock...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=na7vGQk44nc&t=2755s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-16] Town Council** -- Town Council Regular Meeting - March 16, 2026
   > ...over time, and record where they're going. All of that gets fed into their Flock Nova analytics platform, which infers what they're doing and who they're doing those things with....
@@ -573,16 +692,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=na7vGQk44nc&t=2620s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-16] Town Council** -- Town Council Regular Meeting - March 16, 2026
-  > ...demand its deletion and the cessation of further collection. In the Flock contract, you have the one copy that the police department holds, but you are also granting the Flock...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=na7vGQk44nc&t=2755s)  _(term: alpr_flock, unreviewed)_
+  > ...search or surveillance to occur, and of course the signature of a judge. What Flock is doing is recording all of the movements and behaviors of everyone in his area of control as best...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=na7vGQk44nc&t=2696s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-16] Town Council** -- Town Council Regular Meeting - March 16, 2026
+  > ...In the Flock contract, you have the one copy that the police department holds, but you are also granting the Flock corporate a second copy of that data. It's a complete royalty-free copy. They...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=na7vGQk44nc&t=2760s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-16] Town Council** -- Town Council Regular Meeting - March 16, 2026
   > ...Windsor's example. A few weeks ago, they disabled their Flock systems specifically because of privacy concerns. I hope you folks might consider similarly....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=na7vGQk44nc&t=2797s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-16] Town Council** -- Town Council Regular Meeting - March 16, 2026
-  > ...search or surveillance to occur, and of course the signature of a judge. What Flock is doing is recording all of the movements and behaviors of everyone in his area of control as best...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=na7vGQk44nc&t=2696s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Town Council** -- Town Council Regular Meeting - March 2, 2026
   > ...that data. Um, at my direction, the police department did go back and look through the settings on our flock system to make sure that that information is not being shared. And I can tell you...
@@ -824,15 +943,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 2
 - Active meeting bodies: 2
-- Videos registered: 142 (fetched: 139, no captions: 3)
-- Date range covered: 2021-04-26 to 2026-07-20 (all 142 videos dated)
+- Videos registered: 144 (fetched: 140, no captions: 4)
+- Date range covered: 2021-04-26 to 2026-09-08 (all 144 videos dated)
 
 
 ### Channels
@@ -847,17 +966,17 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| south_windsor_public_schools | streams | 2026-09-07 16:42:50.532391 | 6 |
-| south_windsor_public_schools | videos | 2026-09-07 16:42:49.753590 | 2 |
-| town_of_south_windsor | streams | 2026-09-07 16:59:47.238819 | 323 |
-| town_of_south_windsor | videos | 2026-09-07 16:59:42.559094 | 21 |
+| south_windsor_public_schools | streams | 2026-09-10 13:37:15.640972 | 6 |
+| south_windsor_public_schools | videos | 2026-09-10 13:37:14.858683 | 2 |
+| town_of_south_windsor | streams | 2026-09-10 12:03:35.341213 | 324 |
+| town_of_south_windsor | videos | 2026-09-10 12:03:30.449100 | 22 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Town Council | council | True | 135 |
+| Town Council | council | True | 137 |
 | Board of Education | education | True | 7 |
 
 
@@ -890,10 +1009,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (3 shown, max 25)
+### Videos with no captions available (4 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Town Council Regular Meeting - September 8, 2026 | 2026-09-08 |
 | Town Council Regular Meeting - September 2nd, 2025 | 2025-09-02 |
 | Town Council Special Meeting - April 15, 2024 | 2024-04-15 |
 | South Windsor Town Council Special Budget Work Session - April 7, 2022 | 2022-04-07 |
@@ -907,5 +1027,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:40:17 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "South Windsor"`_
+_Generated 2026-09-10T14:16:01 from South Windsor's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

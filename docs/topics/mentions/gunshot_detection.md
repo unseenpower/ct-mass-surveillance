@@ -1,6 +1,6 @@
 # Gunshot detection: every mention, every town
 
-_Generated 2026-09-07T17:43:34 — 76 mentions across 3 towns, 2015-04-21 to 2026-08-05._
+_Generated 2026-09-10T14:23:44 — 77 mentions across 4 towns, 2015-04-21 to 2026-08-05._
 
 
 Acoustic sensor networks, such as ShotSpotter, that attempt to detect and locate gunfire.
@@ -26,6 +26,10 @@ _No human review has been applied to any mention in this file._
 | [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **67** | 20 | 27 | 91% | 2015-04-21 | 2026-07-06 |
 | [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 2 | 95% | 2019-05-07 | 2024-04-16 |
 | [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 95% | 2026-08-05 | 2026-08-05 |
+| Middletown ⁽ⁿᵖ⁾ | **1** | · | 1 | 19% | 2026-07-20 | 2026-07-20 |
+
+⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
+
 
 ## Receipts
 
@@ -126,4 +130,11 @@ _55 further mentions in New Haven not shown here — all of them are in [New Hav
 - **[2026-08-05] Board of Selectmen** — Board of Selectmen Minutes - 2026-08-05
   > …; (e) biometric surveillance technology, including facial, voice, iris, and gait-recognition software and databases; (f) mobile DNA capture technology; (g) gunshot detection and location hardware and services; (h) x-ray vans; (i) video and audio monitoring or recording technology, such as surveillance cameras,…
   [Open document ▸](https://eltownhall.com/wp-content/uploads/2026/08/BOS-August-5-2026-Minutes.pdf)  _(agenda/minutes · term: `gunshot_detection`)_
+
+
+### Middletown — 1 mention
+
+- **[2026-07-20] Public Safety Commission** — Public Safety Commission Police July 2026
+  > …um and then just to give context i wanted to read out i'm sure this will be reviewed later um but i wanted to just give context to read out that from the flock drone site itself um this response 9-1-1 9-1-1 calls license plate reader hits gun gunshot detection it shares live video life thermal video night vision video um to uh they list stakeholders here which could be anyone um essentially my big…
+  [Watch ▸](https://middletown.granicus.com/player/clip/3705)  [jump to 5:54 ▸](https://archive-video.granicus.com/middletown/middletown_d676f61c-e81e-4140-899e-639ec46e9c92.mp4#t=354)  _(term: `gunshot_detection`)_
 

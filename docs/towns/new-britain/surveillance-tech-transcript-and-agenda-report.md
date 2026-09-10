@@ -8,8 +8,8 @@ This report collects every mention of surveillance technology found in **New Bri
 - **11 mentions** across **10 meetings**
 - **First mention:** 2021-10-04  |  **Most recent:** 2025-08-14
 - **Technologies discussed:** body_camera, drone, facial_recognition, predictive_policing, purchasing_broker, surveillance_general
-- **Coverage:** 246 of 868 known New Britain meetings transcribed (28%)
-- **Not the full history:** transcripts begin **2019-10-08**, but New Britain's published video archive goes back to **2017-01-11**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+- **Coverage:** 281 of 869 known New Britain meetings transcribed (32%)
+- **Not the full history:** transcripts begin **2019-04-01**, but New Britain's published video archive goes back to **2017-01-11**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 - **17 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
@@ -563,15 +563,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 4
 - Active meeting bodies: 11
-- Videos registered: 868 (fetched: 246, no captions: 7)
-- Date range covered: 2017-01-11 to 2026-08-26 — **based on the 750 of 868 videos that carry a parseable upload date**; the other 118 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 869 (fetched: 281, no captions: 8)
+- Date range covered: 2017-01-11 to 2026-09-09 — **based on the 752 of 869 videos that carry a parseable upload date**; the other 117 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -588,13 +588,13 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| conbct | streams | 2026-09-07 16:30:20.604509 | 196 |
-| conbct | videos | 2026-09-07 16:30:17.361631 | 25 |
-| csdnb | streams | 2026-09-07 16:54:21.537633 | 155 |
-| csdnb | videos | 2026-09-07 16:54:18.780012 | 158 |
+| conbct | streams | 2026-09-10 13:43:46.836823 | 197 |
+| conbct | videos | 2026-09-10 13:43:43.517952 | 25 |
+| csdnb | streams | 2026-09-10 13:50:19.514649 | 155 |
+| csdnb | videos | 2026-09-10 13:50:16.834334 | 159 |
 | new_britain_granicus | New Britain CT - Granicus Content | 2026-09-06 11:48:18.144951 | 564 |
-| nutmeg_tv | streams | 2026-09-07 16:50:01.480623 | 3 |
-| nutmeg_tv | videos | 2026-09-07 16:50:00.685188 | 5282 |
+| nutmeg_tv | streams | 2026-09-10 11:37:23.451548 | 3 |
+| nutmeg_tv | videos | 2026-09-10 11:37:22.711081 | 5289 |
 
 
 ## Registered meeting bodies
@@ -605,7 +605,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Board of Finance | budget_finance | True | 0 |
 | Committee on Administration, Finance and Law | budget_finance | True | 0 |
 | Standing Bonding Subcommittee | budget_finance | True | 17 |
-| Common Council | council | True | 444 |
+| Common Council | council | True | 445 |
 | Consolidated Subcommittee | council | True | 41 |
 | Board of Education | education | True | 107 |
 | Committee on Planning, Zoning and Housing | land_use | True | 84 |
@@ -620,7 +620,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 959 (fetched: 391)
+- Documents registered: 960 (fetched: 391)
 - Date range covered: 2016-09-06 to 2026-09-09
 
 
@@ -646,16 +646,17 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (7 shown, max 25)
+### Videos with no captions available (8 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Common Council Regular Meeting | 2026-09-09 |
 | Standing Bonding Subcommittee | 2025-03-20 |
 | New Britain Board of Education Meeting (November 2, 2020) | 2020-11-02 |
 | New Britain Board of Education Meeting (August 17, 2020) | 2020-08-17 |
 | Common Council Public Hearing |  |
-| Committee on Administration, Finance and Law and Public Services |  |
 | Common Council Regular Meeting |  |
+| Committee on Administration, Finance and Law and Public Services |  |
 | Common Council Regular Meeting |  |
 
 
@@ -670,5 +671,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:36:00 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Britain"`_
+_Generated 2026-09-10T14:08:15 from New Britain's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

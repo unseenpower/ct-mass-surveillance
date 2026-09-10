@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Norwalk
 - **221 mentions** across **98 meetings**
 - **First mention:** 2020-09-24  |  **Most recent:** 2026-08-06
 - **Technologies discussed:** alpr, body_camera, cell_site_sim, doorbell_partnership, drone, surveillance_general
-- **Coverage:** 1,189 of 1,212 known Norwalk meetings transcribed (98%)
+- **Coverage:** 1,190 of 1,214 known Norwalk meetings transcribed (98%)
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -877,7 +877,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=672s)  > ...and I'll try to be brief. Um, and I'll keep it anecdotal. I became aware of a flock camera probably five months after passing by you two times a day walking my dog over on East A and Vanzam right...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=780s)  > ...>> We can. Uh so my name is Rob Pratt. I live in Norwok on uh Farm Creek Road and I've become aware of flock cameras and the risk they pose to our privacy uh and and general security, especially...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=780s)  > ...>> We can. Uh so my name is Rob Pratt. I live in Norwok on [address redacted] and I've become aware of flock cameras and the risk they pose to our privacy uh and and general security, especially...
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=859s)  > ...from that foyer request that over a 100,000 searches were happening were were occurring for the Windsor flock camera data from Texas alone. And I find that uh to be uh rather...
 
@@ -1079,7 +1079,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1767s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...>> We can. Uh so my name is Rob Pratt. I live in Norwok on uh Farm Creek Road and I've become aware of flock cameras and the risk they pose to our privacy uh and and general security, especially...
+  > ...>> We can. Uh so my name is Rob Pratt. I live in Norwok on [address redacted] and I've become aware of flock cameras and the risk they pose to our privacy uh and and general security, especially...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=780s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
@@ -2098,15 +2098,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 2
 - Active meeting bodies: 15
-- Videos registered: 1212 (fetched: 1189, no captions: 23)
-- Date range covered: 2016-10-11 to 2026-09-02 — **based on the 1208 of 1212 videos that carry a parseable upload date**; the other 4 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 1214 (fetched: 1190, no captions: 24)
+- Date range covered: 2016-10-11 to 2026-09-09 — **based on the 1210 of 1214 videos that carry a parseable upload date**; the other 4 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -2121,10 +2121,10 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| city_of_norwalk | streams | 2026-09-07 16:58:12.079577 | 660 |
-| city_of_norwalk | videos | 2026-09-07 16:58:02.917190 | 2718 |
-| norwalk_public_schools | streams | 2026-09-07 16:29:45.800488 | 66 |
-| norwalk_public_schools | videos | 2026-09-07 16:29:44.423845 | 867 |
+| city_of_norwalk | streams | 2026-09-10 12:01:54.624769 | 660 |
+| city_of_norwalk | videos | 2026-09-10 12:01:45.544561 | 2727 |
+| norwalk_public_schools | streams | 2026-09-10 13:43:05.550158 | 66 |
+| norwalk_public_schools | videos | 2026-09-10 13:43:04.006486 | 870 |
 
 
 ## Registered meeting bodies
@@ -2136,14 +2136,14 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Common Council | council | True | 224 |
 | Board of Education | education | True | 26 |
 | Ad Hoc Affordable Housing Committee | other | True | 16 |
-| Ad Hoc Sustainability and Resilience Committee | other | True | 36 |
+| Ad Hoc Sustainability and Resilience Committee | other | True | 37 |
 | Community Services Committee | other | True | 64 |
 | Economic and Community Development Committee | other | True | 73 |
 | Land Use and Building Management Committee | other | True | 102 |
 | Ordinance Committee | other | True | 95 |
 | Planning Committee | other | True | 22 |
 | Public Works Committee | other | True | 78 |
-| Recreation, Parks and Cultural Affairs Committee | other | True | 72 |
+| Recreation, Parks and Cultural Affairs Committee | other | True | 73 |
 | Police Commission | public_safety | True | 81 |
 | Public Safety and General Government Committee | public_safety | True | 53 |
 
@@ -2151,8 +2151,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 296 (fetched: 0)
-- Date range covered: 2026-01-08 to 2026-09-09
+- Documents registered: 303 (fetched: 0)
+- Date range covered: 2026-01-08 to 2026-09-14
 
 
 ### Agenda sources
@@ -2178,13 +2178,14 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (23 shown, max 25)
+### Videos with no captions available (24 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Recreation, Parks & Cultural Affairs 09-09-2026 | 2026-09-09 |
 | Land Use and Building Management Committee 09-02-2026 | 2026-09-02 |
-| Sustainability and Resilience Task Force 08-20-2026 | 2026-08-20 |
 | Sustainability and Resilience Task Force Committee 08-20-2026 | 2026-08-20 |
+| Sustainability and Resilience Task Force 08-20-2026 | 2026-08-20 |
 | Police Commission 08-17-2026 | 2026-08-17 |
 | Board Business Meeting - March 31, 2026 | 2026-03-31 |
 | Recreation, Parks & Cultural Affairs 03-11-2026 | 2026-03-11 |
@@ -2203,8 +2204,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Community Services Committee 11-16-22 | 2022-11-16 |
 | Land Use & Building Management 8-3-22 | 2022-08-03 |
 | Board of Estimate & Taxation |  |
-| Board of Estimate & Taxation |  |
 | Community Services Committee |  |
+| Board of Estimate & Taxation |  |
 
 
 ### Tabs never crawled
@@ -2215,5 +2216,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:38:05 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Norwalk"`_
+_Generated 2026-09-10T14:12:09 from Norwalk's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Orange*
 - **217 mentions** across **28 meetings**
 - **First mention:** 2020-01-07  |  **Most recent:** 2026-08-13
 - **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone, surveillance_general
-- **Coverage:** 482 of 490 known Orange meetings transcribed (98%)
+- **Coverage:** 483 of 492 known Orange meetings transcribed (98%)
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -1725,15 +1725,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 490 (fetched: 482, no captions: 7)
-- Date range covered: 2020-01-07 to 2026-08-13 — **based on the 485 of 490 videos that carry a parseable upload date**; the other 5 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 492 (fetched: 483, no captions: 9)
+- Date range covered: 2020-01-07 to 2026-09-09 — **based on the 488 of 492 videos that carry a parseable upload date**; the other 4 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -1747,8 +1747,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| orange_ct_ogat | streams | 2026-09-07 16:21:38.592364 | 478 |
-| orange_ct_ogat | videos | 2026-09-07 16:21:31.486259 | 153 |
+| orange_ct_ogat | streams | 2026-09-10 13:27:30.594545 | 480 |
+| orange_ct_ogat | videos | 2026-09-10 13:27:23.849587 | 153 |
 
 
 ## Registered meeting bodies
@@ -1758,8 +1758,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Board of Finance | budget_finance | True | 65 |
 | Pension Board | budget_finance | True | 8 |
 | Board of Education | education | True | 63 |
-| Board of Selectmen | other | True | 83 |
-| Inland Wetland & Watercourses Commission | other | True | 12 |
+| Board of Selectmen | other | True | 84 |
+| Inland Wetland & Watercourses Commission | other | True | 13 |
 | OGAT Committee | other | True | 28 |
 | Park & Recreation Commission | other | True | 54 |
 | Recycling Committee | other | True | 18 |
@@ -1770,7 +1770,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 119 (fetched: 0)
+- Documents registered: 120 (fetched: 0)
 - Date range covered: 2026-01-05 to 2026-09-14
 
 
@@ -1793,16 +1793,18 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (7 shown, max 25)
+### Videos with no captions available (9 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| September 9 - Board of Selectmen - Regular Meeting - Town of Orange, CT Live Meetings | 2026-09-09 |
+| September 8 - Inland Wetlands & Watercourses - Regular Meeting - Town of Orange, CT Live Meetings | 2026-09-08 |
 | August  2 - Town Plan & Zoning - Regular Meeting - Town of Orange, CT Live Meetings | 2022-08-03 |
 | June 20 - (Post Executive Session) Orange Board of Education - Town of Orange, CT Live Meetings | 2022-06-21 |
 | April 14 - Board of Selectmen - Town of Orange, CT Live Meetings | 2021-04-15 |
 | December 3 - Town Plan & Zoning - Regular Meeting - Town of Orange, CT Live Meetings |  |
-| December 2 - Zoning Board of Appeals - Regular Meeting - Town of Orange, CT Live Meetings |  |
 | November 20 - Park & Recreation Commission - Regular Meeting - Town of Orange, CT Live Meetings |  |
+| December 2 - Zoning Board of Appeals - Regular Meeting - Town of Orange, CT Live Meetings |  |
 | September 10 - Inland Wetlands & Watercourses - Regular Meeting - Town of Orange, CT Live Meetings |  |
 
 
@@ -1814,5 +1816,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:38:50 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Orange"`_
+_Generated 2026-09-10T14:13:33 from Orange's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

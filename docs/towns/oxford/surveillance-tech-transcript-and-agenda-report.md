@@ -283,7 +283,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
@@ -306,8 +306,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| oxford_bos_ct | streams | 2026-09-07 16:47:42.510983 | 24 |
-| oxford_underground_press | videos | 2026-09-07 16:47:27.693564 | 37 |
+| oxford_bos_ct | streams | 2026-09-10 13:42:36.276337 | 24 |
+| oxford_underground_press | videos | 2026-09-10 13:42:19.746285 | 37 |
 
 
 ## Registered meeting bodies
@@ -328,7 +328,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 140 (fetched: 2)
+- Documents registered: 143 (fetched: 2)
 - Date range covered: 2026-01-06 to 2026-10-20
 
 
@@ -343,12 +343,12 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | logged_at | field_name | new_value | source | by |
 | --- | --- | --- | --- | --- |
-| 2026-08-27 15:11:37.897706 | agenda_platform_confirmed | CivicPlus AgendaCenter confirmed at oxford-ct.gov/agendacenter (CivicPlus branding in page source, standard AgendaCenter structure). Fetchable by ingest/fetch_agenda_documents.py. Its category list is far richer than Oxford's video coverage -- Board of Selectmen, Board of Finance, Planning and Zoning Commission, Conservation Commission-Inland Wetlands Agency, Zoning Board of Appeals, Water Pollution Control Authority, Fire Department Chiefs, Charter Revision, Housing Authority, Library Board of Directors, Parks and Recreation Commission, Cultural Arts Commission, Economic Development, Elderly Commission, Agriculture Advisory Committee, Affordable Housing Plan Committee, Town Meeting and more -- so for Oxford the agenda workstream is the higher-value one. | curl of oxford-ct.gov/agendacenter, 2026-08-27 | claude |
+| 2026-08-27 15:11:37.897706 | agenda_platform_confirmed | CivicPlus AgendaCenter confirmed at oxford-ct.gov/agendacenter (CivicPlus branding in page source, standard AgendaCenter structure). Fetchable by the agenda fetcher. Its category list is far richer than Oxford's video coverage -- Board of Selectmen, Board of Finance, Planning and Zoning Commission, Conservation Commission-Inland Wetlands Agency, Zoning Board of Appeals, Water Pollution Control Authority, Fire Department Chiefs, Charter Revision, Housing Authority, Library Board of Directors, Parks and Recreation Commission, Cultural Arts Commission, Economic Development, Elderly Commission, Agriculture Advisory Committee, Affordable Housing Plan Committee, Town Meeting and more -- so for Oxford the agenda workstream is the higher-value one. | curl of oxford-ct.gov/agendacenter, 2026-08-27 | claude |
 | 2026-08-27 15:11:37.897706 | both_tabs_checked | oxford_bos_ct: /videos tab DOES NOT EXIST (yt-dlp: "This channel does not have a videos tab"), /streams 22 titles -- a /videos-only crawl would have found literally nothing. oxford_underground_press: /videos 37 titles, no /streams tab. Combined corpus 59 titles. | yt-dlp --flat-playlist crawl of both tabs on both channels, 2026-08-27 | claude |
 | 2026-08-27 15:11:37.897706 | channel_found_citizen | "Oxford Underground Press" (UC19aJb9psbroQ2H9Snvlt0w, @OxfordUndergroundPress) confirmed via yt-dlp probe -- a citizen-journalism channel, NOT an official town source, registered because it carries the substantive gavel-to-gavel Board of Selectmen / Board of Finance / P&Z / Town Meeting recordings the town's own channel does not, nearly all titled "..., Oxford, CT". 37 /videos titles, no /streams tab. Same treatment as NewHartfordPlus.com for New Hartford in this batch. | yt-dlp channel probe + --flat-playlist crawl of both tabs, 2026-08-27 | claude |
 | 2026-08-27 15:11:37.897706 | channel_found_official | "Town of Oxford, Ct. Board of Selectmen" (UC6RebHWUhp3s-iGJZqmL77Q, @bosoxfordct06478) confirmed via direct yt-dlp probe -- the channel name itself states the town and state. Thin: no /videos tab at all, 22 /streams titles, roughly a third of them "My Broadcast"/"Test" placeholder livestream artifacts. | yt-dlp channel probe + --flat-playlist crawl of both tabs (WebSearch budget exhausted, ytsearch: fallback), 2026-08-27 | claude |
 | 2026-08-27 15:11:37.897706 | collision_check | COLLISION RISK CHECKED: Oxford MS / Oxford UK, and neighbouring Orange CT (already onboarded as orange_ct_ogat, which ranks high for "Oxford Connecticut Board of Selectmen" searches). Both registered channels were confirmed by a yt-dlp probe returning a channel name that states the town and state, and by "Oxford, CT" appearing in the titles themselves; the OGAT results were rejected on the yt-dlp channel name. A CT-town-name scan of both corpora returned only "Oxford" -- neither channel is shared, so patterns are deliberately unanchored (the official channel's titles are bare "BOS Meeting" and anchoring would drop all of them). | yt-dlp probes of every candidate channel + Python CT-town-name scan of both full corpora, 2026-08-27 | claude |
-| 2026-08-27 15:15:19.584651 | dry_run_sanity_check | oxford_bos_ct: /videos tab does not exist (0 listed), /streams 22 listed / 9 matched. oxford_underground_press: /videos 37 listed / 37 matched, no /streams tab. Combined 46/59 (78.0%). | ingest/fetch_channel_transcripts.py --tabs videos,streams --mode filtered --dry-run against the live DB after seeding, 2026-08-27 | claude |
+| 2026-08-27 15:15:19.584651 | dry_run_sanity_check | oxford_bos_ct: /videos tab does not exist (0 listed), /streams 22 listed / 9 matched. oxford_underground_press: /videos 37 listed / 37 matched, no /streams tab. Combined 46/59 (78.0%). | the transcript fetcher --tabs videos,streams --mode filtered --dry-run against the live DB after seeding, 2026-08-27 | claude |
 | 2026-08-27 15:15:19.584651 | patterns_validated_from_real_titles | 46/59 combined titles matched (78.0%) -- oxford_bos_ct 9/22 (the rest are Test/My Broadcast placeholders), oxford_underground_press 37/37 across 6 registered bodies. The 6 distinct unmatched titles are the official channel's "My Broadcast"/"Test" placeholders and two bare-date titles. | Python pattern validation against both full corpora, 2026-08-27 | claude |
 
 
@@ -384,5 +384,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:38:56 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Oxford"`_
+_Generated 2026-09-10T14:13:39 from Oxford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

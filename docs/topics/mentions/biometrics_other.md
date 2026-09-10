@@ -1,6 +1,6 @@
 # Other biometrics: every mention, every town
 
-_Generated 2026-09-07T17:43:39 — 9 mentions across 6 towns, 2021-03-11 to 2025-08-11._
+_Generated 2026-09-10T14:24:01 — 9 mentions across 6 towns, 2021-03-11 to 2025-08-11._
 
 
 Biometric identification other than face — gait, iris, voice.
@@ -24,8 +24,8 @@ _No human review has been applied to any mention in this file._
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
 | [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **3** | 3 | 3 | 95% | 2021-03-11 | 2025-08-11 |
-| [Monroe](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 64% | 2022-11-07 | 2024-05-28 |
-| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 42% | 2024-03-28 | 2024-03-28 |
+| [Monroe](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 67% | 2022-11-07 | 2024-05-28 |
+| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 46% | 2024-03-28 | 2024-03-28 |
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2024-02-21 | 2024-02-21 |
 | [Seymour](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 83% | 2022-02-08 | 2022-02-08 |
 | [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2023-12-14 | 2023-12-14 |

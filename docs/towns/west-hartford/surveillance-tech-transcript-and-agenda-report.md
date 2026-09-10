@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **West Ha
 - **142 mentions** across **55 meetings**
 - **First mention:** 2017-03-29  |  **Most recent:** 2026-08-04
 - **Technologies discussed:** alpr, body_camera, drone, facial_recognition, rtcc, surveillance_general
-- **Coverage:** 760 of 819 known West Hartford meetings transcribed (93%)
+- **Coverage:** 761 of 819 known West Hartford meetings transcribed (93%)
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -1409,14 +1409,14 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 8
-- Videos registered: 819 (fetched: 760, no captions: 50)
+- Videos registered: 819 (fetched: 761, no captions: 51)
 - Date range covered: 2012-09-18 to 2026-09-22 — **based on the 811 of 819 videos that carry a parseable upload date**; the other 8 are undated, so the real corpus may extend beyond this range in either direction
 
 
@@ -1431,8 +1431,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| whci | streams | 2026-09-07 16:19:20.066520 | 3764 |
-| whci | videos | 2026-09-07 16:18:29.771550 | 2473 |
+| whci | streams | 2026-09-10 13:25:02.323646 | 3770 |
+| whci | videos | 2026-09-10 13:24:12.495801 | 2473 |
 
 
 ## Registered meeting bodies
@@ -1473,11 +1473,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | --- | --- | --- | --- | --- |
 | 2026-08-13 16:40:34.173193 | boe_surveillance_note | BOE meetings 2019-2024: school camera system shared live with West Hartford PD; SROs given direct iPad access to camera feeds mapped onto building floor plans, cited use in a real smoke-report incident (2019). | BOE transcript keyword scan + context review, 2026-08-13 | claude |
 | 2026-08-11 13:51:28.534417 | channel_coverage_confirmed | Board of Education meetings ARE on WHCi (@whci) -- no second channel needed | whci.online/tours/board-of-education/ + WHCi YouTube search results (Board of Education Meeting of <date> titles back to at least 2023) | claude |
-| 2026-08-11 13:07:29.714772 | channel_registered | whci | Migrated from ad hoc ~/whci_transcripts_fetch/ investigation | claude |
-| 2026-08-11 16:26:22.134723 | legacy_backfill_run | matched=78 unmatched=7 | backfill_whci_legacy.py migration of ~/whci_transcripts_fetch/ | claude |
+| 2026-08-11 13:07:29.714772 | channel_registered | whci | Migrated from an earlier ad hoc fetch investigation | claude |
+| 2026-08-11 16:26:22.134723 | legacy_backfill_run | matched=78 unmatched=7 | the legacy backfill migration of an earlier ad hoc fetch | claude |
 | 2026-08-11 16:48:18.508710 | meeting_bodies_registered | 5 real Town Council standing committees added: Council Affairs and Governance, Community Planning and Economic Development (CPED), Finance and Administration (F&A), Human & Community Services (HCS), Public Works Facilities and Sustainability (PWF&S) -- all confirmed against real WHCi title vocabulary (24-62 matches each) before being registered | westhartfordct.gov/government-services/town-council-subcommittees; yt-dlp crawl of both WHCi tabs, 6,202 titles, 2026-08-11 | claude |
 | 2026-08-11 16:48:18.508710 | meeting_body_corrected | "Board of Finance" retired (0 videos, never real) -- West Hartford has no standalone Board of Finance | westhartfordct.gov/government-services/town-council-subcommittees + WebSearch confirming West Hartford's Finance and Administration Committee (chaired by Deputy Mayor Ben Wenograd) is the real budget body | claude |
-| 2026-08-11 13:51:09.297007 | meeting_body_registered | Board of Education | Scott confirmed adding this 2026-08-11 -- channel coverage (WHCi vs. a separate WH Public Schools channel) not yet verified | human |
+| 2026-08-11 13:51:09.297007 | meeting_body_registered | Board of Education | the maintainer confirmed adding this 2026-08-11 -- channel coverage (WHCi vs. a separate WH Public Schools channel) not yet verified | human |
 
 
 ## Gaps and caveats
@@ -1487,6 +1487,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | title | upload_date |
 | --- | --- |
+| Town Council Meeting of September 8, 2026 | 2026-09-08 |
 | Public Works, Facilities and Sustainability Meeting - August 20, 2026 | 2026-08-20 |
 | Community Planning & Economic Development Committee Virtual Meeting  - August 19, 2026 | 2026-08-19 |
 | Town Council Meeting of August 12, 2026 | 2026-08-12 |
@@ -1511,7 +1512,6 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Community Comments and Town Council Meeting of September 26, 2017 | 2017-09-26 |
 | Board of Education Meeting of September 5, 2017 | 2017-09-05 |
 | Board of Education Meeting of April 18, 2017 | 2017-04-18 |
-| Public Hearing and Town Council Meeting of March 28, 2017 | 2017-03-28 |
 
 
 ### Tabs never crawled
@@ -1522,5 +1522,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:41:37 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "West Hartford"`_
+_Generated 2026-09-10T14:18:30 from West Hartford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

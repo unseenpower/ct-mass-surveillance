@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **North Haven**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **80 mentions** across **16 meetings**
-- **First mention:** 2023-02-27  |  **Most recent:** 2026-05-14
+- **82 mentions** across **18 meetings**
+- **First mention:** 2021-07-12  |  **Most recent:** 2026-05-14
 - **Technologies discussed:** alpr, body_camera, drone, facial_recognition, predictive_policing, surveillance_general
-- **Coverage:** 348 of 1,712 known North Haven meetings transcribed (20%)
-- **Still incomplete:** 1,364 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 398 of 1,712 known North Haven meetings transcribed (23%)
+- **Still incomplete:** 1,314 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -70,7 +70,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | --- | --- | --- | --- | --- |
 | alpr | 10 | 3 | 2023-07-25 | 2026-02-25 |
 | body_camera | 9 | 2 | 2026-02-18 | 2026-02-18 |
-| drone | 54 | 5 | 2024-02-01 | 2026-05-14 |
+| drone | 56 | 7 | 2021-07-12 | 2026-05-14 |
 | facial_recognition | 1 | 1 | 2025-09-29 | 2025-09-29 |
 | predictive_policing | 2 | 2 | 2023-02-27 | 2023-04-03 |
 | surveillance_general | 4 | 3 | 2023-11-28 | 2026-01-10 |
@@ -78,7 +78,21 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ## Timeline
 
-16 meetings surfaced a finding (16 dated, spanning 2023-02-27 to 2026-05-14; 0 of unknown date, listed last).
+18 meetings surfaced a finding (18 dated, spanning 2021-07-12 to 2026-05-14; 0 of unknown date, listed last).
+
+
+### 2021-07-12 -- Planning & Zoning Commission
+
+**Planning & Zoning - 07/12/2021** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ETOm6IVsm9s&t=5536s)  > ...thank you Vern um I'll try not to drone on and be too redundant we all know what that's like I'm not trying to cut you short but we...
+
+
+### 2021-09-13 -- Planning & Zoning Commission
+
+**Planning & Zoning 9-13-2021** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=KuNDGV5fUvY&t=11742s)  > ...you know how can you you know look at amazon and building with a drone for god's sakes yeah well they could fly right over and...
 
 
 ### 2023-02-27 -- Town Meeting
@@ -447,8 +461,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4L18el_Zt1g&t=2253s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...Hickson, applicant and PC Postal 9 LLC owner relative to 409 Washington Avenue, map 90, lot 60, drone delivery, IL 80 zoning district. Good evening, commissioners. My name is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=2962s)  _(term: drone, unreviewed)_
+  > ...there are several, have to maintain FAA certification to conduct drone delivery operations. This is our Mark 30 drone that we would employ at this site. It's been...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3101s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...have to maintain FAA certification to conduct drone delivery operations. This is our Mark 30 drone that we would employ at this site. It's been operational since the end of 2024. It's...
@@ -467,8 +481,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=4057s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...Laura did provide some questions ahead of this presentation regarding operations of drone delivery, FAA approvals, and more. I was hoping if possible we go through a brief...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=2992s)  _(term: drone, unreviewed)_
+  > ...Prime Air is Amazon's drone delivery business. We've been delivering via drone since 2022. We started in Texas with the goal of delivering to customers safely in 60 minutes or less using a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3040s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...sensory feedback. So for example in Arizona we did have a hot air balloon that our drone picked up from 1,000 ft away. It was not pinging on ADSB radar but our drone was able to pick it up...
@@ -487,8 +501,8 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3898s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...correct. We are here to discuss the land use component. However, we are required to seek FAA approval to conduct drone operations. And so the goal is to harmonize the land use and the federal...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3019s)  _(term: drone, unreviewed)_
+  > ...>> [clears throat] >> You're on. Okay. Prime Air is Amazon's drone delivery business. We've been delivering via drone since 2022. We started in Texas...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3036s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...the best places to deliver and how can we ensure safe delivery. And so that's making sure that the drone does have ample space to get in. So we look at things like...
@@ -499,36 +513,36 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3888s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...>> [clears throat] >> You're on. Okay. Prime Air is Amazon's drone delivery business. We've been delivering via drone since 2022. We started in Texas...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3036s)  _(term: drone, unreviewed)_
-
-- **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...Prime Air is Amazon's drone delivery business. We've been delivering via drone since 2022. We started in Texas with the goal of delivering to customers safely in 60 minutes or less using a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3040s)  _(term: drone, unreviewed)_
-
-- **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...not a crash. It's called a safe contingent landing because it's a controlled way we put the drone down. We would then go and retrieve it. May I have your attention please. The...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3866s)  _(term: drone, unreviewed)_
+  > ...correct. We are here to discuss the land use component. However, we are required to seek FAA approval to conduct drone operations. And so the goal is to harmonize the land use and the federal...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3019s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...development in Illinois, Missouri, and other locations in Texas. A little bit about the drone. This is again manufactured by Amazon in Washington state. Prime Air is a part...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3088s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...drone to put itself on the ground as quickly and safely as possible. So the drone would stop from moving at a horizontal flight transition into vertical using its perception system...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3849s)  _(term: drone, unreviewed)_
+  > ...not a crash. It's called a safe contingent landing because it's a controlled way we put the drone down. We would then go and retrieve it. May I have your attention please. The...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3866s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...Washington state. Prime Air is a part 135 air carriage certificate. So commercial drone operators, of which there are several, have to maintain FAA certification to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3096s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
+  > ...drone to put itself on the ground as quickly and safely as possible. So the drone would stop from moving at a horizontal flight transition into vertical using its perception system...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3849s)  _(term: drone, unreviewed)_
+
+- **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
+  > ...Laura did provide some questions ahead of this presentation regarding operations of drone delivery, FAA approvals, and more. I was hoping if possible we go through a brief...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=2992s)  _(term: drone, unreviewed)_
+
+- **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...landing or what's called an SCL. That's a controlled manner where we command the drone to put itself on the ground as quickly and safely as possible. So the drone would stop from moving at a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3846s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
-  > ...there are several, have to maintain FAA certification to conduct drone delivery operations. This is our Mark 30 drone that we would employ at this site. It's been...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3101s)  _(term: drone, unreviewed)_
+  > ...Hickson, applicant and PC Postal 9 LLC owner relative to 409 Washington Avenue, map 90, lot 60, drone delivery, IL 80 zoning district. Good evening, commissioners. My name is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=2962s)  _(term: drone, unreviewed)_
 
 - **[2026-05-04] Planning & Zoning Commission** -- Planning & Zoning 05/04/2026
   > ...drone conduct a U-turn and come back. So if for example inclement weather is coming in and a drone has gone out they can have it turn around. This comes up in Arizona a lot with dust devils. We...
@@ -653,6 +667,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2024-02-01] Board of Selectmen** -- Board of Selectmen 02/01/2024
   > ...South Carolina uh there in South Carolina that were killed in the line of duty um in Jordan based on that drone attack and we do have a lot of town members who um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=T31kRQc6VAQ&t=2742s)  _(term: drone, unreviewed)_
+
+- **[2021-09-13] Planning & Zoning Commission** -- Planning & Zoning 9-13-2021
+  > ...you know how can you you know look at amazon and building with a drone for god's sakes yeah well they could fly right over and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KuNDGV5fUvY&t=11742s)  _(term: drone, unreviewed)_
+
+- **[2021-07-12] Planning & Zoning Commission** -- Planning & Zoning - 07/12/2021
+  > ...thank you Vern um I'll try not to drone on and be too redundant we all know what that's like I'm not trying to cut you short but we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ETOm6IVsm9s&t=5536s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -843,14 +865,14 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 2
 - Active meeting bodies: 11
-- Videos registered: 1712 (fetched: 348, no captions: 9)
+- Videos registered: 1712 (fetched: 398, no captions: 9)
 - Date range covered: 2013-11-01 to 2026-09-10 — **based on the 1481 of 1712 videos that carry a parseable upload date**; the other 231 are undated, so the real corpus may extend beyond this range in either direction
 
 
@@ -866,8 +888,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| nhtv18 | streams | 2026-09-07 16:24:02.621920 | 80 |
-| nhtv18 | videos | 2026-09-07 16:24:01.033531 | 1059 |
+| nhtv18 | streams | 2026-09-10 13:30:05.122827 | 80 |
+| nhtv18 | videos | 2026-09-10 13:30:03.492074 | 1059 |
 | north_haven_vimeo | videos | 2026-09-06 12:22:31.563553 | 1074 |
 
 
@@ -911,9 +933,9 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | 2026-08-27 15:11:36.952061 | channel_found | "NHTV18" (UCiKeHsaHKyGMLZb8rNv1VuQ, @NHTV18) confirmed via direct yt-dlp --skip-download --print channel probe -- North Haven's community-access channel (cable 18), carrying Board of Selectmen, Board of Finance, Board of Education, Police Commission, Fire Commission and Planning & Zoning meetings. | yt-dlp channel probe + --flat-playlist crawl of both tabs (WebSearch budget exhausted, ytsearch: fallback), 2026-08-27 | claude |
 | 2026-09-06 12:21:45.163798 | channel_found | North Haven publishes 1,074 meeting videos on Vimeo (user53141106), running 2016-05-05 to 2026-09-03 -- the largest non-YouTube archive found in this project after Stamford. The same catalogue is served as a VimeoPro showcase, vimeopro.com/northhaventv/nhtv-on-demand-videos, which is what the town's own site embeds. Recorded in research_log on 2026-08-27 but deliberately not registered as a channel because a non-YouTube row then broke the nightly fetch batch; that batch gained a platform filter the same day, so the obstacle had already been removed. | yt-dlp flat listing of the Vimeo channel + the embed on northhaven-ct.gov, 2026-09-06 | claude |
 | 2026-08-27 15:11:36.952061 | collision_check_haven_towns | COLLISION RISK CHECKED: New Haven and West Haven are already onboarded and East Haven/Hamden are neighbours. Full CT-town-name scan of the 1,133-title corpus: 184 "North Haven" titles; other towns appear only in single digits (Old Saybrook 11, Fairfield 9, Shelton 8, West Haven 5, Cheshire 5, Hamden 5, New Haven 3) and every one of those is a high-school sports opponent or a regional event, not another town's government meeting. NHTV18 is not a shared regional channel; patterns left unanchored since essentially every real meeting title is bare. | Python CT-town-name scan of the full combined corpus, 2026-08-27 | claude |
-| 2026-08-27 15:15:18.656255 | dry_run_sanity_check | nhtv18: /videos 1056 listed / 587 matched, /streams 77 listed / 45 matched. Combined 632/1133 (55.8%). | ingest/fetch_channel_transcripts.py --tabs videos,streams --mode filtered --dry-run against the live DB after seeding, 2026-08-27 | claude |
+| 2026-08-27 15:15:18.656255 | dry_run_sanity_check | nhtv18: /videos 1056 listed / 587 matched, /streams 77 listed / 45 matched. Combined 632/1133 (55.8%). | the transcript fetcher --tabs videos,streams --mode filtered --dry-run against the live DB after seeding, 2026-08-27 | claude |
 | 2026-08-27 15:15:18.656255 | patterns_validated_from_real_titles | 632/1133 combined-tab titles matched (55.8%) across 11 registered bodies, including 88 Police Commission and 85 Fire Commission titles. The comparatively low overall rate is honest: NHTV18 is a full community-television channel and roughly half its output is high-school sports, parades, senior-center programming and local talk shows, which correctly match no meeting body. | Python pattern validation against the full combined corpus, 2026-08-27 | claude |
-| 2026-08-27 15:11:36.952061 | secondary_source_not_registered | The town's OWN .gov names a Vimeo archive as its official video source: northhaven-ct.gov/government/public_meetings links "Video & Livestream Archive" to vimeo.com/user53141106. NOT registered as a channels/town_channels row on purpose -- run-fetch-batch.sh selects every town_channels row with no platform filter and fetch_channel_transcripts.py hard-exits on platform != youtube, so a Vimeo row fails the scheduled batch every run (as the pre-existing redding_ct_vimeo row already does). NHTV18 carries the same meetings on YouTube and is registered instead. | r.jina.ai extraction of northhaven-ct.gov/government/public_meetings + reading scripts/run-fetch-batch.sh, 2026-08-27 | claude |
+| 2026-08-27 15:11:36.952061 | secondary_source_not_registered | The town's OWN .gov names a Vimeo archive as its official video source: northhaven-ct.gov/government/public_meetings links "Video & Livestream Archive" to vimeo.com/user53141106. NOT registered as a channels/town_channels row on purpose -- the batch fetch script selects every town_channels row with no platform filter and the transcript fetcher hard-exits on platform != youtube, so a Vimeo row fails the scheduled batch every run (as the pre-existing redding_ct_vimeo row already does). NHTV18 carries the same meetings on YouTube and is registered instead. | r.jina.ai extraction of northhaven-ct.gov/government/public_meetings + reading the batch fetch script, 2026-08-27 | claude |
 | 2026-09-06 12:21:45.163798 | vimeo_downloads_require_an_account | Vimeo no longer serves anonymous downloads. As of 2026-09-06, vimeo.com/<id> returns "The Vimeo extractor only works when logged-in", player.vimeo.com/video/<id>/config returns 403, and the VimeoPro URL returns 401. yt-dlp 2026.08.19 with curl_cffi impersonation installed reaches an OAuth request and is refused with 401; the android and ios extractor clients report they can only reuse previously cached tokens. Listing is unaffected, so these towns can be catalogued but not archived until an account cookie is available. This applies to every Vimeo town, not just this one. | Tested against two accounts and videos from 2013, 2018 and 2026, 2026-09-06 | claude |
 
 
@@ -945,5 +967,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:37:42 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "North Haven"`_
+_Generated 2026-09-10T14:11:15 from North Haven's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Old Say
 - **61 mentions** across **23 meetings**
 - **First mention:** 2025-01-28  |  **Most recent:** 2026-08-27
 - **Technologies discussed:** alpr, body_camera, drone
-- **Coverage:** 340 of 342 known Old Saybrook meetings transcribed (99%)
+- **Coverage:** 342 of 345 known Old Saybrook meetings transcribed (99%)
 - **Not the full history:** transcripts begin **2024-01-08**, but Old Saybrook's published video archive goes back to **2021-02-03**. Meetings before 2024 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 - **11 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
@@ -882,15 +882,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 21
-- Videos registered: 342 (fetched: 340, no captions: 1)
-- Date range covered: 2021-02-03 to 2026-09-01 (all 342 videos dated)
+- Videos registered: 345 (fetched: 342, no captions: 1)
+- Date range covered: 2021-02-03 to 2026-09-10 (all 345 videos dated)
 
 
 ### Channels
@@ -904,8 +904,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| old_saybrook_ct | streams | 2026-09-07 16:39:14.643660 | 2 |
-| old_saybrook_ct | videos | 2026-09-07 16:39:13.925067 | 412 |
+| old_saybrook_ct | streams | 2026-09-10 11:56:02.574869 | 2 |
+| old_saybrook_ct | videos | 2026-09-10 11:56:01.848330 | 415 |
 
 
 ## Registered meeting bodies
@@ -916,8 +916,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Joint Board of Selectmen & Board of Finance | budget_finance | True | 0 |
 | Pension and Benefits Board | budget_finance | True | 15 |
 | Architectural Review Board | other | True | 23 |
-| Board of Selectmen | other | True | 40 |
-| Conservation Commission | other | True | 21 |
+| Board of Selectmen | other | True | 41 |
+| Conservation Commission | other | True | 22 |
 | Economic Development Commission | other | True | 16 |
 | Ethics Commission | other | True | 1 |
 | Harbor Management Commission | other | True | 17 |
@@ -930,7 +930,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Tree Committee | other | True | 5 |
 | Waste Recovery Task Force | other | True | 1 |
 | Youth & Family Services Commission | other | True | 12 |
-| Zoning Board of Appeals | other | True | 21 |
+| Zoning Board of Appeals | other | True | 22 |
 | Zoning Commission | other | True | 2 |
 | Police Commission | public_safety | True | 33 |
 
@@ -941,8 +941,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 315 (fetched: 301)
-- Date range covered: 2026-01-06 to 2026-09-14
+- Documents registered: 320 (fetched: 306)
+- Date range covered: 2026-01-06 to 2026-09-16
 
 
 ### Agenda sources
@@ -980,5 +980,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:38:38 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Old Saybrook"`_
+_Generated 2026-09-10T14:13:10 from Old Saybrook's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Bethany
 - **15 mentions** across **6 meetings**
 - **First mention:** 2025-10-07  |  **Most recent:** 2026-08-19
 - **Technologies discussed:** alpr, drone, facial_recognition, predictive_policing
-- **Coverage:** 132 of 190 known Bethany meetings transcribed (69%)
+- **Coverage:** 133 of 190 known Bethany meetings transcribed (70%)
 - **Not the full history:** transcripts begin **2024-01-02**, but Bethany's published video archive goes back to **2022-10-18**. Meetings before 2024 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -405,14 +405,14 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 190 (fetched: 132, no captions: 4)
+- Videos registered: 190 (fetched: 133, no captions: 5)
 - Date range covered: 2022-10-18 to 2026-09-08 (all 190 videos dated)
 
 
@@ -427,8 +427,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| bethany_ct | streams | 2026-09-07 16:45:32.066617 | 94 |
-| bethany_ct | videos | 2026-09-07 16:45:30.317384 | 102 |
+| bethany_ct | streams | 2026-09-10 13:40:12.169797 | 94 |
+| bethany_ct | videos | 2026-09-10 13:40:10.360800 | 102 |
 
 
 ## Registered meeting bodies
@@ -472,10 +472,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (4 shown, max 25)
+### Videos with no captions available (5 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| 09/08/2026 Board of Finance | Bethany, CT | 2026-09-08 |
 | 04/13/2026 Zoning Board of Appeals | Bethany, CT | 2026-04-13 |
 | 02/25/2026 Parks & Recreation Commission | Bethany, CT | 2026-02-25 |
 | 02/10/2026 Board of Finance | Bethany, CT | 2026-02-10 |
@@ -490,5 +491,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:27:48 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bethany"`_
+_Generated 2026-09-10T13:55:53 from Bethany's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

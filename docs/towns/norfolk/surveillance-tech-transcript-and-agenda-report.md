@@ -282,7 +282,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
@@ -304,7 +304,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| botelle_media | videos | 2026-09-07 17:02:35.111341 | 44 |
+| botelle_media | videos | 2026-09-10 12:06:52.080815 | 44 |
 
 
 ## Registered meeting bodies
@@ -341,7 +341,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | 2026-08-27 15:11:35.511444 | agenda_platform | WordPress site serving agenda/minutes PDFs from an S3 bucket: norfolkct-media.s3.us-east-2.amazonaws.com/wp-content/uploads/<year>/<month>/<file>.pdf. Same custom-S3 shape as Barkhamsted's and Canaan's document platforms. Not a recognized vendor. | r.jina.ai extraction of norfolkct.org and its board pages, 2026-08-27 | claude |
 | 2026-08-27 15:11:35.511444 | both_tabs_checked | botelle_media: /videos 44 titles; /streams tab does not exist (yt-dlp: "This channel does not have a streams tab"). | yt-dlp --flat-playlist crawl of both tabs, 2026-08-27 | claude |
 | 2026-08-27 15:11:35.511444 | channel_found | "Botelle Media" (UCszM4--vdcO5WCbXvNAyyIQ) confirmed as Norfolk CT's Board of Education video source -- found by resolving the per-meeting YouTube "Recording" link (hhOJl9yu0wI, "Norfolk Board of Ed - May 2024") published on norfolkct.org's own Board of Education page. Botelle Elementary is Norfolk CT's own school. 44 /videos titles, 40 containing "Norfolk"; no /streams tab (yt-dlp confirmed). Not shared with another town. | r.jina.ai extraction of norfolkct.org/board-of-education + yt-dlp video->channel resolution + --flat-playlist crawl of both tabs, 2026-08-27 | claude |
-| 2026-08-27 15:15:17.247138 | dry_run_sanity_check | botelle_media: /videos 44 listed / 42 matched, no /streams tab. Combined 42/44 (95.5%). | ingest/fetch_channel_transcripts.py --tabs videos,streams --mode filtered --dry-run against the live DB after seeding, 2026-08-27 | claude |
+| 2026-08-27 15:15:17.247138 | dry_run_sanity_check | botelle_media: /videos 44 listed / 42 matched, no /streams tab. Combined 42/44 (95.5%). | the transcript fetcher --tabs videos,streams --mode filtered --dry-run against the live DB after seeding, 2026-08-27 | claude |
 | 2026-08-27 15:11:35.511444 | false_lead_rejected_out_of_state | MAJOR FALSE LEAD: "Norfolk Community Television (NCTV)" (UCyBCWjPauEsLGgFqfivJI3Q, @NorfolkCable) is Norfolk, MASSACHUSETTS -- it is the top ytsearch hit for "Norfolk Connecticut Board of Selectmen meeting" and carries 4,416 titles of real-looking government meetings. Rejected on two independent grounds: (a) its body vocabulary is Massachusetts, not Connecticut -- "Select Board", "Planning Board", "School Committee", "Advisory Committee" (the MA finance-committee equivalent); (b) a marker scan of the full 4,416-title corpus found 75 Massachusetts-specific references (King Philip Regional / King Philip School Committee, Freeman Kennedy School, Wrentham, Walpole, Millis, Medway) and ZERO Norfolk CT markers (Botelle School, Infinity Hall, Region 7/Northwestern Regional, Winsted, Colebrook, Canaan, Goshen, Litchfield). NOT registered. | yt-dlp --flat-playlist crawl of both NCTV tabs + Python vocabulary/marker analysis of the full corpus, 2026-08-27 | claude |
 | 2026-08-27 15:15:17.247138 | patterns_validated_from_real_titles | 42/44 titles matched (95.5%). The 3 unmatched are a school Winter Concert, a Veteran's Day Celebration, and one "Norfolk Bd of Ed - April 2024 Meeting" variant now covered by the broadened pattern. | Python pattern validation against the full 44-title corpus, 2026-08-27 | claude |
 | 2026-08-27 15:11:35.511444 | platform_blocker_town_government | Norfolk CT town-government meetings are NOT fetchable: norfolkct.org's "Municipal Meetings" listing marks meetings "VIA ZOOM" and "HYBRID (In-Person, ZOOM)", and the five per-meeting YouTube "Recording" links found on the Board of Selectmen page (OMd1bpnD7eU, pxqg_TUjlH0, zmIizBZ2OKE, jwLpa1ikAcY, tXObjNrlbPA) ALL resolve to "Video unavailable" -- unlisted or removed one-off uploads with no stable parent channel. Same Zoom-blocked shape as Goshen and Morris. Board of Selectmen / P&Z / Conservation registered as zero-coverage bodies so the gap is visible. | r.jina.ai extraction of norfolkct.org/municipal-meetings and /board-of-selectmen + yt-dlp probes of each linked video ID, 2026-08-27 | claude |
@@ -365,5 +365,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:37:19 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Norfolk"`_
+_Generated 2026-09-10T14:10:31 from Norfolk's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

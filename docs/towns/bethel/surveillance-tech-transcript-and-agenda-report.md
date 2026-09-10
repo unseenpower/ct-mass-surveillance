@@ -8,8 +8,8 @@ This report collects every mention of surveillance technology found in **Bethel*
 - **50 mentions** across **26 meetings**
 - **First mention:** 2021-03-16  |  **Most recent:** 2026-03-10
 - **Technologies discussed:** alpr, body_camera, drone, surveillance_general
-- **Coverage:** 730 of 989 known Bethel meetings transcribed (74%)
-- **Still incomplete:** 259 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 755 of 990 known Bethel meetings transcribed (76%)
+- **Still incomplete:** 235 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -715,15 +715,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 13
-- Videos registered: 989 (fetched: 730, no captions: 2)
-- Date range covered: 2016-03-03 to 2026-09-01 — **based on the 987 of 989 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 990 (fetched: 755, no captions: 3)
+- Date range covered: 2016-03-03 to 2026-09-08 — **based on the 988 of 990 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -737,8 +737,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| bethel_ct | streams | 2026-09-07 16:38:04.591288 | 31 |
-| bethel_ct | videos | 2026-09-07 16:38:03.532182 | 1114 |
+| bethel_ct | streams | 2026-09-10 11:54:43.789866 | 31 |
+| bethel_ct | videos | 2026-09-10 11:54:42.740747 | 1115 |
 
 
 ## Registered meeting bodies
@@ -751,7 +751,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Economic Development Commission | other | True | 0 |
 | Inland Wetlands Commission | other | True | 72 |
 | Insurance & Pension Commission | other | True | 19 |
-| Planning & Zoning Commission | other | True | 103 |
+| Planning & Zoning Commission | other | True | 104 |
 | Public Site & Building Commission | other | True | 137 |
 | Public Utilities Commission | other | True | 113 |
 | Sustainable Bethel Commission | other | True | 32 |
@@ -789,10 +789,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (2 shown, max 25)
+### Videos with no captions available (3 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Planning & Zoning Commission Regular Meeting - 09/08/2026 | 2026-09-08 |
 | Planning & Zoning Commission Regular Meeting - 06/23/2026 | 2026-06-23 |
 | 2016-2017 Board of Finance Budget |  |
 
@@ -805,5 +806,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:27:55 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bethel"`_
+_Generated 2026-09-10T13:56:03 from Bethel's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

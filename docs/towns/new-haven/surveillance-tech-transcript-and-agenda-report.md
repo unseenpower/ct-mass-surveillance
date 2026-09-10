@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **New Hav
 - **182 mentions** across **35 meetings**
 - **First mention:** 2020-05-20  |  **Most recent:** 2026-06-30
 - **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone, facial_recognition, gunshot_detection, predictive_policing, rtcc
-- **Coverage:** 613 of 674 known New Haven meetings transcribed (91%)
+- **Coverage:** 613 of 675 known New Haven meetings transcribed (91%)
 - **55 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
@@ -2110,15 +2110,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 2
 - Active meeting bodies: 12
-- Videos registered: 674 (fetched: 613, no captions: 57)
-- Date range covered: 2020-05-14 to 2026-09-03 — **based on the 644 of 674 videos that carry a parseable upload date**; the other 30 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 675 (fetched: 613, no captions: 58)
+- Date range covered: 2020-05-14 to 2026-09-08 — **based on the 645 of 675 videos that carry a parseable upload date**; the other 30 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -2133,10 +2133,10 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| board_of_alders | streams | 2026-09-07 16:35:58.940557 | 806 |
-| board_of_alders | videos | 2026-09-07 16:35:48.290566 | 12 |
-| new_haven_boe | streams | 2026-09-07 16:56:53.509837 | 149 |
-| new_haven_boe | videos | 2026-09-07 16:56:51.048555 | 85 |
+| board_of_alders | streams | 2026-09-10 11:52:24.388268 | 808 |
+| board_of_alders | videos | 2026-09-10 11:52:12.792392 | 12 |
+| new_haven_boe | streams | 2026-09-10 12:00:32.455999 | 149 |
+| new_haven_boe | videos | 2026-09-10 12:00:30.049632 | 86 |
 
 
 ## Registered meeting bodies
@@ -2144,7 +2144,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Finance Committee | budget_finance | True | 88 |
-| Board of Alders | council | True | 144 |
+| Board of Alders | council | True | 145 |
 | Board of Education | education | True | 153 |
 | Aldermanic Affairs Committee | other | True | 26 |
 | City Services and Environmental Policy Committee | other | True | 37 |
@@ -2163,8 +2163,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 2115 (fetched: 2079)
-- Date range covered: 2012-10-24 to 2026-09-08
+- Documents registered: 2117 (fetched: 2081)
+- Date range covered: 2012-10-24 to 2026-09-14
 
 
 ### Agenda sources
@@ -2192,6 +2192,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | title | upload_date |
 | --- | --- |
+| Full Board of Alders meeting 9/8/2026 | 2026-09-08 |
 | BoA Education Committee 8/26/26 | 2026-08-26 |
 | BoA Public Safety Committee 7.21.26 | 2026-07-21 |
 | BoA Finance Committee 7/13/2026 | 2026-07-13 |
@@ -2201,8 +2202,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Community Development Committee 11.19.25 | 2025-11-19 |
 | Full Board of Alders meeting  5/5/2025 | 2025-05-05 |
 | BoA Community Development Committee 4.29.25 | 2025-04-29 |
-| New Haven Board of Education Special Board Meeting 3-25-25 | 2025-03-25 |
 | BoA Tax Abatement Committee 3/25/2025 | 2025-03-25 |
+| New Haven Board of Education Special Board Meeting 3-25-25 | 2025-03-25 |
 | BoA Finance Committee 3/20/2025 | 2025-03-20 |
 | BoA Finance Committee 2/10/2025 | 2025-02-10 |
 | BoA Tax Abatement Committee 11/26/2024 | 2024-11-26 |
@@ -2216,7 +2217,6 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | BoA Public Safety Committee 5.16.23 | 2023-05-16 |
 | BoA Public Safety Committee 3.21.23 | 2023-03-21 |
 | Board of Alders 12-5-2022 | 2022-12-05 |
-| BoA Public Safety Committee 11-15-2022 | 2022-11-15 |
 
 
 ### Tabs never crawled
@@ -2227,5 +2227,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:36:48 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Haven"`_
+_Generated 2026-09-10T14:09:38 from New Haven's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

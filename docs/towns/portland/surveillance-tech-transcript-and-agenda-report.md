@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Portlan
 - **9 mentions** across **9 meetings**
 - **First mention:** 2022-09-01  |  **Most recent:** 2026-02-26
 - **Technologies discussed:** alpr, drone
-- **Coverage:** 208 of 475 known Portland meetings transcribed (44%)
+- **Coverage:** 231 of 475 known Portland meetings transcribed (49%)
 - **Not the full history:** transcripts begin **2014-10-10**, but Portland's published video archive goes back to **2013-05-01**. Meetings before 2014 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -386,14 +386,14 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 475 (fetched: 208, no captions: 5)
+- Videos registered: 475 (fetched: 231, no captions: 7)
 - Date range covered: 2013-05-01 to 2026-09-02 (all 475 videos dated)
 
 
@@ -408,8 +408,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| portland_ct | streams | 2026-09-07 16:41:25.610119 | 230 |
-| portland_ct | videos | 2026-09-07 16:41:22.223192 | 686 |
+| portland_ct | streams | 2026-09-10 11:58:31.410838 | 230 |
+| portland_ct | videos | 2026-09-10 11:58:26.441439 | 686 |
 
 
 ## Registered meeting bodies
@@ -449,13 +449,13 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | 2026-08-27 16:02:04.277917 | agenda_platform_found | portlandct.org/agendas-minutes -- custom CMS, no CivicPlus / CivicClerk / Granicus / AgendaCenter branding found in the page source. | curl of portlandct.org, 2026-08-27 | claude |
 | 2026-08-27 16:02:04.277917 | channel_found | portland_ct -- "Town of Portland" (UCTtakKUX2S24EfX_t9MdAFw, @TownofPortland), confirmed via direct yt-dlp probe AND independently corroborated by portlandct.org, which links youtube.com/@TownofPortland from its own home page. 685 /videos + 229 /streams = 914 titles, both tabs crawled. | yt-dlp ytsearch12:"Portland Connecticut Board of Selectmen meeting" + direct probe + curl of portlandct.org, 2026-08-27 | claude |
 | 2026-08-27 16:02:04.277917 | out_of_state_collision_ruled_out | Portland OR and Portland ME are both large collisions. Ruled out four ways: (1) portlandct.org -- the Town of Portland CT's own site -- links this exact channel; (2) 84+ titles read literally "Portland CT Board of Selectmen"; (3) the governing body is a Board of Selectmen, a New England town form -- Portland OR has a City Council, Portland ME a City Council/Mayor, neither has selectmen; (4) corpus titles include "Portland, Connecticut Timeline: 200 Millions Years Ago to Today" and "Portland High School (CT) Marching Band". | curl of portlandct.org + full 914-title corpus inspection, 2026-08-27 | claude |
-| 2026-08-27 16:02:04.277917 | patterns_validated_from_real_titles | COMBINED 473/914 (51.8%) across BOTH tabs (/videos 685, /streams 229). The 441 unmatched titles are correctly non-meeting content: "Town of Portland Podcast" (78 eps), "Portland Public Schools Podcast" (44 eps), "Voices of Portland" oral histories, master-plan workshops, water-utility PSAs. Board of Selectmen accounts for 373 of the 473 matches. Board of Finance, Inland Wetlands and WPCA all matched ZERO titles and were deliberately NOT registered, per the seed_north_canaan.sql convention of not seeding zero-coverage bodies. | yt-dlp --flat-playlist crawls of both tabs + Python pattern validation, 2026-08-27 | claude |
+| 2026-08-27 16:02:04.277917 | patterns_validated_from_real_titles | COMBINED 473/914 (51.8%) across BOTH tabs (/videos 685, /streams 229). The 441 unmatched titles are correctly non-meeting content: "Town of Portland Podcast" (78 eps), "Portland Public Schools Podcast" (44 eps), "Voices of Portland" oral histories, master-plan workshops, water-utility PSAs. Board of Selectmen accounts for 373 of the 473 matches. Board of Finance, Inland Wetlands and WPCA all matched ZERO titles and were deliberately NOT registered, per the a seed script convention of not seeding zero-coverage bodies. | yt-dlp --flat-playlist crawls of both tabs + Python pattern validation, 2026-08-27 | claude |
 
 
 ## Gaps and caveats
 
 
-### Videos with no captions available (5 shown, max 25)
+### Videos with no captions available (7 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
@@ -464,6 +464,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Board of Selectmen | Town Meeting | Portland, CT | 2/7/24 | 2024-02-07 |
 | Board of Selectmen | Public Hearing | Portland, CT | 3/14/23 | 2023-03-14 |
 | Board of Selectmen | Public Hearing | Portland, CT | 3/14/23 | 2023-03-14 |
+| Board of Selectmen | Portland, CT | 2/2/22 | 2022-02-02 |
+| Board of Selectmen | Portland, CT | 9/22/21 | 2021-09-22 |
 
 
 ### Tabs never crawled
@@ -474,5 +476,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:39:24 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Portland"`_
+_Generated 2026-09-10T14:14:22 from Portland's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

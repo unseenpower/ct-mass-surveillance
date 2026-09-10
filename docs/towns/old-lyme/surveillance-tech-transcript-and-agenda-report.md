@@ -8,9 +8,9 @@ This report collects every mention of surveillance technology found in **Old Lym
 - **106 mentions** across **50 meetings**
 - **First mention:** 2022-01-12  |  **Most recent:** 2026-08-11
 - **Technologies discussed:** alpr, body_camera, drone, predictive_policing
-- **Coverage:** 629 of 891 known Old Lyme meetings transcribed (71%)
+- **Coverage:** 631 of 893 known Old Lyme meetings transcribed (71%)
 - **Not the full history:** transcripts begin **2021-01-13**, but Old Lyme's published video archive goes back to **2020-01-07**. Meetings before 2021 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-- **4 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
+- **5 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -1071,6 +1071,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
+- **[2026-09-08] Road and Public Safety Committee** -- Road and Public Safety Committee Minutes - 2026-09-08 (minutes)
+  > ...issues involving safe access/exiting from commercial
+       properties and concerns related to the Rt 1/Four Mile River Road intersection.
+B. Automated Traffic Enforcement Safety Devices (ATSED) and Flock Cameras
+
+   •   The Committee recognized Governor Lamont’s request that Connecticut municipalities
+       pause implementation of enforcement speed cameras until uniform guidelines regarding
+   ...
+  [View document ▸](https://ct-oldlyme.civicplus.com/AgendaCenter/ViewFile/Minutes/_09082026-3461)  _(term: alpr_flock, unreviewed)_
+
 - **[2026-09-08] Road and Public Safety Committee** -- Road and Public Safety Committee Agenda - 2026-09-08 (agenda)
   > ...dback Signs
                           Data Collection and Reports
@@ -1210,15 +1220,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 24
-- Videos registered: 891 (fetched: 629, no captions: 8)
-- Date range covered: 2020-01-07 to 2026-09-03 (all 891 videos dated)
+- Videos registered: 893 (fetched: 631, no captions: 8)
+- Date range covered: 2020-01-07 to 2026-09-08 (all 893 videos dated)
 
 
 ### Channels
@@ -1232,7 +1242,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| old_lyme_ct | videos | 2026-09-07 17:02:19.988561 | 957 |
+| old_lyme_ct | videos | 2026-09-10 12:06:35.312545 | 959 |
 
 
 ## Registered meeting bodies
@@ -1242,7 +1252,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | American Rescue Plan Committee | budget_finance | True | 22 |
 | Board of Finance | budget_finance | True | 97 |
 | Affordable Housing Commission | other | True | 56 |
-| Board of Selectmen | other | True | 146 |
+| Board of Selectmen | other | True | 147 |
 | Community Connectivity Grant Committee | other | True | 43 |
 | Conservation Commission | other | True | 13 |
 | Economic Development Commission | other | True | 59 |
@@ -1259,7 +1269,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Sound View Commission | other | True | 11 |
 | Sustainable Old Lyme | other | True | 9 |
 | Tree Commission | other | True | 9 |
-| WPCA | other | True | 76 |
+| WPCA | other | True | 77 |
 | Zoning Board of Appeals | other | True | 15 |
 | Zoning Commission | other | True | 37 |
 | Road and Public Safety Committee | public_safety | True | 8 |
@@ -1268,7 +1278,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 385 (fetched: 381)
+- Documents registered: 393 (fetched: 389)
 - Date range covered: 2026-01-05 to 2026-09-23
 
 
@@ -1316,5 +1326,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:38:27 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Old Lyme"`_
+_Generated 2026-09-10T14:12:51 from Old Lyme's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

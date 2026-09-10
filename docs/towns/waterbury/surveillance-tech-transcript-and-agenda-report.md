@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **Waterbury**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **65 mentions** across **33 meetings**
-- **First mention:** 2017-09-11  |  **Most recent:** 2026-07-23
+- **69 mentions** across **35 meetings**
+- **First mention:** 2017-09-11  |  **Most recent:** 2026-09-09
 - **Technologies discussed:** alpr, body_camera, drone, rtcc, surveillance_general
-- **Coverage:** 442 of 518 known Waterbury meetings transcribed (85%)
-- **Still incomplete:** 76 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 444 of 519 known Waterbury meetings transcribed (86%)
+- **Still incomplete:** 75 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -68,16 +68,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 5 | 5 | 2019-11-18 | 2024-11-12 |
+| alpr | 8 | 6 | 2019-11-18 | 2026-08-17 |
 | body_camera | 3 | 2 | 2020-09-21 | 2025-04-22 |
-| drone | 33 | 18 | 2017-09-11 | 2026-07-23 |
+| drone | 34 | 19 | 2017-09-11 | 2026-09-09 |
 | rtcc | 21 | 12 | 2022-06-02 | 2026-07-23 |
 | surveillance_general | 3 | 2 | 2025-07-14 | 2025-12-15 |
 
 
 ## Timeline
 
-33 meetings surfaced a finding (33 dated, spanning 2017-09-11 to 2026-07-23; 0 of unknown date, listed last).
+35 meetings surfaced a finding (35 dated, spanning 2017-09-11 to 2026-09-09; 0 of unknown date, listed last).
 
 
 ### 2017-09-11 -- Board of Aldermen
@@ -375,6 +375,24 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `rtcc` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LkrJLcEC3H4&t=379s)  > ...everything would be sent back to the police department where we would in our realtime crime center where we operate all those things. >> That's what I was wondering. So it's all...
 
 
+### 2026-08-17 -- Board of Aldermen
+
+**Waterbury Board of Aldermen Meeting - August 17, 2026** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=x4CgakCPh0g&t=841s)  > ...about geese and people. First, geese fly in a V formation. the whole flock by doing this adds 71% greater flying range than each bird would do so alone. What I take from that...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=x4CgakCPh0g&t=2409s)  > ...insured, and you're supposed to have a license to operate it. From that, I'll talk about the flock cameras for a second. People don't like them, but they're saying you don't want...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=x4CgakCPh0g&t=2415s)  > ...cameras for a second. People don't like them, but they're saying you don't want the flock cameras, but what about the cameras in the schools, the malls, the banks, Walmart, Stop and Shop, City...
+
+
+### 2026-09-09 -- Board of Aldermen
+
+**Waterbury Board of Aldermen Meeting - September 9, 2026** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YtJYkoX6H70&t=8691s)  > ...execution of contracts as submitted by Raphael Filino Roman alderman fifth district and Michael Dji Carlo board of alderman president. May I have a motion? >> So move second. I've received a motion...
+
+
 ## Findings by topic
 
 
@@ -384,6 +402,18 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 
 ### alpr
+
+- **[2026-08-17] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - August 17, 2026
+  > ...cameras for a second. People don't like them, but they're saying you don't want the flock cameras, but what about the cameras in the schools, the malls, the banks, Walmart, Stop and Shop, City...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=x4CgakCPh0g&t=2415s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-17] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - August 17, 2026
+  > ...insured, and you're supposed to have a license to operate it. From that, I'll talk about the flock cameras for a second. People don't like them, but they're saying you don't want...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=x4CgakCPh0g&t=2409s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-17] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - August 17, 2026
+  > ...about geese and people. First, geese fly in a V formation. the whole flock by doing this adds 71% greater flying range than each bird would do so alone. What I take from that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=x4CgakCPh0g&t=841s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-11-12] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - November 12, 2024
   > ...13,111 14.15 this contract consists of 20 license plate readers License Plate Reader cameras installed at nine locations in the city as submitted by...
@@ -418,12 +448,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=puiV4xeNl1w&t=1131s)  _(term: body_camera, unreviewed)_
 
 - **[2020-09-21] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - September 21, 2020
-  > ...earlier this month the waterbury police department began the first in a series of body worn camera trials axon was selected as the first body warrant for this trial axon has it's a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=HR3pHrqPSCA&t=2224s)  _(term: body_camera, unreviewed)_
-
-- **[2020-09-21] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - September 21, 2020
   > ...today's technology has built safeguards that will trigger the activation of a body-worn camera in any number of situations including when a firearm or a taser is drawn the waterbury police...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=HR3pHrqPSCA&t=2257s)  _(term: body_camera, unreviewed)_
+
+- **[2020-09-21] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - September 21, 2020
+  > ...earlier this month the waterbury police department began the first in a series of body worn camera trials axon was selected as the first body warrant for this trial axon has it's a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=HR3pHrqPSCA&t=2224s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -448,25 +478,41 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### drone
 
-- **[2026-07-23] Board of Education** -- Waterbury Board of Education Workshop and Meeting - July 23, 2026
-  > ...it is a rising threat. But that's only one part of this. We are going to be uh beginning a what's called as a drone as first responder program. So, we're adding three drones to our fleet so that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LkrJLcEC3H4&t=303s)  _(term: drone, unreviewed)_
+- **[2026-09-09] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - September 9, 2026
+  > ...execution of contracts as submitted by Raphael Filino Roman alderman fifth district and Michael Dji Carlo board of alderman president. May I have a motion? >> So move second. I've received a motion...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YtJYkoX6H70&t=8691s)  _(term: drone, unreviewed)_
 
 - **[2026-07-23] Board of Education** -- Waterbury Board of Education Workshop and Meeting - July 23, 2026
   > ...>> So that would obviously be a hazard to our very expensive and important uh drone system that we are employing. >> Thank you. >> Yes....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LkrJLcEC3H4&t=351s)  _(term: drone, unreviewed)_
+
+- **[2026-07-23] Board of Education** -- Waterbury Board of Education Workshop and Meeting - July 23, 2026
+  > ...it is a rising threat. But that's only one part of this. We are going to be uh beginning a what's called as a drone as first responder program. So, we're adding three drones to our fleet so that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LkrJLcEC3H4&t=303s)  _(term: drone, unreviewed)_
 
 - **[2026-07-13] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - July 13, 2026
   > ...that Shadow is still trapped inside. We will do our best to confirm with a thermal drone this evening. We have one trap inside the building thanks to the fire department that we cannot access to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JW4CctusSWQ&t=2188s)  _(term: drone, unreviewed)_
 
 - **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
+  > ...don't know that it would get the same information as a a camera. >> I don't know. A drone could take >> It was It was just a thought. >> I'm sorry. I think it's the um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12658s)  _(term: drone, unreviewed)_
+
+- **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
+  > ...that would be the difference >> right and I don't I don't I don't know of a drone I I don't know of a comparable program that a drone would be able to to accomplish that. It was just...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12692s)  _(term: drone, unreviewed)_
+
+- **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
   > ...this. So, maybe I'm off base, but just asking anyways. With drone technology now, would it be possible instead of having to have a plane...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12634s)  _(term: drone, unreviewed)_
 
 - **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
-  > ...don't know that it would get the same information as a a camera. >> I don't know. A drone could take >> It was It was just a thought. >> I'm sorry. I think it's the um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12658s)  _(term: drone, unreviewed)_
+  > ...>> Thank you. >> And it would be nice to see if someday it was able to be put on a drone where you could just have somebody out there playing....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12923s)  _(term: drone, unreviewed)_
+
+- **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
+  > ...>> right and I don't I don't I don't know of a drone I I don't know of a comparable program that a drone would be able to to accomplish that. It was just a thought. I mean, I'm not I don't know...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12694s)  _(term: drone, unreviewed)_
 
 - **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
   > ...bring up in a helicopter. Is that how or is it is that um with a drone? No, they uh they fly it with a plane and I I'm not technical, but they got I don't know 16 cameras or something...
@@ -476,21 +522,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...you ever seen it? Or you don't even know? >> I would think that a drone could fly. I don't know that it would get the same information as a a camera....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12652s)  _(term: drone, unreviewed)_
 
-- **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
-  > ...>> Thank you. >> And it would be nice to see if someday it was able to be put on a drone where you could just have somebody out there playing....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12923s)  _(term: drone, unreviewed)_
-
-- **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
-  > ...that would be the difference >> right and I don't I don't I don't know of a drone I I don't know of a comparable program that a drone would be able to to accomplish that. It was just...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12692s)  _(term: drone, unreviewed)_
-
-- **[2026-05-13] Board of Aldermen** -- Waterbury Board of Aldermen Second Special Department Heads Meeting - May 13, 2026
-  > ...>> right and I don't I don't I don't know of a drone I I don't know of a comparable program that a drone would be able to to accomplish that. It was just a thought. I mean, I'm not I don't know...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mSKwjiRHquY&t=12694s)  _(term: drone, unreviewed)_
-
 - **[2026-05-12] Board of Aldermen** -- Waterbury Board of Aldermen First Special Department Heads Meeting - May 12, 2026
   > ...people can receive training in, such as our forensics unit, our accident reconstruction unit. We have a drone unit. We have a mounted unit. There's just...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=F7FVpUqMlTA&t=1111s)  _(term: drone, unreviewed)_
+
+- **[2025-12-15] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - December 15, 2025
+  > ...grammar check, um kind of a report writing assistant program. Um AI is used uh you know uh in in the drone programs currently. um but on a limited basis. Um there is a lot of R&D that's going on uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UbSB_Gj3gOQ&t=25342s)  _(term: drone, unreviewed)_
 
 - **[2025-12-15] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - December 15, 2025
   > ...may have been watching some of the overviews from the recent water break that were provided by that drone system. It will also provide uh software for the real-time crime center that will connect...
@@ -499,10 +537,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2025-12-15] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - December 15, 2025
   > ...currently have going on and tools that we have at the police department. Uh, we have a very robust drone system. Many of you may be aware of that. Many of you may have been watching some of the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UbSB_Gj3gOQ&t=10879s)  _(term: drone, unreviewed)_
-
-- **[2025-12-15] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - December 15, 2025
-  > ...grammar check, um kind of a report writing assistant program. Um AI is used uh you know uh in in the drone programs currently. um but on a limited basis. Um there is a lot of R&D that's going on uh...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UbSB_Gj3gOQ&t=25342s)  _(term: drone, unreviewed)_
 
 - **[2025-06-23] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - June 23, 2025
   > ...day. The roof is cupped. The roof is cracked. The roof is starting to leak on the church. I put my son's drone up there. I'm not a structural engineer. I'm not a roofing contractor. You don't...
@@ -529,12 +563,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=amslkxOvR2c&t=1301s)  _(term: drone, unreviewed)_
 
 - **[2022-05-02] Board of Education** -- Waterbury Board of Education Workshop - May 2, 2022
-  > ...t cluster this grant will be used to particularly support our drone kits and our raspberry pi kits in our schools and if you've...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=u4wv2u8WPqY&t=3840s)  _(term: drone, unreviewed)_
-
-- **[2022-05-02] Board of Education** -- Waterbury Board of Education Workshop - May 2, 2022
   > ...if i think mike marotti has come in front of you before but those drone kits are really exciting we have a lot of students applying for...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=u4wv2u8WPqY&t=3849s)  _(term: drone, unreviewed)_
+
+- **[2022-05-02] Board of Education** -- Waterbury Board of Education Workshop - May 2, 2022
+  > ...t cluster this grant will be used to particularly support our drone kits and our raspberry pi kits in our schools and if you've...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=u4wv2u8WPqY&t=3840s)  _(term: drone, unreviewed)_
 
 - **[2021-10-07] Board of Education** -- Waterbury Board of Education Workshop - October 7, 2021
   > ...you leverage that technology for learning um we also launched that engineering drone software development and amazon future engineering programs at our schools...
@@ -561,12 +595,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ssXgJ3w5D4k&t=7734s)  _(term: drone, unreviewed)_
 
 - **[2021-04-01] Board of Education** -- Waterbury Board of Education Workshop  - April 1, 2021
-  > ...couldn't get this off the ground and running but uh this this this uh would allow us to to get those drone classes up and running for next year all...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ssXgJ3w5D4k&t=7748s)  _(term: drone, unreviewed)_
-
-- **[2021-04-01] Board of Education** -- Waterbury Board of Education Workshop  - April 1, 2021
   > ...students we had a lot of uh a lot of students interested in um um taking those drone classes last year we couldn't get this off the ground and running but uh this this this uh would...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ssXgJ3w5D4k&t=7742s)  _(term: drone, unreviewed)_
+
+- **[2021-04-01] Board of Education** -- Waterbury Board of Education Workshop  - April 1, 2021
+  > ...couldn't get this off the ground and running but uh this this this uh would allow us to to get those drone classes up and running for next year all...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ssXgJ3w5D4k&t=7748s)  _(term: drone, unreviewed)_
 
 - **[2018-09-06] Board of Education** -- Waterbury Board of Education Workshop — September 6, 2018
   > ...in the area of tech ed we have one exciting initiative at Kennedy which is a drone pilot program where we watch some pretty fancy equipment for the visual video production teacher I didn't...
@@ -638,12 +672,12 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mGx-rNl6tAE&t=5765s)  _(term: rtcc, unreviewed)_
 
 - **[2025-08-06] Board of Education** -- Waterbury Board of Education Workshop - August 6, 2025
-  > ...to go into lockdown which would be the time we use it we will get an alert at uh dispatch realtime crime center and then on our phones we know even before a 911 call is made that we have an issue...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mGx-rNl6tAE&t=4991s)  _(term: rtcc, unreviewed)_
-
-- **[2025-08-06] Board of Education** -- Waterbury Board of Education Workshop - August 6, 2025
   > ...uniform. um we have access in the places that the schools needed them and all this footage goes back to real-time crime center where it's watched 24/7. Um that is an important aspect considering...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mGx-rNl6tAE&t=4925s)  _(term: rtcc, unreviewed)_
+
+- **[2025-08-06] Board of Education** -- Waterbury Board of Education Workshop - August 6, 2025
+  > ...to go into lockdown which would be the time we use it we will get an alert at uh dispatch realtime crime center and then on our phones we know even before a 911 call is made that we have an issue...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mGx-rNl6tAE&t=4991s)  _(term: rtcc, unreviewed)_
 
 - **[2025-01-08] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - January 8, 2025
   > ...permanent restrooms there will be cameras that will be hooked up as part of those restrooms they will be part of the police surveillance system hooked right into the real-time crime Center which will uh be far more effective at understanding what's going on in that Park and making the responses better so I don't want want it to seem like nobody listened to the issues or took them...
@@ -662,12 +696,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TYt7tdsi9Fc&t=6777s)  _(term: rtcc, unreviewed)_
 
 - **[2024-07-11] Board of Education** -- Waterbury Board of Education Workshop - July 11, 2024
+  > ...Uniform laid out the same so that was and it's now we're all connected down to the real-time crime Center where somebody every day is watching the cameras and working with the schools so...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DTAKwD-c4Zk&t=4185s)  _(term: rtcc, unreviewed)_
+
+- **[2024-07-11] Board of Education** -- Waterbury Board of Education Workshop - July 11, 2024
   > ...working they were working off at different platforms um there was no connection to the real-time crime Center um we had no modern mapping for any of the schools which is an important key...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DTAKwD-c4Zk&t=4072s)  _(term: rtcc, unreviewed)_
 
-- **[2024-07-11] Board of Education** -- Waterbury Board of Education Workshop - July 11, 2024
-  > ...Uniform laid out the same so that was and it's now we're all connected down to the real-time crime Center where somebody every day is watching the cameras and working with the schools so...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DTAKwD-c4Zk&t=4185s)  _(term: rtcc, unreviewed)_
+- **[2023-08-03] Board of Education** -- Waterbury Board of Education Workshop & Special Meeting - August 3, 2023
+  > ...for emergency services as well as coordinated camera views in the alerting school down at the real-time crime Center so essentially interoperability between the school and emergency...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=amslkxOvR2c&t=4345s)  _(term: rtcc, unreviewed)_
 
 - **[2023-08-03] Board of Education** -- Waterbury Board of Education Workshop & Special Meeting - August 3, 2023
   > ...access entries reduce camera and server issues and now all schools are connected to the real-time crime Center via the Milestone platform which was and continues to be something...
@@ -676,10 +714,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2023-08-03] Board of Education** -- Waterbury Board of Education Workshop & Special Meeting - August 3, 2023
   > ...Security so just really quickly monitoring of all School sites via Personnel located at the real-time crime Center so in other words you watch all the cameras we go through we watch...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=amslkxOvR2c&t=4557s)  _(term: rtcc, unreviewed)_
-
-- **[2023-08-03] Board of Education** -- Waterbury Board of Education Workshop & Special Meeting - August 3, 2023
-  > ...for emergency services as well as coordinated camera views in the alerting school down at the real-time crime Center so essentially interoperability between the school and emergency...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=amslkxOvR2c&t=4345s)  _(term: rtcc, unreviewed)_
 
 - **[2022-11-14] Board of Aldermen** -- Waterbury Board of Aldermen Meeting - November 14, 2022
   > ...kind of a collaboration between Waterbury Police Department specifically the real-time crime Center which organizes and displays all of the cameras at some...
@@ -839,15 +873,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 2
 - Active meeting bodies: 6
-- Videos registered: 518 (fetched: 442, no captions: 13)
-- Date range covered: 2017-07-27 to 2026-09-03 — **based on the 512 of 518 videos that carry a parseable upload date**; the other 6 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 519 (fetched: 444, no captions: 14)
+- Date range covered: 2017-07-27 to 2026-09-09 — **based on the 513 of 519 videos that carry a parseable upload date**; the other 6 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -862,10 +896,10 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| city_of_waterbury | streams | 2026-09-07 16:42:35.142533 | 194 |
-| city_of_waterbury | videos | 2026-09-07 16:42:32.003720 | 117 |
-| waterbury_boe | streams | 2026-09-07 16:57:12.893415 | 145 |
-| waterbury_boe | videos | 2026-09-07 16:57:10.485676 | 205 |
+| city_of_waterbury | streams | 2026-09-10 13:36:58.215656 | 195 |
+| city_of_waterbury | videos | 2026-09-10 13:36:54.961252 | 117 |
+| waterbury_boe | streams | 2026-09-10 12:00:53.483824 | 145 |
+| waterbury_boe | videos | 2026-09-10 12:00:50.965915 | 205 |
 
 
 ## Registered meeting bodies
@@ -873,7 +907,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Finance and Audit Review Commission | budget_finance | True | 0 |
-| Board of Aldermen | council | True | 259 |
+| Board of Aldermen | council | True | 260 |
 | Board of Education | education | True | 258 |
 | Board of Public Works | other | True | 0 |
 | Charter Revision Commission | other | True | 1 |
@@ -906,17 +940,18 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | 2026-08-12 08:24:48.888858 | channel_found | city_of_waterbury (@cityofwaterbury2129) | City of Waterbury YouTube channel | claude |
 | 2026-08-12 08:24:48.888858 | channel_found | waterbury_boe (@waterburyboardofeducation7591) | Dedicated Board of Education replay channel, separate from city government channel | claude |
 | 2026-08-12 08:24:48.888858 | coverage_gap_confirmed | FARC, Board of Police Commissioners, and Board of Public Works all show 0 matches across a full unfiltered crawl of both tabs (310 titles) on the City of Waterbury channel | yt-dlp --flat-playlist crawl of youtube.com/@cityofwaterbury2129 videos+streams, 2026-08-12 | claude |
-| 2026-08-12 08:50:52.508426 | fetch_blocked_ratelimit | Full filtered fetch (515 videos) hit a YouTube rate-limit/bot-check block ("Sign in to confirm you are not a bot") mid-run, likely from cumulative request volume across Hartford/Bridgeport/New Haven earlier the same session (~1900+ yt-dlp calls total). Caught a real labeling bug in the process: fetch_channel_transcripts.py was silently discarding yt-dlp errors/exit codes and mislabeling every one of these as fetch_status=no_captions (confirmed absence) instead of error (could not check) -- fixed (CaptionFetchError now raised on non-zero yt-dlp exit, only a clean exit-0-with-no-file counts as genuine no_captions). All 515 videos reset from no_captions back to pending for a clean re-fetch. Block appears intermittent, not fully cleared as of this check. | Direct debugging session, 2026-08-12 | claude |
+| 2026-08-12 08:50:52.508426 | fetch_blocked_ratelimit | Full filtered fetch (515 videos) hit a YouTube rate-limit/bot-check block ("Sign in to confirm you are not a bot") mid-run, likely from cumulative request volume across Hartford/Bridgeport/New Haven earlier the same session (~1900+ yt-dlp calls total). Caught a real labeling bug in the process: the transcript fetcher was silently discarding yt-dlp errors/exit codes and mislabeling every one of these as fetch_status=no_captions (confirmed absence) instead of error (could not check) -- fixed (CaptionFetchError now raised on non-zero yt-dlp exit, only a clean exit-0-with-no-file counts as genuine no_captions). All 515 videos reset from no_captions back to pending for a clean re-fetch. Block appears intermittent, not fully cleared as of this check. | Direct debugging session, 2026-08-12 | claude |
 | 2026-08-12 08:24:48.888858 | governance_structure_confirmed | Board of Aldermen (15 at-large) has NO standing sub-committees, unlike Hartford/Bridgeport/New Haven -- budget/police/public-works oversight sits in separate independent boards: Finance and Audit Review Commission (FARC), Board of Police Commissioners, Board of Public Works | waterburyct.org/administration/boards-and-commissions/board-of-aldermen + waterburyct.org/boards-commissions/meetings/agendas-minutes | claude |
 
 
 ## Gaps and caveats
 
 
-### Videos with no captions available (13 shown, max 25)
+### Videos with no captions available (14 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Waterbury Board of Education Workshop - September 3, 2026 | 2026-09-03 |
 | Waterbury Board of Education Workshop - June 4, 2026 | 2026-06-04 |
 | Waterbury Board of Aldermen Third Special Department Heads Meeting - May 14, 2026 | 2026-05-14 |
 | Waterbury Board of Education Workshop - April 2, 2026 | 2026-04-02 |
@@ -940,5 +975,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:41:12 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Waterbury"`_
+_Generated 2026-09-10T14:17:38 from Waterbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 
