@@ -1,6 +1,6 @@
 # Doorbell-camera partnerships: every mention, every town
 
-_Generated 2026-09-10T14:23:57 — 28 mentions across 15 towns, 2020-03-12 to 2026-08-17._
+_Generated 2026-09-10T16:21:31 — 28 mentions across 15 towns, 2020-03-12 to 2026-08-17._
 
 
 Formal partnerships between police departments and consumer doorbell-camera networks such as Ring.

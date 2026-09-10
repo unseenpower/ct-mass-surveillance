@@ -173,7 +173,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **5-18-2026 Town Council Meeting** _(topics: drone)_
 
-- `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=ykNyikG92Aj4mCGg)  [jump to 22:08 ▸](https://vbfast-vod.viebit.com/coventry/ykNyikG92Aj4mCGg/GMT20260518-225628_Recording_640x360.mp4#t=1328)  > ...Next, we have Jamie DiPiola. Hey, good evening. I'm Jamie DiPiola, 80s Wall Street. I'm here today to thank town manager Jim Drone for his time and interest to discuss with me the Freedom 250 truck opportunity for cottagey. That, unfortunately, is no longer happening here. I noticed after reading his town council memo of May 14th to the consular summarizing this opportunity...
+- `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=ykNyikG92Aj4mCGg)  [jump to 22:08 ▸](https://vbfast-vod.viebit.com/coventry/ykNyikG92Aj4mCGg/GMT20260518-225628_Recording_640x360.mp4#t=1328)  > ...Next, we have Jamie DiPiola. Hey, good evening. I'm Jamie DiPiola, [address redacted] I'm here today to thank town manager Jim Drone for his time and interest to discuss with me the Freedom 250 truck opportunity for cottagey. That, unfortunately, is no longer happening here. I noticed after reading his town council memo of May 14th to the consular summarizing this opportunity...
 
 
 ### 2026-07-01 -- Town Council
@@ -262,7 +262,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=eglxa4Vo4xOVOKWj)  [jump to 0:22 ▸](https://vbfast-vod.viebit.com/coventry/eglxa4Vo4xOVOKWj/GMT20260701-225310_Recording_640x360.mp4#t=22)  _(term: drone, unreviewed)_
 
 - **[2026-05-18] Town Council** -- 5-18-2026 Town Council Meeting
-  > ...Next, we have Jamie DiPiola. Hey, good evening. I'm Jamie DiPiola, 80s Wall Street. I'm here today to thank town manager Jim Drone for his time and interest to discuss with me the Freedom 250 truck opportunity for cottagey. That, unfortunately, is no longer happening here. I noticed after reading his town council memo of May 14th to the consular summarizing this opportunity...
+  > ...Next, we have Jamie DiPiola. Hey, good evening. I'm Jamie DiPiola, [address redacted] I'm here today to thank town manager Jim Drone for his time and interest to discuss with me the Freedom 250 truck opportunity for cottagey. That, unfortunately, is no longer happening here. I noticed after reading his town council memo of May 14th to the consular summarizing this opportunity...
   [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=ykNyikG92Aj4mCGg)  [jump to 22:08 ▸](https://vbfast-vod.viebit.com/coventry/ykNyikG92Aj4mCGg/GMT20260518-225628_Recording_640x360.mp4#t=1328)  _(term: drone, unreviewed)_
 
 - **[2025-01-27] Town Council** -- 1-27-2025 Town Council Steering Committee Meeting
@@ -638,5 +638,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-10T13:58:18 from Coventry's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-10T16:01:35 from Coventry's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

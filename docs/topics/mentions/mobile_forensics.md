@@ -1,6 +1,6 @@
 # Mobile forensics: every mention, every town
 
-_Generated 2026-09-10T14:24:02 — 2 mentions across 1 towns, 2020-09-23 to 2021-10-13._
+_Generated 2026-09-10T16:21:33 — 2 mentions across 1 towns, 2020-09-23 to 2021-10-13._
 
 
 > **These are unreviewed keyword matches, not verified claims.** Each receipt below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous — "drone" can mean a bee, "flock" a bird — and auto-captions mis-transcribe. **Follow the timestamped link and listen before citing anything here.**

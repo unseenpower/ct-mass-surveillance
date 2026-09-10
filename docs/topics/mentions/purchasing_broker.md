@@ -1,6 +1,6 @@
 # Purchasing / procurement: every mention, every town
 
-_Generated 2026-09-10T14:23:53 — 30 mentions across 7 towns, 2011-03-22 to 2026-04-20._
+_Generated 2026-09-10T16:21:29 — 30 mentions across 7 towns, 2011-03-22 to 2026-04-20._
 
 
 How surveillance equipment is bought: sole-source awards, grant funding, co-operative purchasing contracts and reseller arrangements that can bypass ordinary competitive bidding and the public votes that go with it.

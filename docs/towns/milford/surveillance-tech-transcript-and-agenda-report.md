@@ -549,7 +549,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=687s)  > ...the towns again and also I'm also here for the flock cameras too. Um I'm for and against the flock cameras. I'm for it because it helped solve a murder in my neighborhood on East Broadway, but I...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=920s)  > ...Hey, how you doing? Uh my name is Tristan Howard, 75 Peak Avenue. Uh, I am here because I'm against the flock ALRP program currently running in the city. I've raised this issue before at...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=920s)  > ...Hey, how you doing? Uh my name is Tristan Howard, [address redacted] Uh, I am here because I'm against the flock ALRP program currently running in the city. I've raised this issue before at...
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1022s)  > ...got to get these cameras out of here. In March, I filed a Freedom of Information request. This is my flock data. This is crazy. What are we doing? I'm traveling around the city and you got me 168...
 
@@ -1219,7 +1219,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=3089s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...Hey, how you doing? Uh my name is Tristan Howard, 75 Peak Avenue. Uh, I am here because I'm against the flock ALRP program currently running in the city. I've raised this issue before at...
+  > ...Hey, how you doing? Uh my name is Tristan Howard, [address redacted] Uh, I am here because I'm against the flock ALRP program currently running in the city. I've raised this issue before at...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=920s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
@@ -2393,5 +2393,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-10T14:07:44 from Milford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-10T16:09:10 from Milford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 
