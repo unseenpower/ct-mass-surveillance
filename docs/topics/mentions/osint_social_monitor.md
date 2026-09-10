@@ -1,6 +1,6 @@
 # OSINT / social-media monitoring: every mention, every town
 
-_Generated 2026-09-10T17:12:48 — 2 mentions across 2 towns, 2022-09-06 to 2024-08-28._
+_Generated 2026-09-10T18:10:02 — 2 mentions across 2 towns, 2022-09-06 to 2024-08-28._
 
 
 Open-source-intelligence and social-media monitoring tools.

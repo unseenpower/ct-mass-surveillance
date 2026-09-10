@@ -1,6 +1,6 @@
 # Predictive policing: every mention, every town
 
-_Generated 2026-09-10T17:12:35 — 114 mentions across 34 towns, 2012-08-22 to 2026-09-03._
+_Generated 2026-09-10T18:09:32 — 114 mentions across 34 towns, 2012-08-22 to 2026-09-03._
 
 
 Systems that attempt to forecast where crime will occur or who will be involved.

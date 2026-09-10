@@ -1,6 +1,6 @@
 # Real-time crime centres: every mention, every town
 
-_Generated 2026-09-10T17:12:42 — 58 mentions across 7 towns, 2021-11-23 to 2026-07-23._
+_Generated 2026-09-10T18:09:46 — 58 mentions across 7 towns, 2021-11-23 to 2026-07-23._
 
 
 Real-time crime centres — control rooms that fuse many camera and data feeds into one live operational picture, often via platforms such as Axon's Fusus.

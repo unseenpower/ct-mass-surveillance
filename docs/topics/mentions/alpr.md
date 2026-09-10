@@ -1,6 +1,6 @@
 # ALPR / Flock: every mention, every town
 
-_Generated 2026-09-10T17:11:29 — 2,047 mentions across 79 towns, 2013-07-24 to 2026-09-14._
+_Generated 2026-09-10T18:07:08 — 2,047 mentions across 79 towns, 2013-07-24 to 2026-09-14._
 
 
 Automated licence-plate readers — cameras that photograph every passing vehicle, read its plate, and log the time and place. Flock Safety is the dominant vendor in Connecticut.
