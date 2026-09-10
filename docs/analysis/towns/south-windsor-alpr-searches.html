@@ -1,0 +1,2076 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Every licence-plate search South Windsor CT PD ran that reached six Connecticut towns' Flock cameras: 7,658 queries, from the towns' own audit exports.">
+<link rel="canonical" href="https://unseenpower.github.io/ct-mass-surveillance/analysis/towns/south-windsor-alpr-searches.html">
+<meta property="og:url" content="https://unseenpower.github.io/ct-mass-surveillance/analysis/towns/south-windsor-alpr-searches.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="South Windsor's ALPR search record">
+<meta property="og:description" content="Every licence-plate search South Windsor CT PD ran that reached six Connecticut towns' Flock cameras: 7,658 queries, from the towns' own audit exports.">
+<meta property="og:image" content="https://unseenpower.github.io/ct-mass-surveillance/analysis/towns/south-windsor-alpr-searches.png">
+<meta name="twitter:card" content="summary_large_image">
+<title>South Windsor's ALPR search record</title>
+<style>
+/* Farmington ALPR dashboard.
+   Palette follows the validated default data-viz palette: categorical slots 1
+   and 2 (blue / orange) are the only two hues that ever carry identity, and
+   every text role uses an ink token rather than a series colour. */
+
+:root {
+  color-scheme: light;
+
+  --surface-1: #fcfcfb;
+  --page: #f9f9f7;
+  --text-primary: #0b0b0b;
+  --text-secondary: #52514e;
+  --text-muted: #898781;
+  --grid: #e1e0d9;
+  --axis: #c3c2b7;
+  --border: rgba(11, 11, 11, 0.10);
+
+  --series-1: #2a78d6;
+  --series-2: #eb6834;
+  --series-1-soft: #cde2fb;
+
+  --critical: #d03b3b;
+  --warning: #fab219;
+  --good: #0ca30c;
+
+  --radius: 10px;
+  --maxw: 1120px;
+  --font: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --surface-1: #1a1a19;
+    --page: #0d0d0d;
+    --text-primary: #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted: #898781;
+    --grid: #2c2c2a;
+    --axis: #383835;
+    --border: rgba(255, 255, 255, 0.10);
+    --series-1: #3987e5;
+    --series-2: #d95926;
+    --series-1-soft: #184f95;
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --surface-1: #1a1a19;
+  --page: #0d0d0d;
+  --text-primary: #ffffff;
+  --text-secondary: #c3c2b7;
+  --text-muted: #898781;
+  --grid: #2c2c2a;
+  --axis: #383835;
+  --border: rgba(255, 255, 255, 0.10);
+  --series-1: #3987e5;
+  --series-2: #d95926;
+  --series-1-soft: #184f95;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--text-primary);
+  font: 400 16px/1.6 var(--font);
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 20px; }
+
+/* ---------------------------------------------------------------- header */
+
+header.top {
+  background: var(--surface-1);
+  border-bottom: 1px solid var(--border);
+  padding: 28px 0 0;
+}
+header.top h1 {
+  margin: 0 0 6px;
+  font-size: clamp(24px, 3.4vw, 34px);
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+header.top .sub {
+  margin: 0 0 4px;
+  color: var(--text-secondary);
+  font-size: 17px;
+}
+header.top .prov {
+  margin: 0 0 18px;
+  color: var(--text-muted);
+  font-size: 13.5px;
+}
+
+/* ------------------------------------------------------------------ tabs */
+
+nav.tabs {
+  display: flex;
+  gap: 2px;
+  overflow-x: auto;
+  border-top: 1px solid var(--border);
+  padding: 4px 0 0;
+  scrollbar-width: thin;
+}
+nav.tabs button {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 11px 14px;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  background: none;
+  color: var(--text-secondary);
+  font: inherit;
+  font-size: 14px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+nav.tabs button .num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 19px; height: 19px;
+  border-radius: 999px;
+  background: var(--page);
+  border: 1px solid var(--border);
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-muted);
+}
+nav.tabs button:hover { color: var(--text-primary); }
+nav.tabs button.on {
+  color: var(--text-primary);
+  border-bottom-color: var(--series-1);
+  font-weight: 600;
+}
+nav.tabs button.on .num {
+  background: var(--series-1);
+  border-color: var(--series-1);
+  color: #fff;
+}
+nav.tabs button:focus-visible {
+  outline: 2px solid var(--series-1);
+  outline-offset: -2px;
+  border-radius: 6px;
+}
+
+.panel[hidden] { display: none; }
+
+.tab-foot {
+  display: flex;
+  justify-content: flex-end;
+  padding: 24px 0 8px;
+  margin-top: 8px;
+  border-top: 1px solid var(--border);
+}
+.next-btn {
+  font: inherit;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 11px 20px;
+  border-radius: 10px;
+  border: 1px solid var(--series-1);
+  background: var(--series-1);
+  color: #fff;
+  cursor: pointer;
+}
+.next-btn:hover { filter: brightness(1.06); }
+.next-btn.ghost {
+  background: var(--surface-1);
+  color: var(--text-secondary);
+  border-color: var(--axis);
+  font-weight: 500;
+}
+.next-btn.ghost:hover { background: var(--page); color: var(--text-primary); }
+
+.inline-link {
+  color: var(--series-1);
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+  font-weight: 600;
+}
+.inline-link:hover { filter: brightness(1.1); }
+
+.callout p.soft { color: var(--text-muted); font-size: 14.5px; }
+
+/* --------------------------------------------------------------- sections */
+
+section { padding: 40px 0 8px; scroll-margin-top: 16px; }
+section > h2 {
+  margin: 0 0 6px;
+  font-size: 21px;
+  letter-spacing: -0.01em;
+}
+section > .lede {
+  margin: 0 0 20px;
+  color: var(--text-secondary);
+  max-width: 68ch;
+}
+
+.card {
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  margin-bottom: 16px;
+}
+.card > h3 {
+  margin: 0 0 4px;
+  font-size: 16px;
+}
+.card > p.note {
+  margin: 0 0 16px;
+  color: var(--text-secondary);
+  font-size: 14px;
+  max-width: 72ch;
+}
+
+/* Callout used for the framing panel and the limits panel. */
+.callout {
+  border-left: 3px solid var(--series-1);
+  background: var(--surface-1);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 18px 20px;
+  margin-bottom: 16px;
+}
+.callout.warn { border-left-color: var(--warning); }
+.callout.good { border-left-color: var(--good); }
+.callout h3 { margin: 0 0 8px; font-size: 16px; }
+.callout p { margin: 0 0 10px; color: var(--text-secondary); max-width: 72ch; }
+.callout p:last-child { margin-bottom: 0; }
+.callout strong { color: var(--text-primary); }
+
+/* ------------------------------------------------------------- stat tiles */
+
+/* Three across on a wide screen: the headline set is six tiles, so this lands
+   them 3x2 rather than 5+1. */
+.tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.tile {
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 18px;
+}
+.tile .val {
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  color: var(--text-primary);
+}
+.tile .lbl {
+  margin-top: 6px;
+  font-size: 13.5px;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+.tile .sub { margin-top: 4px; font-size: 12.5px; color: var(--text-muted); }
+
+/* ----------------------------------------------------------------- charts */
+
+.chart { width: 100%; overflow-x: auto; }
+.chart svg { display: block; max-width: 100%; height: auto; }
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 12px;
+  font-size: 13.5px;
+  color: var(--text-secondary);
+}
+.legend .item { display: inline-flex; align-items: center; gap: 7px; }
+.legend .swatch {
+  width: 11px; height: 11px; border-radius: 3px; flex: 0 0 auto;
+}
+
+.tip {
+  position: fixed;
+  pointer-events: none;
+  z-index: 40;
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.16);
+  border-radius: 8px;
+  padding: 9px 11px;
+  font-size: 13px;
+  line-height: 1.45;
+  color: var(--text-primary);
+  max-width: 280px;
+  opacity: 0;
+  transition: opacity .1s;
+}
+.tip.on { opacity: 1; }
+.tip .t-name { font-weight: 600; }
+.tip .t-row { color: var(--text-secondary); }
+.tip .t-val { color: var(--text-primary); font-variant-numeric: tabular-nums; }
+
+/* ----------------------------------------------------------------- tables */
+
+.tbl-tools {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.tbl-tools input[type="search"],
+.tbl-tools select {
+  font: inherit;
+  font-size: 14px;
+  padding: 8px 11px;
+  border: 1px solid var(--axis);
+  border-radius: 8px;
+  background: var(--surface-1);
+  color: var(--text-primary);
+  min-width: 0;
+}
+.tbl-tools input[type="search"] { flex: 1 1 220px; }
+.tbl-tools .count { color: var(--text-muted); font-size: 13.5px; }
+
+.tbl-scroll { overflow-x: auto; max-height: 560px; overflow-y: auto; }
+
+table.data {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+table.data th, table.data td {
+  text-align: left;
+  padding: 9px 12px;
+  border-bottom: 1px solid var(--grid);
+  white-space: nowrap;
+}
+table.data th {
+  position: sticky;
+  top: 0;
+  background: var(--surface-1);
+  color: var(--text-secondary);
+  font-weight: 600;
+  font-size: 12.5px;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  cursor: pointer;
+  user-select: none;
+  z-index: 2;
+}
+table.data th::after { content: ""; }
+table.data th[aria-sort="descending"]::after { content: " \25BC"; font-size: 9px; }
+table.data th[aria-sort="ascending"]::after { content: " \25B2"; font-size: 9px; }
+table.data th.num, table.data td.num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+table.data td.wrap-ok { white-space: normal; min-width: 260px; }
+table.data tbody tr:hover { background: var(--page); }
+table.data .bar-cell { position: relative; min-width: 90px; }
+table.data .bar {
+  height: 6px;
+  border-radius: 3px;
+  background: var(--series-1);
+  display: block;
+}
+
+.more-btn {
+  margin-top: 12px;
+  font: inherit;
+  font-size: 14px;
+  padding: 8px 14px;
+  border: 1px solid var(--axis);
+  background: var(--surface-1);
+  color: var(--text-primary);
+  border-radius: 8px;
+  cursor: pointer;
+}
+.more-btn:hover { background: var(--page); }
+
+/* ------------------------------------------------------------------ lists */
+
+ul.plain { margin: 0 0 12px; padding-left: 20px; color: var(--text-secondary); }
+ul.plain li { margin-bottom: 8px; max-width: 72ch; }
+ul.plain li strong { color: var(--text-primary); }
+
+ol.asks { margin: 0; padding-left: 22px; }
+ol.asks li { margin-bottom: 14px; color: var(--text-secondary); max-width: 74ch; }
+ol.asks li strong { color: var(--text-primary); }
+
+.pill {
+  display: inline-block;
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: .03em;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  background: var(--page);
+  vertical-align: middle;
+}
+.pill.key { border-color: var(--series-1); color: var(--series-1); }
+
+footer.foot {
+  margin-top: 48px;
+  padding: 28px 0 56px;
+  border-top: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 13.5px;
+}
+footer.foot p { max-width: 74ch; }
+
+.theme-toggle {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 30;
+  width: 40px; height: 40px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface-1);
+  color: var(--text-secondary);
+  cursor: pointer;
+  font-size: 17px;
+  line-height: 1;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, .12);
+}
+
+@media (max-width: 640px) {
+  section { padding-top: 30px; }
+  .card { padding: 16px; }
+  table.data th, table.data td { padding: 8px 10px; }
+}
+
+@media print {
+  nav.tabs, .theme-toggle, .more-btn, .tab-foot { display: none; }
+  .panel[hidden] { display: block !important; }
+  .tbl-scroll { max-height: none; }
+}
+
+/* --------------------------------------------------------- claim audit */
+
+.card.claim { padding-top: 16px; }
+.claim-head { margin-bottom: 10px; }
+
+.verdict {
+  display: inline-block;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid;
+}
+.verdict.ok   { color: var(--good);     border-color: var(--good); }
+.verdict.warn { color: var(--series-2); border-color: var(--series-2); }
+.verdict.bad  { color: var(--critical); border-color: var(--critical); }
+.verdict.neutral { color: var(--text-secondary); border-color: var(--axis); }
+
+.claim-text {
+  margin: 0 0 14px;
+  padding-left: 14px;
+  border-left: 2px solid var(--grid);
+  color: var(--text-primary);
+  font-size: 15.5px;
+  line-height: 1.55;
+  max-width: 74ch;
+}
+
+.claim-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
+  margin-bottom: 12px;
+}
+.claim-grid > div {
+  background: var(--page);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+}
+.claim-grid .k, .claim-rule .k {
+  display: block;
+  font-size: 11.5px;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--text-muted);
+  margin-bottom: 3px;
+}
+.claim-grid .v {
+  font-size: 19px;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-secondary);
+}
+.claim-grid .v.strong { color: var(--text-primary); font-weight: 600; }
+
+.claim-companion {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+  padding: 9px 12px;
+  margin-bottom: 12px;
+  border: 1px dashed var(--axis);
+  border-radius: 8px;
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+.claim-companion strong {
+  color: var(--text-primary);
+  font-variant-numeric: tabular-nums;
+}
+
+.claim-rule, .claim-note {
+  margin: 0 0 10px;
+  font-size: 14px;
+  color: var(--text-secondary);
+  max-width: 76ch;
+}
+.claim-rule { font-style: italic; }
+
+details.samples { margin-top: 4px; }
+details.samples > summary {
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--series-1);
+  padding: 6px 0;
+}
+details.samples[open] > summary { margin-bottom: 8px; }
+details.samples code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 12.5px;
+  color: var(--text-primary);
+}
+
+/* ------------------------------------------------------------- subtabs */
+
+nav.subtabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0 0 22px;
+  padding: 5px;
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+nav.subtabs button {
+  flex: 0 0 auto;
+  padding: 8px 14px;
+  border: 0;
+  border-radius: 7px;
+  background: none;
+  color: var(--text-secondary);
+  font: inherit;
+  font-size: 14px;
+  cursor: pointer;
+}
+nav.subtabs button:hover { background: var(--page); color: var(--text-primary); }
+nav.subtabs button.on {
+  background: var(--series-1);
+  color: #fff;
+  font-weight: 600;
+}
+nav.subtabs button:focus-visible { outline: 2px solid var(--series-1); outline-offset: 2px; }
+
+.subpanel[hidden] { display: none; }
+.subpanel > h2 { font-size: 19px; }
+
+@media print {
+  nav.subtabs { display: none; }
+  .subpanel[hidden] { display: block !important; }
+}
+
+/* ===================================================== explorer additions */
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  background: var(--surface-1);
+  border-bottom: 1px solid var(--border);
+  padding: 10px 0;
+}
+.topbar .wrap { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.topbar .brand { font-weight: 700; font-size: 15px; letter-spacing: -0.01em; }
+.topbar .live { color: var(--text-secondary); font-size: 13.5px; }
+.topbar .live b { color: var(--text-primary); font-variant-numeric: tabular-nums; }
+.topbar .spacer { flex: 1 1 auto; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 8px 4px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--series-1);
+  background: var(--series-1-soft);
+  color: var(--text-primary);
+  font-size: 12.5px;
+  line-height: 1.4;
+}
+:root[data-theme="dark"] .chip { color: #fff; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .chip { color: #fff; }
+}
+.chip .k { color: var(--text-secondary); }
+:root[data-theme="dark"] .chip .k { color: #dfe7f5; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .chip .k { color: #dfe7f5; }
+}
+.chip button {
+  border: 0; background: none; cursor: pointer; font: inherit;
+  font-size: 14px; line-height: 1; color: inherit; padding: 0 2px; opacity: .7;
+}
+.chip button:hover { opacity: 1; }
+.chip.empty { border-style: dashed; border-color: var(--axis);
+              background: none; color: var(--text-secondary); padding: 5px 12px; }
+
+.btn {
+  font: inherit; font-size: 13.5px; padding: 6px 12px;
+  border: 1px solid var(--axis); border-radius: 8px;
+  background: var(--surface-1); color: var(--text-primary); cursor: pointer;
+}
+.btn:hover { background: var(--page); }
+.btn.primary { background: var(--series-1); border-color: var(--series-1); color: #fff; }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  align-items: start;      /* short charts must not stretch to the tallest */
+  gap: 14px;
+  margin-bottom: 14px;
+}
+.grid .card { margin-bottom: 0; }
+.card h3 .hint {
+  font-weight: 400; font-size: 12.5px; color: var(--text-muted); margin-left: 6px;
+}
+
+/* Bars double as controls, so they need affordance and selected state. */
+.bars { display: flex; flex-direction: column; gap: 3px; }
+.bar-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: 10px;
+  padding: 4px 6px;
+  border-radius: 7px;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+.bar-row:hover { background: var(--page); }
+.bar-row.sel { border-color: var(--series-1); background: var(--series-1-soft); }
+:root[data-theme="dark"] .bar-row.sel { background: rgba(57,135,229,.18); }
+.bar-row .lab {
+  font-size: 13px; color: var(--text-secondary);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.bar-row.sel .lab { color: var(--text-primary); font-weight: 600; }
+.bar-row .val {
+  font-size: 12.5px; color: var(--text-primary);
+  font-variant-numeric: tabular-nums; white-space: nowrap;
+}
+.bar-track { grid-column: 1 / -1; height: 6px; border-radius: 3px; background: var(--grid); }
+.bar-fill { height: 100%; border-radius: 3px; background: var(--series-1); display: block; }
+.bar-row.dim .bar-fill { background: var(--axis); }
+
+.spark { display: flex; align-items: flex-end; gap: 2px; height: 90px; }
+.spark .col {
+  flex: 1 1 0; min-width: 3px; background: var(--series-1);
+  border-radius: 2px 2px 0 0; cursor: pointer; position: relative;
+}
+.spark .col:hover { filter: brightness(1.15); }
+.spark .col.sel { background: var(--series-2); }
+.spark .col.off { background: var(--grid); }
+.spark-axis {
+  display: flex; justify-content: space-between;
+  font-size: 11.5px; color: var(--text-muted); margin-top: 6px;
+}
+
+.loading { color: var(--text-muted); font-size: 14px; padding: 18px 0; }
+.empty-note { color: var(--text-muted); font-size: 14px; padding: 10px 0; }
+
+/* ------------------------------------------------------- filter controls */
+
+.filterbar { padding: 14px 16px; }
+.filter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 10px;
+  margin-bottom: 12px;
+}
+.filter { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.filter-label {
+  font-size: 11.5px; text-transform: uppercase; letter-spacing: .04em;
+  color: var(--text-muted);
+}
+.filter select {
+  font: inherit; font-size: 13.5px; padding: 7px 9px;
+  border: 1px solid var(--axis); border-radius: 8px;
+  background: var(--surface-1); color: var(--text-primary);
+  max-width: 100%;
+}
+.filter select.on { border-color: var(--series-1); box-shadow: 0 0 0 2px var(--series-1-soft); }
+.chips-row { display: flex; gap: 10px; align-items: flex-start; }
+.chips-row .chips { flex: 1 1 auto; }
+
+.panel[hidden] { display: none; }
+.topbar nav.tabs { border-top: 0; padding: 0; gap: 2px; }
+.topbar nav.tabs button {
+  padding: 7px 13px; border-radius: 8px; border: 1px solid transparent;
+  background: none; color: var(--text-secondary); font: inherit; font-size: 14px;
+  cursor: pointer; white-space: nowrap;
+}
+.topbar nav.tabs button:hover { background: var(--page); color: var(--text-primary); }
+.topbar nav.tabs button.on {
+  background: var(--series-1); border-color: var(--series-1);
+  color: #fff; font-weight: 600;
+}
+
+/* ------------------------------------------------------------ map + slider */
+
+.map {
+  display: grid;
+  grid-template-columns: repeat(11, minmax(0, 1fr));
+  grid-auto-rows: 1fr;
+  gap: 4px;
+  max-width: 640px;
+}
+.map::before { content: ""; grid-column: 1; grid-row: 1; padding-top: 100%; }
+.tile-st {
+  display: flex; align-items: center; justify-content: center;
+  aspect-ratio: 1 / 1;
+  border-radius: 5px;
+  font-size: 11px; font-weight: 600;
+  cursor: pointer;
+  border: 1px solid var(--border);
+  /* --t is sqrt(share of max), so mid-range states stay visible */
+  background: color-mix(in srgb, var(--series-1) calc(var(--t, 0) * 100%), var(--surface-1));
+  color: var(--text-primary);
+}
+.tile-st:hover { outline: 2px solid var(--series-1); outline-offset: 1px; }
+.tile-st.sel { outline: 2px solid var(--series-2); outline-offset: 1px; }
+.tile-st.off { opacity: .35; }
+.tile-st.zero { background: var(--page); color: var(--text-muted); cursor: default; }
+
+.slider-row {
+  display: flex; align-items: center; gap: 14px;
+  flex-wrap: wrap; margin-bottom: 14px;
+}
+.slider { position: relative; flex: 1 1 320px; height: 26px; min-width: 240px; }
+.slider input[type="range"] {
+  position: absolute; inset: 0; width: 100%; margin: 0;
+  background: none; pointer-events: none; -webkit-appearance: none; appearance: none;
+}
+.slider input[type="range"]::-webkit-slider-runnable-track {
+  height: 4px; border-radius: 2px; background: var(--grid);
+}
+.slider input[type="range"]::-moz-range-track {
+  height: 4px; border-radius: 2px; background: var(--grid);
+}
+.slider input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none; appearance: none; pointer-events: auto;
+  width: 17px; height: 17px; border-radius: 50%; margin-top: -6px;
+  background: var(--series-1); border: 2px solid var(--surface-1); cursor: grab;
+}
+.slider input[type="range"]::-moz-range-thumb {
+  pointer-events: auto;
+  width: 17px; height: 17px; border-radius: 50%;
+  background: var(--series-1); border: 2px solid var(--surface-1); cursor: grab;
+}
+.range-label {
+  font-size: 13.5px; color: var(--text-primary);
+  font-variant-numeric: tabular-nums; white-space: nowrap;
+}
+
+.agency-filter { margin-bottom: 12px; }
+.agency-filter input {
+  font: inherit; font-size: 13.5px; padding: 7px 9px;
+  border: 1px solid var(--axis); border-radius: 8px;
+  background: var(--surface-1); color: var(--text-primary); width: 100%; max-width: 420px;
+}
+
+table.data tr.pick { cursor: pointer; }
+table.data tr.pick.sel { background: var(--series-1-soft); }
+:root[data-theme="dark"] table.data tr.pick.sel { background: rgba(57,135,229,.2); }
+
+.era {
+  display: inline-block; font-size: 11px; font-weight: 600;
+  padding: 2px 7px; border-radius: 999px; border: 1px solid;
+  white-space: nowrap;
+}
+.era.before { color: var(--series-2); border-color: var(--series-2); }
+.era.after  { color: var(--series-1); border-color: var(--series-1); }
+.era.both   { color: var(--text-muted); border-color: var(--axis); }
+
+.era-compare {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 18px; margin-top: 12px;
+}
+.era-compare h4 { margin: 0 0 8px; font-size: 14px; display: flex; gap: 8px; align-items: center; }
+ul.ex { margin: 0 0 10px; padding-left: 18px; }
+ul.ex li { margin-bottom: 5px; font-size: 13.5px; color: var(--text-secondary); }
+ul.ex code { font-size: 12.5px; color: var(--text-primary); }
+
+th.sortable { cursor: pointer; user-select: none; white-space: nowrap; }
+th.sortable:hover { color: var(--text-primary); }
+th.sortable::after { content: ""; opacity: .55; font-size: 9px; }
+th.sortable[aria-sort="descending"]::after { content: " \25BC"; }
+th.sortable[aria-sort="ascending"]::after { content: " \25B2"; }
+th.sortable:focus-visible { outline: 2px solid var(--series-1); outline-offset: -2px; }
+
+.scope-banner { border-left-color: var(--series-2); margin-bottom: 16px; }
+.scope-banner h3 { color: var(--text-primary); }
+
+/* An explicit display rule beats the hidden attribute's default display:none,
+   so .filter{display:flex} kept the agency picker visible in a scoped build.
+   Make hidden win everywhere. */
+[hidden] { display: none !important; }
+
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="wrap">
+    <span class="brand">CT ALPR Explorer</span>
+    <span class="live" id="live">Loading&hellip;</span>
+    <span class="spacer"></span>
+    <nav class="tabs" id="tabs" role="tablist" aria-label="Sections"></nav>
+  </div>
+</div>
+
+<main class="wrap">
+
+<!-- ========================================================== DASHBOARD -->
+<section id="tab-dashboard" class="panel" role="tabpanel" data-tab="dashboard" data-title="Dashboard">
+
+  <div class="callout scope-banner" id="scope-banner" hidden>
+    <h3 id="scope-title">&mdash;</h3>
+    <p id="scope-note"></p>
+  </div>
+
+  <div class="card filterbar">
+    <div class="slider-row">
+      <span class="filter-label">Date range</span>
+      <div class="slider">
+        <input type="range" id="mo-from" aria-label="Range start">
+        <input type="range" id="mo-to" aria-label="Range end">
+      </div>
+      <span class="range-label" id="mo-range">&mdash;</span>
+    </div>
+
+    <div class="filter-grid" id="filter-grid"></div>
+
+    <label class="filter agency-filter" data-needs="multi-agency">
+      <span class="filter-label">Agency &mdash; type any part of a name to filter every view</span>
+      <input list="agency-list" id="agency-pick"
+             placeholder="e.g. south windsor, state police, sheriff">
+      <datalist id="agency-list"></datalist>
+    </label>
+
+    <div class="chips-row">
+      <div class="chips" id="chips"></div>
+      <button class="btn" id="reset" hidden>Clear all</button>
+    </div>
+  </div>
+
+  <div class="tiles" id="tiles"></div>
+
+  <div class="card">
+    <h3>Search events per month <span class="hint">click a bar for one month, or use the slider</span></h3>
+    <div class="spark" id="chart-mo"></div>
+  </div>
+
+  <div class="card" data-needs="multi-agency">
+    <h3>Where the searchers are <span class="hint">click a state to filter &mdash; every state is clickable, including the small ones</span></h3>
+    <div class="map" id="map"></div>
+  </div>
+
+  <div class="grid">
+    <div class="card" data-needs="multi-agency">
+      <h3>Type of agency</h3>
+      <div class="bars" id="chart-etype"></div>
+    </div>
+    <div class="card">
+      <h3>Camera networks swept per query
+        <span class="hint">how wide each search reached</span></h3>
+      <div class="bars" id="chart-nets"></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Stated reason category <span class="hint">top 20 &mdash;
+      <a class="inline-link" href="#how" data-goto="how">read this first</a>,
+      the field changed completely in <span class="def-switch">2025-12</span></span></h3>
+    <div class="bars" id="chart-cat"></div>
+  </div>
+
+  <div class="card" data-needs="multi-agency">
+    <h3>Agencies <span class="hint">click a row to pin one agency &mdash; or use the
+      agency search at the top to match several</span></h3>
+    <div class="tbl-tools">
+      <span class="count" id="agency-count"></span>
+    </div>
+    <div id="agency-wrap" class="loading">Loading&hellip;</div>
+    <button class="more-btn" id="agency-more" hidden>Show more</button>
+  </div>
+
+  <div class="card">
+    <h3>Reason text <span class="hint">what officers typed, with personal names masked</span></h3>
+    <p class="note">Every distinct wording used three or more times.
+      <strong>Filtering by agency, state or agency type narrows this list and
+      recounts it</strong> &mdash; so you can see what one department actually
+      typed. Month, search type, reason category and networks-swept filters do
+      not reach it. Searching the box below filters this list only; the charts
+      above are not narrowed by it.</p>
+    <p class="note" id="reasons-scope" style="color:var(--text-primary)"></p>
+    <div class="callout" style="margin:0 0 14px">
+      <h3>What &ldquo;era&rdquo; means</h3>
+      <p>The reason field was a free-text box until
+        <strong><span class="def-switch">2025-12</span></strong>, then became a
+        dropdown of preset categories. Each wording is tagged by where its
+        events fall:</p>
+      <ul class="plain" style="margin-bottom:6px">
+        <li><span class="era before">free-text era</span> used only
+          <em>before</em> the change &mdash; somebody typed it. Nearly all
+          distinctive wording is here.</li>
+        <li><span class="era after">dropdown era</span> used only
+          <em>after</em> &mdash; almost always one of Flock's preset categories.</li>
+        <li><span class="era both">spans the change</span> used on both sides,
+          which mostly means a preset category that also existed as typed text.</li>
+      </ul>
+      <p class="soft">Filtering to one era also keeps the wordings that span it,
+        since those genuinely occur in both.
+        <a class="inline-link" href="#how" data-goto="how">More on the change</a>.</p>
+    </div>
+    <div class="tbl-tools">
+      <input type="search" id="reasons-q" hidden
+             placeholder="Search reason text, e.g. ICE, protest, girlfriend&hellip;"
+             aria-label="Search reason text">
+      <select id="reasons-era" hidden aria-label="Filter by era">
+        <option value="all">Every era</option>
+        <option value="before">Free-text era (before 2025-12)</option>
+        <option value="after">Dropdown era (2025-12 onward)</option>
+      </select>
+      <span class="count" id="reasons-count"></span>
+    </div>
+    <div id="reasons-wrap" class="loading">Loading reason text&hellip;</div>
+    <button class="more-btn" id="reasons-more" hidden>Show more</button>
+  </div>
+
+  <div class="card">
+    <h3>How the search was run <span class="hint">the tool used, never the purpose</span></h3>
+    <div class="bars" id="chart-stype"></div>
+  </div>
+
+</section>
+
+<!-- ================================================================ HOW -->
+<section id="tab-how" class="panel" role="tabpanel" data-tab="how" data-title="How to read this">
+  <h2>How to read this</h2>
+  <p class="lede">What a search event is, what each field means, and the things
+    about this data that will mislead you if nobody says them out loud.</p>
+
+  <div class="callout">
+    <h3>What a search event is</h3>
+    <p><strong>One search event is one searcher running one query.</strong> An
+      officer at some department types in a plate (or a description, or a time
+      and place) and asks the network what it has. That is one event, whether
+      the query reached one camera network or seven thousand.</p>
+    <p>This corpus holds <strong id="def-events">&mdash;</strong> search events
+      run by <strong id="def-agencies">&mdash;</strong> agencies. It is every
+      query that reached the cameras of six Connecticut towns whose audit
+      exports we hold &mdash; so it is a <em>floor</em>. A query that touched
+      none of those six is invisible here, however many other networks it swept.</p>
+    <p class="soft">Which town's export happened to carry a row is data lineage,
+      not a property of the search, so it is not a filter on the dashboard. It
+      is listed at the bottom of this page.</p>
+  </div>
+
+  <div class="callout warn">
+    <h3>The reason field changed completely in December 2025</h3>
+    <p>For most of this corpus the &ldquo;reason&rdquo; was a
+      <strong>free-text box</strong> &mdash; type anything, or nothing. In
+      <span class="def-switch">2025-12</span> it became a
+      <strong>dropdown of preset categories</strong>. The changeover took about
+      two months:</p>
+    <div class="tbl-scroll" style="max-height:none">
+      <table class="data" id="methodology-table">
+        <thead><tr><th>Month</th><th class="num">Search events</th>
+          <th class="num">Using a preset category</th><th class="num">Share</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+
+    <h3 style="margin-top:22px">What that looks like in the actual data</h3>
+    <p>The most common reasons officers gave, either side of the change. This is
+      the whole point &mdash; these are two different instruments, not two samples
+      of one:</p>
+    <div class="era-compare">
+      <div>
+        <h4><span class="era before">free text</span> November 2025</h4>
+        <ul class="ex" id="ex-before"></ul>
+        <p class="soft">Whatever an officer typed. Note <code>inv</code>,
+          <code>investigation</code>, <code>Investigation</code> and
+          <code>INVESTIGATION</code> arriving as four different values for one
+          idea, and how little any of them tells you.</p>
+      </div>
+      <div>
+        <h4><span class="era after">dropdown</span> March 2026</h4>
+        <ul class="ex" id="ex-after"></ul>
+        <p class="soft">Picked from a menu. Consistent, countable &mdash; and no
+          longer capable of saying anything the menu does not offer. The trailing
+          <code>-</code> is where free text would go if the officer added any.</p>
+      </div>
+    </div>
+
+    <h3 style="margin-top:22px">Why this matters for searching the text</h3>
+    <p>Because officers largely cannot type anything any more, <strong>searching
+      the reason text mostly tells you about the past</strong>. Finding few
+      recent mentions of a term does not mean the activity stopped &mdash; it means
+      the box people typed it into stopped existing.</p>
+    <div class="tbl-scroll" style="max-height:none">
+      <table class="data" id="keyword-eras">
+        <thead><tr><th>Reason text mentions&hellip;</th>
+          <th class="num">Free-text era</th><th class="num">Dropdown era</th>
+          <th class="num">Share before the change</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p style="margin-top:12px">So if you search the reason list for
+      <code>ICE</code> and find little after 2025, that is a fact about the
+      <em>form</em>, not about immigration enforcement. The reason list has an
+      era filter for exactly this reason: compare like with like, or say plainly
+      that you cannot.</p>
+  </div>
+
+  <div class="card">
+    <h3>Search type &mdash; what each one actually does</h3>
+    <p class="note">This field records <strong>which tool produced the
+      query</strong>. It never records the purpose, and no type is inherently
+      more or less legitimate than another.</p>
+    <div class="tbl-scroll" style="max-height:none">
+      <table class="data">
+        <thead><tr><th>Type</th><th>What the officer did</th><th>What it returns</th></tr></thead>
+        <tbody>
+          <tr><td><code>lookup</code></td>
+            <td class="wrap-ok">Started from <strong>a specific plate</strong> &mdash;
+              they already have the number and want its history.</td>
+            <td class="wrap-ok">Everywhere that plate was photographed, across
+              every network the query reached.</td></tr>
+          <tr><td><code>search</code></td>
+            <td class="wrap-ok">Started from <strong>a place and a time</strong>, or
+              a vehicle's characteristics &mdash; colour, make, body type &mdash;
+              rather than a plate.</td>
+            <td class="wrap-ok">Every vehicle matching, e.g. everything that passed
+              a given camera in a window. This is the one that sweeps people who
+              were simply driving past.</td></tr>
+          <tr><td><code>&hellip; - Mobile</code></td>
+            <td class="wrap-ok">The same query from the phone app rather than a
+              desktop console.</td>
+            <td class="wrap-ok">Identical results. It tells you where the officer
+              was, not what they were doing.</td></tr>
+          <tr><td><code>convoy</code></td>
+            <td class="wrap-ok">Asked which <strong>other vehicles were travelling
+              with</strong> a given one.</td>
+            <td class="wrap-ok">Vehicles repeatedly seen alongside the subject &mdash;
+              an association tool, not a location one.</td></tr>
+          <tr><td><code>visual</code> / <code>freeform</code></td>
+            <td class="wrap-ok">Typed <strong>a written description</strong> of a
+              vehicle instead of a plate.</td>
+            <td class="wrap-ok">Vehicles matching the description. Searching by
+              appearance rather than by identity.</td></tr>
+          <tr><td><code>multiGeo</code></td>
+            <td class="wrap-ok">Ran one query across <strong>several separate
+              areas</strong> at once.</td>
+            <td class="wrap-ok">Matches from every area in the set.</td></tr>
+          <tr><td><code>searchSummary</code></td>
+            <td class="wrap-ok">Retrieved a summary of a previous search rather
+              than running a new one.</td>
+            <td class="wrap-ok">Nothing new &mdash; a review action.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note" style="margin-top:12px">Naming is Flock's own, from the export.
+      The descriptions of <code>convoy</code>, <code>multiGeo</code> and
+      <code>searchSummary</code> are our reading of the product's behaviour;
+      <code>lookup</code> and <code>search</code> are unambiguous in the data.</p>
+  </div>
+
+  <div class="card">
+    <h3>Camera networks swept &mdash; the most misread number here</h3>
+    <p class="note" style="max-width:78ch">Every Flock customer &mdash; a police
+      department, but also a business park or a homeowners' association &mdash;
+      operates a <strong>network</strong> of cameras. When an agency shares its
+      network outward, other agencies' searches run against it too.</p>
+    <p class="note" style="max-width:78ch"><strong>&ldquo;Networks swept&rdquo; is
+      how many of those a single query reached.</strong> It is recorded per event
+      as a count, never a list, so you can see that a query touched thousands of
+      networks but never which ones.</p>
+    <ul class="plain">
+      <li>A query sweeping <strong>one network</strong> is a department searching
+        its own cameras.</li>
+      <li>A query sweeping <strong>thousands</strong> is a nationwide search. The
+        town whose export captured it was one network among those thousands
+        &mdash; not a target.</li>
+      <li>So a high count against any town means <strong>that town's data was
+        inside somebody's wide query</strong>, not that anyone was investigating
+        the town. This is the single most common misreading of this data.</li>
+      <li>It also means a raw event count measures <em>how heavily an agency uses
+        the platform</em>, far more than any interest in Connecticut.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>Every other field</h3>
+    <div class="tbl-scroll" style="max-height:none">
+      <table class="data">
+        <thead><tr><th>Field</th><th>What it is</th><th>What to watch for</th></tr></thead>
+        <tbody>
+          <tr><td><strong>Month</strong></td>
+            <td class="wrap-ok">When the query ran, Eastern time.</td>
+            <td class="wrap-ok">Coverage differs by town, so the earliest and
+              latest months are thinner than the middle.</td></tr>
+          <tr><td><strong>Agency</strong></td>
+            <td class="wrap-ok">The organisation that ran the query, as the export
+              names it.</td>
+            <td class="wrap-ok"><strong>No officer or user is recorded.</strong> You
+              cannot tell whether a department's events came from one person or a
+              hundred.</td></tr>
+          <tr><td><strong>Agency state / type</strong></td>
+            <td class="wrap-ok">Parsed from the agency name, then classified.</td>
+            <td class="wrap-ok">Names arrive in a dozen formats, so state totals
+              move a little depending on how they are resolved.</td></tr>
+          <tr><td><strong>Reason</strong></td>
+            <td class="wrap-ok">The justification given. Free text, then a preset
+              category &mdash; see above.</td>
+            <td class="wrap-ok">Never validated against a case or a statute.
+              <strong>A blank reason means you were not told</strong>, not that
+              nothing was written.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="callout">
+    <h3>What this record cannot tell you</h3>
+    <ul class="plain">
+      <li><strong>Who ran the search.</strong> Agency only, never the officer.</li>
+      <li><strong>Which plate, or what came back.</strong> The log records that a
+        query ran &mdash; not the result, a hit, a stop or an arrest.</li>
+      <li><strong>Which camera, or where.</strong> No location per event.</li>
+      <li><strong>Whether a search was proper.</strong> Nothing here identifies
+        misuse, and no reading of a single row could.</li>
+      <li><strong>That something did not happen.</strong> With no officer, no
+        plate, and a reason field that was optional and is now a menu, absence
+        means <em>not recorded</em> &mdash; not <em>did not occur</em>.</li>
+      <li><strong>A missing case number is not a finding.</strong> Around 89% of
+        events carry none; that is how the vendor exports data.</li>
+    </ul>
+  </div>
+
+  <div class="callout warn">
+    <h3>Obtained by other people&rsquo;s work</h3>
+    <p>None of these records were volunteered. Each export was released only
+      after somebody asked and waited. Row counts here are rows <em>carried by
+      that export</em>, so they sum to more than the number of search events &mdash;
+      most queries appear in more than one town's copy.</p>
+    <div class="tbl-scroll" style="max-height:none">
+      <table class="data" id="provenance">
+        <thead><tr><th>Export</th><th class="num">Rows carried</th>
+          <th>Covering</th><th>Obtained by</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Names in reason text are masked</h3>
+    <p class="note" style="max-width:78ch">Officers type people into the reason
+      box &mdash; suspects, partners, witnesses, people who were simply nearby.
+      Those are replaced with <code>[name]</code>. The rule comes from the corpus
+      itself: a word is masked unless it is ordinary vocabulary or the data shows
+      it to be shared police shorthand. It deliberately over-masks &mdash; a masked
+      acronym costs a reader nothing, an unmasked surname costs a stranger
+      something.</p>
+  </div>
+</section>
+
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p>Every figure is a count of rows in records released by Connecticut towns.
+      Reason text is what an officer typed, not a finding of fact.</p>
+  </div>
+</footer>
+
+<button class="theme-toggle" id="theme-toggle" title="Toggle light / dark" aria-label="Toggle light or dark theme">&#9681;</button>
+<div class="tip" id="tip" role="status" aria-live="polite"></div>
+
+<script>window.__D__ = {"cube":{"n":415,"dims":["mo","org","stype","cat","nets"],"vocab":{"mo":["2025-03","2026-03","2025-08","2025-10","2024-10","2024-03","2024-06","2024-11","2025-05","2025-12","2026-01","2026-07","2025-07","2026-04","2026-06","2026-05","2024-09","2025-02","2024-07","2026-02","2025-06","2025-04","2025-09","2025-01","2023-06","2025-11","2023-07","2024-01","2024-08","2023-08","2024-05","2024-04","2024-12","2023-05","2026-08","2023-10","2023-11","2024-02","2023-09","2023-12"],"org":["South Windsor CT PD"],"stype":["search","lookup - Mobile","lookup","searchSummary - Mobile","search - Mobile"],"cat":["(free text or code)","Traffic Infraction","Drugs/Narcotics","Larceny/Theft Offenses","Welfare Check","Property Recovery (Civil Enforcement)","Motor Vehicle Theft/Stolen","Burglary/Breaking & Entering","Wanted Person (Arrest Warrant/Fugitive)","Hit and Run/Car Accident","Assault/Battery Offenses (Domestic)","Other image search from alerts page associated with Alert: Stolen Plate BP18267","Trespass","Missing/Endangered Person/Runaway","Stolen Property Offenses","Illegal Dumping/Littering","Criminal Motor Vehicle Offense (incl. Road Rage/Reckless)","Disorderly Conduct/Disturbance","Driving Under the Influence (DUI/DWI/OWI/OVI)","Obstructing the Police (Fleeing/Eluding)","Other image search from alerts page associated with Alert: Stolen Plate BE39265","Other image search from alerts page associated with Alert: Stolen Plate AH31263","Wanted Person","Destruction/Damage/Vandalism of Property","Domestic File 5","Robbery","Other image search from alerts page associated with Alert: Stolen Vehicle 00UHPR","Financial Crime (Embezzlement/Fraud)","Disturbing Public Peace/Riot","Weapons Offense (Guns/Shots Fired)","Assault/Battery Offenses","Pornography/Obscene Material","Other image search from alerts page associated with Alert: Stolen Plate BB80520","Other image search from alerts page associated with Alert: Stolen Plate AW74781","Threats/Harassment","Larceny/Theft Offenses, Burglary/Breaking & Entering","Other image search from alerts page associated with Alert: Stolen Plate AZ01997","Other image search from alerts page associated with Alert: Stolen Plate BK88144","Other image search from alerts page associated with Alert: Stolen Vehicle BL44049","Other image search from alerts page associated with Alert: Stolen Vehicle BE26867","AOA","Other image search from alerts page associated with Alert: Stolen Plate BD19736","bolo","Homicide/Death Investigation","Arson","Other image search from alerts page associated with Alert: Missing Person BN34483"],"nets":["10-99","100-999","2-9","1 network","5,000 or more","1,000-4,999"]},"cols":{"mo":[0,1,2,3,4,5,6,7,8,9,10,11,12,3,8,12,1,2,13,14,15,3,16,14,10,17,18,14,19,15,0,20,21,22,15,23,1,12,15,13,10,14,12,0,14,15,15,19,9,19,13,15,14,13,19,2,19,14,13,24,21,21,23,25,25,13,26,25,27,19,0,19,5,15,17,12,14,10,19,15,15,8,1,1,17,3,14,10,1,28,15,15,21,13,21,15,9,8,15,10,10,3,21,22,19,29,15,14,19,13,23,3,9,1,14,1,10,13,10,9,30,31,28,32,12,14,13,8,1,32,10,14,15,21,20,14,13,14,14,1,13,19,33,14,14,15,12,10,10,34,9,18,12,14,19,14,35,1,13,23,15,13,9,25,16,15,34,26,2,22,12,12,15,10,14,14,0,10,20,13,1,4,19,15,19,11,15,19,15,21,10,14,34,34,13,6,11,1,10,10,19,13,10,2,0,23,12,19,12,1,19,36,13,13,8,30,19,37,1,11,12,0,15,9,10,15,14,21,1,22,13,2,15,9,21,9,1,0,15,1,14,13,28,25,10,19,19,15,10,19,32,31,10,1,1,19,7,12,19,12,9,18,15,10,1,31,2,19,38,2,22,8,2,19,30,29,19,19,19,13,14,10,14,9,19,3,13,13,14,15,1,9,14,11,13,18,19,2,13,19,10,15,15,20,34,25,15,14,10,8,3,20,20,15,22,17,32,28,33,7,10,14,14,10,22,8,19,15,19,21,14,1,29,8,20,15,13,36,19,9,13,9,21,19,39,8,10,13,10,14,19,1,14,1,17,10,13,25,19,8,13,17,21,23,26,13,17,9,1,13,10,21,25,3,32,22,35,22,20,2,19,10,39,10,3,19,14,10,14,19,21,19,3,18,13,15,9,22,10,13,15,10,10,10,1,19,19,19,14,13,10,19,13,15,8],"org":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"stype":[0,1,0,2,0,0,0,2,0,0,1,2,1,2,0,1,2,1,3,2,2,0,0,2,1,0,0,2,2,1,2,0,0,2,2,2,2,0,2,0,0,0,4,2,0,1,0,2,2,1,2,2,0,4,2,2,0,0,2,0,0,0,0,2,2,2,0,4,0,0,0,2,0,2,0,0,2,2,1,1,2,2,1,1,2,0,2,1,4,2,2,4,0,4,0,0,2,2,0,0,2,1,0,4,0,0,2,2,4,2,0,1,1,2,2,1,2,1,2,2,2,0,0,2,2,2,0,0,2,0,0,1,0,2,2,2,1,1,0,0,1,2,0,2,0,4,2,2,2,2,2,0,2,2,1,1,0,0,2,0,2,4,2,0,0,1,2,0,4,0,0,2,2,2,2,0,0,0,1,2,0,0,4,1,0,2,2,0,1,0,2,4,2,2,1,0,2,2,2,2,0,1,2,1,0,2,0,2,2,2,0,0,2,2,0,0,2,0,0,2,0,2,0,2,0,2,2,0,2,0,2,1,0,2,0,2,0,0,1,0,2,2,0,0,2,2,1,2,2,2,0,0,1,1,1,4,2,1,0,4,2,2,1,2,1,0,0,1,0,4,1,0,2,1,0,0,2,2,1,3,0,0,2,2,2,2,0,1,1,0,2,0,2,2,2,2,2,2,1,2,2,0,1,1,2,0,2,4,2,0,0,0,4,0,2,0,0,0,0,0,0,2,2,0,2,0,2,2,0,0,1,2,0,2,0,2,1,0,0,2,2,1,0,2,2,2,0,1,2,1,1,1,2,1,2,2,0,2,2,0,1,2,0,0,0,4,0,4,1,0,1,2,1,4,2,2,0,2,0,0,2,0,0,1,0,4,1,2,2,0,0,2,1,0,1,4,2,2,1,2,0,0,2,2,0,0,0,2,0,2,2,1,1,2,0],"cat":[0,1,0,0,0,0,0,0,0,0,2,3,0,0,0,0,4,0,4,5,6,0,0,7,8,0,0,9,10,7,0,0,11,0,12,0,13,0,4,9,14,15,0,0,9,3,10,16,3,16,2,8,16,1,4,0,10,12,17,0,0,0,0,0,0,4,0,0,0,3,0,18,0,3,0,0,4,1,3,1,19,0,9,3,0,0,8,19,1,0,1,7,20,9,21,1,17,22,6,3,9,0,0,0,3,0,23,14,17,3,0,0,0,1,10,6,6,8,4,6,0,0,0,0,24,25,17,26,7,0,27,4,3,0,0,1,28,29,1,8,1,30,0,2,6,31,0,6,10,4,0,0,0,3,9,14,0,1,27,0,9,4,0,0,0,13,3,0,0,0,0,0,16,3,29,3,0,25,0,13,16,0,2,17,8,2,2,10,8,32,19,3,1,16,2,0,13,2,3,29,16,25,19,0,0,0,0,7,0,16,23,0,16,27,0,0,1,0,7,6,0,0,19,14,8,17,17,0,10,0,13,0,7,3,33,0,16,0,9,3,15,30,0,0,34,6,1,13,2,12,0,0,25,16,25,3,0,0,10,0,1,0,10,34,4,0,0,2,0,0,0,0,0,10,0,0,4,19,17,1,7,14,16,0,16,0,16,19,3,16,6,0,34,4,29,0,10,0,3,29,8,4,4,0,9,0,35,10,3,36,0,0,0,9,0,0,0,0,0,0,3,30,13,16,0,0,3,7,30,0,13,3,0,0,0,10,9,0,9,30,6,6,37,13,0,0,9,7,9,6,19,13,6,2,0,13,3,0,9,38,4,0,39,0,0,3,0,0,19,3,3,0,0,0,0,40,0,0,0,0,2,3,0,9,0,10,10,25,18,30,41,8,0,0,34,1,6,42,0,43,16,9,14,10,10,6,7,3,4,3,16,7,13,44,45],"nets":[0,1,2,1,0,3,0,4,1,1,1,1,1,4,4,4,1,0,1,1,1,3,2,1,1,3,2,1,1,1,1,3,0,3,1,4,1,0,1,2,2,1,1,4,1,1,1,1,0,1,1,1,1,1,1,2,0,1,1,0,1,4,2,1,4,1,2,1,0,2,3,1,0,1,0,3,1,1,1,1,1,0,1,1,0,0,1,1,1,0,1,1,0,1,0,1,1,1,1,0,0,1,2,1,1,0,1,1,1,1,1,4,1,1,1,1,1,1,1,1,0,3,2,4,1,1,1,0,1,2,1,1,1,0,4,1,1,1,1,1,1,1,2,1,1,1,3,4,1,1,1,0,1,1,1,1,0,1,1,3,1,1,4,1,0,1,1,3,0,1,2,4,1,1,1,1,2,2,0,2,1,2,1,1,1,1,1,2,1,0,1,1,1,1,1,2,1,1,4,1,1,1,4,1,1,0,1,1,2,1,1,0,1,2,0,2,1,0,1,1,4,0,1,1,1,1,1,3,1,2,1,4,1,1,0,2,2,4,1,1,1,1,3,2,4,1,1,1,1,1,3,2,1,1,1,1,0,0,1,0,1,5,1,1,1,0,1,1,0,1,1,2,1,1,0,3,2,1,1,1,1,1,1,0,2,2,2,1,1,1,1,2,1,1,1,0,2,4,1,1,1,1,1,4,1,0,1,1,0,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,4,3,1,1,1,0,1,1,2,4,4,1,1,3,2,1,1,1,0,1,0,1,1,1,4,1,1,1,1,1,1,1,2,0,1,0,1,4,0,0,0,1,2,1,1,1,1,4,1,1,0,1,3,2,2,3,1,2,0,1,2,1,1,1,1,2,0,1,0,3,1,1,0,1,1,1,3,2,1,0,1,1,1,2,1,0,1,1,1,1,0],"events":[37,12,16,130,64,20,18,3,231,28,46,5,78,8,11,7,9,12,1,3,11,15,22,6,12,26,40,11,22,10,1,11,1,2,11,14,4,3,5,2,2,2,13,6,3,1,1,3,2,5,3,2,3,1,2,1,2,1,1,41,407,20,77,137,21,25,32,24,11,17,40,25,37,23,11,19,27,12,9,12,1,14,7,4,7,1,10,2,3,1,14,4,3,1,3,3,1,1,1,2,1,161,69,21,18,130,2,17,10,51,176,2,40,13,38,5,4,2,9,12,2,12,3,3,1,7,2,2,2,11,3,1,3,8,1,4,1,3,2,1,2,2,1,2,1,3,1,1,1,1,182,171,90,54,7,21,47,3,5,27,20,7,20,53,63,1,17,29,6,33,27,27,9,29,3,13,76,3,6,2,2,5,3,3,1,3,9,9,2,1,6,4,1,3,1,2,1,1,1,1,1,1,1,61,180,31,40,7,15,63,4,176,4,1,17,9,6,20,2,6,11,15,10,5,1,16,6,11,1,4,5,2,8,4,1,3,4,6,2,4,2,5,1,1,1,1,2,3,3,2,5,4,1,4,1,2,4,1,2,1,1,2,1,1,1,73,30,40,41,29,58,68,77,7,67,9,2,4,4,1,19,1,5,8,2,34,1,4,11,12,22,2,2,7,3,8,2,19,6,1,4,2,1,3,1,1,1,2,2,1,62,92,81,7,86,213,94,110,47,119,9,24,71,3,15,36,21,7,1,17,7,23,28,14,3,13,13,8,3,10,7,4,3,3,3,3,4,3,2,2,1,2,4,2,2,2,2,2,1,1,1,1,1,45,179,12,28,6,13,11,6,42,83,11,12,4,18,15,19,9,46,5,61,7,7,5,6,7,11,3,5,4,1,1,5,9,2,2,4,2,1,6,3,5,1,2,1,2,3,2,2,1,5,1,1],"net_sum":[1234,2628,66,30940,2978,20,754,16758,50821,6046,10166,546,17687,51387,70982,44290,1528,1004,219,657,2195,15,78,1314,2652,26,166,1869,2772,2180,229,11,59,2,2302,82984,876,30,774,12,10,434,2948,37435,657,218,219,661,178,1091,550,437,657,219,326,6,26,219,220,860,93312,127916,348,31607,135276,5496,94,5438,435,43,40,5525,1554,4072,314,19,5912,2652,1980,2619,112,958,1535,876,413,15,2180,442,660,12,2852,875,177,219,177,657,221,229,219,23,87,36832,360,4763,3972,3805,438,3183,2210,9809,39272,12806,8948,2533,8284,1095,884,438,1989,2652,98,12,17,17030,227,1533,438,118,440,26,663,218,657,533,6506,769,219,654,438,219,438,442,8,222,219,655,1,5857,128,109,40144,8120,20223,10426,1534,4578,1410,660,768,27,4166,1533,117172,10824,2800,218,1768,29,210,7481,113,170697,1971,6130,657,2845,359,6,456,4,440,22,659,654,220,330,1329,63,436,61,1326,873,104,327,219,4,110,105,5877,221,220,220,5877,13847,41118,1829,8716,1454,76,13860,880,5292,768,2,512,40,1320,840,440,654,69399,944,2190,1105,221,3397,1314,11,220,17,1100,12875,1752,884,59,14,8,37540,436,880,434,1100,1,6,5882,221,442,656,662,442,5,8,221,549,219,441,172,79,442,35,221,9896,218,221,219,3333,5211,8838,1230,6583,13206,335,16726,1534,3171,9,8,884,884,219,4161,221,1095,680,4,194,2,876,2393,2529,4840,10,438,768,660,232,4,122068,1311,128,884,438,218,19498,104,10,219,434,176,59,13925,20082,18513,1533,19239,46681,4783,5249,787,5685,1989,5040,13413,663,98151,36,4444,1426,221,559,1525,4141,96,89983,19468,2740,2850,0,9,2210,1534,884,177,659,83,561,884,657,11766,436,221,438,660,438,458,349,6,28,221,62,218,6053,59,2518,4475,2635,118,1344,2847,2414,1326,268691,18694,2497,550,908,18,61,61,9,7266,27,2013,1547,34,1105,1301,1547,2409,9,295,881,91,1,1090,1966,178,278,884,242,1,18,663,450,220,441,220,4,657,36,442,220,1092,219,59],"ai":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"org_state":["CT"],"org_etype":["city_county"],"nets_order":["(not recorded)","1 network","2-9","10-99","100-999","1,000-4,999","5,000 or more"]},"meta":{"events":7658,"agencies":1,"switch_month":"2025-12","scope":{"agency":"South Windsor CT PD"},"methodology":[{"mo":"2023-05","events":48,"preset":0},{"mo":"2023-06","events":41,"preset":0},{"mo":"2023-07","events":240,"preset":0},{"mo":"2023-08","events":167,"preset":0},{"mo":"2023-09","events":41,"preset":0},{"mo":"2023-10","events":65,"preset":0},{"mo":"2023-11","events":184,"preset":0},{"mo":"2023-12","events":64,"preset":0},{"mo":"2024-01","events":11,"preset":0},{"mo":"2024-02","events":20,"preset":0},{"mo":"2024-03","events":57,"preset":0},{"mo":"2024-04","events":89,"preset":0},{"mo":"2024-05","events":78,"preset":0},{"mo":"2024-06","events":20,"preset":0},{"mo":"2024-07","events":222,"preset":0},{"mo":"2024-08","events":115,"preset":0},{"mo":"2024-09","events":85,"preset":0},{"mo":"2024-10","events":69,"preset":0},{"mo":"2024-11","events":126,"preset":0},{"mo":"2024-12","events":125,"preset":0},{"mo":"2025-01","events":370,"preset":0},{"mo":"2025-02","events":288,"preset":0},{"mo":"2025-03","events":361,"preset":0},{"mo":"2025-04","events":592,"preset":18},{"mo":"2025-05","events":400,"preset":6},{"mo":"2025-06","events":216,"preset":0},{"mo":"2025-07","events":334,"preset":1},{"mo":"2025-08","events":262,"preset":0},{"mo":"2025-09","events":240,"preset":6},{"mo":"2025-10","events":432,"preset":0},{"mo":"2025-11","events":322,"preset":0},{"mo":"2025-12","events":330,"preset":41},{"mo":"2026-01","events":215,"preset":211},{"mo":"2026-02","events":318,"preset":318},{"mo":"2026-03","events":209,"preset":209},{"mo":"2026-04","events":201,"preset":201},{"mo":"2026-05","events":245,"preset":245},{"mo":"2026-06","events":411,"preset":411},{"mo":"2026-07","events":22,"preset":22},{"mo":"2026-08","events":23,"preset":23}],"examples":{"before":[{"reason":"Larceny","events":26},{"reason":"Burglary","events":25},{"reason":"Bolo","events":24},{"reason":"file 5","events":20},{"reason":"missing person","events":18},{"reason":"file 01","events":15},{"reason":"larceny","events":15},{"reason":"ATM Burglary","events":13}],"after":[{"reason":"Criminal Motor Vehicle Offense (incl. Road Rage/Reckless) - car vs [name]","events":58},{"reason":"Motor Vehicle Theft/Stolen -","events":27},{"reason":"Larceny/Theft Offenses -","events":21},{"reason":"Traffic Infraction -","events":18},{"reason":"Obstructing the Police (Fleeing/Eluding) -","events":13},{"reason":"Criminal Motor Vehicle Offense (incl. Road Rage/Reckless) -","events":12},{"reason":"Welfare Check -","events":9},{"reason":"Larceny/Theft Offenses - Shoplifting","events":4}]},"keyword_eras":[{"term":"immigration or ICE","before":0,"after":0},{"term":"protest","before":0,"after":0},{"term":"girlfriend or boyfriend","before":0,"after":0},{"term":"suspicious","before":69,"after":22},{"term":"test or training","before":21,"after":0}],"mask":{"exempt_tokens":547,"strings_masked":21,"reason_strings":382},"sources":[{"town":"Manchester","rows_carried":6525,"first":"2023-05-10","last":"2026-04-20","obtained_by":"MuckRock","detail":"Requested and released through MuckRock's public records platform, where the request and response stay on the record.","url":"https://www.muckrock.com/"},{"town":"Farmington","rows_carried":3464,"first":"2025-06-01","last":"2026-06-30","obtained_by":"Citizens for Farmington","detail":"Released to a residents' group after a records effort they describe as taking ten months.","url":"https://sites.google.com/view/citizens-for-farmington/"},{"town":"Windsor","rows_carried":2806,"first":"2023-05-10","last":"2026-04-24","obtained_by":"MuckRock","detail":"Requested and released through MuckRock's public records platform, where the request and response stay on the record.","url":"https://www.muckrock.com/"},{"town":"Waterford","rows_carried":666,"first":"2023-12-14","last":"2026-05-05","obtained_by":"MuckRock","detail":"Requested and released through MuckRock's public records platform, where the request and response stay on the record.","url":"https://www.muckrock.com/"},{"town":"Darien","rows_carried":90,"first":"2024-07-27","last":"2026-02-25","obtained_by":"MuckRock","detail":"Requested and released through MuckRock's public records platform, where the request and response stay on the record.","url":"https://www.muckrock.com/"},{"town":"North Haven","rows_carried":45,"first":"2026-07-17","last":"2026-08-09","obtained_by":"MuckRock","detail":"Requested and released through MuckRock's public records platform, where the request and response stay on the record.","url":"https://www.muckrock.com/"}]},"reasons":{"n":382,"masked":21,"columns":["reason","events","agencies","first","last","era"],"rows":[["narcotics",397,1,"2023-07","2025-07","before"],["drugs",365,1,"2023-08","2025-01","before"],["Larceny",290,1,"2024-03","2025-12","both"],["Larceny/Theft Offenses -",269,1,"2025-12","2026-08","after"],["Drugs",223,1,"2023-08","2025-07","before"],["Bolo",223,1,"2025-03","2025-12","both"],["Narcotics",198,1,"2023-06","2025-12","both"],["larceny",162,1,"2024-03","2025-12","both"],["2500007365",134,1,"2025-04","2025-04","before"],["Drugs/Narcotics -",125,1,"2026-01","2026-07","after"],["Narcotics",110,1,"2023-07","2024-07","before"],["Assault/Battery Offenses (Domestic) -",106,1,"2026-02","2026-06","after"],["Burglary",105,1,"2024-04","2025-11","before"],["Welfare Check -",103,1,"2026-01","2026-08","after"],["File 01",101,1,"2023-06","2025-11","before"],["Missing/Endangered Person/Runaway -",97,1,"2026-01","2026-07","after"],["Daytime search for best result",93,1,"2025-04","2025-07","before"],["25000001182",88,1,"2025-01","2025-01","before"],["Hit and Run/Car Accident -",75,1,"2026-01","2026-08","after"],["Motor Vehicle Theft/Stolen -",70,1,"2025-12","2026-07","after"],["2500009478",66,1,"2025-05","2025-05","before"],["Criminal Motor Vehicle Offense (incl. Road Rage/Reckless) - car vs [name]",58,1,"2026-03","2026-03","after"],["2500003309",55,1,"2025-02","2025-02","before"],["2500003596",54,1,"2025-02","2025-02","before"],["BOLO",54,1,"2023-05","2025-10","before"],["Criminal Investigation",53,1,"2025-03","2025-09","before"],["criminal justice",52,1,"2025-07","2025-12","both"],["Traffic Infraction -",48,1,"2025-12","2026-06","after"],["Criminal Motor Vehicle Offense (incl. Road Rage/Reckless) -",47,1,"2026-01","2026-08","after"],["2500007634",47,1,"2025-04","2025-04","before"],["AOA",46,1,"2025-10","2025-11","before"],["Assault/Battery Offenses -",45,1,"2025-12","2026-06","after"],["Suspicious",41,1,"2024-10","2025-11","before"],["MV Violation",41,1,"2025-04","2025-04","before"],["Criminal Justice",40,1,"2025-07","2025-10","before"],["burg",39,1,"2023-05","2025-07","before"],["Obstructing the Police (Fleeing/Eluding) -",38,1,"2026-01","2026-05","after"],["Wanted Person (Arrest Warrant/Fugitive) -",38,1,"2026-01","2026-06","after"],["25-22801",38,1,"2025-12","2025-12","after"],["Driving Under the Influence (DUI/DWI/OWI/OVI) -",36,1,"2026-02","2026-06","after"],["2500007738",33,1,"2025-04","2025-06","before"],["Burglary/Breaking & Entering -",32,1,"2026-02","2026-06","after"],["Disorderly Conduct/Disturbance -",32,1,"2025-12","2026-06","after"],["Arson",31,1,"2025-07","2025-09","before"],["shoplifting",31,1,"2023-06","2025-11","before"],["2500006211",31,1,"2025-04","2025-04","before"],["Evading crash 216",30,1,"2024-08","2024-08","before"],["Fraud Investigation",30,1,"2024-11","2024-11","before"],["2400012974",30,1,"2024-07","2024-11","before"],["2500004579",30,1,"2025-03","2025-03","before"],["2500006715",28,1,"2025-04","2025-04","before"],["2500008039",28,1,"2025-05","2025-05","before"],["2500022890",28,1,"2025-12","2025-12","after"],["Stolen Property Offenses -",27,1,"2025-12","2026-06","after"],["Robbery",26,1,"2024-03","2025-12","both"],["2500013003",25,1,"2025-07","2025-07","before"],["file 01",24,1,"2023-06","2025-11","before"],["2500003124",24,1,"2025-02","2025-02","before"],["MPD BOLO",24,1,"2025-10","2025-10","before"],["Shooting",24,1,"2024-04","2025-07","before"],["Larceny/Theft Offenses - Larceny",23,1,"2026-01","2026-06","after"],["missing person",23,1,"2025-06","2025-11","before"],["2500019855",23,1,"2025-10","2025-10","before"],["susp veh for 153",22,1,"2025-02","2025-02","before"],["2500004241",22,1,"2025-03","2025-03","before"],["take off",22,1,"2025-03","2025-03","before"],["Criminal justice",22,1,"2025-04","2025-08","before"],["2500012613",20,1,"2025-07","2025-07","before"],["file 5",20,1,"2025-11","2025-11","before"],["Drugs/Narcotics - Narco",19,1,"2026-01","2026-01","after"],["2500008666",19,1,"2025-05","2025-05","before"],["2400020066",19,1,"2024-09","2024-09","before"],["larc",19,1,"2023-06","2025-10","before"],["2500023447",19,1,"2025-12","2025-12","after"],["2500000974",19,1,"2025-01","2025-01","before"],["Robbery -",19,1,"2026-01","2026-06","after"],["Fraud",18,1,"2025-03","2025-10","before"],["test",18,1,"2025-01","2025-11","before"],["2400017445",18,1,"2025-01","2025-01","before"],["2500000757",18,1,"2025-01","2025-02","before"],["2500000709",18,1,"2025-01","2025-01","before"],["2400019571",17,1,"2024-09","2024-10","before"],["burglary",17,1,"2024-09","2025-11","before"],["Domestic",17,1,"2025-01","2025-11","before"],["2500000500",17,1,"2025-01","2025-01","before"],["[name]",17,1,"2025-10","2025-10","before"],["Assist [name]",17,1,"2025-07","2025-07","before"],["robbery",17,1,"2024-03","2025-12","both"],["2500014051",16,1,"2025-08","2025-08","before"],["Evading",16,1,"2023-12","2025-09","before"],["2500008496",16,1,"2025-05","2025-05","before"],["Misuse",16,1,"2025-03","2025-09","before"],["Shoplifting",16,1,"2023-06","2025-10","before"],["2500023425",16,1,"2025-12","2025-12","after"],["25-18060",16,1,"2025-09","2025-09","before"],["Investigation",15,1,"2024-08","2025-08","before"],["narcotics",15,1,"2024-07","2024-07","before"],["2500023694",15,1,"2025-12","2025-12","after"],["suspicious",15,1,"2024-04","2025-12","both"],["MVA",15,1,"2023-11","2025-05","before"],["2500000179",14,1,"2025-01","2025-01","before"],["2500000888",14,1,"2025-01","2025-01","before"],["investigation",14,1,"2025-08","2025-10","before"],["theft",14,1,"2023-08","2025-03","before"],["2500010443",14,1,"2025-06","2025-06","before"],["Drugs/Narcotics - Narcotics",14,1,"2026-01","2026-02","after"],["2500001182",13,1,"2025-01","2025-01","before"],["ATM Burglary",13,1,"2025-11","2025-11","before"],["2500012839",13,1,"2025-07","2025-07","before"],["2500005337",13,1,"2025-03","2025-03","before"],["Missing Person",13,1,"2024-07","2025-06","before"],["250010652",13,1,"2025-06","2025-06","before"],["2500013623",13,1,"2025-07","2025-07","before"],["2500018901",12,1,"2025-10","2025-10","before"],["2500023197",12,1,"2025-12","2025-12","after"],["2500017221",12,1,"2025-09","2025-09","before"],["2500004938",12,1,"2025-03","2025-03","before"],["case",12,1,"2025-04","2025-11","before"],["2500003339",12,1,"2025-02","2025-02","before"],["Traffic Infraction - manchester bolo",12,1,"2026-01","2026-01","after"],["bolo [name]",11,1,"2025-09","2025-09","before"],["Trespass - suspicious vehicle",11,1,"2026-05","2026-05","after"],["Stolen Property Offenses - bolo e [name]",11,1,"2026-06","2026-06","after"],["2500015401",11,1,"2025-08","2025-08","before"],["Traffic Infraction - suspect veh",11,1,"2026-05","2026-05","after"],["2300007761",11,1,"2023-05","2023-05","before"],["2500018031",11,1,"2025-09","2025-09","before"],["Hit and Run/Car Accident - [name] BOLO",11,1,"2026-05","2026-05","after"],["file+1",10,1,"2025-05","2025-05","before"],["Larceny Suspect 2400018578",10,1,"2024-10","2024-10","before"],["25000036923",10,1,"2025-03","2025-03","before"],["gun",10,1,"2024-09","2024-09","before"],["Larceny/Theft Offenses - case",10,1,"2026-02","2026-02","after"],["Larceny/Theft Offenses - Shoplifting",10,1,"2026-01","2026-04","after"],["stolen mv",10,1,"2025-11","2025-12","both"],["25-17553",10,1,"2025-09","2025-10","before"],["Takeoff",10,1,"2025-04","2025-06","before"],["2500020740",10,1,"2025-11","2025-11","before"],["Larceny [name]",10,1,"2024-09","2024-09","before"],["2400003191",9,1,"2024-02","2024-02","before"],["Financial Crime (Embezzlement/Fraud) -",9,1,"2026-01","2026-04","after"],["2500002591",9,1,"2025-02","2025-02","before"],["2500007981",9,1,"2025-05","2025-05","before"],["Larceny/Theft Offenses - Generator Theft",9,1,"2026-04","2026-04","after"],["2500024053",9,1,"2025-12","2025-12","after"],["[name]",9,1,"2025-10","2025-10","before"],["Burglary/Breaking & Entering - Burglary",9,1,"2026-05","2026-06","after"],["Welfare check",9,1,"2025-07","2025-11","before"],["suspicious circumstances",9,1,"2024-08","2024-08","before"],["2500010652",9,1,"2025-06","2025-06","before"],["2400025121",9,1,"2024-11","2024-11","before"],["Identity theft",9,1,"2025-10","2025-11","before"],["Larceny/Theft Offenses - BM86185",9,1,"2026-02","2026-02","after"],["2500000341",8,1,"2025-01","2025-01","before"],["bolo",8,1,"2023-12","2025-10","before"],["takeoff",8,1,"2025-05","2025-10","before"],["25-14279",8,1,"2025-08","2025-08","before"],["2500008334",8,1,"2025-05","2025-05","before"],["2500014143",8,1,"2025-08","2025-08","before"],["Mva",8,1,"2025-09","2025-09","before"],["2500022800",8,1,"2025-12","2025-12","after"],["shooting",8,1,"2024-04","2024-12","before"],["2500005218",8,1,"2025-03","2025-03","before"],["2500015187",8,1,"2025-08","2025-08","before"],["larceny 203",8,1,"2023-05","2023-05","before"],["Disorderly Conduct/Disturbance - newington pd bolo",8,1,"2026-05","2026-05","after"],["25-19285",8,1,"2025-10","2025-10","before"],["2500007987",8,1,"2025-05","2025-05","before"],["2500010139",8,1,"2025-06","2025-06","before"],["Animal Cruelty",7,1,"2024-04","2024-05","before"],["2500016617",7,1,"2025-09","2025-09","before"],["2500002463",7,1,"2025-02","2025-02","before"],["Burglary/Breaking & Entering - 2600009622",7,1,"2026-05","2026-05","after"],["2500016694",7,1,"2025-09","2025-09","before"],["Assault",7,1,"2024-04","2024-10","before"],["2400026851",7,1,"2024-12","2024-12","before"],["2500018889",7,1,"2025-10","2025-10","before"],["2500009949",7,1,"2025-06","2025-06","before"],["2400003545",7,1,"2024-03","2024-03","before"],["evading",7,1,"2023-07","2025-09","before"],["BOLO Windsor",7,1,"2025-10","2025-10","before"],["[name]",7,1,"2025-04","2025-04","before"],["2500007553",7,1,"2025-04","2025-04","before"],["Evading MVA",7,1,"2025-01","2025-10","before"],["2500003923",7,1,"2025-03","2025-03","before"],["2500004667",7,1,"2025-03","2025-03","before"],["Stolen Car",7,1,"2025-05","2025-05","before"],["2500002125",7,1,"2025-02","2025-02","before"],["troop k fatal",7,1,"2025-12","2025-12","after"],["mv violation",6,1,"2025-04","2025-11","before"],["Motor Vehicle Theft/Stolen - stolen",6,1,"2026-05","2026-05","after"],["File 16",6,1,"2024-12","2025-08","before"],["25-17719",6,1,"2025-09","2025-10","before"],["AY36101",6,1,"2023-07","2023-07","before"],["25-12824",6,1,"2025-07","2025-07","before"],["2500021173",6,1,"2025-11","2025-11","before"],["2500013162",6,1,"2025-07","2025-07","before"],["2500018521",6,1,"2025-10","2025-10","before"],["Stolen Property Offenses - 2600001268",6,1,"2026-01","2026-01","after"],["2500008665",6,1,"2025-05","2025-05","before"],["[name]",6,1,"2024-04","2024-04","before"],["2500020471",6,1,"2025-11","2025-11","before"],["2500016078",6,1,"2025-09","2025-09","before"],["24001676",6,1,"2024-08","2024-08","before"],["Stolen motor vehicle",6,1,"2025-01","2025-01","before"],["arson",6,1,"2025-07","2025-07","before"],["250001518",6,1,"2025-08","2025-08","before"],["2500008907",6,1,"2025-05","2025-05","before"],["2500013830",6,1,"2025-07","2025-07","before"],["250004518",6,1,"2025-03","2025-03","before"],["2500008614",6,1,"2025-05","2025-05","before"],["File 05",6,1,"2025-04","2025-11","before"],["Traffic Infraction - AOA",6,1,"2026-03","2026-04","after"],["Escaped prisoner",6,1,"2025-07","2025-08","before"],["2500014142",6,1,"2025-08","2025-08","before"],["2500018192",6,1,"2025-09","2025-09","before"],["Larceny/Theft Offenses - Larceny Suspects",6,1,"2026-05","2026-06","after"],["2500018887",6,1,"2025-10","2025-10","before"],["2500011040",5,1,"2025-06","2025-06","before"],["Wanted person",5,1,"2025-07","2025-07","before"],["2500003364",5,1,"2025-02","2025-02","before"],["2500004019",5,1,"2025-03","2025-03","before"],["Stolen trailer",5,1,"2025-07","2025-07","before"],["2500012140",5,1,"2025-07","2025-07","before"],["25-21323",5,1,"2025-11","2025-11","before"],["windsor locks bolo",5,1,"2025-10","2025-10","before"],["Burglary/Breaking & Entering - Burglary suspect",5,1,"2026-06","2026-06","after"],["domestic",5,1,"2025-05","2025-10","before"],["Larceny/Theft Offenses - east hartford bolo",5,1,"2026-04","2026-04","after"],["2500011189",5,1,"2025-06","2025-06","before"],["2500007709",5,1,"2025-05","2025-05","before"],["25-19140",5,1,"2025-10","2025-10","before"],["2500012221",5,1,"2025-07","2025-07","before"],["2500009785",5,1,"2025-05","2025-05","before"],["Threats/Harassment - Locate",5,1,"2026-04","2026-04","after"],["susp",5,1,"2023-07","2024-07","before"],["Larceny/Theft Offenses - Case",5,1,"2026-06","2026-06","after"],["[name] justice",5,1,"2025-07","2025-07","before"],["250003328",5,1,"2025-02","2025-02","before"],["2500018412",5,1,"2025-10","2025-10","before"],["Burglary [name]",5,1,"2023-05","2023-05","before"],["Criminal Motor Vehicle Offense (incl. Road Rage/Reckless) - BOP",5,1,"2026-02","2026-02","after"],["Traffic Infraction - Attempt To Identify Road [name]",5,1,"2026-05","2026-05","after"],["250000290",5,1,"2025-02","2025-02","before"],["2500001361",5,1,"2025-01","2025-01","before"],["assault",5,1,"2023-11","2025-10","before"],["250003523",5,1,"2025-02","2025-02","before"],["Burglary/Breaking & Entering - 26-11844",5,1,"2026-06","2026-06","after"],["Breach of Peace",5,1,"2025-12","2025-12","after"],["2500016490",5,1,"2025-09","2025-09","before"],["Drugs",5,1,"2023-08","2023-08","before"],["[name]",5,1,"2025-11","2025-11","before"],["2500011435",5,1,"2025-06","2025-06","before"],["2400000012",5,1,"2024-01","2024-01","before"],["Pursuit",5,1,"2025-04","2025-07","before"],["Assault/Battery Offenses (Domestic) - 26-429",5,1,"2026-01","2026-01","after"],["2400026593",5,1,"2024-12","2024-12","before"],["2500002707",5,1,"2025-02","2025-02","before"],["[name]",5,1,"2024-07","2024-07","before"],["Traffic stop attempt",5,1,"2025-03","2025-03","before"],["Hit and Run/Car Accident - next of kin",5,1,"2026-01","2026-01","after"],["mva",5,1,"2025-11","2025-11","before"],["2500015644",4,1,"2025-08","2025-08","before"],["DUI",4,1,"2025-05","2025-06","before"],["Stabbing",4,1,"2025-10","2025-10","before"],["25-10002",4,1,"2025-06","2025-06","before"],["2500002278",4,1,"2025-02","2025-02","before"],["AOA - Warrant Service Information",4,1,"2025-09","2025-09","before"],["25-14805",4,1,"2025-08","2025-08","before"],["2500010900",4,1,"2025-06","2025-06","before"],["Traffic Infraction - mv violation",4,1,"2026-03","2026-03","after"],["2500023239",4,1,"2025-12","2025-12","after"],["25-6674",4,1,"2025-04","2025-04","before"],["Stolen Property Offenses - BOLO",4,1,"2026-06","2026-06","after"],["MV [name]",4,1,"2025-01","2025-01","before"],["Burglary/Breaking & Entering - ATM Burglary",4,1,"2026-02","2026-02","after"],["2500004900",4,1,"2025-03","2025-03","before"],["2500003716",4,1,"2025-03","2025-03","before"],["2500006533",4,1,"2025-04","2025-04","before"],["2300026832",4,1,"2023-12","2023-12","before"],["Larceny suspects.",4,1,"2024-11","2024-11","before"],["Weapons Offense (Guns/Shots Fired) -",4,1,"2026-01","2026-04","after"],["250000363",4,1,"2025-02","2025-02","before"],["Suspicious",4,1,"2024-01","2024-01","before"],["2500009305",4,1,"2025-05","2025-05","before"],["2500008589",4,1,"2025-05","2025-05","before"],["25000",4,1,"2025-02","2025-09","before"],["file 16",4,1,"2024-12","2024-12","before"],["2500015687",4,1,"2025-08","2025-08","before"],["officer safety",4,1,"2025-08","2025-08","before"],["Illegal Dumping/Littering -",4,1,"2026-06","2026-06","after"],["250008128",4,1,"2025-05","2025-05","before"],["Destruction/Damage/Vandalism of Property - Evading",4,1,"2026-02","2026-02","after"],["250004335",4,1,"2025-03","2025-03","before"],["2400004038",4,1,"2024-03","2024-03","before"],["[name]",4,1,"2025-10","2025-10","before"],["250000412",4,1,"2025-03","2025-03","before"],["Larceny suspect",4,1,"2025-08","2025-09","before"],["Hit and Run/Car Accident - bolo",4,1,"2026-03","2026-03","after"],["Larceny/Theft Offenses - 2600002814",4,1,"2026-02","2026-02","after"],["Criminal Motor Vehicle Offense (incl. Road Rage/Reckless) - Evading",4,1,"2026-05","2026-06","after"],["[name] ex theft",4,1,"2025-03","2025-03","before"],["Burglary/Breaking & Entering - Mv Burg",4,1,"2026-05","2026-05","after"],["Stolen Trailer",4,1,"2026-01","2026-01","after"],["250001659",4,1,"2025-01","2025-01","before"],["250001508",4,1,"2025-08","2025-08","before"],["bolo file 1",4,1,"2025-11","2025-11","before"],["25-1753",3,1,"2025-01","2025-01","before"],["2500021713",3,1,"2025-11","2025-11","before"],["Stolen MV",3,1,"2025-05","2025-05","before"],["250005817",3,1,"2025-03","2025-03","before"],["2500007951",3,1,"2025-05","2025-05","before"],["Weapons Offense (Guns/Shots Fired) - BOLO Shooting",3,1,"2026-06","2026-06","after"],["Homicide suspect HPD",3,1,"2023-10","2023-10","before"],["2500023962",3,1,"2025-12","2025-12","after"],["Burg",3,1,"2024-03","2024-07","before"],["Investigators",3,1,"2025-10","2025-10","before"],["[name]",3,1,"2025-02","2025-02","before"],["Weapons Offense (Guns/Shots Fired) - bolo [name]",3,1,"2026-06","2026-06","after"],["Stolen",3,1,"2025-07","2025-10","before"],["2400026577",3,1,"2024-12","2024-12","before"],["25-13316",3,1,"2025-07","2025-07","before"],["2500008356",3,1,"2025-05","2025-05","before"],["Wanted",3,1,"2025-05","2025-11","before"],["25-2278",3,1,"2025-02","2025-02","before"],["BOP",3,1,"2025-08","2025-08","before"],["2500001150",3,1,"2025-01","2025-01","before"],["Stolen vehicle",3,1,"2025-07","2025-07","before"],["Stolen mv",3,1,"2025-11","2025-11","before"],["2500004718",3,1,"2025-03","2025-03","before"],["2500005874",3,1,"2025-03","2025-03","before"],["Kidnapping",3,1,"2025-04","2025-04","before"],["MV Larceny",3,1,"2024-12","2024-12","before"],["Regional shoplifting",3,1,"2024-02","2024-02","before"],["2500020668",3,1,"2025-11","2025-11","before"],["2500004725",3,1,"2025-03","2025-03","before"],["Traffic Infraction - Road Rage",3,1,"2026-03","2026-03","after"],["2500000764",3,1,"2025-01","2025-01","before"],["25-1264",3,1,"2025-01","2025-01","before"],["2400021435",3,1,"2024-10","2024-10","before"],["2500013558",3,1,"2025-07","2025-07","before"],["2500004733",3,1,"2025-03","2025-03","before"],["Larceny/Theft Offenses - Suspect getaway vehicle",3,1,"2026-04","2026-04","after"],["2500016547",3,1,"2025-09","2025-09","before"],["2500021792",3,1,"2025-11","2025-11","before"],["2500016315",3,1,"2025-09","2025-10","before"],["2500020346",3,1,"2025-11","2025-11","before"],["Ts Attempt",3,1,"2025-04","2025-04","before"],["2400010513",3,1,"2024-05","2024-05","before"],["2500018515",3,1,"2025-10","2025-10","before"],["25-757",3,1,"2025-01","2025-01","before"],["2500023184",3,1,"2025-12","2025-12","after"],["pursuit",3,1,"2024-12","2024-12","before"],["2500024232",3,1,"2025-12","2025-12","after"],["2500018218",3,1,"2025-09","2025-09","before"],["2300027291",3,1,"2023-12","2024-07","before"],["file 6",3,1,"2025-11","2025-11","before"],["2500004518",3,1,"2025-03","2025-03","before"],["AV54394",3,1,"2023-10","2023-10","before"],["Animal cruelty",3,1,"2024-05","2024-05","before"],["2500010776",3,1,"2025-06","2025-06","before"],["Assault/Battery Offenses (Domestic) - [name] BOLO",3,1,"2026-05","2026-05","after"],["File 06",3,1,"2025-12","2025-12","after"],["Pornography/Obscene Material - suspect veh",3,1,"2026-05","2026-05","after"],["Target Larceny",3,1,"2025-05","2025-05","before"],["Criminal Mischief",3,1,"2025-05","2025-07","before"],["Property Recovery (Civil Enforcement) -",3,1,"2026-06","2026-06","after"],["Larceny/Theft Offenses - 26000004595",3,1,"2026-03","2026-03","after"],["FILE 01",3,1,"2023-08","2025-04","before"],["2500004248",3,1,"2025-03","2025-03","before"],["2500020804",3,1,"2025-11","2025-11","before"],["Larceny/Theft Offenses - Cooking oil theft",3,1,"2026-06","2026-06","after"],["Larceny/Theft Offenses - Suspect get away vehicle",3,1,"2026-04","2026-04","after"],["2500021808",3,1,"2025-11","2025-11","before"],["2500020290",3,1,"2025-10","2025-10","before"],["ATM Theft",3,1,"2025-10","2025-11","before"],["25-14512",3,1,"2025-08","2025-08","before"],["MV violation",3,1,"2025-04","2025-04","before"],["2500009071",3,1,"2025-05","2025-05","before"],["overdue",3,1,"2025-11","2025-11","before"],["2500023921",3,1,"2025-12","2025-12","after"],["Evading mv",3,1,"2025-12","2025-12","after"]],"by_org":{"off":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382],"org":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"cnt":[397,365,290,269,223,223,198,162,134,125,110,106,105,103,101,97,93,88,75,70,66,58,55,54,54,53,52,48,47,47,46,45,41,41,40,39,38,38,38,36,33,32,32,31,31,31,30,30,30,30,28,28,28,27,26,25,24,24,24,24,23,23,23,22,22,22,22,20,20,19,19,19,19,19,19,19,18,18,18,18,18,17,17,17,17,17,17,17,16,16,16,16,16,16,16,15,15,15,15,15,14,14,14,14,14,14,13,13,13,13,13,13,13,12,12,12,12,12,12,12,11,11,11,11,11,11,11,11,10,10,10,10,10,10,10,10,10,10,10,9,9,9,9,9,9,9,9,9,9,9,9,9,9,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3]}}};</script>
+<script>
+/* CT ALPR Explorer — cross-filtering over every search event in the corpus.
+
+   One *search event* is one query by one searcher. The cube is a (month,
+   agency, search type, reason category, networks-swept) grid over those —
+   272k cells, so every chart is recomputed from scratch on each interaction in
+   plain JS. A few milliseconds, no library, no query engine, no server.
+
+   State and agency type are not stored per cell. They are properties of the
+   agency, looked up from it, which keeps the cube small and makes it
+   impossible for an agency's state and its type to disagree.
+
+   Cross-filter contract: a chart is drawn from rows matching every filter
+   EXCEPT its own dimension, so a dimension you are filtering on still shows
+   the alternatives you did not pick. */
+
+const fmt = new Intl.NumberFormat("en-US");
+const pct = (x, d = 1) => `${(x * 100).toFixed(d)}%`;
+const el = (id) => document.getElementById(id);
+const esc = (s) => String(s == null ? "" : s)
+  .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+
+const ETYPE_LABEL = {
+  city_county: "City / county police", state: "State agencies",
+  federal: "Federal agencies", regional: "Task forces & fusion centres",
+  educational: "Public colleges & schools", tribal: "Tribal police",
+  private_educational: "Private colleges", private: "Private security",
+  unknown: "Unclassified", unclassified: "Unclassified",
+};
+
+/* Real dimensions live in the cube; derived ones are read off the agency. */
+const DIMS = {
+  mo:    { label: "Month" },
+  org:   { label: "Agency" },
+  stype: { label: "Search type" },
+  cat:   { label: "Reason category" },
+  nets:  { label: "Networks swept" },
+  state: { label: "Agency state", from: "org_state" },
+  etype: { label: "Agency type", from: "org_etype",
+           pretty: (v) => ETYPE_LABEL[v] || v },
+};
+
+const INITIAL_HASH = location.hash;
+
+let CUBE = null, META = null, REASONS = null;
+let derived = {};          // derived dim -> { vocab, ofOrg }
+const filters = {};        // dim -> Set of codes
+
+/* Free text typed into the agency box. It drives filters.org, so typing
+   "south windsor" narrows the charts, the map, the tiles and the agency list
+   together rather than only searching a table nobody has scrolled to yet.
+   Clicking a single agency row clears it and pins that one agency instead. */
+let orgQuery = "";
+
+const label = (dim, v) => (DIMS[dim].pretty ? DIMS[dim].pretty(v) : v);
+const vocabOf = (dim) => (DIMS[dim].from ? derived[dim].vocab : CUBE.vocab[dim]);
+
+/** Code for `dim` on cube row `i`, real or derived. */
+const codeAt = (dim, i) => DIMS[dim].from
+  ? derived[dim].ofOrg[CUBE.cols.org[i]]
+  : CUBE.cols[dim][i];
+
+function buildDerived() {
+  derived = {};
+  for (const [dim, def] of Object.entries(DIMS)) {
+    if (!def.from) continue;
+    const src = CUBE[def.from];
+    const vocab = [], index = new Map();
+    const ofOrg = new Int32Array(src.length);
+    src.forEach((v, orgCode) => {
+      let c = index.get(v);
+      if (c === undefined) { c = vocab.length; index.set(v, c); vocab.push(v); }
+      ofOrg[orgCode] = c;
+    });
+    derived[dim] = { vocab, ofOrg };
+  }
+}
+
+/* --------------------------------------------------------- cross-filter */
+
+function matching(skipDim) {
+  const active = Object.keys(filters).filter((d) => d !== skipDim && filters[d]);
+  const out = [];
+  if (!active.length) {
+    for (let i = 0; i < CUBE.n; i++) out.push(i);
+    return out;
+  }
+  outer:
+  for (let i = 0; i < CUBE.n; i++) {
+    for (const d of active) {
+      if (!filters[d].has(codeAt(d, i))) continue outer;
+    }
+    out.push(i);
+  }
+  return out;
+}
+
+function groupBy(dim) {
+  const rows = matching(dim);
+  const ev = CUBE.cols.events;
+  const totals = new Map();
+  for (const i of rows) {
+    const c = codeAt(dim, i);
+    totals.set(c, (totals.get(c) || 0) + ev[i]);
+  }
+  return totals;
+}
+
+function summary() {
+  const rows = matching(null);
+  let events = 0, ai = 0, nets = 0;
+  const agencies = new Set(), months = new Set(), states = new Set();
+  for (const i of rows) {
+    events += CUBE.cols.events[i];
+    ai += CUBE.cols.ai[i];
+    nets += CUBE.cols.net_sum[i];
+    agencies.add(CUBE.cols.org[i]);
+    months.add(CUBE.cols.mo[i]);
+    states.add(derived.state.ofOrg[CUBE.cols.org[i]]);
+  }
+  return { events, ai, nets, agencies: agencies.size,
+           months: months.size, states: states.size };
+}
+
+/* ----------------------------------------------------------- filter ops */
+
+function toggle(dim, code) {
+  if (dim === "org" && orgQuery) {
+    // An explicit pick replaces a text search rather than intersecting it.
+    orgQuery = "";
+    if (el("agency-pick")) el("agency-pick").value = "";
+    delete filters.org;
+  }
+  filters[dim] = filters[dim] || new Set();
+  if (filters[dim].has(code)) filters[dim].delete(code);
+  else filters[dim].add(code);
+  if (!filters[dim].size) delete filters[dim];
+  render();
+}
+function setDim(dim, codes) {
+  if (!codes || !codes.length) delete filters[dim];
+  else filters[dim] = new Set(codes);
+  render();
+}
+const clearDim = (dim) => {
+  if (dim === "org") {
+    orgQuery = "";
+    if (el("agency-pick")) el("agency-pick").value = "";
+  }
+  delete filters[dim];
+  render();
+};
+const clearAll = () => {
+  Object.keys(filters).forEach((d) => delete filters[d]);
+  orgQuery = "";
+  if (el("agency-pick")) el("agency-pick").value = "";
+  render();
+};
+
+/** Apply the agency text box: every agency whose name contains the query. */
+function applyOrgQuery(text) {
+  orgQuery = (text || "").trim();
+  const q = orgQuery.toLowerCase();
+  if (!q) { delete filters.org; render(); return; }
+  const codes = [];
+  CUBE.vocab.org.forEach((name, code) => {
+    if (name.toLowerCase().includes(q)) codes.push(code);
+  });
+  // No match still filters -- to nothing -- so the reader sees that the name
+  // is absent rather than silently getting the unfiltered corpus back.
+  filters.org = new Set(codes);
+  render();
+}
+
+const filterState = () => Object.entries(filters).map(([dim, set]) =>
+  `${dim}=${encodeURIComponent([...set].map((c) => vocabOf(dim)[c]).join("|"))}`
+).join("&");
+
+function applyHash() {
+  const raw = INITIAL_HASH.replace(/^#/, "");
+  if (!raw || raw === "how") return;
+  for (const part of raw.split("&")) {
+    const [dim, val] = part.split("=");
+    if (!DIMS[dim] || !val) continue;
+    const set = new Set();
+    decodeURIComponent(val).split("|").forEach((v) => {
+      const c = vocabOf(dim).indexOf(v);
+      if (c >= 0) set.add(c);
+    });
+    if (set.size) filters[dim] = set;
+  }
+}
+
+/* ---------------------------------------------------------------- charts */
+
+function drawBars(mount, dim, { limit = 0, order = null } = {}) {
+  const totals = groupBy(dim);
+  const sel = filters[dim] || new Set();
+  let items = [...totals.entries()].map(([code, n]) =>
+    ({ code, label: label(dim, vocabOf(dim)[code]), n }));
+
+  if (order) {
+    // A scale (like networks swept) reads in its own order, not by size.
+    items.sort((a, b) => order.indexOf(vocabOf(dim)[a.code]) -
+                         order.indexOf(vocabOf(dim)[b.code]));
+  } else {
+    items.sort((a, b) => b.n - a.n);
+  }
+  if (limit && items.length > limit) {
+    // Never let a top-N cut hide the filter the chart itself set.
+    items = items.slice(0, limit)
+      .concat(items.slice(limit).filter((it) => sel.has(it.code)));
+  }
+
+  const max = Math.max(...items.map((i) => i.n), 1);
+  mount.innerHTML = items.map((it) => `
+    <div class="bar-row${sel.has(it.code) ? " sel" : ""}${sel.size && !sel.has(it.code) ? " dim" : ""}"
+         data-code="${it.code}" role="button" tabindex="0"
+         title="${esc(it.label)} — ${fmt.format(it.n)} search events">
+      <span class="lab">${esc(it.label)}</span>
+      <span class="val">${fmt.format(it.n)}</span>
+      <span class="bar-track"><span class="bar-fill" style="width:${(it.n / max) * 100}%"></span></span>
+    </div>`).join("") ||
+    `<div class="empty-note">Nothing matches the current filters.</div>`;
+
+  mount.querySelectorAll(".bar-row").forEach((row) => {
+    const fire = () => toggle(dim, Number(row.dataset.code));
+    row.addEventListener("click", fire);
+    row.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); fire(); }
+    });
+  });
+}
+
+const sortedMonths = () => CUBE.vocab.mo
+  .map((label, code) => ({ code, label }))
+  .sort((a, b) => a.label.localeCompare(b.label));
+
+function drawMonths() {
+  const totals = groupBy("mo");
+  const months = sortedMonths().map((m) => ({ ...m, n: totals.get(m.code) || 0 }));
+  const max = Math.max(...months.map((m) => m.n), 1);
+  const sel = filters.mo || new Set();
+  el("chart-mo").innerHTML = months.map((m) => `
+    <div class="col ${sel.size ? (sel.has(m.code) ? "sel" : "off") : ""}"
+         data-code="${m.code}" style="height:${Math.max(2, (m.n / max) * 100)}%"
+         title="${m.label} — ${fmt.format(m.n)} search events"></div>`).join("");
+  el("chart-mo").querySelectorAll(".col").forEach((c) =>
+    c.addEventListener("click", () => toggle("mo", Number(c.dataset.code))));
+}
+
+/* US tile grid. A real choropleth needs geography this page would have to
+   download; a tile grid needs only a row and column per state, reads counts
+   evenly (Rhode Island is as clickable as Texas), and every tile filters. */
+const TILE_GRID = {
+  AK: [0, 0], ME: [0, 10],
+  VT: [1, 9], NH: [1, 10],
+  WA: [2, 0], ID: [2, 1], MT: [2, 2], ND: [2, 3], MN: [2, 4], IL: [2, 5],
+  WI: [2, 6], MI: [2, 7], NY: [2, 8], RI: [2, 9], MA: [2, 10],
+  OR: [3, 0], NV: [3, 1], WY: [3, 2], SD: [3, 3], IA: [3, 4], IN: [3, 5],
+  OH: [3, 6], PA: [3, 7], NJ: [3, 8], CT: [3, 9],
+  CA: [4, 0], UT: [4, 1], CO: [4, 2], NE: [4, 3], MO: [4, 4], KY: [4, 5],
+  WV: [4, 6], VA: [4, 7], MD: [4, 8], DE: [4, 9],
+  AZ: [5, 1], NM: [5, 2], KS: [5, 3], AR: [5, 4], TN: [5, 5], NC: [5, 6],
+  SC: [5, 7], DC: [5, 8],
+  OK: [6, 3], LA: [6, 4], MS: [6, 5], AL: [6, 6], GA: [6, 7],
+  HI: [7, 0], TX: [7, 3], FL: [7, 8],
+};
+
+function drawMap() {
+  if (!el("map") || el("map").closest("[hidden]")) return;
+  const totals = groupBy("state");
+  const sel = filters.state || new Set();
+  const byAbbr = new Map();
+  vocabOf("state").forEach((name, code) => {
+    if (TILE_GRID[name]) byAbbr.set(name, { code, n: totals.get(code) || 0 });
+  });
+  const max = Math.max(...[...byAbbr.values()].map((v) => v.n), 1);
+
+  el("map").innerHTML = Object.entries(TILE_GRID).map(([abbr, [r, c]]) => {
+    const v = byAbbr.get(abbr);
+    const n = v ? v.n : 0;
+    // Square root, so a few huge states do not flatten everyone else to white.
+    const t = max ? Math.sqrt(n / max) : 0;
+    const on = v && sel.has(v.code);
+    return `<div class="tile-st${on ? " sel" : ""}${sel.size && !on ? " off" : ""}${n ? "" : " zero"}"
+      style="grid-row:${r + 1};grid-column:${c + 1};--t:${t.toFixed(3)}"
+      ${v ? `data-code="${v.code}"` : ""} role="button" tabindex="0"
+      title="${abbr} — ${fmt.format(n)} search events">${abbr}</div>`;
+  }).join("");
+
+  el("map").querySelectorAll("[data-code]").forEach((t) => {
+    const fire = () => toggle("state", Number(t.dataset.code));
+    t.addEventListener("click", fire);
+    t.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); fire(); }
+    });
+  });
+}
+
+/* ----------------------------------------------------------- date slider */
+
+function buildSlider() {
+  const months = sortedMonths();
+  const from = el("mo-from"), to = el("mo-to");
+  [from, to].forEach((s) => {
+    s.min = 0; s.max = months.length - 1; s.step = 1;
+  });
+  from.value = 0; to.value = months.length - 1;
+
+  const apply = () => {
+    let a = Number(from.value), b = Number(to.value);
+    if (a > b) [a, b] = [b, a];
+    const codes = months.slice(a, b + 1).map((m) => m.code);
+    // A full span means "no filter" rather than "all months selected", so the
+    // chip list stays quiet until the reader actually narrows something.
+    setDim("mo", codes.length === months.length ? null : codes);
+  };
+  [from, to].forEach((s) => {
+    s.addEventListener("input", syncSliderLabel);
+    s.addEventListener("change", apply);
+  });
+  syncSliderLabel();
+}
+
+function syncSliderLabel() {
+  const months = sortedMonths();
+  let a = Number(el("mo-from").value), b = Number(el("mo-to").value);
+  if (a > b) [a, b] = [b, a];
+  el("mo-range").textContent = `${months[a].label} to ${months[b].label}`;
+}
+
+/** Push the month filter back onto the slider handles after any change. */
+function syncSliderFromFilters() {
+  const months = sortedMonths();
+  const sel = filters.mo;
+  if (!sel || !sel.size) {
+    el("mo-from").value = 0;
+    el("mo-to").value = months.length - 1;
+  } else {
+    const idx = months.map((m, i) => (sel.has(m.code) ? i : -1)).filter((i) => i >= 0);
+    el("mo-from").value = Math.min(...idx);
+    el("mo-to").value = Math.max(...idx);
+  }
+  syncSliderLabel();
+}
+
+/* ------------------------------------------------------------- controls */
+
+const CONTROLS = [
+  { dim: "state", label: "Agency state" },
+  { dim: "etype", label: "Agency type" },
+  { dim: "cat", label: "Reason category" },
+  { dim: "stype", label: "Search type" },
+  { dim: "nets", label: "Networks swept" },
+];
+const CAP = 200;   // reason category has thousands of values
+
+function buildControls() {
+  el("filter-grid").innerHTML = CONTROLS.map(({ dim, label }) => `
+    <label class="filter"><span class="filter-label">${label}</span>
+      <select id="sel-${dim}" data-dim="${dim}" aria-label="Filter by ${label}"></select>
+    </label>`).join("");
+  CONTROLS.forEach(({ dim }) =>
+    el(`sel-${dim}`).addEventListener("change", (e) => {
+      const v = e.target.value;
+      if (v === "") clearDim(dim); else toggle(dim, Number(v));
+    }));
+
+  if (!el("agency-pick")) return;   // scoped build has no agency picker
+  // Agency search: live, partial, and it filters every view -- not just the
+  // table. Debounced so a long name does not repaint on every keystroke.
+  let t = null;
+  const run = (v) => { clearTimeout(t); t = setTimeout(() => applyOrgQuery(v), 200); };
+  el("agency-pick").addEventListener("input", (e) => run(e.target.value));
+  el("agency-pick").addEventListener("change", (e) => {
+    clearTimeout(t);
+    applyOrgQuery(e.target.value);
+  });
+}
+
+function drawControls() {
+  CONTROLS.forEach(({ dim }) => {
+    const sel = el(`sel-${dim}`);
+    const totals = groupBy(dim);
+    const chosen = filters[dim] || new Set();
+    let items = vocabOf(dim).map((v, code) =>
+      ({ code, label: label(dim, v), n: totals.get(code) || 0 }));
+
+    if (dim === "nets") {
+      items.sort((a, b) => CUBE.nets_order.indexOf(vocabOf(dim)[a.code]) -
+                           CUBE.nets_order.indexOf(vocabOf(dim)[b.code]));
+    } else {
+      items.sort((a, b) => b.n - a.n);
+    }
+    const all = items.length;
+    if (items.length > CAP) {
+      items = items.slice(0, CAP)
+        .concat(items.slice(CAP).filter((it) => chosen.has(it.code)));
+    }
+    sel.innerHTML =
+      (chosen.size > 1
+        ? `<option value="">${chosen.size} selected — clear</option>`
+        : `<option value="">All (${fmt.format(all)})${all > CAP ? ` — top ${CAP}` : ""}</option>`) +
+      items.map((it) =>
+        `<option value="${it.code}"${chosen.size === 1 && chosen.has(it.code) ? " selected" : ""}>` +
+        `${esc(it.label)} — ${fmt.format(it.n)}</option>`).join("");
+    sel.classList.toggle("on", chosen.size > 0);
+  });
+}
+
+function drawChips() {
+  const entries = Object.entries(filters);
+  el("reset").hidden = !entries.length;
+  if (!entries.length) {
+    el("chips").innerHTML = `<span class="chip empty">No filters — showing all ` +
+      `${fmt.format(META.events)} search events. Click any chart to narrow.</span>`;
+    return;
+  }
+  el("chips").innerHTML = entries.map(([dim, set]) => {
+    const vals = [...set].map((c) => label(dim, vocabOf(dim)[c]));
+    let shown;
+    if (dim === "org" && orgQuery) {
+      shown = `matching “${orgQuery}” (${fmt.format(set.size)} ` +
+              `${set.size === 1 ? "agency" : "agencies"})`;
+    } else if (dim === "mo" && set.size > 2) {
+      const s = vals.slice().sort();
+      shown = `${s[0]} to ${s[s.length - 1]}`;
+    } else {
+      shown = vals.length > 2 ? `${vals.length} selected` : vals.join(", ");
+    }
+    return `<span class="chip"><span class="k">${DIMS[dim].label}:</span> ${esc(shown)}
+      <button data-dim="${dim}" title="Remove">&times;</button></span>`;
+  }).join("");
+  el("chips").querySelectorAll("button").forEach((b) =>
+    b.addEventListener("click", () => clearDim(b.dataset.dim)));
+}
+
+const scoped = () => META.scope && META.scope.agency;
+
+function applyScope() {
+  const who = scoped();
+  el("scope-banner").hidden = !who;
+  document.querySelectorAll('[data-needs="multi-agency"]')
+    .forEach((n) => { n.hidden = !!who; });
+  if (!who) return;
+
+  const first = META.methodology.filter((m) => m.events)[0];
+  const last = META.methodology.filter((m) => m.events).slice(-1)[0];
+  el("scope-title").textContent = `This file contains only ${who}`;
+  el("scope-note").innerHTML =
+    `Every figure below is that department alone &mdash; ` +
+    `<strong>${fmt.format(META.events)}</strong> search events between ` +
+    `${first ? first.mo : "?"} and ${last ? last.mo : "?"}. ` +
+    `Charts about other agencies are removed rather than left showing one bar. ` +
+    `These are the searches that reached the cameras of the six Connecticut ` +
+    `towns whose exports we hold, so the real total is higher.`;
+}
+
+function drawTiles() {
+  const s = summary();
+  const t = (v, l, sub) =>
+    `<div class="tile"><div class="val">${v}</div><div class="lbl">${l}</div>` +
+    (sub ? `<div class="sub">${sub}</div>` : "") + "</div>";
+  // With one agency in the file, "1 agency" and "1 state" are noise.
+  const multi = !scoped();
+  el("tiles").innerHTML = [
+    t(fmt.format(s.events), "Search events",
+      s.events === META.events ? (multi ? "every query in the corpus"
+                                        : "every query this department ran here")
+                               : `${pct(s.events / META.events, 2)} of all events`),
+    multi && t(fmt.format(s.agencies), "Agencies searching",
+      `of ${fmt.format(META.agencies)} in the corpus`),
+    multi && t(fmt.format(s.states), "States they searched from"),
+    t(`${s.months}`, "Months covered", `${CUBE.vocab.mo.length} in the corpus`),
+    t(fmt.format(s.ai), "Searched by written description",
+      "a description of a vehicle, not a plate"),
+    t(s.events ? fmt.format(Math.round(s.nets / s.events)) : "—",
+      "Mean camera networks per query"),
+  ].filter(Boolean).join("");
+}
+
+/* ------------------------------------------------------- sortable tables */
+
+/* Both long tables lost click-to-sort in the rewrite. They are the two places
+   a reader actually digs, and "who has the widest queries" or "which wording
+   spans the most agencies" are only reachable by re-sorting. */
+
+const sortState = {
+  agency:  { key: "events", dir: -1 },
+  reasons: { key: "events", dir: -1 },
+};
+
+/** Sort in place: numbers numerically, text case-insensitively. */
+function sortRows(rows, key, dir, get) {
+  return rows.slice().sort((a, b) => {
+    const x = get(a, key), y = get(b, key);
+    if (typeof x === "number" && typeof y === "number") return (x - y) * dir;
+    return String(x).localeCompare(String(y), undefined, { sensitivity: "base" }) * dir;
+  });
+}
+
+/** Header row whose cells carry sort state and are keyboard-reachable. */
+function sortableHead(tableKey, cols) {
+  const st = sortState[tableKey];
+  return "<tr>" + cols.map((c) => {
+    const on = st.key === c.key;
+    return `<th class="${c.num ? "num " : ""}sortable" data-sort="${c.key}"
+      role="button" tabindex="0"
+      ${on ? `aria-sort="${st.dir === 1 ? "ascending" : "descending"}"` : ""}
+      title="Sort by ${c.label.replace(/<[^>]*>/g, "")}">${c.label}</th>`;
+  }).join("") + "</tr>";
+}
+
+function wireSort(tableKey, mount, redraw) {
+  mount.querySelectorAll("th.sortable").forEach((th) => {
+    const fire = () => {
+      const st = sortState[tableKey];
+      const key = th.dataset.sort;
+      // Same column flips direction; a new column starts descending for
+      // numbers and ascending for text, which is what a reader expects.
+      if (st.key === key) st.dir = -st.dir;
+      else { st.key = key; st.dir = th.classList.contains("num") ? -1 : 1; }
+      redraw();
+    };
+    th.addEventListener("click", fire);
+    th.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); fire(); }
+    });
+  });
+}
+
+/* -------------------------------------------------------- agency table */
+
+let agencyShown = 100;
+
+function agencyRows() {
+  // When the filter came from the agency text box, the table should show the
+  // matches rather than every agency -- so it does NOT skip its own dimension.
+  const rows = matching(orgQuery ? null : "org");
+  const totals = new Map();
+  for (const i of rows) {
+    const c = CUBE.cols.org[i];
+    const cur = totals.get(c) || { events: 0, nets: 0 };
+    cur.events += CUBE.cols.events[i];
+    cur.nets += CUBE.cols.net_sum[i];
+    totals.set(c, cur);
+  }
+  const out = [];
+  for (const [code, v] of totals) {
+    const name = CUBE.vocab.org[code];
+    out.push({ code, name, ...v,
+               state: CUBE.org_state[code], etype: CUBE.org_etype[code] });
+  }
+  const st = sortState.agency;
+  return sortRows(out, st.key, st.dir, (r, k) =>
+    k === "meanNets" ? Math.round(r.nets / Math.max(1, r.events))
+    : k === "etype" ? (ETYPE_LABEL[r.etype] || r.etype)
+    : r[k]);
+}
+
+function drawAgencies() {
+  if (!el("agency-wrap") || el("agency-wrap").closest("[hidden]")) return;
+  const rows = agencyRows();
+  const total = rows.reduce((a, r) => a + r.events, 0);
+  const sel = filters.org || new Set();
+  el("agency-wrap").className = "tbl-scroll";
+  el("agency-wrap").innerHTML = `
+    <table class="data"><thead>${sortableHead("agency", [
+      { key: "name", label: "Agency" },
+      { key: "state", label: "State" },
+      { key: "etype", label: "Type" },
+      { key: "events", label: "Search events", num: true },
+      { key: "events", label: "Share of view", num: true },
+      { key: "meanNets", label: "Mean networks", num: true },
+    ])}</thead><tbody>${rows.slice(0, agencyShown).map((r) => `
+      <tr class="pick${sel.has(r.code) ? " sel" : ""}" data-code="${r.code}">
+        <td class="wrap-ok">${esc(r.name)}</td><td>${esc(r.state)}</td>
+        <td>${esc(ETYPE_LABEL[r.etype] || r.etype)}</td>
+        <td class="num">${fmt.format(r.events)}</td>
+        <td class="num">${total ? pct(r.events / total, 2) : "—"}</td>
+        <td class="num">${fmt.format(Math.round(r.nets / Math.max(1, r.events)))}</td>
+      </tr>`).join("") ||
+      `<tr><td colspan="6" style="color:var(--text-muted)">No agency matches.</td></tr>`}
+    </tbody></table>`;
+  el("agency-count").textContent = `${fmt.format(rows.length)} agencies` +
+    (rows.length > agencyShown ? ` · showing first ${fmt.format(agencyShown)}` : "");
+  el("agency-more").hidden = rows.length <= agencyShown;
+  el("agency-wrap").querySelectorAll("tr.pick").forEach((tr) =>
+    tr.addEventListener("click", () => toggle("org", Number(tr.dataset.code))));
+  wireSort("agency", el("agency-wrap"), drawAgencies);
+}
+
+/* -------------------------------------------------------- reason table */
+
+let reasonsShown = 100;
+
+/** Which agency codes the current filters allow, or null for all of them.
+    Only agency-shaped filters can narrow reason text: the postings index is
+    reason-by-agency, so month, search type, category and networks-swept
+    cannot reach it. The page says so rather than pretending otherwise. */
+function allowedOrgs() {
+  const dims = ["org", "state", "etype"].filter((d) => filters[d]);
+  if (!dims.length) return null;
+  const allow = new Set();
+  CUBE.vocab.org.forEach((_, code) => {
+    for (const d of dims) {
+      const c = d === "org" ? code : derived[d].ofOrg[code];
+      if (!filters[d].has(c)) return;
+    }
+    allow.add(code);
+  });
+  return allow;
+}
+
+function drawReasons() {
+  if (!REASONS) return;
+  const q = (el("reasons-q").value || "").trim().toLowerCase();
+  const era = el("reasons-era").value;
+  const allow = allowedOrgs();
+  const idx = REASONS.by_org;
+
+  // With an agency filter on, recount each wording against just those
+  // agencies -- "South Windsor typed this 42 times", not the national total.
+  let filtered = REASONS.rows.map((r, i) => {
+    if (!allow) return { r, events: r[1], agencies: r[2] };
+    let events = 0, agencies = 0;
+    for (let k = idx.off[i]; k < idx.off[i + 1]; k++) {
+      if (allow.has(idx.org[k])) { events += idx.cnt[k]; agencies++; }
+    }
+    return { r, events, agencies };
+  }).filter((x) =>
+    x.events > 0 &&
+    (!q || x.r[0].toLowerCase().includes(q)) &&
+    (era === "all" || x.r[5] === era || x.r[5] === "both"));
+
+  // Row arrays come out of the build as [reason, events, agencies, first,
+  // last, era]; name the columns so sorting reads like the header.
+  const COL = { reason: 0, first: 3, last: 4, era: 5 };
+  const st = sortState.reasons;
+  const rows = sortRows(filtered, st.key, st.dir, (x, k) =>
+    k === "events" ? x.events : k === "agencies" ? x.agencies : x.r[COL[k]]);
+
+  const eraName = {
+    before: "free-text era",
+    after: "dropdown era",
+    both: "spans the change",
+  };
+  el("reasons-wrap").className = "tbl-scroll";
+  el("reasons-wrap").innerHTML = `
+    <table class="data"><thead>${sortableHead("reasons", [
+      { key: "reason", label: "Reason, as typed" },
+      { key: "events", label: "Search events", num: true },
+      { key: "agencies", label: "Agencies", num: true },
+      { key: "first", label: "First" },
+      { key: "last", label: "Last" },
+      { key: "era", label: "Era" },
+    ])}</thead><tbody>${rows.slice(0, reasonsShown).map((x) => `
+      <tr><td class="wrap-ok"><code>${esc(x.r[0])}</code></td>
+        <td class="num">${fmt.format(x.events)}</td>
+        <td class="num">${fmt.format(x.agencies)}</td>
+        <td>${esc(x.r[3])}</td><td>${esc(x.r[4])}</td>
+        <td><span class="era ${x.r[5]}">${eraName[x.r[5]]}</span></td></tr>`).join("") ||
+      `<tr><td colspan="6" style="color:var(--text-muted)">No reason text matches.</td></tr>`}
+    </tbody></table>`;
+  el("reasons-count").textContent = `${fmt.format(rows.length)} reason texts` +
+    (allow ? ` used by the filtered agencies` : "") +
+    (rows.length > reasonsShown ? ` · showing first ${fmt.format(reasonsShown)}` : "");
+  el("reasons-scope").textContent = allow
+    ? `Narrowed to ${fmt.format(allow.size)} ` +
+      `${allow.size === 1 ? "agency" : "agencies"}; counts are for those only.`
+    : "Showing every agency. Filter by agency, state or agency type to narrow this.";
+  el("reasons-more").hidden = rows.length <= reasonsShown;
+  wireSort("reasons", el("reasons-wrap"), drawReasons);
+}
+
+/* --------------------------------------------------------------- render */
+
+function render() {
+  drawControls();
+  syncSliderFromFilters();
+  drawChips();
+  drawTiles();
+  drawMonths();
+  drawMap();
+  drawBars(el("chart-etype"), "etype");
+  drawBars(el("chart-cat"), "cat", { limit: 20 });
+  drawBars(el("chart-nets"), "nets", { order: CUBE.nets_order });
+  drawBars(el("chart-stype"), "stype");
+  drawAgencies();
+  drawReasons();
+  el("live").innerHTML = `<b>${fmt.format(summary().events)}</b> search events in view`;
+  if (!el("tab-how") || el("tab-how").hidden) {
+    history.replaceState(null, "",
+      location.pathname + (filterState() ? "#" + filterState() : ""));
+  }
+}
+
+/* ------------------------------------------------------------- How tab */
+
+function drawHow() {
+  const m = META.methodology;
+  const before = m.filter((r) => r.mo < "2025-09").reduce(
+    (a, r) => ({ events: a.events + r.events, preset: a.preset + r.preset }),
+    { events: 0, preset: 0 });
+  const row = (lab, e, p) => `<tr><td>${lab}</td>
+    <td class="num">${fmt.format(e)}</td><td class="num">${fmt.format(p)}</td>
+    <td class="num">${e ? pct(p / e, 1) : "—"}</td></tr>`;
+  el("methodology-table").querySelector("tbody").innerHTML =
+    row('Jan 2023 – Aug 2025 <span class="hint">combined</span>',
+        before.events, before.preset) +
+    m.filter((r) => r.mo >= "2025-09" && r.mo <= "2026-04")
+     .map((r) => row(r.mo, r.events, r.preset)).join("");
+
+  const ex = (list) => list.map((e) =>
+    `<li><code>${esc(e.reason)}</code>
+     <span class="hint">${fmt.format(e.events)} events</span></li>`).join("");
+  el("ex-before").innerHTML = ex(META.examples.before);
+  el("ex-after").innerHTML = ex(META.examples.after);
+
+  el("keyword-eras").querySelector("tbody").innerHTML = META.keyword_eras.map((k) => {
+    const tot = k.before + k.after;
+    return `<tr><td>${esc(k.term)}</td>
+      <td class="num">${fmt.format(k.before)}</td>
+      <td class="num">${fmt.format(k.after)}</td>
+      <td class="num">${tot ? pct(k.before / tot, 1) : "—"}</td></tr>`;
+  }).join("");
+
+  el("provenance").querySelector("tbody").innerHTML = META.sources.map((s) => `
+    <tr><td>${esc(s.town)}</td><td class="num">${fmt.format(s.rows_carried)}</td>
+      <td>${esc(s.first)} – ${esc(s.last)}</td>
+      <td class="wrap-ok"><a class="inline-link" href="${esc(s.url)}"
+        target="_blank" rel="noopener noreferrer">${esc(s.obtained_by)}</a>
+        — ${esc(s.detail)}</td></tr>`).join("");
+
+  el("def-events").textContent = fmt.format(META.events);
+  el("def-agencies").textContent = fmt.format(META.agencies);
+  document.querySelectorAll(".def-switch").forEach((n) => {
+    n.textContent = META.switch_month;
+  });
+}
+
+/* ----------------------------------------------------------------- tabs */
+
+function showTab(name, { push = true } = {}) {
+  const panels = [...document.querySelectorAll(".panel")];
+  const target = panels.some((p) => p.dataset.tab === name) ? name : "dashboard";
+  panels.forEach((p) => { p.hidden = p.dataset.tab !== target; });
+  document.querySelectorAll("#tabs [role=tab]").forEach((b) => {
+    const on = b.dataset.tab === target;
+    b.setAttribute("aria-selected", on ? "true" : "false");
+    b.classList.toggle("on", on);
+  });
+  if (push) {
+    history.replaceState(null, "", target === "how"
+      ? "#how" : location.pathname + (filterState() ? "#" + filterState() : ""));
+  }
+  window.scrollTo({ top: 0 });
+}
+
+function buildTabs() {
+  el("tabs").innerHTML = "";
+  document.querySelectorAll(".panel").forEach((p) => {
+    const b = document.createElement("button");
+    b.type = "button"; b.role = "tab"; b.dataset.tab = p.dataset.tab;
+    b.id = `tabbtn-${p.dataset.tab}`; b.textContent = p.dataset.title;
+    b.addEventListener("click", () => showTab(p.dataset.tab));
+    el("tabs").appendChild(b);
+  });
+  document.querySelectorAll("[data-goto]").forEach((a) =>
+    a.addEventListener("click", (e) => {
+      e.preventDefault(); showTab(a.dataset.goto);
+    }));
+  showTab(INITIAL_HASH === "#how" ? "how" : "dashboard", { push: false });
+}
+
+/* ----------------------------------------------------------------- wire */
+
+function wire() {
+  buildControls();
+  buildSlider();
+  el("reset").addEventListener("click", clearAll);
+  if (el("agency-more")) {
+    el("agency-more").addEventListener("click", () => { agencyShown += 250; drawAgencies(); });
+  }
+  el("reasons-q").addEventListener("input", () => { reasonsShown = 100; drawReasons(); });
+  el("reasons-era").addEventListener("change", () => { reasonsShown = 100; drawReasons(); });
+  el("reasons-more").addEventListener("click", () => { reasonsShown += 250; drawReasons(); });
+
+  const stored = (() => {
+    try { return localStorage.getItem("theme"); } catch { return null; }
+  })();
+  if (stored) document.documentElement.dataset.theme = stored;
+  el("theme-toggle").addEventListener("click", () => {
+    const dark = document.documentElement.dataset.theme === "dark" ||
+      (!document.documentElement.dataset.theme &&
+        matchMedia("(prefers-color-scheme: dark)").matches);
+    const next = dark ? "light" : "dark";
+    document.documentElement.dataset.theme = next;
+    try { localStorage.setItem("theme", next); } catch { /* private mode */ }
+  });
+
+  if (el("agency-list")) {
+    el("agency-list").innerHTML = CUBE.vocab.org
+      .map((n) => `<option value="${esc(n)}"></option>`).join("");
+  }
+}
+
+/* Reason text is the biggest single file, but only ~2 MB over the wire, and
+   hiding it behind a button meant the most interesting table on the page
+   looked simply missing. Fetch it right after first paint instead. */
+async function loadReasons() {
+  try {
+    REASONS = window.__D__.reasons;
+    el("reasons-q").hidden = false;
+    el("reasons-era").hidden = false;
+    drawReasons();
+  } catch (e) {
+    el("reasons-wrap").className = "empty-note";
+    el("reasons-wrap").textContent =
+      "Reason text failed to load. Reload the page to try again.";
+    console.error(e);
+  }
+}
+
+async function boot() {
+  const [cube, meta] = [window.__D__.cube, window.__D__.meta];
+  CUBE = cube; META = meta;
+  buildDerived();
+  applyHash();
+  wire();
+  applyScope();
+  drawHow();
+  render();
+  buildTabs();
+  loadReasons();
+}
+
+boot().catch((e) => {
+  el("live").textContent = "Failed to load the dataset.";
+  console.error(e);
+});
+
+</script>
+</body>
+</html>
