@@ -1,6 +1,6 @@
 # Body cameras: every mention, every town
 
-_Generated 2026-09-10T17:12:03 — 449 mentions across 52 towns, 2015-04-23 to 2026-08-12._
+_Generated 2026-09-10T18:08:17 — 449 mentions across 52 towns, 2015-04-23 to 2026-08-12._
 
 
 Officer-worn cameras, and the retention, release and redaction policies that govern their footage.

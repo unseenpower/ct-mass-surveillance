@@ -1,6 +1,6 @@
 # This Week in Surveillance — Connecticut
 
-_Last updated 10 September 2026 at 5:13 PM EDT. Covering the 7 days to 10 September 2026._
+_Last updated 10 September 2026 at 6:10 PM EDT. Covering the 7 days to 10 September 2026._
 
 ## Headlines
 
@@ -9,7 +9,7 @@ _Last updated 10 September 2026 at 5:13 PM EDT. Covering the 7 days to 10 Septem
 - **[New signal: topics appearing for the first time in towns already being watched](#new-signal-topics-appearing-for-the-first-time-in-towns-already-being-watched)** — 14 town/topic pairing(s) — Coventry (General surveillance), Danbury (ALPR / Flock)
 - **[In the news](#in-the-news)** — no new items; most recent sweep on file ran 2026-08-23
 - **[Coming up](#coming-up)** — 10 scheduled meeting(s)
-- **[Volume surfaced this week, by topic](#volume-surfaced-this-week-by-topic)** — 845 mentions across 12 topics — Drones 475, ALPR / Flock 192, General surveillance 70
+- **[Volume surfaced this week, by topic](#volume-surfaced-this-week-by-topic)** — 841 mentions across 12 topics — Drones 475, ALPR / Flock 192, General surveillance 70
 
 
 > **Unreviewed keyword matches, not verified claims.** Every item below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous and auto-captions mis-transcribe. Follow the timestamped link and listen before citing anything.
@@ -19,7 +19,7 @@ _Last updated 10 September 2026 at 5:13 PM EDT. Covering the 7 days to 10 Septem
 
 ## Meetings held in the last 7 days
 
-_818 mentions newly surfaced in this window, from 5,175 meeting transcripts added across 168 keyword scans._
+_818 mentions newly surfaced in this window, from 5,172 meeting transcripts added across 166 keyword scans._
 
 _48 mention(s) across 10 town(s) — the genuinely current slice._
 
@@ -388,15 +388,15 @@ The full watch list — every body that keeps returning to the subject, and when
 | [Drones](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/drone.md) | 475 | 34 |
 | [ALPR / Flock](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/alpr.md) | 192 | 27 |
 | [General surveillance](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/surveillance_general.md) | 70 | 8 |
-| [Body cameras](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md) | 70 | 15 |
+| [Body cameras](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md) | 66 | 15 |
 | [Facial recognition](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/facial_recognition.md) | 18 | 5 |
-| [Predictive policing](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/predictive_policing.md) | 5 | 4 |
 | [Purchasing / procurement](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/purchasing_broker.md) | 5 | 2 |
+| [Predictive policing](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/predictive_policing.md) | 5 | 4 |
 | [Cell-site simulators](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/cell_site_sim.md) | 3 | 1 |
 | [Data brokers](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/data_broker.md) | 3 | 1 |
 | [Gunshot detection](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/gunshot_detection.md) | 2 | 2 |
-| [Doorbell-camera partnerships](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/doorbell_partnership.md) | 1 | 1 |
 | [Real-time crime centres](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/rtcc.md) | 1 | 1 |
+| [Doorbell-camera partnerships](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/doorbell_partnership.md) | 1 | 1 |
 
 ---
 
