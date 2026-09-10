@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Bolton*
 - **2 mentions** across **2 meetings**
 - **First mention:** 2024-05-09  |  **Most recent:** 2025-12-11
 - **Technologies discussed:** alpr, drone
-- **Coverage:** 89 of 242 known Bolton meetings transcribed (37%)
+- **Coverage:** 90 of 243 known Bolton meetings transcribed (37%)
 - **Not the full history:** transcripts begin **2020-09-17**, but Bolton's published video archive goes back to **2015-11-10**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -309,15 +309,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 6
-- Videos registered: 242 (fetched: 89, no captions: 0)
-- Date range covered: 2015-11-10 to 2026-08-20 (all 242 videos dated)
+- Videos registered: 243 (fetched: 90, no captions: 0)
+- Date range covered: 2015-11-10 to 2026-09-01 (all 243 videos dated)
 
 
 ### Channels
@@ -331,7 +331,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| cvc | videos | 2026-09-07 16:31:59.779015 | 2027 |
+| cvc | videos | 2026-09-10 13:45:36.835112 | 2033 |
 
 
 ## Registered meeting bodies
@@ -340,7 +340,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 65 |
 | Board of Education | education | True | 75 |
-| Board of Selectmen | other | True | 95 |
+| Board of Selectmen | other | True | 96 |
 | Charter Revision Commission | other | True | 5 |
 | Inland Wetlands Commission | other | True | 1 |
 | Planning & Zoning | other | True | 1 |
@@ -388,5 +388,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:28:08 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bolton"`_
+_Generated 2026-09-10T13:56:20 from Bolton's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

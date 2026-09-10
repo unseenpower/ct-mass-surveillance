@@ -1,6 +1,6 @@
 # AI data fusion: every mention, every town
 
-_Generated 2026-09-07T17:43:40 — 1 mentions across 1 towns, 2026-03-16 to 2026-03-16._
+_Generated 2026-09-10T14:24:03 — 1 mentions across 1 towns, 2026-03-16 to 2026-03-16._
 
 
 Platforms that combine multiple data sources with AI analysis.
@@ -23,7 +23,7 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2026-03-16 | 2026-03-16 |
+| [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2026-03-16 | 2026-03-16 |
 
 ## Receipts
 

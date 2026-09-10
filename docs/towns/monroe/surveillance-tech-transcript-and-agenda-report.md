@@ -5,10 +5,10 @@
 
 This report collects every mention of surveillance technology found in **Monroe**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **36 mentions** across **24 meetings**
-- **First mention:** 2020-06-08  |  **Most recent:** 2026-05-21
+- **37 mentions** across **25 meetings**
+- **First mention:** 2020-04-23  |  **Most recent:** 2026-05-21
 - **Technologies discussed:** alpr, biometrics_other, body_camera, drone
-- **Coverage:** 544 of 848 known Monroe meetings transcribed (64%)
+- **Coverage:** 569 of 849 known Monroe meetings transcribed (67%)
 - **Not the full history:** transcripts begin **2018-04-17**, but Monroe's published video archive goes back to **2014-10-11**. Meetings before 2018 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -68,7 +68,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 3 | 3 | 2021-09-02 | 2025-04-28 |
+| alpr | 4 | 4 | 2020-04-23 | 2025-04-28 |
 | biometrics_other | 2 | 2 | 2022-11-07 | 2024-05-28 |
 | body_camera | 1 | 1 | 2020-06-08 | 2020-06-08 |
 | drone | 30 | 18 | 2020-06-18 | 2026-05-21 |
@@ -76,7 +76,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ## Timeline
 
-24 meetings surfaced a finding (24 dated, spanning 2020-06-08 to 2026-05-21; 0 of unknown date, listed last).
+25 meetings surfaced a finding (25 dated, spanning 2020-04-23 to 2026-05-21; 0 of unknown date, listed last).
+
+
+### 2020-04-23 -- Board of Finance
+
+**Town of Monroe Ct Board of Finance Budget Workshop April 23, 2020** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=aBpU757Z-NM&t=1729s)  > ...rather let's take a conservative if you were safe I think people would probably flock back but whether it will be at that point from yeah we have a lot of undo ones right down yeah alright um...
 
 
 ### 2020-06-08 -- Town Council
@@ -293,6 +300,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...through uh the planning and zoning submission right here i have a picture of the female flock the area that that it the the map floodplain is um um is impacting you...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7-M3nwe1sew&t=3795s)  _(term: alpr_flock, unreviewed)_
 
+- **[2020-04-23] Board of Finance** -- Town of Monroe Ct Board of Finance Budget Workshop April 23, 2020
+  > ...rather let's take a conservative if you were safe I think people would probably flock back but whether it will be at that point from yeah we have a lot of undo ones right down yeah alright um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=aBpU757Z-NM&t=1729s)  _(term: alpr_flock, unreviewed)_
+
 
 ### biometrics_other
 
@@ -339,16 +350,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=pif6idzVL2I&t=10852s)  _(term: drone, unreviewed)_
 
 - **[2026-05-21] Planning & Zoning Commission** -- Town of Monroe Ct Planning & Zoning Commission Regular Meeting 05/21/2026
-  > ...we're fairly we're fairly close to it. Um so I just want to give you some quick earthwork stats. When we flew the drone in December 2024 needed we needed approximately 50,000 cubic yards of cut....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pif6idzVL2I&t=10936s)  _(term: drone, unreviewed)_
+  > ...and then I'll open up to uh some questions. This was captured from the our drone um that was taken on um in April April 7th, 2026. And so again, there was kind of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pif6idzVL2I&t=11016s)  _(term: drone, unreviewed)_
 
 - **[2026-05-21] Planning & Zoning Commission** -- Town of Monroe Ct Planning & Zoning Commission Regular Meeting 05/21/2026
   > ...in December 2024 needed we needed approximately 50,000 cubic yards of cut. Now that we've flown the drone in April 2026, we're down to about 10,000. So that's been a 40,000 cubic yard...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=pif6idzVL2I&t=10944s)  _(term: drone, unreviewed)_
 
 - **[2026-05-21] Planning & Zoning Commission** -- Town of Monroe Ct Planning & Zoning Commission Regular Meeting 05/21/2026
-  > ...and then I'll open up to uh some questions. This was captured from the our drone um that was taken on um in April April 7th, 2026. And so again, there was kind of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pif6idzVL2I&t=11016s)  _(term: drone, unreviewed)_
+  > ...we're fairly we're fairly close to it. Um so I just want to give you some quick earthwork stats. When we flew the drone in December 2024 needed we needed approximately 50,000 cubic yards of cut....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pif6idzVL2I&t=10936s)  _(term: drone, unreviewed)_
 
 - **[2026-05-13] Inland Wetlands Commission** -- Town of Monroe Ct Inland Wetland Regular Meeting 05/13/2026
   > ...>> is covered. >> We we think is there any way we could send some kind of like drone or something up the pipe to see what's going on down there. I mean...
@@ -371,20 +382,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZczniAVzW_c&t=5011s)  _(term: drone, unreviewed)_
 
 - **[2025-03-12] Inland Wetlands Commission** -- Town of Monroe Ct Inland Wetland Regular Meeting 03/12/2025
-  > ...all mentioned getting a drone flight possibly so we went we have one we went out get a drone flight um this is all on a Cloud Server so people can go on and look at this if they want to um and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZBfvkgB7kS0&t=3040s)  _(term: drone, unreviewed)_
-
-- **[2025-03-12] Inland Wetlands Commission** -- Town of Monroe Ct Inland Wetland Regular Meeting 03/12/2025
   > ...provide this link to just to be the acceptance of this you all mentioned getting a drone flight possibly so we went we have one we went out get a drone flight um this is all on...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZBfvkgB7kS0&t=3036s)  _(term: drone, unreviewed)_
 
-- **[2025-02-12] Inland Wetlands Commission** -- Town of Monroe Ct Inland Wetland Regular Meeting 02/12/2025
-  > ...engineer um as a licensed uh FAA drone pilot I would love for us to have a drone but we a okay on any of that let's let's let's proactively inform our applicant...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=akBT2gFfc4g&t=765s)  _(term: drone, unreviewed)_
+- **[2025-03-12] Inland Wetlands Commission** -- Town of Monroe Ct Inland Wetland Regular Meeting 03/12/2025
+  > ...all mentioned getting a drone flight possibly so we went we have one we went out get a drone flight um this is all on a Cloud Server so people can go on and look at this if they want to um and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZBfvkgB7kS0&t=3040s)  _(term: drone, unreviewed)_
 
 - **[2025-02-12] Inland Wetlands Commission** -- Town of Monroe Ct Inland Wetland Regular Meeting 02/12/2025
   > ...around and and it's unbelievable I heard a rumor years ago that Park and wre had a drone but they weren't like they couldn't get approval for the fuel or the Charger needs...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=akBT2gFfc4g&t=744s)  _(term: drone, unreviewed)_
+
+- **[2025-02-12] Inland Wetlands Commission** -- Town of Monroe Ct Inland Wetland Regular Meeting 02/12/2025
+  > ...engineer um as a licensed uh FAA drone pilot I would love for us to have a drone but we a okay on any of that let's let's let's proactively inform our applicant...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=akBT2gFfc4g&t=765s)  _(term: drone, unreviewed)_
 
 - **[2025-02-12] Inland Wetlands Commission** -- Town of Monroe Ct Inland Wetland Regular Meeting 02/12/2025
   > ...prevent us from having to go out there does the bur or does the town have a drone or something uh uh not not in house cops don't have one I'm sure they do at this point all the cops know I...
@@ -407,16 +418,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vbG5vHignaY&t=12210s)  _(term: drone, unreviewed)_
 
 - **[2024-02-14] Inland Wetlands Commission** -- Town of Monroe Ct Inland Wetland Regular Meeting 02/14/2024
-  > ...it's a terrible job when they take pictures the pictures are terrible I'm saying you get a drone we don't Dove done average probably one sight walk a year honestly like about one a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Iq2k2CDFc&t=8926s)  _(term: drone, unreviewed)_
+  > ...looking at an aerial picture that's why we're looking at aerial pictures you know they give us a drone video but they it's a terrible job when they take pictures the pictures are terrible I'm...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Iq2k2CDFc&t=8920s)  _(term: drone, unreviewed)_
 
 - **[2024-02-14] Inland Wetlands Commission** -- Town of Monroe Ct Inland Wetland Regular Meeting 02/14/2024
   > ...process but yes that is the PUSH Pack that I got a crazy question what why I get like some kind of a drone to like videotape everything and we can just look at it because you really go to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Iq2k2CDFc&t=8906s)  _(term: drone, unreviewed)_
 
 - **[2024-02-14] Inland Wetlands Commission** -- Town of Monroe Ct Inland Wetland Regular Meeting 02/14/2024
-  > ...looking at an aerial picture that's why we're looking at aerial pictures you know they give us a drone video but they it's a terrible job when they take pictures the pictures are terrible I'm...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Iq2k2CDFc&t=8920s)  _(term: drone, unreviewed)_
+  > ...it's a terrible job when they take pictures the pictures are terrible I'm saying you get a drone we don't Dove done average probably one sight walk a year honestly like about one a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Iq2k2CDFc&t=8926s)  _(term: drone, unreviewed)_
 
 - **[2024-01-23] Planning & Zoning Commission** -- Town of Monroe Ct Planning & Zoning Commission Special Meeting 01/23/2024
   > ...here and the very active cor site and this is just uh 2023 we flew the Drone and took these images so this is what it looks like essentially today um it's still a very Barren landscape...
@@ -621,15 +632,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 15
-- Videos registered: 848 (fetched: 544, no captions: 3)
-- Date range covered: 2014-10-11 to 2026-09-03 (all 848 videos dated)
+- Videos registered: 849 (fetched: 569, no captions: 3)
+- Date range covered: 2014-10-11 to 2026-09-09 (all 849 videos dated)
 
 
 ### Channels
@@ -643,7 +654,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| monroe_ct | videos | 2026-09-07 16:44:59.171265 | 904 |
+| monroe_ct | videos | 2026-09-10 13:39:33.166017 | 905 |
 
 
 ## Registered meeting bodies
@@ -658,7 +669,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Conservation Commission | other | True | 6 |
 | Economic Development Commission | other | True | 6 |
 | Historic District Commission | other | True | 6 |
-| Inland Wetlands Commission | other | True | 172 |
+| Inland Wetlands Commission | other | True | 173 |
 | Library Board | other | True | 3 |
 | Planning & Zoning Commission | other | True | 201 |
 | WMNR Commission | other | True | 14 |
@@ -712,5 +723,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:35:41 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Monroe"`_
+_Generated 2026-09-10T14:07:53 from Monroe's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

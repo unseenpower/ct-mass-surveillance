@@ -805,7 +805,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
@@ -827,8 +827,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| nosto_public_meetings | streams | 2026-09-07 17:02:57.346334 | 441 |
-| nosto_public_meetings | videos | 2026-09-07 17:02:50.780892 | 67 |
+| nosto_public_meetings | streams | 2026-09-10 12:07:15.393843 | 441 |
+| nosto_public_meetings | videos | 2026-09-10 12:07:08.983109 | 67 |
 
 
 ## Registered meeting bodies
@@ -850,8 +850,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 207 (fetched: 190)
-- Date range covered: 2026-01-05 to 2026-09-09
+- Documents registered: 210 (fetched: 193)
+- Date range covered: 2026-01-05 to 2026-09-10
 
 
 ### Agenda sources
@@ -865,11 +865,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | logged_at | field_name | new_value | source | by |
 | --- | --- | --- | --- | --- |
-| 2026-08-27 15:11:37.424329 | agenda_platform_confirmed | CivicPlus AgendaCenter confirmed at northstoningtonct.gov/agendacenter (CivicPlus branding in page source; www.northstoningtonct.gov also CNAMEs to guardian.civicplus.io). Fetchable by ingest/fetch_agenda_documents.py. Categories include Board of Selectmen, Board of Finance, Board of Education, Planning and Zoning, Inland Wetlands and Watercourses, Conservation Commission, ZBA, EDC, Affordable Housing Committee, Capital Committee, Hewitt Farm Committee, Juvenile Review Board, Sustainability Committee, Tax Relief Committee and WPCA. Ordinances are separately on Municode. | curl of northstoningtonct.gov/agendacenter + dig CNAME chain, 2026-08-27 | claude |
+| 2026-08-27 15:11:37.424329 | agenda_platform_confirmed | CivicPlus AgendaCenter confirmed at northstoningtonct.gov/agendacenter (CivicPlus branding in page source; www.northstoningtonct.gov also CNAMEs to guardian.civicplus.io). Fetchable by the agenda fetcher. Categories include Board of Selectmen, Board of Finance, Board of Education, Planning and Zoning, Inland Wetlands and Watercourses, Conservation Commission, ZBA, EDC, Affordable Housing Committee, Capital Committee, Hewitt Farm Committee, Juvenile Review Board, Sustainability Committee, Tax Relief Committee and WPCA. Ordinances are separately on Municode. | curl of northstoningtonct.gov/agendacenter + dig CNAME chain, 2026-08-27 | claude |
 | 2026-08-27 15:11:37.424329 | both_tabs_checked | /videos 67 titles, /streams 439 titles (506 combined) -- 87% of the real corpus is on /streams. The town's own website links the /streams tab, not /videos. Another concrete case of the mandatory both-tabs rule. | yt-dlp --flat-playlist crawl of both tabs, 2026-08-27 | claude |
 | 2026-08-27 15:11:37.424329 | channel_found | "NOSTO Public Meeting Channel" (UCLkW3pPjg9_c_qfwrPF_0eA, @nostopublicmeetingchannel458) linked directly from northstoningtonct.gov's own homepage -- and the town links the /streams tab specifically -- then confirmed via yt-dlp probe. | curl of northstoningtonct.gov + yt-dlp channel probe + --flat-playlist crawl of both tabs, 2026-08-27 | claude |
 | 2026-08-27 15:11:37.424329 | collision_check_stonington | COLLISION RISK CHECKED: Stonington CT is already onboarded on its own channel (stonington_ct). Full CT-town-name scan of North Stonington's 506-title corpus: 22 titles contain "Stonington" and ALL 22 are "North Stonington" -- zero Stonington-the-town government content (the one "North Stonington & Stonington Joint Message" title is a COVID-era joint public-health video, not a meeting). No shared channel exists between the two towns, so match_body() cannot cross-apply patterns in either direction and no anchoring is required; patterns left unanchored because essentially every real meeting title is bare. | Python CT-town-name scan of the full combined corpus + town_channels query of the live DB, 2026-08-27 | claude |
-| 2026-08-27 15:15:19.126134 | dry_run_sanity_check | nosto_public_meetings: /videos 67 listed / 51 matched, /streams 439 listed / 396 matched. Combined 447/506 (88.3%). | ingest/fetch_channel_transcripts.py --tabs videos,streams --mode filtered --dry-run against the live DB after seeding, 2026-08-27 | claude |
+| 2026-08-27 15:15:19.126134 | dry_run_sanity_check | nosto_public_meetings: /videos 67 listed / 51 matched, /streams 439 listed / 396 matched. Combined 447/506 (88.3%). | the transcript fetcher --tabs videos,streams --mode filtered --dry-run against the live DB after seeding, 2026-08-27 | claude |
 | 2026-08-27 15:15:19.126134 | patterns_validated_from_real_titles | 447/506 combined-tab titles matched (88.3%) across 10 registered bodies. Unmatched is COVID-era public-information video, First Selectman weekly updates, school ribbon-cuttings and a PURA small-cell webinar -- correct non-matches. | Python pattern validation against the full combined corpus, 2026-08-27 | claude |
 | 2026-08-27 15:11:37.424329 | title_vocabulary_from_crawl | Unfiltered crawl surfaced two things the AgendaCenter category list alone would have missed: the Board of Education appears far more often as "BOE"/"North Stonington BOE" than spelled out, and there is a real recurring "Traffic Commission Subcommittee" meeting series that has NO AgendaCenter category at all. | Unfiltered yt-dlp crawl of both tabs + Python frequency analysis, 2026-08-27 | claude |
 
@@ -899,5 +899,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:37:50 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "North Stonington"`_
+_Generated 2026-09-10T14:11:31 from North Stonington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

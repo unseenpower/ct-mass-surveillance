@@ -1,6 +1,6 @@
 # Surveillance topics: all towns, by technology
 
-_Generated 2026-09-07T17:43:40._
+_Generated 2026-09-10T14:24:03._
 
 
 Each file gathers every Connecticut town's mentions of one technology into a single document, with a timestamped link to the exact second of the meeting video for each. The [cross-town matrix](../../cross-town-matrix.md) is the count-only overview of the same data; the per-town reports under [`docs/towns/`](../../towns/) are the complete record for any one town.
@@ -18,16 +18,16 @@ _These files are generated automatically. No human review has been applied to an
 
 | Topic | Mentions | Towns |
 | --- | --- | --- |
-| [Drones](drone.md) | 2,263 | 84 |
-| [ALPR / Flock](alpr.md) | 1,883 | 75 |
-| [Body cameras](body_camera.md) | 420 | 50 |
-| [General surveillance](surveillance_general.md) | 345 | 46 |
-| [Facial recognition](facial_recognition.md) | 149 | 28 |
+| [Drones](drone.md) | 2,571 | 87 |
+| [ALPR / Flock](alpr.md) | 2,047 | 79 |
+| [Body cameras](body_camera.md) | 449 | 52 |
+| [General surveillance](surveillance_general.md) | 389 | 49 |
+| [Facial recognition](facial_recognition.md) | 162 | 30 |
 | [Predictive policing](predictive_policing.md) | 114 | 34 |
-| [Gunshot detection](gunshot_detection.md) | 76 | 3 |
+| [Gunshot detection](gunshot_detection.md) | 77 | 4 |
 | [Real-time crime centres](rtcc.md) | 58 | 7 |
+| [Purchasing / procurement](purchasing_broker.md) | 30 | 7 |
 | [Doorbell-camera partnerships](doorbell_partnership.md) | 28 | 15 |
-| [Purchasing / procurement](purchasing_broker.md) | 27 | 6 |
 | [Other biometrics](biometrics_other.md) | 9 | 6 |
 | [Data brokers](data_broker.md) | 8 | 1 |
 | [Cell-site simulators](cell_site_sim.md) | 7 | 5 |

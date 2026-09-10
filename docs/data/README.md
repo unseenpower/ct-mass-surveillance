@@ -6,7 +6,7 @@ Every surveillance-technology mention this project has found in Connecticut
 municipal records, in one file. One row per mention.
 
 <!-- stats:start -->
-**5,394 rows · 96 towns · 17 topics · 5,173 from meeting transcripts, 221 from
+**5,956 rows · 99 towns · 17 topics · 5,731 from meeting transcripts, 225 from
 agenda and minutes documents.**
 <!-- stats:end -->
 

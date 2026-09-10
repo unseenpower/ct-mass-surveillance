@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Newingt
 - **85 mentions** across **36 meetings**
 - **First mention:** 2021-10-20  |  **Most recent:** 2026-08-03
 - **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone, facial_recognition, surveillance_general
-- **Coverage:** 533 of 726 known Newington meetings transcribed (73%)
+- **Coverage:** 535 of 730 known Newington meetings transcribed (73%)
 - **Not the full history:** transcripts begin **2021-09-02**, but Newington's published video archive goes back to **2020-04-14**. Meetings before 2021 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 - **3 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
@@ -1001,15 +1001,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 22
-- Videos registered: 726 (fetched: 533, no captions: 27)
-- Date range covered: 2020-04-14 to 2026-09-02 (all 726 videos dated)
+- Videos registered: 730 (fetched: 535, no captions: 29)
+- Date range covered: 2020-04-14 to 2026-09-10 (all 730 videos dated)
 
 
 ### Channels
@@ -1023,8 +1023,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| newington_ct | streams | 2026-09-07 16:38:54.565152 | 1119 |
-| newington_ct | videos | 2026-09-07 16:38:40.627723 | 115 |
+| newington_ct | streams | 2026-09-10 11:55:32.845265 | 1123 |
+| newington_ct | videos | 2026-09-10 11:55:18.015497 | 115 |
 
 
 ## Registered meeting bodies
@@ -1033,7 +1033,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | --- | --- | --- | --- |
 | Employee Insurance and Pension Benefits Committee | budget_finance | True | 6 |
 | Standing Insurance Committee | budget_finance | True | 5 |
-| Mayor & Town Council | council | True | 211 |
+| Mayor & Town Council | council | True | 212 |
 | Board & Commissions Review Subcommittee | other | True | 1 |
 | Board of Assessment Appeals | other | True | 19 |
 | Board of Ethics | other | True | 6 |
@@ -1041,16 +1041,16 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Charter Revision Commission | other | True | 11 |
 | Commission on Aging and Disability | other | True | 9 |
 | Conservation Commission | other | True | 64 |
-| Economic Development Commission | other | True | 49 |
+| Economic Development Commission | other | True | 50 |
 | Environmental Quality Commission | other | True | 23 |
 | Human Rights Commission | other | True | 24 |
 | Newington Affordable Housing Monitoring Agency | other | True | 1 |
 | Open Space Committee | other | True | 13 |
-| Town Plan & Zoning Commission | other | True | 108 |
+| Town Plan & Zoning Commission | other | True | 109 |
 | Town Pools Project Building Committee | other | True | 18 |
 | Youth Adult Council | other | True | 22 |
 | Zoning Board of Appeals | other | True | 31 |
-| Board of Fire Commissioners | public_safety | True | 61 |
+| Board of Fire Commissioners | public_safety | True | 62 |
 | Fire Department Facilities Project Building Committee | public_safety | True | 2 |
 | Local Emergency Planning Committee | public_safety | True | 3 |
 
@@ -1058,7 +1058,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 315 (fetched: 310)
+- Documents registered: 317 (fetched: 312)
 - Date range covered: 2022-02-28 to 2026-09-23
 
 
@@ -1085,6 +1085,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | title | upload_date |
 | --- | --- |
+| Town Plan & Zoning Commission Regular Meeting Sep 9, 2026 | 2026-09-09 |
+| Mayor & Town Council Regular Meeting Sep 8, 2026 | 2026-09-08 |
 | Town Council Rules of Procedure Subcommittee Special Meeting Jun 29, 2026 | 2026-06-29 |
 | Mayor & Town Council Public Hearing & Regular Meeting Mar 10, 2026 | 2026-03-10 |
 | Board of Parks and Recreation Regular Meeting Feb 17, 2026 | 2026-02-17 |
@@ -1108,8 +1110,6 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Human Rights Commission Special Meeting | 2023-03-24 |
 | Mayor & Town Council Special Meeting | 2023-03-09 |
 | Town Plan & Zoning Commission Special Meeting | 2022-10-27 |
-| Mayor & Town Council Special Meeting | 2022-10-26 |
-| Youth Adult Council Meeting | 2022-10-19 |
 
 
 ### Tabs never crawled
@@ -1120,5 +1120,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:37:09 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Newington"`_
+_Generated 2026-09-10T14:10:17 from Newington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

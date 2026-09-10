@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **East Gr
 - **28 mentions** across **7 meetings**
 - **First mention:** 2015-02-27  |  **Most recent:** 2026-05-27
 - **Technologies discussed:** alpr, drone, facial_recognition, surveillance_general
-- **Coverage:** 226 of 232 known East Granby meetings transcribed (97%)
+- **Coverage:** 227 of 234 known East Granby meetings transcribed (97%)
 - **Not the full history:** transcripts begin **2015-02-27**, but East Granby's published video archive goes back to **2014-04-09**. Meetings before 2015 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -488,15 +488,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 12
-- Videos registered: 232 (fetched: 226, no captions: 2)
-- Date range covered: 2014-04-09 to 2026-09-02 (all 232 videos dated)
+- Videos registered: 234 (fetched: 227, no captions: 3)
+- Date range covered: 2014-04-09 to 2026-09-09 (all 234 videos dated)
 
 
 ### Channels
@@ -510,8 +510,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| gctv16 | streams | 2026-09-07 16:52:30.162285 | 1 |
-| gctv16 | videos | 2026-09-07 16:52:29.441548 | 779 |
+| gctv16 | streams | 2026-09-10 11:40:20.054934 | 1 |
+| gctv16 | videos | 2026-09-10 11:40:19.331062 | 782 |
 
 
 ## Registered meeting bodies
@@ -521,11 +521,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Board of Finance | budget_finance | True | 36 |
 | Board of Education | education | True | 50 |
 | School Building Committee | education | True | 1 |
-| Board of Selectmen | other | True | 44 |
+| Board of Selectmen | other | True | 45 |
 | Commission on Aging | other | True | 23 |
 | Economic Development Commission | other | True | 17 |
 | Inland Wetlands Conservation Commission | other | True | 14 |
-| Plan of Conservation and Development | other | True | 2 |
+| Plan of Conservation and Development | other | True | 3 |
 | Planning & Zoning Commission | other | True | 25 |
 | Shared Services Committee | other | True | 1 |
 | Town Meeting | other | True | 15 |
@@ -560,10 +560,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (2 shown, max 25)
+### Videos with no captions available (3 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| East Granby Plan of Conservation & Development - 09-08-26 | 2026-09-08 |
 | East Granby Commission on Aging - 10-07-25 | 2025-10-07 |
 | East Granby BOE presents, "Your Schools 2015-2016" Episode #2 | 2015-12-23 |
 
@@ -576,5 +577,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:30:15 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "East Granby"`_
+_Generated 2026-09-10T13:59:48 from East Granby's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

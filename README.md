@@ -32,7 +32,7 @@ councils across Connecticut that keep returning to the subject. For deciding
 which meeting is worth an evening.
 
 **[findings.csv](docs/data/findings.csv)** — every mention in one
-machine-readable file: <!-- stats:start -->5,394 rows, 96 towns, 17 topics<!-- stats:end -->, each with a link to the exact second of the meeting
+machine-readable file: <!-- stats:start -->5,956 rows, 99 towns, 17 topics<!-- stats:end -->, each with a link to the exact second of the meeting
 video. The complete record, for spreadsheets, scripts, or pointing an AI
 assistant at. See [docs/data/](docs/data/) for the column reference, the
 redaction policy, and the caveats that apply.

@@ -9,7 +9,7 @@ This report collects every mention of surveillance technology found in **Milford
 - **First mention:** 2015-12-14  |  **Most recent:** 2026-08-03
 - **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone, facial_recognition
 - **Coverage:** 327 of 345 known Milford meetings transcribed (95%)
-- **4 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
+- **5 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -157,7 +157,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Board Of Aldermen 6-6-22** _(topics: alpr, doorbell_partnership)_
 
-- `doorbell_partnership` [Watch on YouTube ▸](https://www.youtube.com/watch?v=u6mp-y7o9VE&t=1470s)  > ...time uh thank you for hearing me uh my name is Andrew King I live at 32 Cedar Lane uh every day my ring doorbell app goes off showing another car that's been broken into in town several weeks ago a...
+- `doorbell_partnership` [Watch on YouTube ▸](https://www.youtube.com/watch?v=u6mp-y7o9VE&t=1470s)  > ...time uh thank you for hearing me uh my name is Andrew King I live at [address redacted] uh every day my ring doorbell app goes off showing another car that's been broken into in town several weeks ago a...
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=u6mp-y7o9VE&t=5644s)  > ...folks from Walnut Beach Association they have made Walnut Beach into a vibrant destination a place that people flock to people come because of the farmers markets and the concerts...
 
@@ -677,7 +677,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5914s)  > ...both. When you inevitably ensure, you know, we are heard. Remember, it is not just flock. Get rid of all of the cameras. Thank you. [cheering]...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5938s)  > ...Good evening. My name is Robert Patton. I live at 41 West Orland Street and I'm a Marine Corps veteran. Automated license plate readers. Thanks. [applause]...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5938s)  > ...Good evening. My name is Robert Patton. I live at [address redacted] and I'm a Marine Corps veteran. Automated license plate readers. Thanks. [applause]...
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5948s)  > ...license plate readers. Thanks. [applause] Automated license plate reader cameras have become one of the largest surveillance systems in America. They...
 
@@ -705,7 +705,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=6700s)  > ...think is here actually, um I think he should not so easily disregard our concern for Big Brother because Flock's reputation and lack of credibility and lack of honesty is exactly what we're...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=6713s)  > ...concerned about. It's what you should have been concerned about before you let Flock into Milford. Thank you. >> My name is Robin Fitzgerald. I live at Central uh 7 Central Avenue. Uh the...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=6713s)  > ...concerned about. It's what you should have been concerned about before you let Flock into Milford. Thank you. >> My name is Robin Fitzgerald. I live at [address redacted] Uh the...
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=6914s)  > ...comes great responsibility. Um, and I think that um, you know, the big tech and flock has a lot of power by collecting all of our personal data, but they just have not demonstrated the...
 
@@ -769,7 +769,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9802s)  > ...rather than targeted investigations based on individualized suspicion. Please vote to remove the flock system. Thank you. [applause] >> Good evening. Uh my name is Mary Wargo....
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9820s)  > ...I live on 357 Plains Road. Uh, I'm concerned about the prospect of the flock cameras. Uh, I don't have firsthand experience with them, but I think it's easy enough to research about...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9820s)  > ...I live on [address redacted] Uh, I'm concerned about the prospect of the flock cameras. Uh, I don't have firsthand experience with them, but I think it's easy enough to research about...
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=10043s)  > ...I want to have policing, but I want policing protecting us from companies like Flock. As other people have spoken about, they're not a trustworthy company that...
 
@@ -939,7 +939,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=13153s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...I live on 357 Plains Road. Uh, I'm concerned about the prospect of the flock cameras. Uh, I don't have firsthand experience with them, but I think it's easy enough to research about...
+  > ...I live on [address redacted] Uh, I'm concerned about the prospect of the flock cameras. Uh, I don't have firsthand experience with them, but I think it's easy enough to research about...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9820s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
@@ -963,7 +963,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=13004s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...Good evening. My name is Robert Patton. I live at 41 West Orland Street and I'm a Marine Corps veteran. Automated license plate readers. Thanks. [applause]...
+  > ...Good evening. My name is Robert Patton. I live at [address redacted] and I'm a Marine Corps veteran. Automated license plate readers. Thanks. [applause]...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=5938s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
@@ -1035,7 +1035,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=6914s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...concerned about. It's what you should have been concerned about before you let Flock into Milford. Thank you. >> My name is Robin Fitzgerald. I live at Central uh 7 Central Avenue. Uh the...
+  > ...concerned about. It's what you should have been concerned about before you let Flock into Milford. Thank you. >> My name is Robin Fitzgerald. I live at [address redacted] Uh the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=6713s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
@@ -1601,7 +1601,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### doorbell_partnership
 
 - **[2022-06-06] Board of Aldermen** -- Board Of Aldermen 6-6-22
-  > ...time uh thank you for hearing me uh my name is Andrew King I live at 32 Cedar Lane uh every day my ring doorbell app goes off showing another car that's been broken into in town several weeks ago a...
+  > ...time uh thank you for hearing me uh my name is Andrew King I live at [address redacted] uh every day my ring doorbell app goes off showing another car that's been broken into in town several weeks ago a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=u6mp-y7o9VE&t=1470s)  _(term: doorbell_partnership, unreviewed)_
 
 - **[2022-04-25] Board of Aldermen** -- Board of Aldermen: Budget Hearing 04/25/2022
@@ -2119,6 +2119,33 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
+- **[2026-09-14] Board of Aldermen** -- Board of Aldermen Agenda - 2026-09-14 (agenda)
+  > ...oke in favor of the community block grant funding and
+asked for the Board's approval.
+
+D. Rhea, 18 Pearl Street, spoke regarding golf carts on streets and low speed vehicles.
+She also spoke regarding Flock cameras.
+
+
+
+                                            1
+B. Baxter, 56 Bray Avenue, spoke regarding Board of Assessment Appeals and ADA
+coordinator.
+
+P. Patrikios, Dock Road, spoke regarding c...
+  [View document ▸](https://www.milfordct.us/AgendaCenter/ViewFile/Agenda/_09142026-2008)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-11] Board of Finance** -- Board of Finance Minutes - 2026-02-11 (minutes)
+  > ...dget.
+
+L. Rodriquez, Executive Director of Milford Senior Center, read a prepared statement supporting the
+Milford Senior Center budget request.
+
+T. hlaller, 75 Peak Avenue, spoke against funding for Flock speed cameras and license plate readers.
+S. Bromley, 27 Norway Street, suggested holding the public hearing following all departmental budget
+meetings and using a participatory budgeting process...
+  [View document ▸](https://www.milfordct.us/AgendaCenter/ViewFile/Minutes/_02112026-1706)  _(term: alpr_flock, unreviewed)_
+
 - **[2026-08-27] Board of Aldermen** -- Board of Aldermen Minutes - 2026-08-27 (minutes)
   > ...ly residents, taxpayers or electors may address the
 Board. The time limit granted to each speaker shall be three (3) minutes. He asked
@@ -2143,17 +2170,6 @@ P. Shine
 J. Ringwald
 M. ...
   [View document ▸](https://www.milfordct.us/AgendaCenter/ViewFile/Minutes/_08272026-1992)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-11] Board of Finance** -- Board of Finance Minutes - 2026-02-11 (minutes)
-  > ...dget.
-
-L. Rodriquez, Executive Director of Milford Senior Center, read a prepared statement supporting the
-Milford Senior Center budget request.
-
-T. hlaller, 75 Peak Avenue, spoke against funding for Flock speed cameras and license plate readers.
-S. Bromley, 27 Norway Street, suggested holding the public hearing following all departmental budget
-meetings and using a participatory budgeting process...
-  [View document ▸](https://www.milfordct.us/AgendaCenter/ViewFile/Minutes/_02112026-1706)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board of Aldermen Minutes - 2026-08-03 (minutes)
   > ...oke in favor of the community block grant funding and
@@ -2276,7 +2292,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
@@ -2298,8 +2314,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| mgat | streams | 2026-09-07 16:36:25.354012 | 516 |
-| mgat | videos | 2026-09-07 16:36:18.280165 | 389 |
+| mgat | streams | 2026-09-10 11:52:52.758121 | 517 |
+| mgat | videos | 2026-09-10 11:52:45.570654 | 389 |
 
 
 ## Registered meeting bodies
@@ -2321,8 +2337,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 126 (fetched: 104)
-- Date range covered: 2026-01-05 to 2026-08-31
+- Documents registered: 128 (fetched: 106)
+- Date range covered: 2026-01-05 to 2026-09-14
 
 
 ### Agenda sources
@@ -2377,5 +2393,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:35:34 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Milford"`_
+_Generated 2026-09-10T14:07:44 from Milford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Bridgep
 - **24 mentions** across **5 meetings**
 - **First mention:** 2026-01-20  |  **Most recent:** 2026-08-03
 - **Technologies discussed:** alpr, body_camera, drone, rtcc
-- **Coverage:** 141 of 157 known Bridgeport meetings transcribed (90%)
+- **Coverage:** 142 of 158 known Bridgeport meetings transcribed (90%)
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -453,15 +453,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 2
 - Active meeting bodies: 11
-- Videos registered: 157 (fetched: 141, no captions: 14)
-- Date range covered: 2016-04-05 to 2026-08-24 — **based on the 145 of 157 videos that carry a parseable upload date**; the other 12 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 158 (fetched: 142, no captions: 16)
+- Date range covered: 2016-04-05 to 2026-09-08 — **based on the 146 of 158 videos that carry a parseable upload date**; the other 12 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -476,10 +476,10 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| bridgeport_public_schools | streams | 2026-09-07 16:35:33.572532 | 379 |
-| bridgeport_public_schools | videos | 2026-09-07 16:35:28.570554 | 43 |
-| city_of_bridgeport | streams | 2026-09-07 16:48:03.243391 | 44 |
-| city_of_bridgeport | videos | 2026-09-07 16:48:02.012112 | 397 |
+| bridgeport_public_schools | streams | 2026-09-10 11:51:56.547175 | 381 |
+| bridgeport_public_schools | videos | 2026-09-10 11:51:51.255194 | 43 |
+| city_of_bridgeport | streams | 2026-09-10 11:35:21.376552 | 46 |
+| city_of_bridgeport | videos | 2026-09-10 11:35:20.224823 | 397 |
 
 
 ## Registered meeting bodies
@@ -487,7 +487,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Budget and Appropriations Committee | budget_finance | True | 16 |
-| City Council | council | True | 36 |
+| City Council | council | True | 37 |
 | Board of Education | education | True | 77 |
 | Contracts Committee | other | True | 24 |
 | Economic and Community Development and Environment Committee | other | True | 0 |
@@ -531,24 +531,26 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (14 shown, max 25)
+### Videos with no captions available (16 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| City of Bridgeport City Council Meeting - 09.08.2026 | 2026-09-08 |
+| Virtual Special Meeting of the Bridgeport Board of Education Mon 8/17/2026 | 2026-08-17 |
 | City of Bridgeport City Council Meeting - 12.1.2025 | 2025-12-01 |
 | BBOE Personnel & Contracts Committee, Tuesday, August 22, 2023 6:00 PM | 2023-08-22 |
 | GetVaxBPT.com | City Council President Nieves |  |
-| Mayor Ganim joins State Legislators and City Council Members for Grand Opening of Madison Pub |  |
 | Special Meeting of the Bridgeport Board of Education Saturday, February 1 9:30 AM |  |
-| Bridgeport Board Of Education Community Forum Superintendent Search |  |
-| Special Meeting of the Bridgeport Board of Education Monday, July 29 6:30 PM |  |
-| Policy, Personnel & Contracts Committee Apr 11 6:30 PM |  |
+| Mayor Ganim joins State Legislators and City Council Members for Grand Opening of Madison Pub |  |
 | Special Meeting of the Bridgeport Board of Education.  Thursday, August 29 5:00 PM |  |
-| Special Meeting of the Policy, Personnel & Contracts Committee Thursday, July 25 5:30 PM |  |
-| Special Meeting Bridgeport Board of Education Tuesday, June 11 |  |
-| Policy, Personnel & Contracts Committee Thursday, May 23 |  |
-| BBOE Policy, Personnel and Contracts Committee Meeting March 13 5:30 PM |  |
 | Bridgeport Board Of Education Community Forum Superintendent Search |  |
+| Special Meeting Bridgeport Board of Education Tuesday, June 11 |  |
+| Special Meeting of the Bridgeport Board of Education Monday, July 29 6:30 PM |  |
+| Bridgeport Board Of Education Community Forum Superintendent Search |  |
+| Special Meeting of the Policy, Personnel & Contracts Committee Thursday, July 25 5:30 PM |  |
+| Policy, Personnel & Contracts Committee Thursday, May 23 |  |
+| Policy, Personnel & Contracts Committee Apr 11 6:30 PM |  |
+| BBOE Policy, Personnel and Contracts Committee Meeting March 13 5:30 PM |  |
 
 
 ### Tabs never crawled
@@ -559,5 +561,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:28:14 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Bridgeport"`_
+_Generated 2026-09-10T13:56:29 from Bridgeport's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

@@ -1,15 +1,15 @@
 # This Week in Surveillance — Connecticut
 
-_Last updated 7 September 2026 at 5:48 PM EDT. Covering the 7 days to 7 September 2026._
+_Last updated 10 September 2026 at 2:24 PM EDT. Covering the 7 days to 10 September 2026._
 
 ## Headlines
 
-- **[Meetings held in the last 7 days](#meetings-held-in-the-last-7-days)** — 43 mention(s) across 6 town(s) — East Lyme, Old Lyme, Groton
-- **[Additional towns covered in the tracker this week](#additional-towns-covered-in-the-tracker-this-week)** — 1 town(s) entered the tracker
-- **[New signal: topics appearing for the first time in towns already being watched](#new-signal-topics-appearing-for-the-first-time-in-towns-already-being-watched)** — 13 town/topic pairing(s) — Danbury (Drones), Danbury (Real-time crime centres)
+- **[Meetings held in the last 7 days](#meetings-held-in-the-last-7-days)** — 48 mention(s) across 10 town(s) — South Windsor, Bristol, East Lyme
+- **[Additional towns covered in the tracker this week](#additional-towns-covered-in-the-tracker-this-week)** — 3 town(s) entered the tracker
+- **[New signal: topics appearing for the first time in towns already being watched](#new-signal-topics-appearing-for-the-first-time-in-towns-already-being-watched)** — 15 town/topic pairing(s) — Coventry (General surveillance), Danbury (ALPR / Flock)
 - **[In the news](#in-the-news)** — no new items; most recent sweep on file ran 2026-08-23
-- **[Coming up](#coming-up)** — 12 scheduled meeting(s)
-- **[Volume surfaced this week, by topic](#volume-surfaced-this-week-by-topic)** — 537 mentions across 12 topics — Drones 279, ALPR / Flock 86, Body cameras 79
+- **[Coming up](#coming-up)** — 10 scheduled meeting(s)
+- **[Volume surfaced this week, by topic](#volume-surfaced-this-week-by-topic)** — 869 mentions across 12 topics — Drones 489, ALPR / Flock 194, Body cameras 75
 
 
 > **Unreviewed keyword matches, not verified claims.** Every item below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous and auto-captions mis-transcribe. Follow the timestamped link and listen before citing anything.
@@ -19,50 +19,88 @@ _Last updated 7 September 2026 at 5:48 PM EDT. Covering the 7 days to 7 Septembe
 
 ## Meetings held in the last 7 days
 
-_496 mentions newly surfaced in this window, from 4,638 meeting transcripts added across 191 keyword scans._
+_842 mentions newly surfaced in this window, from 5,442 meeting transcripts added across 170 keyword scans._
 
-_43 mention(s) across 6 town(s) — the genuinely current slice._
+_48 mention(s) across 10 town(s) — the genuinely current slice._
+
+
+### [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
+
+- **[2026-09-08] Town Council** — Town Council Regular Meeting - September 8, 2026
+  > …I know is that a world where big big tech companies are tracking our movements with ALPR cameras is a world that will breed mistrust confusion and fear Do you want to live in such a world If not please see Sarah Gary who's a a key wave Sarah um…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=55s)  _(term: `alpr_flock`, 2 matches in this stretch)_
+
+- **[2026-09-08] Town Council** — Town Council Regular Meeting - September 8, 2026
+  > …looking at police technology surveillance and privacy rights Uh recently I presented here on the the use of automated license plate readers in a nonpartisan manner because my organization is nonpartisan But this evening…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=795s)  _(term: `alpr_flock`, 5 matches in this stretch)_
+
+- **[2026-09-08] Town Council** — Town Council Regular Meeting - September 8, 2026
+  > …and the extensions passes unanimously All right we are up to item uh 13A 13A which is uh flock safety cameras Um Um and just a a point of reference for people on our agenda Next items it says who…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=1519s)  _(term: `alpr_flock`, 4 matches in this stretch)_
+
+- **[2026-09-08] Town Council** — Town Council Regular Meeting - September 8, 2026
+  > …right we're hiring honest hardworking forthcoming people Um once they're hired once they're trained once they're certified they'll get a flock user account that's linked to their department department email And for them to access…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JxRnfS3NtY&t=2399s)  _(term: `alpr_flock`, 8 matches in this stretch)_
+
+
+### [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
+
+- **[2026-09-08] City Council** — Bristol City Council Meeting - 09/08/26
+  > …Bristol. Uh, resident property owner here. I'm here tonight about the city's license plate reader program. Um, you know, when asking fellow members of the community about the ALPR program, its…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fQHcVaEgRhc&t=1259s)  _(term: `alpr_flock`, 8 matches in this stretch)_
 
 
 ### [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
 
-- **[2026-09-02] Board of Selectmen** — East Lyme, CT Board of Selectmen 09/02/2026
-  > …encourage everyone that there are a lot of questions about what is happening right now with the automated license plate readers. I would encourage everyone in the town to be as educated…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=866s)  _(term: `alpr_flock`, 9 matches in this stretch)_
+- **[2026-09-09] Board of Finance** — East Lyme, CT Board of Finance 09/09/2026
+  > …right along. Um, as I think everybody knows and reading the newspaper, the ALPR, which is referred to as flock cameras, flock is like Xerox. It's, you know, ALPR is is is the camera type of…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ekQMzQ4GrSw&t=198s)  _(term: `alpr_flock`, 7 matches in this stretch)_
 
-- **[2026-09-02] Board of Selectmen** — East Lyme, CT Board of Selectmen 09/02/2026
-  > …And as I mentioned, right, it's not just Faulk as a company. Tempe, Arizona, for example, removed Flock cameras, but then they moved towards another vendor's license plate reader technology, just…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1201s)  _(term: `alpr_flock`, 14 matches in this stretch)_
 
-- **[2026-09-02] Board of Selectmen** — East Lyme, CT Board of Selectmen 09/02/2026
-  > …>> Thanks, Brian. Alan Buckolds 11 McKinnon please following on the flock camera. >> I didn't hear it. >> Alan Buck Holds 11 McKinnon please.…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1646s)  _(term: `alpr_flock`, 10 matches in this stretch)_
+### [Killingly](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingly/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock, Drones
 
-- **[2026-09-02] Board of Selectmen** — East Lyme, CT Board of Selectmen 09/02/2026
-  > …great advice and I try to do that on a daily basis not to be a slime ball. Um Flock and all these surveillance technology companies are slime balls and this is why they're slime balls. They…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=2131s)  _(term: `alpr_flock`, 2 matches in this stretch)_
+- **[2026-09-08] Town Council** — Killingly Town Council Meeting - Sept 8, 2026
+  > …Citizen statements and petitions. I'm not going to read the whole scenario. We're going to get to it. Um I have one comment, one public comment we received earlier from Diane Weber, uh…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PdkwBRhG7eM&t=749s)  _(term: `alpr_flock`, 3 matches in this stretch)_
 
-- **[2026-09-02] Board of Selectmen** — East Lyme, CT Board of Selectmen 09/02/2026
-  > …only thing that I have concerned about the I never even thought about these flock cameras that you're talking about. Everything in my life has been hacked. So, it's all out there. My concern about…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=2545s)  _(term: `alpr_flock`, 2 matches in this stretch)_
+- **[2026-09-08] Town Council** — Killingly Town Council Meeting - Sept 8, 2026
+  > …they I saw a video. >> Yeah. So, uh, that's been cut through. I have some drone footage of the swath. It's kind of cool. I forward it to you guys if you want to take a look at it.…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PdkwBRhG7eM&t=5555s)  _(term: `drone`)_
 
-- **[2026-09-02] Board of Selectmen** — East Lyme, CT Board of Selectmen 09/02/2026
-  > …so back in early January, February when we were discussing the speed cameras initially um the idea of of the flock cameras came up through our discussions and uh through a series of votes and a…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=6063s)  _(term: `alpr_flock`)_
+
+### [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
+
+- **[2026-09-09] Board of Finance** — 2026-09-09 Board of Finance Meeting
+  > …an individual so that's not a countdown that's a hope in a way I would you left money money in the in the police budget for flock cameras Um I'm I'm not that's not the what they were using for the other cameras cameras for like…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=2675s)  _(term: `alpr_flock`, 3 matches in this stretch)_
+
+
+### [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock, Predictive policing
+
+- **[2026-09-08] Town Council** — Groton Town Council Committee of the Whole and Special Town Council- 9/8/26
+  > …>> Thank you. Okay, so I received communications regarding the flock cameras and the school lunch program. I did reach out to the superintendent and chairperson…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vcr0U9jzMVM&t=329s)  _(term: `alpr_flock`, 2 matches in this stretch)_
 
 
 ### [Old Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
 
-- **[2026-09-08] Road and Public Safety Committee** — Road and Public Safety Committee Agenda - 2026-09-08
-  > …dback Signs Data Collection and Reports Relocation of Existing Speed Feedback Sign B - Automated Traffic Enforcement Safety Devices (ATSED) and Flock Cameras Review of Statewide Activity and other Safety Measures C - Future Agenda for Committee Discussion of Member’s Priorities and Suggested Co…
-  [Open document ▸](https://ct-oldlyme.civicplus.com/AgendaCenter/ViewFile/Agenda/_09082026-3461)  _(agenda/minutes · term: `alpr_flock`)_
+- **[2026-09-08] Road and Public Safety Committee** — Road and Public Safety Committee Minutes - 2026-09-08
+  > …issues involving safe access/exiting from commercial properties and concerns related to the Rt 1/Four Mile River Road intersection. B. Automated Traffic Enforcement Safety Devices (ATSED) and Flock Cameras • The Committee recognized Governor Lamont’s request that Connecticut municipalities pause implementation of enfor…
+  [Open document ▸](https://ct-oldlyme.civicplus.com/AgendaCenter/ViewFile/Minutes/_09082026-3461)  _(agenda/minutes · term: `alpr_flock`, 2 matches in this stretch)_
 
 
-### [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) — Predictive policing
+### [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
 
-- **[2026-09-03] Beautification Committee** — Groton Beautification Committee - 9/3/26
-  > …a uh somebody that can actually cut a piece to those specifications, a foundry or plasma art cutter hopefully in the area somewhere. Yeah, I could do that.…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vHtKuoS--I4&t=359s)  _(term: `predictive_policing`)_
+- **[2026-09-14] Board of Aldermen** — Board of Aldermen Agenda - 2026-09-14
+  > …oke in favor of the community block grant funding and asked for the Board's approval. D. Rhea, 18 Pearl Street, spoke regarding golf carts on streets and low speed vehicles. She also spoke regarding Flock cameras. 1 B. Baxter, 56 Bray Avenue, spoke regarding Board of Assessment Appeals and ADA coordinator. P. Patrikios…
+  [Open document ▸](https://www.milfordct.us/AgendaCenter/ViewFile/Agenda/_09142026-2008)  _(agenda/minutes · term: `alpr_flock`)_
+
+
+### [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) — Drones
+
+- **[2026-09-09] Board of Aldermen** — Waterbury Board of Aldermen Meeting - September 9, 2026
+  > …execution of contracts as submitted by Raphael Filino Roman alderman fifth district and Michael Dji Carlo board of alderman president. May I have a motion? >> So move second. I've received a motion…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YtJYkoX6H70&t=8691s)  _(term: `drone`)_
 
 
 ### [Norwich](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md) — Drones
@@ -72,39 +110,100 @@ _43 mention(s) across 6 town(s) — the genuinely current slice._
   [Open document ▸](https://www.norwichct.gov/AgendaCenter/ViewFile/Agenda/_09032026-6995)  _(agenda/minutes · term: `drone`)_
 
 
-### [Danbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/danbury/surveillance-tech-transcript-and-agenda-report.md) — Drones
-
-- **[2026-09-01] City Council** — City Council Agenda - 2026-09-01
-  > …• Battalion 19: 0 • Battalion 31: 0 • Engine 12: 41 • Engine 13: 0 • Engine 14: 1.25 • Engine 4: 0 Fire School Rentals/Use: • DFD Company Training and Drills o Danbury Drone Team ▪ 8/19 o CSX Training ▪ 8/17, 8/18 o Danbury Hospital Decon Training ▪ 8/6 o Driver Qualifications ▪ 8…
-  [Open document ▸](https://www.danbury-ct.gov/AgendaCenter/ViewFile/Agenda/_09012026-1944)  _(agenda/minutes · term: `drone`)_
-
-
-### [East Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hartford/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
-
-- **[2026-09-01] Town Council** — Town Council
-  > …Thank you, Mr. Chair. Yeah, just to, uh, clarify. So, for folks who may be watching, automated license plate readers are very different from red light cameras or speed cameras. Uh, and I think the, the issue here is less of a privacy and constitutional rights issue, though some people will make that argument. You know,…
-  [Watch on Viebit ▸](https://ehct.viebit.com/watch?hash=3sMSQHMbIwq1xZvT)  [jump to 32:22 ▸](https://vbfast-vod.viebit.com/ehct/3sMSQHMbIwq1xZvT/TC_260901.mp4#t=1942)  _(term: `alpr_flock`)_
-
-
 ## Additional towns covered in the tracker this week
 
-_1 town(s) entered the tracker this week — their meeting transcripts were downloaded for the first time. A large mention count here reflects a backlog newly opened up, not a sudden change in the town._
+_3 town(s) entered the tracker this week — their meeting transcripts were downloaded for the first time. A large mention count here reflects a backlog newly opened up, not a sudden change in the town._
 
 
 | Town | Mentions found | Top topics |
 | --- | --- | --- |
+| Middletown | 226 | Drones (154), ALPR / Flock (62), Body cameras (8) |
+| Stamford | 137 | Drones (69), General surveillance (34), Body cameras (17) |
 | [East Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hartford/surveillance-tech-transcript-and-agenda-report.md) | 77 | Drones (51), ALPR / Flock (11), Body cameras (6) |
 
 ## New signal: topics appearing for the first time in towns already being watched
 
-_13 town/topic pairing(s). These towns already had transcripts in the corpus before this window, so a first appearance here is not simply the effect of new coverage._
+_15 town/topic pairing(s). These towns already had transcripts in the corpus before this window, so a first appearance here is not simply the effect of new coverage._
 
 
-### [Danbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/danbury/surveillance-tech-transcript-and-agenda-report.md) — Drones (6 mentions)
+### [Coventry](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/coventry/surveillance-tech-transcript-and-agenda-report.md) — General surveillance (3 mentions)
+
+- **[2024-11-18] Boards and Commissions** — 11-14-2024 WPCA meeting
+  > …for um jetting and backing and cctv and the sewer mains to…
+  [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=aoN5wmxu5SdvVPQw)  [jump to 24:50 ▸](https://vbfast-vod.viebit.com/coventry/aoN5wmxu5SdvVPQw/video1640929535.mp4#t=1490)  _(term: `surveillance_general`)_
+
+- **[2024-03-18] Town Council** — 3-18-2024 Town Council Meeting
+  > …I'm trying to get a grant that I can throw body cameras in. I can throw dashboard cameras in. I really don't want to throw tasers in there, but I can throw the police surveillance camera system in. So, I'm hoping that I, you know, I can get a grant that will cover all that, but I won't know until later in the year. But…
+  [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=cOYOBSgpd2uw2rnN)  [jump to 1:35:42 ▸](https://vbfast-vod.viebit.com/coventry/cOYOBSgpd2uw2rnN/GMT20240318-231929_Recording_640x360.mp4#t=5742)  _(term: `surveillance_general`)_
+
+- **[2023-10-13] Boards and Commissions** — 10-12-2023 WPCA Meeting
+  > …then for next year we've got we've got about 8 000 feet usually we do 2 000 feet a day so it's four days of cleaning and the rate now is about three thousand dollars a day they added in one day of cctv because if we run into problems then we got to get a separate camera truck out there i mean sometimes smaller mains we…
+  [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=6qg3CAr0xr1ib6BC)  [jump to 26:59 ▸](https://vbfast-vod.viebit.com/coventry/6qg3CAr0xr1ib6BC/video1444780877.mp4#t=1619)  _(term: `surveillance_general`)_
+
+
+### [Danbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/danbury/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock (5 mentions)
+
+- **[2025-10-15] Board of Award** — October 15,2025 Board of Awards
+  > …We have seven items. One of the items may be coming off. The first item is a 60-day pretrial of flat safety advanced license plate recognition ALPR system for the police department. And for the record, the police department submitted a proposal from flat safety.…
+  [Watch ▸](https://danbury.granicus.com/player/clip/3420)  [jump to 0:45 ▸](https://archive-video.granicus.com/danbury/danbury_c5367929-7220-44d1-9e68-adb37754088b.mp4#t=45)  _(term: `alpr_flock`, 3 matches in this stretch)_
+
+- **[2025-08-13] Board of Award** — August 13,2025 Board of Awards
+  > …for the trial of a plate ranger, advanced license plate recognition, LALPR system. For the Police Department. For the record, the Police Department did submit this MOU, which would allow for a 60-day free trial of this ALPR system that was developed by Sound Thinking. It's indicated that this system will be placed in s…
+  [Watch ▸](https://danbury.granicus.com/player/clip/3338)  [jump to 2:33 ▸](https://archive-video.granicus.com/danbury/danbury_8de39f07-7db7-4f9b-afdf-c1220d4ce7b6.mp4#t=153)  _(term: `alpr_flock`)_
+
+- **[2024-04-10] Board of Award** — April 10 2024, Board of Award
+  > …All in favor. All right. Motion carried. Jean Adams. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. I'm sorry. All in favor. Item number three, our last item, purchase Axon Fleet 3, advanced in-car video systems, two of them, with related accessories and extended warranty for the police department. T…
+  [Watch ▸](https://danbury.granicus.com/player/clip/2741)  [jump to 6:39 ▸](https://archive-video.granicus.com/danbury/danbury_72a42b4d-fd0e-11ee-b231-0050569183fa.mp4#t=399)  _(term: `alpr_vendor`)_
+
+
+### [Danbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/danbury/surveillance-tech-transcript-and-agenda-report.md) — Drones (21 mentions)
 
 - **[2026-09-01] City Council** — City Council Agenda - 2026-09-01
   > …• Battalion 19: 0 • Battalion 31: 0 • Engine 12: 41 • Engine 13: 0 • Engine 14: 1.25 • Engine 4: 0 Fire School Rentals/Use: • DFD Company Training and Drills o Danbury Drone Team ▪ 8/19 o CSX Training ▪ 8/17, 8/18 o Danbury Hospital Decon Training ▪ 8/6 o Driver Qualifications ▪ 8…
   [Open document ▸](https://www.danbury-ct.gov/AgendaCenter/ViewFile/Agenda/_09012026-1944)  _(agenda/minutes · term: `drone`, 6 matches in this stretch)_
+
+- **[2026-08-26] Environmental Impact Commission** — EIC Meeting 8/26/26
+  > …and a lot of my days are spent explaining to people that it's private property such as we'll go down that road as we do it documented um public works is helping us by doing drone flights over in certain areas and go up and just look over the house into it and if there's things that are blocking it then i'm sending them…
+  [Watch ▸](https://danbury.granicus.com/player/clip/3810)  [jump to 27:48 ▸](https://archive-video.granicus.com/danbury/danbury_1129906b-0ccf-4d85-82fe-b0e0c391b0b4.mp4#t=1668)  _(term: `drone`)_
+
+- **[2026-08-12] Environmental Impact Commission** — EIC Meeting 08.12.26
+  > …recent storm events have been coming fast and serious. And, uh, the Blind Brook is, the Blind Brook area of town has taken a severe hit and I was instructed to go and do it as a matter of fact. Um, the public works department is going to be giving me a drone flight over the brook so that this way that I don't have to g…
+  [Watch ▸](https://danbury.granicus.com/player/clip/3804)  [jump to 29:54 ▸](https://archive-video.granicus.com/danbury/danbury_2a62587f-c7af-4bcb-8fac-e5b74f8a1f2f.mp4#t=1794)  _(term: `drone`, 2 matches in this stretch)_
+
+- **[2025-05-21] Board of Award** — May 21,2025 Board of Awards
+  > …Motion carries unanimously. Moving on to item number five. Purchase public safety drone with related accessory items and services for the fire department. And for the record, the fire department submitted a requisition to submit it to Sky D.O. This is to purchase the subject equipment.…
+  [Watch ▸](https://danbury.granicus.com/player/clip/3217)  [jump to 6:51 ▸](https://archive-video.granicus.com/danbury/danbury_96037b60-db8d-4b3a-96c7-0747c14af4d0.mp4#t=411)  _(term: `drone`)_
+
+- **[2025-03-12] Board of Award** — March 12,2025 Board of Awards
+  > …All right. Motion carried unanimously. Moving on to item number four. This is an Axon Air Photokite Drone License Agreement. It's five years for emergency management. And for the record, Mr. Kenzavecchia submitted a requisition.…
+  [Watch ▸](https://danbury.granicus.com/player/clip/3115)  [jump to 5:33 ▸](https://archive-video.granicus.com/danbury/danbury_ca54dc54-0861-4ec9-a468-bdedba46d84f.mp4#t=333)  _(term: `drone`, 2 matches in this stretch)_
+
+- **[2024-12-04] Board of Award** — December 4,2024 Board of Awards
+  > …All right. Motion carried unanimously. Moving on, item number three. Purchase a new Axon Air Photokite Sigma Mobile Tethered Drone, Department of Emergency Management. And for the record, Mr. Kozemecki submitted a requisition. This is made out to Axon Enterprises. This is to purchase a subject drone. Total quoted cost …
+  [Watch ▸](https://danbury.granicus.com/player/clip/2999)  [jump to 3:04 ▸](https://archive-video.granicus.com/danbury/danbury_7b1e78a2-ca21-4606-8dc0-5d1be86d0922.mp4#t=184)  _(term: `drone`, 5 matches in this stretch)_
+
+- **[2024-10-24] Zoning Board of Appeals** — October 24, 2024 Zoning Board of Appeals
+  > …motion made by mr revis seconded by mr delusion all in favor aye aye okay uh okay uh let's see here what we have left here nothing application 24-16 drone no old business no new business we need adjournment now go home early you're the chairman can we just um clearly state on the record um about the um application for …
+  [Watch ▸](https://danbury.granicus.com/player/clip/2957)  [jump to 33:09 ▸](https://archive-video.granicus.com/danbury/danbury_deae12db-9666-11ef-ab4b-005056a89546.mp4#t=1989)  _(term: `drone`)_
+
+- **[2024-03-27] Board of Award** — March 27, 2024 Board of Award
+  > …going to be removing item number five, which was the purchase of new 2024 Chevrolet 2500 double cab four by four trucks for the fire department. So that item will be removed. Moving on to the first item. Purchase drone with related accessories, software, and support for the construction services department. And for the…
+  [Watch ▸](https://danbury.granicus.com/player/clip/2708)  [jump to 1:23 ▸](https://archive-video.granicus.com/danbury/danbury_1d8a3d1f-eea5-11ee-b231-0050569183fa.mp4#t=83)  _(term: `drone`, 3 matches in this stretch)_
+
+
+### [Danbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/danbury/surveillance-tech-transcript-and-agenda-report.md) — Purchasing / procurement (3 mentions)
+
+- **[2024-10-23] Board of Award** — October 23,2024 Board of Awards
+  > …requisition this is made out to dell technologies uh purchase subject items uh total quote cost seventeen thousand seven hundred sixty four dollars and six cents uh dow quoted this equipment for their current state contract uh second uh higher quotes obtained from cdwg they quoted a total cost of twenty one thousand fi…
+  [Watch ▸](https://danbury.granicus.com/player/clip/2959)  [jump to 9:18 ▸](https://archive-video.granicus.com/danbury/danbury_bdff5fea-99e9-11ef-ab4b-005056a89546.mp4#t=558)  _(term: `purchasing_broker`)_
+
+- **[2024-10-09] Board of Award** — October 9,2024 Board of Awards
+  > …Dell Technologies quoted these items for their current state of Connecticut contract award. We did receive a second quote. It was higher from Insight Public Sector. They quoted for their Omnia contract. Total cost $59,772.…
+  [Watch ▸](https://danbury.granicus.com/player/clip/2934)  [jump to 8:39 ▸](https://archive-video.granicus.com/danbury/danbury_d831308c-8976-11ef-ab4b-005056a89546.mp4#t=519)  _(term: `purchasing_broker`)_
+
+- **[2024-06-05] Board of Award** — June 5, 2024 Board of Awards
+  > …Dell quoted this equipment for the current Omniac Cooperative Contract Award. We did receive a second quote for this. It was from Insight Public Sector. The price was a little bit lower, at $16,571.50. But they were unable to quote on one of the three required items.…
+  [Watch ▸](https://danbury.granicus.com/player/clip/2797)  [jump to 31:09 ▸](https://archive-video.granicus.com/danbury/danbury_e539580f-2672-11ef-81ef-005056a89546.mp4#t=1869)  _(term: `purchasing_broker`)_
 
 
 ### [Danbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/danbury/surveillance-tech-transcript-and-agenda-report.md) — Real-time crime centres (1 mention)
@@ -112,6 +211,13 @@ _13 town/topic pairing(s). These towns already had transcripts in the corpus bef
 - **[2026-03-03] City Council** — City Council Agenda - 2026-03-03
   > …Milford academy. Chief’s Significant Meetings 1/22 Committee Meeting 1/23 Peer Support Policy Meeting 1/23 Negotiations Attorney Meeting 1/27 FCI Danbury Community Relations Board Meeting 1/28 AXON Fusus/Fixed LPR Presentation 1/28 Pursuit Policy Subcommittee 1/29 Public Safety Executives 1/30 Interest Arbitration Hear…
   [Open document ▸](https://www.danbury-ct.gov/AgendaCenter/ViewFile/Agenda/_03032026-1734)  _(agenda/minutes · term: `rtcc`)_
+
+
+### [Deep River](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/deep-river/surveillance-tech-transcript-and-agenda-report.md) — Drones (1 mention)
+
+- **[2021-10-12] Board of Selectmen** — Deep River Town Meetings - October 12 2021
+  > …completed it's done okay all right or actually i'm not sure if that's done so my drone is done and mitchell is done they're going to come back and do that curbing i'm assuming that they did they…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4F28VVEUJQw&t=3093s)  _(term: `drone`)_
 
 
 ### [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) — Cell-site simulators (3 mentions)
@@ -125,25 +231,22 @@ _13 town/topic pairing(s). These towns already had transcripts in the corpus bef
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=L1sb4zKZZ5c&t=1241s)  _(term: `cell_site_sim`, 2 matches in this stretch)_
 
 
+### [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) — General surveillance (5 mentions)
+
+- **[2026-01-12] Housing Authority** — Housing Authority on 2026-01-05 7:00 PM - Regular Meeting
+  > …Yeah. To replace the tractor, we had to be like $24,000 or $24,000, so, yeah. So, not that, since we're kind of reviewing, um, the notes, anything on the CCTV system? Yeah. So, um, updates, so, um, so all the suggestions, yeah, we can do, under updates, yeah.…
+  [Watch ▸](https://ledyardct.granicus.com/player/clip/1950)  [jump to 7:20 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_87173cf4-7d82-4d26-a7dc-5c60449b9782.mp4#t=440)  _(term: `surveillance_general`, 4 matches in this stretch)_
+
+- **[2025-11-10] Housing Authority** — Housing Authority on 2025-11-03 7:00 PM - Regular Meeting
+  > …so waiting any questions or comments regarding the renovation okay okay old business proper to come before the board i just had a question about the cctv system where are you with that yes so um i um touch base with steven is the is the gentleman's name that we're dealing with and they've ordered the equipment we're ju…
+  [Watch ▸](https://ledyardct.granicus.com/player/clip/1826)  [jump to 14:39 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_0591cf35-7854-4c82-a118-7a3867892b50.mp4#t=879)  _(term: `surveillance_general`)_
+
+
 ### [Monroe](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/monroe/surveillance-tech-transcript-and-agenda-report.md) — Body cameras (1 mention)
 
 - **[2020-06-08] Town Council** — Town of Monroe Ct Town Council Meeting June 8th 2020
   > …interview at the station where we record via the the I record system in that in the interview rooms they wear the body worn camera to record a statement that's made in the field and I believe that was…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=xDCX34eTDMo&t=2049s)  _(term: `body_camera`)_
-
-
-### [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) — Facial recognition (1 mention)
-
-- **[2021-10-04] Board of Education** — New Britain Board of Education - 10/4/2021
-  > …does so every single camera is intelligent it has analytics we're not doing any sort of facial recognition there's no ferpa issues or anything like that that i know are a big…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zrZ1Vhr1JHk&t=2128s)  _(term: `facial_recognition`)_
-
-
-### [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) — Data brokers (8 mentions)
-
-- **[2017-06-05] Board of Alders** — Board of Alders Agenda - 2017-06-05
-  > …Order of the New Haven Board of Alders authorizing the Office of the Corporation Counsel to enter into multi-year agreement with LexisNexis, a division of Relx, Inc., to subscribe to Lexis Advance & Accurint for Government, online legal research databases, commencing July 1, 2017 through June 30, 2020. (Order passed) d…
-  [Open document ▸](http://legistar2.granicus.com/newhaven-ct/meetings/2017/6/2934_A_Board_of_Alders_17-06-05_Meeting_Agenda.pdf)  _(agenda/minutes · term: `data_broker`, 8 matches in this stretch)_
 
 
 ### [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) — Facial recognition (1 mention)
@@ -162,20 +265,6 @@ _13 town/topic pairing(s). These towns already had transcripts in the corpus bef
 - **[2023-04-03] Planning & Zoning Commission** — North Haven Planning & Zoning 4/03/23
   > …manufacturing too you know you you mentioned Massimo and you say there's a Foundry down there that makes manhole covers you know the retail market for the manual covers is is pretty limited…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=v3n0zRl5_As&t=956s)  _(term: `predictive_policing`)_
-
-
-### [Old Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) — Predictive policing (1 mention)
-
-- **[2022-09-12] Historic District Commission** — Historic District Commission meeting September 12, 2022
-  > …delineation the the the the you know your your metal edging to the approved parking Foundry through the tree I know but the concern to him is is there's there's three three…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2r-YlOthkYQ&t=3907s)  _(term: `predictive_policing`)_
-
-
-### [Plainfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) — General surveillance (1 mention)
-
-- **[2023-03-22] Agriculture Commission** — March 22, 2023 Agriculture Commission
-  > …growers association yeah Connecticut Connecticut Christmas tree growers association CCTV I know that um DFA is happening right now…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WfDUmWl6tis&t=3279s)  _(term: `surveillance_general`)_
 
 
 ### [Plainville](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainville/surveillance-tech-transcript-and-agenda-report.md) — Body cameras (4 mentions)
@@ -198,6 +287,13 @@ _13 town/topic pairing(s). These towns already had transcripts in the corpus bef
 - **[2020-03-12] Town Council** — Plainville Town Council Budget Meeting - 3/12/20
   > …know when someone breaks into an apartment or breaks into a house you know or ring doorbell we have all of those pieces now so video is becoming more our photos you know a camera today…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=YUvfoWrAZXA&t=3842s)  _(term: `doorbell_partnership`)_
+
+
+### [Roxbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/roxbury/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock (1 mention)
+
+- **[2023-05-16] Board of Finance** — Board of Finance - May 16, 2023 - Regular Meeting
+  > …being the same exact cars oh my gosh can we do any enforcements uh we have a license plate reader on our police car Linda and Kim and Kim have…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2X-fKzwRCIA&t=1856s)  _(term: `alpr_flock`)_
 
 
 ### [Somers](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/somers/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock (1 mention)
@@ -276,29 +372,25 @@ From a weekly sweep of municipal agendas, minutes, packets, CTDOT filings and ne
 
 _Meetings the towns have already scheduled, at bodies that have raised surveillance before:_
 
-- **2026-09-08** — [Cheshire](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cheshire/surveillance-tech-transcript-and-agenda-report.md): [Planning and Zoning Commission](https://www.youtube.com/watch?v=dyJu2yqfUTI)
+- **2026-09-12** — [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md): [Public Information Meeting](https://www.youtube.com/watch?v=ybq_yWenubI)
 
-- **2026-09-08** — [Bethany](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethany/surveillance-tech-transcript-and-agenda-report.md): [Board of Finance](https://www.youtube.com/watch?v=Y7bZxSArAEU)
+- **2026-09-14** — [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md): [Board of Finance](https://www.youtube.com/watch?v=ZmO1wxNmyEs)
 
-- **2026-09-08** — [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md): [Planning & Zoning Commission](https://www.youtube.com/watch?v=C-ZjCCVglfw)
+- **2026-09-14** — [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Board of Health](https://www.youtube.com/watch?v=uGSdknMLDro)
 
-- **2026-09-08** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Town Council](https://www.youtube.com/watch?v=90gH_uH4_iA)
-
-- **2026-09-08** — [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Planning Board](https://www.youtube.com/watch?v=QyjCS6hHTSM)
-
-- **2026-09-08** — [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md): [Town Council](https://www.youtube.com/watch?v=z0JYRr5--mY)
-
-- **2026-09-10** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Public Works, Facilities, and Sustainability Committee](https://www.youtube.com/watch?v=TIW9A4slHqc)
-
-- **2026-09-10** — [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md): [Board of Education](https://www.youtube.com/watch?v=5yxvnnUtLGk)
-
-- **2026-09-15** — [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Conservation Commission](https://www.youtube.com/watch?v=ROzWhdwsH3Y)
+- **2026-09-14** — [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md): [Sustainability / Climate Resiliency](https://www.youtube.com/watch?v=N61JRHrdp6I)
 
 - **2026-09-15** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Board of Education](https://www.youtube.com/watch?v=Ole0pH48NLM)
+
+- **2026-09-15** — [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Conservation Commission](https://www.youtube.com/watch?v=ROzWhdwsH3Y)
 
 - **2026-09-16** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Community Planning and Economic Development Committee](https://www.youtube.com/watch?v=yjm_ZFdrcO8)
 
 - **2026-09-17** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Human & Community Services Committee](https://www.youtube.com/watch?v=wJNQF6M6cFU)
+
+- **2026-09-22** — [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Town Council](https://www.youtube.com/watch?v=EDADKFdOvxI)
+
+- **2026-09-23** — [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Harbor Advisory Committee](https://www.youtube.com/watch?v=l4bveL8nGX4)
 
 
 The full watch list — every body that keeps returning to the subject, and when it typically meets — is in [Meetings to watch](meetings-to-watch.md).
@@ -308,17 +400,17 @@ The full watch list — every body that keeps returning to the subject, and when
 
 | Topic | Newly surfaced | Towns |
 | --- | --- | --- |
-| [Drones](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/drone.md) | 279 | 26 |
-| [ALPR / Flock](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/alpr.md) | 86 | 16 |
-| [Body cameras](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md) | 79 | 15 |
-| [General surveillance](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/surveillance_general.md) | 51 | 9 |
-| [Facial recognition](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/facial_recognition.md) | 10 | 6 |
-| [Predictive policing](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/predictive_policing.md) | 9 | 7 |
-| [Data brokers](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/data_broker.md) | 8 | 1 |
-| [Gunshot detection](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/gunshot_detection.md) | 7 | 1 |
+| [Drones](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/drone.md) | 489 | 34 |
+| [ALPR / Flock](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/alpr.md) | 194 | 27 |
+| [Body cameras](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md) | 75 | 16 |
+| [General surveillance](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/surveillance_general.md) | 72 | 9 |
+| [Facial recognition](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/facial_recognition.md) | 18 | 5 |
+| [Purchasing / procurement](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/purchasing_broker.md) | 5 | 2 |
+| [Predictive policing](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/predictive_policing.md) | 5 | 4 |
 | [Cell-site simulators](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/cell_site_sim.md) | 3 | 1 |
+| [Data brokers](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/data_broker.md) | 3 | 1 |
+| [Gunshot detection](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/gunshot_detection.md) | 2 | 2 |
 | [Doorbell-camera partnerships](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/doorbell_partnership.md) | 2 | 2 |
-| [Purchasing / procurement](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/purchasing_broker.md) | 2 | 1 |
 | [Real-time crime centres](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/rtcc.md) | 1 | 1 |
 
 ---

@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **North C
 - **2 mentions** across **1 meeting**
 - **First mention:** 2025-04-28  |  **Most recent:** 2025-04-28
 - **Technologies discussed:** drone
-- **Coverage:** 101 of 101 known North Canaan meetings transcribed (100%)
+- **Coverage:** 101 of 102 known North Canaan meetings transcribed (99%)
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -304,15 +304,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 9
-- Videos registered: 101 (fetched: 101, no captions: 0)
-- Date range covered: 2025-01-28 to 2026-08-18 (all 101 videos dated)
+- Videos registered: 102 (fetched: 101, no captions: 0)
+- Date range covered: 2025-01-28 to 2026-09-09 (all 102 videos dated)
 
 
 ### Channels
@@ -326,14 +326,14 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| north_canaan_ct | videos | 2026-09-07 16:29:03.878410 | 101 |
+| north_canaan_ct | videos | 2026-09-10 13:36:20.776007 | 102 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 21 |
+| Board of Finance | budget_finance | True | 22 |
 | Board of Selectmen | council | True | 25 |
 | Board of Education | education | True | 0 |
 | Events Committee | other | True | 6 |
@@ -369,7 +369,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | 2026-08-27 15:11:36.463048 | both_tabs_checked | /videos 101 titles; /streams tab does not exist (yt-dlp: "This channel does not have a streams tab"). | yt-dlp --flat-playlist crawl of both tabs, 2026-08-27 | claude |
 | 2026-08-27 15:11:36.463048 | channel_found | "Town of North Canaan, CT" (UCkyVLXscOR0tQu2zDMO219A, @TownofNorthCanaanCT-h9s) confirmed via direct yt-dlp --skip-download --print channel probe. | yt-dlp channel probe + --flat-playlist crawl of both tabs (WebSearch budget exhausted, ytsearch: fallback), 2026-08-27 | claude |
 | 2026-08-27 15:11:36.463048 | collision_check_canaan | COLLISION RISK CHECKED: Canaan CT (Falls Village) is a different town, onboarded in this same batch on channel canaan_falls_village_ct (UCCtgav-oe3SMmnUO11xIKew, @TownofCanaanFallsVillage). North Canaan's channel is a completely separate UC id and handle -- no shared channel exists between the two towns, so match_body() cannot cross-apply patterns and no anchoring is required on either side. Independently verified: a CT-town-name scan of North Canaan's full 101-title corpus found ZERO town-name mentions of any kind (titles are bare "<Body> <Frequency> Meeting (<date>)"). | yt-dlp probes of both channels + Python CT-town-name scan of the full North Canaan corpus + town_channels query of the live DB, 2026-08-27 | claude |
-| 2026-08-27 15:15:18.183164 | dry_run_sanity_check | north_canaan_ct: /videos 101 listed / 101 matched, no /streams tab. Combined 101/101 (100%). | ingest/fetch_channel_transcripts.py --tabs videos,streams --mode filtered --dry-run against the live DB after seeding, 2026-08-27 | claude |
+| 2026-08-27 15:15:18.183164 | dry_run_sanity_check | north_canaan_ct: /videos 101 listed / 101 matched, no /streams tab. Combined 101/101 (100%). | the transcript fetcher --tabs videos,streams --mode filtered --dry-run against the live DB after seeding, 2026-08-27 | claude |
 | 2026-08-27 15:15:18.183164 | patterns_validated_from_real_titles | 101/101 titles matched (100%) across 9 registered bodies. Every title matches -- the last holdout ("Annual Town Budget Meeting") is covered by the broadened Town Meeting pattern. Confirmed by the tool's own --dry-run: 101 listed, 101 matched. | Python pattern validation against the full 101-title corpus, 2026-08-27 | claude |
 
 
@@ -391,5 +391,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:37:33 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "North Canaan"`_
+_Generated 2026-09-10T14:10:56 from North Canaan's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

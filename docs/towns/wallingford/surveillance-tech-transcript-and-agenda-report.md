@@ -8,8 +8,7 @@ This report collects every mention of surveillance technology found in **Walling
 - **62 mentions** across **26 meetings**
 - **First mention:** 2017-11-27  |  **Most recent:** 2026-06-09
 - **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone, surveillance_general
-- **Coverage:** 476 of 532 known Wallingford meetings transcribed (89%)
-- **Still incomplete:** 56 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 477 of 532 known Wallingford meetings transcribed (90%)
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -786,14 +785,14 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 2
 - Active meeting bodies: 3
-- Videos registered: 532 (fetched: 476, no captions: 55)
+- Videos registered: 532 (fetched: 477, no captions: 55)
 - Date range covered: 2016-01-04 to 2026-09-08 — **based on the 530 of 532 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
 
 
@@ -809,10 +808,10 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| wallingford_government_media | streams | 2026-09-07 16:36:52.277025 | 361 |
-| wallingford_government_media | videos | 2026-09-07 16:36:47.085283 | 627 |
-| wallingford_ps | streams | 2026-09-07 16:37:14.066579 | 308 |
-| wallingford_ps | videos | 2026-09-07 16:37:09.984121 | 245 |
+| wallingford_government_media | streams | 2026-09-10 11:53:22.239902 | 361 |
+| wallingford_government_media | videos | 2026-09-10 11:53:16.995703 | 627 |
+| wallingford_ps | streams | 2026-09-10 11:53:46.509315 | 308 |
+| wallingford_ps | videos | 2026-09-10 11:53:41.707984 | 245 |
 
 
 ## Registered meeting bodies
@@ -894,5 +893,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:41:04 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Wallingford"`_
+_Generated 2026-09-10T14:17:22 from Wallingford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

@@ -1,6 +1,6 @@
 # Facial recognition: every mention, every town
 
-_Generated 2026-09-07T17:43:26 — 149 mentions across 28 towns, 2019-10-01 to 2026-08-05._
+_Generated 2026-09-10T14:23:20 — 162 mentions across 30 towns, 2014-09-04 to 2026-08-05._
 
 
 Software that attempts to identify individuals by matching face images against a database.
@@ -24,33 +24,38 @@ _No human review has been applied to any mention in this file._
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **79** | · | 10 | 95% | 2022-06-13 | 2023-03-21 |
-| [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 2 | 74% | 2023-08-08 | 2026-04-14 |
+| Stamford ⁽ⁿᵖ⁾ | **10** | · | 3 | 11% | 2014-09-04 | 2015-05-14 |
+| [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 2 | 76% | 2023-08-08 | 2026-04-14 |
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 4 | 98% | 2023-03-09 | 2024-03-13 |
 | [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **6** | 1 | 3 | 91% | 2021-11-08 | 2022-09-21 |
-| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 77% | 2022-01-25 | 2026-01-21 |
-| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 82% | 2022-03-24 | 2025-09-17 |
+| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 82% | 2022-01-25 | 2026-01-21 |
+| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 84% | 2022-03-24 | 2025-09-17 |
 | [East Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hartford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 100% | 2025-04-23 | 2025-09-02 |
-| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 42% | 2026-02-05 | 2026-06-04 |
+| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 46% | 2026-02-05 | 2026-06-04 |
 | [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 95% | 2022-04-25 | 2026-08-03 |
+| [New Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 44% | 2023-03-13 | 2026-02-09 |
 | [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 93% | 2024-11-14 | 2026-08-04 |
-| [Bethany](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 69% | 2026-05-06 | 2026-05-06 |
+| [Bethany](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 70% | 2026-05-06 | 2026-05-06 |
 | [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2026-05-18 | 2026-08-05 |
-| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 81% | 2023-03-13 | 2023-03-13 |
-| [Kent](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 71% | 2022-07-21 | 2024-09-25 |
+| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 82% | 2023-03-13 | 2023-03-13 |
+| [Kent](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 74% | 2022-07-21 | 2024-09-25 |
 | [Naugatuck](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 58% | 2022-02-10 | 2022-02-10 |
-| [New Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 39% | 2024-02-26 | 2026-02-09 |
 | [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 78% | 2026-05-15 | 2026-05-15 |
 | [East Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2024-05-28 | 2024-05-28 |
-| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 81% | 2025-11-05 | 2025-11-05 |
+| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 82% | 2025-11-05 | 2025-11-05 |
 | [Killingly](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 64% | 2026-02-10 | 2026-02-10 |
-| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 30% | 2022-03-09 | 2022-03-09 |
-| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 28% | 2021-10-04 | 2021-10-04 |
+| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 44% | 2022-03-09 | 2022-03-09 |
+| Middletown ⁽ⁿᵖ⁾ | **1** | · | 1 | 19% | 2026-07-20 | 2026-07-20 |
+| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 32% | 2021-10-04 | 2021-10-04 |
 | [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 73% | 2022-08-22 | 2022-08-22 |
-| [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 69% | 2019-10-01 | 2019-10-01 |
-| [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 20% | 2025-09-29 | 2025-09-29 |
+| [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 71% | 2019-10-01 | 2019-10-01 |
+| [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 23% | 2025-09-29 | 2025-09-29 |
 | [Rocky Hill](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 47% | 2026-04-06 | 2026-04-06 |
 | [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2023-07-10 | 2023-07-10 |
 | [Suffield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/suffield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 90% | 2026-06-09 | 2026-06-09 |
+
+⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
+
 
 ## Receipts
 
@@ -109,6 +114,49 @@ _Most recent first within each town. Every line links to the exact second of the
 
 
 _67 further mentions in Hartford not shown here — all of them are in [Hartford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md)._
+
+
+### Stamford — 10 mentions
+
+- **[2015-05-14] Camera Review Committee** — Camera Review Committee
+  > …So with technology increasing, we do not consider it to be advanced technology anymore. As it was years ago. Facial recognition is something different that we are still considering to be advanced technology. The second, we wanted to put a definition of body worn videos in here. This would be body worn cameras for the Stanford Police Department.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3960)  [jump to 8:52 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_5fbebe7b-6143-43ef-acf4-d4205ae4c4bf.mp4#t=532)  _(term: `facial_recognition`)_
+
+- **[2015-05-14] Camera Review Committee** — Camera Review Committee
+  > …And there's a procedure to follow after the cameras are up to bring it forth to the CRC. The next area is page 16, 18.1. This is automatic identification, facial recognition technology, aberration software, or other enhancements. The recommendation was to remove the area that's highlighted, which speaks about specific perils such as fires, as well as information such as the registration number of …
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3960)  [jump to 13:38 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_5fbebe7b-6143-43ef-acf4-d4205ae4c4bf.mp4#t=818)  _(term: `facial_recognition`)_
+
+- **[2015-04-23] Camera Review Committee** — Camera Review Committee
+  > …Exactly. Right. And it's not-- it's-- advanced technology nowadays is more that facial recognition going into a database, and that's where I think a lot of people-- and I can't speak for the group that when they wrote this, but I know even now the feeling is people don't want any invasion of their privacy in terms of facial recognition, identification, in that sense. So, okay.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3833)  [jump to 23:02 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_1928980e-bf6c-4887-852d-90dab3230042.mp4/playlist.m3u8#t=1382)  _(term: `facial_recognition`)_
+
+- **[2015-04-23] Camera Review Committee** — Camera Review Committee
+  > …Right. And it's not-- it's-- advanced technology nowadays is more that facial recognition going into a database, and that's where I think a lot of people-- and I can't speak for the group that when they wrote this, but I know even now the feeling is people don't want any invasion of their privacy in terms of facial recognition, identification, in that sense. So, okay. Kathy, I would just ask that …
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3833)  [jump to 23:11 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_1928980e-bf6c-4887-852d-90dab3230042.mp4/playlist.m3u8#t=1391)  _(term: `facial_recognition`)_
+
+- **[2015-04-23] Camera Review Committee** — Camera Review Committee
+  > …So, you know, from, certainly from the mall and Rexon's perspective, I think having Veterans Park be, you know, a safer place is in their business interests. You know, my sense is, if they are providing us with a feed of any cameras they place that are looking at Veterans Park, that they probably should be subject to the same requirements of retention. And, you know, non-use of facial recognition …
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3833)  [jump to 31:09 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_1928980e-bf6c-4887-852d-90dab3230042.mp4/playlist.m3u8#t=1869)  _(term: `facial_recognition`)_
+
+- **[2015-04-23] Camera Review Committee** — Camera Review Committee
+  > …Yeah. So I'll just move the poll on that. In section 18, 18.1, automatic identification, facial recognition, technology, apparition, software, other enhancement, my recommendation was to remove the area where it says specific perils, such as fire, as well as information, such as the registration number of a vehicle. Now, when they speak of registration number, I'm thinking they're talking about th…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3833)  [jump to 32:40 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_1928980e-bf6c-4887-852d-90dab3230042.mp4/playlist.m3u8#t=1960)  _(term: `facial_recognition`)_
+
+- **[2014-09-04] Camera Review Committee** — Camera Review Committee - Part 1
+  > …You know, we have license plate readers on our radio course, and they really only monitor the license plate, but I think we would want to see who is dumping them. It's a combination of both, right? So, and that's what they were saying, you know, advanced technologies, and they're the professionals, and we had Kevin Fitzgibbons from IT, I'd sit down with him too, just to discuss. So you would have …
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3092)  [jump to 3:14 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_4fbf1ad0-02f4-40ae-b069-de487b0f144b.mp4/playlist.m3u8#t=194)  _(term: `facial_recognition`)_
+
+- **[2014-09-04] Camera Review Committee** — Camera Review Committee - Part 1
+  > …So you would have the license plate reading camera at certain locations, and then another camera also to videotape to get facial recognition. So, with the first option, are we going to be able to see license plates or not? I believe you will, depending upon the vantage point of the video, so we'll have the capability to get the vehicle, the license plate, as well as hopefully facial recognition. I…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3092)  [jump to 3:38 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_4fbf1ad0-02f4-40ae-b069-de487b0f144b.mp4/playlist.m3u8#t=218)  _(term: `facial_recognition`)_
+
+- **[2014-09-04] Camera Review Committee** — Camera Review Committee - Part 1
+  > …If you want to use a license plate reader. And they, the board of reps, would have the authority to reject the use of that license plate reader. Well, but also go to the facial recognition then too. Yes. And if you're using facial recognition, that is another specifically identified enhancement technique.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3092)  [jump to 7:44 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_4fbf1ad0-02f4-40ae-b069-de487b0f144b.mp4/playlist.m3u8#t=464)  _(term: `facial_recognition`)_
+
+- **[2014-09-04] Camera Review Committee** — Camera Review Committee - Part 1
+  > …Well, but also go to the facial recognition then too. Yes. And if you're using facial recognition, that is another specifically identified enhancement technique. That the board of reps, according to this policy, the board of reps is, is, is, is to be made aware of the use of those things. And they have the ability to say, we don't want the city using this.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3092)  [jump to 7:48 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_4fbf1ad0-02f4-40ae-b069-de487b0f144b.mp4/playlist.m3u8#t=468)  _(term: `facial_recognition`)_
 
 
 ### Bristol — 8 mentions
@@ -307,6 +355,25 @@ _67 further mentions in Hartford not shown here — all of them are in [Hartford
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMl482q5Thg&t=7946s)  _(term: `facial_recognition`)_
 
 
+### New Milford — 4 mentions
+
+- **[2026-02-09] Town Council** — Regular Meeting of the Town Council / February 9th, 2026 / New Milford, CT
+  > …more. Um, we work hard to leverage technology. We're using rapid DNA. We're using facial recognition. We're using social media uh software that allows us to scan open sources and provide us with…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ed4x-dysXmQ&t=1797s)  _(term: `facial_recognition`)_
+
+- **[2024-02-26] Town Council** — LIVE Public Hearing + New Milford Town Council Regular Meeting | February 26th, 2024
+  > …vendors that have been used in Connecticut already um they are using facial recognition um they're using automatic Tools in Suburban areas and like I said…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1RywDK7_Jg&t=1726s)  _(term: `facial_recognition`)_
+
+- **[2023-03-13] Town Council** — LIVE Public Hearing + New Milford Town Council Regular Meeting | March 13th, 2023
+  > …back and they can't say oh I didn't get that yeah you did we got a receipt we have you on video your facial recognition how the hell did it get to this kid so it really enables safety is…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JOfp09Cj5ks&t=793s)  _(term: `facial_recognition`)_
+
+- **[2023-03-13] Town Council** — LIVE Public Hearing + New Milford Town Council Regular Meeting | March 13th, 2023
+  > …that bought it and they can't deny oh I didn't buy that do we have you on camera it's facial recognition you have the receipt it's everything you have to scan your ID when you went in there it stays…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JOfp09Cj5ks&t=4486s)  _(term: `facial_recognition`)_
+
+
 ### West Hartford — 3 mentions
 
 - **[2026-08-04] Public Safety Committee** — Public Safety Committee Virtual Meeting - August 4, 2026
@@ -377,17 +444,6 @@ _67 further mentions in Hartford not shown here — all of them are in [Hartford
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZjYeVPNY_ik&t=3148s)  _(term: `facial_recognition`)_
 
 
-### New Milford — 2 mentions
-
-- **[2026-02-09] Town Council** — Regular Meeting of the Town Council / February 9th, 2026 / New Milford, CT
-  > …more. Um, we work hard to leverage technology. We're using rapid DNA. We're using facial recognition. We're using social media uh software that allows us to scan open sources and provide us with…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ed4x-dysXmQ&t=1797s)  _(term: `facial_recognition`)_
-
-- **[2024-02-26] Town Council** — LIVE Public Hearing + New Milford Town Council Regular Meeting | February 26th, 2024
-  > …vendors that have been used in Connecticut already um they are using facial recognition um they're using automatic Tools in Suburban areas and like I said…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1RywDK7_Jg&t=1726s)  _(term: `facial_recognition`)_
-
-
 ### Berlin — 1 mention
 
 - **[2026-05-15] Parks and Recreation Commission** — Parks and Recreation Commission 5 15 2026
@@ -421,6 +477,13 @@ _67 further mentions in Hartford not shown here — all of them are in [Hartford
 - **[2022-03-09] Administration Committee** — ADMIN MTG 2022 03 09
   > …people calling in and there was no video and you you didn't have the benefit of face recognition to know who was talking that every time somebody spoke they would say like okay this is counselor…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mlJnxUZqAYk&t=418s)  _(term: `facial_recognition`)_
+
+
+### Middletown — 1 mention
+
+- **[2026-07-20] Public Safety Commission** — Public Safety Commission Police July 2026
+  > …the public as a tool of local law enforcement to increase public safety however they are also gathering huge amounts of data for tech firms to sell access to that data is then being fed into real-time black box ai tools such as facial recognition and gait analysis to develop profiles on and surveil the everyday actions of americans further access to that data and our profiles is able to be purchas…
+  [Watch ▸](https://middletown.granicus.com/player/clip/3705)  [jump to 15:18 ▸](https://archive-video.granicus.com/middletown/middletown_d676f61c-e81e-4140-899e-639ec46e9c92.mp4#t=918)  _(term: `facial_recognition`)_
 
 
 ### New Britain — 1 mention

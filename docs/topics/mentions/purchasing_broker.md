@@ -1,6 +1,6 @@
 # Purchasing / procurement: every mention, every town
 
-_Generated 2026-09-07T17:43:38 — 27 mentions across 6 towns, 2011-03-22 to 2026-04-20._
+_Generated 2026-09-10T14:23:53 — 30 mentions across 7 towns, 2011-03-22 to 2026-04-20._
 
 
 How surveillance equipment is bought: sole-source awards, grant funding, co-operative purchasing contracts and reseller arrangements that can bypass ordinary competitive bidding and the public votes that go with it.
@@ -23,11 +23,12 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **15** | · | 7 | 82% | 2021-09-07 | 2025-10-21 |
+| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **15** | · | 7 | 84% | 2021-09-07 | 2025-10-21 |
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 1 | 98% | 2011-03-22 | 2011-03-22 |
-| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 77% | 2023-02-21 | 2026-04-20 |
-| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **2** | 1 | 2 | 28% | 2022-12-14 | 2025-06-26 |
-| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 81% | 2024-02-29 | 2024-02-29 |
+| [Danbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 16% | 2024-06-05 | 2024-10-23 |
+| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 79% | 2023-02-21 | 2026-04-20 |
+| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **2** | 1 | 2 | 32% | 2022-12-14 | 2025-06-26 |
+| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 82% | 2024-02-29 | 2024-02-29 |
 | [Sterling](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/sterling/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 96% | 2026-02-11 | 2026-02-11 |
 
 ## Receipts
@@ -110,6 +111,21 @@ _3 further mentions in New Canaan not shown here — all of them are in [New Can
 - **[2011-03-22] Board of Finance** — Board of Finance 3/22/2011
   > …some of the latest prices we can look at retail with best buy we can look at cdwg the real cdw right hewlett packard we can look at a couple of different sources and and come…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=fdJYiZljfTU&t=4726s)  _(term: `purchasing_broker`)_
+
+
+### Danbury — 3 mentions
+
+- **[2024-10-23] Board of Award** — October 23,2024 Board of Awards
+  > …requisition this is made out to dell technologies uh purchase subject items uh total quote cost seventeen thousand seven hundred sixty four dollars and six cents uh dow quoted this equipment for their current state contract uh second uh higher quotes obtained from cdwg they quoted a total cost of twenty one thousand five hundred and twenty dollars and ninety two cents and uh this is american rescu…
+  [Watch ▸](https://danbury.granicus.com/player/clip/2959)  [jump to 9:18 ▸](https://archive-video.granicus.com/danbury/danbury_bdff5fea-99e9-11ef-ab4b-005056a89546.mp4#t=558)  _(term: `purchasing_broker`)_
+
+- **[2024-10-09] Board of Award** — October 9,2024 Board of Awards
+  > …Dell Technologies quoted these items for their current state of Connecticut contract award. We did receive a second quote. It was higher from Insight Public Sector. They quoted for their Omnia contract. Total cost $59,772.…
+  [Watch ▸](https://danbury.granicus.com/player/clip/2934)  [jump to 8:39 ▸](https://archive-video.granicus.com/danbury/danbury_d831308c-8976-11ef-ab4b-005056a89546.mp4#t=519)  _(term: `purchasing_broker`)_
+
+- **[2024-06-05] Board of Award** — June 5, 2024 Board of Awards
+  > …Dell quoted this equipment for the current Omniac Cooperative Contract Award. We did receive a second quote for this. It was from Insight Public Sector. The price was a little bit lower, at $16,571.50. But they were unable to quote on one of the three required items.…
+  [Watch ▸](https://danbury.granicus.com/player/clip/2797)  [jump to 31:09 ▸](https://archive-video.granicus.com/danbury/danbury_e539580f-2672-11ef-81ef-005056a89546.mp4#t=1869)  _(term: `purchasing_broker`)_
 
 
 ### Guilford — 3 mentions

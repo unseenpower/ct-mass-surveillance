@@ -5,10 +5,10 @@
 
 This report collects every mention of surveillance technology found in **Killingly**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **30 mentions** across **13 meetings**
-- **First mention:** 2024-02-06  |  **Most recent:** 2026-08-11
+- **34 mentions** across **14 meetings**
+- **First mention:** 2024-02-06  |  **Most recent:** 2026-09-08
 - **Technologies discussed:** alpr, body_camera, drone, facial_recognition, predictive_policing
-- **Coverage:** 194 of 303 known Killingly meetings transcribed (64%)
+- **Coverage:** 195 of 304 known Killingly meetings transcribed (64%)
 - **Not the full history:** transcripts begin **2023-01-11**, but Killingly's published video archive goes back to **2021-03-08**. Meetings before 2023 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -68,16 +68,16 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
-| alpr | 12 | 6 | 2025-03-04 | 2026-08-11 |
+| alpr | 15 | 7 | 2025-03-04 | 2026-09-08 |
 | body_camera | 6 | 1 | 2024-04-06 | 2024-04-06 |
-| drone | 5 | 2 | 2024-02-06 | 2024-03-26 |
+| drone | 6 | 3 | 2024-02-06 | 2026-09-08 |
 | facial_recognition | 1 | 1 | 2026-02-10 | 2026-02-10 |
 | predictive_policing | 6 | 4 | 2024-04-09 | 2026-05-12 |
 
 
 ## Timeline
 
-13 meetings surfaced a finding (13 dated, spanning 2024-02-06 to 2026-08-11; 0 of unknown date, listed last).
+14 meetings surfaced a finding (14 dated, spanning 2024-02-06 to 2026-09-08; 0 of unknown date, listed last).
 
 
 ### 2024-02-06 -- Town Council
@@ -205,6 +205,19 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=hMBJFJA7Ht4&t=2063s)  > ...can have it on their property. >> It's their Lowe's uh Lowe's leases the three flock cameras there. Okay. Just to be clear cuz I see people like thinking that we installed it....
 
 
+### 2026-09-08 -- Town Council
+
+**Killingly Town Council Meeting - Sept 8, 2026** _(topics: alpr, drone)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PdkwBRhG7eM&t=749s)  > ...Citizen statements and petitions. I'm not going to read the whole scenario. We're going to get to it. Um I have one comment, one public comment we received earlier from Diane Weber, uh...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PdkwBRhG7eM&t=769s)  > ...Chairman and council members. Diane Weber, 238 Mashtuk Road. Thank you for your time. I'd also like to wish Jonathan Blake every success and congratulations. So, as always, my...
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PdkwBRhG7eM&t=810s)  > ...>> um my first comment is um I received several um messages um this uh weekend about um flock cameras and um its invasion of the privacy of the residents of Killingly. I don't know...
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PdkwBRhG7eM&t=5555s)  > ...they I saw a video. >> Yeah. So, uh, that's been cut through. I have some drone footage of the swath. It's kind of cool. I forward it to you guys if you want to take a look at it....
+
+
 ## Findings by topic
 
 
@@ -214,6 +227,18 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 
 ### alpr
+
+- **[2026-09-08] Town Council** -- Killingly Town Council Meeting - Sept 8, 2026
+  > ...>> um my first comment is um I received several um messages um this uh weekend about um flock cameras and um its invasion of the privacy of the residents of Killingly. I don't know...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PdkwBRhG7eM&t=810s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Killingly Town Council Meeting - Sept 8, 2026
+  > ...Citizen statements and petitions. I'm not going to read the whole scenario. We're going to get to it. Um I have one comment, one public comment we received earlier from Diane Weber, uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PdkwBRhG7eM&t=749s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Town Council** -- Killingly Town Council Meeting - Sept 8, 2026
+  > ...Chairman and council members. Diane Weber, 238 Mashtuk Road. Thank you for your time. I'd also like to wish Jonathan Blake every success and congratulations. So, as always, my...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PdkwBRhG7eM&t=769s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-11] Town Council** -- Killingly Town Council Meeting - August 11, 2026
   > ...>> They're saying all cameras have to be paused right now? Cuz the ones we were doing in downtown weren't flock cameras. >> know. I said >> Said security cameras, flock cameras,...
@@ -318,6 +343,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### drone
 
+- **[2026-09-08] Town Council** -- Killingly Town Council Meeting - Sept 8, 2026
+  > ...they I saw a video. >> Yeah. So, uh, that's been cut through. I have some drone footage of the swath. It's kind of cool. I forward it to you guys if you want to take a look at it....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PdkwBRhG7eM&t=5555s)  _(term: drone, unreviewed)_
+
+- **[2024-03-26] Town Council** -- Town Council Special Meeting 3-26-24
+  > ...popular now is to do the drones because like somebody has a brother who has a drone in the government somewhere so I think that I was just working with somebody who the mayor was kind of a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=x1AaRD5CbHs&t=2811s)  _(term: drone, unreviewed)_
+
 - **[2024-03-26] Town Council** -- Town Council Special Meeting 3-26-24
   > ...think that I was just working with somebody who the mayor was kind of a drone offici AO but had no reason to own it until this happened so he was he was very happy yeah he's like oh I get to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=x1AaRD5CbHs&t=2817s)  _(term: drone, unreviewed)_
@@ -326,17 +359,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...and create that it can be very different from what you have now um you know setting up for individual like drone videos or having pictures that you can change on the back end so the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=x1AaRD5CbHs&t=493s)  _(term: drone, unreviewed)_
 
-- **[2024-03-26] Town Council** -- Town Council Special Meeting 3-26-24
-  > ...popular now is to do the drones because like somebody has a brother who has a drone in the government somewhere so I think that I was just working with somebody who the mayor was kind of a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=x1AaRD5CbHs&t=2811s)  _(term: drone, unreviewed)_
+- **[2024-02-06] Town Council** -- Town Council - Special Meeting - 2/6/24
+  > ...it's usually like a hyperlink um when you um look at some of them um they're so nice they have like a drone video that you're welcome it gives you a spance of the community of like our...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=sW10riqhfWs&t=6480s)  _(term: drone, unreviewed)_
 
 - **[2024-02-06] Town Council** -- Town Council - Special Meeting - 2/6/24
   > ...actual marketing footage we don't have that for killing um so the Drone footage or some type of um active marketing video and it's really video that really helps...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=sW10riqhfWs&t=6501s)  _(term: drone, unreviewed)_
-
-- **[2024-02-06] Town Council** -- Town Council - Special Meeting - 2/6/24
-  > ...it's usually like a hyperlink um when you um look at some of them um they're so nice they have like a drone video that you're welcome it gives you a spance of the community of like our...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=sW10riqhfWs&t=6480s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -529,15 +558,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 7
-- Videos registered: 303 (fetched: 194, no captions: 2)
-- Date range covered: 2021-03-08 to 2026-09-01 (all 303 videos dated)
+- Videos registered: 304 (fetched: 195, no captions: 2)
+- Date range covered: 2021-03-08 to 2026-09-08 (all 304 videos dated)
 
 
 ### Channels
@@ -551,8 +580,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| killingly_ct | streams | 2026-09-07 16:52:49.434734 | 62 |
-| killingly_ct | videos | 2026-09-07 16:52:47.840921 | 245 |
+| killingly_ct | streams | 2026-09-10 11:40:41.038456 | 63 |
+| killingly_ct | videos | 2026-09-10 11:40:39.566021 | 245 |
 
 
 ## Registered meeting bodies
@@ -562,7 +591,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Town Meeting / Budget Hearing | budget_finance | True | 14 |
 | Inland Wetlands & Watercourses Commission | other | True | 31 |
 | Planning & Zoning Commission | other | True | 54 |
-| Town Council | other | True | 176 |
+| Town Council | other | True | 177 |
 | Vision Committee | other | True | 15 |
 | Zoning Board of Appeals | other | True | 13 |
 | Public Safety Commission | public_safety | True | 0 |
@@ -613,5 +642,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:34:33 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Killingly"`_
+_Generated 2026-09-10T14:06:20 from Killingly's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

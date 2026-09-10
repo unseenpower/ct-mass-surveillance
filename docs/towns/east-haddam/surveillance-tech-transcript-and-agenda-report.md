@@ -8,8 +8,8 @@ This report collects every mention of surveillance technology found in **East Ha
 - **49 mentions** across **27 meetings**
 - **First mention:** 2022-02-22  |  **Most recent:** 2026-06-09
 - **Technologies discussed:** alpr, body_camera, drone, facial_recognition, predictive_policing, purchasing_broker, surveillance_general
-- **Coverage:** 1,322 of 1,642 known East Haddam meetings transcribed (81%)
-- **Not the full history:** transcripts begin **2020-10-20**, but East Haddam's published video archive goes back to **2018-03-20**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+- **Coverage:** 1,348 of 1,646 known East Haddam meetings transcribed (82%)
+- **Not the full history:** transcripts begin **2020-09-10**, but East Haddam's published video archive goes back to **2018-03-20**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -711,15 +711,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 34
-- Videos registered: 1642 (fetched: 1322, no captions: 20)
-- Date range covered: 2018-03-20 to 2026-09-08 (all 1642 videos dated)
+- Videos registered: 1646 (fetched: 1348, no captions: 21)
+- Date range covered: 2018-03-20 to 2026-09-14 (all 1646 videos dated)
 
 
 ### Channels
@@ -733,8 +733,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| east_haddam_ct | streams | 2026-09-07 16:46:39.410800 | 1413 |
-| east_haddam_ct | videos | 2026-09-07 16:46:20.834442 | 227 |
+| east_haddam_ct | streams | 2026-09-10 13:41:24.246717 | 1417 |
+| east_haddam_ct | videos | 2026-09-10 13:41:05.542516 | 227 |
 
 
 ## Registered meeting bodies
@@ -742,7 +742,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Black Birch Golf Course Feasibility Study Committee | budget_finance | True | 16 |
-| Board of Finance | budget_finance | True | 184 |
+| Board of Finance | budget_finance | True | 185 |
 | Long Range Capital Improvements Committee | budget_finance | True | 11 |
 | Municipal Office Building Committee | budget_finance | True | 14 |
 | Board of Education | education | True | 1 |
@@ -759,13 +759,13 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Goodspeed Airport Eval Committee | other | True | 6 |
 | Historic District Commission | other | True | 42 |
 | Inland Wetlands and Watercourses Commission | other | True | 82 |
-| Library Committees | other | True | 93 |
+| Library Committees | other | True | 94 |
 | Open Space Committee | other | True | 29 |
 | Planning & Zoning Commission | other | True | 144 |
-| Public Information Meeting | other | True | 52 |
+| Public Information Meeting | other | True | 53 |
 | Recreation Commission | other | True | 32 |
 | Redevelopment Agency | other | True | 59 |
-| Sustainability / Climate Resiliency | other | True | 44 |
+| Sustainability / Climate Resiliency | other | True | 45 |
 | Swing Bridge Project | other | True | 1 |
 | Town Meeting | other | True | 32 |
 | Tri-Board Meeting | other | True | 3 |
@@ -805,10 +805,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (20 shown, max 25)
+### Videos with no captions available (21 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Planning & Zoning Commission - 9.8.2026 | 2026-09-08 |
 | Redevelopment Agency - 8.27.2026 | 2026-08-27 |
 | Redevelopment Agency - 7.9.2026 | 2026-07-09 |
 | Conservation Commission - 7.7.2026 | 2026-07-07 |
@@ -824,9 +825,9 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Board of Selectman 10.22.2024 | 2024-10-22 |
 | Broadband Implementation Committee - 9.22.2023 | 2023-09-22 |
 | Budget Town Meeting -  8.29.2023 | 2023-08-29 |
-| Board of Finance -  8.16.2023 | 2023-08-16 |
-| Budget Public Hearing -  8.16.2023 | 2023-08-16 |
 | Board of Selectman 8.16.2023 | 2023-08-16 |
+| Budget Public Hearing -  8.16.2023 | 2023-08-16 |
+| Board of Finance -  8.16.2023 | 2023-08-16 |
 | Redevelopment Agency - 12.8.2022 | 2022-12-08 |
 | Inland Wetlands - 8.16.2022 | 2022-08-16 |
 
@@ -839,5 +840,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:30:23 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "East Haddam"`_
+_Generated 2026-09-10T14:00:03 from East Haddam's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

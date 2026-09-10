@@ -305,7 +305,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
@@ -328,9 +328,9 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| new_hartford_boe | streams | 2026-09-07 16:23:10.225665 | 27 |
-| new_hartford_boe | videos | 2026-09-07 16:23:08.374227 | 49 |
-| new_hartford_plus | videos | 2026-09-07 16:34:05.253088 | 182 |
+| new_hartford_boe | streams | 2026-09-10 13:29:09.891197 | 27 |
+| new_hartford_boe | videos | 2026-09-10 13:29:08.925435 | 49 |
+| new_hartford_plus | videos | 2026-09-10 13:48:11.719382 | 182 |
 
 
 ## Registered meeting bodies
@@ -369,7 +369,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | 2026-08-27 15:11:34.550850 | channel_found_boe | "NHPS Board of Education" (UCX-_ZlomWmjG81dc_QM3rfg, @nhpsboardofeducation734) confirmed as New Hartford CT (not New Hartford NY). Evidence: every video description reads "Regular meeting of the New Hartford Public Schools Board of Education"; New Hartford NY's district is named "New Hartford Central School District" (verified by fetching newhartfordschools.org) and has its own separate YouTube presence; and DECISIVELY, newhartfordct.gov's own Board of Education page lists Regular Meetings on August 18, 2026 and June 2, 2026, exactly matching this channel's "New Hartford Public Schools - Board Meeting - 08/18/2026" and "- 06/02/2026" videos. | yt-dlp probe + per-video description dump + r.jina.ai extraction of newhartfordct.gov/board-of-education-new-hartford (site is Cloudflare-challenge-gated to curl/WebFetch), 2026-08-27 | claude |
 | 2026-08-27 15:11:34.550850 | channel_found_historical | "NewHartfordPlus.com" (UCRRFcV06kuA5TlX1DqY0PGQ) confirmed New Hartford CT by its own title text ("WPCA Meeting, April ..., New Hartford, CT", "Northwestern Regional #7's proposed budget - New Hartford, CT", Brodie Park, Chapin Park, Town Hill, Bakerville). Citizen archive carrying real BOS/BOF/WPCA/BOE meetings, but content stops around 2013-2014 -- registered as historical coverage, not a live source. | yt-dlp ytsearch + --flat-playlist crawl of both tabs, 2026-08-27 | claude |
 | 2026-08-27 15:11:34.550850 | channel_not_found_current_town_government | No CURRENT town-government video source exists: newhartfordct.gov has zero YouTube/livestream/Zoom/video references on its homepage, Board of Selectmen page, Board of Education page, or boards index. Board of Selectmen / Board of Finance / WPCA / P&Z are registered anyway (they have 2011-2014 coverage via new_hartford_plus) so the currency gap is visible in reports rather than silent. | r.jina.ai extraction of newhartfordct.gov, /board-of-selectmen, /board-of-education-new-hartford and the site URL index, 2026-08-27 | claude |
-| 2026-08-27 15:15:16.308446 | dry_run_sanity_check | new_hartford_boe: /videos 48 listed / 48 matched, /streams 27 listed / 27 matched. new_hartford_plus: /videos 182 listed / 61 matched, no /streams tab. Combined 136/257 (52.9%). | ingest/fetch_channel_transcripts.py --tabs videos,streams --mode filtered --dry-run against the live DB after seeding, 2026-08-27 | claude |
+| 2026-08-27 15:15:16.308446 | dry_run_sanity_check | new_hartford_boe: /videos 48 listed / 48 matched, /streams 27 listed / 27 matched. new_hartford_plus: /videos 182 listed / 61 matched, no /streams tab. Combined 136/257 (52.9%). | the transcript fetcher --tabs videos,streams --mode filtered --dry-run against the live DB after seeding, 2026-08-27 | claude |
 | 2026-08-27 15:11:34.550850 | patterns_validated_from_real_titles | Combined 136/257 titles matched (52.9%): new_hartford_boe 75/75 (100%), new_hartford_plus 61/182 (33.5%). The low historical-channel rate is honest -- most of that channel is a 2011 candidates' "Town Hall Forum" question series and community events, not meetings. | Python pattern validation against both full corpora, 2026-08-27 | claude |
 | 2026-08-27 15:11:34.550850 | shared_channel_leak_check | Full CT-town-name scan of both corpora. new_hartford_boe: only "New Hartford" appears. new_hartford_plus: 4 Barkhamsted mentions, ALL non-government (July 4th parade x2, July 4th ceremony, "Filling The Barkhamsted Skating Rink") -- no Barkhamsted government content, so neither channel is a shared municipal channel and unanchored patterns are safe. Note Barkhamsted is itself already onboarded on a different channel. | Python CT-town-name scan of both full corpora, 2026-08-27 | claude |
 
@@ -403,5 +403,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:36:24 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Hartford"`_
+_Generated 2026-09-10T14:08:54 from New Hartford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

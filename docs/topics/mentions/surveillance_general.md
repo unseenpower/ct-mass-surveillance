@@ -1,6 +1,6 @@
 # General surveillance: every mention, every town
 
-_Generated 2026-09-07T17:43:18 — 345 mentions across 46 towns, 2017-01-03 to 2026-08-18._
+_Generated 2026-09-10T14:22:57 — 389 mentions across 49 towns, 2014-06-26 to 2026-08-18._
 
 
 General discussion of surveillance, privacy and camera policy that is not specific to one technology.
@@ -23,31 +23,34 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **115** | 11 | 55 | 77% | 2020-07-29 | 2026-08-18 |
-| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **48** | · | 24 | 82% | 2021-11-11 | 2026-04-28 |
+| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **116** | 11 | 56 | 82% | 2020-01-29 | 2026-08-18 |
+| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **49** | · | 25 | 84% | 2021-06-10 | 2026-04-28 |
+| Stamford ⁽ⁿᵖ⁾ | **34** | · | 16 | 11% | 2014-06-26 | 2025-09-17 |
 | [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **19** | · | 15 | 98% | 2021-02-25 | 2026-06-11 |
-| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **17** | · | 11 | 81% | 2021-04-23 | 2026-04-22 |
-| [Bethel](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | **13** | · | 9 | 74% | 2021-06-21 | 2025-04-01 |
-| [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **13** | · | 3 | 89% | 2022-04-19 | 2026-03-24 |
+| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **17** | · | 11 | 82% | 2021-04-23 | 2026-04-22 |
+| [Bethel](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | **13** | · | 9 | 76% | 2021-06-21 | 2025-04-01 |
+| [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **13** | · | 3 | 90% | 2022-04-19 | 2026-03-24 |
 | [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **10** | · | 6 | 98% | 2017-01-03 | 2026-01-07 |
 | [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **10** | · | 5 | 73% | 2021-12-15 | 2024-03-13 |
 | [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | **7** | 1 | 3 | 99% | 2026-03-05 | 2026-04-02 |
 | [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **7** | 2 | 6 | 95% | 2020-07-20 | 2026-08-12 |
-| [Wethersfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 6 | 59% | 2021-04-26 | 2025-04-01 |
-| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 5 | 77% | 2018-01-23 | 2024-11-18 |
-| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **6** | 3 | 6 | 28% | 2018-10-24 | 2025-08-14 |
+| [Wethersfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 6 | 62% | 2021-04-26 | 2025-04-01 |
+| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 5 | 79% | 2018-01-23 | 2024-11-18 |
+| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **6** | 3 | 6 | 32% | 2018-10-24 | 2025-08-14 |
 | [East Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hartford/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 100% | 2025-03-18 | 2025-10-08 |
-| [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **5** | 1 | 5 | 69% | 2018-08-07 | 2026-04-21 |
+| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 2 | 44% | 2025-11-10 | 2026-01-12 |
+| [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **5** | 1 | 5 | 71% | 2018-08-07 | 2026-04-21 |
 | [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 78% | 2023-05-11 | 2024-09-12 |
-| [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 20% | 2023-11-28 | 2026-01-10 |
+| [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 23% | 2023-11-28 | 2026-01-10 |
 | [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 93% | 2024-09-24 | 2026-03-31 |
-| [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 74% | 2026-04-14 | 2026-08-12 |
+| [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 76% | 2026-04-14 | 2026-08-12 |
 | [Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/canaan/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 63% | 2025-06-06 | 2025-08-11 |
+| [Coventry](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/coventry/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 73% | 2023-10-13 | 2024-11-18 |
 | [East Hampton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 1 | 55% | 2021-03-27 | 2021-03-27 |
-| [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 85% | 2025-07-14 | 2025-12-15 |
+| [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 86% | 2025-07-14 | 2025-12-15 |
 | Beacon Falls ⁽ⁿᵖ⁾ | **2** | 2 | 2 | — | 2026-04-13 | 2026-07-13 |
 | [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 94% | 2025-08-04 | 2025-08-04 |
-| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 81% | 2025-08-14 | 2025-11-05 |
+| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 82% | 2025-08-14 | 2025-11-05 |
 | Franklin ⁽ⁿᵖ⁾ | **2** | 2 | 2 | — | 2026-01-20 | 2026-01-20 |
 | [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 95% | 2023-09-21 | 2023-09-21 |
 | [Norwich](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | **2** | 1 | 2 | 54% | 2024-04-09 | 2026-05-19 |
@@ -57,18 +60,18 @@ _No human review has been applied to any mention in this file._
 | [Ansonia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 96% | 2024-04-10 | 2024-04-10 |
 | Brooklyn ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-04-29 | 2026-04-29 |
 | Canton ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-06-01 | 2026-06-01 |
-| [Columbia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 56% | 2024-07-17 | 2024-07-17 |
+| [Columbia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 60% | 2024-07-17 | 2024-07-17 |
 | [East Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2025-01-22 | 2025-01-22 |
-| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 42% | 2024-05-16 | 2024-05-16 |
+| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 46% | 2024-05-16 | 2024-05-16 |
 | Essex ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-03-18 | 2026-03-18 |
-| [Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 99% | 2026-06-10 | 2026-06-10 |
-| [Mansfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 76% | 2026-05-28 | 2026-05-28 |
+| [Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2026-06-10 | 2026-06-10 |
+| [Mansfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 78% | 2026-05-28 | 2026-05-28 |
 | [Naugatuck](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 58% | 2026-07-07 | 2026-07-07 |
 | [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2025-06-26 | 2025-06-26 |
-| [Plainfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 59% | 2023-03-22 | 2023-03-22 |
-| [Plymouth](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plymouth/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 37% | 2024-01-10 | 2024-01-10 |
+| [Plainfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 62% | 2023-03-22 | 2023-03-22 |
+| [Plymouth](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plymouth/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 38% | 2024-01-10 | 2024-01-10 |
 | [Rocky Hill](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 47% | 2024-03-18 | 2024-03-18 |
-| [Simsbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 64% | 2024-09-10 | 2024-09-10 |
+| [Simsbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 69% | 2024-09-10 | 2024-09-10 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -78,7 +81,7 @@ _No human review has been applied to any mention in this file._
 _Most recent first within each town. Every line links to the exact second of the meeting video._
 
 
-### Darien — 115 mentions
+### Darien — 116 mentions
 
 - **[2026-08-18] Board of Finance** — Board of Finance Agenda - 2026-08-18
   > …d - Pool Fence $7,800 $7,800 Site Drainage - Cleaning and Repair $25,000 $25,000 Cleaning-CCTV-Repairs (Estimate) Driveway Repairs $7,613 $12,387 $20,000 500 LF @ Green House (Comp 8/26/24) Tree Trimming…
@@ -129,10 +132,10 @@ _Most recent first within each town. Every line links to the exact second of the
   [Open document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_03092026-2279)  _(agenda/minutes · term: `surveillance_general`)_
 
 
-_103 further mentions in Darien not shown here — all of them are in [Darien's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md)._
+_104 further mentions in Darien not shown here — all of them are in [Darien's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### New Canaan — 48 mentions
+### New Canaan — 49 mentions
 
 - **[2026-04-28] Planning & Zoning Commission** — Planning & Zoning Commision Meeting April 28, 2026
   > …Furthermore, we are awaiting the results of the applicant's investigations of the existing sanitary sewer main CCTV work and flow monitoring because of the proposed increase in sanitary sewer…
@@ -183,7 +186,61 @@ _103 further mentions in Darien not shown here — all of them are in [Darien's 
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=xz_Vq0LQGMQ&t=411s)  _(term: `surveillance_general`)_
 
 
-_36 further mentions in New Canaan not shown here — all of them are in [New Canaan's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md)._
+_37 further mentions in New Canaan not shown here — all of them are in [New Canaan's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md)._
+
+
+### Stamford — 34 mentions
+
+- **[2025-09-17] Camera Review Committee** — 2025-09-17 - Camera Review Committee 2
+  > …and okay city moves on to the next project we're trying to stay ahead of the curve when it comes to technology uh so that's kind of the vision for what we're doing with technology uh enhancements for public safety a lot of the focus has been on our public safety camera network and expanding that you have heard um you know we had heard from steve fritz who's our main camera and traffic's uh uh tech…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/15347)  [jump to 4:05 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_6bbd3ea8-8543-4813-84ec-3012d8f66102.mp4/playlist.m3u8#t=245)  _(term: `surveillance_general`)_
+
+- **[2025-05-14] (unassigned body)** — WPCA Technical Committee Meeting 5.14.25
+  > …We didn't have any, uh, sewer line repairs. We had one manual repair. Uh, we weren't able to do any CCTV this past month. Uh, but we did clean about 3.8 miles of sewer line. On the pump station side, you know, they completed landscape groundskeeping maintenance at the pump stations.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/15198)  [jump to 18:18 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_c149e6fd-688a-11f0-b7f5-005056a89546.mp4#t=1098)  _(term: `surveillance_general`)_
+
+- **[2024-10-21] (unassigned body)** — WPCA Finance Committee Meeting 10.21.24
+  > …things like that. Um, we, we, we're continuing our, our, uh, infiltration inflow removal program. Uh, later in the board's agenda, we have phase three, we're doing the next SSCS, uh, which is a sewer system evaluation survey, includes CCTV lines, uh, uh, uh, manhole inspection, smoke testing to identify infiltration and flow. Uh, that's, uh, that, that's, uh, 506,000. So that's included in our bud…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/14438)  [jump to 16:28 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_352c9c75-906d-11ef-ab4b-005056a89546.mp4#t=988)  _(term: `surveillance_general`)_
+
+- **[2024-09-11] (unassigned body)** — WPCA Technical Committee Meeting 9.11.24
+  > …We had no sewer line repairs. We had no manual repairs. We completed about 634 linear feet of CCTV work on our center-based sewer lines. And we cleaned about 3.85 miles of sewer lines. Pump stations, we complete monthly landscape maintenance activities at the stations.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/14337)  [jump to 5:04 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_b66090b5-74ea-11ef-9b71-005056a89546.mp4#t=304)  _(term: `surveillance_general`)_
+
+- **[2024-09-11] (unassigned body)** — WPCA Technical Committee Meeting 9.11.24
+  > …Road, Oakdale Road, West Broad Street, Hyanna Lane, Virgil Street, Willowbrook Ave, and Hobson Street. As I mentioned, our crews CCTV sewer lines on Virgil Street from Mantle 3949 to Mantle 4010, about 634, linear free. We're having a lot of inflow, infiltration on that line segment.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/14337)  [jump to 14:09 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_b66090b5-74ea-11ef-9b71-005056a89546.mp4#t=849)  _(term: `surveillance_general`)_
+
+- **[2024-06-12] (unassigned body)** — WPCA Technical Committee Meeting 6.12.24
+  > …We had two private lateral investigations and repairs in the city right away. We had one sewer line repair, four manhole repairs. We didn't do any CCTV, but we did 2.2 miles of line cleaning. The pump station guys have been maintaining the stations and exercising the portable generators. Also, doing the electrical preventative maintenance at the various pump stations.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/14154)  [jump to 19:02 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_1980e82e-2d6c-11ef-81ef-005056a89546.mp4#t=1142)  _(term: `surveillance_general`)_
+
+- **[2024-03-14] (unassigned body)** — WPCA Technical Committee Meeting 3.14.24
+  > …We had two private lateral investigations and repairs in the city right away. We had seven manhole repairs. We CCTV about 177 linear feet, and we cleaned about 2.73 miles of sewer lines. The guys on the pump stations, they're experimenting a little bit with an aeration unit carriage drive. They have that in the wet well to see whether or not it's going to limit the grease buildup at that station.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/13877)  [jump to 6:23 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_35ad63da-e77c-11ee-98bb-0050569183fa.mp4#t=383)  _(term: `surveillance_general`)_
+
+- **[2024-03-14] (unassigned body)** — WPCA Technical Committee Meeting 3.14.24
+  > …And then you can see below work performed by outside contractors. We had VD construction doing bulk of the work. Cook came and they vacuumed that grease at well from Elbert Lane, and we utilized one-backed services for CCTV-ing and locating the private lateral damage facility right away. And then Buskert, and then I mentioned New England pump and valve. They were going to pump number three.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/13877)  [jump to 7:55 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_35ad63da-e77c-11ee-98bb-0050569183fa.mp4#t=475)  _(term: `surveillance_general`)_
+
+- **[2024-02-21] (unassigned body)** — WPCA Technical Committee Meeting 2.21.24
+  > …And then we also got the new drive for VFD pump number three installed at Cove Island. We worked with Flowtech getting that installed. Segan Smith has provided us access with our CCTV files and reports and our images to our computer maintenance management system. That's a big accomplishment getting that finished. And we had 15 building permit reviews, 64 lead review of building permit applications…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/13825)  [jump to 5:12 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_0421cb26-dc81-11ee-98bb-0050569183fa.mp4#t=312)  _(term: `surveillance_general`)_
+
+- **[2020-01-10] Camera Review Committee** — Camera Review Committee - part 1
+  > …The Pony Shot Club camera records only locally, and the Hurricane Barrier camera is a Surveillance Level 3. These cameras have been used for emergency management purposes, usually involving severe weather coming our way. The Stamford Police Department has utilized the CCTV program 77 times to assist with investigations for crimes, accidents, etc., and residents have requested video footage 15 time…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/8940)  [jump to 3:39 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_46ab0093-73c3-4703-8c7c-f48b739c4bbc.mp4/playlist.m3u8#t=219)  _(term: `surveillance_general`)_
+
+- **[2020-01-10] Camera Review Committee** — Camera Review Committee - part 1
+  > …tool for first responders, an investigative tool for the Stamford Police Department, and a tool for residents to be used as needed. As the Director of Public Safety, it's my recommendation that the use of the city of Stamford's CCTV program continue. Can I complete my report if anybody has any questions? Questions?…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/8940)  [jump to 6:00 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_46ab0093-73c3-4703-8c7c-f48b739c4bbc.mp4/playlist.m3u8#t=360)  _(term: `surveillance_general`)_
+
+- **[2019-11-07] Camera Review Committee** — Camera Review Committee - part 1
+  > …The Pona Shot Club records only locally, and the Hurricane Barrier is a surveillance level 3. These cameras have been used for emergency management purposes. The Stanford Police Department has utilized the CCTV program 77 times to assist with investigations for crimes, accidents, etc. Residents have requested video footage 15 times in 2019 with 8 individuals having been provided video footage.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/8777)  [jump to 7:01 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_eb49645f-59ce-4152-9b49-6bd3dde24601.mp4/playlist.m3u8#t=421)  _(term: `surveillance_general`)_
+
+
+_22 further mentions in Stamford not shown here — all of them are in Stamford's full report (not yet published)._
 
 
 ### Norwalk — 19 mentions
@@ -658,6 +715,29 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
   [Watch on Viebit ▸](https://ehct.viebit.com/watch?hash=OK3pPZpKLu3KAETD)  [jump to 1:09:26 ▸](https://vbfast-vod.viebit.com/ehct/OK3pPZpKLu3KAETD/TC_250318.mp4#t=4166)  _(term: `surveillance_general`)_
 
 
+### Ledyard — 5 mentions
+
+- **[2026-01-12] Housing Authority** — Housing Authority on 2026-01-05 7:00 PM - Regular Meeting
+  > …Yeah. To replace the tractor, we had to be like $24,000 or $24,000, so, yeah. So, not that, since we're kind of reviewing, um, the notes, anything on the CCTV system? Yeah. So, um, updates, so, um, so all the suggestions, yeah, we can do, under updates, yeah.…
+  [Watch ▸](https://ledyardct.granicus.com/player/clip/1950)  [jump to 7:20 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_87173cf4-7d82-4d26-a7dc-5c60449b9782.mp4#t=440)  _(term: `surveillance_general`)_
+
+- **[2026-01-12] Housing Authority** — Housing Authority on 2026-01-05 7:00 PM - Regular Meeting
+  > …Okay. And now, onto the all business proper. So, we have the tractor and the CCTV. Yes. So, yeah.…
+  [Watch ▸](https://ledyardct.granicus.com/player/clip/1950)  [jump to 8:32 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_87173cf4-7d82-4d26-a7dc-5c60449b9782.mp4#t=512)  _(term: `surveillance_general`)_
+
+- **[2026-01-12] Housing Authority** — Housing Authority on 2026-01-05 7:00 PM - Regular Meeting
+  > …So, you can see there's a new camera here. Mm-hmm. No. So is that the only thing left over is the bathroom fans? Yes. And now on to the all business proper. So we have the tractor and the CCTV. So yeah so tractor we're in the process we're still looking for one and cameras are actually being upgraded this week. So you can see there's a new camera here. Also there are one two three. Four inside and…
+  [Watch ▸](https://ledyardct.granicus.com/player/clip/1950)  [jump to 8:39 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_87173cf4-7d82-4d26-a7dc-5c60449b9782.mp4#t=519)  _(term: `surveillance_general`)_
+
+- **[2026-01-12] Housing Authority** — Housing Authority on 2026-01-05 7:00 PM - Regular Meeting
+  > …No. So is that the only thing left over is the bathroom fans? Yes. And now on to the all business proper. So we have the tractor and the CCTV. So yeah so tractor we're in the process we're still looking for one and cameras are actually being upgraded this week. So you can see there's a new camera here. Also there are one two three. Four inside and there'll be six outside. Nice. And that was a gran…
+  [Watch ▸](https://ledyardct.granicus.com/player/clip/1950)  [jump to 9:29 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_87173cf4-7d82-4d26-a7dc-5c60449b9782.mp4#t=569)  _(term: `surveillance_general`)_
+
+- **[2025-11-10] Housing Authority** — Housing Authority on 2025-11-03 7:00 PM - Regular Meeting
+  > …so waiting any questions or comments regarding the renovation okay okay old business proper to come before the board i just had a question about the cctv system where are you with that yes so um i um touch base with steven is the is the gentleman's name that we're dealing with and they've ordered the equipment we're just waiting for it to come in so that we can…
+  [Watch ▸](https://ledyardct.granicus.com/player/clip/1826)  [jump to 14:39 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_0591cf35-7854-4c82-a118-7a3867892b50.mp4#t=879)  _(term: `surveillance_general`)_
+
+
 ### North Branford — 5 mentions
 
 - **[2026-04-21] Town Council** — Town Council Meetings Minutes - 2026-04-21
@@ -766,6 +846,21 @@ _1 further mention in Wallingford not shown here — all of them are in [Walling
 - **[2025-06-06] Board of Finance** — Board of Finance Special Meeting 6.6.25
   > …uh the upgrade for my computer because I'm in that cycle right now. Can we have to look at a CCTV camera to monitor our ballot files? Is that coming out of a reserve or is…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=CgjfALNH-uo&t=701s)  _(term: `surveillance_general`)_
+
+
+### Coventry — 3 mentions
+
+- **[2024-11-18] Boards and Commissions** — 11-14-2024 WPCA meeting
+  > …for um jetting and backing and cctv and the sewer mains to…
+  [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=aoN5wmxu5SdvVPQw)  [jump to 24:50 ▸](https://vbfast-vod.viebit.com/coventry/aoN5wmxu5SdvVPQw/video1640929535.mp4#t=1490)  _(term: `surveillance_general`)_
+
+- **[2024-03-18] Town Council** — 3-18-2024 Town Council Meeting
+  > …I'm trying to get a grant that I can throw body cameras in. I can throw dashboard cameras in. I really don't want to throw tasers in there, but I can throw the police surveillance camera system in. So, I'm hoping that I, you know, I can get a grant that will cover all that, but I won't know until later in the year. But, yeah.…
+  [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=cOYOBSgpd2uw2rnN)  [jump to 1:35:42 ▸](https://vbfast-vod.viebit.com/coventry/cOYOBSgpd2uw2rnN/GMT20240318-231929_Recording_640x360.mp4#t=5742)  _(term: `surveillance_general`)_
+
+- **[2023-10-13] Boards and Commissions** — 10-12-2023 WPCA Meeting
+  > …then for next year we've got we've got about 8 000 feet usually we do 2 000 feet a day so it's four days of cleaning and the rate now is about three thousand dollars a day they added in one day of cctv because if we run into problems then we got to get a separate camera truck out there i mean sometimes smaller mains we can check out with our little push camera but usually those they need that big …
+  [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=6qg3CAr0xr1ib6BC)  [jump to 26:59 ▸](https://vbfast-vod.viebit.com/coventry/6qg3CAr0xr1ib6BC/video1444780877.mp4#t=1619)  _(term: `surveillance_general`)_
 
 
 ### East Hampton — 3 mentions

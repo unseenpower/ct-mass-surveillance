@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **Ashford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **9 mentions** across **7 meetings**
+- **11 mentions** across **9 meetings**
 - **First mention:** 2020-05-29  |  **Most recent:** 2026-03-06
 - **Technologies discussed:** alpr, drone, predictive_policing
-- **Coverage:** 205 of 467 known Ashford meetings transcribed (44%)
-- **Still incomplete:** 262 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 228 of 467 known Ashford meetings transcribed (49%)
+- **Still incomplete:** 239 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -69,13 +69,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 1 | 1 | 2024-12-09 | 2024-12-09 |
-| drone | 7 | 5 | 2020-11-10 | 2026-03-06 |
+| drone | 9 | 7 | 2020-11-10 | 2026-03-06 |
 | predictive_policing | 1 | 1 | 2020-05-29 | 2020-05-29 |
 
 
 ## Timeline
 
-7 meetings surfaced a finding (7 dated, spanning 2020-05-29 to 2026-03-06; 0 of unknown date, listed last).
+9 meetings surfaced a finding (9 dated, spanning 2020-05-29 to 2026-03-06; 0 of unknown date, listed last).
 
 
 ### 2020-05-29 -- Board of Finance
@@ -94,6 +94,20 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5419s)  > ...but that's the that's the kind of the size building we're talking about so maybe maybe a drone drone footage of that kind of place would be...
 
 - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5420s)  > ...size building we're talking about so maybe maybe a drone drone footage of that kind of place would be important to see yeah maybe the...
+
+
+### 2023-02-27 -- Conservation Commission
+
+**Conservation Commission, February 27, 2023** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=hQ3NT-1bslQ&t=1962s)  > ...caustic chemicals oh I didn't know that you can see if if you can go to Google Maps there's a kind of drone shot or whatever you can see there's all kinds of crap all behind it it's right and...
+
+
+### 2023-02-27 -- Conservation Commission
+
+**Conservation Commission, February 27, 2023** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=wVnmwad_lcU&t=1962s)  > ...caustic chemicals oh I didn't know that you can see if if you can go to Google Maps there's a kind of drone shot or whatever you can see there's all kinds of crap all behind it it's right and...
 
 
 ### 2023-09-25 -- Conservation Commission
@@ -193,6 +207,14 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2023-09-25] Conservation Commission** -- Conservation Commission, September 25, 2023
   > ...um so I'll let you know and uh again it should be this week I'll take a lot of pictures maybe I'll even do a drone thing oh good there you go oh well great that's all I had sorry...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9f3HeNxnKDU&t=7466s)  _(term: drone, unreviewed)_
+
+- **[2023-02-27] Conservation Commission** -- Conservation Commission, February 27, 2023
+  > ...caustic chemicals oh I didn't know that you can see if if you can go to Google Maps there's a kind of drone shot or whatever you can see there's all kinds of crap all behind it it's right and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hQ3NT-1bslQ&t=1962s)  _(term: drone, unreviewed)_
+
+- **[2023-02-27] Conservation Commission** -- Conservation Commission, February 27, 2023
+  > ...caustic chemicals oh I didn't know that you can see if if you can go to Google Maps there's a kind of drone shot or whatever you can see there's all kinds of crap all behind it it's right and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wVnmwad_lcU&t=1962s)  _(term: drone, unreviewed)_
 
 - **[2020-11-10] Planning & Zoning Commission** -- Planning and Zoning Commission 110920
   > ...size building we're talking about so maybe maybe a drone drone footage of that kind of place would be important to see yeah maybe the...
@@ -375,14 +397,14 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 14
-- Videos registered: 467 (fetched: 205, no captions: 0)
+- Videos registered: 467 (fetched: 228, no captions: 2)
 - Date range covered: 2020-04-06 to 2026-08-27 (all 467 videos dated)
 
 
@@ -397,7 +419,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| ashford_ct | videos | 2026-09-07 16:26:37.060895 | 482 |
+| ashford_ct | videos | 2026-09-10 13:33:33.920679 | 482 |
 
 
 ## Registered meeting bodies
@@ -423,7 +445,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 247 (fetched: 243)
+- Documents registered: 250 (fetched: 246)
 - Date range covered: 2026-01-05 to 2026-09-14
 
 
@@ -447,9 +469,12 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (0 shown, max 25)
+### Videos with no captions available (2 shown, max 25)
 
-*(none)*
+| title | upload_date |
+| --- | --- |
+| Board of Finance, April 4, 2023 | 2023-04-04 |
+| Our Town Our Future, April 3, 2023 | 2023-04-03 |
 
 
 ### Tabs never crawled
@@ -462,5 +487,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:27:21 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ashford"`_
+_Generated 2026-09-10T13:55:08 from Ashford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

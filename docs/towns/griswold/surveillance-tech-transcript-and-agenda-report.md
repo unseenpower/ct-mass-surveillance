@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Griswol
 - **5 mentions** across **2 meetings**
 - **First mention:** 2024-09-25  |  **Most recent:** 2025-11-26
 - **Technologies discussed:** alpr, predictive_policing
-- **Coverage:** 115 of 134 known Griswold meetings transcribed (86%)
+- **Coverage:** 116 of 135 known Griswold meetings transcribed (86%)
 - **Not the full history:** transcripts begin **2023-01-18**, but Griswold's published video archive goes back to **2022-02-14**. Meetings before 2023 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -327,15 +327,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 7
-- Videos registered: 134 (fetched: 115, no captions: 3)
-- Date range covered: 2022-02-14 to 2026-08-26 (all 134 videos dated)
+- Videos registered: 135 (fetched: 116, no captions: 3)
+- Date range covered: 2022-02-14 to 2026-09-08 (all 135 videos dated)
 
 
 ### Channels
@@ -349,7 +349,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| griswold_ct | streams | 2026-09-07 16:32:31.241077 | 146 |
+| griswold_ct | streams | 2026-09-10 13:46:11.538776 | 147 |
 
 
 ## Registered meeting bodies
@@ -357,7 +357,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 43 |
-| Board of Selectmen | other | True | 79 |
+| Board of Selectmen | other | True | 80 |
 | Community Multi-Purpose Field Committee | other | True | 3 |
 | Land Use Commission | other | True | 0 |
 | Planning & Zoning Commission | other | True | 0 |
@@ -414,5 +414,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:32:52 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Griswold"`_
+_Generated 2026-09-10T14:03:49 from Griswold's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

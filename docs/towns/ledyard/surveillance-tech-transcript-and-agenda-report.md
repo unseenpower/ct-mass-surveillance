@@ -5,11 +5,11 @@
 
 This report collects every mention of surveillance technology found in **Ledyard**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **15 mentions** across **14 meetings**
-- **First mention:** 2012-08-22  |  **Most recent:** 2023-06-29
-- **Technologies discussed:** alpr, drone, facial_recognition, predictive_policing
-- **Coverage:** 416 of 1,385 known Ledyard meetings transcribed (30%)
-- **Still incomplete:** 969 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **21 mentions** across **17 meetings**
+- **First mention:** 2012-08-22  |  **Most recent:** 2026-01-12
+- **Technologies discussed:** alpr, drone, facial_recognition, predictive_policing, surveillance_general
+- **Coverage:** 615 of 1,385 known Ledyard meetings transcribed (44%)
+- **Still incomplete:** 770 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
@@ -69,14 +69,15 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 | topic | mentions | meetings | first_seen | most_recent |
 | --- | --- | --- | --- | --- |
 | alpr | 2 | 2 | 2013-07-24 | 2023-06-29 |
-| drone | 10 | 9 | 2020-04-15 | 2023-06-29 |
+| drone | 11 | 10 | 2020-04-15 | 2024-06-03 |
 | facial_recognition | 1 | 1 | 2022-03-09 | 2022-03-09 |
 | predictive_policing | 2 | 2 | 2012-08-22 | 2013-06-30 |
+| surveillance_general | 5 | 2 | 2025-11-10 | 2026-01-12 |
 
 
 ## Timeline
 
-14 meetings surfaced a finding (14 dated, spanning 2012-08-22 to 2023-06-29; 0 of unknown date, listed last).
+17 meetings surfaced a finding (17 dated, spanning 2012-08-22 to 2026-01-12; 0 of unknown date, listed last).
 
 
 ### 2012-08-22 -- Town Council
@@ -179,6 +180,33 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fdlgbMKRyl8&t=1557s)  > ...there's also a they did some drones and i i can't find it right now i'll i'll look for it later there's a drone over that land and you see the pit on the north side of the building there's a pit...
 
 
+### 2024-06-03 -- Land Use/Planning/Public Works Committee
+
+**Land Use/Planning/Public Works Committee on 2024-06-03 6:00 PM - Regular Meeting** _(topics: drone)_
+
+- `drone` [Watch ▸](https://ledyardct.granicus.com/player/clip/951)  [jump to 8:13 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_ba2fba78-d4e5-48e3-94cb-81da0dcec25a.mp4#t=493)  > ...I just want to thank the land use for going on that sidewalk with, with me and with our person from the phonetic preservation. And, um, and I, and I did find, it's hard to find a map of that area. It's almost impossible, but I, and, and, uh, or a drone picture or whatever, but in, um, the Tritown Trails efforts with making the next step on our trail. Um, Chad Cross and company did some mapping and...
+
+
+### 2025-11-10 -- Housing Authority
+
+**Housing Authority on 2025-11-03 7:00 PM - Regular Meeting** _(topics: surveillance_general)_
+
+- `surveillance_general` [Watch ▸](https://ledyardct.granicus.com/player/clip/1826)  [jump to 14:39 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_0591cf35-7854-4c82-a118-7a3867892b50.mp4#t=879)  > ...so waiting any questions or comments regarding the renovation okay okay old business proper to come before the board i just had a question about the cctv system where are you with that yes so um i um touch base with steven is the is the gentleman's name that we're dealing with and they've ordered the equipment we're just waiting for it to come in so that we can...
+
+
+### 2026-01-12 -- Housing Authority
+
+**Housing Authority on 2026-01-05 7:00 PM - Regular Meeting** _(topics: surveillance_general)_
+
+- `surveillance_general` [Watch ▸](https://ledyardct.granicus.com/player/clip/1950)  [jump to 7:20 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_87173cf4-7d82-4d26-a7dc-5c60449b9782.mp4#t=440)  > ...Yeah. To replace the tractor, we had to be like $24,000 or $24,000, so, yeah. So, not that, since we're kind of reviewing, um, the notes, anything on the CCTV system? Yeah. So, um, updates, so, um, so all the suggestions, yeah, we can do, under updates, yeah....
+
+- `surveillance_general` [Watch ▸](https://ledyardct.granicus.com/player/clip/1950)  [jump to 8:32 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_87173cf4-7d82-4d26-a7dc-5c60449b9782.mp4#t=512)  > ...Okay. And now, onto the all business proper. So, we have the tractor and the CCTV. Yes. So, yeah....
+
+- `surveillance_general` [Watch ▸](https://ledyardct.granicus.com/player/clip/1950)  [jump to 8:39 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_87173cf4-7d82-4d26-a7dc-5c60449b9782.mp4#t=519)  > ...So, you can see there's a new camera here. Mm-hmm. No. So is that the only thing left over is the bathroom fans? Yes. And now on to the all business proper. So we have the tractor and the CCTV. So yeah so tractor we're in the process we're still looking for one and cameras are actually being upgraded this week. So you can see there's a new camera here. Also there are one two three. Four inside and...
+
+- `surveillance_general` [Watch ▸](https://ledyardct.granicus.com/player/clip/1950)  [jump to 9:29 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_87173cf4-7d82-4d26-a7dc-5c60449b9782.mp4#t=569)  > ...No. So is that the only thing left over is the bathroom fans? Yes. And now on to the all business proper. So we have the tractor and the CCTV. So yeah so tractor we're in the process we're still looking for one and cameras are actually being upgraded this week. So you can see there's a new camera here. Also there are one two three. Four inside and there'll be six outside. Nice. And that was a gran...
+
+
 ## Findings by topic
 
 
@@ -229,6 +257,10 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 
 ### drone
+
+- **[2024-06-03] Land Use/Planning/Public Works Committee** -- Land Use/Planning/Public Works Committee on 2024-06-03 6:00 PM - Regular Meeting
+  > ...I just want to thank the land use for going on that sidewalk with, with me and with our person from the phonetic preservation. And, um, and I, and I did find, it's hard to find a map of that area. It's almost impossible, but I, and, and, uh, or a drone picture or whatever, but in, um, the Tritown Trails efforts with making the next step on our trail. Um, Chad Cross and company did some mapping and, um, one of their folks, um, had taken the, the, uh, uh, geographical or the land and, uh, the turbulence of the land and whatever. Um, and then they, I don't know who did it and somebody did it circ...
+  [Watch ▸](https://ledyardct.granicus.com/player/clip/951)  [jump to 8:13 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_ba2fba78-d4e5-48e3-94cb-81da0dcec25a.mp4#t=493)  _(term: drone, unreviewed)_
 
 - **[2023-06-29] Water Pollution Control Authority** -- Water Pollution Control Authority - Regular Meeting - 24 Aug 2021
   > ...thought he thought he was going to fly his drone around but i i don't really need a drone i'm just going somebody go up there and clean it off a little to take a look at...
@@ -316,7 +348,25 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### surveillance_general
 
-*(no findings)*
+- **[2026-01-12] Housing Authority** -- Housing Authority on 2026-01-05 7:00 PM - Regular Meeting
+  > ...No. So is that the only thing left over is the bathroom fans? Yes. And now on to the all business proper. So we have the tractor and the CCTV. So yeah so tractor we're in the process we're still looking for one and cameras are actually being upgraded this week. So you can see there's a new camera here. Also there are one two three. Four inside and there'll be six outside. Nice. And that was a grant. Very nice. Six outside are to cover the whole property? They'll cover the whole property. Yep. So it's a grant so we pay up front and then we show our proof of payment and we are reimbursed. All ri...
+  [Watch ▸](https://ledyardct.granicus.com/player/clip/1950)  [jump to 9:29 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_87173cf4-7d82-4d26-a7dc-5c60449b9782.mp4#t=569)  _(term: surveillance_general, unreviewed)_
+
+- **[2026-01-12] Housing Authority** -- Housing Authority on 2026-01-05 7:00 PM - Regular Meeting
+  > ...So, you can see there's a new camera here. Mm-hmm. No. So is that the only thing left over is the bathroom fans? Yes. And now on to the all business proper. So we have the tractor and the CCTV. So yeah so tractor we're in the process we're still looking for one and cameras are actually being upgraded this week. So you can see there's a new camera here. Also there are one two three. Four inside and there'll be six outside. Nice. And that was a grant. Very nice. Six outside are to cover the whole property? They'll cover the whole property. Yep. So it's a grant so we pay up front and then we show...
+  [Watch ▸](https://ledyardct.granicus.com/player/clip/1950)  [jump to 8:39 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_87173cf4-7d82-4d26-a7dc-5c60449b9782.mp4#t=519)  _(term: surveillance_general, unreviewed)_
+
+- **[2026-01-12] Housing Authority** -- Housing Authority on 2026-01-05 7:00 PM - Regular Meeting
+  > ...Okay. And now, onto the all business proper. So, we have the tractor and the CCTV. Yes. So, yeah....
+  [Watch ▸](https://ledyardct.granicus.com/player/clip/1950)  [jump to 8:32 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_87173cf4-7d82-4d26-a7dc-5c60449b9782.mp4#t=512)  _(term: surveillance_general, unreviewed)_
+
+- **[2026-01-12] Housing Authority** -- Housing Authority on 2026-01-05 7:00 PM - Regular Meeting
+  > ...Yeah. To replace the tractor, we had to be like $24,000 or $24,000, so, yeah. So, not that, since we're kind of reviewing, um, the notes, anything on the CCTV system? Yeah. So, um, updates, so, um, so all the suggestions, yeah, we can do, under updates, yeah....
+  [Watch ▸](https://ledyardct.granicus.com/player/clip/1950)  [jump to 7:20 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_87173cf4-7d82-4d26-a7dc-5c60449b9782.mp4#t=440)  _(term: surveillance_general, unreviewed)_
+
+- **[2025-11-10] Housing Authority** -- Housing Authority on 2025-11-03 7:00 PM - Regular Meeting
+  > ...so waiting any questions or comments regarding the renovation okay okay old business proper to come before the board i just had a question about the cctv system where are you with that yes so um i um touch base with steven is the is the gentleman's name that we're dealing with and they've ordered the equipment we're just waiting for it to come in so that we can...
+  [Watch ▸](https://ledyardct.granicus.com/player/clip/1826)  [jump to 14:39 ▸](https://archive-video.granicus.com/ledyardct/ledyardct_0591cf35-7854-4c82-a118-7a3867892b50.mp4#t=879)  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools
@@ -445,14 +495,14 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 2
 - Active meeting bodies: 26
-- Videos registered: 1385 (fetched: 416, no captions: 14)
+- Videos registered: 1385 (fetched: 615, no captions: 14)
 - Date range covered: 2011-07-30 to 2026-09-03 — **based on the 1384 of 1385 videos that carry a parseable upload date**; the other 1 are undated, so the real corpus may extend beyond this range in either direction
 
 
@@ -468,8 +518,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| ledyard_ct | streams | 2026-09-07 17:00:31.113278 | 18 |
-| ledyard_ct | videos | 2026-09-07 17:00:30.183402 | 562 |
+| ledyard_ct | streams | 2026-09-10 12:04:22.779869 | 18 |
+| ledyard_ct | videos | 2026-09-10 12:04:21.826481 | 562 |
 | ledyard_granicus | Default View - Granicus Content | 2026-09-06 14:08:55.398671 | 947 |
 
 
@@ -564,5 +614,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:34:52 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Ledyard"`_
+_Generated 2026-09-10T14:06:43 from Ledyard's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

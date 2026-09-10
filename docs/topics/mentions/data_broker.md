@@ -1,6 +1,6 @@
 # Data brokers: every mention, every town
 
-_Generated 2026-09-07T17:43:39 — 8 mentions across 1 towns, 2014-06-11 to 2017-06-05._
+_Generated 2026-09-10T14:24:02 — 8 mentions across 1 towns, 2014-06-11 to 2017-06-05._
 
 
 > **These are unreviewed keyword matches, not verified claims.** Each receipt below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous — "drone" can mean a bee, "flock" a bird — and auto-captions mis-transcribe. **Follow the timestamped link and listen before citing anything here.**
@@ -37,13 +37,13 @@ _Most recent first within each town. Every line links to the exact second of the
   > …Order of the New Haven Board of Alders authorizing the Office of the Corporation Counsel to enter into multi-year agreement with LexisNexis, a division of Relx, Inc., to subscribe to Lexis Advance & Accurint for Government, online legal research databases, commencing July 1, 2017 through June 30, 2020. d. Ordinance Amendment to the New Haven Board of Alders Appropriating Ordinance # 1 authorizin…
   [Open document ▸](http://legistar2.granicus.com/newhaven-ct/meetings/2017/5/2986_A_Board_of_Alders_17-05-15_Meeting_Agenda.pdf)  _(agenda/minutes · term: `data_broker`)_
 
-- **[2017-05-10] Finance Committee** — Finance Committee Agenda - 2017-05-10
-  > …ICE OF THE CORPORATION COUNSEL TO ENTER INTO MULTI-YEAR AGREEMENT WITH LEXISNEXIS, A DIVISION OF RELX, INC. TO SUBSCRIBE TO LEXIS ADVANCE & ACCURINT FOR GOVERNMENT, ONLINE LEGAL RESEARCH DATABASES, COMMENCING JULY 1, 2017 THROUGH JUNE 30, 2020. 4. OR-2017-0014 ORDINANCE AMENDMENT TO APPROPRIATI…
-  [Open document ▸](http://legistar2.granicus.com/newhaven-ct/meetings/2017/5/3035_A_Finance_Committee_17-05-10_Meeting_Agenda.pdf)  _(agenda/minutes · term: `data_broker`)_
-
 - **[2017-05-10] Finance Committee** — Finance Committee Minutes - 2017-05-10
   > …THE CORPORATION COUNSEL TO ENTER INTO MULTI-YEAR AGREEMENT WITH LEXISNEXIS, A DIVISION OF RELX, INC. TO SUBSCRIBE TO LEXIS ADVANCE & ACCURINT FOR GOVERNMENT, ONLINE LEGAL RESEARCH DATABASES, COMMENCING JULY 1, 2017 THROUGH JUNE 30, 2020. City of New Haven…
   [Open document ▸](http://legistar2.granicus.com/newhaven-ct/meetings/2017/5/3035_M_Finance_Committee_17-05-10_Meeting_Minutes.pdf)  _(agenda/minutes · term: `data_broker`)_
+
+- **[2017-05-10] Finance Committee** — Finance Committee Agenda - 2017-05-10
+  > …ICE OF THE CORPORATION COUNSEL TO ENTER INTO MULTI-YEAR AGREEMENT WITH LEXISNEXIS, A DIVISION OF RELX, INC. TO SUBSCRIBE TO LEXIS ADVANCE & ACCURINT FOR GOVERNMENT, ONLINE LEGAL RESEARCH DATABASES, COMMENCING JULY 1, 2017 THROUGH JUNE 30, 2020. 4. OR-2017-0014 ORDINANCE AMENDMENT TO APPROPRIATI…
+  [Open document ▸](http://legistar2.granicus.com/newhaven-ct/meetings/2017/5/3035_A_Finance_Committee_17-05-10_Meeting_Agenda.pdf)  _(agenda/minutes · term: `data_broker`)_
 
 - **[2017-04-03] Board of Alders** — Board of Alders Agenda - 2017-04-03
   > …ders authorizing the Office Of The Corporation Counsel to enter into multi-year agreement with LexisNexis, a division of Relx, Inc. & LexisNexis Risk Solutions FL Inc. to subscribe to Lexis Advance & Accurint For Government, Online Legal Research Databases, commencing July 1, 2017 through June 30, 2020. (Referred to Finance Committee). 7. From the Executive Director of Economic Development submit…

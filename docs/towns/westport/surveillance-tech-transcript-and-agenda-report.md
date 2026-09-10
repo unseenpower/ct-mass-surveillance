@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Westpor
 - **73 mentions** across **34 meetings**
 - **First mention:** 2024-01-08  |  **Most recent:** 2026-08-24
 - **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone
-- **Coverage:** 575 of 864 known Westport meetings transcribed (67%)
+- **Coverage:** 602 of 867 known Westport meetings transcribed (69%)
 - **Not the full history:** transcripts begin **2023-07-20**, but Westport's published video archive goes back to **2018-04-03**. Meetings before 2023 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 
@@ -893,15 +893,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 25
-- Videos registered: 864 (fetched: 575, no captions: 9)
-- Date range covered: 2018-04-03 to 2026-09-23 (all 864 videos dated)
+- Videos registered: 867 (fetched: 602, no captions: 10)
+- Date range covered: 2018-04-03 to 2026-09-23 (all 867 videos dated)
 
 
 ### Channels
@@ -915,8 +915,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| westport_gov_tv | streams | 2026-09-07 16:50:59.561588 | 362 |
-| westport_gov_tv | videos | 2026-09-07 16:50:54.063128 | 783 |
+| westport_gov_tv | streams | 2026-09-10 11:38:42.335242 | 362 |
+| westport_gov_tv | videos | 2026-09-10 11:38:36.963185 | 785 |
 
 
 ## Registered meeting bodies
@@ -924,12 +924,12 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Capital Improvement Planning Committee | budget_finance | True | 15 |
-| Finance Committee | budget_finance | True | 69 |
+| Finance Committee | budget_finance | True | 70 |
 | Representative Town Meeting | council | True | 18 |
 | Select Board | council | True | 103 |
 | Beach Committee | other | True | 27 |
 | Bike and Walking Committee | other | True | 7 |
-| Board of Health | other | True | 83 |
+| Board of Health | other | True | 84 |
 | Cable Advisory Committee | other | True | 9 |
 | Climate Resilience Committee | other | True | 20 |
 | Community Preservation Committee | other | True | 20 |
@@ -945,7 +945,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Offshore Wind Advisory Committee | other | True | 8 |
 | Opioid Settlement Advisory Committee | other | True | 16 |
 | Personnel Board | other | True | 14 |
-| Planning Board | other | True | 82 |
+| Planning Board | other | True | 83 |
 | Shellfish Advisory Board | other | True | 10 |
 | Zoning Board of Appeals | other | True | 52 |
 
@@ -977,10 +977,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (9 shown, max 25)
+### Videos with no captions available (10 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Planning Board   September 8, 2026 | 2026-09-08 |
 | Landing Commission - August 25, 2026 | 2026-08-25 |
 | Long Term Building Committee - February 11, 2026 | 2026-02-11 |
 | Historical Commission   October 6, 2025 | 2025-10-06 |
@@ -1000,5 +1001,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:41:46 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Westport"`_
+_Generated 2026-09-10T14:18:47 from Westport's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

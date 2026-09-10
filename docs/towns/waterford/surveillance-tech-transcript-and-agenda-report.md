@@ -8,7 +8,7 @@ This report collects every mention of surveillance technology found in **Waterfo
 - **17 mentions** across **5 meetings**
 - **First mention:** 2026-05-05  |  **Most recent:** 2026-08-19
 - **Technologies discussed:** alpr
-- **Coverage:** 29 of 70 known Waterford meetings transcribed (41%)
+- **Coverage:** 30 of 71 known Waterford meetings transcribed (42%)
 - **Not the full history:** transcripts begin **2026-03-24**, but Waterford's published video archive goes back to **2025-11-19**. Meetings before 2026 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 - **1 additional mention** in agendas and minutes (keyword scan, not yet human-reviewed)
 
@@ -422,15 +422,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 7
-- Videos registered: 70 (fetched: 29, no captions: 4)
-- Date range covered: 2025-11-19 to 2026-08-26 — **based on the 33 of 70 videos that carry a parseable upload date**; the other 37 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 71 (fetched: 30, no captions: 5)
+- Date range covered: 2025-11-19 to 2026-09-09 — **based on the 35 of 71 videos that carry a parseable upload date**; the other 36 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -444,15 +444,15 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| town_of_waterford_ct | streams | 2026-09-07 16:41:59.425748 | 69 |
-| town_of_waterford_ct | videos | 2026-09-07 16:41:57.962702 | 2 |
+| town_of_waterford_ct | streams | 2026-09-10 11:59:10.051519 | 70 |
+| town_of_waterford_ct | videos | 2026-09-10 11:59:08.441287 | 2 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 20 |
+| Board of Finance | budget_finance | True | 21 |
 | Board of Selectmen | council | True | 26 |
 | Board of Education | education | True | 0 |
 | Representative Town Meeting | other | True | 13 |
@@ -467,7 +467,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 165 (fetched: 28)
+- Documents registered: 167 (fetched: 28)
 - Date range covered: 2024-01-01 to 2026-09-14
 
 
@@ -482,7 +482,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | logged_at | field_name | new_value | source | by |
 | --- | --- | --- | --- | --- |
-| 2026-08-23 09:57:49.042920 | agenda_bodies_registered | Registered 5 meeting_bodies for agenda-matching purposes only (no video channel exists): Board of Selectmen, Board of Finance, Board of Education, Board of Police Commissioners, Representative Town Meeting. Cross-checked against the full 41-category AgendaCenter crawl -- confirms these 5 plus ~36 land-use/narrow-purpose/infrastructure categories excluded per standing convention. | ingest/fetch_agenda_documents.py --mode unfiltered --dry-run against waterford_agendacenter, 2026-08-23 | claude |
+| 2026-08-23 09:57:49.042920 | agenda_bodies_registered | Registered 5 meeting_bodies for agenda-matching purposes only (no video channel exists): Board of Selectmen, Board of Finance, Board of Education, Board of Police Commissioners, Representative Town Meeting. Cross-checked against the full 41-category AgendaCenter crawl -- confirms these 5 plus ~36 land-use/narrow-purpose/infrastructure categories excluded per standing convention. | the agenda fetcher --mode unfiltered --dry-run against waterford_agendacenter, 2026-08-23 | claude |
 | 2026-08-23 09:33:01.007585 | agenda_platform_confirmed | CivicPlus AgendaCenter at waterfordct.gov/AgendaCenter -- recognized vendor platform. Agendas/minutes only, no video component. | waterfordct.gov/AgendaCenter | claude |
 | 2026-08-23 09:33:01.007585 | channel_not_found | No YouTube (or other online VOD) channel found for Waterford CT government meetings. Two candidate leads ruled out via yt-dlp direct verification: "PLENARY Council Meetings" playlist and a "waterfordcouncil" channel both resolved to Waterford City & County Council, Ireland; a "2020 Board of Selectmen Meetings" playlist resolved to Freetown, MA. Meetings appear to air only on local cable PEG access (Atlantic Broadband/Frontier/Comcast, studio at 61 Myrock Ave). | yt-dlp direct verification + WebSearch, 2026-08-23 | claude |
 | 2026-08-23 09:33:01.007585 | committees_confirmed | Representative Town Meeting (RTM) legislative body, 3-member Board of Selectmen (First Selectman + 2) as executive authority, separate Board of Finance. Extended board/commission roster (30+) confirmed via an UNOFFICIAL third-party document mirror, waterforddocs.org (explicitly not affiliated with/endorsed by the town) -- includes confirmation of a real Board of Police Commissioners. | waterfordct.gov/282/Board-of-Selectmen, waterforddocs.org, WebSearch | claude |
@@ -491,10 +491,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ## Gaps and caveats
 
 
-### Videos with no captions available (4 shown, max 25)
+### Videos with no captions available (5 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| BOF 2026/09/09 | 2026-09-09 |
 | BOS 2026/03/17 | 2026-03-18 |
 | Board of Police Commissioners 2026/01/12 | 2026-01-13 |
 | BOF 2025/12/10 | 2025-12-11 |
@@ -509,5 +510,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:41:19 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Waterford"`_
+_Generated 2026-09-10T14:17:49 from Waterford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

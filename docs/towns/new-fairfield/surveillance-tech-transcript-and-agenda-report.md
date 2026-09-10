@@ -299,7 +299,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
@@ -321,7 +321,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| nf_tv | streams | 2026-09-07 16:28:48.090989 | 197 |
+| nf_tv | streams | 2026-09-10 13:36:02.003397 | 197 |
 
 
 ## Registered meeting bodies
@@ -363,9 +363,9 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | 2026-08-27 15:11:33.990930 | both_tabs_checked | /videos tab DOES NOT EXIST (yt-dlp: "This channel does not have a videos tab"); /streams carries all 196 titles. A /videos-only crawl would have found zero content and wrongly blocked this town -- concrete case of the mandatory both-tabs rule. | yt-dlp --flat-playlist crawl of both tabs, 2026-08-27 | claude |
 | 2026-08-27 15:11:33.990930 | channel_found | "NF TV" (UCIm-iQUy5zTq_9tBsWHLfcw, @nftv2172) confirmed via yt-dlp --dump-single-json tab probe as New Fairfield's own government-access channel. Corroborated by newfairfield.org's own "New Fairfield TV on the Web" section, whose live-stream page embeds a youtube.com/watch?v=live_stream player. | yt-dlp --dump-single-json probe + r.jina.ai text extraction of newfairfield.org (Akamai WAF 403s plain curl and WebFetch), 2026-08-27 | claude |
 | 2026-08-27 15:11:33.990930 | collision_check_fairfield | COLLISION RISK CHECKED: Fairfield, CT is already onboarded (fairtv) and has repeatedly surfaced as a false lead for other towns in prior batches. A full CT-town-name scan of NF TV's 196-title corpus found exactly one title containing "Fairfield" -- "New Fairfield Meeting 6-13-24" -- and zero Fairfield-the-town government content. NF TV is NOT a shared channel; patterns left deliberately unanchored since most real titles are bare "Board of Selectmen <date>". | Python CT-town-name scan of the full 196-title corpus, 2026-08-27 | claude |
-| 2026-08-27 15:15:15.702232 | dry_run_sanity_check | nf_tv: /videos tab does not exist (0 listed), /streams 196 listed / 191 matched. Combined 191/196 (97.4%). | ingest/fetch_channel_transcripts.py --tabs videos,streams --mode filtered --dry-run against the live DB after seeding, 2026-08-27 | claude |
+| 2026-08-27 15:15:15.702232 | dry_run_sanity_check | nf_tv: /videos tab does not exist (0 listed), /streams 196 listed / 191 matched. Combined 191/196 (97.4%). | the transcript fetcher --tabs videos,streams --mode filtered --dry-run against the live DB after seeding, 2026-08-27 | claude |
 | 2026-08-27 15:15:15.702232 | patterns_validated_from_real_titles | 191/196 combined-tab titles matched (97.4%) across 11 registered bodies, validated in Python against the real title corpus. Five distinct unmatched titles, all one-offs (FOIA Training, Public Hearing, Testing, Field Fees, "New Fairfield Meeting 6-13-24"). Figure confirmed by the tool's own --dry-run --tabs videos,streams against the live registered patterns. | Python pattern validation against the full combined corpus, 2026-08-27 | claude |
-| 2026-08-27 15:11:33.990930 | secondary_source_not_registered | New Fairfield also publishes meetings to VimeoPro albums (vimeopro.com/user53774442/{town-of-new-fairfield-board-of-selectmen, town-of-new-fairfield-board-of-finance, new-fairfield-board-of-education}), linked from its own NFTV page. NOT registered as a channels/town_channels row on purpose: run-fetch-batch.sh selects every town_channels row with no platform filter and fetch_channel_transcripts.py hard-exits on platform != youtube, so a Vimeo row fails the scheduled batch every run (as the pre-existing redding_ct_vimeo row already does). | r.jina.ai extraction of newfairfield.org/our-town/new-fairfield-tv-on-the-web + reading scripts/run-fetch-batch.sh, 2026-08-27 | claude |
+| 2026-08-27 15:11:33.990930 | secondary_source_not_registered | New Fairfield also publishes meetings to VimeoPro albums (vimeopro.com/user53774442/{town-of-new-fairfield-board-of-selectmen, town-of-new-fairfield-board-of-finance, new-fairfield-board-of-education}), linked from its own NFTV page. NOT registered as a channels/town_channels row on purpose: the batch fetch script selects every town_channels row with no platform filter and the transcript fetcher hard-exits on platform != youtube, so a Vimeo row fails the scheduled batch every run (as the pre-existing redding_ct_vimeo row already does). | r.jina.ai extraction of newfairfield.org/our-town/new-fairfield-tv-on-the-web + reading the batch fetch script, 2026-08-27 | claude |
 
 
 ## Gaps and caveats
@@ -412,5 +412,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:36:19 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "New Fairfield"`_
+_Generated 2026-09-10T14:08:47 from New Fairfield's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

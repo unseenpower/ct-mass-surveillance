@@ -8,8 +8,8 @@ This report collects every mention of surveillance technology found in **East Ha
 - **43 mentions** across **11 meetings**
 - **First mention:** 2021-03-27  |  **Most recent:** 2026-06-09
 - **Technologies discussed:** alpr, body_camera, drone, surveillance_general
-- **Coverage:** 136 of 246 known East Hampton meetings transcribed (55%)
-- **Still incomplete:** 110 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+- **Coverage:** 136 of 247 known East Hampton meetings transcribed (55%)
+- **Still incomplete:** 111 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 - **6 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
 
 
@@ -654,15 +654,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
 
 - Channels registered: 1
 - Active meeting bodies: 13
-- Videos registered: 246 (fetched: 136, no captions: 1)
-- Date range covered: 2020-03-24 to 2026-09-03 (all 246 videos dated)
+- Videos registered: 247 (fetched: 136, no captions: 1)
+- Date range covered: 2020-03-24 to 2026-09-08 (all 247 videos dated)
 
 
 ### Channels
@@ -676,8 +676,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| east_hampton_ct | streams | 2026-09-07 16:40:29.663635 | 189 |
-| east_hampton_ct | videos | 2026-09-07 16:40:26.868322 | 62 |
+| east_hampton_ct | streams | 2026-09-10 11:57:28.618955 | 190 |
+| east_hampton_ct | videos | 2026-09-10 11:57:25.578226 | 62 |
 
 
 ## Registered meeting bodies
@@ -689,7 +689,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | Clean Energy Task Force | other | True | 1 |
 | Freedom of Information Workshop | other | True | 1 |
 | Planning & Zoning Commission | other | True | 6 |
-| Town Council | other | True | 159 |
+| Town Council | other | True | 160 |
 | Town Meeting | other | True | 1 |
 | Tri-Board Meeting | other | True | 8 |
 | Water Committee | other | True | 1 |
@@ -741,5 +741,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:30:33 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "East Hampton"`_
+_Generated 2026-09-10T14:00:19 from East Hampton's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

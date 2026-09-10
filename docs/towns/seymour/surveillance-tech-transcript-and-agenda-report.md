@@ -740,7 +740,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 ### Why the counts rose on 2026-08-31
 
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. Fixed in [#70](https://github.com/unseenpower/ct-surveillance-transcripts/pull/70); every term was then rescanned across the whole corpus.
+Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
@@ -762,8 +762,8 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| seymour_ct | streams | 2026-09-07 16:34:56.602032 | 150 |
-| seymour_ct | videos | 2026-09-07 16:34:54.160070 | 416 |
+| seymour_ct | streams | 2026-09-10 13:49:06.742309 | 150 |
+| seymour_ct | videos | 2026-09-10 13:49:03.931822 | 416 |
 
 
 ## Registered meeting bodies
@@ -808,7 +808,7 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 
 | logged_at | field_name | new_value | source | by |
 | --- | --- | --- | --- | --- |
-| 2026-08-27 16:02:06.062193 | agenda_platform_found | seymourct.org/meetingdashboard -- a custom "meeting dashboard" module serving per-meeting agenda PDFs under /meetingfiles/<numeric-id>/agendas/<hash>.pdf (e.g. .../meetingfiles/17541/agendas/b46b5d79a8a441cfa1a29c3d962e7992.pdf). No CivicPlus/CivicClerk/Granicus branding. URL scheme recorded here because it looks straightforwardly scrapeable if someone adds a handler to ingest/fetch_agenda_documents.py. | r.jina.ai text extraction of seymourct.org, 2026-08-27 | claude |
+| 2026-08-27 16:02:06.062193 | agenda_platform_found | seymourct.org/meetingdashboard -- a custom "meeting dashboard" module serving per-meeting agenda PDFs under /meetingfiles/<numeric-id>/agendas/<hash>.pdf (e.g. .../meetingfiles/17541/agendas/b46b5d79a8a441cfa1a29c3d962e7992.pdf). No CivicPlus/CivicClerk/Granicus branding. URL scheme recorded here because it looks straightforwardly scrapeable if someone adds a handler to the agenda fetcher. | r.jina.ai text extraction of seymourct.org, 2026-08-27 | claude |
 | 2026-08-27 16:02:06.062193 | channel_found | seymour_ct -- "Seymour CT" (UCWyCMtQNHL46Da9r38s9jTw, @seymourct6943), confirmed via direct yt-dlp probe AND independently corroborated by seymourct.org, which links youtube.com/channel/UCWyCMtQNHL46Da9r38s9jTw/videos from its home page under "Seymour Videos" -- an exact UC-id match, so channel identity is unambiguous. 416 /videos + 149 /streams = 565 titles, both tabs crawled. | yt-dlp ytsearch12:"Seymour Connecticut Board of Selectmen meeting" + direct probe + r.jina.ai extraction of seymourct.org, 2026-08-27 | claude |
 | 2026-08-27 16:02:06.062193 | high_value_oversight_bodies | Seymour is a higher-value town for this project than its size suggests: it runs a standing Board of Police Commissioners (17 videos), a Strategic Planning Committee (12) and an Ordinance Committee (15) -- the three body types where ALPR/camera/drone procurement and any local surveillance-technology ordinance would surface. | Body-frequency analysis of the 565-title corpus, 2026-08-27 | claude |
 | 2026-08-27 16:02:06.062193 | out_of_state_collision_ruled_out | Seymour also exists in IN, TN, MO and WI. Ruled out two ways: (1) seymourct.org -- the Town of Seymour CT's own site -- links this exact channel UC id; (2) CT-only body vocabulary in the corpus: Board of Selectmen (plus the local variant "Board of Selectpersons"), Water Pollution Control Authority, Board of Police Commissioners, Board of Fire Commissioners. Seymour IN is a Mayor/City Council city and Seymour WI a Common Council city -- neither has selectmen. | r.jina.ai extraction of seymourct.org + full 565-title corpus inspection, 2026-08-27 | claude |
@@ -852,5 +852,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-07T17:39:47 -- regenerate with `.venv/bin/python3 analysis/generate_surveillance_report.py --town "Seymour"`_
+_Generated 2026-09-10T14:15:02 from Seymour's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 
