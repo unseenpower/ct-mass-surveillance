@@ -1,6 +1,6 @@
 # This Week in Surveillance — Connecticut
 
-_Last updated 10 September 2026 at 2:24 PM EDT. Covering the 7 days to 10 September 2026._
+_Last updated 10 September 2026 at 4:21 PM EDT. Covering the 7 days to 10 September 2026._
 
 ## Headlines
 
@@ -19,7 +19,7 @@ _Last updated 10 September 2026 at 2:24 PM EDT. Covering the 7 days to 10 Septem
 
 ## Meetings held in the last 7 days
 
-_842 mentions newly surfaced in this window, from 5,442 meeting transcripts added across 170 keyword scans._
+_842 mentions newly surfaced in this window, from 5,183 meeting transcripts added across 170 keyword scans._
 
 _48 mention(s) across 10 town(s) — the genuinely current slice._
 
@@ -405,10 +405,10 @@ The full watch list — every body that keeps returning to the subject, and when
 | [Body cameras](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/body_camera.md) | 75 | 16 |
 | [General surveillance](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/surveillance_general.md) | 72 | 9 |
 | [Facial recognition](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/facial_recognition.md) | 18 | 5 |
-| [Purchasing / procurement](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/purchasing_broker.md) | 5 | 2 |
 | [Predictive policing](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/predictive_policing.md) | 5 | 4 |
-| [Cell-site simulators](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/cell_site_sim.md) | 3 | 1 |
+| [Purchasing / procurement](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/purchasing_broker.md) | 5 | 2 |
 | [Data brokers](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/data_broker.md) | 3 | 1 |
+| [Cell-site simulators](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/cell_site_sim.md) | 3 | 1 |
 | [Gunshot detection](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/gunshot_detection.md) | 2 | 2 |
 | [Doorbell-camera partnerships](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/doorbell_partnership.md) | 2 | 2 |
 | [Real-time crime centres](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/topics/mentions/rtcc.md) | 1 | 1 |

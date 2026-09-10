@@ -1,6 +1,6 @@
 # Facial recognition: every mention, every town
 
-_Generated 2026-09-10T14:23:20 — 162 mentions across 30 towns, 2014-09-04 to 2026-08-05._
+_Generated 2026-09-10T16:21:15 — 162 mentions across 30 towns, 2014-09-04 to 2026-08-05._
 
 
 Software that attempts to identify individuals by matching face images against a database.

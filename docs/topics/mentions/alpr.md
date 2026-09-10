@@ -1,6 +1,6 @@
 # ALPR / Flock: every mention, every town
 
-_Generated 2026-09-10T14:20:58 — 2,047 mentions across 79 towns, 2013-07-24 to 2026-09-14._
+_Generated 2026-09-10T16:20:07 — 2,047 mentions across 79 towns, 2013-07-24 to 2026-09-14._
 
 
 Automated licence-plate readers — cameras that photograph every passing vehicle, read its plate, and log the time and place. Flock Safety is the dominant vendor in Connecticut.
@@ -238,7 +238,7 @@ _163 further mentions in Berlin not shown here — all of them are in [Berlin's 
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=687s)  _(term: `alpr_flock`)_
 
 - **[2026-08-03] Board of Aldermen** — Board Of Aldermen 08/03/2026
-  > …Hey, how you doing? Uh my name is Tristan Howard, 75 Peak Avenue. Uh, I am here because I'm against the flock ALRP program currently running in the city. I've raised this issue before at…
+  > …Hey, how you doing? Uh my name is Tristan Howard, [address redacted] Uh, I am here because I'm against the flock ALRP program currently running in the city. I've raised this issue before at…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=920s)  _(term: `alpr_flock`)_
 
 - **[2026-08-03] Board of Aldermen** — Board Of Aldermen 08/03/2026

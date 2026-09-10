@@ -571,7 +571,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=132s)  > ...tonight because when I was visiting my son Jesse in Manhattan, he pointed out the flock cameras to me and we pulled up the website and saw where they are in East Lime. Shortly thereafter, I noticed...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=167s)  > ...>> Good evening. My name is Alex Manoring, 20 Old Blackpoint Road, and I would also like to speak on the topic of the flock safety cameras. I understand these cameras can be a very useful...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=167s)  > ...>> Good evening. My name is Alex Manoring, [address redacted], and I would also like to speak on the topic of the flock safety cameras. I understand these cameras can be a very useful...
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=188s)  > ...the country, there have been numerous documented cases of officers improperly accessing license plate reader systems for personal reasons outside of the scope of legitimate investigations. So,...
 
@@ -1063,7 +1063,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=505s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...>> Good evening. My name is Alex Manoring, 20 Old Blackpoint Road, and I would also like to speak on the topic of the flock safety cameras. I understand these cameras can be a very useful...
+  > ...>> Good evening. My name is Alex Manoring, [address redacted], and I would also like to speak on the topic of the flock safety cameras. I understand these cameras can be a very useful...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=167s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
@@ -2266,5 +2266,5 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ---
 
 
-_Generated 2026-09-10T14:02:07 from East Lyme's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-10T16:04:38 from East Lyme's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 
