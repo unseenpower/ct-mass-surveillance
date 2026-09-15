@@ -89,3 +89,42 @@ non-main branch, do not assume it is stale: check file mtimes and the
 `ListAgents` peer-session list first — it may be live work, or a promote in
 progress. A worktree here needs its pseudonymous identity set explicitly; see
 above.
+
+---
+
+## Guardrails (shared across all of Scott's repos)
+
+@~/life_os/.claude/protected/GUARDRAILS.md
+
+The guardrails above are imported, not summarised, and they bind work in this
+repo exactly as they do in `~/life_os`. Before 2026-09-15 they applied only to
+`life_os` by convention — and even there nothing actually loaded them.
+
+**Enforcement is not on the honour system.** `~/life_os/scripts/guardrails/`
+registers `PreToolUse` hooks in `~/.claude/settings.json`, so the gate runs in
+this repo too:
+
+- **Hard-blocked**, always: piping a downloaded script straight into a shell,
+  force-push (including `--force-with-lease`), `git reset --hard` or any
+  history rewrite, `gh repo delete`, recursive deletes aimed at a protected
+  path, and Microsoft Edge in any mode.
+- **Gated** until an independent review is recorded: containers and compose
+  files, systemd units, host and network config, software installs,
+  `tailscale serve` / `funnel`, and any change to an agent definition, a slash
+  command, or Claude Code settings.
+
+When the gate denies you, launch the **`deploy-reviewer`** subagent, then
+record its verdict:
+
+```
+~/life_os/scripts/guardrails/guardrails approve <rule> <target> \
+    --verdict 'SAFE TO RUN' --by deploy-reviewer
+```
+
+Do not reword a blocked command to slip past the pattern, and **never approve
+your own work** — that invariant is what the whole layer rests on. If you are
+stuck, say so and let Scott decide.
+
+The **`log-auditor`** subagent reviews the audit trail itself on a weekly
+cadence. `~/life_os/scripts/guardrails/guardrails report` shows what the gate
+has seen.
