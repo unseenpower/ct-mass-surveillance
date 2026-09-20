@@ -1,0 +1,35 @@
+name: Commit identity
+
+# This repository is public and its commits are pseudonymous. That identity is
+# set only in each checkout's local git config, which a clone does not inherit,
+# so nothing stops a fresh clone, a worktree made with --no-local-config, CI,
+# or an agent session from committing under a real name.
+#
+# .githooks/pre-commit catches it before the commit exists, but only in a
+# checkout where someone remembered to set core.hooksPath. This job is the
+# backstop that does not depend on anyone having done that: it inspects what
+# was actually pushed.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: Commits are pseudonymous
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Need history, not just the tip, to walk the pushed range.
+          fetch-depth: 0
+
+      - name: Check author and committer identity on new commits
+        env:
+          BASE_SHA: ${{ github.event_name == 'pull_request' && github.event.pull_request.base.sha || github.event.before }}
+          HEAD_SHA: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || github.sha }}
+        run: ./scripts/check-commit-identity.sh "$BASE_SHA" "$HEAD_SHA"

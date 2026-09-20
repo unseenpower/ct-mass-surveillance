@@ -121,4 +121,19 @@ given town's numbers should be expected to grow over time.
 - Rendered view: `https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/<town>/<file>`
 - Raw content: `https://raw.githubusercontent.com/unseenpower/ct-mass-surveillance/main/docs/towns/<town>/<file>`
 
+## Committing to this repo
 
+Commits here are pseudonymous. That identity lives in each checkout's local
+git config, which a clone does not inherit, so set it once per checkout —
+before the first commit, because an author line cannot be corrected after a
+public push:
+
+```bash
+git config --local user.name  "Shoot the Singer (1 Sick Verse)"
+git config --local user.email "unseenpower@users.noreply.github.com"
+git config --local core.hooksPath .githooks
+```
+
+The last line enables a `pre-commit` hook that refuses to build a commit under
+any other identity. CI re-checks every pushed commit regardless, in case a
+checkout skipped this.
