@@ -882,7 +882,7 @@ _53 further mentions in Old Saybrook not shown here — all of them are in [Old 
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bevKccEFfC8&t=364s)  _(term: `drone`)_
 
 - **[2026-03-18] Board of Selectmen** — East Lyme, CT Board of Selectmen 03/18/2026
-  > …>> Appreciate it. >> And next is Kathy. Hi. Um Kathy UAS, 12 Lake Avenue Extension here in Niantic. Uh good evening and thank you for the…
+  > …>> Appreciate it. >> And next is Kathy. Hi. Um Kathy UAS, [address redacted] Extension here in Niantic. Uh good evening and thank you for the…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vtn8wWVXhgI&t=3187s)  _(term: `drone`)_
 
 - **[2026-03-11] Board of Finance** — East Lyme, CT Board of Finance 03/11/2026

@@ -94,7 +94,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3282s)  > ...resident went to have a medical procedure in another state, he can log into the flock cameras and see where it is. And there's there's just it's very there's a lot of big brother to it....
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3314s)  > ...sales rep version of of why it's good. >> Okay. Yes. >> View 59 Leah Avenue. Regarding the flock cameras, are they be do they want to be installed for a specific purpose like...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3314s)  > ...sales rep version of of why it's good. >> Okay. Yes. >> View [address redacted]. Regarding the flock cameras, are they be do they want to be installed for a specific purpose like...
 
 
 ## Findings by topic
@@ -108,7 +108,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### alpr
 
 - **[2025-11-26] Board of Selectmen** -- Regular BOS Meeting
-  > ...sales rep version of of why it's good. >> Okay. Yes. >> View 59 Leah Avenue. Regarding the flock cameras, are they be do they want to be installed for a specific purpose like...
+  > ...sales rep version of of why it's good. >> Okay. Yes. >> View [address redacted]. Regarding the flock cameras, are they be do they want to be installed for a specific purpose like...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3314s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-26] Board of Selectmen** -- Regular BOS Meeting

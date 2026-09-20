@@ -533,7 +533,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **East Lyme, CT Board of Selectmen 03/18/2026** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=vtn8wWVXhgI&t=3187s)  > ...>> Appreciate it. >> And next is Kathy. Hi. Um Kathy UAS, 12 Lake Avenue Extension here in Niantic. Uh good evening and thank you for the...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=vtn8wWVXhgI&t=3187s)  > ...>> Appreciate it. >> And next is Kathy. Hi. Um Kathy UAS, [address redacted] Extension here in Niantic. Uh good evening and thank you for the...
 
 
 ### 2026-04-01 -- Board of Selectmen
@@ -1420,7 +1420,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bevKccEFfC8&t=364s)  _(term: drone, unreviewed)_
 
 - **[2026-03-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen 03/18/2026
-  > ...>> Appreciate it. >> And next is Kathy. Hi. Um Kathy UAS, 12 Lake Avenue Extension here in Niantic. Uh good evening and thank you for the...
+  > ...>> Appreciate it. >> And next is Kathy. Hi. Um Kathy UAS, [address redacted] Extension here in Niantic. Uh good evening and thank you for the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vtn8wWVXhgI&t=3187s)  _(term: drone, unreviewed)_
 
 - **[2026-03-11] Board of Finance** -- East Lyme, CT Board of Finance 03/11/2026
@@ -1738,7 +1738,7 @@ like to see signs alerting people that the rocks are wet and slippery, Ms. Booth
 she is in favor of the Flock cameras because of catching bad guys and for assisting in Amber
 Alerts.
 
-Jaime Barr Shelburn, 31 McElaney Drive, Niantic, spoke against the Town using Cannabis funds
+Jaime Barr Shelburn, [address redacted], Niantic, spoke against the Town using Cannabis funds
 for anything accept Youth Fa...
   [View document ▸](https://eltownhall.com/wp-content/uploads/2026/09/BOS-September-2-2026-Minutes.pdf)  _(term: alpr_flock, unreviewed)_
 

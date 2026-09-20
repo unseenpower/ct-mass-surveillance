@@ -562,7 +562,7 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
 ### Killingworth — 1 mention
 
 - **[2026-07-20] Zoning Board of Appeals** — Zoning Board of Appeals 7-20-2026
-  > …enforcement officer made an error in issuing the permit to allow this home foundry at 45 Stevens Road. >> you're alleging that the reason that…
+  > …enforcement officer made an error in issuing the permit to allow this home foundry at [address redacted]. >> you're alleging that the reason that…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1eijh7OUR_0&t=1622s)  _(term: `predictive_policing`)_
 
 

@@ -189,7 +189,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Town Council 7-8-25** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rdRz7he4qh4&t=5109s)  > ...And as Mr. Rosenblad is speaking. We're going to have some videos on screen, I believe, of drone footage, Mr. Martelli. Okay. Um, Greg Rosenblat, 110 Bellamy Road. I'm...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rdRz7he4qh4&t=5109s)  > ...And as Mr. Rosenblad is speaking. We're going to have some videos on screen, I believe, of drone footage, Mr. Martelli. Okay. Um, Greg Rosenblat, [address redacted]. I'm...
 
 
 ### 2025-07-24 -- Next Generation School Building Committee
@@ -568,7 +568,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zg9phkPYCng&t=598s)  _(term: drone, unreviewed)_
 
 - **[2025-07-08] Town Council** -- Town Council 7-8-25
-  > ...And as Mr. Rosenblad is speaking. We're going to have some videos on screen, I believe, of drone footage, Mr. Martelli. Okay. Um, Greg Rosenblat, 110 Bellamy Road. I'm...
+  > ...And as Mr. Rosenblad is speaking. We're going to have some videos on screen, I believe, of drone footage, Mr. Martelli. Okay. Um, Greg Rosenblat, [address redacted]. I'm...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rdRz7he4qh4&t=5109s)  _(term: drone, unreviewed)_
 
 - **[2025-04-24] Next Generation School Building Committee** -- Next Generation School Building Committee 4-24-25

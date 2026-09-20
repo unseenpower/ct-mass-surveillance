@@ -92,7 +92,7 @@ _48 mention(s) across 10 town(s) — the genuinely current slice._
 ### [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
 
 - **[2026-09-14] Board of Aldermen** — Board of Aldermen Agenda - 2026-09-14
-  > …oke in favor of the community block grant funding and asked for the Board's approval. D. Rhea, 18 Pearl Street, spoke regarding golf carts on streets and low speed vehicles. She also spoke regarding Flock cameras. 1 B. Baxter, 56 Bray Avenue, spoke regarding Board of Assessment Appeals and ADA coordinator. P. Patrikios…
+  > …oke in favor of the community block grant funding and asked for the Board's approval. D. Rhea, [address redacted], spoke regarding golf carts on streets and low speed vehicles. She also spoke regarding Flock cameras. 1 B. Baxter, [address redacted], spoke regarding Board of Assessment Appeals and ADA coordinator. P. Patrikios…
   [Open document ▸](https://www.milfordct.us/AgendaCenter/ViewFile/Agenda/_09142026-2008)  _(agenda/minutes · term: `alpr_flock`)_
 
 

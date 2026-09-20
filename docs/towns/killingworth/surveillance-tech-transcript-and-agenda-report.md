@@ -212,7 +212,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 **Zoning Board of Appeals 7-20-2026** _(topics: predictive_policing)_
 
-- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=1eijh7OUR_0&t=1622s)  > ...enforcement officer made an error in issuing the permit to allow this home foundry at 45 Stevens Road. >> you're alleging that the reason that...
+- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=1eijh7OUR_0&t=1622s)  > ...enforcement officer made an error in issuing the permit to allow this home foundry at [address redacted]. >> you're alleging that the reason that...
 
 
 ### 2026-07-27 -- Board of Selectmen
@@ -393,7 +393,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### predictive_policing
 
 - **[2026-07-20] Zoning Board of Appeals** -- Zoning Board of Appeals 7-20-2026
-  > ...enforcement officer made an error in issuing the permit to allow this home foundry at 45 Stevens Road. >> you're alleging that the reason that...
+  > ...enforcement officer made an error in issuing the permit to allow this home foundry at [address redacted]. >> you're alleging that the reason that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1eijh7OUR_0&t=1622s)  _(term: predictive_policing, unreviewed)_
 
 

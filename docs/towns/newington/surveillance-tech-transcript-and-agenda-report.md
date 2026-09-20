@@ -889,7 +889,7 @@ For maximum detection capture       overview or a second ALPR. Remote     compli
 
 - **[2026-06-23] Mayor & Town Council** -- Town Council Minutes - 2026-06-23 (minutes)
   > ... agree with you.
-         •      Louis, 482 Churchill Drive (via Zooiii). Don't know what types ofcameras were set up, but
+         •      Louis, [address redacted] (via Zooiii). Don't know what types ofcameras were set up, but
                 there was a camera set up on Willard and Cedar. Maybe it's a flock camera, which I do not
                 support, they are not secure and are on Amazon's web services. Our cost of living is a
                 snowball ofeverything increasing. I know that there ...

@@ -222,7 +222,7 @@ _163 further mentions in Berlin not shown here — all of them are in [Berlin's 
 ### Milford — 169 mentions
 
 - **[2026-09-14] Board of Aldermen** — Board of Aldermen Agenda - 2026-09-14
-  > …oke in favor of the community block grant funding and asked for the Board's approval. D. Rhea, 18 Pearl Street, spoke regarding golf carts on streets and low speed vehicles. She also spoke regarding Flock cameras. 1 B. Baxter, 56 Bray Avenue, spoke regarding Board of Assessment Appeals and ADA coordinator. P. Patrikios, Dock Road, spoke regarding c…
+  > …oke in favor of the community block grant funding and asked for the Board's approval. D. Rhea, [address redacted], spoke regarding golf carts on streets and low speed vehicles. She also spoke regarding Flock cameras. 1 B. Baxter, [address redacted], spoke regarding Board of Assessment Appeals and ADA coordinator. P. Patrikios, Dock Road, spoke regarding c…
   [Open document ▸](https://www.milfordct.us/AgendaCenter/ViewFile/Agenda/_09142026-2008)  _(agenda/minutes · term: `alpr_flock`)_
 
 - **[2026-08-27] Board of Aldermen** — Board of Aldermen Minutes - 2026-08-27
@@ -1144,7 +1144,7 @@ _20 further mentions in Mansfield not shown here — all of them are in [Mansfie
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rMxKgRlNPiA&t=9425s)  _(term: `alpr_flock`)_
 
 - **[2026-06-23] Mayor & Town Council** — Town Council Minutes - 2026-06-23
-  > …agree with you. • Louis, 482 Churchill Drive (via Zooiii). Don't know what types ofcameras were set up, but there was a camera set up on Willard and Cedar. Maybe it's a flock camera, which I do not support, they are not secure and are on Amazon's web services. Our cost of living is a snowball ofeverything increasing. I know that there…
+  > …agree with you. • Louis, [address redacted] (via Zooiii). Don't know what types ofcameras were set up, but there was a camera set up on Willard and Cedar. Maybe it's a flock camera, which I do not support, they are not secure and are on Amazon's web services. Our cost of living is a snowball ofeverything increasing. I know that there…
   [Open document ▸](https://www.newingtonct.gov/AgendaCenter/ViewFile/Minutes/_06232026-3981)  _(agenda/minutes · term: `alpr_flock`)_
 
 - **[2026-01-13] Mayor & Town Council** — Town Council Agenda - 2026-01-13
@@ -1226,7 +1226,7 @@ _20 further mentions in Newington not shown here — all of them are in [Newingt
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=415s)  _(term: `alpr_flock`)_
 
 - **[2020-07-08] Board of Selectmen** — Board of Selectmen 20200707
-  > …is B 36 Emma Street and again it is the same recommendation from our tax payer Dana flock she is recommending that we abate the following delinquent real estate taxes for Grand list 2013 14 15…
+  > …is B [address redacted] and again it is the same recommendation from our tax payer Dana flock she is recommending that we abate the following delinquent real estate taxes for Grand list 2013 14 15…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=495s)  _(term: `alpr_flock`)_
 
 - **[2020-07-08] Board of Selectmen** — Board of Selectmen 20200707
@@ -1684,7 +1684,7 @@ _6 further mentions in Waterford not shown here — all of them are in [Waterfor
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PdkwBRhG7eM&t=749s)  _(term: `alpr_flock`)_
 
 - **[2026-09-08] Town Council** — Killingly Town Council Meeting - Sept 8, 2026
-  > …Chairman and council members. Diane Weber, 238 Mashtuk Road. Thank you for your time. I'd also like to wish Jonathan Blake every success and congratulations. So, as always, my…
+  > …Chairman and council members. Diane Weber, [address redacted]. Thank you for your time. I'd also like to wish Jonathan Blake every success and congratulations. So, as always, my…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PdkwBRhG7eM&t=769s)  _(term: `alpr_flock`)_
 
 - **[2026-09-08] Town Council** — Killingly Town Council Meeting - Sept 8, 2026
@@ -2138,7 +2138,7 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
 ### Windsor — 11 mentions
 
 - **[2026-07-06] Town Council** — Town Council Minutes - 2026-07-06
-  > …he July 10th event with constitutional scholar and author Michael Toth. 5) PUBLIC COMMUNICATIONS AND PETITIONS James Weingart, 20 Tiffany Drive (virtual), spoke in opposition of reactivating the Flock ALPR cameras. Dan Piper, 96 Capen Street (virtual), spoke in opposition of reactivating the Flock ALPR cameras. Regular Town Council meeting July 6, 2026…
+  > …he July 10th event with constitutional scholar and author Michael Toth. 5) PUBLIC COMMUNICATIONS AND PETITIONS James Weingart, [address redacted] (virtual), spoke in opposition of reactivating the Flock ALPR cameras. Dan Piper, [address redacted] (virtual), spoke in opposition of reactivating the Flock ALPR cameras. Regular Town Council meeting July 6, 2026…
   [Open document ▸](https://www.windsorct.gov/AgendaCenter/ViewFile/Minutes/_07062026-1273)  _(agenda/minutes · term: `alpr_flock`)_
 
 - **[2026-05-20] Board of Education** — Board of Education Regular Meeting May 2026
@@ -2154,7 +2154,7 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   [Open document ▸](https://www.windsorct.gov/AgendaCenter/ViewFile/Minutes/_04202026-1468)  _(agenda/minutes · term: `alpr_flock`)_
 
 - **[2026-02-17] Town Council** — Town Council Minutes - 2026-02-17
-  > …TIONS AND AWARDS - None 5) PUBLIC COMMUNICATIONS AND PETITIONS Deacon Art Miller, 24 Meadowlark Drive, a 30-year resident of Windsor and 2021 Windsor Citizen of the Year, expressed concern about Flock cameras (automated license plate readers) that have been operating in Windsor since 2022. He stated they were installed without knowledge or consent of most residents and without council approva…
+  > …TIONS AND AWARDS - None 5) PUBLIC COMMUNICATIONS AND PETITIONS Deacon Art Miller, [address redacted], a 30-year resident of Windsor and 2021 Windsor Citizen of the Year, expressed concern about Flock cameras (automated license plate readers) that have been operating in Windsor since 2022. He stated they were installed without knowledge or consent of most residents and without council approva…
   [Open document ▸](https://www.windsorct.gov/AgendaCenter/ViewFile/Minutes/_02172026-1433)  _(agenda/minutes · term: `alpr_flock`)_
 
 - **[2026-01-05] Town Council** — Town Council Minutes - 2026-01-05
@@ -2759,7 +2759,7 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3282s)  _(term: `alpr_flock`)_
 
 - **[2025-11-26] Board of Selectmen** — Regular BOS Meeting
-  > …sales rep version of of why it's good. >> Okay. Yes. >> View 59 Leah Avenue. Regarding the flock cameras, are they be do they want to be installed for a specific purpose like…
+  > …sales rep version of of why it's good. >> Okay. Yes. >> View [address redacted]. Regarding the flock cameras, are they be do they want to be installed for a specific purpose like…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3314s)  _(term: `alpr_flock`)_
 
 

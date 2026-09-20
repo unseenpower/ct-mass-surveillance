@@ -765,7 +765,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9649s)  > ...30 days data is deleted. I'm sorry. There is no law you can cite federal, state, local, that makes flock adhere to a 30-day deletion of data. Again, does anybody here understand what...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9725s)  > ...357 Plains Road. Um, as a Milford resident, I have major concerns over the flock camera system. It creates a permanent record of where innocent people travel on a day-to-day basis, all...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9725s)  > ...[address redacted]. Um, as a Milford resident, I have major concerns over the flock camera system. It creates a permanent record of where innocent people travel on a day-to-day basis, all...
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9802s)  > ...rather than targeted investigations based on individualized suspicion. Please vote to remove the flock system. Thank you. [applause] >> Good evening. Uh my name is Mary Wargo....
 
@@ -955,7 +955,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=13028s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
-  > ...357 Plains Road. Um, as a Milford resident, I have major concerns over the flock camera system. It creates a permanent record of where innocent people travel on a day-to-day basis, all...
+  > ...[address redacted]. Um, as a Milford resident, I have major concerns over the flock camera system. It creates a permanent record of where innocent people travel on a day-to-day basis, all...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9725s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-03] Board of Aldermen** -- Board Of Aldermen 08/03/2026
@@ -2123,13 +2123,13 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...oke in favor of the community block grant funding and
 asked for the Board's approval.
 
-D. Rhea, 18 Pearl Street, spoke regarding golf carts on streets and low speed vehicles.
+D. Rhea, [address redacted], spoke regarding golf carts on streets and low speed vehicles.
 She also spoke regarding Flock cameras.
 
 
 
                                             1
-B. Baxter, 56 Bray Avenue, spoke regarding Board of Assessment Appeals and ADA
+B. Baxter, [address redacted], spoke regarding Board of Assessment Appeals and ADA
 coordinator.
 
 P. Patrikios, Dock Road, spoke regarding c...
@@ -2141,8 +2141,8 @@ P. Patrikios, Dock Road, spoke regarding c...
 L. Rodriquez, Executive Director of Milford Senior Center, read a prepared statement supporting the
 Milford Senior Center budget request.
 
-T. hlaller, 75 Peak Avenue, spoke against funding for Flock speed cameras and license plate readers.
-S. Bromley, 27 Norway Street, suggested holding the public hearing following all departmental budget
+T. hlaller, [address redacted], spoke against funding for Flock speed cameras and license plate readers.
+S. Bromley, [address redacted], suggested holding the public hearing following all departmental budget
 meetings and using a participatory budgeting process...
   [View document ▸](https://www.milfordct.us/AgendaCenter/ViewFile/Minutes/_02112026-1706)  _(term: alpr_flock, unreviewed)_
 
@@ -2175,13 +2175,13 @@ M. ...
   > ...oke in favor of the community block grant funding and
 asked for the Board's approval.
 
-D. Rhea, 18 Pearl Street, spoke regarding golf carts on streets and low speed vehicles.
+D. Rhea, [address redacted], spoke regarding golf carts on streets and low speed vehicles.
 She also spoke regarding Flock cameras.
 
 
 
                                             1
-B. Baxter, 56 Bray Avenue, spoke regarding Board of Assessment Appeals and ADA
+B. Baxter, [address redacted], spoke regarding Board of Assessment Appeals and ADA
 coordinator.
 
 P. Patrikios, Dock Road, spoke regarding c...

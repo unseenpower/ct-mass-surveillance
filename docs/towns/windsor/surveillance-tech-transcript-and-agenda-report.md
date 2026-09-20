@@ -298,7 +298,7 @@ Move to make a friendly amendment that the att...
 
 5)    PUBLIC COMMUNICATIONS AND PETITIONS
 
-Deacon Art Miller, 24 Meadowlark Drive, a 30-year resident of Windsor and 2021 Windsor
+Deacon Art Miller, [address redacted], a 30-year resident of Windsor and 2021 Windsor
 Citizen of the Year, expressed concern about Flock cameras (automated license plate
 readers) that have been operating in Windsor since 2022. He stated they were installed
 without knowledge or consent of most residents and without council approva...
@@ -318,10 +318,10 @@ author Michael Toth.
 
 5)    PUBLIC COMMUNICATIONS AND PETITIONS
 
-James Weingart, 20 Tiffany Drive (virtual), spoke in opposition of reactivating the Flock
+James Weingart, [address redacted] (virtual), spoke in opposition of reactivating the Flock
 ALPR cameras.
 
-Dan Piper, 96 Capen Street (virtual), spoke in opposition of reactivating the Flock ALPR
+Dan Piper, [address redacted] (virtual), spoke in opposition of reactivating the Flock ALPR
 cameras.
 Regular Town Council meeting
 July 6, 2026                                       ...
