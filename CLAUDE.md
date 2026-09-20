@@ -6,6 +6,10 @@ Everything here is world-readable the moment it is pushed, and merging to
 `main` publishes it to a live site. There is no staging step inside this repo —
 staging happens in the private `ct-mass-surveillance-drafts` repo.
 
+Treat this file the same way. It is committed to the public repo, so it must
+never name a person, a personal email, or anything else that is meant to stay
+private. Operational guidance only.
+
 ## Commit identity is pseudonymous, and nothing here enforces it
 
 Commits are authored as:
@@ -16,17 +20,17 @@ Shoot the Singer (1 Sick Verse) <unseenpower@users.noreply.github.com>
 
 That is set **only** in this checkout's local git config
 (`.git/config`), which is not part of the repository. It is not in any file,
-not a hook, and not inherited. The global identity on this machine is Scott's
-real name and personal email.
+not a hook, and not inherited.
 
-So: **a fresh `git clone` of this repo commits under Scott's real identity, in
-public, with no warning.** Nothing will stop it. Same for a worktree created
-with `--no-local-config`, or any CI that commits here.
+So: **a fresh `git clone` of this repo commits under whatever global git
+identity the machine happens to have, in public, with no warning.** Nothing
+will stop it. Same for a worktree created with `--no-local-config`, for any CI
+that commits here, and for an agent session working from its own checkout.
 
 Check before your first commit in a new checkout:
 
 ```bash
-git config user.name    # must be the pseudonym, not "Scott Gamester"
+git config user.name    # must be exactly the pseudonym below
 git config user.email   # must be unseenpower@users.noreply.github.com
 ```
 
@@ -52,11 +56,23 @@ changes. A change outside those paths (this file, for instance) does not
 publish anything.
 
 Content arrives through `ct-mass-surveillance-drafts/promote.sh`, which opens
-a **draft PR** here and never merges. Merging that PR is Scott's call, not an
-agent's. Do not merge a promote PR unless he has asked for it in that session.
+a **draft PR** here and never merges. Merging that PR is the maintainer's
+call, not an agent's. Do not merge a promote PR unless they have asked for it
+in that session.
 
 `promote.sh` also refuses to run against a dirty checkout here, so leave this
 directory clean.
+
+## Third-party names in `docs/` are source material, not personal data
+
+The transcripts, findings and reports under `docs/` quote people speaking on
+the record at public municipal meetings — officials, officers, vendors,
+residents. Those names are the substance of the project and are governed by
+the redaction policy in `docs/data/`. Do not bulk-scrub names from `docs/` to
+satisfy a privacy concern about the maintainer; a plain-text search for any
+common given name will match this source material, and stripping it corrupts
+the dataset. Personal-data concerns about the maintainer apply to repo
+scaffolding — this file, README, workflows — not to the record.
 
 ## Interactive HTML pages
 
@@ -80,29 +96,28 @@ promoting, or it will not render standalone.
 ## Concurrent-session safety
 
 Multiple Claude Code sessions work across the CT mass-surveillance repos at
-the same time — this is normal. This directory is a single shared checkout,
-not one-per-session.
+the same time — this is normal. The local working directory is a single shared
+checkout, not one-per-session.
 
-Before making a change here, isolate with `EnterWorktree` (unless your cwd is
-already under `.claude/worktrees/`). If you find this checkout dirty or on a
+Before making a change there, isolate with `EnterWorktree` (unless your cwd is
+already under `.claude/worktrees/`). If you find that checkout dirty or on a
 non-main branch, do not assume it is stale: check file mtimes and the
 `ListAgents` peer-session list first — it may be live work, or a promote in
-progress. A worktree here needs its pseudonymous identity set explicitly; see
-above.
+progress. A worktree needs its pseudonymous identity set explicitly; see above.
 
 ---
 
-## Guardrails (shared across all of Scott's repos)
+## Guardrails
 
 @~/life_os/.claude/protected/GUARDRAILS.md
 
 The guardrails above are imported, not summarised, and they bind work in this
-repo exactly as they do in `~/life_os`. Before 2026-09-15 they applied only to
-`life_os` by convention — and even there nothing actually loaded them.
+repo exactly as they do in the maintainer's other repos. The import resolves
+only in the maintainer's own environment; in a fresh clone elsewhere it is a
+no-op, so do not rely on the gate being present — apply the rules regardless.
 
-**Enforcement is not on the honour system.** `~/life_os/scripts/guardrails/`
-registers `PreToolUse` hooks in `~/.claude/settings.json`, so the gate runs in
-this repo too:
+**Enforcement is not on the honour system.** A `PreToolUse` hook registers the
+gate, so it runs in this repo too:
 
 - **Hard-blocked**, always: piping a downloaded script straight into a shell,
   force-push (including `--force-with-lease`), `git reset --hard` or any
@@ -114,17 +129,12 @@ this repo too:
   command, or Claude Code settings.
 
 When the gate denies you, launch the **`deploy-reviewer`** subagent, then
-record its verdict:
-
-```
-~/life_os/scripts/guardrails/guardrails approve <rule> <target> \
-    --verdict 'SAFE TO RUN' --by deploy-reviewer
-```
+record its verdict with the `guardrails approve` command, citing
+`--by deploy-reviewer`.
 
 Do not reword a blocked command to slip past the pattern, and **never approve
 your own work** — that invariant is what the whole layer rests on. If you are
-stuck, say so and let Scott decide.
+stuck, say so and let the maintainer decide.
 
 The **`log-auditor`** subagent reviews the audit trail itself on a weekly
-cadence. `~/life_os/scripts/guardrails/guardrails report` shows what the gate
-has seen.
+cadence; `guardrails report` shows what the gate has seen.
