@@ -1,40 +1,22 @@
 # Mass surveillance in Connecticut
 
-<p class="glance-headline">When a Connecticut police officer looks up a licence plate on Flock, the search doesn't stay in town. One query can sweep <strong>hundreds or thousands of camera networks at once</strong>, and the cameras on your street are searched by <strong>thousands of agencies across the country</strong>.</p>
+<figure class="map-gif">
+<a href="analysis/who-searches-ct-map.html" aria-label="Open the interactive map: who searches Connecticut's plate-reader cameras">
+<picture>
+<source media="(prefers-reduced-motion: reduce)" srcset="analysis/who-searches-ct-poster.png">
+<img src="analysis/who-searches-ct.gif" width="1000" height="562" fetchpriority="high" alt="An animated map rings outward from six Connecticut towns: the towns themselves (0.9% of searches of their cameras), their neighbours, all of Connecticut (3.46%), New York and New England intelligence centres, every regional centre, then every department in the country (100%). Each step shows a quote from a Connecticut police official or Flock representative saying the data is the town's to control and is audited. The last frame: only 3.46% of 12,895,873 searches were run by any Connecticut agency.">
+</picture>
+</a>
+<figcaption>What officials told the public, against who actually searched. <a href="analysis/who-searches-ct-map.html">Step through the interactive map →</a></figcaption>
+</figure>
 
-Six Connecticut towns have released their Flock audit logs. Between them they
-record **12,895,873 licence-plate searches** of Connecticut cameras — and only
-about **3.4% were run by Connecticut agencies**.
-
-This site puts that record in one place: what each Connecticut police
+This site puts the record in one place: what each Connecticut police
 department searched, and what each town's officials have said about
 surveillance technology in their own public meetings. Every figure links back
 to its source — a released audit log, or the exact second of a meeting video —
 so you can check it yourself.
 
 **Want to do something about it?** See [flockoff.io](https://flockoff.io).
-
-<div class="card-pair" markdown>
-
-[![Police departments ran 12,895,873 searches of Connecticut cameras. 5,647
-separate agencies ran them, the average search reached 4,730 camera networks,
-covering 2023-01 to 2026-08.](analysis/every-search-summary.svg)](analysis/towns/index.md)
-
-[![Who searches Connecticut's plate cameras: only 3.4% of 12.9 million searches
-came from Connecticut agencies. A tile map of the United States with Connecticut
-in red and other states shaded by how much they searched.](analysis/who-searches-ct.svg)](analysis/towns/index.md)
-
-</div>
-
-<figure class="map-gif">
-<a href="analysis/who-searches-ct-map.html" aria-label="Open the interactive map: who searches Connecticut's plate-reader cameras">
-<picture>
-<source media="(prefers-reduced-motion: reduce)" srcset="analysis/who-searches-ct-poster.png">
-<img src="analysis/who-searches-ct.gif" width="1000" height="562" loading="lazy" alt="An animated map rings outward from six Connecticut towns: the towns themselves (0.9% of searches of their cameras), their neighbours, all of Connecticut (3.46%), New York and New England intelligence centres, every regional centre, then every department in the country (100%). Each step shows a quote from a Connecticut police official or Flock representative saying the data is the town's to control and is audited. The last frame: only 3.46% of 12,895,873 searches were run by any Connecticut agency.">
-</picture>
-</a>
-<figcaption>What officials told the public, against who actually searched. <a href="analysis/who-searches-ct-map.html">Step through the interactive map →</a></figcaption>
-</figure>
 
 [Look at your town's police searches →](analysis/towns/index.md){ .md-button .md-button--primary }
 [Find your town in the matrix](cross-town-matrix.md){ .md-button }
