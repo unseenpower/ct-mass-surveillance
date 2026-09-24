@@ -9,7 +9,7 @@
 (function () {
   if (window.__dashModal) return;          // instant navigation re-runs nothing,
   window.__dashModal = true;               // but be safe if it ever does
-  var DASH = /-alpr-searches\.html(?:#.*)?$/;
+  var DASH = /(?:-alpr-searches|who-searches-ct-map)\.html(?:#.*)?$/;
 
   function close(box, opener) {
     box.remove();
@@ -55,6 +55,7 @@
   function titleFor(a) {
     var name = a.querySelector(".tc-name");
     if (name) return name.textContent.trim() + " — search dashboard";
+    if (/who-searches-ct-map/.test(a.getAttribute("href"))) return "Who searches Connecticut's plate-reader cameras?";
     var t = (a.textContent || "").replace(/\s+/g, " ").trim();
     return t.length > 3 && t.length < 90 ? t : "Search dashboard";
   }

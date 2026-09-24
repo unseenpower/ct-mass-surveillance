@@ -26,6 +26,16 @@ in red and other states shaded by how much they searched.](analysis/who-searches
 
 </div>
 
+<figure class="map-gif">
+<a href="analysis/who-searches-ct-map.html" aria-label="Open the interactive map: who searches Connecticut's plate-reader cameras">
+<picture>
+<source media="(prefers-reduced-motion: reduce)" srcset="analysis/who-searches-ct-poster.png">
+<img src="analysis/who-searches-ct.gif" width="1000" height="562" loading="lazy" alt="An animated map rings outward from six Connecticut towns: the towns themselves (0.9% of searches of their cameras), their neighbours, all of Connecticut (3.46%), New York and New England intelligence centres, every regional centre, then every department in the country (100%). Each step shows a quote from a Connecticut police official or Flock representative saying the data is the town's to control and is audited. The last frame: only 3.46% of 12,895,873 searches were run by any Connecticut agency.">
+</picture>
+</a>
+<figcaption>What officials told the public, against who actually searched. <a href="analysis/who-searches-ct-map.html">Step through the interactive map →</a></figcaption>
+</figure>
+
 [Look at your town's police searches →](analysis/towns/index.md){ .md-button .md-button--primary }
 [Find your town in the matrix](cross-town-matrix.md){ .md-button }
 

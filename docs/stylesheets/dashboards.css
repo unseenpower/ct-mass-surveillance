@@ -128,3 +128,9 @@ html.dash-modal-open { overflow: hidden; }
 .md-typeset .card-pair img { max-width: 100%; height: auto; }
 .md-typeset .town-card.soon { border-style: dashed; opacity: .75; }
 .md-typeset .town-card.soon .tc-big { color: var(--md-default-fg-color--light); }
+
+/* Landing page: the animated "who searches" map, opening the interactive in the modal */
+.md-typeset .map-gif { margin: 1.2em 0 0; }
+.md-typeset .map-gif a { display: block; }
+.md-typeset .map-gif img { display: block; width: 100%; height: auto; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 4px; }
+.md-typeset .map-gif figcaption { font-size: .8rem; color: var(--md-default-fg-color--light); margin: .5em 0 0; max-width: none; text-align: left; }
