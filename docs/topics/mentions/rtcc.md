@@ -23,13 +23,13 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **22** | 5 | 13 | 91% | 2021-11-23 | 2026-05-19 |
-| [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **21** | · | 12 | 86% | 2022-06-02 | 2026-07-23 |
-| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 4 | 98% | 2023-11-15 | 2026-04-07 |
-| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 95% | 2024-04-16 | 2024-10-10 |
-| [Bridgeport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 1 | 90% | 2026-05-02 | 2026-05-02 |
-| [Danbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 16% | 2026-03-03 | 2026-03-03 |
-| [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 93% | 2026-03-31 | 2026-03-31 |
+| [New Haven](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **22** | 5 | 13 | 91% | 2021-11-23 | 2026-05-19 |
+| [Waterbury](../../towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **21** | · | 12 | 86% | 2022-06-02 | 2026-07-23 |
+| [Fairfield](../../towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 4 | 98% | 2023-11-15 | 2026-04-07 |
+| [Hartford](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 95% | 2024-04-16 | 2024-10-10 |
+| [Bridgeport](../../towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 1 | 90% | 2026-05-02 | 2026-05-02 |
+| [Danbury](../../towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 16% | 2026-03-03 | 2026-03-03 |
+| [West Hartford](../../towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 93% | 2026-03-31 | 2026-03-31 |
 
 ## Receipts
 
@@ -87,7 +87,7 @@ _Most recent first within each town. Every line links to the exact second of the
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_Hn2ASL8BR0&t=2588s)  _(term: `rtcc`)_
 
 
-_10 further mentions in New Haven not shown here — all of them are in [New Haven's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)._
+_10 further mentions in New Haven not shown here — all of them are in [New Haven's full report](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Waterbury — 21 mentions
@@ -141,7 +141,7 @@ _10 further mentions in New Haven not shown here — all of them are in [New Hav
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TYt7tdsi9Fc&t=6777s)  _(term: `rtcc`)_
 
 
-_9 further mentions in Waterbury not shown here — all of them are in [Waterbury's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md)._
+_9 further mentions in Waterbury not shown here — all of them are in [Waterbury's full report](../../towns/waterbury/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Fairfield — 6 mentions

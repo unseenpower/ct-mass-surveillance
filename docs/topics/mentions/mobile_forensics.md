@@ -20,7 +20,7 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 32% | 2020-09-23 | 2021-10-13 |
+| [New Britain](../../towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 32% | 2020-09-23 | 2021-10-13 |
 
 ## Receipts
 

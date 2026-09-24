@@ -20,7 +20,7 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **8** | 8 | 8 | 91% | 2014-06-11 | 2017-06-05 |
+| [New Haven](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **8** | 8 | 8 | 91% | 2014-06-11 | 2017-06-05 |
 
 ## Receipts
 

@@ -23,21 +23,21 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 78% | 2024-02-21 | 2026-08-17 |
-| [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 94% | 2020-10-08 | 2023-10-12 |
-| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 82% | 2021-06-22 | 2023-05-16 |
-| [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 98% | 2025-08-26 | 2026-08-13 |
-| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2022-08-16 | 2026-04-12 |
-| [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2022-04-25 | 2022-06-06 |
-| [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 98% | 2023-04-13 | 2023-04-13 |
-| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 95% | 2020-11-12 | 2020-11-12 |
-| [Kent](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 74% | 2024-07-10 | 2024-07-10 |
-| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 84% | 2026-01-22 | 2026-01-22 |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 91% | 2021-06-02 | 2021-06-02 |
-| [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 73% | 2024-09-18 | 2024-09-18 |
-| [Plainville](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainville/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 72% | 2020-03-12 | 2020-03-12 |
-| [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 90% | 2023-08-15 | 2023-08-15 |
-| [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 69% | 2025-06-23 | 2025-06-23 |
+| [Berlin](../../towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 78% | 2024-02-21 | 2026-08-17 |
+| [Brookfield](../../towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 94% | 2020-10-08 | 2023-10-12 |
+| [Darien](../../towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 82% | 2021-06-22 | 2023-05-16 |
+| [Orange](../../towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 98% | 2025-08-26 | 2026-08-13 |
+| [Hartford](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2022-08-16 | 2026-04-12 |
+| [Milford](../../towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2022-04-25 | 2022-06-06 |
+| [Norwalk](../../towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 98% | 2023-04-13 | 2023-04-13 |
+| [East Lyme](../../towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 95% | 2020-11-12 | 2020-11-12 |
+| [Kent](../../towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 74% | 2024-07-10 | 2024-07-10 |
+| [New Canaan](../../towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 84% | 2026-01-22 | 2026-01-22 |
+| [New Haven](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 91% | 2021-06-02 | 2021-06-02 |
+| [Newington](../../towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 73% | 2024-09-18 | 2024-09-18 |
+| [Plainville](../../towns/plainville/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 72% | 2020-03-12 | 2020-03-12 |
+| [Wallingford](../../towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 90% | 2023-08-15 | 2023-08-15 |
+| [Westport](../../towns/westport/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 69% | 2025-06-23 | 2025-06-23 |
 
 ## Receipts
 

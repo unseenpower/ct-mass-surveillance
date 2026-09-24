@@ -20,7 +20,7 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 95% | 2020-06-03 | 2020-06-10 |
+| [East Lyme](../../towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 95% | 2020-06-03 | 2020-06-10 |
 
 ## Receipts
 

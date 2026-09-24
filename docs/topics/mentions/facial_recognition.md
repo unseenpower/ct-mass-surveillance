@@ -23,36 +23,36 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **79** | · | 10 | 95% | 2022-06-13 | 2023-03-21 |
+| [Hartford](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **79** | · | 10 | 95% | 2022-06-13 | 2023-03-21 |
 | Stamford ⁽ⁿᵖ⁾ | **10** | · | 3 | 11% | 2014-09-04 | 2015-05-14 |
-| [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 2 | 76% | 2023-08-08 | 2026-04-14 |
-| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 4 | 98% | 2023-03-09 | 2024-03-13 |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **6** | 1 | 3 | 91% | 2021-11-08 | 2022-09-21 |
-| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 82% | 2022-01-25 | 2026-01-21 |
-| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 84% | 2022-03-24 | 2025-09-17 |
-| [East Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hartford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 100% | 2025-04-23 | 2025-09-02 |
-| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 46% | 2026-02-05 | 2026-06-04 |
-| [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 95% | 2022-04-25 | 2026-08-03 |
-| [New Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 44% | 2023-03-13 | 2026-02-09 |
-| [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 93% | 2024-11-14 | 2026-08-04 |
-| [Bethany](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 70% | 2026-05-06 | 2026-05-06 |
-| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2026-05-18 | 2026-08-05 |
-| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 82% | 2023-03-13 | 2023-03-13 |
-| [Kent](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 74% | 2022-07-21 | 2024-09-25 |
-| [Naugatuck](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 58% | 2022-02-10 | 2022-02-10 |
-| [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 78% | 2026-05-15 | 2026-05-15 |
-| [East Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2024-05-28 | 2024-05-28 |
-| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 82% | 2025-11-05 | 2025-11-05 |
-| [Killingly](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 64% | 2026-02-10 | 2026-02-10 |
-| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 44% | 2022-03-09 | 2022-03-09 |
+| [Bristol](../../towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 2 | 76% | 2023-08-08 | 2026-04-14 |
+| [Fairfield](../../towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 4 | 98% | 2023-03-09 | 2024-03-13 |
+| [New Haven](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **6** | 1 | 3 | 91% | 2021-11-08 | 2022-09-21 |
+| [Darien](../../towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 82% | 2022-01-25 | 2026-01-21 |
+| [New Canaan](../../towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 84% | 2022-03-24 | 2025-09-17 |
+| [East Hartford](../../towns/east-hartford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 100% | 2025-04-23 | 2025-09-02 |
+| [East Windsor](../../towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 46% | 2026-02-05 | 2026-06-04 |
+| [Milford](../../towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 95% | 2022-04-25 | 2026-08-03 |
+| [New Milford](../../towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 44% | 2023-03-13 | 2026-02-09 |
+| [West Hartford](../../towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 93% | 2024-11-14 | 2026-08-04 |
+| [Bethany](../../towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 70% | 2026-05-06 | 2026-05-06 |
+| [East Lyme](../../towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2026-05-18 | 2026-08-05 |
+| [Groton](../../towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 82% | 2023-03-13 | 2023-03-13 |
+| [Kent](../../towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 74% | 2022-07-21 | 2024-09-25 |
+| [Naugatuck](../../towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 58% | 2022-02-10 | 2022-02-10 |
+| [Berlin](../../towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 78% | 2026-05-15 | 2026-05-15 |
+| [East Granby](../../towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2024-05-28 | 2024-05-28 |
+| [East Haddam](../../towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 82% | 2025-11-05 | 2025-11-05 |
+| [Killingly](../../towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 64% | 2026-02-10 | 2026-02-10 |
+| [Ledyard](../../towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 44% | 2022-03-09 | 2022-03-09 |
 | Middletown ⁽ⁿᵖ⁾ | **1** | · | 1 | 19% | 2026-07-20 | 2026-07-20 |
-| [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 32% | 2021-10-04 | 2021-10-04 |
-| [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 73% | 2022-08-22 | 2022-08-22 |
-| [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 71% | 2019-10-01 | 2019-10-01 |
-| [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 23% | 2025-09-29 | 2025-09-29 |
-| [Rocky Hill](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 47% | 2026-04-06 | 2026-04-06 |
-| [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2023-07-10 | 2023-07-10 |
-| [Suffield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/suffield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 90% | 2026-06-09 | 2026-06-09 |
+| [New Britain](../../towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 32% | 2021-10-04 | 2021-10-04 |
+| [Newington](../../towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 73% | 2022-08-22 | 2022-08-22 |
+| [North Branford](../../towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 71% | 2019-10-01 | 2019-10-01 |
+| [North Haven](../../towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 23% | 2025-09-29 | 2025-09-29 |
+| [Rocky Hill](../../towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 47% | 2026-04-06 | 2026-04-06 |
+| [Southington](../../towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2023-07-10 | 2023-07-10 |
+| [Suffield](../../towns/suffield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 90% | 2026-06-09 | 2026-06-09 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -113,7 +113,7 @@ _Most recent first within each town. Every line links to the exact second of the
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=136s)  _(term: `facial_recognition`)_
 
 
-_67 further mentions in Hartford not shown here — all of them are in [Hartford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md)._
+_67 further mentions in Hartford not shown here — all of them are in [Hartford's full report](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Stamford — 10 mentions

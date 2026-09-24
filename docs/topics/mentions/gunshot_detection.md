@@ -23,9 +23,9 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **67** | 20 | 27 | 91% | 2015-04-21 | 2026-07-06 |
-| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 2 | 95% | 2019-05-07 | 2024-04-16 |
-| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 95% | 2026-08-05 | 2026-08-05 |
+| [New Haven](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **67** | 20 | 27 | 91% | 2015-04-21 | 2026-07-06 |
+| [Hartford](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 2 | 95% | 2019-05-07 | 2024-04-16 |
+| [East Lyme](../../towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 95% | 2026-08-05 | 2026-08-05 |
 | Middletown ⁽ⁿᵖ⁾ | **1** | · | 1 | 19% | 2026-07-20 | 2026-07-20 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
@@ -87,7 +87,7 @@ _Most recent first within each town. Every line links to the exact second of the
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=wDg9WCWvuqI&t=775s)  _(term: `gunshot_detection`)_
 
 
-_55 further mentions in New Haven not shown here — all of them are in [New Haven's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)._
+_55 further mentions in New Haven not shown here — all of them are in [New Haven's full report](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Hartford — 8 mentions

@@ -23,12 +23,12 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **3** | 3 | 3 | 95% | 2021-03-11 | 2025-08-11 |
-| [Monroe](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 67% | 2022-11-07 | 2024-05-28 |
-| [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 46% | 2024-03-28 | 2024-03-28 |
-| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2024-02-21 | 2024-02-21 |
-| [Seymour](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 83% | 2022-02-08 | 2022-02-08 |
-| [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2023-12-14 | 2023-12-14 |
+| [East Lyme](../../towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **3** | 3 | 3 | 95% | 2021-03-11 | 2025-08-11 |
+| [Monroe](../../towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 67% | 2022-11-07 | 2024-05-28 |
+| [East Windsor](../../towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 46% | 2024-03-28 | 2024-03-28 |
+| [Fairfield](../../towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2024-02-21 | 2024-02-21 |
+| [Seymour](../../towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 83% | 2022-02-08 | 2022-02-08 |
+| [Southington](../../towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2023-12-14 | 2023-12-14 |
 
 ## Receipts
 
