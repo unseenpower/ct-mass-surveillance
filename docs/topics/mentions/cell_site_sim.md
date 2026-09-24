@@ -23,11 +23,11 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 79% | 2017-01-23 | 2017-10-25 |
-| [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 78% | 2023-07-13 | 2023-07-13 |
-| [Cheshire](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 46% | 2025-04-10 | 2025-04-10 |
-| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2016-06-01 | 2016-06-01 |
-| [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2023-03-01 | 2023-03-01 |
+| [Guilford](../../towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 79% | 2017-01-23 | 2017-10-25 |
+| [Berlin](../../towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 78% | 2023-07-13 | 2023-07-13 |
+| [Cheshire](../../towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 46% | 2025-04-10 | 2025-04-10 |
+| [Fairfield](../../towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2016-06-01 | 2016-06-01 |
+| [Norwalk](../../towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2023-03-01 | 2023-03-01 |
 
 ## Receipts
 
