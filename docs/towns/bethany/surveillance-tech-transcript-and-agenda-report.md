@@ -3,24 +3,26 @@
 
 ## At a glance: Bethany
 
+<p class="glance-headline"><strong>15 mentions</strong> of surveillance technology in <strong>6</strong> Bethany meetings, 2025–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">15</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 6 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2025–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2025-10-07 → 2026-08-19</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones, Facial recognition, Predictive policing</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">70%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">133 of 190 meetings</span></a>
+</div>
+
+**Not the full history:** transcripts begin **2024-01-02**, but Bethany's published video archive goes back to **2022-10-18**. Meetings before 2024 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
 This report collects every mention of surveillance technology found in **Bethany**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **15 mentions** across **6 meetings**
-- **First mention:** 2025-10-07  |  **Most recent:** 2026-08-19
-- **Technologies discussed:** alpr, drone, facial_recognition, predictive_policing
-- **Coverage:** 133 of 190 known Bethany meetings transcribed (70%)
-- **Not the full history:** transcripts begin **2024-01-02**, but Bethany's published video archive goes back to **2022-10-18**. Meetings before 2024 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,116 +33,76 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Bethany's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/bethany-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip bethany-meeting-transcripts.zip -d bethany
-cd bethany
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 9 | 3 | 2026-02-10 | 2026-08-19 |
-| drone | 3 | 3 | 2025-10-07 | 2026-02-04 |
-| facial_recognition | 2 | 1 | 2026-05-06 | 2026-05-06 |
-| predictive_policing | 1 | 1 | 2026-05-06 | 2026-05-06 |
+| [ALPR / Flock](#alpr) | 9 | 3 | 2026-02-10 | 2026-08-19 |
+| [Drones](#drone) | 3 | 3 | 2025-10-07 | 2026-02-04 |
+| [Facial recognition](#facial_recognition) | 2 | 1 | 2026-05-06 | 2026-05-06 |
+| [Predictive policing](#predictive_policing) | 1 | 1 | 2026-05-06 | 2026-05-06 |
 
 
 ## Timeline
 
-6 meetings surfaced a finding (6 dated, spanning 2025-10-07 to 2026-08-19; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+6 meetings surfaced a finding (6 dated, spanning 2025-10-07 to 2026-08-19; 0 of unknown date, listed last). Newest first.
 
-### 2025-10-07 -- Board of Selectmen
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-08-19.*
 
-**10/07/2025 Board of Selectmen | Bethany, CT** _(topics: drone)_
+??? note "Earlier meetings (6)"
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=MFb2S6pNmeo&t=2437s)  > ...we should not have them near our home. We have been told by people at Carriage Drive they can hear the constant drone as well. As fall approaches, it would be nice to be able to keep windows open and...
+    **2026-08-19 -- Board of Selectmen**
 
+    **08/19/2026 Board of Selectmen | Bethany, CT** _(topics: alpr)_
 
-### 2025-11-17 -- Inland Wetlands Commission
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kQRpYDxspxo&t=1955s)  > ...didn't put their name on it. It's an article. um about flock cameras, which everybody in his uncle doesn't want flock cameras and god knows I definitely don't want...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kQRpYDxspxo&t=1958s)  > ...article. um about flock cameras, which everybody in his uncle doesn't want flock cameras and god knows I definitely don't want cameras in this town. Um so, but I know...
 
-**11/17/2025 Inland Wetlands Commission | Bethany, CT** _(topics: drone)_
+    **2026-05-06 -- Planning & Zoning Commission**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=O_xtXW8Cchc&t=2214s)  > ...sky. >> Yeah. that you can't trespass on the property and we don't own a drone and frankly I don't want to get into sense that...
+    **05/06/2026 Planning & Zoning Commission | Bethany, CT** _(topics: alpr, facial_recognition, predictive_policing)_
 
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10318s)  > ...an American citizen. Across our nation, there's a massive push to explain to expand flock cameras and data centers and this is happening across farmlands, suburban neighborhoods, and rural...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10330s)  > ...believe the two to be related. Um I want to first talk about flock cameras that are happening. So it's in three different towns. Right now, it's in...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10409s)  > ...surveil a citizen without probable cause and without a warrant from the judge. And what do Flock cameras have to do with this, you might ask? Hasn't the horse already left the barn? I'm here to...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10429s)  > ...subdue the free people of this country and of this town. The Flock CEO has openly admitted he wanted these cameras on every street and he wants them equipped with microphones...
+    - `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10435s)  > ...wanted these cameras on every street and he wants them equipped with microphones and with facial recognition and he wants it 24/7. What we have here is a naked attempt for...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10479s)  > ...system and as it turns out anyone from inside the company can too. It was later found out that Flock employees were caught spying on children....
+    - `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10642s)  > ...>> Yes. >> For what? >> Most of those stores also have facial recognition. They also they have people that support...
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10844s)  > ...in in in being uh concerned about this. And I think Palantir is asking for access to this data too if I'm not mistaken. >> Yeah, but I think it is kind of one of...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10857s)  > ...to get it because I I I think they um the the the Flock the Flock company they've been deliberately lying about who can access this data....
 
-### 2026-02-04 -- Planning & Zoning Commission
+    **2026-02-10 -- Board of Finance**
 
-**02/04/2026 Planning & Zoning Commission | Bethany, CT** _(topics: drone)_
+    **02/10/2026 Board of Finance Budget Workshop | Bethany, CT** _(topics: alpr)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=r8ft3_Nqg4c&t=5237s)  > ...designed the building yet. He figures two garage doors and a man door. >> He's got three drone. But aren't any substantial changes? It's not it's...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=m0srEoBUhqE&t=3290s)  > ...>> You're on camera. >> The one time 69 in Prospect. Those are >> those are uh flock cameras. >> Yeah. >> I don't know what they are. Um so those...
 
+    **2026-02-04 -- Planning & Zoning Commission**
 
-### 2026-02-10 -- Board of Finance
+    **02/04/2026 Planning & Zoning Commission | Bethany, CT** _(topics: drone)_
 
-**02/10/2026 Board of Finance Budget Workshop | Bethany, CT** _(topics: alpr)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=r8ft3_Nqg4c&t=5237s)  > ...designed the building yet. He figures two garage doors and a man door. >> He's got three drone. But aren't any substantial changes? It's not it's...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=m0srEoBUhqE&t=3290s)  > ...>> You're on camera. >> The one time 69 in Prospect. Those are >> those are uh flock cameras. >> Yeah. >> I don't know what they are. Um so those...
+    **2025-11-17 -- Inland Wetlands Commission**
 
+    **11/17/2025 Inland Wetlands Commission | Bethany, CT** _(topics: drone)_
 
-### 2026-05-06 -- Planning & Zoning Commission
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=O_xtXW8Cchc&t=2214s)  > ...sky. >> Yeah. that you can't trespass on the property and we don't own a drone and frankly I don't want to get into sense that...
 
-**05/06/2026 Planning & Zoning Commission | Bethany, CT** _(topics: alpr, facial_recognition, predictive_policing)_
+    **2025-10-07 -- Board of Selectmen**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10318s)  > ...an American citizen. Across our nation, there's a massive push to explain to expand flock cameras and data centers and this is happening across farmlands, suburban neighborhoods, and rural...
+    **10/07/2025 Board of Selectmen | Bethany, CT** _(topics: drone)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10330s)  > ...believe the two to be related. Um I want to first talk about flock cameras that are happening. So it's in three different towns. Right now, it's in...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10409s)  > ...surveil a citizen without probable cause and without a warrant from the judge. And what do Flock cameras have to do with this, you might ask? Hasn't the horse already left the barn? I'm here to...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10429s)  > ...subdue the free people of this country and of this town. The Flock CEO has openly admitted he wanted these cameras on every street and he wants them equipped with microphones...
-
-- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10435s)  > ...wanted these cameras on every street and he wants them equipped with microphones and with facial recognition and he wants it 24/7. What we have here is a naked attempt for...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10479s)  > ...system and as it turns out anyone from inside the company can too. It was later found out that Flock employees were caught spying on children....
-
-- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10642s)  > ...>> Yes. >> For what? >> Most of those stores also have facial recognition. They also they have people that support...
-
-- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10844s)  > ...in in in being uh concerned about this. And I think Palantir is asking for access to this data too if I'm not mistaken. >> Yeah, but I think it is kind of one of...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10857s)  > ...to get it because I I I think they um the the the Flock the Flock company they've been deliberately lying about who can access this data....
-
-
-### 2026-08-19 -- Board of Selectmen
-
-**08/19/2026 Board of Selectmen | Bethany, CT** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kQRpYDxspxo&t=1955s)  > ...didn't put their name on it. It's an article. um about flock cameras, which everybody in his uncle doesn't want flock cameras and god knows I definitely don't want...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kQRpYDxspxo&t=1958s)  > ...article. um about flock cameras, which everybody in his uncle doesn't want flock cameras and god knows I definitely don't want cameras in this town. Um so, but I know...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=MFb2S6pNmeo&t=2437s)  > ...we should not have them near our home. We have been told by people at Carriage Drive they can hear the constant drone as well. As fall approaches, it would be nice to be able to keep windows open and...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -293,7 +255,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -403,11 +364,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -486,6 +442,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Bethany's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/bethany-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip bethany-meeting-transcripts.zip -d bethany
+cd bethany
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

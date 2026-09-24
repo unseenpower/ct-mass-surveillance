@@ -3,23 +3,24 @@
 
 ## At a glance: Bridgeport
 
+<p class="glance-headline"><strong>24 mentions</strong> of surveillance technology in <strong>5</strong> Bridgeport meetings, 2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">24</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 5 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2026-01-20 → 2026-08-03</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Real-time crime centres</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">90%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">142 of 158 meetings</span></a>
+</div>
+
 This report collects every mention of surveillance technology found in **Bridgeport**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **24 mentions** across **5 meetings**
-- **First mention:** 2026-01-20  |  **Most recent:** 2026-08-03
-- **Technologies discussed:** alpr, body_camera, drone, rtcc
-- **Coverage:** 142 of 158 known Bridgeport meetings transcribed (90%)
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -30,129 +31,80 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Bridgeport's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/bridgeport-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip bridgeport-meeting-transcripts.zip -d bridgeport
-cd bridgeport
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 11 | 3 | 2026-01-20 | 2026-04-25 |
-| body_camera | 4 | 1 | 2026-05-02 | 2026-05-02 |
-| drone | 6 | 3 | 2026-01-20 | 2026-08-03 |
-| rtcc | 3 | 1 | 2026-05-02 | 2026-05-02 |
+| [ALPR / Flock](#alpr) | 11 | 3 | 2026-01-20 | 2026-04-25 |
+| [Body cameras](#body_camera) | 4 | 1 | 2026-05-02 | 2026-05-02 |
+| [Drones](#drone) | 6 | 3 | 2026-01-20 | 2026-08-03 |
+| [Real-time crime centres](#rtcc) | 3 | 1 | 2026-05-02 | 2026-05-02 |
 
 
 ## Timeline
 
-5 meetings surfaced a finding (5 dated, spanning 2026-01-20 to 2026-08-03; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+5 meetings surfaced a finding (5 dated, spanning 2026-01-20 to 2026-08-03; 0 of unknown date, listed last). Newest first.
 
-### 2026-01-20 -- City Council
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-08-03.*
 
-**City of Bridgeport City Council Meeting - 1.20.2026** _(topics: alpr, drone)_
+??? note "Earlier meetings (5)"
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=637s)  > ...strongly urge you to onhold the committee's rejection of the proposal contract with flock safety and expansion of police drone civilians in the Bridgeport. Our community care deeply...
+    **2026-08-03 -- City Council**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=640s)  > ...committee's rejection of the proposal contract with flock safety and expansion of police drone civilians in the Bridgeport. Our community care deeply about safety. Many of us are parents,...
+    **City of Bridgeport City Council Meeting - 08.03.2026** _(topics: drone)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=842s)  > ...am deeply concerned about the safety of Bridgeport residents if this city contracts with Flock, a company that is building a quite dangerous mass surveillance infrastructure nationwide....
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=931s)  > ...However, according to SEC filings, the company only recently shifted from cancer diagnostics to defense drone manufacturing. And its drone subsidiary just was established this May. So,...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=933s)  > ...company only recently shifted from cancer diagnostics to defense drone manufacturing. And its drone subsidiary just was established this May. So, although the company has stated its...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=4041s)  > ...So, it was a private sale. It did not come through OPED. We didn't have a say so in it. Um, secondly, the drone company had already been doing business with the manufacturing...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=4050s)  > ...doing business with the manufacturing company because they already make the material there that the drone will be utilizing. So, sometimes, you know, when peo- And...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=877s)  > ...Bridgeport with a large and proud immigrant community, that alone should be enough to not contract with flock. On top of that, the system has links to stalking by police officers, data...
+    **2026-05-02 -- Budget and Appropriations Committee**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=891s)  > ...women forced to cross state lines to have an abortion. Um, as the city considers using Flock, other cities across the nation are actually cancelling or suspending their work with...
+    **04.30. 2026 Budget & Appropriations Committee Meeting** _(topics: body_camera, drone, rtcc)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=906s)  > ...Cruz. So to the members of our city council, your community is imploring you to not join this flock. [applause] Uh Liam Conway, five Thorn Place. Uh my...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5159s)  > ...accountability where it becomes uh, we're talking about transparency laws, body cam, dash cam, all those things. All of those things are very very expensive. But we have to integrate our...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5165s)  > ...All of those things are very very expensive. But we have to integrate our MVTs with our body cam systems, dash cam systems, um upgrading to Windows 11. We've done that um everywhere we can....
+    - `rtcc` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5316s)  > ...as as my normal day job. Um but then u Melody comes in with when it comes to our real time crime center. So we'll talk about some of that. We have an an unfortunate expense that...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5484s)  > ...it's a compliance and it's actually a federal law. >> You say image. So that's like a drone. >> No. Um we have to share information from case file. So there might be video from...
+    - `rtcc` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5584s)  > ...>> Okay. I mean I can explain some of this to you if you want but for that. So for real time crime center I'll turn it over to Melanie. >> Before Melanie goes I just wanted to...
+    - `rtcc` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5623s)  > ...much better. So if we could ever get back to that, that would be >> Hi, I'm Melanie. I'm within the real time crime center. Um, assistant chief closing and I have kind of been trying...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=6269s)  > ...opposed to consent cuz consent you withdraw at any time. You have to review body cam. There's a lot that goes into this. Now, even after the case is done, there's unavoidable. These aren't...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=9513s)  > ...>> You mean our body cameras? >> Your body cameras are outdated. There's two additional levels now of body cam. >> Yeah, there's some body cameras that I like to that that are out now that uh...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=945s)  > ...opportunity to attend the committee meeting discussing the introduction of Flock. And before and after, I spent time speaking to folks my age about the proposal and every person said the same...
+    **2026-04-25 -- Budget and Appropriations Committee**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=966s)  > ...in Bridgeport. Want to thrive here in Bridgeport. We cannot do that while living in fear. Whether a flock of police brutality, of future surveillance plans, or of ICE who have already...
+    **04.25.2026 Budget & Appropriations Committee Meeting** _(topics: alpr)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=985s)  > ...youth from the city, especially those who do not look like myself, when voting on flock or any future surveillance proposals. We say no. [applause]...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZgYaWg0a5Qg&t=4025s)  > ...starting >> people are starting to sue towns >> for for allowing those license plate reader companies to share their data with ICE and DHS and it's they found six...
 
+    **2026-02-05 -- Board of Education**
 
-### 2026-02-05 -- Board of Education
+    **Bridgeport Board of Education, Advocacy Ad Hoc Committee, 5:30PM 2/5/26** _(topics: alpr)_
 
-**Bridgeport Board of Education, Advocacy Ad Hoc Committee, 5:30PM 2/5/26** _(topics: alpr)_
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=w7qB0Magnkw&t=1765s)  > ...>> catch that catch that date because >> half of us here we sat through we sat through the flock and people there that didn't even speak. They just held signs sent a very big message to the city...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=w7qB0Magnkw&t=1874s)  > ...think we need to flood people to because you're in the wheeler room like you were with the flock >> y it says it there between March 24th through May 15th...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=w7qB0Magnkw&t=1765s)  > ...>> catch that catch that date because >> half of us here we sat through we sat through the flock and people there that didn't even speak. They just held signs sent a very big message to the city...
+    **2026-01-20 -- City Council**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=w7qB0Magnkw&t=1874s)  > ...think we need to flood people to because you're in the wheeler room like you were with the flock >> y it says it there between March 24th through May 15th...
+    **City of Bridgeport City Council Meeting - 1.20.2026** _(topics: alpr, drone)_
 
-
-### 2026-04-25 -- Budget and Appropriations Committee
-
-**04.25.2026 Budget & Appropriations Committee Meeting** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZgYaWg0a5Qg&t=4025s)  > ...starting >> people are starting to sue towns >> for for allowing those license plate reader companies to share their data with ICE and DHS and it's they found six...
-
-
-### 2026-05-02 -- Budget and Appropriations Committee
-
-**04.30. 2026 Budget & Appropriations Committee Meeting** _(topics: body_camera, drone, rtcc)_
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5159s)  > ...accountability where it becomes uh, we're talking about transparency laws, body cam, dash cam, all those things. All of those things are very very expensive. But we have to integrate our...
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5165s)  > ...All of those things are very very expensive. But we have to integrate our MVTs with our body cam systems, dash cam systems, um upgrading to Windows 11. We've done that um everywhere we can....
-
-- `rtcc` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5316s)  > ...as as my normal day job. Um but then u Melody comes in with when it comes to our real time crime center. So we'll talk about some of that. We have an an unfortunate expense that...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5484s)  > ...it's a compliance and it's actually a federal law. >> You say image. So that's like a drone. >> No. Um we have to share information from case file. So there might be video from...
-
-- `rtcc` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5584s)  > ...>> Okay. I mean I can explain some of this to you if you want but for that. So for real time crime center I'll turn it over to Melanie. >> Before Melanie goes I just wanted to...
-
-- `rtcc` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5623s)  > ...much better. So if we could ever get back to that, that would be >> Hi, I'm Melanie. I'm within the real time crime center. Um, assistant chief closing and I have kind of been trying...
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=6269s)  > ...opposed to consent cuz consent you withdraw at any time. You have to review body cam. There's a lot that goes into this. Now, even after the case is done, there's unavoidable. These aren't...
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=9513s)  > ...>> You mean our body cameras? >> Your body cameras are outdated. There's two additional levels now of body cam. >> Yeah, there's some body cameras that I like to that that are out now that uh...
-
-
-### 2026-08-03 -- City Council
-
-**City of Bridgeport City Council Meeting - 08.03.2026** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=931s)  > ...However, according to SEC filings, the company only recently shifted from cancer diagnostics to defense drone manufacturing. And its drone subsidiary just was established this May. So,...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=933s)  > ...company only recently shifted from cancer diagnostics to defense drone manufacturing. And its drone subsidiary just was established this May. So, although the company has stated its...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=4041s)  > ...So, it was a private sale. It did not come through OPED. We didn't have a say so in it. Um, secondly, the drone company had already been doing business with the manufacturing...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=4050s)  > ...doing business with the manufacturing company because they already make the material there that the drone will be utilizing. So, sometimes, you know, when peo- And...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=637s)  > ...strongly urge you to onhold the committee's rejection of the proposal contract with flock safety and expansion of police drone civilians in the Bridgeport. Our community care deeply...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=640s)  > ...committee's rejection of the proposal contract with flock safety and expansion of police drone civilians in the Bridgeport. Our community care deeply about safety. Many of us are parents,...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=842s)  > ...am deeply concerned about the safety of Bridgeport residents if this city contracts with Flock, a company that is building a quite dangerous mass surveillance infrastructure nationwide....
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=877s)  > ...Bridgeport with a large and proud immigrant community, that alone should be enough to not contract with flock. On top of that, the system has links to stalking by police officers, data...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=891s)  > ...women forced to cross state lines to have an abortion. Um, as the city considers using Flock, other cities across the nation are actually cancelling or suspending their work with...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=906s)  > ...Cruz. So to the members of our city council, your community is imploring you to not join this flock. [applause] Uh Liam Conway, five Thorn Place. Uh my...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=945s)  > ...opportunity to attend the committee meeting discussing the introduction of Flock. And before and after, I spent time speaking to folks my age about the proposal and every person said the same...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=966s)  > ...in Bridgeport. Want to thrive here in Bridgeport. We cannot do that while living in fear. Whether a flock of police brutality, of future surveillance plans, or of ICE who have already...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=985s)  > ...youth from the city, especially those who do not look like myself, when voting on flock or any future surveillance proposals. We say no. [applause]...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -341,7 +293,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -451,11 +402,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 2
@@ -556,6 +502,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Bridgeport's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/bridgeport-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip bridgeport-meeting-transcripts.zip -d bridgeport
+cd bridgeport
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

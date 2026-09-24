@@ -3,25 +3,27 @@
 
 ## At a glance: Coventry
 
+<p class="glance-headline"><strong>20 mentions</strong> of surveillance technology in <strong>15</strong> Coventry meetings, 2020–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">20</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 15 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2020–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2020-03-05 → 2026-08-17</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">3</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones, General surveillance</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">73%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">426 of 585 meetings</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">2</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
+</div>
+
+**Still incomplete:** 159 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+
 This report collects every mention of surveillance technology found in **Coventry**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **20 mentions** across **15 meetings**
-- **First mention:** 2020-03-05  |  **Most recent:** 2026-08-17
-- **Technologies discussed:** alpr, drone, surveillance_general
-- **Coverage:** 426 of 585 known Coventry meetings transcribed (73%)
-- **Still incomplete:** 159 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
-- **2 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -32,170 +34,125 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Coventry's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/coventry-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip coventry-meeting-transcripts.zip -d coventry
-cd coventry
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 4 | 3 | 2023-05-08 | 2026-08-17 |
-| drone | 13 | 11 | 2020-03-05 | 2026-08-17 |
-| surveillance_general | 3 | 3 | 2023-10-13 | 2024-11-18 |
+| [ALPR / Flock](#alpr) | 4 | 3 | 2023-05-08 | 2026-08-17 |
+| [Drones](#drone) | 13 | 11 | 2020-03-05 | 2026-08-17 |
+| [General surveillance](#surveillance_general) | 3 | 3 | 2023-10-13 | 2024-11-18 |
 
 
 ## Timeline
 
-15 meetings surfaced a finding (15 dated, spanning 2020-03-05 to 2026-08-17; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+15 meetings surfaced a finding (15 dated, spanning 2020-03-05 to 2026-08-17; 0 of unknown date, listed last). Newest first.
 
-### 2020-03-05 -- Town Council
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-08-17.*
 
-**Coventry CT Town Council Meetings** _(topics: drone)_
+??? note "Earlier meetings (15)"
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FuJSAf_xRtE&t=3342s)  > ...asked Lord just to throw some of the pictures that we got because it's just a really nice drone footage and you're going to see things that we don't see from the ground when we think about the...
+    **2026-08-17 -- Town Council**
 
+    **8-17-2026 Town Council Meeting** _(topics: alpr, drone)_
 
-### 2022-03-22 -- Town Council
+    - `alpr_flock` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=9YhkbSEGLtTMtdEO)  [jump to 2:04 ▸](https://vbfast-vod.viebit.com/coventry/9YhkbSEGLtTMtdEO/GMT20260817-225352_Recording_640x360.mp4#t=124)  > ...Any discussion? Anybody think we can remove anything from the consent agenda? I couldn't help but notice the answer to the question about the flock cameras, which, frankly, made me happy. So that's good. Do you want to pull that?...
+    - `alpr_flock` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=9YhkbSEGLtTMtdEO)  [jump to 1:08:12 ▸](https://vbfast-vod.viebit.com/coventry/9YhkbSEGLtTMtdEO/GMT20260817-225352_Recording_640x360.mp4#t=4092)  > ...Chairwoman Thomas has. Asserted. That the town of Coventry is not currently looking to install flock cameras, which makes me happy. So I just wanted to share that with. The rest of the council....
+    - `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=9YhkbSEGLtTMtdEO)  [jump to 1:09:29 ▸](https://vbfast-vod.viebit.com/coventry/9YhkbSEGLtTMtdEO/GMT20260817-225352_Recording_640x360.mp4#t=4169)  > ...Plus. Our town manager. Jim Drone. And. Yes....
 
-**3-21-2022 Town Council Meeting** _(topics: drone)_
+    **2026-07-01 -- Town Council**
 
-- `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=9UKue2WbjG5W)  [jump to 1:01:12 ▸](https://vbfast-vod.viebit.com/coventry/9UKue2WbjG5W/VieBitVOD_1647911881.mp4#t=3672)  > ...because i guess i was driving do everything up there i guess yeah so i know it's good speaking all about hiking but this whole last green valley is so appealing if you could drone some of it and show us even night versus day yeah ranger yeah ranger bill ranger bill ranger bill brought a drone last year and did some um some footage of the airline trail uh in thompson um as well as the last green va...
+    **7-1-2026 Town Council Special Meeting** _(topics: drone)_
 
-- `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=9UKue2WbjG5W)  [jump to 1:01:21 ▸](https://vbfast-vod.viebit.com/coventry/9UKue2WbjG5W/VieBitVOD_1647911881.mp4#t=3681)  > ...do everything up there i guess yeah so i know it's good speaking all about hiking but this whole last green valley is so appealing if you could drone some of it and show us even night versus day yeah ranger yeah ranger bill ranger bill ranger bill brought a drone last year and did some um some footage of the airline trail uh in thompson um as well as the last green valley sent one of their staffer...
+    - `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=eglxa4Vo4xOVOKWj)  [jump to 0:22 ▸](https://vbfast-vod.viebit.com/coventry/eglxa4Vo4xOVOKWj/GMT20260701-225310_Recording_640x360.mp4#t=22)  > ...Present in the annex are Councilors John Hamm, Lisa Thomas, Peter Larson, Julie Blanchard, and Mike Newton. We're also joined by Town Manager Jim Drone, Special Projects Manager Alex Taylor, and the Chair and Vice Chair of the Charter Commission. Thank you for being here tonight....
 
+    **2026-05-18 -- Town Council**
 
-### 2023-05-08 -- Town Council
+    **5-18-2026 Town Council Meeting** _(topics: drone)_
 
-**May 8, 2023 Finance Committee Meeting** _(topics: alpr)_
+    - `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=ykNyikG92Aj4mCGg)  [jump to 22:08 ▸](https://vbfast-vod.viebit.com/coventry/ykNyikG92Aj4mCGg/GMT20260518-225628_Recording_640x360.mp4#t=1328)  > ...Next, we have Jamie DiPiola. Hey, good evening. I'm Jamie DiPiola, [address redacted] I'm here today to thank town manager Jim Drone for his time and interest to discuss with me the Freedom 250 truck opportunity for cottagey. That, unfortunately, is no longer happening here. I noticed after reading his town council memo of May 14th to the consular summarizing this opportunity...
 
-- `alpr_flock` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=Etw1vMhTP2X8ZlV4)  [jump to 46:42 ▸](https://vbfast-vod.viebit.com/coventry/Etw1vMhTP2X8ZlV4/GMT20230508-224702_Recording_640x360.mp4#t=2802)  > ...We don't have enough teenagers. They gather around. They flock around stop signs. Why? Because the car stops....
+    **2025-01-27 -- Town Council**
 
+    **1-27-2025 Town Council Steering Committee Meeting** _(topics: drone)_
 
-### 2023-10-13 -- Boards and Commissions
+    - `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=4ip3VkisnoDCInn5)  [jump to 17:42 ▸](https://vbfast-vod.viebit.com/coventry/4ip3VkisnoDCInn5/GMT20250127-235952_Recording_640x360.mp4#t=1062)  > ...So anyway, Conrad has resigned from this. And there's reasons. And he's continued to provide some cool stuff to the drone photos of things around Coventry. Also pretty cool and appreciated. So thanks, Conrad....
 
-**10-12-2023 WPCA Meeting** _(topics: surveillance_general)_
+    **2024-11-19 -- Town Council**
 
-- `surveillance_general` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=6qg3CAr0xr1ib6BC)  [jump to 26:59 ▸](https://vbfast-vod.viebit.com/coventry/6qg3CAr0xr1ib6BC/video1444780877.mp4#t=1619)  > ...then for next year we've got we've got about 8 000 feet usually we do 2 000 feet a day so it's four days of cleaning and the rate now is about three thousand dollars a day they added in one day of cctv because if we run into problems then we got to get a separate camera truck out there i mean sometimes smaller mains we can check out with our little push camera but usually those they need that big ...
+    **11-18-2024 Town Council Meeting** _(topics: drone)_
 
+    - `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=TMlsaxK9crWwWKYJ)  [jump to 36:59 ▸](https://vbfast-vod.viebit.com/coventry/TMlsaxK9crWwWKYJ/GMT20241119-002349_Recording_640x360.mp4#t=2219)  > ...consumed what more can i say and have the raffle the lions club does a great thing there it's awesome so just want to give them a shout out um i also want to say that was honored to uh attend with our let's see with uh um our our madam chair lisa thomas and our town manager jim drone and uh actually in our dpw director as well uh bill whatkins and our police chief eric peterson thank you the uh ve...
 
-### 2023-10-18 -- Town Council
+    **2024-11-18 -- Boards and Commissions**
 
-**10-16-2023 Town Council Meeting** _(topics: drone)_
+    **11-14-2024 WPCA meeting** _(topics: surveillance_general)_
 
-- `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=T0CEavfRbcuIfkxA)  [jump to 6:16 ▸](https://vbfast-vod.viebit.com/coventry/T0CEavfRbcuIfkxA/VieBitVOD_1697591640.mp4#t=376)  > ...Present in the council chambers and the annex are all town counselors except for Julie Blanchard who is joining us virtually. Thank you. Also joining us at the council table, of course, is our town manager, Jim Drone. Would you please rise to the pledge of allegiance? I pledge allegiance to the flag of the United States of America and to the republic for which it stands, one nation, under God, ind...
+    - `surveillance_general` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=aoN5wmxu5SdvVPQw)  [jump to 24:50 ▸](https://vbfast-vod.viebit.com/coventry/aoN5wmxu5SdvVPQw/video1640929535.mp4#t=1490)  > ...for um jetting and backing and cctv and the sewer mains to...
 
-- `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=T0CEavfRbcuIfkxA)  [jump to 28:15 ▸](https://vbfast-vod.viebit.com/coventry/T0CEavfRbcuIfkxA/VieBitVOD_1697591640.mp4#t=1695)  > ...Howard, can I interrupt you? What? Audience of citizens is not an appropriate place to speak about an individual, but you could make an appointment with Mr. Drone. I already spoke to you, and I spoke to Mr. Carter, and nobody got back to me twice. So I'm bringing it to the full consult because this person is up for reappointment, and I should have the right to express misactions, accusations again...
+    **2024-09-03 -- Town Council**
 
+    **9-3-2024 Town Council Meeting** _(topics: drone)_
 
-### 2024-03-18 -- Town Council
+    - `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=6dmzBP3m2gzUb4iF)  [jump to 2:45:35 ▸](https://vbfast-vod.viebit.com/coventry/6dmzBP3m2gzUb4iF/GMT20240903-232418_Recording_640x360.mp4#t=9935)  > ...Okay. So the motion is withdrawn. I moved to a drone. No, I'm just kidding. You wish....
 
-**3-18-2024 Town Council Meeting** _(topics: drone, surveillance_general)_
+    **2024-05-20 -- Town Council**
 
-- `surveillance_general` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=cOYOBSgpd2uw2rnN)  [jump to 1:35:42 ▸](https://vbfast-vod.viebit.com/coventry/cOYOBSgpd2uw2rnN/GMT20240318-231929_Recording_640x360.mp4#t=5742)  > ...I'm trying to get a grant that I can throw body cameras in. I can throw dashboard cameras in. I really don't want to throw tasers in there, but I can throw the police surveillance camera system in. So, I'm hoping that I, you know, I can get a grant that will cover all that, but I won't know until later in the year. But, yeah....
+    **5-20-2024 Town Council Meeting** _(topics: alpr)_
 
-- `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=cOYOBSgpd2uw2rnN)  [jump to 1:54:40 ▸](https://vbfast-vod.viebit.com/coventry/cOYOBSgpd2uw2rnN/GMT20240318-231929_Recording_640x360.mp4#t=6880)  > ...Um, this is a great shot. I'm not sure if anyone's seen this. This is the drone shot of Creaser Park. Um, this is, uh, two years ago. It's Mark Owens there with her Girl Scout troop doing, uh, Earth Day tree planting at Patriots Park....
+    - `alpr_flock` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=IbZMU0HRMQP1vipJ)  [jump to 1:04:59 ▸](https://vbfast-vod.viebit.com/coventry/IbZMU0HRMQP1vipJ/GMT20240520-231935_Recording_640x360.mp4#t=3899)  > ...I can't recall. I'm thinking about some more right there pros and cons, and I think I'd be willing to revisit the five-year thing if we start the program and we discover that there are a dozen people who suddenly flock and are applying and we're, you know, paying out $100,000 a year and lost revenues for it. But I don't anticipate that's going to be the case....
 
+    **2024-03-18 -- Town Council**
 
-### 2024-03-18 -- Town Council
+    **3-18-2024 Town Council Meeting** _(topics: drone, surveillance_general)_
 
-**Town Council Meeting - March 18, 2024** _(topics: drone)_
+    - `surveillance_general` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=cOYOBSgpd2uw2rnN)  [jump to 1:35:42 ▸](https://vbfast-vod.viebit.com/coventry/cOYOBSgpd2uw2rnN/GMT20240318-231929_Recording_640x360.mp4#t=5742)  > ...I'm trying to get a grant that I can throw body cameras in. I can throw dashboard cameras in. I really don't want to throw tasers in there, but I can throw the police surveillance camera system in. So, I'm hoping that I, you know, I can get a grant that will cover all that, but I won't know until later in the year. But, yeah....
+    - `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=cOYOBSgpd2uw2rnN)  [jump to 1:54:40 ▸](https://vbfast-vod.viebit.com/coventry/cOYOBSgpd2uw2rnN/GMT20240318-231929_Recording_640x360.mp4#t=6880)  > ...Um, this is a great shot. I'm not sure if anyone's seen this. This is the drone shot of Creaser Park. Um, this is, uh, two years ago. It's Mark Owens there with her Girl Scout troop doing, uh, Earth Day tree planting at Patriots Park....
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qyj8jgCBDik&t=7269s)  > ...being resurfaced and a growing popular sport um this is a great shot I'm not sure if anyone seen this this is a drone shot of Creer Park and um this is two years ago it's...
+    **2024-03-18 -- Town Council**
 
+    **Town Council Meeting - March 18, 2024** _(topics: drone)_
 
-### 2024-05-20 -- Town Council
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qyj8jgCBDik&t=7269s)  > ...being resurfaced and a growing popular sport um this is a great shot I'm not sure if anyone seen this this is a drone shot of Creer Park and um this is two years ago it's...
 
-**5-20-2024 Town Council Meeting** _(topics: alpr)_
+    **2023-10-18 -- Town Council**
 
-- `alpr_flock` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=IbZMU0HRMQP1vipJ)  [jump to 1:04:59 ▸](https://vbfast-vod.viebit.com/coventry/IbZMU0HRMQP1vipJ/GMT20240520-231935_Recording_640x360.mp4#t=3899)  > ...I can't recall. I'm thinking about some more right there pros and cons, and I think I'd be willing to revisit the five-year thing if we start the program and we discover that there are a dozen people who suddenly flock and are applying and we're, you know, paying out $100,000 a year and lost revenues for it. But I don't anticipate that's going to be the case....
+    **10-16-2023 Town Council Meeting** _(topics: drone)_
 
+    - `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=T0CEavfRbcuIfkxA)  [jump to 6:16 ▸](https://vbfast-vod.viebit.com/coventry/T0CEavfRbcuIfkxA/VieBitVOD_1697591640.mp4#t=376)  > ...Present in the council chambers and the annex are all town counselors except for Julie Blanchard who is joining us virtually. Thank you. Also joining us at the council table, of course, is our town manager, Jim Drone. Would you please rise to the pledge of allegiance? I pledge allegiance to the flag of the United States of America and to the republic for which it stands, one nation, under God, ind...
+    - `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=T0CEavfRbcuIfkxA)  [jump to 28:15 ▸](https://vbfast-vod.viebit.com/coventry/T0CEavfRbcuIfkxA/VieBitVOD_1697591640.mp4#t=1695)  > ...Howard, can I interrupt you? What? Audience of citizens is not an appropriate place to speak about an individual, but you could make an appointment with Mr. Drone. I already spoke to you, and I spoke to Mr. Carter, and nobody got back to me twice. So I'm bringing it to the full consult because this person is up for reappointment, and I should have the right to express misactions, accusations again...
 
-### 2024-09-03 -- Town Council
+    **2023-10-13 -- Boards and Commissions**
 
-**9-3-2024 Town Council Meeting** _(topics: drone)_
+    **10-12-2023 WPCA Meeting** _(topics: surveillance_general)_
 
-- `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=6dmzBP3m2gzUb4iF)  [jump to 2:45:35 ▸](https://vbfast-vod.viebit.com/coventry/6dmzBP3m2gzUb4iF/GMT20240903-232418_Recording_640x360.mp4#t=9935)  > ...Okay. So the motion is withdrawn. I moved to a drone. No, I'm just kidding. You wish....
+    - `surveillance_general` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=6qg3CAr0xr1ib6BC)  [jump to 26:59 ▸](https://vbfast-vod.viebit.com/coventry/6qg3CAr0xr1ib6BC/video1444780877.mp4#t=1619)  > ...then for next year we've got we've got about 8 000 feet usually we do 2 000 feet a day so it's four days of cleaning and the rate now is about three thousand dollars a day they added in one day of cctv because if we run into problems then we got to get a separate camera truck out there i mean sometimes smaller mains we can check out with our little push camera but usually those they need that big ...
 
+    **2023-05-08 -- Town Council**
 
-### 2024-11-18 -- Boards and Commissions
+    **May 8, 2023 Finance Committee Meeting** _(topics: alpr)_
 
-**11-14-2024 WPCA meeting** _(topics: surveillance_general)_
+    - `alpr_flock` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=Etw1vMhTP2X8ZlV4)  [jump to 46:42 ▸](https://vbfast-vod.viebit.com/coventry/Etw1vMhTP2X8ZlV4/GMT20230508-224702_Recording_640x360.mp4#t=2802)  > ...We don't have enough teenagers. They gather around. They flock around stop signs. Why? Because the car stops....
 
-- `surveillance_general` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=aoN5wmxu5SdvVPQw)  [jump to 24:50 ▸](https://vbfast-vod.viebit.com/coventry/aoN5wmxu5SdvVPQw/video1640929535.mp4#t=1490)  > ...for um jetting and backing and cctv and the sewer mains to...
+    **2022-03-22 -- Town Council**
 
+    **3-21-2022 Town Council Meeting** _(topics: drone)_
 
-### 2024-11-19 -- Town Council
+    - `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=9UKue2WbjG5W)  [jump to 1:01:12 ▸](https://vbfast-vod.viebit.com/coventry/9UKue2WbjG5W/VieBitVOD_1647911881.mp4#t=3672)  > ...because i guess i was driving do everything up there i guess yeah so i know it's good speaking all about hiking but this whole last green valley is so appealing if you could drone some of it and show us even night versus day yeah ranger yeah ranger bill ranger bill ranger bill brought a drone last year and did some um some footage of the airline trail uh in thompson um as well as the last green va...
+    - `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=9UKue2WbjG5W)  [jump to 1:01:21 ▸](https://vbfast-vod.viebit.com/coventry/9UKue2WbjG5W/VieBitVOD_1647911881.mp4#t=3681)  > ...do everything up there i guess yeah so i know it's good speaking all about hiking but this whole last green valley is so appealing if you could drone some of it and show us even night versus day yeah ranger yeah ranger bill ranger bill ranger bill brought a drone last year and did some um some footage of the airline trail uh in thompson um as well as the last green valley sent one of their staffer...
 
-**11-18-2024 Town Council Meeting** _(topics: drone)_
+    **2020-03-05 -- Town Council**
 
-- `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=TMlsaxK9crWwWKYJ)  [jump to 36:59 ▸](https://vbfast-vod.viebit.com/coventry/TMlsaxK9crWwWKYJ/GMT20241119-002349_Recording_640x360.mp4#t=2219)  > ...consumed what more can i say and have the raffle the lions club does a great thing there it's awesome so just want to give them a shout out um i also want to say that was honored to uh attend with our let's see with uh um our our madam chair lisa thomas and our town manager jim drone and uh actually in our dpw director as well uh bill whatkins and our police chief eric peterson thank you the uh ve...
+    **Coventry CT Town Council Meetings** _(topics: drone)_
 
-
-### 2025-01-27 -- Town Council
-
-**1-27-2025 Town Council Steering Committee Meeting** _(topics: drone)_
-
-- `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=4ip3VkisnoDCInn5)  [jump to 17:42 ▸](https://vbfast-vod.viebit.com/coventry/4ip3VkisnoDCInn5/GMT20250127-235952_Recording_640x360.mp4#t=1062)  > ...So anyway, Conrad has resigned from this. And there's reasons. And he's continued to provide some cool stuff to the drone photos of things around Coventry. Also pretty cool and appreciated. So thanks, Conrad....
-
-
-### 2026-05-18 -- Town Council
-
-**5-18-2026 Town Council Meeting** _(topics: drone)_
-
-- `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=ykNyikG92Aj4mCGg)  [jump to 22:08 ▸](https://vbfast-vod.viebit.com/coventry/ykNyikG92Aj4mCGg/GMT20260518-225628_Recording_640x360.mp4#t=1328)  > ...Next, we have Jamie DiPiola. Hey, good evening. I'm Jamie DiPiola, [address redacted] I'm here today to thank town manager Jim Drone for his time and interest to discuss with me the Freedom 250 truck opportunity for cottagey. That, unfortunately, is no longer happening here. I noticed after reading his town council memo of May 14th to the consular summarizing this opportunity...
-
-
-### 2026-07-01 -- Town Council
-
-**7-1-2026 Town Council Special Meeting** _(topics: drone)_
-
-- `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=eglxa4Vo4xOVOKWj)  [jump to 0:22 ▸](https://vbfast-vod.viebit.com/coventry/eglxa4Vo4xOVOKWj/GMT20260701-225310_Recording_640x360.mp4#t=22)  > ...Present in the annex are Councilors John Hamm, Lisa Thomas, Peter Larson, Julie Blanchard, and Mike Newton. We're also joined by Town Manager Jim Drone, Special Projects Manager Alex Taylor, and the Chair and Vice Chair of the Charter Commission. Thank you for being here tonight....
-
-
-### 2026-08-17 -- Town Council
-
-**8-17-2026 Town Council Meeting** _(topics: alpr, drone)_
-
-- `alpr_flock` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=9YhkbSEGLtTMtdEO)  [jump to 2:04 ▸](https://vbfast-vod.viebit.com/coventry/9YhkbSEGLtTMtdEO/GMT20260817-225352_Recording_640x360.mp4#t=124)  > ...Any discussion? Anybody think we can remove anything from the consent agenda? I couldn't help but notice the answer to the question about the flock cameras, which, frankly, made me happy. So that's good. Do you want to pull that?...
-
-- `alpr_flock` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=9YhkbSEGLtTMtdEO)  [jump to 1:08:12 ▸](https://vbfast-vod.viebit.com/coventry/9YhkbSEGLtTMtdEO/GMT20260817-225352_Recording_640x360.mp4#t=4092)  > ...Chairwoman Thomas has. Asserted. That the town of Coventry is not currently looking to install flock cameras, which makes me happy. So I just wanted to share that with. The rest of the council....
-
-- `drone` [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=9YhkbSEGLtTMtdEO)  [jump to 1:09:29 ▸](https://vbfast-vod.viebit.com/coventry/9YhkbSEGLtTMtdEO/GMT20260817-225352_Recording_640x360.mp4#t=4169)  > ...Plus. Our town manager. Jim Drone. And. Yes....
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FuJSAf_xRtE&t=3342s)  > ...asked Lord just to throw some of the pictures that we got because it's just a really nice drone footage and you're going to see things that we don't see from the ground when we think about the...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -370,7 +327,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -513,11 +469,6 @@ Coventry is not looking to install flock cameras. Other councilors agreed.
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 2
@@ -633,6 +584,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | --- | --- |
 | Coventry CT — Government and Educational Programming (Viebit) | videos |
 | Coventry CT — Government and Educational Programming (Viebit) | streams |
+
+
+## Get the full transcripts
+
+**[Download Coventry's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/coventry-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip coventry-meeting-transcripts.zip -d coventry
+cd coventry
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

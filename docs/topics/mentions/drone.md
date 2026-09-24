@@ -1,6 +1,6 @@
 # Drones: every mention, every town
 
-_Generated 2026-09-10T18:05:47 — 2,571 mentions across 87 towns, 2013-12-04 to 2026-09-09._
+_Generated 2026-09-10T18:05:47 — 2,531 mentions across 86 towns, 2015-08-19 to 2026-09-09._
 
 
 Police and municipal drones, including 'drone as first responder' programmes that launch autonomously in response to calls.
@@ -26,65 +26,65 @@ _No human review has been applied to any mention in this file._
 | Middletown ⁽ⁿᵖ⁾ | **154** | · | 29 | 19% | 2021-07-19 | 2026-07-20 |
 | [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **114** | 1 | 13 | 46% | 2023-05-18 | 2026-07-28 |
 | [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **110** | 7 | 54 | 82% | 2020-02-04 | 2026-08-18 |
-| [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **107** | · | 15 | 95% | 2015-12-14 | 2026-08-03 |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **94** | 7 | 18 | 91% | 2021-02-09 | 2026-04-21 |
+| [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **105** | · | 13 | 95% | 2019-05-08 | 2026-08-03 |
+| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **93** | 7 | 17 | 91% | 2021-02-09 | 2026-04-21 |
 | [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **84** | · | 18 | 97% | 2020-09-09 | 2026-07-14 |
 | [Farmington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | **77** | · | 43 | 67% | 2021-09-28 | 2025-08-19 |
-| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **75** | · | 37 | 82% | 2020-10-06 | 2026-08-18 |
-| [Old Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | **69** | 2 | 35 | 71% | 2022-01-12 | 2026-08-11 |
+| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **74** | · | 36 | 82% | 2020-10-06 | 2026-08-18 |
+| [Old Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | **68** | 2 | 34 | 71% | 2022-01-12 | 2026-08-11 |
 | Stamford ⁽ⁿᵖ⁾ | **69** | · | 13 | 11% | 2023-12-12 | 2026-03-04 |
 | [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md) | **68** | · | 31 | 69% | 2024-01-08 | 2026-08-24 |
 | [Kent](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **67** | · | 19 | 74% | 2021-10-18 | 2026-08-13 |
-| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **65** | · | 34 | 84% | 2021-09-23 | 2026-06-23 |
+| [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **63** | · | 32 | 84% | 2021-09-23 | 2026-06-23 |
 | [Old Saybrook](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | **65** | 10 | 27 | 99% | 2025-06-23 | 2026-08-11 |
-| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **60** | 7 | 27 | 95% | 2013-12-04 | 2026-04-01 |
-| [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **59** | · | 42 | 98% | 2021-02-22 | 2026-08-06 |
-| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **58** | · | 20 | 98% | 2018-03-14 | 2026-08-24 |
-| [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **57** | · | 29 | 93% | 2017-03-29 | 2026-05-05 |
-| [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **56** | · | 7 | 23% | 2021-07-12 | 2026-05-14 |
-| [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **52** | · | 37 | 71% | 2018-03-22 | 2026-04-14 |
+| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **51** | 7 | 22 | 95% | 2018-08-01 | 2026-03-11 |
+| [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **58** | · | 41 | 98% | 2021-02-22 | 2026-08-06 |
+| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **57** | · | 19 | 98% | 2018-03-14 | 2026-08-24 |
+| [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **55** | · | 27 | 93% | 2017-05-16 | 2026-05-05 |
+| [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **55** | · | 6 | 23% | 2021-09-13 | 2026-05-14 |
+| [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **51** | · | 36 | 71% | 2018-03-22 | 2026-04-14 |
 | [East Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hartford/surveillance-tech-transcript-and-agenda-report.md) | **51** | · | 8 | 100% | 2023-06-06 | 2026-04-21 |
-| [Mansfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **49** | · | 22 | 78% | 2022-03-24 | 2026-04-30 |
-| [Wethersfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | **49** | · | 14 | 62% | 2020-09-01 | 2026-04-22 |
-| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **44** | · | 29 | 79% | 2015-08-19 | 2026-01-15 |
+| [Mansfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **48** | · | 21 | 78% | 2022-03-24 | 2026-04-30 |
+| [Wethersfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | **47** | · | 12 | 62% | 2020-09-01 | 2026-04-22 |
+| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **42** | · | 27 | 79% | 2015-08-19 | 2026-01-15 |
 | [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **43** | · | 18 | 94% | 2022-02-07 | 2026-06-25 |
 | [Columbia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | **42** | · | 18 | 60% | 2023-01-17 | 2026-05-07 |
-| [Simsbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | **40** | 5 | 29 | 69% | 2018-03-26 | 2026-05-07 |
+| [Simsbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | **38** | 5 | 27 | 69% | 2018-03-28 | 2026-05-07 |
 | [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **39** | 1 | 22 | 73% | 2021-11-17 | 2026-08-06 |
 | [Somers](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/somers/surveillance-tech-transcript-and-agenda-report.md) | **39** | · | 15 | 55% | 2022-12-13 | 2026-08-18 |
 | [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **38** | · | 24 | 78% | 2022-06-07 | 2026-08-11 |
-| [Watertown](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | **38** | · | 8 | 78% | 2023-03-07 | 2026-03-11 |
+| [Watertown](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | **37** | · | 7 | 78% | 2023-03-07 | 2026-03-11 |
 | [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **34** | · | 19 | 86% | 2017-09-11 | 2026-09-09 |
 | [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **33** | · | 9 | 90% | 2020-08-13 | 2026-04-14 |
 | [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **32** | · | 4 | 76% | 2024-09-10 | 2026-04-14 |
 | [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **31** | · | 19 | 98% | 2022-06-07 | 2026-07-09 |
-| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **30** | · | 17 | 82% | 2022-02-22 | 2026-06-09 |
-| [Monroe](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **30** | · | 18 | 67% | 2020-06-18 | 2026-05-21 |
+| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **29** | · | 16 | 82% | 2022-02-22 | 2026-06-09 |
+| [Monroe](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **29** | · | 17 | 67% | 2020-06-18 | 2026-05-21 |
 | [Cheshire](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | **27** | · | 15 | 46% | 2022-03-29 | 2026-04-14 |
 | [East Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | **23** | · | 3 | 97% | 2024-05-28 | 2025-04-09 |
 | [Danbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | **21** | 6 | 13 | 16% | 2024-03-27 | 2026-09-01 |
 | [New Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **21** | · | 10 | 44% | 2022-07-14 | 2026-07-23 |
 | [Rocky Hill](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | **21** | · | 9 | 47% | 2022-10-18 | 2026-04-21 |
 | [Plainville](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainville/surveillance-tech-transcript-and-agenda-report.md) | **19** | · | 15 | 72% | 2019-04-08 | 2026-08-17 |
-| [Norwich](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | **18** | 2 | 10 | 54% | 2025-04-08 | 2026-09-03 |
+| [Norwich](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | **17** | 2 | 9 | 54% | 2025-08-19 | 2026-09-03 |
 | [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **16** | · | 11 | 95% | 2018-09-10 | 2025-04-24 |
 | [Plainfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | **14** | · | 12 | 62% | 2021-09-01 | 2026-04-08 |
 | [Coventry](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/coventry/surveillance-tech-transcript-and-agenda-report.md) | **13** | · | 11 | 73% | 2020-03-05 | 2026-08-17 |
 | [Killingworth](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingworth/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 7 | 71% | 2020-04-22 | 2026-02-09 |
 | [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 10 | 44% | 2020-04-15 | 2024-06-03 |
 | [Naugatuck](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 5 | 58% | 2024-03-04 | 2026-08-04 |
-| [Ashford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | **9** | · | 7 | 49% | 2020-11-10 | 2026-03-06 |
+| [Ashford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 5 | 49% | 2020-11-10 | 2024-10-21 |
 | [East Hampton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | **8** | 2 | 5 | 55% | 2024-01-09 | 2026-02-04 |
-| [Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/granby/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 7 | 98% | 2024-03-18 | 2026-06-03 |
+| [Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/granby/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 5 | 98% | 2024-03-18 | 2026-03-05 |
 | [Portland](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/portland/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 8 | 49% | 2022-09-01 | 2026-02-26 |
-| [Bethel](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 6 | 76% | 2021-03-16 | 2026-03-10 |
+| [Bethel](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 5 | 76% | 2021-03-16 | 2025-09-22 |
 | [Bridgeport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 3 | 90% | 2026-01-20 | 2026-08-03 |
 | [Killingly](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 3 | 64% | 2024-02-06 | 2026-09-08 |
 | [Canterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/canterbury/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 2 | 39% | 2023-09-13 | 2026-03-17 |
 | [Clinton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/clinton/surveillance-tech-transcript-and-agenda-report.md) | **5** | 1 | 3 | 52% | 2025-10-01 | 2026-07-01 |
 | Barkhamsted ⁽ⁿᵖ⁾ | **4** | 4 | 4 | — | 2025-10-14 | 2026-02-26 |
 | [Lebanon](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/lebanon/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 83% | 2024-08-27 | 2026-03-16 |
-| [Seymour](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 83% | 2021-03-04 | 2026-03-05 |
+| [Seymour](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 83% | 2021-03-04 | 2026-03-05 |
 | [Sterling](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/sterling/surveillance-tech-transcript-and-agenda-report.md) | **4** | 1 | 3 | 96% | 2025-06-10 | 2026-06-04 |
 | [Ansonia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 96% | 2017-08-09 | 2025-06-11 |
 | Beacon Falls ⁽ⁿᵖ⁾ | **3** | 3 | 3 | — | 2026-03-16 | 2026-07-20 |
@@ -109,7 +109,6 @@ _No human review has been applied to any mention in this file._
 | [New Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 76% | 2024-06-26 | 2024-06-26 |
 | [Plymouth](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plymouth/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 38% | 2026-04-15 | 2026-04-15 |
 | Salem ⁽ⁿᵖ⁾ | **1** | 1 | 1 | 0% | 2026-07-20 | 2026-07-20 |
-| [Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 49% | 2018-11-20 | 2018-11-20 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -281,7 +280,7 @@ _102 further mentions in East Windsor not shown here — all of them are in [Eas
 _98 further mentions in Darien not shown here — all of them are in [Darien's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Milford — 107 mentions
+### Milford — 105 mentions
 
 - **[2026-08-03] Board of Aldermen** — Board Of Aldermen 08/03/2026
   > …pending. And this is not only cameras. There are red light school and red light and school zone speed cameras, a drone program, and a 13person staffed realtime intelligence center that ties it all…
@@ -332,10 +331,10 @@ _98 further mentions in Darien not shown here — all of them are in [Darien's f
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PVYcbEaB9LY&t=2128s)  _(term: `drone`)_
 
 
-_95 further mentions in Milford not shown here — all of them are in [Milford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md)._
+_93 further mentions in Milford not shown here — all of them are in [Milford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### New Haven — 94 mentions
+### New Haven — 93 mentions
 
 - **[2026-04-21] Public Safety Committee** — BoA Public Safety Committee 4/21/2026
   > …and efficiency level and also the community because we're not you know exposing people to the drone of gunfire in the middle of the day. That's a good that's a good and wise choice.…
@@ -386,7 +385,7 @@ _95 further mentions in Milford not shown here — all of them are in [Milford's
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=8aQFRUVbIZ8&t=578s)  _(term: `drone`)_
 
 
-_82 further mentions in New Haven not shown here — all of them are in [New Haven's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)._
+_81 further mentions in New Haven not shown here — all of them are in [New Haven's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Southington — 84 mentions
@@ -497,7 +496,7 @@ _72 further mentions in Southington not shown here — all of them are in [South
 _65 further mentions in Farmington not shown here — all of them are in [Farmington's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/farmington/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Groton — 75 mentions
+### Groton — 74 mentions
 
 - **[2026-08-18] Historic District Commission** — Groton Historic District Commission - 8/18/26
   > …the left side uh there's keep going go to the I guess you have to do it opposite. Go right. Pull the drone. There you go. That one there. Yeah. Um, it's a little bit awkward. That flat…
@@ -548,10 +547,10 @@ _65 further mentions in Farmington not shown here — all of them are in [Farmin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d1047cn85wM&t=1672s)  _(term: `drone`)_
 
 
-_63 further mentions in Groton not shown here — all of them are in [Groton's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md)._
+_62 further mentions in Groton not shown here — all of them are in [Groton's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Old Lyme — 69 mentions
+### Old Lyme — 68 mentions
 
 - **[2026-08-11] Road and Public Safety Committee** — Road and Public Safety Committee Meeting 8/11/26
   > …totally huge number of violations in town. Um, one of the things he wanted to do was get a drone that was going to be for basically emergency rescue things. If…
@@ -602,7 +601,7 @@ _63 further mentions in Groton not shown here — all of them are in [Groton's f
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=C4u_HyD10oo&t=777s)  _(term: `drone`)_
 
 
-_57 further mentions in Old Lyme not shown here — all of them are in [Old Lyme's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md)._
+_56 further mentions in Old Lyme not shown here — all of them are in [Old Lyme's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Stamford — 69 mentions
@@ -767,7 +766,7 @@ _56 further mentions in Westport not shown here — all of them are in [Westport
 _55 further mentions in Kent not shown here — all of them are in [Kent's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/kent/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### New Canaan — 65 mentions
+### New Canaan — 63 mentions
 
 - **[2026-06-23] Board of Selectmen** — Board of Selectmen Meeting June 23, 2026
   > …weeks ago or or so, that was that's to be used as a command vehicle and drone operation vehicle. And to transport some maybe pieces of equipment as as possible, but…
@@ -818,7 +817,7 @@ _55 further mentions in Kent not shown here — all of them are in [Kent's full 
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=WGdudJznST4&t=1137s)  _(term: `drone`)_
 
 
-_53 further mentions in New Canaan not shown here — all of them are in [New Canaan's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md)._
+_51 further mentions in New Canaan not shown here — all of them are in [New Canaan's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Old Saybrook — 65 mentions
@@ -875,15 +874,7 @@ _53 further mentions in New Canaan not shown here — all of them are in [New Ca
 _53 further mentions in Old Saybrook not shown here — all of them are in [Old Saybrook's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### East Lyme — 60 mentions
-
-- **[2026-04-01] Board of Selectmen** — East Lyme, CT Board of Selectmen 04/01/2026
-  > …represent them. Two weeks ago, four candidates, Tony Atinazio, Mike Beckett, Carrie Edwards, and Kathy UAS were presented to you. All great candidates with different backgrounds, but would…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bevKccEFfC8&t=364s)  _(term: `drone`)_
-
-- **[2026-03-18] Board of Selectmen** — East Lyme, CT Board of Selectmen 03/18/2026
-  > …>> Appreciate it. >> And next is Kathy. Hi. Um Kathy UAS, [address redacted] Extension here in Niantic. Uh good evening and thank you for the…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vtn8wWVXhgI&t=3187s)  _(term: `drone`)_
+### East Lyme — 51 mentions
 
 - **[2026-03-11] Board of Finance** — East Lyme, CT Board of Finance 03/11/2026
   > …bring that back because she did get a position cut. She did ask for a part-time admin as well as drone. Um, those both got cut. That department did get a cut. Um, but it's a $100,000…
@@ -926,10 +917,10 @@ _53 further mentions in Old Saybrook not shown here — all of them are in [Old 
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4346s)  _(term: `drone`)_
 
 
-_48 further mentions in East Lyme not shown here — all of them are in [East Lyme's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md)._
+_41 further mentions in East Lyme not shown here — all of them are in [East Lyme's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Norwalk — 59 mentions
+### Norwalk — 58 mentions
 
 - **[2026-08-06] Economic and Community Development Committee** — Economic and Community Development Committee 08-06-2026
   > …You know, the the highlight that we have of their new tenant is uh uh Quantum Cyber. It's the headquarters for a drone manufacturer. You may have read about it in the newspaper. Uh they bought a large…
@@ -980,10 +971,10 @@ _48 further mentions in East Lyme not shown here — all of them are in [East Ly
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=FHj4mCuaDuc&t=5895s)  _(term: `drone`)_
 
 
-_47 further mentions in Norwalk not shown here — all of them are in [Norwalk's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md)._
+_46 further mentions in Norwalk not shown here — all of them are in [Norwalk's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Fairfield — 58 mentions
+### Fairfield — 57 mentions
 
 - **[2026-08-24] Representative Town Meeting** — Representative Town Meeting (Regular Meeting) - 8/24/2026
   > …designed to integrate the 54 outpost cameras. We're going to have all the police dashboard cameras, police drone cameras, body cameras, and up to 225 third-party cameras from businesses and…
@@ -1034,10 +1025,10 @@ _47 further mentions in Norwalk not shown here — all of them are in [Norwalk's
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=nQQ2spUpACE&t=15673s)  _(term: `drone`)_
 
 
-_46 further mentions in Fairfield not shown here — all of them are in [Fairfield's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md)._
+_45 further mentions in Fairfield not shown here — all of them are in [Fairfield's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### West Hartford — 57 mentions
+### West Hartford — 55 mentions
 
 - **[2026-05-05] Public Safety Committee** — Public Safety Committee Virtual Meeting - May 5, 2026
   > …class of drug a driver may be impaired on um besides alcohol. In addition to that, I have two drone pilots. Uh all of our officers in traffic are uh drager instructors. That is the machine that we…
@@ -1088,10 +1079,10 @@ _46 further mentions in Fairfield not shown here — all of them are in [Fairfie
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=lASDvzkljxE&t=1810s)  _(term: `drone`)_
 
 
-_45 further mentions in West Hartford not shown here — all of them are in [West Hartford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md)._
+_43 further mentions in West Hartford not shown here — all of them are in [West Hartford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### North Haven — 56 mentions
+### North Haven — 55 mentions
 
 - **[2026-05-14] Board of Education** — Board of Education 05/14/2026
   > …our CTE coordinator. And the grant will enhance eighth grade technical education by integrating hands-on drone technology into the curriculum. So, we're very thankful for the Ed Foundation and Amy…
@@ -1142,10 +1133,10 @@ _45 further mentions in West Hartford not shown here — all of them are in [Wes
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4kMmU-hvXfo&t=3115s)  _(term: `drone`)_
 
 
-_44 further mentions in North Haven not shown here — all of them are in [North Haven's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md)._
+_43 further mentions in North Haven not shown here — all of them are in [North Haven's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### North Branford — 52 mentions
+### North Branford — 51 mentions
 
 - **[2026-04-14] Town Council** — NB Town Council Budget Workshop 4/14/26
   > …>> Okay. >> And just to make it clear on the the drone Harrison, the the the the granite curbing is in the bus way. It's not the whole place.…
@@ -1196,7 +1187,7 @@ _44 further mentions in North Haven not shown here — all of them are in [North
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Y6upWIXr_Zs&t=5373s)  _(term: `drone`)_
 
 
-_40 further mentions in North Branford not shown here — all of them are in [North Branford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md)._
+_39 further mentions in North Branford not shown here — all of them are in [North Branford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### East Hartford — 51 mentions
@@ -1253,7 +1244,7 @@ _40 further mentions in North Branford not shown here — all of them are in [No
 _39 further mentions in East Hartford not shown here — all of them are in [East Hartford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hartford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Mansfield — 49 mentions
+### Mansfield — 48 mentions
 
 - **[2026-04-30] Board of Education** — Board of Education 04/30/2026
   > …they were able to come to enrichment for Xlock. Um middle at the bottom is a bird's eye view from the drone of students testing their robots in bsentennial…
@@ -1266,10 +1257,6 @@ _39 further mentions in East Hartford not shown here — all of them are in [Eas
 - **[2026-02-09] Town Council** — Town Council 2/9/2026
   > …the part that's still not done. They have to run the wire from 89 all the way down the road, connect it so you can send the power out. >> I'll uh I'll circulate a drone photo of it to the council so you can get a sense. It's pretty pretty visually dramatic. Yeah. >> And also here's future swap shop. I know we've been talking about this for a…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Hr1R1GwB2eU&t=6351s)  _(term: `drone`)_
-
-- **[2025-07-17] Economic Development Commission** — Economic Development Commission 07/17/2025
-  > …it. Um, I'm going to share my screen again because it's easier to look at stuff than listen to me drone on. Uh there we go. So um we had it kind of broken out into three different groups…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=MHpRmezH5bo&t=2329s)  _(term: `drone`)_
 
 - **[2025-06-18] Conservation Commission** — Conservation Commission 06/18/2025
   > …Fun facts. Fun facts. We learned something today. Um, I have a question about uh drone activities. Okay. Particularly around town events. I…
@@ -1307,7 +1294,7 @@ _39 further mentions in East Hartford not shown here — all of them are in [Eas
 _37 further mentions in Mansfield not shown here — all of them are in [Mansfield's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Wethersfield — 49 mentions
+### Wethersfield — 47 mentions
 
 - **[2026-04-22] Budget Work Session** — Budget Work Session  -  April 22, 2026
   > …>> [snorts] >> Um The second item for FAA drone pilot testing, we bought a drone last year. We have a couple of department staff that…
@@ -1320,10 +1307,6 @@ _37 further mentions in Mansfield not shown here — all of them are in [Mansfie
 - **[2026-04-22] Budget Work Session** — Budget Work Session  -  April 22, 2026
   > …maybe. So, we have some staff that are taking classes on that now. Got you. And when did we purchase the drone for? Um I want to say it was maybe a year and a half ago. And everything in technology,…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jlo2-qScSgY&t=2791s)  _(term: `drone`)_
-
-- **[2026-03-24] Board of Education** — Board of Education Meeting  -  March 24, 2026
-  > …45-minute scheduled time to align with the other UAs. But the elementary media technical associate role was never changed.…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=FR0-VFjZSZE&t=1417s)  _(term: `drone`)_
 
 - **[2025-04-07] Town Council** — Town Council Meeting - April 7, 2025
   > …Mayor. Uh this is a sort of a dual question. The first is can you give us the status on um our drone which I believe we have but if you could let us know what that is and would it have…
@@ -1358,10 +1341,10 @@ _37 further mentions in Mansfield not shown here — all of them are in [Mansfie
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1779s)  _(term: `drone`)_
 
 
-_37 further mentions in Wethersfield not shown here — all of them are in [Wethersfield's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md)._
+_36 further mentions in Wethersfield not shown here — all of them are in [Wethersfield's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Guilford — 44 mentions
+### Guilford — 42 mentions
 
 - **[2026-01-15] Board of Selectmen** — Board of Selectmen Budget Workshop January 15, 2026
   > …>> Airplane? >> Yep. >> An airplane or a drone? >> No, it's airplane. Airplane. >> Crazy.…
@@ -1412,7 +1395,7 @@ _37 further mentions in Wethersfield not shown here — all of them are in [Weth
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=MMtY0vSzEXo&t=4876s)  _(term: `drone`)_
 
 
-_32 further mentions in Guilford not shown here — all of them are in [Guilford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md)._
+_30 further mentions in Guilford not shown here — all of them are in [Guilford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Brookfield — 43 mentions
@@ -1523,7 +1506,7 @@ _31 further mentions in Brookfield not shown here — all of them are in [Brookf
 _30 further mentions in Columbia not shown here — all of them are in [Columbia's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/columbia/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Simsbury — 40 mentions
+### Simsbury — 38 mentions
 
 - **[2026-05-07] Board of Selectmen** — Board of Selectmen - Subcommittees Agenda - 2026-05-07
   > …Monday night drills, and is one of only a handful of district firefighters, and the only minor!, to hold a Commercial FAA Part 107 drone license to operate the department's firefighting drone (Note that fewer than 100 girls under 18 hold this certification nationally out o…
@@ -1574,7 +1557,7 @@ _30 further mentions in Columbia not shown here — all of them are in [Columbia
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=f5w_rmgM9Zo&t=5090s)  _(term: `drone`)_
 
 
-_28 further mentions in Simsbury not shown here — all of them are in [Simsbury's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md)._
+_26 further mentions in Simsbury not shown here — all of them are in [Simsbury's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Newington — 39 mentions
@@ -1739,7 +1722,7 @@ _27 further mentions in Somers not shown here — all of them are in [Somers's f
 _26 further mentions in Berlin not shown here — all of them are in [Berlin's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Watertown — 38 mentions
+### Watertown — 37 mentions
 
 - **[2026-03-11] Police Commission** — Police Commission 3.11.26
   > …that they're looking to upgrade. We're also looking to purchase a new police drone uh in this budget. Um the drone that we currently have, which is about 10 years old now, is of Chinese origin.…
@@ -1790,7 +1773,7 @@ _26 further mentions in Berlin not shown here — all of them are in [Berlin's f
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=H76u-kTr0Jo&t=2308s)  _(term: `drone`)_
 
 
-_26 further mentions in Watertown not shown here — all of them are in [Watertown's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/watertown/surveillance-tech-transcript-and-agenda-report.md)._
+_25 further mentions in Watertown not shown here — all of them are in [Watertown's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/watertown/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Waterbury — 34 mentions
@@ -2009,7 +1992,7 @@ _20 further mentions in Bristol not shown here — all of them are in [Bristol's
 _19 further mentions in Orange not shown here — all of them are in [Orange's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### East Haddam — 30 mentions
+### East Haddam — 29 mentions
 
 - **[2026-06-09] Planning & Zoning Commission** — Planning & Zoning Commission - 6.9.2026
   > …>> Damn right. Damn right. >> You getting a drone approval for your office? >> I don't need it. I got Google Earth. It…
@@ -2060,10 +2043,10 @@ _19 further mentions in Orange not shown here — all of them are in [Orange's f
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=XIdMpY9yndQ&t=466s)  _(term: `drone`)_
 
 
-_18 further mentions in East Haddam not shown here — all of them are in [East Haddam's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md)._
+_17 further mentions in East Haddam not shown here — all of them are in [East Haddam's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Monroe — 30 mentions
+### Monroe — 29 mentions
 
 - **[2026-05-21] Planning & Zoning Commission** — Town of Monroe Ct Planning & Zoning Commission Regular Meeting 05/21/2026
   > …So, this may also be a little difficult to follow, but what we did was we took a drone flight um in April of 2026, and we overlaid the contour shown on red over the proposed approved grades. Um, and…
@@ -2114,7 +2097,7 @@ _18 further mentions in East Haddam not shown here — all of them are in [East 
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=akBT2gFfc4g&t=717s)  _(term: `drone`)_
 
 
-_18 further mentions in Monroe not shown here — all of them are in [Monroe's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/monroe/surveillance-tech-transcript-and-agenda-report.md)._
+_17 further mentions in Monroe not shown here — all of them are in [Monroe's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/monroe/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Cheshire — 27 mentions
@@ -2441,7 +2424,7 @@ _9 further mentions in Rocky Hill not shown here — all of them are in [Rocky H
 _7 further mentions in Plainville not shown here — all of them are in [Plainville's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainville/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Norwich — 18 mentions
+### Norwich — 17 mentions
 
 - **[2026-09-03] Inland Wetlands, Watercourses & Conservation Commission** — Inland Wetlands, Water Courses & Conservation Commission Agenda - 2026-09-03
   > …09, IWWCC #26-10): The six distinct votes to receive, table, and schedule public hearings for October 1, 2026. • Item #4: Procedural Approvals: Ratification of votes authorizing a narrated drone flyover in lieu of a site walk, and authorizing staff to contract with a neutral third-party review for wetlands impacts. F. OLD BUSINESS: 1. IWWCC #26-07: 91 Case Street. Applicatio…
@@ -2492,7 +2475,7 @@ _7 further mentions in Plainville not shown here — all of them are in [Plainvi
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=p1ceTLOx20Q&t=4281s)  _(term: `drone`)_
 
 
-_6 further mentions in Norwich not shown here — all of them are in [Norwich's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md)._
+_5 further mentions in Norwich not shown here — all of them are in [Norwich's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Hartford — 16 mentions
@@ -2798,15 +2781,7 @@ _1 further mention in Coventry not shown here — all of them are in [Coventry's
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=1008s)  _(term: `drone`)_
 
 
-### Ashford — 9 mentions
-
-- **[2026-03-06] Board of Finance** — Board of Finance, March 6, 2026
-  > …and our current revenue estimate um and the reval which if you've joined any other meetings you've heard me drone on and on about that. Uh this and this reval makes life difficult. It shifts…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LBqQ9Rmvlxs&t=6307s)  _(term: `drone`)_
-
-- **[2025-04-08] Board of Finance** — Board of Finance, April 8, 2025
-  > …it while we have it. Um, and thank you for your patience and listening to me drone on about money. And thank you to the first selectwoman for the hard work that she…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nKYWcpXL3RY&t=3090s)  _(term: `drone`)_
+### Ashford — 7 mentions
 
 - **[2024-10-21] Board of Selectmen** — Board of Selectmen, October 21, 2024
   > …as a result of that change order um the solar um solar guy um took a drone and put it over there uh on uh Saturday but in addition Garland has been monitoring this project all…
@@ -2872,19 +2847,11 @@ _1 further mention in Coventry not shown here — all of them are in [Coventry's
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=fotgs7IEj28&t=1362s)  _(term: `drone`)_
 
 
-### Granby — 8 mentions
-
-- **[2026-06-03] Board of Education** — Granby Board of Education - 06-03-26
-  > …from reliable sources. In addition to talking about our core classes, we also reflected on our UAS. So, I chose band. Overall, I was most proud of how I've developed as a…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1KRACU734CE&t=1444s)  _(term: `drone`)_
+### Granby — 6 mentions
 
 - **[2026-03-05] Board of Finance** — Granby 2026-2027 Budget Workshop #1 - 03-05-26
   > …Avon, Farmington, um US, uh Canton. So, we all share a SWAT team, accident reconstruction team, uh a drone team, and a negotiator's team. So, um it would cost us…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=F3rBUldgk4A&t=8040s)  _(term: `drone`)_
-
-- **[2025-11-19] Board of Education** — Granby Board of Education - 11-19-25
-  > …obviously one for reading one for math would there be any other subjects on >> science social studies the UAS and work habits and habits of mind >> and so the teachers have to input all of…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cfN7ql8g4dI&t=2487s)  _(term: `drone`)_
 
 - **[2025-10-06] Capital Program Priority Advisory Committee** — Granby Capital Program Priority Advisory Committee - 10-06-25
   > …>> next slide, please. This is an aerial view. Um drone footage of the fields. You can see those two locations that we just talked about. And then that dark green spot,…
@@ -2942,11 +2909,7 @@ _1 further mention in Coventry not shown here — all of them are in [Coventry's
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bOSMhn2uB2Y&t=1724s)  _(term: `drone`)_
 
 
-### Bethel — 6 mentions
-
-- **[2026-03-10] Planning & Zoning Commission** — Planning & Zoning Commission Regular Meeting - 03/10/2026
-  > …Um, and rather than reading these verbatim into the record, they're in the record, so I won't drone on, but I will rely on your review of those statements and their presence in the record for…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=inEOHQYQMPw&t=838s)  _(term: `drone`)_
+### Bethel — 5 mentions
 
 - **[2025-09-22] Inland Wetlands Commission** — Inland Wetlands Commission Regular Meeting - 09/22/2025
   > …talking about. though. >> Could could the Inland Wetlands Commission just invest in a drone and then we don't have to >> Yeah, that anymore.…
@@ -3107,15 +3070,11 @@ _1 further mention in Coventry not shown here — all of them are in [Coventry's
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=EbZJav5uu3E&t=4174s)  _(term: `drone`)_
 
 
-### Seymour — 4 mentions
+### Seymour — 3 mentions
 
 - **[2026-03-05] Budget Hearing / State of the Town** — Board of Finance: Budget Workshop Meeting 03042026
   > …purchases. So, >> it just makes sense. >> The Narcan dispersing drone. >> Yes. >> All right.…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=qdrqDbtEkMg&t=3825s)  _(term: `drone`)_
-
-- **[2025-10-22] Board of Selectmen** — BOS 20251021
-  > …manpower and um things that are needed. Um I appreciate your uh the board's listening to me drone on for just a minute and I promise I'm halfway through. I am going to have a hand…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KrKKRi5-4Ns&t=1133s)  _(term: `drone`)_
 
 - **[2025-01-22] Board of Selectmen** — BOS Ordinance Committee 20250121
   > …view but if I invite people on you know as long as I could see it it's one thing if no one can see it except by drone perhaps or space Karen that was big on Karen that was when M Stan was on the…
@@ -3393,10 +3352,4 @@ _1 further mention in Coventry not shown here — all of them are in [Coventry's
   > …ommunity Picnic, which was cancelled due to inclement weather. The Salem Seniors Group will be offering hot dogs, snacks, and drinks at the July Summer Concert for a donation to help fund a drone show. 8. Salem Seniors Group Report Salem Seniors Group Liaison Commissioner Valentini reported on the many activities the Group is hosting, including monthly raffles, Veterans’ Cof…
   [Open document ▸](https://www.salemct.gov/AgendaCenter/ViewFile/Minutes/_07202026-249)  _(agenda/minutes · term: `drone`)_
 
-
-### Windsor — 1 mention
-
-- **[2018-11-20] Board of Education** — 2018 Windsor Board of Education Special Meeting November 6
-  > …teacher surveys so this is where I am gonna depart a little bit from my promise not to drone on because I just read home visit surveys some of which were done in the home but here's an…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vWRlCUpoTRY&t=1024s)  _(term: `drone`)_
 

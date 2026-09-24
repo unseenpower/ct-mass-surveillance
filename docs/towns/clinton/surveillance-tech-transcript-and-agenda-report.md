@@ -3,25 +3,29 @@
 
 ## At a glance: Clinton
 
+<p class="glance-headline"><strong>24 mentions</strong> of surveillance technology in <strong>9</strong> Clinton meetings, 2025–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">24</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 9 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2025–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2025-09-03 → 2026-07-01</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones</span></a>
+<a class="glance-card" href="../../../analysis/towns/clinton-alpr-searches.html"><span class="gc-big">3,077</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Clinton police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">52%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">107 of 205 meetings</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">5</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
+</div>
+
+**Not the full history:** transcripts begin **2021-08-18**, but Clinton's published video archive goes back to **2019-10-09**. Meetings before 2021 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
 This report collects every mention of surveillance technology found in **Clinton**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **24 mentions** across **9 meetings**
-- **First mention:** 2025-09-03  |  **Most recent:** 2026-07-01
-- **Technologies discussed:** alpr, drone
-- **Coverage:** 107 of 205 known Clinton meetings transcribed (52%)
-- **Not the full history:** transcripts begin **2021-08-18**, but Clinton's published video archive goes back to **2019-10-09**. Meetings before 2021 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-- **5 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
+- [Licence-plate searches by Clinton police](#licence-plate-searches-by-clinton-police)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -32,147 +36,118 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
-## Get the full transcripts
+## Licence-plate searches by Clinton police
 
-**[Download Clinton's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/clinton-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+Six Connecticut towns have released the Flock audit log of every search run against their cameras. Below is what that record holds for Clinton's own police department -- not a finding, just the log.
 
 
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+**Clinton CT PD**
+
+- **3,077 searches** between 2024-12 and 2026-07 (20 months with at least one search)
+- **805 camera networks** swept by the average single search
+- **100%** of them reached beyond Clinton's own cameras
+- The commonest stated reason is free text or a numeric code, rather than one of the preset categories Flock introduced in December 2025
+
+**[Open Clinton CT PD's search dashboard](../../analysis/towns/clinton-alpr-searches.html)** -- every one of those searches, filterable by month, stated reason, search type and how far it reached, with a **[How to read this](../../analysis/towns/clinton-alpr-searches.html#how)** tab covering what each field means and what the record cannot tell you.
 
 
-**How to use it**
-
-```bash
-unzip clinton-meeting-transcripts.zip -d clinton
-cd clinton
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+> **A floor, not a total.** The record only sees queries that reached those six towns' cameras. A single Flock query typically sweeps thousands of networks at once, so most of a Connecticut department's searching does land in it -- but the real count is higher. Nothing in it names an officer, shows a plate, or records what any search returned.
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+**Back to the meetings.** Everything above this point was about licence-plate *searches* -- what the town's police looked up. Everything below is about what was *said*: each mention is a moment in a recorded public meeting where a surveillance technology came up, with a link to that moment in the video.
+
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 20 | 7 | 2025-09-03 | 2026-04-15 |
-| drone | 4 | 2 | 2025-10-01 | 2026-07-01 |
+| [ALPR / Flock](#alpr) | 20 | 7 | 2025-09-03 | 2026-04-15 |
+| [Drones](#drone) | 4 | 2 | 2025-10-01 | 2026-07-01 |
 
 
 ## Timeline
 
-9 meetings surfaced a finding (9 dated, spanning 2025-09-03 to 2026-07-01; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+9 meetings surfaced a finding (9 dated, spanning 2025-09-03 to 2026-07-01; 0 of unknown date, listed last). Newest first.
 
-### 2025-09-03 -- Town Council
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-07-01.*
 
-**Clinton Town Council - September 3 2025** _(topics: alpr)_
+??? note "Earlier meetings (9)"
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0zwIjp7t-rA&t=1739s)  > ...traffic safety devices. It has to do with license plate readers, which is a different vendor, which is Flock. It also stated that we had 96 cameras, which we do not. We only have eight, and...
+    **2026-07-01 -- Town Council**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0zwIjp7t-rA&t=1773s)  > ...to us and it's purged per state statute. Which vendor are you talking about? >> Flock. >> Okay. So my concern just remains the same as...
+    **Clinton Town Council - July 1 2026** _(topics: drone)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0zwIjp7t-rA&t=1794s)  > ...concern uh as well. Uh and we make sure that we follow all the state statutes and flock is a major vendor to the state of Connecticut as well. So we're not violating the trust act. Um, all that...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VhFIZ_cjrOA&t=3680s)  > ...>> Great. Any comments on that? Um, and then the last thing that I went to Old Sabre Day, um, Sunday they had the drone show. So, it was, I think, the first drone show in Connecticut and it was...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VhFIZ_cjrOA&t=3684s)  > ...Sabre Day, um, Sunday they had the drone show. So, it was, I think, the first drone show in Connecticut and it was pretty neat. It was pretty short. It was less than 15 minutes. I don't know if...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VhFIZ_cjrOA&t=3725s)  > ...and they go into shape. Actually, it's it's it's the first one. So there was some challenges. You'd see a drone fall out of position and go back to earth. You know, it was like an American flag...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0zwIjp7t-rA&t=1824s)  > ...the rules in which they need to operate within this state. So, um, at this point, I don't see flock being bought out by anybody. As a matter of fact, I see them probably buying out most...
+    **2026-04-15 -- Town Council**
 
+    **Clinton Town Council - April 15 2026** _(topics: alpr)_
 
-### 2025-09-03 -- Town Council
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9PAKYH9fF34&t=582s)  > ...here. Um I shared information that questions the attempt to nearly separate Flock and ALPR from Ultraman and ATESD as as if residents are supposed to believe those...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9PAKYH9fF34&t=586s)  > ...Um I shared information that questions the attempt to nearly separate Flock and ALPR from Ultraman and ATESD as as if residents are supposed to believe those are completely separate conversations...
 
-**Clinton Town Council - September 3 2025** _(topics: alpr)_
+    **2026-03-18 -- Town Council**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LARXm7zC0yk&t=1739s)  > ...traffic safety devices. It has to do with license plate readers, which is a different vendor, which is Flock. It also stated that we had 96 cameras, which we do not. We only have eight, and...
+    **Clinton Town Council - March 18 2026** _(topics: alpr)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LARXm7zC0yk&t=1773s)  > ...to us and it's purged per state statute. Which vendor are you talking about? >> Flock. >> Okay. So my concern just remains the same as...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5025s)  > ...>> So they just want regulatory oversight on where the data goes. So the guy, the gentleman from Flock came and testified and his testimony was very straightforward. We have the data after...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5172s)  > ...oversight in that. >> Make that to make that clear. That's the flock cameras, not the hearing we're having next week on the what we call >> the speed cameras are completely...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5247s)  > ...>> So, a deletion doesn't necessarily mean a deletion, you know. And then that the gentleman from Flock talked about like the the uh the cloud. >> I mean, it's going to be somewhere,...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5304s)  > ...to get picked up on the and the data is going to be in the cloud, the only way to stop that is to not have flock cameras that I can think of. And I don't think that...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5706s)  > ...it Monday and uh it was very nice and uh I suggested to him if possibly if he could do the same thing for Flock uh to explain a lot of things just like Chris is trying to do right now about...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LARXm7zC0yk&t=1794s)  > ...concern uh as well. Uh and we make sure that we follow all the state statutes and flock is a major vendor to the state of Connecticut as well. So we're not violating the trust act. Um, all that...
+    **2026-02-04 -- Town Council**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LARXm7zC0yk&t=1824s)  > ...the rules in which they need to operate within this state. So, um, at this point, I don't see flock being bought out by anybody. As a matter of fact, I see them probably buying out most...
+    **Clinton Town Council - February 4 2026** _(topics: alpr)_
 
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=RTxmTsz_bx8&t=3287s)  > ...conversation with our folks at the police department as an official agenda item about the flock cameras that exist in town. We made our decision on those like a year and a half or so ago, and I...
 
-### 2025-10-01 -- Town Council
+    **2026-01-21 -- Town Council**
 
-**Clinton Town Council - October 1 2025** _(topics: drone)_
+    **Clinton Town Council  - January 21 2026** _(topics: alpr)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=h246j7advzs&t=4264s)  > ...hosting it. And so there was a lot of talk and questions that the town consider a drone light show. Just throwing it out there. Um I have been speaking with a lot of...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7FxKTImpO8U&t=1138s)  > ...they're six, five or six years old. He also figured that they want to upgrade a little bit of their the flock cameras. Those are those cameras that take pictures of the license plates of most...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7FxKTImpO8U&t=1156s)  > ...bad guys are probably listening in, but uh they're making a lot of arrests off those flock cameras. A lot of preventive just to give you a slight hint is that come come down 81 and if you happen to...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7FxKTImpO8U&t=1203s)  > ...he came out, the police were waiting for him right there at the library and arrest was made. So the flock cameras have been successful in many other ways also....
 
+    **2025-11-19 -- Town Council**
 
-### 2025-11-19 -- Town Council
+    **Clinton Town Council  - November 19 2025** _(topics: alpr)_
 
-**Clinton Town Council  - November 19 2025** _(topics: alpr)_
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=h6rM5enxVvg&t=2158s)  > ...they were submitting a Freedom of Information Act request to all municipalities who utilize flock cameras um looking for like governance documents, policies, and data shared. I...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=h6rM5enxVvg&t=2158s)  > ...they were submitting a Freedom of Information Act request to all municipalities who utilize flock cameras um looking for like governance documents, policies, and data shared. I...
+    **2025-10-01 -- Town Council**
 
+    **Clinton Town Council - October 1 2025** _(topics: drone)_
 
-### 2026-01-21 -- Town Council
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=h246j7advzs&t=4264s)  > ...hosting it. And so there was a lot of talk and questions that the town consider a drone light show. Just throwing it out there. Um I have been speaking with a lot of...
 
-**Clinton Town Council  - January 21 2026** _(topics: alpr)_
+    **2025-09-03 -- Town Council**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7FxKTImpO8U&t=1138s)  > ...they're six, five or six years old. He also figured that they want to upgrade a little bit of their the flock cameras. Those are those cameras that take pictures of the license plates of most...
+    **Clinton Town Council - September 3 2025** _(topics: alpr)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7FxKTImpO8U&t=1156s)  > ...bad guys are probably listening in, but uh they're making a lot of arrests off those flock cameras. A lot of preventive just to give you a slight hint is that come come down 81 and if you happen to...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0zwIjp7t-rA&t=1739s)  > ...traffic safety devices. It has to do with license plate readers, which is a different vendor, which is Flock. It also stated that we had 96 cameras, which we do not. We only have eight, and...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0zwIjp7t-rA&t=1773s)  > ...to us and it's purged per state statute. Which vendor are you talking about? >> Flock. >> Okay. So my concern just remains the same as...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0zwIjp7t-rA&t=1794s)  > ...concern uh as well. Uh and we make sure that we follow all the state statutes and flock is a major vendor to the state of Connecticut as well. So we're not violating the trust act. Um, all that...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0zwIjp7t-rA&t=1824s)  > ...the rules in which they need to operate within this state. So, um, at this point, I don't see flock being bought out by anybody. As a matter of fact, I see them probably buying out most...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7FxKTImpO8U&t=1203s)  > ...he came out, the police were waiting for him right there at the library and arrest was made. So the flock cameras have been successful in many other ways also....
+    **2025-09-03 -- Town Council**
 
+    **Clinton Town Council - September 3 2025** _(topics: alpr)_
 
-### 2026-02-04 -- Town Council
-
-**Clinton Town Council - February 4 2026** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=RTxmTsz_bx8&t=3287s)  > ...conversation with our folks at the police department as an official agenda item about the flock cameras that exist in town. We made our decision on those like a year and a half or so ago, and I...
-
-
-### 2026-03-18 -- Town Council
-
-**Clinton Town Council - March 18 2026** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5025s)  > ...>> So they just want regulatory oversight on where the data goes. So the guy, the gentleman from Flock came and testified and his testimony was very straightforward. We have the data after...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5172s)  > ...oversight in that. >> Make that to make that clear. That's the flock cameras, not the hearing we're having next week on the what we call >> the speed cameras are completely...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5247s)  > ...>> So, a deletion doesn't necessarily mean a deletion, you know. And then that the gentleman from Flock talked about like the the uh the cloud. >> I mean, it's going to be somewhere,...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5304s)  > ...to get picked up on the and the data is going to be in the cloud, the only way to stop that is to not have flock cameras that I can think of. And I don't think that...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=z5ZC9NRd36M&t=5706s)  > ...it Monday and uh it was very nice and uh I suggested to him if possibly if he could do the same thing for Flock uh to explain a lot of things just like Chris is trying to do right now about...
-
-
-### 2026-04-15 -- Town Council
-
-**Clinton Town Council - April 15 2026** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9PAKYH9fF34&t=582s)  > ...here. Um I shared information that questions the attempt to nearly separate Flock and ALPR from Ultraman and ATESD as as if residents are supposed to believe those...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9PAKYH9fF34&t=586s)  > ...Um I shared information that questions the attempt to nearly separate Flock and ALPR from Ultraman and ATESD as as if residents are supposed to believe those are completely separate conversations...
-
-
-### 2026-07-01 -- Town Council
-
-**Clinton Town Council - July 1 2026** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VhFIZ_cjrOA&t=3680s)  > ...>> Great. Any comments on that? Um, and then the last thing that I went to Old Sabre Day, um, Sunday they had the drone show. So, it was, I think, the first drone show in Connecticut and it was...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VhFIZ_cjrOA&t=3684s)  > ...Sabre Day, um, Sunday they had the drone show. So, it was, I think, the first drone show in Connecticut and it was pretty neat. It was pretty short. It was less than 15 minutes. I don't know if...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VhFIZ_cjrOA&t=3725s)  > ...and they go into shape. Actually, it's it's it's the first one. So there was some challenges. You'd see a drone fall out of position and go back to earth. You know, it was like an American flag...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LARXm7zC0yk&t=1739s)  > ...traffic safety devices. It has to do with license plate readers, which is a different vendor, which is Flock. It also stated that we had 96 cameras, which we do not. We only have eight, and...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LARXm7zC0yk&t=1773s)  > ...to us and it's purged per state statute. Which vendor are you talking about? >> Flock. >> Okay. So my concern just remains the same as...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LARXm7zC0yk&t=1794s)  > ...concern uh as well. Uh and we make sure that we follow all the state statutes and flock is a major vendor to the state of Connecticut as well. So we're not violating the trust act. Um, all that...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LARXm7zC0yk&t=1824s)  > ...the rules in which they need to operate within this state. So, um, at this point, I don't see flock being bought out by anybody. As a matter of fact, I see them probably buying out most...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -365,7 +340,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -527,11 +501,6 @@ postponing the public hearing until the weather is warmer. The...
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -596,6 +565,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Clinton's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/clinton-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip clinton-meeting-transcripts.zip -d clinton
+cd clinton
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

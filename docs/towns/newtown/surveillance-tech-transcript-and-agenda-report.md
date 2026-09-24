@@ -3,22 +3,25 @@
 
 ## At a glance: Newtown
 
+<p class="glance-headline"><strong>1 mention</strong> of surveillance technology in <strong>1</strong> Newtown meeting</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">1</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 1 meeting · read the timeline</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Body cameras</span></a>
+<a class="glance-card" href="../../../analysis/towns/newtown-alpr-searches.html"><span class="gc-big">3,161</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Newtown police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">100%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">8 of 8 meetings</span></a>
+</div>
+
 This report collects every mention of surveillance technology found in **Newtown**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **1 mention** across **1 meeting**
-- **Technologies discussed:** body_camera
-- **Coverage:** 8 of 8 known Newtown meetings transcribed (100%)
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
+- [Licence-plate searches by Newtown police](#licence-plate-searches-by-newtown-police)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -29,34 +32,54 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
-## Get the full transcripts
+## Licence-plate searches by Newtown police
 
-*Newtown has 8 transcripts so far -- too few to publish as an archive yet. It will appear here once the corpus grows.*
+Six Connecticut towns have released the Flock audit log of every search run against their cameras. Below is what that record holds for Newtown's own police department -- not a finding, just the log.
+
+
+**Newtown CT PD**
+
+- **3,161 searches** between 2024-09 and 2026-08 (24 months with at least one search)
+- **522 camera networks** swept by the average single search
+- **100%** of them reached beyond Newtown's own cameras
+- The commonest stated reason is free text or a numeric code, rather than one of the preset categories Flock introduced in December 2025
+
+**[Open Newtown CT PD's search dashboard](../../analysis/towns/newtown-alpr-searches.html)** -- every one of those searches, filterable by month, stated reason, search type and how far it reached, with a **[How to read this](../../analysis/towns/newtown-alpr-searches.html#how)** tab covering what each field means and what the record cannot tell you.
+
+
+> **A floor, not a total.** The record only sees queries that reached those six towns' cameras. A single Flock query typically sweeps thousands of networks at once, so most of a Connecticut department's searching does land in it -- but the real count is higher. Nothing in it names an officer, shows a plate, or records what any search returned.
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+**Back to the meetings.** Everything above this point was about licence-plate *searches* -- what the town's police looked up. Everything below is about what was *said*: each mention is a moment in a recorded public meeting where a surveillance technology came up, with a link to that moment in the video.
+
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| body_camera | 1 | 1 |  |  |
+| [Body cameras](#body_camera) | 1 | 1 |  |  |
 
 
 ## Timeline
 
-1 meetings surfaced a finding (none have a known date).
+<!-- report-polish v1 -->
 
+1 meetings surfaced a finding (none have a known date). Newest first.
 
-### date unknown -- Board of Selectmen
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was an unknown date.*
 
-**Board of Selectmen 1/25** _(topics: body_camera)_
+??? note "Earlier meetings (1)"
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UyiCM9Ao2U0&t=1833s)  > ...you know looking at some of that funding there um is our body cam program body camera program is going to be five years old um we're pretty much hitting the end of...
+    **date unknown -- Board of Selectmen**
+
+    **Board of Selectmen 1/25** _(topics: body_camera)_
+
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UyiCM9Ao2U0&t=1833s)  > ...you know looking at some of that funding there um is our body cam program body camera program is going to be five years old um we're pretty much hitting the end of...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -158,7 +181,6 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 ### video_analytics
 
 *(no findings)*
-
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
@@ -269,11 +291,6 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -343,6 +360,11 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+*Newtown has 8 transcripts so far -- too few to publish as an archive yet. It will appear here once the corpus grows.*
 
 
 ---

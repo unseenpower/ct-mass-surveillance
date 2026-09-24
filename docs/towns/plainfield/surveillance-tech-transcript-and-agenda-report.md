@@ -3,24 +3,26 @@
 
 ## At a glance: Plainfield
 
+<p class="glance-headline"><strong>28 mentions</strong> of surveillance technology in <strong>21</strong> Plainfield meetings, 2021–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">28</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 21 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2021–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-05-03 → 2026-04-08</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Predictive policing, General surveillance</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">62%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">485 of 781 meetings</span></a>
+</div>
+
+**Not the full history:** transcripts begin **2018-10-24**, but Plainfield's published video archive goes back to **2017-11-13**. Meetings before 2018 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
 This report collects every mention of surveillance technology found in **Plainfield**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **28 mentions** across **21 meetings**
-- **First mention:** 2021-05-03  |  **Most recent:** 2026-04-08
-- **Technologies discussed:** alpr, body_camera, drone, predictive_policing, surveillance_general
-- **Coverage:** 485 of 781 known Plainfield meetings transcribed (62%)
-- **Not the full history:** transcripts begin **2018-10-24**, but Plainfield's published video archive goes back to **2017-11-13**. Meetings before 2018 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,218 +33,165 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Plainfield's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/plainfield-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip plainfield-meeting-transcripts.zip -d plainfield
-cd plainfield
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 1 | 1 | 2024-09-10 | 2024-09-10 |
-| body_camera | 10 | 6 | 2022-03-30 | 2026-03-26 |
-| drone | 14 | 12 | 2021-09-01 | 2026-04-08 |
-| predictive_policing | 2 | 2 | 2021-05-03 | 2023-08-08 |
-| surveillance_general | 1 | 1 | 2023-03-22 | 2023-03-22 |
+| [ALPR / Flock](#alpr) | 1 | 1 | 2024-09-10 | 2024-09-10 |
+| [Body cameras](#body_camera) | 10 | 6 | 2022-03-30 | 2026-03-26 |
+| [Drones](#drone) | 14 | 12 | 2021-09-01 | 2026-04-08 |
+| [Predictive policing](#predictive_policing) | 2 | 2 | 2021-05-03 | 2023-08-08 |
+| [General surveillance](#surveillance_general) | 1 | 1 | 2023-03-22 | 2023-03-22 |
 
 
 ## Timeline
 
-21 meetings surfaced a finding (21 dated, spanning 2021-05-03 to 2026-04-08; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+21 meetings surfaced a finding (21 dated, spanning 2021-05-03 to 2026-04-08; 0 of unknown date, listed last). Newest first.
 
-### 2021-05-03 -- Town Meeting / Budget Hearing
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-04-08.*
 
-**May 3, 2021 Budget Hearing** _(topics: predictive_policing)_
+??? note "Earlier meetings (21)"
 
-- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZZ39JGSBI4o&t=889s)  > ...increased poverty um this is you know we're not uh gotham city or new york or whatever i mean this burden is shouldered by everybody who lives...
+    **2026-04-08 -- Board of Finance**
 
+    **April 8, 2026 Board of Finance** _(topics: drone)_
 
-### 2021-09-01 -- Open Space Advisory Committee
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=bX0g952Me5M&t=3209s)  > ...modification to this year's fireworks cuz this is our 250th. So, we were looking to do a drone show instead, which has fireworks that come off of it. It's a costly event. I do have some...
 
-**September 1, 2021 Open Space Public Hearing 1** _(topics: drone)_
+    **2026-03-26 -- Board of Finance**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=tefe8OgYufg&t=695s)  > ...and did take some topography pictures like i mean not overhead pictures with a drone i'm more than willing to share those with you i just didn't have them accessible at this point but we could...
+    **Plainfield Board of Finance Meeting – March 25 Live Stream** _(topics: body_camera)_
 
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=w6sAAW2-JlM&t=1318s)  > ...You will be surprised that when we sit and meet with complainants and we watch the body cam footage, you actually will have people sit there and go, "Well, that's not me."...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=w6sAAW2-JlM&t=1515s)  > ...scheduling, um she orders all the supplies, she does all the budgets, uh she redact body worn camera, all FOIA requests. Um this workload is not for one person. Um...
 
-### 2022-03-30 -- Board of Finance
+    **2026-03-25 -- Board of Finance**
 
-**March 30, 2022 Board of Finance Meeting** _(topics: body_camera, drone)_
+    **March 25, 2026 Board of Finance** _(topics: body_camera)_
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=b95AWL0liyI&t=1673s)  > ...motion dsp basically what that is used for that's used to ex when somebody requests a body cam footage there's a lot some things i have to...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=G6mquuvgWQM&t=917s)  > ...is going to transpire." You will be surprised that when we sit and meet with complaintants and we watch the body cam footage, you actually will have people sit there and go, "That's not me. That's...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=b95AWL0liyI&t=1757s)  > ...lighting all has to be specific for for mug shots drone is is the drone computer replacement this is to replace the rest of computers that we have there...
+    **2026-02-19 -- Capital Strategic Planning Committee**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=b95AWL0liyI&t=1793s)  > ...happens that i didn't list here if we get a fatal accident we send a drone up it pinpoints and maps the scene if we get a robbery it does the same thing...
+    **February 19, 2026 Capital Strategic Planning Committee** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=p0waDdrzwd4&t=410s)  > ...So I would say if it was I would say we picked two uh which buildings are let's say fire drone right now. >> How do we know that if we don't ask the people in them?...
 
-### 2023-03-22 -- Agriculture Commission
+    **2025-09-18 -- Economic Development Commission**
 
-**March 22, 2023 Agriculture Commission** _(topics: surveillance_general)_
+    **September 18, 2025 Economic Development Commission** _(topics: drone)_
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=WfDUmWl6tis&t=3279s)  > ...growers association yeah Connecticut Connecticut Christmas tree growers association CCTV I know that um DFA is happening right now...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=yxK9PFW5wMA&t=1197s)  > ...he hired and he's at celebrate playing field day. He's recording the cauldron dancers. Um he's drone footage. He defin I have them all stored in a Google drive...
 
+    **2025-08-06 -- Police Commission**
 
-### 2023-03-29 -- Board of Finance
+    **August 6, 2025 Police Commission** _(topics: body_camera)_
 
-**March 29, 2023 Board of Finance** _(topics: drone)_
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=e206LvgwtxY&t=3275s)  > ...go to the bathroom, unfortunately, without it being documented. sometimes with the body cam that they should leave out out, but they wearing a body cam, there's incar cams, uh there's 247 video...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=e206LvgwtxY&t=3277s)  > ...without it being documented. sometimes with the body cam that they should leave out out, but they wearing a body cam, there's incar cams, uh there's 247 video surveillance at the PE. Anytime an...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=A-L9oKBrh8E&t=2400s)  > ...order to take your motion or aging information uh drone after drone repairs computer and Technology contingency if a computer goes down...
+    **2025-06-12 -- Economic Development Commission**
 
+    **June 12, 2025 Economic Development Commission** _(topics: drone)_
 
-### 2023-08-08 -- Planning & Zoning Commission
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z-63kpJiFuU&t=1529s)  > ...quality photos of the town. So that will be all done. And then I'll have the drone footage. And so we're going to do a contract with them. So it'll be any probably will have you walk first with...
 
-**August 8, 2023 Planning & Zoning Commission** _(topics: predictive_policing)_
+    **2025-03-26 -- Board of Finance**
 
-- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=t7iksMpcgVU&t=1228s)  > ...small 165 feet of sorry 60 land borders for Northern Foundry of this property the entire eastern boundary is the railroad across from the railroad is land between the...
+    **March 26, 2025 Board of Finance** _(topics: body_camera)_
 
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SAcoI62SjgY&t=578s)  > ...with that body warn camera and watch it second by second by second and redact certain information. So if the body worn camera is an hour long, she's sitting there for at least an hour going through...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SAcoI62SjgY&t=2188s)  > ...Mr. Domingue. Um it really depends on what that technology is that they need training on. For instance, body worn camera. They are required by law to have so many hours of training on bodywn and...
 
-### 2024-03-27 -- Board of Finance
+    **2025-03-20 -- Economic Development Commission**
 
-**March 27, 2024 Board of Finance** _(topics: body_camera)_
+    **March 20, 2025 Economic Development Commission** _(topics: drone)_
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Dwy_C2AZy8M&t=435s)  > ...lawyer the court uh we have to make discs we have to make copies not only that they have to take and watch body cam footage one to one so what that means is that person has to literally...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ns7H2i8Ywho&t=1672s)  > ...that we have. Um, they'll attend celebrate Cleanfield Day. They will see photos, drone footage, and go around with their cameras and take videos of everything. They will post them either...
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Dwy_C2AZy8M&t=1581s)  > ...what he's doing he's sitting down and he's writing a police report and in conjunction he's taking his body worn camera footage and that gets recorded into the system and he has to actually...
+    **2025-02-20 -- Economic Development Commission**
 
+    **February 20, 2025 Economic Development Commission** _(topics: drone)_
 
-### 2024-07-18 -- Economic Development Commission
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IjHoINY7ofk&t=262s)  > ...can also get updated photos of the town after our website and we'll also do Drone footage oh they have drones yeah all of them roughly came around prices okay and then how we're going to...
 
-**July 18, 2024 Economic Development Commission** _(topics: drone)_
+    **2024-11-21 -- Economic Development Commission**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0WltX2FWons&t=447s)  > ...ready to submit their bid so they said they're going to be going up to the site quite a few more times doing Drone footage to get a full picture of what they want to do and that closes August...
+    **November 21, 2024 Economic Development Commission** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0WltX2FWons&t=1066s)  > ...of what your town is welcome to planfield these are the things that they offer Drone footage to show you what the villages look like what to do uh so it helps to promote the town in a better...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=V4E7Cd4hCos&t=2762s)  > ...to pay for it for a couple of years and um all they get out of it really is kind of simple the drone company would actually put their their logo up there saying sponsored by so it's a good...
 
+    **2024-11-18 -- Conservation Commission**
 
-### 2024-09-10 -- Planning & Zoning Commission
+    **November 18, 2024 Conservation Commission** _(topics: drone)_
 
-**September 10, 2024 Planning & Zoning Commission Part 1** _(topics: alpr)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rQ4kRKpEt-U&t=981s)  > ...that people come along and they snip the fence and they want to go in and look at the property and do drone videos or whatever they want to do with it um and so if they're found on there we will ask...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=AEK1RHeDetg&t=1206s)  > ...up contamination different things that he had to do this is consistent with what they want to do uh intermar flock was subdivided off IRS was subdivided off other businesses were subdivided off...
+    **2024-09-10 -- Planning & Zoning Commission**
 
+    **September 10, 2024 Planning & Zoning Commission Part 1** _(topics: alpr)_
 
-### 2024-11-18 -- Conservation Commission
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=AEK1RHeDetg&t=1206s)  > ...up contamination different things that he had to do this is consistent with what they want to do uh intermar flock was subdivided off IRS was subdivided off other businesses were subdivided off...
 
-**November 18, 2024 Conservation Commission** _(topics: drone)_
+    **2024-07-18 -- Economic Development Commission**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rQ4kRKpEt-U&t=981s)  > ...that people come along and they snip the fence and they want to go in and look at the property and do drone videos or whatever they want to do with it um and so if they're found on there we will ask...
+    **July 18, 2024 Economic Development Commission** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0WltX2FWons&t=447s)  > ...ready to submit their bid so they said they're going to be going up to the site quite a few more times doing Drone footage to get a full picture of what they want to do and that closes August...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0WltX2FWons&t=1066s)  > ...of what your town is welcome to planfield these are the things that they offer Drone footage to show you what the villages look like what to do uh so it helps to promote the town in a better...
 
-### 2024-11-21 -- Economic Development Commission
+    **2024-03-27 -- Board of Finance**
 
-**November 21, 2024 Economic Development Commission** _(topics: drone)_
+    **March 27, 2024 Board of Finance** _(topics: body_camera)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=V4E7Cd4hCos&t=2762s)  > ...to pay for it for a couple of years and um all they get out of it really is kind of simple the drone company would actually put their their logo up there saying sponsored by so it's a good...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Dwy_C2AZy8M&t=435s)  > ...lawyer the court uh we have to make discs we have to make copies not only that they have to take and watch body cam footage one to one so what that means is that person has to literally...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Dwy_C2AZy8M&t=1581s)  > ...what he's doing he's sitting down and he's writing a police report and in conjunction he's taking his body worn camera footage and that gets recorded into the system and he has to actually...
 
+    **2023-08-08 -- Planning & Zoning Commission**
 
-### 2025-02-20 -- Economic Development Commission
+    **August 8, 2023 Planning & Zoning Commission** _(topics: predictive_policing)_
 
-**February 20, 2025 Economic Development Commission** _(topics: drone)_
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=t7iksMpcgVU&t=1228s)  > ...small 165 feet of sorry 60 land borders for Northern Foundry of this property the entire eastern boundary is the railroad across from the railroad is land between the...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IjHoINY7ofk&t=262s)  > ...can also get updated photos of the town after our website and we'll also do Drone footage oh they have drones yeah all of them roughly came around prices okay and then how we're going to...
+    **2023-03-29 -- Board of Finance**
 
+    **March 29, 2023 Board of Finance** _(topics: drone)_
 
-### 2025-03-20 -- Economic Development Commission
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=A-L9oKBrh8E&t=2400s)  > ...order to take your motion or aging information uh drone after drone repairs computer and Technology contingency if a computer goes down...
 
-**March 20, 2025 Economic Development Commission** _(topics: drone)_
+    **2023-03-22 -- Agriculture Commission**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ns7H2i8Ywho&t=1672s)  > ...that we have. Um, they'll attend celebrate Cleanfield Day. They will see photos, drone footage, and go around with their cameras and take videos of everything. They will post them either...
+    **March 22, 2023 Agriculture Commission** _(topics: surveillance_general)_
 
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=WfDUmWl6tis&t=3279s)  > ...growers association yeah Connecticut Connecticut Christmas tree growers association CCTV I know that um DFA is happening right now...
 
-### 2025-03-26 -- Board of Finance
+    **2022-03-30 -- Board of Finance**
 
-**March 26, 2025 Board of Finance** _(topics: body_camera)_
+    **March 30, 2022 Board of Finance Meeting** _(topics: body_camera, drone)_
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SAcoI62SjgY&t=578s)  > ...with that body warn camera and watch it second by second by second and redact certain information. So if the body worn camera is an hour long, she's sitting there for at least an hour going through...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=b95AWL0liyI&t=1673s)  > ...motion dsp basically what that is used for that's used to ex when somebody requests a body cam footage there's a lot some things i have to...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=b95AWL0liyI&t=1757s)  > ...lighting all has to be specific for for mug shots drone is is the drone computer replacement this is to replace the rest of computers that we have there...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=b95AWL0liyI&t=1793s)  > ...happens that i didn't list here if we get a fatal accident we send a drone up it pinpoints and maps the scene if we get a robbery it does the same thing...
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SAcoI62SjgY&t=2188s)  > ...Mr. Domingue. Um it really depends on what that technology is that they need training on. For instance, body worn camera. They are required by law to have so many hours of training on bodywn and...
+    **2021-09-01 -- Open Space Advisory Committee**
 
+    **September 1, 2021 Open Space Public Hearing 1** _(topics: drone)_
 
-### 2025-06-12 -- Economic Development Commission
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=tefe8OgYufg&t=695s)  > ...and did take some topography pictures like i mean not overhead pictures with a drone i'm more than willing to share those with you i just didn't have them accessible at this point but we could...
 
-**June 12, 2025 Economic Development Commission** _(topics: drone)_
+    **2021-05-03 -- Town Meeting / Budget Hearing**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z-63kpJiFuU&t=1529s)  > ...quality photos of the town. So that will be all done. And then I'll have the drone footage. And so we're going to do a contract with them. So it'll be any probably will have you walk first with...
+    **May 3, 2021 Budget Hearing** _(topics: predictive_policing)_
 
-
-### 2025-08-06 -- Police Commission
-
-**August 6, 2025 Police Commission** _(topics: body_camera)_
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=e206LvgwtxY&t=3275s)  > ...go to the bathroom, unfortunately, without it being documented. sometimes with the body cam that they should leave out out, but they wearing a body cam, there's incar cams, uh there's 247 video...
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=e206LvgwtxY&t=3277s)  > ...without it being documented. sometimes with the body cam that they should leave out out, but they wearing a body cam, there's incar cams, uh there's 247 video surveillance at the PE. Anytime an...
-
-
-### 2025-09-18 -- Economic Development Commission
-
-**September 18, 2025 Economic Development Commission** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=yxK9PFW5wMA&t=1197s)  > ...he hired and he's at celebrate playing field day. He's recording the cauldron dancers. Um he's drone footage. He defin I have them all stored in a Google drive...
-
-
-### 2026-02-19 -- Capital Strategic Planning Committee
-
-**February 19, 2026 Capital Strategic Planning Committee** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=p0waDdrzwd4&t=410s)  > ...So I would say if it was I would say we picked two uh which buildings are let's say fire drone right now. >> How do we know that if we don't ask the people in them?...
-
-
-### 2026-03-25 -- Board of Finance
-
-**March 25, 2026 Board of Finance** _(topics: body_camera)_
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=G6mquuvgWQM&t=917s)  > ...is going to transpire." You will be surprised that when we sit and meet with complaintants and we watch the body cam footage, you actually will have people sit there and go, "That's not me. That's...
-
-
-### 2026-03-26 -- Board of Finance
-
-**Plainfield Board of Finance Meeting – March 25 Live Stream** _(topics: body_camera)_
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=w6sAAW2-JlM&t=1318s)  > ...You will be surprised that when we sit and meet with complainants and we watch the body cam footage, you actually will have people sit there and go, "Well, that's not me."...
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=w6sAAW2-JlM&t=1515s)  > ...scheduling, um she orders all the supplies, she does all the budgets, uh she redact body worn camera, all FOIA requests. Um this workload is not for one person. Um...
-
-
-### 2026-04-08 -- Board of Finance
-
-**April 8, 2026 Board of Finance** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=bX0g952Me5M&t=3209s)  > ...modification to this year's fireworks cuz this is our 250th. So, we were looking to do a drone show instead, which has fireworks that come off of it. It's a costly event. I do have some...
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZZ39JGSBI4o&t=889s)  > ...increased poverty um this is you know we're not uh gotham city or new york or whatever i mean this burden is shouldered by everybody who lives...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -445,7 +394,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -553,11 +501,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 
 _Everything below describes the corpus and its limits, rather than what was found in it._
-
-
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
@@ -672,6 +615,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | channel | tab |
 | --- | --- |
 | Plainfield Connecticut Watchdog Media | streams |
+
+
+## Get the full transcripts
+
+**[Download Plainfield's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/plainfield-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip plainfield-meeting-transcripts.zip -d plainfield
+cd plainfield
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

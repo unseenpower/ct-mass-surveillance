@@ -3,24 +3,28 @@
 
 ## At a glance: Wethersfield
 
+<p class="glance-headline"><strong>60 mentions</strong> of surveillance technology in <strong>23</strong> Wethersfield meetings, 2019–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">60</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 23 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2019–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2019-05-07 → 2026-04-22</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Predictive policing, General surveillance</span></a>
+<a class="glance-card" href="../../../analysis/towns/wethersfield-alpr-searches.html"><span class="gc-big">2,500</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Wethersfield police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">62%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">488 of 783 meetings</span></a>
+</div>
+
+**Not the full history:** transcripts begin **2019-05-07**, but Wethersfield's published video archive goes back to **2016-10-04**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
 This report collects every mention of surveillance technology found in **Wethersfield**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **63 mentions** across **26 meetings**
-- **First mention:** 2019-05-07  |  **Most recent:** 2026-04-22
-- **Technologies discussed:** alpr, body_camera, drone, predictive_policing, surveillance_general
-- **Coverage:** 488 of 783 known Wethersfield meetings transcribed (62%)
-- **Not the full history:** transcripts begin **2019-05-07**, but Wethersfield's published video archive goes back to **2016-10-04**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
+- [Licence-plate searches by Wethersfield police](#licence-plate-searches-by-wethersfield-police)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,313 +35,227 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
-## Get the full transcripts
+## Licence-plate searches by Wethersfield police
 
-**[Download Wethersfield's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/wethersfield-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+Six Connecticut towns have released the Flock audit log of every search run against their cameras. Below is what that record holds for Wethersfield's own police department -- not a finding, just the log.
 
 
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+**Wethersfield CT PD**
+
+- **2,500 searches** between 2023-01 and 2026-08 (39 months with at least one search)
+- **659 camera networks** swept by the average single search
+- **97%** of them reached beyond Wethersfield's own cameras
+- The commonest stated reason is free text or a numeric code, rather than one of the preset categories Flock introduced in December 2025
+
+**[Open Wethersfield CT PD's search dashboard](../../analysis/towns/wethersfield-alpr-searches.html)** -- every one of those searches, filterable by month, stated reason, search type and how far it reached, with a **[How to read this](../../analysis/towns/wethersfield-alpr-searches.html#how)** tab covering what each field means and what the record cannot tell you.
 
 
-**How to use it**
-
-```bash
-unzip wethersfield-meeting-transcripts.zip -d wethersfield
-cd wethersfield
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+> **A floor, not a total.** The record only sees queries that reached those six towns' cameras. A single Flock query typically sweeps thousands of networks at once, so most of a Connecticut department's searching does land in it -- but the real count is higher. Nothing in it names an officer, shows a plate, or records what any search returned.
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+**Back to the meetings.** Everything above this point was about licence-plate *searches* -- what the town's police looked up. Everything below is about what was *said*: each mention is a moment in a recorded public meeting where a surveillance technology came up, with a link to that moment in the video.
+
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 5 | 4 | 2019-05-07 | 2023-11-20 |
-| body_camera | 1 | 1 | 2022-04-21 | 2022-04-21 |
-| drone | 49 | 14 | 2020-09-01 | 2026-04-22 |
-| predictive_policing | 1 | 1 | 2022-12-19 | 2022-12-19 |
-| surveillance_general | 7 | 6 | 2021-04-26 | 2025-04-01 |
+| [ALPR / Flock](#alpr) | 4 | 3 | 2019-05-07 | 2023-11-20 |
+| [Body cameras](#body_camera) | 1 | 1 | 2022-04-21 | 2022-04-21 |
+| [Drones](#drone) | 47 | 12 | 2020-09-01 | 2026-04-22 |
+| [Predictive policing](#predictive_policing) | 1 | 1 | 2022-12-19 | 2022-12-19 |
+| [General surveillance](#surveillance_general) | 7 | 6 | 2021-04-26 | 2025-04-01 |
 
 
 ## Timeline
 
-26 meetings surfaced a finding (26 dated, spanning 2019-05-07 to 2026-04-22; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+23 meetings surfaced a finding (23 dated, spanning 2019-05-07 to 2026-04-22; 0 of unknown date, listed last). Newest first.
 
-### 2019-05-07 -- Town Council
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-04-22.*
 
-**Town Council May 6,2019** _(topics: alpr)_
+??? note "Earlier meetings (23)"
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YD4ZJtUWeMM&t=4289s)  > ...plate on April 2nd Wethersfield Hartford and I believe Newington share what's called an LPR system license plate reader and that system you spent a lot of money to implement in our in your...
+    **2026-04-22 -- Budget Work Session**
 
+    **Budget Work Session  -  April 22, 2026** _(topics: drone)_
 
-### 2020-09-01 -- Heritage Tourism Commission
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jlo2-qScSgY&t=1355s)  > ...>> [snorts] >> Um The second item for FAA drone pilot testing, we bought a drone last year. We have a couple of department staff that...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jlo2-qScSgY&t=1357s)  > ...>> Um The second item for FAA drone pilot testing, we bought a drone last year. We have a couple of department staff that are going to get their um...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jlo2-qScSgY&t=2791s)  > ...maybe. So, we have some staff that are taking classes on that now. Got you. And when did we purchase the drone for? Um I want to say it was maybe a year and a half ago. And everything in technology,...
 
-**September 1, 2020 Heritage Commission Meeting** _(topics: drone)_
+    **2025-04-07 -- Town Council**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=mYuwpuvCaA4&t=3271s)  > ...it's smithsonian channel they have a show called um ariel america it's like a drone view of the country and episode four was connecticut and...
+    **Town Council Meeting - April 7, 2025** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1581s)  > ...Mayor. Uh this is a sort of a dual question. The first is can you give us the status on um our drone which I believe we have but if you could let us know what that is and would it have...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1595s)  > ...to the three individuals who wanted to run. So the drone the drone program uh it's in place. We we do have the drone. We just finished up training within the...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1598s)  > ...run. So the drone the drone program uh it's in place. We we do have the drone. We just finished up training within the last couple of weeks I believe we're...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1624s)  > ...that. Um, and so that's the technology that can be used right then and there if we're able to, but as far as the drone, it's not a realistic expectation just because of how quick it happens. Okay....
 
-### 2020-09-08 -- Kycia Farm Committee
+    **2025-04-01 -- Planning and Zoning Commission**
 
-**September 8, 2020 Kycia Farm Meeting** _(topics: drone)_
+    **Planning and Zoning Commission - April 1, 2025** _(topics: surveillance_general)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=urkgrrNRcaY&t=2139s)  > ...the opportunities that the farm will will um present maybe getting another drone video we'll have to have you know there's a beautiful one up there but maybe getting...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eouP__E5y8A&t=2763s)  > ...teams available 24/7 365 to respond in the event that there's an incident such as so you've got basically CCTV full-time there with remote monitoring yes sir what about lighting lighting yep...
 
+    **2025-01-21 -- Town Council**
 
-### 2020-11-02 -- Kycia Farm Committee
+    **Town Council Meeting - January 21, 2025** _(topics: drone)_
 
-**Kycia Farm Committee   November 2, 2020** _(topics: drone)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1755s)  > ...darts um okay and then that follows me to my next question is I think that we started our drone program recently we did we did I announced that at the breakfast as well so they were out there...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1763s)  > ...breakfast as well so they were out there last week getting the training on that but we did get the Drone in we're working with the the company on the EXT software program that helps it deploy um...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1771s)  > ...working with the the company on the EXT software program that helps it deploy um self- deployment with that that drone and also we have to work with the FAA cuz we are so close to Brin at airport...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1779s)  > ...cuz we are so close to Brin at airport we there's flight restrictions with the Drone and special exceptions we have to go through but for the most part the training is done um and we could be...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1789s)  > ...training is done um and we could be deploying it soon and would the would the Drone be effective or used in situations like we see on the number eight traffic stop attempt in we're...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1795s)  > ...situations like we see on the number eight traffic stop attempt in we're going to use the Drone for a multi uh it's going to be a multiuse drone yeah for things like this for car popups for...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1798s)  > ...eight traffic stop attempt in we're going to use the Drone for a multi uh it's going to be a multiuse drone yeah for things like this for car popups for first responder situations to whatever...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1836s)  > ...car on the GPS and on the computer from dispatch and if it's roaming around town then put the Drone up and follow it from the sky simultaneously right for the darts that do work in this situation um...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OfS6XIDY1e4&t=452s)  > ...documentation would be really helpful so we could send the video clip from the drone so you can get an overview and uh our gis system is online weathersfield map geo so you could...
+    **2024-04-29 -- Budget Work Session**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OfS6XIDY1e4&t=1426s)  > ...doing put our minutes put a link to our minutes on there and you know let people see the drone video and you know talk to them even even to announce that the university of hartford...
+    **Budget Work Session - April 29, 2024** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2119s)  > ...game I thought we were going okay so CNF requests um we did put in a request for drone equipment this year um we've been talking with the assessor Department who has an interest in having a drone as...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2123s)  > ...drone equipment this year um we've been talking with the assessor Department who has an interest in having a drone as well um their their purpose for having it would be to use it as um fly over for...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2950s)  > ...don't know how to say this otherwise like the business case for it so I hear that the Drone equipment software and training can do this it can do that it can do this but what's like the business...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2981s)  > ...this so now if we want to get the drones aside from having we this field can say it has a drone we can look forward to an extra 5 hours of sidewalk inspection five five hours more to design roads and...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=3000s)  > ...case for that and I can work my way down whether it's survey vehicle the open government software and the Drone equipment on CNF okay I would say for the Drone the biggest benefit would...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=3006s)  > ...government software and the Drone equipment on CNF okay I would say for the Drone the biggest benefit would probably be for the assessor's office to be able to perform checks where they...
 
-### 2021-02-23 -- Board of Education
+    **2024-04-24 -- Budget Work Session**
 
-**Board of Education Meeting   February 23, 2021** _(topics: drone)_
+    **Budget Work Session - April 24, 2024** _(topics: surveillance_general)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=J-dmnUTdsvg&t=3235s)  > ...um landing on mars the rover the perseverance complete with a tiny drone ingenuity completed a nearly seven month journey from earth...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=HaNn0yQOk7c&t=6170s)  > ...doing as a town we're just going to take over that responsibility CCTV drainage inspections um I I used to get 15,000 it was reduced to 10 I'm just asking for getting back...
 
+    **2024-04-17 -- Budget Work Session**
 
-### 2021-03-11 -- Redevelopment Agency
+    **Budget Work Session - April 17, 2024** _(topics: drone)_
 
-**Economic Development & Improvement Commission /Redevelopment Agency Meeting - Mar 11, 2021** _(topics: drone)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=s5RQg-Sh3Wo&t=3498s)  > ...legislation that might be passed we might have to wait till October of 2025 to see what type of drone we can invest in um so I was looking at that until that just came out this past week so...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4lLAFwo8pDI&t=152s)  > ...but hopefully if you haven't read that you might want to uh as i drone on maybe take a peek at that as we go um so pete when we just get into uh...
+    **2023-11-20 -- Town Council**
 
+    **Town Council - November 20, 2023** _(topics: alpr)_
 
-### 2021-04-08 -- Redevelopment Agency
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=vABmBOfJpwI&t=3399s)  > ...any questions or concerns um and so what the uh detectives have been doing has been collecting uh video and uh License Plate Reader uh data this morning we had a good conversation with the property uh...
 
-**Economic Development & Improvement Commission Redevelopment Agency - April 8 2021** _(topics: alpr)_
+    **2023-09-18 -- Town Council**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=D6acaP-_G0M&t=1176s)  > ...sort of traffic study underway now when i'm biking you'll see a car with a license plate reader parked on the border like you'll see it on the corner of hang dog and route three and you see...
+    **September 18, 2023 - Town Council Meeting** _(topics: drone)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=D6acaP-_G0M&t=1213s)  > ...rocky hill vehicle you're indicating it's a yeah it was just it's a dark sedan and it's got a license plate reader hanging off it and it moves around town maybe something...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=10rido9W-p0&t=5294s)  > ...um you know especially here you have Brainerd airport right around the corner you probably couldn't even get a drone application go through uh so we tried we tried to get some some approvals for...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=10rido9W-p0&t=5307s)  > ...because it's very you know it's quick we can do a whole town District in a matter of a night with a drone but you just can't get the approvals of this to do it right I mean there are people out there...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=10rido9W-p0&t=5572s)  > ...this would put the additional 100 000 needed to complete the project um and then drone as we were just talking about drones earlier this would be for the engineering office and the...
 
+    **2022-12-19 -- Town Council**
 
-### 2021-04-26 -- Budget Work Session
+    **Town Council - December 19, 2022** _(topics: predictive_policing)_
 
-**Budget Workshop April 26, 2021** _(topics: surveillance_general)_
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=J2WV-gPOeKM&t=12068s)  > ...farm that was a disgrace an absolute disgrace if the Keisha Foundry family had done anything of the sort of famous make themselves famous make...
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=t2l8XduYm-o&t=2798s)  > ...possible because we tend to spend spend quite a bit of it cctv drainage inspections that is just inspecting pipes when we have drainage issues...
+    **2022-08-01 -- Town Council**
 
+    **Town Council Meeting - August 1, 2022** _(topics: surveillance_general)_
 
-### 2021-05-03 -- Kycia Farm Committee
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IFovHLOZ4WI&t=9821s)  > ...lot of settlement issues out in this neighborhood that are pretty uncommon and unusual um we've done some cb cctv inspections of our pipes mdc's inspected theirs piping looks fine...
 
-**Kycia Farm Committee Meeting - May 3, 2021** _(topics: drone)_
+    **2022-04-21 -- Town Council**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YIhwRlRs1xY&t=2422s)  > ...barn and be a close proximity to the school um and then we also brought in some of the overhead drone footage i think for people who haven't seen it in its entirety that's a nice you know a...
+    **Town Council Special Meeting - April 21, 2022** _(topics: body_camera)_
 
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_HeKfo6RfEQ&t=5734s)  > ...they want anything and anything associated with any significant incident to include body worn camera video now which is a new thing...
 
-### 2021-05-18 -- Planning and Zoning Commission
+    **2022-04-19 -- Town Council**
 
-**Planning & Zoning Meeting - May 18, 2021** _(topics: surveillance_general)_
+    **Town Council - Special Meeting 4-19-2022** _(topics: surveillance_general)_
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=F3QQfX6RJnw&t=609s)  > ...will be locked again and it will always happen uh do you have cctv uh coverage over that area uh we have wireless cameras that we are adding on we have wireless cameras...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JbCg9hLPnjk&t=380s)  > ...as needed the other one that is a significant change is the cctv that's for drainage inspections um i had gotten that added to the budget a few years ago it's...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JbCg9hLPnjk&t=448s)  > ...an increase of maybe around six thousand uh maybe more if i can get five thousand on the cctv and the next few items they were sawing did you say wetlands flagging...
 
+    **2022-02-17 -- Insurance Committee**
 
-### 2022-02-17 -- Insurance Committee
+    **Insurance Committee   February 17, 2022** _(topics: drone)_
 
-**Insurance Committee   February 17, 2022** _(topics: drone)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=453s)  > ...with that they're very heavily mandated to the faa you have to license through them i mean even when we put a drone up in the air we have to call bradley and ask for permission put that drone in the...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=456s)  > ...them i mean even when we put a drone up in the air we have to call bradley and ask for permission put that drone in the air so it's not like it's something that's just like oh we just buy it radio...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=462s)  > ...air so it's not like it's something that's just like oh we just buy it radio shack and put up here we have a drone it's heavily regulated there's a lot of federal laws that are regulations that...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=476s)  > ...you could do it during a parade you do during a high-risk search but we're not going to put a drone up here just to fly it that does not occur there has to be a specific reason so...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=482s)  > ...here just to fly it that does not occur there has to be a specific reason so when it comes to liability of a drone and that's already been...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=496s)  > ...and they realize that they're more of a tool they're an asset because when i can send a drone into an area and not put a physical body there and have eyes on the scene i would rather do that and lose a...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=503s)  > ...physical body there and have eyes on the scene i would rather do that and lose a drone that was an officer through injury or you know workers comp claim that's gonna...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=509s)  > ...you know workers comp claim that's gonna cost the town more where i could put the drone up in the air see from a distance where we don't you won't even see it i i mean you can't see if they go up...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=529s)  > ...and it i only have one but i want to enhance our drone program but it's heavy regulated it's a lot of policies that go along with it and like i said...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=586s)  > ...has a pretty seamless ability to add aircraft liability coverage for drone operation based upon there being faa certifications...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=597s)  > ...and the proper training and depending on the type in size drone like there were some dgi phantoms that between the um the accessory package sometimes thermal...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=625s)  > ...this subject and actually had a law enforcement um uh person from the town of vernon flying a drone in our parking lot um but what was interesting is just this past week there was news about the...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=636s)  > ...town or the city of chicopee massachusetts acquiring an underwater drone which will be used for search and rescue operations in two of the rivers...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=659s)  > ...applications as well so um you know in chief medina at any point if there's ever a need to consult about the drone operations or whatnot we are we are certainly open open to doing so thank...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=693s)  > ...vehicles with uh with vehicles as opposed to having a drone go up high and watch where those vehicles are going you're you're avoiding potential loss...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=703s)  > ...you're you're avoiding potential loss and liability uh using that drone as opposed to human resources i guess it's probably the best way to put it so...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=453s)  > ...with that they're very heavily mandated to the faa you have to license through them i mean even when we put a drone up in the air we have to call bradley and ask for permission put that drone in the...
+    **2021-05-18 -- Planning and Zoning Commission**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=456s)  > ...them i mean even when we put a drone up in the air we have to call bradley and ask for permission put that drone in the air so it's not like it's something that's just like oh we just buy it radio...
+    **Planning & Zoning Meeting - May 18, 2021** _(topics: surveillance_general)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=462s)  > ...air so it's not like it's something that's just like oh we just buy it radio shack and put up here we have a drone it's heavily regulated there's a lot of federal laws that are regulations that...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=F3QQfX6RJnw&t=609s)  > ...will be locked again and it will always happen uh do you have cctv uh coverage over that area uh we have wireless cameras that we are adding on we have wireless cameras...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=476s)  > ...you could do it during a parade you do during a high-risk search but we're not going to put a drone up here just to fly it that does not occur there has to be a specific reason so...
+    **2021-05-03 -- Kycia Farm Committee**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=482s)  > ...here just to fly it that does not occur there has to be a specific reason so when it comes to liability of a drone and that's already been...
+    **Kycia Farm Committee Meeting - May 3, 2021** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=496s)  > ...and they realize that they're more of a tool they're an asset because when i can send a drone into an area and not put a physical body there and have eyes on the scene i would rather do that and lose a...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YIhwRlRs1xY&t=2422s)  > ...barn and be a close proximity to the school um and then we also brought in some of the overhead drone footage i think for people who haven't seen it in its entirety that's a nice you know a...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=503s)  > ...physical body there and have eyes on the scene i would rather do that and lose a drone that was an officer through injury or you know workers comp claim that's gonna...
+    **2021-04-26 -- Budget Work Session**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=509s)  > ...you know workers comp claim that's gonna cost the town more where i could put the drone up in the air see from a distance where we don't you won't even see it i i mean you can't see if they go up...
+    **Budget Workshop April 26, 2021** _(topics: surveillance_general)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=529s)  > ...and it i only have one but i want to enhance our drone program but it's heavy regulated it's a lot of policies that go along with it and like i said...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=t2l8XduYm-o&t=2798s)  > ...possible because we tend to spend spend quite a bit of it cctv drainage inspections that is just inspecting pipes when we have drainage issues...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=586s)  > ...has a pretty seamless ability to add aircraft liability coverage for drone operation based upon there being faa certifications...
+    **2021-04-08 -- Redevelopment Agency**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=597s)  > ...and the proper training and depending on the type in size drone like there were some dgi phantoms that between the um the accessory package sometimes thermal...
+    **Economic Development & Improvement Commission Redevelopment Agency - April 8 2021** _(topics: alpr)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=625s)  > ...this subject and actually had a law enforcement um uh person from the town of vernon flying a drone in our parking lot um but what was interesting is just this past week there was news about the...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=D6acaP-_G0M&t=1176s)  > ...sort of traffic study underway now when i'm biking you'll see a car with a license plate reader parked on the border like you'll see it on the corner of hang dog and route three and you see...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=D6acaP-_G0M&t=1213s)  > ...rocky hill vehicle you're indicating it's a yeah it was just it's a dark sedan and it's got a license plate reader hanging off it and it moves around town maybe something...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=636s)  > ...town or the city of chicopee massachusetts acquiring an underwater drone which will be used for search and rescue operations in two of the rivers...
+    **2021-02-23 -- Board of Education**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=659s)  > ...applications as well so um you know in chief medina at any point if there's ever a need to consult about the drone operations or whatnot we are we are certainly open open to doing so thank...
+    **Board of Education Meeting   February 23, 2021** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=693s)  > ...vehicles with uh with vehicles as opposed to having a drone go up high and watch where those vehicles are going you're you're avoiding potential loss...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=J-dmnUTdsvg&t=3235s)  > ...um landing on mars the rover the perseverance complete with a tiny drone ingenuity completed a nearly seven month journey from earth...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=703s)  > ...you're you're avoiding potential loss and liability uh using that drone as opposed to human resources i guess it's probably the best way to put it so...
+    **2020-11-02 -- Kycia Farm Committee**
 
+    **Kycia Farm Committee   November 2, 2020** _(topics: drone)_
 
-### 2022-04-19 -- Town Council
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OfS6XIDY1e4&t=452s)  > ...documentation would be really helpful so we could send the video clip from the drone so you can get an overview and uh our gis system is online weathersfield map geo so you could...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OfS6XIDY1e4&t=1426s)  > ...doing put our minutes put a link to our minutes on there and you know let people see the drone video and you know talk to them even even to announce that the university of hartford...
 
-**Town Council - Special Meeting 4-19-2022** _(topics: surveillance_general)_
+    **2020-09-08 -- Kycia Farm Committee**
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JbCg9hLPnjk&t=380s)  > ...as needed the other one that is a significant change is the cctv that's for drainage inspections um i had gotten that added to the budget a few years ago it's...
+    **September 8, 2020 Kycia Farm Meeting** _(topics: drone)_
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JbCg9hLPnjk&t=448s)  > ...an increase of maybe around six thousand uh maybe more if i can get five thousand on the cctv and the next few items they were sawing did you say wetlands flagging...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=urkgrrNRcaY&t=2139s)  > ...the opportunities that the farm will will um present maybe getting another drone video we'll have to have you know there's a beautiful one up there but maybe getting...
 
+    **2020-09-01 -- Heritage Tourism Commission**
 
-### 2022-04-21 -- Town Council
+    **September 1, 2020 Heritage Commission Meeting** _(topics: drone)_
 
-**Town Council Special Meeting - April 21, 2022** _(topics: body_camera)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=mYuwpuvCaA4&t=3271s)  > ...it's smithsonian channel they have a show called um ariel america it's like a drone view of the country and episode four was connecticut and...
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_HeKfo6RfEQ&t=5734s)  > ...they want anything and anything associated with any significant incident to include body worn camera video now which is a new thing...
+    **2019-05-07 -- Town Council**
 
+    **Town Council May 6,2019** _(topics: alpr)_
 
-### 2022-08-01 -- Town Council
-
-**Town Council Meeting - August 1, 2022** _(topics: surveillance_general)_
-
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IFovHLOZ4WI&t=9821s)  > ...lot of settlement issues out in this neighborhood that are pretty uncommon and unusual um we've done some cb cctv inspections of our pipes mdc's inspected theirs piping looks fine...
-
-
-### 2022-12-19 -- Town Council
-
-**Town Council - December 19, 2022** _(topics: predictive_policing)_
-
-- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=J2WV-gPOeKM&t=12068s)  > ...farm that was a disgrace an absolute disgrace if the Keisha Foundry family had done anything of the sort of famous make themselves famous make...
-
-
-### 2023-03-21 -- Planning and Zoning Commission
-
-**March 21 2023 - PLANNING AND ZONING COMMISSION** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ow8bRF2TZmQ&t=1015s)  > ...um and a lot of the big players have already kind of decided on where their locations are you know they flock to like the major like the ones that opened up that were our Major League commercial...
-
-
-### 2023-09-18 -- Town Council
-
-**September 18, 2023 - Town Council Meeting** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=10rido9W-p0&t=5294s)  > ...um you know especially here you have Brainerd airport right around the corner you probably couldn't even get a drone application go through uh so we tried we tried to get some some approvals for...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=10rido9W-p0&t=5307s)  > ...because it's very you know it's quick we can do a whole town District in a matter of a night with a drone but you just can't get the approvals of this to do it right I mean there are people out there...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=10rido9W-p0&t=5572s)  > ...this would put the additional 100 000 needed to complete the project um and then drone as we were just talking about drones earlier this would be for the engineering office and the...
-
-
-### 2023-11-20 -- Town Council
-
-**Town Council - November 20, 2023** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=vABmBOfJpwI&t=3399s)  > ...any questions or concerns um and so what the uh detectives have been doing has been collecting uh video and uh License Plate Reader uh data this morning we had a good conversation with the property uh...
-
-
-### 2024-04-17 -- Budget Work Session
-
-**Budget Work Session - April 17, 2024** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=s5RQg-Sh3Wo&t=3498s)  > ...legislation that might be passed we might have to wait till October of 2025 to see what type of drone we can invest in um so I was looking at that until that just came out this past week so...
-
-
-### 2024-04-24 -- Budget Work Session
-
-**Budget Work Session - April 24, 2024** _(topics: surveillance_general)_
-
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=HaNn0yQOk7c&t=6170s)  > ...doing as a town we're just going to take over that responsibility CCTV drainage inspections um I I used to get 15,000 it was reduced to 10 I'm just asking for getting back...
-
-
-### 2024-04-29 -- Budget Work Session
-
-**Budget Work Session - April 29, 2024** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2119s)  > ...game I thought we were going okay so CNF requests um we did put in a request for drone equipment this year um we've been talking with the assessor Department who has an interest in having a drone as...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2123s)  > ...drone equipment this year um we've been talking with the assessor Department who has an interest in having a drone as well um their their purpose for having it would be to use it as um fly over for...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2950s)  > ...don't know how to say this otherwise like the business case for it so I hear that the Drone equipment software and training can do this it can do that it can do this but what's like the business...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2981s)  > ...this so now if we want to get the drones aside from having we this field can say it has a drone we can look forward to an extra 5 hours of sidewalk inspection five five hours more to design roads and...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=3000s)  > ...case for that and I can work my way down whether it's survey vehicle the open government software and the Drone equipment on CNF okay I would say for the Drone the biggest benefit would...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=3006s)  > ...government software and the Drone equipment on CNF okay I would say for the Drone the biggest benefit would probably be for the assessor's office to be able to perform checks where they...
-
-
-### 2025-01-21 -- Town Council
-
-**Town Council Meeting - January 21, 2025** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1755s)  > ...darts um okay and then that follows me to my next question is I think that we started our drone program recently we did we did I announced that at the breakfast as well so they were out there...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1763s)  > ...breakfast as well so they were out there last week getting the training on that but we did get the Drone in we're working with the the company on the EXT software program that helps it deploy um...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1771s)  > ...working with the the company on the EXT software program that helps it deploy um self- deployment with that that drone and also we have to work with the FAA cuz we are so close to Brin at airport...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1779s)  > ...cuz we are so close to Brin at airport we there's flight restrictions with the Drone and special exceptions we have to go through but for the most part the training is done um and we could be...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1789s)  > ...training is done um and we could be deploying it soon and would the would the Drone be effective or used in situations like we see on the number eight traffic stop attempt in we're...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1795s)  > ...situations like we see on the number eight traffic stop attempt in we're going to use the Drone for a multi uh it's going to be a multiuse drone yeah for things like this for car popups for...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1798s)  > ...eight traffic stop attempt in we're going to use the Drone for a multi uh it's going to be a multiuse drone yeah for things like this for car popups for first responder situations to whatever...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1836s)  > ...car on the GPS and on the computer from dispatch and if it's roaming around town then put the Drone up and follow it from the sky simultaneously right for the darts that do work in this situation um...
-
-
-### 2025-04-01 -- Planning and Zoning Commission
-
-**Planning and Zoning Commission - April 1, 2025** _(topics: surveillance_general)_
-
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eouP__E5y8A&t=2763s)  > ...teams available 24/7 365 to respond in the event that there's an incident such as so you've got basically CCTV full-time there with remote monitoring yes sir what about lighting lighting yep...
-
-
-### 2025-04-07 -- Town Council
-
-**Town Council Meeting - April 7, 2025** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1581s)  > ...Mayor. Uh this is a sort of a dual question. The first is can you give us the status on um our drone which I believe we have but if you could let us know what that is and would it have...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1595s)  > ...to the three individuals who wanted to run. So the drone the drone program uh it's in place. We we do have the drone. We just finished up training within the...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1598s)  > ...run. So the drone the drone program uh it's in place. We we do have the drone. We just finished up training within the last couple of weeks I believe we're...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1624s)  > ...that. Um, and so that's the technology that can be used right then and there if we're able to, but as far as the drone, it's not a realistic expectation just because of how quick it happens. Okay....
-
-
-### 2026-03-24 -- Board of Education
-
-**Board of Education Meeting  -  March 24, 2026** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FR0-VFjZSZE&t=1417s)  > ...45-minute scheduled time to align with the other UAs. But the elementary media technical associate role was never changed....
-
-
-### 2026-04-22 -- Budget Work Session
-
-**Budget Work Session  -  April 22, 2026** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jlo2-qScSgY&t=1355s)  > ...>> [snorts] >> Um The second item for FAA drone pilot testing, we bought a drone last year. We have a couple of department staff that...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jlo2-qScSgY&t=1357s)  > ...>> Um The second item for FAA drone pilot testing, we bought a drone last year. We have a couple of department staff that are going to get their um...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jlo2-qScSgY&t=2791s)  > ...maybe. So, we have some staff that are taking classes on that now. Got you. And when did we purchase the drone for? Um I want to say it was maybe a year and a half ago. And everything in technology,...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YD4ZJtUWeMM&t=4289s)  > ...plate on April 2nd Wethersfield Hartford and I believe Newington share what's called an LPR system license plate reader and that system you spent a lot of money to implement in our in your...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -349,10 +267,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2023-11-20] Town Council** -- Town Council - November 20, 2023
   > ...any questions or concerns um and so what the uh detectives have been doing has been collecting uh video and uh License Plate Reader uh data this morning we had a good conversation with the property uh...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vABmBOfJpwI&t=3399s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-03-21] Planning and Zoning Commission** -- March 21 2023 - PLANNING AND ZONING COMMISSION
-  > ...um and a lot of the big players have already kind of decided on where their locations are you know they flock to like the major like the ones that opened up that were our Major League commercial...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ow8bRF2TZmQ&t=1015s)  _(term: alpr_flock, unreviewed)_
 
 - **[2021-04-08] Redevelopment Agency** -- Economic Development & Improvement Commission Redevelopment Agency - April 8 2021
   > ...rocky hill vehicle you're indicating it's a yeah it was just it's a dark sedan and it's got a license plate reader hanging off it and it moves around town maybe something...
@@ -412,10 +326,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2026-04-22] Budget Work Session** -- Budget Work Session  -  April 22, 2026
   > ...>> Um The second item for FAA drone pilot testing, we bought a drone last year. We have a couple of department staff that are going to get their um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Jlo2-qScSgY&t=1357s)  _(term: drone, unreviewed)_
-
-- **[2026-03-24] Board of Education** -- Board of Education Meeting  -  March 24, 2026
-  > ...45-minute scheduled time to align with the other UAs. But the elementary media technical associate role was never changed....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=FR0-VFjZSZE&t=1417s)  _(term: drone, unreviewed)_
 
 - **[2025-04-07] Town Council** -- Town Council Meeting - April 7, 2025
   > ...Mayor. Uh this is a sort of a dual question. The first is can you give us the status on um our drone which I believe we have but if you could let us know what that is and would it have...
@@ -573,10 +483,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...barn and be a close proximity to the school um and then we also brought in some of the overhead drone footage i think for people who haven't seen it in its entirety that's a nice you know a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=YIhwRlRs1xY&t=2422s)  _(term: drone, unreviewed)_
 
-- **[2021-03-11] Redevelopment Agency** -- Economic Development & Improvement Commission /Redevelopment Agency Meeting - Mar 11, 2021
-  > ...but hopefully if you haven't read that you might want to uh as i drone on maybe take a peek at that as we go um so pete when we just get into uh...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4lLAFwo8pDI&t=152s)  _(term: drone, unreviewed)_
-
 - **[2021-02-23] Board of Education** -- Board of Education Meeting   February 23, 2021
   > ...um landing on mars the rover the perseverance complete with a tiny drone ingenuity completed a nearly seven month journey from earth...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J-dmnUTdsvg&t=3235s)  _(term: drone, unreviewed)_
@@ -679,7 +585,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### video_analytics
 
 *(no findings)*
-
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
@@ -788,11 +693,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 
 _Everything below describes the corpus and its limits, rather than what was found in it._
-
-
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
 
 
 ## Coverage status
@@ -908,6 +808,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Wethersfield's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/wethersfield-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip wethersfield-meeting-transcripts.zip -d wethersfield
+cd wethersfield
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

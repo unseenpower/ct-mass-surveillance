@@ -3,25 +3,29 @@
 
 ## At a glance: Windsor
 
+<p class="glance-headline"><strong>3 mentions</strong> of surveillance technology in <strong>3</strong> Windsor meetings, 2024–2025</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">3</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 3 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2024–2025</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-04-16 → 2025-05-20</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras</span></a>
+<a class="glance-card" href="../../../analysis/towns/windsor-alpr-searches.html"><span class="gc-big">23,988</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Windsor police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">49%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">65 of 132 meetings</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">6</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
+</div>
+
+**Still incomplete:** 67 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+
 This report collects every mention of surveillance technology found in **Windsor**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **9 mentions** across **7 meetings**
-- **First mention:** 2018-11-20  |  **Most recent:** 2026-05-20
-- **Technologies discussed:** alpr, body_camera, drone
-- **Coverage:** 65 of 132 known Windsor meetings transcribed (49%)
-- **Still incomplete:** 67 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
-- **6 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
+- [Licence-plate searches by Windsor police](#licence-plate-searches-by-windsor-police)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -32,108 +36,67 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
-## Get the full transcripts
+## Licence-plate searches by Windsor police
 
-**[Download Windsor's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/windsor-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+Six Connecticut towns have released the Flock audit log of every search run against their cameras. Below is what that record holds for Windsor's own police department -- not a finding, just the log.
 
 
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+**Windsor CT PD**
+
+- **23,988 searches** between 2023-01 and 2026-06 (42 months with at least one search)
+- **67 camera networks** swept by the average single search
+- **45%** of them reached beyond Windsor's own cameras
+- The commonest stated reason is free text or a numeric code, rather than one of the preset categories Flock introduced in December 2025
+
+**[Open Windsor CT PD's search dashboard](../../analysis/towns/windsor-alpr-searches.html)** -- every one of those searches, filterable by month, stated reason, search type and how far it reached, with a **[How to read this](../../analysis/towns/windsor-alpr-searches.html#how)** tab covering what each field means and what the record cannot tell you.
 
 
-**How to use it**
-
-```bash
-unzip windsor-meeting-transcripts.zip -d windsor
-cd windsor
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+> **A floor, not a total.** The record only sees queries that reached those six towns' cameras. A single Flock query typically sweeps thousands of networks at once, so most of a Connecticut department's searching does land in it -- but the real count is higher. Nothing in it names an officer, shows a plate, or records what any search returned.
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+**Back to the meetings.** Everything above this point was about licence-plate *searches* -- what the town's police looked up. Everything below is about what was *said*: each mention is a moment in a recorded public meeting where a surveillance technology came up, with a link to that moment in the video.
+
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 7 | 5 | 2024-12-17 | 2026-05-20 |
-| body_camera | 1 | 1 | 2024-04-16 | 2024-04-16 |
-| drone | 1 | 1 | 2018-11-20 | 2018-11-20 |
+| [ALPR / Flock](#alpr) | 2 | 2 | 2025-04-08 | 2025-05-20 |
+| [Body cameras](#body_camera) | 1 | 1 | 2024-04-16 | 2024-04-16 |
 
 
 ## Timeline
 
-7 meetings surfaced a finding (7 dated, spanning 2018-11-20 to 2026-05-20; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+3 meetings surfaced a finding (3 dated, spanning 2024-04-16 to 2025-05-20; 0 of unknown date, listed last). Newest first.
 
-### 2018-11-20 -- Board of Education
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2025-05-20.*
 
-**2018 Windsor Board of Education Special Meeting November 6** _(topics: drone)_
+??? note "Earlier meetings (3)"
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=vWRlCUpoTRY&t=1024s)  > ...teacher surveys so this is where I am gonna depart a little bit from my promise not to drone on because I just read home visit surveys some of which were done in the home but here's an...
+    **2025-05-20 -- Board of Education**
 
+    **Windsor Board of Education Regular Meeting: May 20 2025** _(topics: alpr)_
 
-### 2024-04-16 -- Board of Education
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XFmxth45xcg&t=6084s)  > ...purchase one. That is, um, at a cost. It is a fundraiser for Project Graduation. Um, and you can still flock a friend. I I did. Um, did you enjoy that? Okay. Um, there's still a few days to flock a...
 
-**WPS Board of Education - Regular Meeting | April 16, 2024** _(topics: body_camera)_
+    **2025-04-08 -- Board of Education**
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VDb_ep_S8Jo&t=10932s)  > ...okay you can't call them racist we're doing a hard job and you're watching the body cam footage so and it's especially amusing when young white women call black cops racist I love those videos um...
+    **Windsor Board of Education Regular Meeting: April 8, 2025** _(topics: alpr)_
 
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZpRdX7aqx_s&t=5559s)  > ...report. I don't know if you have anything to add. Oh, I mean not much to add. Who do we reach out to to flock somebody? I want to do it. So, I'll make sure you're flocked first and then what...
 
-### 2024-12-17 -- Board of Education
+    **2024-04-16 -- Board of Education**
 
-**Windsor Board of Education Regular Meeting  with Public Forum - December 17, 2024** _(topics: alpr)_
+    **WPS Board of Education - Regular Meeting | April 16, 2024** _(topics: body_camera)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=KGJlBNzzwqk&t=8135s)  > ...get involved thank you thank you Mr walliston could you explain how one would flock someone for those who don't know it might be...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=KGJlBNzzwqk&t=8141s)  > ...someone for those who don't know it might be suspicious um flamingos flock and on front yards throughout Town actually a lot of uh towns do this uh you wake up...
-
-
-### 2025-04-08 -- Board of Education
-
-**Windsor Board of Education Regular Meeting: April 8, 2025** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZpRdX7aqx_s&t=5559s)  > ...report. I don't know if you have anything to add. Oh, I mean not much to add. Who do we reach out to to flock somebody? I want to do it. So, I'll make sure you're flocked first and then what...
-
-
-### 2025-05-20 -- Board of Education
-
-**Windsor Board of Education Regular Meeting: May 20 2025** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XFmxth45xcg&t=6084s)  > ...purchase one. That is, um, at a cost. It is a fundraiser for Project Graduation. Um, and you can still flock a friend. I I did. Um, did you enjoy that? Okay. Um, there's still a few days to flock a...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XFmxth45xcg&t=6092s)  > ...Um, and you can still flock a friend. I I did. Um, did you enjoy that? Okay. Um, there's still a few days to flock a friend. Again, a a fundraiser for Project Graduation till May 31st. Um,...
-
-
-### 2026-05-19 -- Board of Education
-
-**Windsor Board of Education Regular Meeting Tuesday, May 19, 2026 7:00 PM** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_n1Ted5_PLA&t=5074s)  > ...project graduation. So, I implore you if you want to get involved. Um, you can do something fun for $20. You can flock a neighbor or a friend and they put all the, you know, the flamingos. They come...
-
-
-### 2026-05-20 -- Board of Education
-
-**Board of Education Regular Meeting May 2026** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=jq1YtW9JZwU&t=6782s)  > ...implore you, if you want to get involved, um you can do something fun. For $20, you can flock a a neighbor or a friend, and they put all the you know, the flamingos they come in in the...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VDb_ep_S8Jo&t=10932s)  > ...okay you can't call them racist we're doing a hard job and you're watching the body cam footage so and it's especially amusing when young white women call black cops racist I love those videos um...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -142,18 +105,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
-- **[2026-05-20] Board of Education** -- Board of Education Regular Meeting May 2026
-  > ...implore you, if you want to get involved, um you can do something fun. For $20, you can flock a a neighbor or a friend, and they put all the you know, the flamingos they come in in the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jq1YtW9JZwU&t=6782s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-05-19] Board of Education** -- Windsor Board of Education Regular Meeting Tuesday, May 19, 2026 7:00 PM
-  > ...project graduation. So, I implore you if you want to get involved. Um, you can do something fun for $20. You can flock a neighbor or a friend and they put all the, you know, the flamingos. They come...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_n1Ted5_PLA&t=5074s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-05-20] Board of Education** -- Windsor Board of Education Regular Meeting: May 20 2025
-  > ...Um, and you can still flock a friend. I I did. Um, did you enjoy that? Okay. Um, there's still a few days to flock a friend. Again, a a fundraiser for Project Graduation till May 31st. Um,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XFmxth45xcg&t=6092s)  _(term: alpr_flock, unreviewed)_
-
 - **[2025-05-20] Board of Education** -- Windsor Board of Education Regular Meeting: May 20 2025
   > ...purchase one. That is, um, at a cost. It is a fundraiser for Project Graduation. Um, and you can still flock a friend. I I did. Um, did you enjoy that? Okay. Um, there's still a few days to flock a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=XFmxth45xcg&t=6084s)  _(term: alpr_flock, unreviewed)_
@@ -161,14 +112,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2025-04-08] Board of Education** -- Windsor Board of Education Regular Meeting: April 8, 2025
   > ...report. I don't know if you have anything to add. Oh, I mean not much to add. Who do we reach out to to flock somebody? I want to do it. So, I'll make sure you're flocked first and then what...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZpRdX7aqx_s&t=5559s)  _(term: alpr_flock, unreviewed)_
-
-- **[2024-12-17] Board of Education** -- Windsor Board of Education Regular Meeting  with Public Forum - December 17, 2024
-  > ...someone for those who don't know it might be suspicious um flamingos flock and on front yards throughout Town actually a lot of uh towns do this uh you wake up...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KGJlBNzzwqk&t=8141s)  _(term: alpr_flock, unreviewed)_
-
-- **[2024-12-17] Board of Education** -- Windsor Board of Education Regular Meeting  with Public Forum - December 17, 2024
-  > ...get involved thank you thank you Mr walliston could you explain how one would flock someone for those who don't know it might be...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KGJlBNzzwqk&t=8135s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -205,9 +148,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### drone
 
-- **[2018-11-20] Board of Education** -- 2018 Windsor Board of Education Special Meeting November 6
-  > ...teacher surveys so this is where I am gonna depart a little bit from my promise not to drone on because I just read home visit surveys some of which were done in the home but here's an...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vWRlCUpoTRY&t=1024s)  _(term: drone, unreviewed)_
+*(no findings)*
 
 
 ### facial_recognition
@@ -263,7 +204,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### video_analytics
 
 *(no findings)*
-
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
@@ -432,11 +372,6 @@ Outside of required training, his goal—and wha...
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -524,6 +459,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Windsor's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/windsor-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip windsor-meeting-transcripts.zip -d windsor
+cd windsor
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

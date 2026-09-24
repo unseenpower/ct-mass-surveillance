@@ -3,24 +3,26 @@
 
 ## At a glance: Bethel
 
+<p class="glance-headline"><strong>48 mentions</strong> of surveillance technology in <strong>24</strong> Bethel meetings, 2021–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">48</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 24 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2021–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-03-16 → 2026-02-17</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, General surveillance</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">76%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">755 of 990 meetings</span></a>
+</div>
+
+**Still incomplete:** 235 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+
 This report collects every mention of surveillance technology found in **Bethel**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **50 mentions** across **26 meetings**
-- **First mention:** 2021-03-16  |  **Most recent:** 2026-03-10
-- **Technologies discussed:** alpr, body_camera, drone, surveillance_general
-- **Coverage:** 755 of 990 known Bethel meetings transcribed (76%)
-- **Still incomplete:** 235 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,286 +33,199 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Bethel's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/bethel-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip bethel-meeting-transcripts.zip -d bethel
-cd bethel
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 28 | 9 | 2022-04-20 | 2026-02-17 |
-| body_camera | 3 | 2 | 2021-08-17 | 2024-08-06 |
-| drone | 6 | 6 | 2021-03-16 | 2026-03-10 |
-| surveillance_general | 13 | 9 | 2021-06-21 | 2025-04-01 |
+| [ALPR / Flock](#alpr) | 27 | 8 | 2023-02-21 | 2026-02-17 |
+| [Body cameras](#body_camera) | 3 | 2 | 2021-08-17 | 2024-08-06 |
+| [Drones](#drone) | 5 | 5 | 2021-03-16 | 2025-09-22 |
+| [General surveillance](#surveillance_general) | 13 | 9 | 2021-06-21 | 2025-04-01 |
 
 
 ## Timeline
 
-26 meetings surfaced a finding (26 dated, spanning 2021-03-16 to 2026-03-10; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+24 meetings surfaced a finding (24 dated, spanning 2021-03-16 to 2026-02-17; 0 of unknown date, listed last). Newest first.
 
-### 2021-03-16 -- Zoning Board of Appeals
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-02-17.*
 
-**Zoning Board of Appeals - 3/16/2021** _(topics: drone)_
+??? note "Earlier meetings (24)"
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=wqXJlhaym6w&t=455s)  > ...um and you know having to live by like today the the the drone of the heavy equipment but i will state that i found that the the operation does...
+    **2026-02-17 -- Board of Finance**
 
+    **Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026** _(topics: alpr)_
 
-### 2021-06-21 -- Public Utilities Commission
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4280s)  > ...in service calls related to crimes and how many related to non-rimes? and two on the flock safety license plate readers. Uh as we all know, Bo Finance approved um the first installment last...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4312s)  > ...else can they provide? Um, >> so I I'll speak to the uh the calls for service and then I'll defer the flock. Um, my deputy is a little more well versed in that. Um, so we just had this...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4466s)  > ...on that percentage increase every year. >> Um but to answer your question about flock um >> so the flock cameras yeah they um they track movement in public spaces of of...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4468s)  > ...>> Um but to answer your question about flock um >> so the flock cameras yeah they um they track movement in public spaces of of vehicles and and and coming and goings...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4531s)  > ...that was kind of limited. We sort of had a partial plate. Um to be able to run that through a flock system and be able to find those people quickly. Those are the instances where we're looking to use...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4539s)  > ...it. There's a lot of safeguards in place. There's a lot of audit uh trails when it comes to the use of the flock camera. Uh we the way we have it set up right now, you have to input a case...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4979s)  > ...changed them. They were already changed. Most most Connecticut agencies when you when you sign out with Flock, those settings for sharing with federal agencies already turned off. So I can I...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=5094s)  > ...they'll donate the money for us to buy it would be my question. A lot to be honest with you, Flock a lot of lot of Home Depot, a lot of Targets, a lot of retail facilities do contract with...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=5100s)  > ...Home Depot, a lot of Targets, a lot of retail facilities do contract with Flock. They own the camera and then they share that data with local law enforcement. That's how that works....
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=5109s)  > ...>> so that's a one-way share, right? In essence, >> right? No, no. Flock would No, no. Target wouldn't have access to our cameras that are out on the road. They...
 
-**Public Utilities Commission - 6/21/2021** _(topics: surveillance_general)_
+    **2025-12-16 -- Board of Selectmen**
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4oTdMiONriY&t=3198s)  > ...later this week i think his first steps are going to be cctv camera work and root treatments uh the chestnut tank there's really not much else going on...
+    **Board of Selectmen Regular Meeting - 12/16/2025** _(topics: alpr)_
 
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2141s)  > ...to that? >> Okay. Next up on the agenda, we have a bid waiver for flock safety automatic license by readers. Now, if you recall, we approved these already, but when we...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2173s)  > ...Roman numeral 3 for automatic license plate readers. The reasons for the bid waiver in this case are flock is on state bid. Uh and also um it's unique to the license plate reader companies in...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2181s)  > ...waiver in this case are flock is on state bid. Uh and also um it's unique to the license plate reader companies in the area because we're able to connect to the towns around us giving us a...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2196s)  > ...questions on we do how we do that? >> Yeah, I do I just have a quick question. Are there so as I understand Flock is the only um provider for the for the like five town kind of thing. Is that...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2327s)  > ...authorize the town of Bethl to enter to the automatic license reader contract with Flock Group Incorporated, DVA Flock Safety in the amount of 78,000, that's 26,000 a year, subject to review of town...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2339s)  > ...council, and move to authorize Dan Lee Carter's first selection of the town of Bethl to execute the contract with Flock Group Incorporated, DVA Flock Safety, and to authorize any other acts or...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2342s)  > ...Carter's first selection of the town of Bethl to execute the contract with Flock Group Incorporated, DVA Flock Safety, and to authorize any other acts or actions as reasonably necessary,...
 
-### 2021-07-19 -- Public Utilities Commission
+    **2025-12-09 -- Board of Finance**
 
-**Public Utilities Commission - 7/19/2021** _(topics: surveillance_general)_
+    **Board of Finance Regular Meeting - 12/09/2025** _(topics: alpr)_
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Amy94XuzMN4&t=636s)  > ...the contractor mobilized they completed their root treatments and they've also cctv the lines that they need to line um and clean those as well so they're...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XMrhqJ7nRl4&t=965s)  > ...of approval of an amount not to exceed $26,000 from CNR for eight cameras from Flock Safety for the license plate readers for the Bethl Police Department....
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XMrhqJ7nRl4&t=1640s)  > ...one are it didn't fit into the system as well as we wanted. It was connecting to Reading system. Um, Flock has the advantage of now connecting to other cameras,...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XMrhqJ7nRl4&t=1841s)  > ...going to ask just to ease some of the board members minds. Is this something that flock can build semiannually or twice a year? >> Because if they can, it's a $26,000 out...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XMrhqJ7nRl4&t=2665s)  > ...>> um I guess the reason I asked about Brad earlier is that like, you know, if if the if flock would accept a an initial semiannual payment of 13,000, could we amend the motion to just take 13 out of...
 
+    **2025-12-02 -- Board of Selectmen**
 
-### 2021-08-17 -- Board of Selectmen
+    **Board of Selectmen Regular Meeting - 12/02/2025** _(topics: alpr)_
 
-**Board of Selectmen - 8/17/2021** _(topics: body_camera)_
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=MhK1PUgIwww&t=1015s)  > ...for to add plate readers. Um we've done a lot of research to see what's out there. We found a company called Flock Safety that um is what pretty much everybody around us is using. Um Utah...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=MhK1PUgIwww&t=1917s)  > ...board of finance up to not to exceed $26,000 from capital non-recurring for the purchase of the flock cameras, eight of them. And um, you know, the final contract be approved by the town...
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6jfklC30Hk&t=400s)  > ...going to do if we were going to do body cameras or car cameras uh back then the consensus was to just do body cam i'm sorry car cameras at the time however uh when we made the decision on...
+    **2025-09-22 -- Inland Wetlands Commission**
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6jfklC30Hk&t=868s)  > ...um the best in car because obviously before body cam cameras became popular um the i mean we've been using in-car...
+    **Inland Wetlands Commission Regular Meeting - 09/22/2025** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=xA7WjrtIBAs&t=4360s)  > ...talking about. though. >> Could could the Inland Wetlands Commission just invest in a drone and then we don't have to >> Yeah, that anymore....
 
-### 2021-09-20 -- Public Utilities Commission
+    **2025-04-01 -- Board of Selectmen**
 
-**Public Utilities Commission - 9/20/2021** _(topics: surveillance_general)_
+    **Board of Selectmen Regular Meeting - 04/01/2025** _(topics: surveillance_general)_
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=c3UU5Xhm9Ok&t=1008s)  > ...and then other than review by our engineer of all the cctv reports after the work was done that that's going to basically be wrapped up...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=CSwIjhB2LOc&t=365s)  > ...but as long this is my only stipulation is that we have proper signage and super, you know, the uh, surveillance camera is directed right on that ballot box. Um and um you know it it's easier...
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=c3UU5Xhm9Ok&t=1115s)  > ...a one year review period so the contractor comes back out and cctv's the lines uh weston and samson reviewed those they found two small defects...
+    **2024-11-14 -- Public Utilities Commission**
 
+    **Public Utilities Commission Regular Meeting - 11/14/2024** _(topics: surveillance_general)_
 
-### 2021-09-28 -- Planning & Zoning Commission
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XzaIcY2KHCA&t=2228s)  > ...project is the sub Area 13 uh sanitary survey um all the tasks the cleaning the uh uh CCTV flow isolation manhole inspections are complete Weston and Samson's working on...
 
-**Planning & Zoning Commission - 9/28/2021** _(topics: drone)_
+    **2024-08-06 -- Board of Selectmen**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9MF7u88Jz2g&t=5746s)  > ...the stoney hill neighborhood we've done a rendering from a helicopter or a drone view from across the street that shows essentially our planned architecture...
+    **Board of Selectmen Regular Meeting - 08/06/2024** _(topics: body_camera)_
 
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gWZ_JQSEzDo&t=1437s)  > ...body camera basically covers it now so you don't they have with cameras the body cam basically I think we were on the taser 2.0 when I's now x26 x26 yeah whatever it was...
 
-### 2021-11-15 -- Public Utilities Commission
+    **2024-07-11 -- Public Utilities Commission**
 
-**Public Utilities Commission - 11/15/2021** _(topics: surveillance_general)_
+    **Public Utilities Commission Regular Meeting - 07/11/2024** _(topics: surveillance_general)_
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3Sf9b7umYIs&t=1814s)  > ...um you know they think a year later they come back and cctv lines yeah so the overall number came in a little bit under on that contract um you know when...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=sErMZwsPYxk&t=701s)  > ...pressure test disinfection uh the manhole tests the sewer M and I got a CCTV and everything everything checked out well okay so the ma have been approved by the board of...
 
+    **2024-05-28 -- Planning & Zoning Commission**
 
-### 2022-04-20 -- Insurance & Pension Commission
+    **Planning and Zoning Commission Regular Meeting - 05/28/2024** _(topics: alpr)_
 
-**Insurance & Pension Commission - 4/20/2022** _(topics: alpr)_
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=aRvLWMkNStM&t=6615s)  > ...now um this space in other in other words it's always been in a state of flock um the the photographs that are in meeting room a down in town hall I'm going to bring those up on the screen...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=yuzq8N-8jQc&t=1592s)  > ...in in times of crisis there's usually a flock to the treasury the safest most liquid asset in the world right people are selling risk risk...
+    **2024-05-09 -- Public Utilities Commission**
 
+    **Public Utilities Commission Regular Meeting - 05/09/2024** _(topics: surveillance_general)_
 
-### 2023-02-21 -- Board of Selectmen
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j-LJ0aiZBxQ&t=4903s)  > ...cleaning the contract and the work when you go for the Deep Grant um what they approve for the CCTV work includes light cleaning so when there's heavy cleaning to be done it's kind of outside of the...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j-LJ0aiZBxQ&t=4972s)  > ...point um the estimate for the extra work was upwards of 990,000 but we'll some of that t CCTV work would already have been included so they can back out about 20 or so Grand so the...
 
-**Board of Selectmen - Special Meeting - 2/21/2023** _(topics: alpr)_
+    **2024-02-08 -- Public Utilities Commission**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rsNKIA-IWBo&t=1124s)  > ...consideration of mobile radios in the amount of 163 510 and a license plate reader in the amount of seventeen thousand seven hundred and seventy seven dollars for...
+    **Public Utilities Commission Regular Meeting - 02/08/2024** _(topics: surveillance_general)_
 
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=df9crphySkc&t=316s)  > ...flip to page uh five that's kind of the heart of of what it includes it's flow isolation it's um CCTV inspections with cleaning and and manhole inspections along with the report and uh traffic but...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=df9crphySkc&t=326s)  > ...cleaning and and manhole inspections along with the report and uh traffic but um just in terms of the CCTV and and the cleaning of L it's you know you're getting a lot you're getting...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=df9crphySkc&t=408s)  > ...previously it was on the order of four to5 a foot and and this cost here with the contractor the CCTV the manle inspections and the flow isolation this number works it backs into about almost...
 
-### 2023-06-27 -- Planning & Zoning Commission
+    **2023-09-27 -- Public Site & Building Commission**
 
-**Planning & Zoning Commission Regular Meeting - 6/27/2023** _(topics: drone)_
+    **Public Site & Building Commission - 9/27/2023** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=X9JzPSAaIKs&t=7506s)  > ...house with a G and the sh in the back right they're both about 38 of an acre and a quarter acre drone okay all thank you because I drove by today and I got wa okay that's what's he doing well...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=wLqplYTd8lc&t=1944s)  > ...unfortunately uh they had to snap food one to deliver you guys and they'd end up drone control later in the evening um I can't really I I'm just concerned...
 
+    **2023-08-01 -- Board of Selectmen**
 
-### 2023-07-18 -- Board of Selectmen
+    **Board of Selectmen - 8/1/2023** _(topics: alpr)_
 
-**Board of Selectmen - Regular Meeting - 7/18/2023** _(topics: alpr)_
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_bN119N4-m4&t=427s)  > ...so but um so I would take a motion to recommend we lease the license plate reader for a total of 4889 um to be passing the board of Finance...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=8G01uNIvUdU&t=422s)  > ...the mobile camera That Grew into a bigger discussion about a camera with a license plate reader capability not only for somebody like that but also as you know we've had a...
+    **2023-07-18 -- Board of Selectmen**
 
+    **Board of Selectmen - Regular Meeting - 7/18/2023** _(topics: alpr)_
 
-### 2023-08-01 -- Board of Selectmen
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=8G01uNIvUdU&t=422s)  > ...the mobile camera That Grew into a bigger discussion about a camera with a license plate reader capability not only for somebody like that but also as you know we've had a...
 
-**Board of Selectmen - 8/1/2023** _(topics: alpr)_
+    **2023-06-27 -- Planning & Zoning Commission**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_bN119N4-m4&t=427s)  > ...so but um so I would take a motion to recommend we lease the license plate reader for a total of 4889 um to be passing the board of Finance...
+    **Planning & Zoning Commission Regular Meeting - 6/27/2023** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=X9JzPSAaIKs&t=7506s)  > ...house with a G and the sh in the back right they're both about 38 of an acre and a quarter acre drone okay all thank you because I drove by today and I got wa okay that's what's he doing well...
 
-### 2023-09-27 -- Public Site & Building Commission
+    **2023-02-21 -- Board of Selectmen**
 
-**Public Site & Building Commission - 9/27/2023** _(topics: drone)_
+    **Board of Selectmen - Special Meeting - 2/21/2023** _(topics: alpr)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=wLqplYTd8lc&t=1944s)  > ...unfortunately uh they had to snap food one to deliver you guys and they'd end up drone control later in the evening um I can't really I I'm just concerned...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rsNKIA-IWBo&t=1124s)  > ...consideration of mobile radios in the amount of 163 510 and a license plate reader in the amount of seventeen thousand seven hundred and seventy seven dollars for...
 
+    **2021-11-15 -- Public Utilities Commission**
 
-### 2024-02-08 -- Public Utilities Commission
+    **Public Utilities Commission - 11/15/2021** _(topics: surveillance_general)_
 
-**Public Utilities Commission Regular Meeting - 02/08/2024** _(topics: surveillance_general)_
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3Sf9b7umYIs&t=1814s)  > ...um you know they think a year later they come back and cctv lines yeah so the overall number came in a little bit under on that contract um you know when...
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=df9crphySkc&t=316s)  > ...flip to page uh five that's kind of the heart of of what it includes it's flow isolation it's um CCTV inspections with cleaning and and manhole inspections along with the report and uh traffic but...
+    **2021-09-28 -- Planning & Zoning Commission**
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=df9crphySkc&t=326s)  > ...cleaning and and manhole inspections along with the report and uh traffic but um just in terms of the CCTV and and the cleaning of L it's you know you're getting a lot you're getting...
+    **Planning & Zoning Commission - 9/28/2021** _(topics: drone)_
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=df9crphySkc&t=408s)  > ...previously it was on the order of four to5 a foot and and this cost here with the contractor the CCTV the manle inspections and the flow isolation this number works it backs into about almost...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9MF7u88Jz2g&t=5746s)  > ...the stoney hill neighborhood we've done a rendering from a helicopter or a drone view from across the street that shows essentially our planned architecture...
 
+    **2021-09-20 -- Public Utilities Commission**
 
-### 2024-05-09 -- Public Utilities Commission
+    **Public Utilities Commission - 9/20/2021** _(topics: surveillance_general)_
 
-**Public Utilities Commission Regular Meeting - 05/09/2024** _(topics: surveillance_general)_
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=c3UU5Xhm9Ok&t=1008s)  > ...and then other than review by our engineer of all the cctv reports after the work was done that that's going to basically be wrapped up...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=c3UU5Xhm9Ok&t=1115s)  > ...a one year review period so the contractor comes back out and cctv's the lines uh weston and samson reviewed those they found two small defects...
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j-LJ0aiZBxQ&t=4903s)  > ...cleaning the contract and the work when you go for the Deep Grant um what they approve for the CCTV work includes light cleaning so when there's heavy cleaning to be done it's kind of outside of the...
+    **2021-08-17 -- Board of Selectmen**
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j-LJ0aiZBxQ&t=4972s)  > ...point um the estimate for the extra work was upwards of 990,000 but we'll some of that t CCTV work would already have been included so they can back out about 20 or so Grand so the...
+    **Board of Selectmen - 8/17/2021** _(topics: body_camera)_
 
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6jfklC30Hk&t=400s)  > ...going to do if we were going to do body cameras or car cameras uh back then the consensus was to just do body cam i'm sorry car cameras at the time however uh when we made the decision on...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6jfklC30Hk&t=868s)  > ...um the best in car because obviously before body cam cameras became popular um the i mean we've been using in-car...
 
-### 2024-05-28 -- Planning & Zoning Commission
+    **2021-07-19 -- Public Utilities Commission**
 
-**Planning and Zoning Commission Regular Meeting - 05/28/2024** _(topics: alpr)_
+    **Public Utilities Commission - 7/19/2021** _(topics: surveillance_general)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=aRvLWMkNStM&t=6615s)  > ...now um this space in other in other words it's always been in a state of flock um the the photographs that are in meeting room a down in town hall I'm going to bring those up on the screen...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Amy94XuzMN4&t=636s)  > ...the contractor mobilized they completed their root treatments and they've also cctv the lines that they need to line um and clean those as well so they're...
 
+    **2021-06-21 -- Public Utilities Commission**
 
-### 2024-07-11 -- Public Utilities Commission
+    **Public Utilities Commission - 6/21/2021** _(topics: surveillance_general)_
 
-**Public Utilities Commission Regular Meeting - 07/11/2024** _(topics: surveillance_general)_
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4oTdMiONriY&t=3198s)  > ...later this week i think his first steps are going to be cctv camera work and root treatments uh the chestnut tank there's really not much else going on...
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=sErMZwsPYxk&t=701s)  > ...pressure test disinfection uh the manhole tests the sewer M and I got a CCTV and everything everything checked out well okay so the ma have been approved by the board of...
+    **2021-03-16 -- Zoning Board of Appeals**
 
+    **Zoning Board of Appeals - 3/16/2021** _(topics: drone)_
 
-### 2024-08-06 -- Board of Selectmen
-
-**Board of Selectmen Regular Meeting - 08/06/2024** _(topics: body_camera)_
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gWZ_JQSEzDo&t=1437s)  > ...body camera basically covers it now so you don't they have with cameras the body cam basically I think we were on the taser 2.0 when I's now x26 x26 yeah whatever it was...
-
-
-### 2024-11-14 -- Public Utilities Commission
-
-**Public Utilities Commission Regular Meeting - 11/14/2024** _(topics: surveillance_general)_
-
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XzaIcY2KHCA&t=2228s)  > ...project is the sub Area 13 uh sanitary survey um all the tasks the cleaning the uh uh CCTV flow isolation manhole inspections are complete Weston and Samson's working on...
-
-
-### 2025-04-01 -- Board of Selectmen
-
-**Board of Selectmen Regular Meeting - 04/01/2025** _(topics: surveillance_general)_
-
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=CSwIjhB2LOc&t=365s)  > ...but as long this is my only stipulation is that we have proper signage and super, you know, the uh, surveillance camera is directed right on that ballot box. Um and um you know it it's easier...
-
-
-### 2025-09-22 -- Inland Wetlands Commission
-
-**Inland Wetlands Commission Regular Meeting - 09/22/2025** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=xA7WjrtIBAs&t=4360s)  > ...talking about. though. >> Could could the Inland Wetlands Commission just invest in a drone and then we don't have to >> Yeah, that anymore....
-
-
-### 2025-12-02 -- Board of Selectmen
-
-**Board of Selectmen Regular Meeting - 12/02/2025** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=MhK1PUgIwww&t=1015s)  > ...for to add plate readers. Um we've done a lot of research to see what's out there. We found a company called Flock Safety that um is what pretty much everybody around us is using. Um Utah...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=MhK1PUgIwww&t=1917s)  > ...board of finance up to not to exceed $26,000 from capital non-recurring for the purchase of the flock cameras, eight of them. And um, you know, the final contract be approved by the town...
-
-
-### 2025-12-09 -- Board of Finance
-
-**Board of Finance Regular Meeting - 12/09/2025** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XMrhqJ7nRl4&t=965s)  > ...of approval of an amount not to exceed $26,000 from CNR for eight cameras from Flock Safety for the license plate readers for the Bethl Police Department....
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XMrhqJ7nRl4&t=1640s)  > ...one are it didn't fit into the system as well as we wanted. It was connecting to Reading system. Um, Flock has the advantage of now connecting to other cameras,...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XMrhqJ7nRl4&t=1841s)  > ...going to ask just to ease some of the board members minds. Is this something that flock can build semiannually or twice a year? >> Because if they can, it's a $26,000 out...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XMrhqJ7nRl4&t=2665s)  > ...>> um I guess the reason I asked about Brad earlier is that like, you know, if if the if flock would accept a an initial semiannual payment of 13,000, could we amend the motion to just take 13 out of...
-
-
-### 2025-12-16 -- Board of Selectmen
-
-**Board of Selectmen Regular Meeting - 12/16/2025** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2141s)  > ...to that? >> Okay. Next up on the agenda, we have a bid waiver for flock safety automatic license by readers. Now, if you recall, we approved these already, but when we...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2173s)  > ...Roman numeral 3 for automatic license plate readers. The reasons for the bid waiver in this case are flock is on state bid. Uh and also um it's unique to the license plate reader companies in...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2181s)  > ...waiver in this case are flock is on state bid. Uh and also um it's unique to the license plate reader companies in the area because we're able to connect to the towns around us giving us a...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2196s)  > ...questions on we do how we do that? >> Yeah, I do I just have a quick question. Are there so as I understand Flock is the only um provider for the for the like five town kind of thing. Is that...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2327s)  > ...authorize the town of Bethl to enter to the automatic license reader contract with Flock Group Incorporated, DVA Flock Safety in the amount of 78,000, that's 26,000 a year, subject to review of town...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2339s)  > ...council, and move to authorize Dan Lee Carter's first selection of the town of Bethl to execute the contract with Flock Group Incorporated, DVA Flock Safety, and to authorize any other acts or...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2342s)  > ...Carter's first selection of the town of Bethl to execute the contract with Flock Group Incorporated, DVA Flock Safety, and to authorize any other acts or actions as reasonably necessary,...
-
-
-### 2026-02-17 -- Board of Finance
-
-**Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4280s)  > ...in service calls related to crimes and how many related to non-rimes? and two on the flock safety license plate readers. Uh as we all know, Bo Finance approved um the first installment last...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4312s)  > ...else can they provide? Um, >> so I I'll speak to the uh the calls for service and then I'll defer the flock. Um, my deputy is a little more well versed in that. Um, so we just had this...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4466s)  > ...on that percentage increase every year. >> Um but to answer your question about flock um >> so the flock cameras yeah they um they track movement in public spaces of of...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4468s)  > ...>> Um but to answer your question about flock um >> so the flock cameras yeah they um they track movement in public spaces of of vehicles and and and coming and goings...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4531s)  > ...that was kind of limited. We sort of had a partial plate. Um to be able to run that through a flock system and be able to find those people quickly. Those are the instances where we're looking to use...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4539s)  > ...it. There's a lot of safeguards in place. There's a lot of audit uh trails when it comes to the use of the flock camera. Uh we the way we have it set up right now, you have to input a case...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=4979s)  > ...changed them. They were already changed. Most most Connecticut agencies when you when you sign out with Flock, those settings for sharing with federal agencies already turned off. So I can I...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=5094s)  > ...they'll donate the money for us to buy it would be my question. A lot to be honest with you, Flock a lot of lot of Home Depot, a lot of Targets, a lot of retail facilities do contract with...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=5100s)  > ...Home Depot, a lot of Targets, a lot of retail facilities do contract with Flock. They own the camera and then they share that data with local law enforcement. That's how that works....
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PMeEB3i3bfc&t=5109s)  > ...>> so that's a one-way share, right? In essence, >> right? No, no. Flock would No, no. Target wouldn't have access to our cameras that are out on the road. They...
-
-
-### 2026-03-10 -- Planning & Zoning Commission
-
-**Planning & Zoning Commission Regular Meeting - 03/10/2026** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=inEOHQYQMPw&t=838s)  > ...Um, and rather than reading these verbatim into the record, they're in the record, so I won't drone on, but I will rely on your review of those statements and their presence in the record for...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=wqXJlhaym6w&t=455s)  > ...um and you know having to live by like today the the the drone of the heavy equipment but i will state that i found that the the operation does...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -427,10 +342,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...consideration of mobile radios in the amount of 163 510 and a license plate reader in the amount of seventeen thousand seven hundred and seventy seven dollars for...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rsNKIA-IWBo&t=1124s)  _(term: alpr_flock, unreviewed)_
 
-- **[2022-04-20] Insurance & Pension Commission** -- Insurance & Pension Commission - 4/20/2022
-  > ...in in times of crisis there's usually a flock to the treasury the safest most liquid asset in the world right people are selling risk risk...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yuzq8N-8jQc&t=1592s)  _(term: alpr_flock, unreviewed)_
-
 
 ### biometrics_other
 
@@ -473,10 +384,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 
 ### drone
-
-- **[2026-03-10] Planning & Zoning Commission** -- Planning & Zoning Commission Regular Meeting - 03/10/2026
-  > ...Um, and rather than reading these verbatim into the record, they're in the record, so I won't drone on, but I will rely on your review of those statements and their presence in the record for...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=inEOHQYQMPw&t=838s)  _(term: drone, unreviewed)_
 
 - **[2025-09-22] Inland Wetlands Commission** -- Inland Wetlands Commission Regular Meeting - 09/22/2025
   > ...talking about. though. >> Could could the Inland Wetlands Commission just invest in a drone and then we don't have to >> Yeah, that anymore....
@@ -603,7 +510,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -713,11 +619,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -801,6 +702,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Bethel's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/bethel-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip bethel-meeting-transcripts.zip -d bethel
+cd bethel
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

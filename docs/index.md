@@ -1,19 +1,93 @@
 # Mass surveillance in Connecticut
 
-Public reference documents on mass surveillance in Connecticut — research
-briefs, FOIA materials, and the public record of what Connecticut towns have
-said about surveillance technology in their own meetings.
+<p class="glance-headline">When a Connecticut police officer looks up a licence plate on Flock, the search doesn't stay in town. One query can sweep <strong>hundreds or thousands of camera networks at once</strong>, and the cameras on your street are searched by <strong>thousands of agencies across the country</strong>.</p>
 
-Everything here is built from primary sources: public meeting transcripts,
-agenda and minutes documents, and records released under the Connecticut
-Freedom of Information Act. Every finding links back to the exact second of
-the source recording so you can check it yourself.
+Six Connecticut towns have released their Flock audit logs. Between them they
+record **12,895,873 licence-plate searches** of Connecticut cameras — and only
+about **3.4% were run by Connecticut agencies**.
+
+This site puts that record in one place: what each Connecticut police
+department searched, and what each town's officials have said about
+surveillance technology in their own public meetings. Every figure links back
+to its source — a released audit log, or the exact second of a meeting video —
+so you can check it yourself.
+
+**Want to do something about it?** See [flockoff.io](https://flockoff.io).
+
+<div class="card-pair" markdown>
+
+[![Police departments ran 12,895,873 searches of Connecticut cameras. 5,647
+separate agencies ran them, the average search reached 4,730 camera networks,
+covering 2023-01 to 2026-08.](analysis/every-search-summary.svg)](analysis/towns/index.md)
+
+[![Who searches Connecticut's plate cameras: only 3.4% of 12.9 million searches
+came from Connecticut agencies. A tile map of the United States with Connecticut
+in red and other states shaded by how much they searched.](analysis/who-searches-ct.svg)](analysis/towns/index.md)
+
+</div>
+
+[Look at your town's police searches →](analysis/towns/index.md){ .md-button .md-button--primary }
+[Find your town in the matrix](cross-town-matrix.md){ .md-button }
+
+## What's here
+
+<div class="town-grid">
+<a class="town-card" href="analysis/towns/">
+<span class="tc-name">Your police department's searches</span>
+<span class="tc-big">56</span>
+<span class="tc-lbl">department dashboards</span>
+<span class="tc-stats">Every licence-plate search each Connecticut department ran that reached six towns' cameras — filter by month, stated reason and how far it reached.</span>
+</a>
+<a class="town-card" href="cross-town-matrix/">
+<span class="tc-name">Cross-town matrix</span>
+<span class="tc-big">99</span>
+<span class="tc-lbl">towns side by side</span>
+<span class="tc-stats">Every town, every surveillance technology, mention counts from public meetings — each linking to that town's full report.</span>
+</a>
+<a class="town-card" href="this-week-in-surveillance/">
+<span class="tc-name">This Week in Surveillance</span>
+<span class="tc-big">7</span>
+<span class="tc-lbl">days, refreshed</span>
+<span class="tc-stats">What entered the record this week: meetings held, towns newly covered, and topics coming up for the first time in a town.</span>
+</a>
+<a class="town-card" href="meetings-to-watch/">
+<span class="tc-name">Meetings to watch</span>
+<span class="tc-big">Next</span>
+<span class="tc-lbl">where it comes up</span>
+<span class="tc-stats">Meetings already scheduled at bodies that keep returning to surveillance technology. For deciding which meeting is worth an evening.</span>
+</a>
+<a class="town-card" href="foia/ct-alpr-foia-template/">
+<span class="tc-name">ALPR FOIA request template</span>
+<span class="tc-big">FOIA</span>
+<span class="tc-lbl">ask your own town</span>
+<span class="tc-stats">A fill-in-the-blanks Connecticut FOI Act request covering Flock and the Axon in-car system most towns have never mentioned in public.</span>
+</a>
+<a class="town-card" href="topics/mentions/alpr/">
+<span class="tc-name">Topic reports</span>
+<span class="tc-big">17</span>
+<span class="tc-lbl">technologies</span>
+<span class="tc-stats">One page per technology — ALPR, drones, facial recognition, real-time crime centres — gathering what every town said about it.</span>
+</a>
+<a class="town-card" href="data/">
+<span class="tc-name">findings.csv</span>
+<span class="tc-big">CSV</span>
+<span class="tc-lbl">the whole dataset</span>
+<span class="tc-stats">Every finding of mass surveillance technology in Connecticut's public meetings, in one machine-readable file: <!-- stats:start -->5,817 rows, 99 towns, 17 topics<!-- stats:end -->, each linked to the exact second of the meeting video.</span>
+</a>
+<div class="town-card soon">
+<span class="tc-name">Explainers</span>
+<span class="tc-big">Soon</span>
+<span class="tc-lbl">coming soon</span>
+<span class="tc-stats">Plain-language pages on how licence-plate readers actually work, one question per page. See below.</span>
+</div>
+</div>
 
 !!! warning "Read this before citing anything"
 
     The per-town findings are **raw keyword matches, not verified claims**.
-    Keywords are ambiguous — "drone" can mean a bee, "flock" a bird. A listed
-    mention is a pointer to a place in the record, not a finding in itself.
+    Keywords are ambiguous — "drone" can mean talking at length, "flock" a
+    bird. Known false positives of that kind are removed, but a listed mention
+    is still a pointer to a place in the record, not a finding in itself.
 
     **Absence of mentions is not evidence that a town has no surveillance
     technology.** It often means the transcripts have not been fetched yet,
@@ -21,41 +95,25 @@ the source recording so you can check it yourself.
     archive lives on a platform this pipeline does not read. Every report
     states its own coverage — read the "Coverage status" section first.
 
-## Start here
+## Coming soon: explainers
 
-**[Cross-town matrix](cross-town-matrix.md)** — every town, every
-surveillance-tech topic, mention counts side by side, each linking through to
-that town's full report. The fastest way to see which towns are discussing
-ALPR, drones, facial recognition or real-time crime centres, and how one town
-compares to its neighbours.
+Plain-language pages on how the data side of licence-plate readers works, one
+question per page. In preparation:
 
-**[This Week in Surveillance](this-week-in-surveillance.md)** — what entered
-the record in the last seven days: meetings actually held this week, towns
-whose transcripts were downloaded for the first time, and topics appearing for
-the first time in a town already being watched. Regenerated continuously.
-
-**[ALPR FOIA request template](foia/ct-alpr-foia-template.md)** — a
-fill-in-the-blanks Connecticut FOI Act request covering both ALPR systems a
-police department is likely to run: the Flock Safety network, and the Axon
-in-car system most towns have never mentioned in public. Built from two real
-requests to West Hartford PD, with the homework to do first, the statutory
-cites, and notes on why each item is worded the way it is.
-
-**[Meetings to watch](meetings-to-watch.md)** — where surveillance technology
-is most likely to come up next: meetings towns have already scheduled at
-bodies that have raised it before, and the ~160 committees and councils across
-Connecticut that keep returning to the subject. For deciding which meeting is
-worth an evening.
-
-**[Topic reports](topics/mentions/alpr.md)** — the same data cut the other
-way: one file per technology, gathering every town's mentions of it into a
-single document. Start here to read what a dozen towns said about ALPR without
-opening a dozen town reports.
-
-**[findings.csv](data/README.md)** — every mention in one machine-readable
-file: <!-- stats:start -->5,956 rows, 99 towns, 17 topics<!-- stats:end -->,
-each with a link to the exact second of the meeting video. For spreadsheets,
-scripts, or pointing an AI assistant at.
+- **Read the search record yourself** — what a search event is, and three things about this data that are easy to get backwards
+- **What the camera actually records**
+- **Hotlists, and what a "hit" means**
+- **The search reason field**
+- **Not the officer you know** — who is actually searching your town's cameras
+- **Not the camera on the street**
+- **Not lost puppies**
+- **Not only Flock**
+- **Nobody had to say yes to mass surveillance**
+- **How this gets bought**
+- **The transparency portal**
+- **The four FOIA artifacts**
+- **Reading a search log honestly**
+- **Check your own town**
 
 ## Searching
 

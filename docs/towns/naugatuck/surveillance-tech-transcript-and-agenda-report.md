@@ -3,24 +3,26 @@
 
 ## At a glance: Naugatuck
 
+<p class="glance-headline"><strong>16 mentions</strong> of surveillance technology in <strong>7</strong> Naugatuck meetings, 2022–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">16</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 7 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2022–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2022-02-10 → 2026-08-04</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Body cameras, Drones, Facial recognition, General surveillance</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">58%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">141 of 243 meetings</span></a>
+</div>
+
+**Still incomplete:** 102 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+
 This report collects every mention of surveillance technology found in **Naugatuck**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **18 mentions** across **9 meetings**
-- **First mention:** 2022-02-10  |  **Most recent:** 2026-08-04
-- **Technologies discussed:** alpr, body_camera, drone, facial_recognition, surveillance_general
-- **Coverage:** 141 of 243 known Naugatuck meetings transcribed (58%)
-- **Still incomplete:** 102 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,138 +33,82 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Naugatuck's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/naugatuck-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip naugatuck-meeting-transcripts.zip -d naugatuck
-cd naugatuck
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 2 | 2 | 2025-12-18 | 2026-08-03 |
-| body_camera | 2 | 1 | 2024-03-04 | 2024-03-04 |
-| drone | 11 | 5 | 2024-03-04 | 2026-08-04 |
-| facial_recognition | 2 | 1 | 2022-02-10 | 2022-02-10 |
-| surveillance_general | 1 | 1 | 2026-07-07 | 2026-07-07 |
+| [Body cameras](#body_camera) | 2 | 1 | 2024-03-04 | 2024-03-04 |
+| [Drones](#drone) | 11 | 5 | 2024-03-04 | 2026-08-04 |
+| [Facial recognition](#facial_recognition) | 2 | 1 | 2022-02-10 | 2022-02-10 |
+| [General surveillance](#surveillance_general) | 1 | 1 | 2026-07-07 | 2026-07-07 |
 
 
 ## Timeline
 
-9 meetings surfaced a finding (9 dated, spanning 2022-02-10 to 2026-08-04; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+7 meetings surfaced a finding (7 dated, spanning 2022-02-10 to 2026-08-04; 0 of unknown date, listed last). Newest first.
 
-### 2022-02-10 -- Board of Education
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-08-04.*
 
-**Naugatuck Board of Education Meeting Feb. 10, 2022** _(topics: facial_recognition)_
+??? note "Earlier meetings (7)"
 
-- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZjYeVPNY_ik&t=2043s)  > ...her whole school career so far has been seeing teachers covered part of kids development is facial recognition due to the pandemic and the unscientific guidelines put in place...
+    **2026-08-04 -- Board of Mayor and Burgesses**
 
-- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZjYeVPNY_ik&t=3148s)  > ...unconstitutional moving forward it the mass enables children to read facial cues facial recognition understanding someone's emotions based off their facial...
+    **Monthly Board of Mayor and Burgess meeting 08/04/2026** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4750s)  > ...because of the Chinese manufacturer it's been legislated out so uh Axon partners with the drone companies getting two additional drones out of here again that technology interface allows the drones...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4817s)  > ...can't resell them to a 78 market. They really aren't standalone products. And the DJI drones aren't there. You can't import them after the first few year. China's going to spy on us with a drone....
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4821s)  > ...the DJI drones aren't there. You can't import them after the first few year. China's going to spy on us with a drone. But yeah, so they the feds do like using our drones,...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4852s)  > ...>> Just as a side note, we did explore a VFR program under this contract, just drone first responder program. Um, I thought it was a little bit cost prohibitive and I also don't think we're...
 
-### 2024-03-04 -- Finance Board
+    **2026-07-07 -- Board of Mayor and Burgesses**
 
-**Finance Board Budget Workshop Meeting 03-4-24** _(topics: body_camera, drone)_
+    **Monthly Board of Mayor and Burgess meeting 07/07/2026** _(topics: surveillance_general)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=233s)  > ...black the assessor dat books for the National Association for depreciation as well as the Drone software some IP cameras at fire and some survey software that we are...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GYqD-Emhr0g&t=2178s)  > ...involved with the side investigations for several years now. like back in 2022 was out in the field doing CCTV of all those drainage pipes figuring out drainage network. Um downstream we added...
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=855s)  > ...back a couple of years ago Hartford sent down and said that every municipality will have a body cam for every officer that could possibly be in the policing capacity so that takes it from your...
+    **2025-03-04 -- Board of Mayor and Burgesses**
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=867s)  > ...standard patrol officer and the Cruisers all the way to the chief so even Chief mallister has body Cam that he's required to wear if there's any possibility that he could be in a...
+    **Monthly Board of Mayor and Burgess meeting 03/04/2025** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=977s)  > ...sir okay anything else any other questions how many drones do we have we have my know is we have one drone but we might have a backup I know we we crashed one um and we got a replacement for it...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=HAlhO87vdls&t=4715s)  > ...these islands and Banks where it's too steep for us to get our equipment on that's the first it's kind like a drone you sit there with little controller yeah cool we rented one a couple years...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=991s)  > ...to be able to have um better reporting zooming capability streaming capability from that drone um the drones right now located at PD and they're the ones that appet um some of the stuff that I've...
+    **2024-08-29 -- Board of Mayor and Burgesses**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=1008s)  > ...destination he has his own from that I've not actually flown our drone but c f I was just wondering because if it's made in China or Russia very soon we not...
+    **Special Board of Mayor and Burgess meeting 8-29-24** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=synqGVNTPJ0&t=665s)  > ...by step up we had hundreds pictures take it was impassible but I think by what by did you put the Drone up there and have it fly over to see the capture the whole...
 
-### 2024-03-18 -- Finance Board
+    **2024-03-18 -- Finance Board**
 
-**Finance Board Budget Workshop Meeting 03-18-24** _(topics: drone)_
+    **Finance Board Budget Workshop Meeting 03-18-24** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0Mu4sCYEBP4&t=1119s)  > ...if you pick that up thanks I appreciate that up and um the $4,000 on the Drone should be in Jim's budget we did have we we were discussing...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0Mu4sCYEBP4&t=1119s)  > ...if you pick that up thanks I appreciate that up and um the $4,000 on the Drone should be in Jim's budget we did have we we were discussing...
 
+    **2024-03-04 -- Finance Board**
 
-### 2024-08-29 -- Board of Mayor and Burgesses
+    **Finance Board Budget Workshop Meeting 03-4-24** _(topics: body_camera, drone)_
 
-**Special Board of Mayor and Burgess meeting 8-29-24** _(topics: drone)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=233s)  > ...black the assessor dat books for the National Association for depreciation as well as the Drone software some IP cameras at fire and some survey software that we are...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=855s)  > ...back a couple of years ago Hartford sent down and said that every municipality will have a body cam for every officer that could possibly be in the policing capacity so that takes it from your...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=867s)  > ...standard patrol officer and the Cruisers all the way to the chief so even Chief mallister has body Cam that he's required to wear if there's any possibility that he could be in a...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=977s)  > ...sir okay anything else any other questions how many drones do we have we have my know is we have one drone but we might have a backup I know we we crashed one um and we got a replacement for it...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=991s)  > ...to be able to have um better reporting zooming capability streaming capability from that drone um the drones right now located at PD and they're the ones that appet um some of the stuff that I've...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uZb-oCjyFuA&t=1008s)  > ...destination he has his own from that I've not actually flown our drone but c f I was just wondering because if it's made in China or Russia very soon we not...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=synqGVNTPJ0&t=665s)  > ...by step up we had hundreds pictures take it was impassible but I think by what by did you put the Drone up there and have it fly over to see the capture the whole...
+    **2022-02-10 -- Board of Education**
 
+    **Naugatuck Board of Education Meeting Feb. 10, 2022** _(topics: facial_recognition)_
 
-### 2025-03-04 -- Board of Mayor and Burgesses
-
-**Monthly Board of Mayor and Burgess meeting 03/04/2025** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=HAlhO87vdls&t=4715s)  > ...these islands and Banks where it's too steep for us to get our equipment on that's the first it's kind like a drone you sit there with little controller yeah cool we rented one a couple years...
-
-
-### 2025-12-18 -- Zoning Commission
-
-**Borough of Naugatuck Zoning Meeting 12-18-25** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=NRgI9BBdiDM&t=4891s)  > ...the time. It's a really nice sweating. Right now in Nagata, most of the people flock over to the golf course. It's a little tiny bunny thing. Only little tiny kids want to play there. This is...
-
-
-### 2026-07-07 -- Board of Mayor and Burgesses
-
-**Monthly Board of Mayor and Burgess meeting 07/07/2026** _(topics: surveillance_general)_
-
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GYqD-Emhr0g&t=2178s)  > ...involved with the side investigations for several years now. like back in 2022 was out in the field doing CCTV of all those drainage pipes figuring out drainage network. Um downstream we added...
-
-
-### 2026-08-03 -- Planning Commission
-
-**Planning Commission Meeting 8-3-26** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=AH4cVHcYvzY&t=3327s)  > ...phenomenal. It was coffins. It was making all sorts of noises, tweets, and mechanical sounds. It was a flock of redwing blackbirds and they were in vibration. Now, if you've seen this...
-
-
-### 2026-08-04 -- Board of Mayor and Burgesses
-
-**Monthly Board of Mayor and Burgess meeting 08/04/2026** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4750s)  > ...because of the Chinese manufacturer it's been legislated out so uh Axon partners with the drone companies getting two additional drones out of here again that technology interface allows the drones...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4817s)  > ...can't resell them to a 78 market. They really aren't standalone products. And the DJI drones aren't there. You can't import them after the first few year. China's going to spy on us with a drone....
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4821s)  > ...the DJI drones aren't there. You can't import them after the first few year. China's going to spy on us with a drone. But yeah, so they the feds do like using our drones,...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QX9FuLI_eSg&t=4852s)  > ...>> Just as a side note, we did explore a VFR program under this contract, just drone first responder program. Um, I thought it was a little bit cost prohibitive and I also don't think we're...
+    - `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZjYeVPNY_ik&t=2043s)  > ...her whole school career so far has been seeing teachers covered part of kids development is facial recognition due to the pandemic and the unscientific guidelines put in place...
+    - `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZjYeVPNY_ik&t=3148s)  > ...unconstitutional moving forward it the mass enables children to read facial cues facial recognition understanding someone's emotions based off their facial...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -171,13 +117,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
-- **[2026-08-03] Planning Commission** -- Planning Commission Meeting 8-3-26
-  > ...phenomenal. It was coffins. It was making all sorts of noises, tweets, and mechanical sounds. It was a flock of redwing blackbirds and they were in vibration. Now, if you've seen this...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AH4cVHcYvzY&t=3327s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-12-18] Zoning Commission** -- Borough of Naugatuck Zoning Meeting 12-18-25
-  > ...the time. It's a really nice sweating. Right now in Nagata, most of the people flock over to the golf course. It's a little tiny bunny thing. Only little tiny kids want to play there. This is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NRgI9BBdiDM&t=4891s)  _(term: alpr_flock, unreviewed)_
+*(no findings)*
 
 
 ### biometrics_other
@@ -325,7 +265,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -435,11 +374,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 2
@@ -527,6 +461,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | channel | tab |
 | --- | --- |
 | Borough of Naugatuck | streams |
+
+
+## Get the full transcripts
+
+**[Download Naugatuck's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/naugatuck-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip naugatuck-meeting-transcripts.zip -d naugatuck
+cd naugatuck
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

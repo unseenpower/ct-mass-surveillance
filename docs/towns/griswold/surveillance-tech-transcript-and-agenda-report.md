@@ -3,24 +3,26 @@
 
 ## At a glance: Griswold
 
+<p class="glance-headline"><strong>5 mentions</strong> of surveillance technology in <strong>2</strong> Griswold meetings, 2024–2025</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">5</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 2 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2024–2025</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-09-25 → 2025-11-26</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Predictive policing</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">86%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">116 of 135 meetings</span></a>
+</div>
+
+**Not the full history:** transcripts begin **2023-01-18**, but Griswold's published video archive goes back to **2022-02-14**. Meetings before 2023 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
 This report collects every mention of surveillance technology found in **Griswold**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **5 mentions** across **2 meetings**
-- **First mention:** 2024-09-25  |  **Most recent:** 2025-11-26
-- **Technologies discussed:** alpr, predictive_policing
-- **Coverage:** 116 of 135 known Griswold meetings transcribed (86%)
-- **Not the full history:** transcripts begin **2023-01-18**, but Griswold's published video archive goes back to **2022-02-14**. Meetings before 2023 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,74 +33,44 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Griswold's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/griswold-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip griswold-meeting-transcripts.zip -d griswold
-cd griswold
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 4 | 1 | 2025-11-26 | 2025-11-26 |
-| predictive_policing | 1 | 1 | 2024-09-25 | 2024-09-25 |
+| [ALPR / Flock](#alpr) | 4 | 1 | 2025-11-26 | 2025-11-26 |
+| [Predictive policing](#predictive_policing) | 1 | 1 | 2024-09-25 | 2024-09-25 |
 
 
 ## Timeline
 
-2 meetings surfaced a finding (2 dated, spanning 2024-09-25 to 2025-11-26; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+2 meetings surfaced a finding (2 dated, spanning 2024-09-25 to 2025-11-26; 0 of unknown date, listed last). Newest first.
 
-### 2024-09-25 -- Board of Selectmen
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2025-11-26.*
 
-**Board of Selectmen** _(topics: predictive_policing)_
+??? note "Earlier meetings (2)"
 
-- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=lVPbQqw27bk&t=614s)  > ...Connecticut so and he had a Mill and everything there and a Foundry they took Pete out of the ground they had their own fuel there's there's a lot of stuff wrapped...
+    **2025-11-26 -- Board of Selectmen**
 
+    **Regular BOS Meeting** _(topics: alpr)_
 
-### 2025-11-26 -- Board of Selectmen
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=2882s)  > ...be coming to you. The burrow is um looking into um investing into what they call flock safety cameras. Um they are cameras that uh take a very precise picture of a make of a car and a license...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=2963s)  > ...Montville, and Graten. So, I'd like to um if if you guys are open to it, I'd like to ask the uh flock safety people that presented to us to present to you. And um of course, there is a cost...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3282s)  > ...resident went to have a medical procedure in another state, he can log into the flock cameras and see where it is. And there's there's just it's very there's a lot of big brother to it....
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3314s)  > ...sales rep version of of why it's good. >> Okay. Yes. >> View [address redacted]. Regarding the flock cameras, are they be do they want to be installed for a specific purpose like...
 
-**Regular BOS Meeting** _(topics: alpr)_
+    **2024-09-25 -- Board of Selectmen**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=2882s)  > ...be coming to you. The burrow is um looking into um investing into what they call flock safety cameras. Um they are cameras that uh take a very precise picture of a make of a car and a license...
+    **Board of Selectmen** _(topics: predictive_policing)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=2963s)  > ...Montville, and Graten. So, I'd like to um if if you guys are open to it, I'd like to ask the uh flock safety people that presented to us to present to you. And um of course, there is a cost...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3282s)  > ...resident went to have a medical procedure in another state, he can log into the flock cameras and see where it is. And there's there's just it's very there's a lot of big brother to it....
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=doU3q1nE_Fg&t=3314s)  > ...sales rep version of of why it's good. >> Okay. Yes. >> View [address redacted]. Regarding the flock cameras, are they be do they want to be installed for a specific purpose like...
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=lVPbQqw27bk&t=614s)  > ...Connecticut so and he had a Mill and everything there and a Foundry they took Pete out of the ground they had their own fuel there's there's a lot of stuff wrapped...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -215,7 +187,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -325,11 +296,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -409,6 +375,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | channel | tab |
 | --- | --- |
 | Town of Griswold, Connecticut | videos |
+
+
+## Get the full transcripts
+
+**[Download Griswold's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/griswold-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip griswold-meeting-transcripts.zip -d griswold
+cd griswold
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

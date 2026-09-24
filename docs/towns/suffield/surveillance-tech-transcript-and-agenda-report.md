@@ -3,24 +3,26 @@
 
 ## At a glance: Suffield
 
+<p class="glance-headline"><strong>4 mentions</strong> of surveillance technology in <strong>3</strong> Suffield meetings, 2025–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">4</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 3 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2025–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2025-03-19 → 2026-06-09</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">3</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones, Facial recognition</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">90%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">104 of 116 meetings</span></a>
+</div>
+
+**Not the full history:** transcripts begin **2019-02-28**, but Suffield's published video archive goes back to **2018-09-26**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
 This report collects every mention of surveillance technology found in **Suffield**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **4 mentions** across **3 meetings**
-- **First mention:** 2025-03-19  |  **Most recent:** 2026-06-09
-- **Technologies discussed:** alpr, drone, facial_recognition
-- **Coverage:** 104 of 116 known Suffield meetings transcribed (90%)
-- **Not the full history:** transcripts begin **2019-02-28**, but Suffield's published video archive goes back to **2018-09-26**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,78 +33,49 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Suffield's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/suffield-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip suffield-meeting-transcripts.zip -d suffield
-cd suffield
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 1 | 1 | 2025-06-04 | 2025-06-04 |
-| drone | 2 | 1 | 2025-03-19 | 2025-03-19 |
-| facial_recognition | 1 | 1 | 2026-06-09 | 2026-06-09 |
+| [ALPR / Flock](#alpr) | 1 | 1 | 2025-06-04 | 2025-06-04 |
+| [Drones](#drone) | 2 | 1 | 2025-03-19 | 2025-03-19 |
+| [Facial recognition](#facial_recognition) | 1 | 1 | 2026-06-09 | 2026-06-09 |
 
 
 ## Timeline
 
-3 meetings surfaced a finding (3 dated, spanning 2025-03-19 to 2026-06-09; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+3 meetings surfaced a finding (3 dated, spanning 2025-03-19 to 2026-06-09; 0 of unknown date, listed last). Newest first.
 
-### 2025-03-19 -- Board of Selectmen
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-06-09.*
 
-**Suffield BOS 03 19 2025** _(topics: drone)_
+??? note "Earlier meetings (3)"
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=n3xi-cb-StY&t=1107s)  > ...that he'd be a great fit for this position I know he's does a lot of the Drone footage he's done it for I'm sorry a lot of Drone footage so he's done it for some of our our Parks and Recreation...
+    **2026-06-09 -- Kent Memorial Library Commission**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=n3xi-cb-StY&t=1110s)  > ...position I know he's does a lot of the Drone footage he's done it for I'm sorry a lot of Drone footage so he's done it for some of our our Parks and Recreation events already which includes the summer...
+    **KMLC regular meeting June 9 2026** _(topics: facial_recognition)_
 
+    - `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=sAHqokYkb1U&t=2910s)  > ...>> can't find out their name. >> It's true. >> Facial recognition software. It's also difficult for staff because not all staff is on at the same time. So...
 
-### 2025-06-04 -- Board of Selectmen
+    **2025-06-04 -- Board of Selectmen**
 
-**BOS June 4 2025** _(topics: alpr)_
+    **BOS June 4 2025** _(topics: alpr)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=osf808-mPyc&t=2833s)  > ...they're different what they would be. Uh [clears throat] so the cameras we spoke about previously were license plate reader cameras. Yes....
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=osf808-mPyc&t=2833s)  > ...they're different what they would be. Uh [clears throat] so the cameras we spoke about previously were license plate reader cameras. Yes....
 
+    **2025-03-19 -- Board of Selectmen**
 
-### 2026-06-09 -- Kent Memorial Library Commission
+    **Suffield BOS 03 19 2025** _(topics: drone)_
 
-**KMLC regular meeting June 9 2026** _(topics: facial_recognition)_
-
-- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=sAHqokYkb1U&t=2910s)  > ...>> can't find out their name. >> It's true. >> Facial recognition software. It's also difficult for staff because not all staff is on at the same time. So...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=n3xi-cb-StY&t=1107s)  > ...that he'd be a great fit for this position I know he's does a lot of the Drone footage he's done it for I'm sorry a lot of Drone footage so he's done it for some of our our Parks and Recreation...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=n3xi-cb-StY&t=1110s)  > ...position I know he's does a lot of the Drone footage he's done it for I'm sorry a lot of Drone footage so he's done it for some of our our Parks and Recreation events already which includes the summer...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -213,7 +186,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -323,11 +295,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 2
@@ -406,6 +373,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | --- | --- |
 | Suffield Town Govt. (Live Stream) | streams |
 | Sunlight on Suffield CT | streams |
+
+
+## Get the full transcripts
+
+**[Download Suffield's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/suffield-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip suffield-meeting-transcripts.zip -d suffield
+cd suffield
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---
