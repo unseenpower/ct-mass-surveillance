@@ -3,22 +3,24 @@
 
 ## At a glance: Haddam
 
+<p class="glance-headline"><strong>No surveillance-technology mentions</strong> found yet in 10 transcribed Haddam meetings</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#coverage-status"><span class="gc-big">10%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">10 of 100 meetings</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">1</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
+</div>
+
+**Not the full history:** transcripts begin **2020-06-10**, but Haddam's published video archive goes back to **2018-01-08**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
 This report collects every mention of surveillance technology found in **Haddam**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **Coverage:** 10 of 100 known Haddam meetings transcribed (10%)
-- **Not the full history:** transcripts begin **2020-06-10**, but Haddam's published video archive goes back to **2018-01-08**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-- **1 additional mention** in agendas and minutes (keyword scan, not yet human-reviewed)
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -29,51 +31,22 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Haddam's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/haddam-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip haddam-meeting-transcripts.zip -d haddam
-cd haddam
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-*(none)*
+*No surveillance-technology mentions found in this town's transcribed meetings yet.*
 
 
 ## Timeline
 
-0 meetings surfaced a finding (none have a known date).
+<!-- report-polish v1 -->
+
+No meetings have surfaced a finding yet.
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -173,7 +146,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### video_analytics
 
 *(no findings)*
-
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
@@ -290,11 +262,6 @@ willing to work with ...
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -371,6 +338,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Haddam's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/haddam-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip haddam-meeting-transcripts.zip -d haddam
+cd haddam
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

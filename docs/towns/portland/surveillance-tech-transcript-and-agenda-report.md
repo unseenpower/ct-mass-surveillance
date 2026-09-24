@@ -3,24 +3,26 @@
 
 ## At a glance: Portland
 
+<p class="glance-headline"><strong>9 mentions</strong> of surveillance technology in <strong>9</strong> Portland meetings, 2022–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">9</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 9 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2022–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2022-09-01 → 2026-02-26</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">49%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">231 of 475 meetings</span></a>
+</div>
+
+**Not the full history:** transcripts begin **2014-10-10**, but Portland's published video archive goes back to **2013-05-01**. Meetings before 2014 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
 This report collects every mention of surveillance technology found in **Portland**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **9 mentions** across **9 meetings**
-- **First mention:** 2022-09-01  |  **Most recent:** 2026-02-26
-- **Technologies discussed:** alpr, drone
-- **Coverage:** 231 of 475 known Portland meetings transcribed (49%)
-- **Not the full history:** transcripts begin **2014-10-10**, but Portland's published video archive goes back to **2013-05-01**. Meetings before 2014 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,117 +33,83 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Portland's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/portland-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip portland-meeting-transcripts.zip -d portland
-cd portland
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 1 | 1 | 2026-02-18 | 2026-02-18 |
-| drone | 8 | 8 | 2022-09-01 | 2026-02-26 |
+| [ALPR / Flock](#alpr) | 1 | 1 | 2026-02-18 | 2026-02-18 |
+| [Drones](#drone) | 8 | 8 | 2022-09-01 | 2026-02-26 |
 
 
 ## Timeline
 
-9 meetings surfaced a finding (9 dated, spanning 2022-09-01 to 2026-02-26; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+9 meetings surfaced a finding (9 dated, spanning 2022-09-01 to 2026-02-26; 0 of unknown date, listed last). Newest first.
 
-### 2022-09-01 -- Planning and Zoning Commission
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-02-26.*
 
-**Planning and Zoning | Public Hearing| Portland, CT | 9/1/22** _(topics: drone)_
+??? note "Earlier meetings (9)"
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=bOSMhn2uB2Y&t=1724s)  > ...to be good to to account have thought of for service how about drone deliveries i'm sure i'm sure amazon will get on that when they when they can...
+    **2026-02-26 -- Board of Education**
 
+    **Town of Portland Podcast | TOP & BOE Joint Episode | Ep 75 | February 26, 2026** _(topics: drone)_
 
-### 2022-09-07 -- Town Meeting
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=HO9xRCnQtw4&t=2417s)  > ...about what this will become. you you'll have to talk to Dylan. Maybe you can put the drone up and take some pictures of that. >> We did that. I got lots of video....
 
-**Board of Selectmen | Town Meeting | Portland, CT | 9/7/22** _(topics: drone)_
+    **2026-02-18 -- Board of Selectmen**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ntg_w9bvJPg&t=3253s)  > ...passive view of the water and we'll keep an actual this to me was the best drone shot um I don't know if you got them all Ryan I did yeah no I like this yeah yeah this...
+    **Board of Selectmen Meeting 2/18/2026** _(topics: alpr)_
 
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3WXzOtFeGp8&t=855s)  > ...>> Do you let people know uh the ones that people are watching what LPRs are? >> License plate reader cameras. >> Yeah. I'm sorry. So, we have a set we have three sets of those, three...
 
-### 2024-05-01 -- Board of Selectmen
+    **2025-05-01 -- Strategic Capital Improvements Committee**
 
-**Board of Selectmen | Regular Meeting | Portland, CT | 05/01/2024** _(topics: drone)_
+    **Strategic Capital Improvements Committee 5/1/2025** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gvdJ7_zfniw&t=1776s)  > ...last Friday they at no cost to the town hired or allowed us to use their their drone team and they sent a drone team out and took some really stunning videos and footage of the property not just...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7hGowoBhlTA&t=4428s)  > ...know he was using the 30,000 elevation. Well, now I need him to dial it down to, you know, drone. We got to make sure and I respect that you respect his numbers, but I trust verify. I just want to see...
 
+    **2024-08-08 -- Planning and Zoning Commission**
 
-### 2024-05-08 -- Planning and Zoning Commission
+    **Planning and Zoning Special Meeting 8/8/24** _(topics: drone)_
 
-**Portland Planning and Zoning Special Meeting 5/8/24** _(topics: drone)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YyBHGECOVSs&t=1546s)  > ...Bridge gentle River and the expansive Horizon of Rolling Hills slide please these are drone photos taken at the proposed view from a new restaurant at building a slide...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qZhFzkbmeUY&t=4339s)  > ...expansion expansive Horizon of Rolling Hills next image please these are drone photos taken at the proposed view from a new restaurant next image...
+    **2024-05-23 -- Planning and Zoning Commission**
 
+    **Portland Planning and Zoning Special Meeting 5/23/24** _(topics: drone)_
 
-### 2024-05-23 -- Planning and Zoning Commission
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T08q_Kuo_D4&t=9885s)  > ...residential as far as the addition of two more floors well I understand a chef came by flew a drone and said yes I want to have a a restaurant on this level okay is going to be four stories so okay...
 
-**Portland Planning and Zoning Special Meeting 5/23/24** _(topics: drone)_
+    **2024-05-08 -- Planning and Zoning Commission**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T08q_Kuo_D4&t=9885s)  > ...residential as far as the addition of two more floors well I understand a chef came by flew a drone and said yes I want to have a a restaurant on this level okay is going to be four stories so okay...
+    **Portland Planning and Zoning Special Meeting 5/8/24** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qZhFzkbmeUY&t=4339s)  > ...expansion expansive Horizon of Rolling Hills next image please these are drone photos taken at the proposed view from a new restaurant next image...
 
-### 2024-08-08 -- Planning and Zoning Commission
+    **2024-05-01 -- Board of Selectmen**
 
-**Planning and Zoning Special Meeting 8/8/24** _(topics: drone)_
+    **Board of Selectmen | Regular Meeting | Portland, CT | 05/01/2024** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YyBHGECOVSs&t=1546s)  > ...Bridge gentle River and the expansive Horizon of Rolling Hills slide please these are drone photos taken at the proposed view from a new restaurant at building a slide...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gvdJ7_zfniw&t=1776s)  > ...last Friday they at no cost to the town hired or allowed us to use their their drone team and they sent a drone team out and took some really stunning videos and footage of the property not just...
 
+    **2022-09-07 -- Town Meeting**
 
-### 2025-05-01 -- Strategic Capital Improvements Committee
+    **Board of Selectmen | Town Meeting | Portland, CT | 9/7/22** _(topics: drone)_
 
-**Strategic Capital Improvements Committee 5/1/2025** _(topics: drone)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ntg_w9bvJPg&t=3253s)  > ...passive view of the water and we'll keep an actual this to me was the best drone shot um I don't know if you got them all Ryan I did yeah no I like this yeah yeah this...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7hGowoBhlTA&t=4428s)  > ...know he was using the 30,000 elevation. Well, now I need him to dial it down to, you know, drone. We got to make sure and I respect that you respect his numbers, but I trust verify. I just want to see...
+    **2022-09-01 -- Planning and Zoning Commission**
 
+    **Planning and Zoning | Public Hearing| Portland, CT | 9/1/22** _(topics: drone)_
 
-### 2026-02-18 -- Board of Selectmen
-
-**Board of Selectmen Meeting 2/18/2026** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3WXzOtFeGp8&t=855s)  > ...>> Do you let people know uh the ones that people are watching what LPRs are? >> License plate reader cameras. >> Yeah. I'm sorry. So, we have a set we have three sets of those, three...
-
-
-### 2026-02-26 -- Board of Education
-
-**Town of Portland Podcast | TOP & BOE Joint Episode | Ep 75 | February 26, 2026** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=HO9xRCnQtw4&t=2417s)  > ...about what this will become. you you'll have to talk to Dylan. Maybe you can put the drone up and take some pictures of that. >> We did that. I got lots of video....
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=bOSMhn2uB2Y&t=1724s)  > ...to be good to to account have thought of for service how about drone deliveries i'm sure i'm sure amazon will get on that when they when they can...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -274,7 +242,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -384,11 +351,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -471,6 +433,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Portland's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/portland-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip portland-meeting-transcripts.zip -d portland
+cd portland
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

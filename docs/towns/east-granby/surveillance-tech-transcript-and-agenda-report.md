@@ -3,24 +3,26 @@
 
 ## At a glance: East Granby
 
+<p class="glance-headline"><strong>26 mentions</strong> of surveillance technology in <strong>5</strong> East Granby meetings, 2024–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">26</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 5 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2024–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-05-28 → 2026-05-27</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones, Facial recognition, General surveillance</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">97%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">227 of 234 meetings</span></a>
+</div>
+
+**Not the full history:** transcripts begin **2015-02-27**, but East Granby's published video archive goes back to **2014-04-09**. Meetings before 2015 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
 This report collects every mention of surveillance technology found in **East Granby**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **28 mentions** across **7 meetings**
-- **First mention:** 2015-02-27  |  **Most recent:** 2026-05-27
-- **Technologies discussed:** alpr, drone, facial_recognition, surveillance_general
-- **Coverage:** 227 of 234 known East Granby meetings transcribed (97%)
-- **Not the full history:** transcripts begin **2015-02-27**, but East Granby's published video archive goes back to **2014-04-09**. Meetings before 2015 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,147 +33,82 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download East Granby's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/east-granby-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip east-granby-meeting-transcripts.zip -d east-granby
-cd east-granby
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 3 | 3 | 2015-02-27 | 2026-05-27 |
-| drone | 23 | 3 | 2024-05-28 | 2025-04-09 |
-| facial_recognition | 1 | 1 | 2024-05-28 | 2024-05-28 |
-| surveillance_general | 1 | 1 | 2025-01-22 | 2025-01-22 |
+| [ALPR / Flock](#alpr) | 1 | 1 | 2026-05-27 | 2026-05-27 |
+| [Drones](#drone) | 23 | 3 | 2024-05-28 | 2025-04-09 |
+| [Facial recognition](#facial_recognition) | 1 | 1 | 2024-05-28 | 2024-05-28 |
+| [General surveillance](#surveillance_general) | 1 | 1 | 2025-01-22 | 2025-01-22 |
 
 
 ## Timeline
 
-7 meetings surfaced a finding (7 dated, spanning 2015-02-27 to 2026-05-27; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+5 meetings surfaced a finding (5 dated, spanning 2024-05-28 to 2026-05-27; 0 of unknown date, listed last). Newest first.
 
-### 2015-02-27 -- Plan of Conservation and Development
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-05-27.*
 
-**East Granby Plan of Conservation Workshop #2** _(topics: alpr)_
+??? note "Earlier meetings (5)"
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=HVOG42D1uBY&t=651s)  > ...opportunity all we have to do is do this and and people from all over the valley will flock here that wasn't the kind of uh situation you had and that means that most chain retailers ERS are going to...
+    **2026-05-27 -- Board of Selectmen**
 
+    **East Granby Board of Selectmen - 05-27-26** _(topics: alpr)_
 
-### 2024-05-28 -- Board of Education
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=2dYs-fg_dvg&t=924s)  > ...actually just came in They just came in this evening, as I was driving in, um and including a license plate reader, if we choose to go that route, um as well as multiple cameras down there, as...
 
-**East Granby Board of Education - 05-28-24** _(topics: drone, facial_recognition)_
+    **2025-04-09 -- Board of Finance**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=565s)  > ...along lines with this technology the description of my project I was inspired by the Drone course with Miss mun um to help the Community with My Capstone I took drone videos and...
+    **East Granby Board of Finance - 04-09-25** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=569s)  > ...I was inspired by the Drone course with Miss mun um to help the Community with My Capstone I took drone videos and pictures of the school and made a virtual tour out of the video um and...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=t1wL5XYNZZI&t=7046s)  > ...motion was made you know had it I not to receive and the estimated coming back from UAS and then the actual grant reward. Okay. And do we know when that 356k is coming? I will defer to on that....
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=610s)  > ...modern as drones are I went through a lot of challenges I mean flying a drone is a challenge in itself cuz it's taking off it's danger it can be dangerous if you don't know...
+    **2025-01-27 -- Board of Education**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=633s)  > ...big challenge too because of how many like how long it was how many Clips I got and then mopping a drone or a route for the Drone was difficult because I didn't want to overlap anywhere and have...
+    **East Granby Board of Education - 01-27-25** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=637s)  > ...like how long it was how many Clips I got and then mopping a drone or a route for the Drone was difficult because I didn't want to overlap anywhere and have somebody see something...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Dx082KUyovk&t=4827s)  > ...a an exam that a teacher wants online or something to do with the Drone they don't take purchase orders because it's not a it's not a and just just recently...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=656s)  > ...use of technology to communicate research and problem solve I feel I did that with learning how to use the Drone properly and then then share personal responsibility I feel I did that through...
+    **2025-01-22 -- Water Pollution Control Authority**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=678s)  > ...find a time to fight for the school so learning all the drones the first drone we have is the Phantom this is the biggest drone this is our class drone this was the first real drone I'd...
+    **East Granby Water Pollution Control Authority - 01-22-25** _(topics: surveillance_general)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=681s)  > ...school so learning all the drones the first drone we have is the Phantom this is the biggest drone this is our class drone this was the first real drone I'd say I flew and DJI is a very cinematic...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZgV9slTeAU8&t=830s)  > ...investigations uh may include recommendations to complete uh closed circuit television inspections or CCTV inspections which help identify specific sources of infiltration to the system we...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=682s)  > ...first drone we have is the Phantom this is the biggest drone this is our class drone this was the first real drone I'd say I flew and DJI is a very cinematic like company when it comes to drones...
+    **2024-05-28 -- Board of Education**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=685s)  > ...is the biggest drone this is our class drone this was the first real drone I'd say I flew and DJI is a very cinematic like company when it comes to drones mostly everybody uses them there's not...
+    **East Granby Board of Education - 05-28-24** _(topics: drone, facial_recognition)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=697s)  > ...mostly everybody uses them there's not really another company out there um any drone over 250 mg you have to register we did that with this drone and the next drone I'll show...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=701s)  > ...really another company out there um any drone over 250 mg you have to register we did that with this drone and the next drone I'll show you I use that for some of the outside...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=704s)  > ...drone over 250 mg you have to register we did that with this drone and the next drone I'll show you I use that for some of the outside clips that I've gotten at the high...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=711s)  > ...you I use that for some of the outside clips that I've gotten at the high school the next drone we have and this is what me sorry this is the abata so this is an fpv drum...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=747s)  > ...and everything and then on these new fpv drones that DJI does they came out with a new controller which is pretty cool so instead of holding it like the...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=780s)  > ...sense where the throttle right here you move up back down left and right and then the last drone we have is I ended up buying this drone because of how much I enjoyed flying drones and...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=780s)  > ...move up back down left and right and then the last drone we have is I ended up buying this drone because of how much I enjoyed flying drones and everything this is a basic drone that...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=786s)  > ...is I ended up buying this drone because of how much I enjoyed flying drones and everything this is a basic drone that you can get off of DGI that's mainly for cinematic use it doesn't very it doesn't...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=802s)  > ...fast it just goes 29 mph it's very cinematic basic it's amazing to start with for drones and that's the Drone I ended up using in to fly through the school because it was easier with radio...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=834s)  > ...took those with a phantom and then the one at the bottom right I took a my drone that was our baseball field no that was the one that was the little leag field okay I say it look I say it...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=899s)  > ...taken at the same spot um I took all of them besides the bottom left with my drone and the bottom [Music] is...
-
-- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=3372s)  > ...instead of using any phone could just all be on vention um and like facial recognition also comes with privacy leaks and like data so probably ensuring like a network...
-
-
-### 2025-01-22 -- Water Pollution Control Authority
-
-**East Granby Water Pollution Control Authority - 01-22-25** _(topics: surveillance_general)_
-
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZgV9slTeAU8&t=830s)  > ...investigations uh may include recommendations to complete uh closed circuit television inspections or CCTV inspections which help identify specific sources of infiltration to the system we...
-
-
-### 2025-01-27 -- Board of Education
-
-**East Granby Board of Education - 01-27-25** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Dx082KUyovk&t=4827s)  > ...a an exam that a teacher wants online or something to do with the Drone they don't take purchase orders because it's not a it's not a and just just recently...
-
-
-### 2025-04-09 -- Board of Finance
-
-**East Granby Board of Finance - 04-09-25** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=t1wL5XYNZZI&t=7046s)  > ...motion was made you know had it I not to receive and the estimated coming back from UAS and then the actual grant reward. Okay. And do we know when that 356k is coming? I will defer to on that....
-
-
-### 2026-04-22 -- Board of Selectmen
-
-**East Granby Board of Selectmen  - 04-22-26** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_Dy_vpHNwng&t=724s)  > ...and livestock conflicts involve backyard chickens. I have personally been impacted with my backyard flock being mauled by a bear. My family owned business cannot take the...
-
-
-### 2026-05-27 -- Board of Selectmen
-
-**East Granby Board of Selectmen - 05-27-26** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=2dYs-fg_dvg&t=924s)  > ...actually just came in They just came in this evening, as I was driving in, um and including a license plate reader, if we choose to go that route, um as well as multiple cameras down there, as...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=565s)  > ...along lines with this technology the description of my project I was inspired by the Drone course with Miss mun um to help the Community with My Capstone I took drone videos and...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=569s)  > ...I was inspired by the Drone course with Miss mun um to help the Community with My Capstone I took drone videos and pictures of the school and made a virtual tour out of the video um and...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=610s)  > ...modern as drones are I went through a lot of challenges I mean flying a drone is a challenge in itself cuz it's taking off it's danger it can be dangerous if you don't know...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=633s)  > ...big challenge too because of how many like how long it was how many Clips I got and then mopping a drone or a route for the Drone was difficult because I didn't want to overlap anywhere and have...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=637s)  > ...like how long it was how many Clips I got and then mopping a drone or a route for the Drone was difficult because I didn't want to overlap anywhere and have somebody see something...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=656s)  > ...use of technology to communicate research and problem solve I feel I did that with learning how to use the Drone properly and then then share personal responsibility I feel I did that through...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=678s)  > ...find a time to fight for the school so learning all the drones the first drone we have is the Phantom this is the biggest drone this is our class drone this was the first real drone I'd...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=681s)  > ...school so learning all the drones the first drone we have is the Phantom this is the biggest drone this is our class drone this was the first real drone I'd say I flew and DJI is a very cinematic...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=682s)  > ...first drone we have is the Phantom this is the biggest drone this is our class drone this was the first real drone I'd say I flew and DJI is a very cinematic like company when it comes to drones...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=685s)  > ...is the biggest drone this is our class drone this was the first real drone I'd say I flew and DJI is a very cinematic like company when it comes to drones mostly everybody uses them there's not...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=697s)  > ...mostly everybody uses them there's not really another company out there um any drone over 250 mg you have to register we did that with this drone and the next drone I'll show...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=701s)  > ...really another company out there um any drone over 250 mg you have to register we did that with this drone and the next drone I'll show you I use that for some of the outside...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=704s)  > ...drone over 250 mg you have to register we did that with this drone and the next drone I'll show you I use that for some of the outside clips that I've gotten at the high...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=711s)  > ...you I use that for some of the outside clips that I've gotten at the high school the next drone we have and this is what me sorry this is the abata so this is an fpv drum...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=747s)  > ...and everything and then on these new fpv drones that DJI does they came out with a new controller which is pretty cool so instead of holding it like the...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=780s)  > ...sense where the throttle right here you move up back down left and right and then the last drone we have is I ended up buying this drone because of how much I enjoyed flying drones and...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=780s)  > ...move up back down left and right and then the last drone we have is I ended up buying this drone because of how much I enjoyed flying drones and everything this is a basic drone that...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=786s)  > ...is I ended up buying this drone because of how much I enjoyed flying drones and everything this is a basic drone that you can get off of DGI that's mainly for cinematic use it doesn't very it doesn't...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=802s)  > ...fast it just goes 29 mph it's very cinematic basic it's amazing to start with for drones and that's the Drone I ended up using in to fly through the school because it was easier with radio...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=834s)  > ...took those with a phantom and then the one at the bottom right I took a my drone that was our baseball field no that was the one that was the little leag field okay I say it look I say it...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=899s)  > ...taken at the same spot um I took all of them besides the bottom left with my drone and the bottom [Music] is...
+    - `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=3372s)  > ...instead of using any phone could just all be on vention um and like facial recognition also comes with privacy leaks and like data so probably ensuring like a network...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -183,14 +120,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2026-05-27] Board of Selectmen** -- East Granby Board of Selectmen - 05-27-26
   > ...actually just came in They just came in this evening, as I was driving in, um and including a license plate reader, if we choose to go that route, um as well as multiple cameras down there, as...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=2dYs-fg_dvg&t=924s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-22] Board of Selectmen** -- East Granby Board of Selectmen  - 04-22-26
-  > ...and livestock conflicts involve backyard chickens. I have personally been impacted with my backyard flock being mauled by a bear. My family owned business cannot take the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_Dy_vpHNwng&t=724s)  _(term: alpr_flock, unreviewed)_
-
-- **[2015-02-27] Plan of Conservation and Development** -- East Granby Plan of Conservation Workshop #2
-  > ...opportunity all we have to do is do this and and people from all over the valley will flock here that wasn't the kind of uh situation you had and that means that most chain retailers ERS are going to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=HVOG42D1uBY&t=651s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -376,7 +305,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -486,11 +414,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -572,6 +495,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download East Granby's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/east-granby-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip east-granby-meeting-transcripts.zip -d east-granby
+cd east-granby
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

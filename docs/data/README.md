@@ -2,11 +2,11 @@
 
 ## `findings.csv`
 
-Every surveillance-technology mention this project has found in Connecticut
-municipal records, in one file. One row per mention.
+Every finding of mass surveillance technology this project has found in
+Connecticut municipal records, in one file. One row per mention.
 
 <!-- stats:start -->
-**5,956 rows · 99 towns · 17 topics · 5,731 from meeting transcripts, 225 from
+**5,817 rows · 99 towns · 17 topics · 5,592 from meeting transcripts, 225 from
 agenda and minutes documents.**
 <!-- stats:end -->
 

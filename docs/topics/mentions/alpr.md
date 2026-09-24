@@ -1,6 +1,6 @@
 # ALPR / Flock: every mention, every town
 
-_Generated 2026-09-10T18:07:08 — 2,047 mentions across 79 towns, 2013-07-24 to 2026-09-14._
+_Generated 2026-09-10T18:07:08 — 1,948 mentions across 71 towns, 2014-03-20 to 2026-09-14._
 
 
 Automated licence-plate readers — cameras that photograph every passing vehicle, read its plate, and log the time and place. Flock Safety is the dominant vendor in Connecticut.
@@ -24,83 +24,75 @@ _No human review has been applied to any mention in this file._
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Orange](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **181** | · | 8 | 98% | 2020-01-07 | 2026-08-13 |
-| [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **175** | · | 32 | 78% | 2022-03-02 | 2026-08-17 |
-| [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **169** | 4 | 13 | 95% | 2022-06-06 | 2026-09-14 |
-| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **142** | 13 | 29 | 95% | 2020-05-20 | 2026-09-09 |
-| [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **95** | · | 21 | 98% | 2022-05-26 | 2026-08-06 |
+| [Berlin](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **174** | · | 31 | 78% | 2022-03-02 | 2026-08-17 |
+| [Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **168** | 4 | 12 | 95% | 2024-04-22 | 2026-09-14 |
+| [East Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **141** | 13 | 28 | 95% | 2020-05-20 | 2026-09-09 |
+| [Norwalk](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **93** | · | 19 | 98% | 2022-05-26 | 2026-08-06 |
 | [South Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | **92** | · | 9 | 97% | 2021-09-21 | 2026-09-08 |
 | [New Canaan](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **72** | · | 30 | 84% | 2021-09-09 | 2026-07-07 |
-| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **64** | · | 24 | 82% | 2021-01-27 | 2026-06-18 |
+| [Darien](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **63** | · | 23 | 82% | 2021-01-27 | 2026-06-18 |
 | Middletown ⁽ⁿᵖ⁾ | **62** | · | 4 | 19% | 2023-02-27 | 2026-07-20 |
-| [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **62** | · | 18 | 93% | 2019-05-07 | 2026-08-04 |
-| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **60** | · | 21 | 98% | 2014-03-20 | 2026-09-01 |
+| [West Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **60** | · | 16 | 93% | 2019-05-07 | 2026-08-04 |
+| [Fairfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **59** | · | 20 | 98% | 2014-03-20 | 2026-09-01 |
 | [North Stonington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-stonington/surveillance-tech-transcript-and-agenda-report.md) | **59** | 8 | 23 | 43% | 2025-02-04 | 2026-03-30 |
 | [Southington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **52** | · | 11 | 97% | 2023-07-10 | 2026-05-11 |
 | [Bristol](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **40** | · | 7 | 76% | 2023-08-08 | 2026-09-08 |
-| [Farmington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | **39** | · | 11 | 67% | 2022-02-22 | 2026-03-12 |
-| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **38** | · | 21 | 79% | 2016-10-10 | 2026-02-02 |
-| [Cheshire](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | **36** | · | 6 | 46% | 2022-03-29 | 2026-08-04 |
+| [Farmington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | **37** | · | 9 | 67% | 2022-02-22 | 2026-03-12 |
+| [Guilford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **28** | · | 17 | 79% | 2016-10-10 | 2026-02-02 |
+| [Cheshire](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | **35** | · | 5 | 46% | 2022-03-29 | 2026-08-04 |
 | [East Hampton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | **33** | 1 | 6 | 55% | 2024-03-21 | 2026-03-24 |
-| [Mansfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **32** | 1 | 13 | 78% | 2022-04-12 | 2026-08-10 |
+| [Mansfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **9** | 1 | 6 | 78% | 2025-01-27 | 2026-08-10 |
 | [Newington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **32** | 2 | 11 | 73% | 2021-10-20 | 2026-06-23 |
 | [Seymour](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **32** | · | 26 | 83% | 2015-06-03 | 2026-02-09 |
-| [Simsbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | **29** | 1 | 20 | 69% | 2018-09-17 | 2026-08-10 |
-| [Bethel](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | **28** | · | 9 | 76% | 2022-04-20 | 2026-02-17 |
-| [Old Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | **25** | 3 | 14 | 71% | 2022-07-13 | 2026-09-08 |
+| [Simsbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | **23** | 1 | 14 | 69% | 2018-09-17 | 2026-08-10 |
+| [Bethel](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | **27** | · | 8 | 76% | 2023-02-21 | 2026-02-17 |
+| [Old Lyme](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | **22** | 3 | 12 | 71% | 2022-07-13 | 2026-09-08 |
 | [Clinton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/clinton/surveillance-tech-transcript-and-agenda-report.md) | **24** | 4 | 11 | 52% | 2025-09-03 | 2026-04-15 |
 | [Norwich](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | **23** | · | 2 | 54% | 2026-07-20 | 2026-08-17 |
-| [Columbia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | **21** | · | 8 | 60% | 2025-09-03 | 2026-08-04 |
+| [Columbia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | **19** | · | 7 | 60% | 2025-09-03 | 2026-08-04 |
 | [Rocky Hill](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | **20** | · | 9 | 47% | 2024-03-04 | 2026-08-18 |
 | [Waterford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | **18** | 1 | 6 | 42% | 2026-03-23 | 2026-08-19 |
-| [Killingly](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | **15** | · | 7 | 64% | 2025-03-04 | 2026-09-08 |
-| [Killingworth](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingworth/surveillance-tech-transcript-and-agenda-report.md) | **15** | · | 10 | 71% | 2025-01-09 | 2026-07-27 |
+| [Killingly](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | **14** | · | 6 | 64% | 2025-03-04 | 2026-09-08 |
+| [Killingworth](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingworth/surveillance-tech-transcript-and-agenda-report.md) | **12** | · | 9 | 71% | 2025-01-27 | 2026-07-27 |
 | [New Milford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **14** | · | 2 | 44% | 2024-11-25 | 2026-08-24 |
 | [Watertown](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | **14** | · | 8 | 78% | 2022-02-23 | 2026-08-17 |
-| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **13** | · | 5 | 82% | 2023-11-30 | 2025-12-08 |
+| [East Haddam](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **12** | · | 4 | 82% | 2024-05-23 | 2025-12-08 |
 | [Bridgeport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 3 | 90% | 2026-01-20 | 2026-04-25 |
 | [Brookfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 5 | 94% | 2023-03-06 | 2026-09-09 |
 | [East Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hartford/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 4 | 100% | 2025-04-23 | 2026-09-01 |
 | [Stonington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/stonington/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 5 | 70% | 2021-03-11 | 2026-08-26 |
-| [Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | **11** | 4 | 9 | 49% | 2024-12-17 | 2026-07-06 |
-| [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **10** | 1 | 8 | 71% | 2018-09-06 | 2026-02-17 |
+| [Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | **6** | 4 | 6 | 49% | 2025-04-08 | 2026-07-06 |
+| [North Branford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **5** | 1 | 5 | 71% | 2018-09-06 | 2026-02-17 |
 | [North Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **10** | · | 3 | 23% | 2023-07-25 | 2026-02-25 |
 | [Bethany](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | **9** | · | 3 | 70% | 2026-02-10 | 2026-08-19 |
-| [Lebanon](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/lebanon/surveillance-tech-transcript-and-agenda-report.md) | **9** | · | 2 | 83% | 2024-10-08 | 2026-08-11 |
-| [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **9** | · | 9 | 90% | 2017-11-27 | 2023-04-11 |
-| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 8 | 95% | 2023-03-21 | 2026-04-22 |
-| [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 6 | 86% | 2019-11-18 | 2026-08-17 |
-| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 4 | 82% | 2022-04-08 | 2026-09-08 |
+| [Lebanon](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/lebanon/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 1 | 83% | 2026-08-11 | 2026-08-11 |
+| [Wallingford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 8 | 90% | 2017-11-27 | 2023-04-11 |
+| [Hartford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 6 | 95% | 2023-03-21 | 2026-04-22 |
+| [Waterbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 6 | 86% | 2019-11-18 | 2026-08-17 |
+| [Groton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 3 | 82% | 2022-04-08 | 2026-09-08 |
 | Stamford ⁽ⁿᵖ⁾ | **7** | · | 5 | 11% | 2014-09-04 | 2025-10-08 |
 | Beacon Falls ⁽ⁿᵖ⁾ | **6** | 6 | 5 | — | 2026-01-12 | 2026-08-10 |
 | [Coventry](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/coventry/surveillance-tech-transcript-and-agenda-report.md) | **6** | 2 | 5 | 73% | 2023-05-08 | 2026-08-17 |
-| [Deep River](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/deep-river/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 2 | 51% | 2024-12-12 | 2025-01-14 |
+| [Deep River](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/deep-river/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 51% | 2024-12-12 | 2024-12-12 |
 | [Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/granby/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 2 | 98% | 2026-01-05 | 2026-08-03 |
-| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 6 | 91% | 2020-11-12 | 2026-04-21 |
+| [New Haven](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 5 | 91% | 2020-11-12 | 2026-04-21 |
 | [Danbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 16% | 2024-04-10 | 2025-10-15 |
 | [East Windsor](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 46% | 2024-05-16 | 2026-06-04 |
-| [Old Saybrook](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 5 | 99% | 2025-03-24 | 2026-08-27 |
-| [Wethersfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 62% | 2019-05-07 | 2023-11-20 |
+| [Old Saybrook](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 99% | 2025-03-24 | 2026-08-24 |
+| [Wethersfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 62% | 2019-05-07 | 2023-11-20 |
 | [Griswold](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/griswold/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 1 | 86% | 2025-11-26 | 2025-11-26 |
 | [Monroe](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 67% | 2020-04-23 | 2025-04-28 |
 | [New Britain](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **4** | 4 | 4 | 32% | 2019-12-11 | 2023-10-25 |
-| [East Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 97% | 2015-02-27 | 2026-05-27 |
-| [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 69% | 2024-06-20 | 2025-05-13 |
+| [East Granby](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2026-05-27 | 2026-05-27 |
+| [Westport](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/westport/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 69% | 2024-06-20 | 2025-05-13 |
 | [Ansonia](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 96% | 2022-06-23 | 2022-12-14 |
-| [Ellington](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ellington/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 36% | 2023-09-28 | 2024-06-12 |
-| [Ledyard](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 44% | 2013-07-24 | 2023-06-29 |
-| [Naugatuck](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 58% | 2025-12-18 | 2026-08-03 |
-| [Ashford](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 49% | 2024-12-09 | 2024-12-09 |
-| [Bolton](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bolton/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 37% | 2024-05-09 | 2024-05-09 |
 | Bozrah ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-07-02 | 2026-07-02 |
-| [Cornwall](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cornwall/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 22% | 2024-01-23 | 2024-01-23 |
 | [Cromwell](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 99% | 2026-08-12 | 2026-08-12 |
-| [Kent](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 74% | 2026-08-04 | 2026-08-04 |
 | Middlebury ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-06-08 | 2026-06-08 |
 | [Plainfield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 62% | 2024-09-10 | 2024-09-10 |
 | [Plainville](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/plainville/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 72% | 2026-03-10 | 2026-03-10 |
 | [Portland](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/portland/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 49% | 2026-02-18 | 2026-02-18 |
 | [Roxbury](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/roxbury/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 18% | 2023-05-16 | 2023-05-16 |
-| [Somers](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/somers/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 55% | 2023-10-19 | 2023-10-19 |
 | [Suffield](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/suffield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 90% | 2025-06-04 | 2025-06-04 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
@@ -165,7 +157,7 @@ _Most recent first within each town. Every line links to the exact second of the
 _169 further mentions in Orange not shown here — all of them are in [Orange's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/orange/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Berlin — 175 mentions
+### Berlin — 174 mentions
 
 - **[2026-08-17] Police Commission** — Police Commission 2026 08 17
   > …law, like just knowing the case law as it changes. I mean, it's changing every day with Flock, right? So, you know. >> You have to search every day.…
@@ -216,10 +208,10 @@ _169 further mentions in Orange not shown here — all of them are in [Orange's 
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5-3PPJtXMX0&t=3427s)  _(term: `alpr_flock`)_
 
 
-_163 further mentions in Berlin not shown here — all of them are in [Berlin's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md)._
+_162 further mentions in Berlin not shown here — all of them are in [Berlin's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/berlin/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Milford — 169 mentions
+### Milford — 168 mentions
 
 - **[2026-09-14] Board of Aldermen** — Board of Aldermen Agenda - 2026-09-14
   > …oke in favor of the community block grant funding and asked for the Board's approval. D. Rhea, [address redacted], spoke regarding golf carts on streets and low speed vehicles. She also spoke regarding Flock cameras. 1 B. Baxter, [address redacted], spoke regarding Board of Assessment Appeals and ADA coordinator. P. Patrikios, Dock Road, spoke regarding c…
@@ -270,10 +262,10 @@ _163 further mentions in Berlin not shown here — all of them are in [Berlin's 
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1502s)  _(term: `alpr_flock`)_
 
 
-_157 further mentions in Milford not shown here — all of them are in [Milford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md)._
+_156 further mentions in Milford not shown here — all of them are in [Milford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/milford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### East Lyme — 142 mentions
+### East Lyme — 141 mentions
 
 - **[2026-09-09] Board of Finance** — East Lyme, CT Board of Finance 09/09/2026
   > …right along. Um, as I think everybody knows and reading the newspaper, the ALPR, which is referred to as flock cameras, flock is like Xerox. It's, you know, ALPR is is is the camera type of…
@@ -324,10 +316,10 @@ _157 further mentions in Milford not shown here — all of them are in [Milford'
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=902s)  _(term: `alpr_flock`)_
 
 
-_130 further mentions in East Lyme not shown here — all of them are in [East Lyme's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md)._
+_129 further mentions in East Lyme not shown here — all of them are in [East Lyme's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Norwalk — 95 mentions
+### Norwalk — 93 mentions
 
 - **[2026-08-06] Economic and Community Development Committee** — Economic and Community Development Committee 08-06-2026
   > …sort of data protection, data privacy concerns, um I this is not the same thing as the discussion of like ALPR cameras, >> but I didn't know if you could speak to…
@@ -378,7 +370,7 @@ _130 further mentions in East Lyme not shown here — all of them are in [East L
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=568s)  _(term: `alpr_flock`)_
 
 
-_83 further mentions in Norwalk not shown here — all of them are in [Norwalk's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md)._
+_81 further mentions in Norwalk not shown here — all of them are in [Norwalk's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwalk/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### South Windsor — 92 mentions
@@ -489,7 +481,7 @@ _80 further mentions in South Windsor not shown here — all of them are in [Sou
 _60 further mentions in New Canaan not shown here — all of them are in [New Canaan's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Darien — 64 mentions
+### Darien — 63 mentions
 
 - **[2026-06-18] Police Commission** — Police Commission  6-18-26
   > …detectives identified both the vehicle and the driver and all occupants with the assistance of Flock LPRs. It was determined that this was an isolated incident and there is no…
@@ -540,7 +532,7 @@ _60 further mentions in New Canaan not shown here — all of them are in [New Ca
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_loMhveZJIY&t=3634s)  _(term: `alpr_flock`)_
 
 
-_52 further mentions in Darien not shown here — all of them are in [Darien's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md)._
+_51 further mentions in Darien not shown here — all of them are in [Darien's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/darien/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Middletown — 62 mentions
@@ -597,7 +589,7 @@ _52 further mentions in Darien not shown here — all of them are in [Darien's f
 _50 further mentions in Middletown not shown here — all of them are in Middletown's full report (not yet published)._
 
 
-### West Hartford — 62 mentions
+### West Hartford — 60 mentions
 
 - **[2026-08-04] Public Safety Committee** — Public Safety Committee Virtual Meeting - August 4, 2026
   > …Mr. led with for putting this on the agenda and\h moving it up uh before we talk about the next\h\h incredibly important uh topic. Um and I will go\h ahead and move on to our discussion regarding\h\h license plate readers also known uh commonly known\h as flock cameras. It is something that has been\h\h of great interest here in West Harford as well\h as across the country and um I would like to u…
@@ -648,10 +640,10 @@ _50 further mentions in Middletown not shown here — all of them are in Middlet
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2401s)  _(term: `alpr_flock`)_
 
 
-_50 further mentions in West Hartford not shown here — all of them are in [West Hartford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md)._
+_48 further mentions in West Hartford not shown here — all of them are in [West Hartford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Fairfield — 60 mentions
+### Fairfield — 59 mentions
 
 - **[2026-09-01] Board of Finance** — Board of Finance (Regular Meeting) - 9/1/2026
   > …question I want is I've heard the the police chief say a couple of times that these are not flock cameras. The these these these cameras, but when I read the exhibit…
@@ -702,7 +694,7 @@ _50 further mentions in West Hartford not shown here — all of them are in [Wes
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=nb7HaGWUpCY&t=3783s)  _(term: `alpr_flock`)_
 
 
-_48 further mentions in Fairfield not shown here — all of them are in [Fairfield's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md)._
+_47 further mentions in Fairfield not shown here — all of them are in [Fairfield's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/fairfield/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### North Stonington — 59 mentions
@@ -867,7 +859,7 @@ _40 further mentions in Southington not shown here — all of them are in [South
 _28 further mentions in Bristol not shown here — all of them are in [Bristol's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bristol/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Farmington — 39 mentions
+### Farmington — 37 mentions
 
 - **[2026-03-12] Town Council** — Town Council Meeting - March 12, 2026
   > …Monday on the House bill what 5449. So, so where is that in the budget as far as the flock? I mean is that under under patrol con contractual services? Is it under your…
@@ -918,10 +910,10 @@ _28 further mentions in Bristol not shown here — all of them are in [Bristol's
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dHgPY_PPJuI&t=6683s)  _(term: `alpr_flock`)_
 
 
-_27 further mentions in Farmington not shown here — all of them are in [Farmington's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/farmington/surveillance-tech-transcript-and-agenda-report.md)._
+_25 further mentions in Farmington not shown here — all of them are in [Farmington's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/farmington/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Guilford — 38 mentions
+### Guilford — 28 mentions
 
 - **[2026-02-02] Board of Selectmen** — Board of Selectmen Meeting 2/2/26
   > …department, I believe. Goodness. >> Was that the stationary license plate reader was moved to another year? >> No, she um, let me see if I can.…
@@ -952,14 +944,6 @@ _27 further mentions in Farmington not shown here — all of them are in [Farmin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5NP1whdsKxI&t=4202s)  _(term: `alpr_flock`)_
 
 - **[2025-02-18] Board of Selectmen** — Board of Selectmen February 18, 2025
-  > …seen um for for those who came in uh those on Zoom probably not uh there's a is it a flock of penguins or is it what is it I I don't know oh my the librarian I know I'll find out…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rFbO9iNQiG8&t=429s)  _(term: `alpr_flock`)_
-
-- **[2025-02-18] Board of Selectmen** — Board of Selectmen February 18, 2025
-  > …seen um for for those who came in uh those on Zoom probably not uh there's a is it a flock of penguins or is it what is it I I don't know oh my the librarian I know I'll find out…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cbasfG23x04&t=429s)  _(term: `alpr_flock`)_
-
-- **[2025-02-18] Board of Selectmen** — Board of Selectmen February 18, 2025
   > …of the Guilford foundation so any proceeds will go to that and that is the display of penguins flock or what um well if they're on the land if they're on the water they're a raft but if…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rFbO9iNQiG8&t=2988s)  _(term: `alpr_flock`)_
 
@@ -972,10 +956,10 @@ _27 further mentions in Farmington not shown here — all of them are in [Farmin
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=pyFd8xt2FWA&t=5176s)  _(term: `alpr_flock`)_
 
 
-_26 further mentions in Guilford not shown here — all of them are in [Guilford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md)._
+_18 further mentions in Guilford not shown here — all of them are in [Guilford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/guilford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Cheshire — 36 mentions
+### Cheshire — 35 mentions
 
 - **[2026-08-04] Town Council** — Town Council 8-4-26
   > …Connecticut. Others see these cameras as important public safety tools. Automated license plate readers have helped police identify stolen vehicles, investigate…
@@ -1026,7 +1010,7 @@ _26 further mentions in Guilford not shown here — all of them are in [Guilford
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3083s)  _(term: `alpr_flock`)_
 
 
-_24 further mentions in Cheshire not shown here — all of them are in [Cheshire's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cheshire/surveillance-tech-transcript-and-agenda-report.md)._
+_23 further mentions in Cheshire not shown here — all of them are in [Cheshire's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/cheshire/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### East Hampton — 33 mentions
@@ -1083,7 +1067,7 @@ _24 further mentions in Cheshire not shown here — all of them are in [Cheshire
 _21 further mentions in East Hampton not shown here — all of them are in [East Hampton's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Mansfield — 32 mentions
+### Mansfield — 9 mentions
 
 - **[2026-08-10] Town Council** — Town Council  8/10/2026
   > …ALPRs? Um this is in reaction primarily to police departments' use of the readers, the Flock camera systems, and other things like that, but um are you aware that the governor's asked…
@@ -1101,21 +1085,9 @@ _21 further mentions in East Hampton not shown here — all of them are in [East
   > …goal of improving compliance with state motor vehicle tax laws and increasing tax revenue. The Council inquired about the company's methods for verifying vehicle locations, including the use of license plate reader data, and the process for adding qualifying vehicles to the tax rolls. Council members raised concerns regarding privacy, data security, potential data-sharing practices, an…
   [Open document ▸](https://ct-mansfield.civicplus.com/AgendaCenter/ViewFile/Agenda/_08102026-17709)  _(agenda/minutes · term: `alpr_flock`)_
 
-- **[2025-11-25] Agriculture Committee** — Agriculture Committee  11/25/2025
-  > …gives me plenty of time to cajul Steve into uh letting me have a whole flock of chickens. Uh, a horse. >> Oh, yeah. I'll stick to food animals.…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=M9BgsVnQ5aQ&t=2359s)  _(term: `alpr_flock`)_
-
 - **[2025-11-06] Parks and Natural Resources Committee** — PNRC 11/06/2025
   > …Uh, but I I can look into adding coyotes. Uh, and not coyote flock. That's a different thing in town. Um, which was acknowledged by the way in USA…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=lgCNWqf0vF0&t=7397s)  _(term: `alpr_flock`)_
-
-- **[2025-07-17] Planning and Zoning Commission** — PZC Regulatory Review Committee Meeting 7/17/2025
-  > …rooster for breathing >> and the protection that they provide to the flock. I >> It was a valid point that you It was a valid point that you're not supposed to…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ojM79_oPago&t=3905s)  _(term: `alpr_flock`)_
-
-- **[2025-05-27] Agriculture Committee** — Agriculture Committee  05/27/2025
-  > …guinea pow. Um whereas everyone who had roosters said these are these are an integral part of my flock and I can't have chickens without a rooster. Do we have that captured up there? We do. It's…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fSFmQif-ETo&t=1948s)  _(term: `alpr_flock`)_
 
 - **[2025-05-01] Affordable Housing Committee** — Affordable Housing Committee 05/01/2025
   > …me just confirms that these working families are being used to be people would flock to Mansfield because of the schools if they have kids. Right. Right. But they can't flock because they can't…
@@ -1124,18 +1096,6 @@ _21 further mentions in East Hampton not shown here — all of them are in [East
 - **[2025-05-01] Affordable Housing Committee** — Affordable Housing Committee 05/01/2025
   > …would flock to Mansfield because of the schools if they have kids. Right. Right. But they can't flock because they can't afford houses. It's not just affordable rental. It's not just affordability. I…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Mky0kzUMuAc&t=2270s)  _(term: `alpr_flock`)_
-
-- **[2025-04-21] Planning and Zoning Commission** — PZC  04/21/2025
-  > …Tanner. I'm I've been a 30-year resident of Mansfield. I have a 2acre lot and I have a a flock of chickens and a rooster. And I just wanted to give you a sense of some of the other upsides of…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2808s)  _(term: `alpr_flock`)_
-
-- **[2025-04-21] Planning and Zoning Commission** — PZC  04/21/2025
-  > …rooster. And I just wanted to give you a sense of some of the other upsides of having a chicken flock. If I don't have a rooster, I can't I can't have a flock because of the predation with coyotes…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eV_W-x5qj-E&t=2816s)  _(term: `alpr_flock`)_
-
-
-_20 further mentions in Mansfield not shown here — all of them are in [Mansfield's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/mansfield/surveillance-tech-transcript-and-agenda-report.md)._
-
 
 ### Newington — 32 mentions
 
@@ -1245,7 +1205,7 @@ _20 further mentions in Newington not shown here — all of them are in [Newingt
 _20 further mentions in Seymour not shown here — all of them are in [Seymour's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/seymour/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Simsbury — 29 mentions
+### Simsbury — 23 mentions
 
 - **[2026-08-10] Board of Selectmen** — Board of Selectmen Meeting - August 10, 2026
   > …[clears throat] >> Brian Smith, 7 Wintergreen. Um, I'm here today to talk about the flock cameras in town. Uh, I don't know if any of you guys are aware of them or not. Um, but…
@@ -1271,10 +1231,6 @@ _20 further mentions in Seymour not shown here — all of them are in [Seymour's
   > …common with uh NCIC checks and collective furries things like that. So currently flock which is our vendor has provided a popup there every time somebody opens it up uh saying that they…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=qImsXlvBhLA&t=1133s)  _(term: `alpr_flock`)_
 
-- **[2025-01-27] Board of Selectmen** — Board of Selectmen Meeting - January 27, 2025
-  > …guidelines out to our Animal Control Officers and we'll probably do similar again um if you have a backyard flock and you identify sick or um dead a animals call the Department of ab and…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KRvhtkYvTbg&t=1308s)  _(term: `alpr_flock`)_
-
 - **[2025-01-07] Conservation Commission** — Conservation Commission Meeting - January 7, 2025
   > …utilities and whatnot they want us to bring in several flock logs which have already been ordered and flock logs are in…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=jLosgmOli1o&t=1426s)  _(term: `alpr_flock`)_
@@ -1296,10 +1252,10 @@ _20 further mentions in Seymour not shown here — all of them are in [Seymour's
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=808s)  _(term: `alpr_flock`)_
 
 
-_17 further mentions in Simsbury not shown here — all of them are in [Simsbury's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md)._
+_12 further mentions in Simsbury not shown here — all of them are in [Simsbury's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/simsbury/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Bethel — 28 mentions
+### Bethel — 27 mentions
 
 - **[2026-02-17] Board of Finance** — Board of Selectmen & Board of Finance Special Joint Meeting (Budget Presentations) - 02/17/2026
   > …in service calls related to crimes and how many related to non-rimes? and two on the flock safety license plate readers. Uh as we all know, Bo Finance approved um the first installment last…
@@ -1350,10 +1306,10 @@ _17 further mentions in Simsbury not shown here — all of them are in [Simsbury
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QjbbzEBhxXE&t=2173s)  _(term: `alpr_flock`)_
 
 
-_16 further mentions in Bethel not shown here — all of them are in [Bethel's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md)._
+_15 further mentions in Bethel not shown here — all of them are in [Bethel's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/bethel/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Old Lyme — 25 mentions
+### Old Lyme — 22 mentions
 
 - **[2026-09-08] Road and Public Safety Committee** — Road and Public Safety Committee Minutes - 2026-09-08
   > …issues involving safe access/exiting from commercial properties and concerns related to the Rt 1/Four Mile River Road intersection. B. Automated Traffic Enforcement Safety Devices (ATSED) and Flock Cameras • The Committee recognized Governor Lamont’s request that Connecticut municipalities pause implementation of enforcement speed cameras until uniform guidelines regarding…
@@ -1387,10 +1343,6 @@ _16 further mentions in Bethel not shown here — all of them are in [Bethel's f
   > …Flock and what data they're sharing. This is not owned and operated by Flock." But it's like, well, if the technology behind the two devices is the same, it doesn't really matter if they…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=sBwwyFQtHBI&t=2959s)  _(term: `alpr_flock`)_
 
-- **[2026-03-05] Parks and Recreation Commission** — Parks and Recreation Commission Meeting 3/5/26
-  > …you're going to notice the geese pair pairing up. And, you know, if you're seeing a flock of geese that's, you know, five, six, seven geese all together, those are young ones that…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vs9XVXVMw6c&t=1415s)  _(term: `alpr_flock`)_
-
 - **[2025-08-14] Road and Public Safety Committee** — Road and Public Safety Committee Meeting August 2025
   > …it's the data protections and safeties and particularly who the manufacturer is because if it's flock is manufacturing, >> I think what suggests Sophie is you jot down your questions.…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=KxQT5dr0gIk&t=4286s)  _(term: `alpr_flock`)_
@@ -1404,7 +1356,7 @@ _16 further mentions in Bethel not shown here — all of them are in [Bethel's f
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=8l9TRYPL-A8&t=1184s)  _(term: `alpr_flock`)_
 
 
-_13 further mentions in Old Lyme not shown here — all of them are in [Old Lyme's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md)._
+_11 further mentions in Old Lyme not shown here — all of them are in [Old Lyme's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Clinton — 24 mentions
@@ -1515,7 +1467,7 @@ _12 further mentions in Clinton not shown here — all of them are in [Clinton's
 _11 further mentions in Norwich not shown here — all of them are in [Norwich's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/norwich/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Columbia — 21 mentions
+### Columbia — 19 mentions
 
 - **[2026-08-04] Board of Selectmen** — Board of Selectmen Meeting August 4, 2026
   > …we took those from Clinton and they had a great, uh, cheat sheet on what's the difference between a flock ALPR camera and a ATSD program…
@@ -1566,7 +1518,7 @@ _11 further mentions in Norwich not shown here — all of them are in [Norwich's
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvrQhElbhho&t=2258s)  _(term: `alpr_flock`)_
 
 
-_9 further mentions in Columbia not shown here — all of them are in [Columbia's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/columbia/surveillance-tech-transcript-and-agenda-report.md)._
+_7 further mentions in Columbia not shown here — all of them are in [Columbia's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/columbia/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Rocky Hill — 20 mentions
@@ -1677,7 +1629,7 @@ _8 further mentions in Rocky Hill not shown here — all of them are in [Rocky H
 _6 further mentions in Waterford not shown here — all of them are in [Waterford's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/waterford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Killingly — 15 mentions
+### Killingly — 14 mentions
 
 - **[2026-09-08] Town Council** — Killingly Town Council Meeting - Sept 8, 2026
   > …Citizen statements and petitions. I'm not going to read the whole scenario. We're going to get to it. Um I have one comment, one public comment we received earlier from Diane Weber, uh…
@@ -1719,10 +1671,6 @@ _6 further mentions in Waterford not shown here — all of them are in [Waterfor
   > …Commons. >> Um they do have their own camera system. They have a flock system um that's run by um clothes. So they do have a camera system on their entrance and exit.…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=YdA0-LyN7Ps&t=10663s)  _(term: `alpr_flock`)_
 
-- **[2026-01-28] Vision Committee** — Vision Committee Meeting 01.28.26
-  > …maybe it should be. I don't know. But I'm just saying they have no events and yet people flock to live there and the prices are higher. >> Yeah. Now, they do attract a more middle…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pyOitwIN8FU&t=3907s)  _(term: `alpr_flock`)_
-
 - **[2025-04-14] Town Council** — Killingly Town Council   4/14/2025 Special Meeting
   > …interfaces, it could be tough. I think if they wanted to do something like that, a flock system probably would be more practical. Do you have any knowledge of a ballpark…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RcZpaYiSG1I&t=11921s)  _(term: `alpr_flock`)_
@@ -1731,7 +1679,7 @@ _6 further mentions in Waterford not shown here — all of them are in [Waterfor
 _3 further mentions in Killingly not shown here — all of them are in [Killingly's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingly/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Killingworth — 15 mentions
+### Killingworth — 12 mentions
 
 - **[2026-07-27] Board of Selectmen** — Board of Selectman 7-27-2026
   > …we approach utilizing any sort of technology. Um we just got burned on Flock. I want us to be a little bit more cautious in the future. Uh particularly around…
@@ -1782,7 +1730,7 @@ _3 further mentions in Killingly not shown here — all of them are in [Killingl
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=x8Hdfe_R3ro&t=969s)  _(term: `alpr_flock`)_
 
 
-_3 further mentions in Killingworth not shown here — all of them are in [Killingworth's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingworth/surveillance-tech-transcript-and-agenda-report.md)._
+_0 further mentions in Killingworth not shown here — all of them are in [Killingworth's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/killingworth/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### New Milford — 14 mentions
@@ -1893,7 +1841,7 @@ _2 further mentions in New Milford not shown here — all of them are in [New Mi
 _2 further mentions in Watertown not shown here — all of them are in [Watertown's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/watertown/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### East Haddam — 13 mentions
+### East Haddam — 12 mentions
 
 - **[2025-12-08] Board of Finance** — Board of Finance - 12.8.2025
   > …and um and also another item that the LPR system doesn't address the operator. That's why it's called a license plate reader. You're you cite an infraction against the vehicle, not the operator.…
@@ -1944,7 +1892,7 @@ _2 further mentions in Watertown not shown here — all of them are in [Watertow
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TynbCsT-Ni8&t=8239s)  _(term: `alpr_flock`)_
 
 
-_1 further mention in East Haddam not shown here — all of them are in [East Haddam's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md)._
+_0 further mentions in East Haddam not shown here — all of them are in [East Haddam's full report](https://github.com/unseenpower/ct-mass-surveillance/blob/main/docs/towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Bridgeport — 11 mentions
@@ -2135,19 +2083,11 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=V-Ml-iamfX8&t=4479s)  _(term: `alpr_flock`)_
 
 
-### Windsor — 11 mentions
+### Windsor — 6 mentions
 
 - **[2026-07-06] Town Council** — Town Council Minutes - 2026-07-06
   > …he July 10th event with constitutional scholar and author Michael Toth. 5) PUBLIC COMMUNICATIONS AND PETITIONS James Weingart, [address redacted] (virtual), spoke in opposition of reactivating the Flock ALPR cameras. Dan Piper, [address redacted] (virtual), spoke in opposition of reactivating the Flock ALPR cameras. Regular Town Council meeting July 6, 2026…
   [Open document ▸](https://www.windsorct.gov/AgendaCenter/ViewFile/Minutes/_07062026-1273)  _(agenda/minutes · term: `alpr_flock`)_
-
-- **[2026-05-20] Board of Education** — Board of Education Regular Meeting May 2026
-  > …implore you, if you want to get involved, um you can do something fun. For $20, you can flock a a neighbor or a friend, and they put all the you know, the flamingos they come in in the…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jq1YtW9JZwU&t=6782s)  _(term: `alpr_flock`)_
-
-- **[2026-05-19] Board of Education** — Windsor Board of Education Regular Meeting Tuesday, May 19, 2026 7:00 PM
-  > …project graduation. So, I implore you if you want to get involved. Um, you can do something fun for $20. You can flock a neighbor or a friend and they put all the, you know, the flamingos. They come…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_n1Ted5_PLA&t=5074s)  _(term: `alpr_flock`)_
 
 - **[2026-04-20] Town Council** — Town Council Minutes - 2026-04-20
   > …advancements in technology have contributed to this trend. Chief Melanson responded that technology has been increasingly utilized across the board. He noted that officers are using tools such as the ALPR system, along with additional systems available through the state via CGIS. He also highlighted the use of shared data, including crime bulletins distributed through CTIC, which provide officers…
@@ -2165,24 +2105,11 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   > …purchase one. That is, um, at a cost. It is a fundraiser for Project Graduation. Um, and you can still flock a friend. I I did. Um, did you enjoy that? Okay. Um, there's still a few days to flock a…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=XFmxth45xcg&t=6084s)  _(term: `alpr_flock`)_
 
-- **[2025-05-20] Board of Education** — Windsor Board of Education Regular Meeting: May 20 2025
-  > …Um, and you can still flock a friend. I I did. Um, did you enjoy that? Okay. Um, there's still a few days to flock a friend. Again, a a fundraiser for Project Graduation till May 31st. Um,…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XFmxth45xcg&t=6092s)  _(term: `alpr_flock`)_
-
 - **[2025-04-08] Board of Education** — Windsor Board of Education Regular Meeting: April 8, 2025
   > …report. I don't know if you have anything to add. Oh, I mean not much to add. Who do we reach out to to flock somebody? I want to do it. So, I'll make sure you're flocked first and then what…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZpRdX7aqx_s&t=5559s)  _(term: `alpr_flock`)_
 
-- **[2024-12-17] Board of Education** — Windsor Board of Education Regular Meeting  with Public Forum - December 17, 2024
-  > …get involved thank you thank you Mr walliston could you explain how one would flock someone for those who don't know it might be…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KGJlBNzzwqk&t=8135s)  _(term: `alpr_flock`)_
-
-- **[2024-12-17] Board of Education** — Windsor Board of Education Regular Meeting  with Public Forum - December 17, 2024
-  > …someone for those who don't know it might be suspicious um flamingos flock and on front yards throughout Town actually a lot of uh towns do this uh you wake up…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KGJlBNzzwqk&t=8141s)  _(term: `alpr_flock`)_
-
-
-### North Branford — 10 mentions
+### North Branford — 5 mentions
 
 - **[2026-02-17] Town Council** — WPCA & Town Council Meeting 2/17/26
   > …The camera system, one of the reasons I was waiting on the LPRs, which is license plate reader in the in the incar camera system, is um there's a lot of talk and there's still a lot of talk up…
@@ -2196,29 +2123,9 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   > …change as fast as the body cams do. But every 5 years we would get brand new products to our officers included in this price. The camera system, one of the reasons I was waiting on the LPRs, which is license plate reader in the in-car camera system, is there's a lot of talk up at the at the State of Connecticut about LPRs getting contracts signed. He met with representative Candelora, and commissi…
   [Open document ▸](https://www.townofnorthbranfordct.com/AgendaCenter/ViewFile/Minutes/_02172026-928)  _(agenda/minutes · term: `alpr_flock`)_
 
-- **[2024-10-17] Planning & Zoning Commission** — North Branford Planning & Zoning Commission  10/17/2024
-  > …somebody paying $68 for a rooster is going to eat it um the recommendation is to um turn over your rooster flock your your roosters in particular for genetic diversity every couple of years so that…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=b7ShD7MbiFM&t=7658s)  _(term: `alpr_flock`)_
-
-- **[2024-10-17] Planning & Zoning Commission** — North Branford Planning & Zoning Commission  10/17/2024
-  > …going to eat it um the recommendation is to um turn over your rooster flock your your roosters in particular for genetic diversity every couple of years so that…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ONKdD7mSiro&t=7702s)  _(term: `alpr_flock`)_
-
-- **[2024-10-17] Planning & Zoning Commission** — North Branford Planning & Zoning Commission  10/17/2024
-  > …your um roosters are needed they're needed for new chicks they're needed for protection of the flock they're needed for the killing of vermin okay chickens will kill mice they'll kill rats they'll…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=b7ShD7MbiFM&t=7707s)  _(term: `alpr_flock`)_
-
-- **[2024-10-17] Planning & Zoning Commission** — North Branford Planning & Zoning Commission  10/17/2024
-  > …needed they're needed for new chicks they're needed for protection of the flock they're needed for the killing of vermin okay chickens will kill mice they'll kill rats they'll eat them you…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ONKdD7mSiro&t=7750s)  _(term: `alpr_flock`)_
-
 - **[2023-09-19] Town Council** — Town Council 09/19/2023
   > …cars and what they really want to do is find one that will also the camera that would also have a license plate reader so that they're working on that um and then the generator was the other…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UuUh3roVrCE&t=2079s)  _(term: `alpr_flock`)_
-
-- **[2021-06-15] Town Council** — Town Council - 06/15/2021
-  > …brantford-building madison building and their population increased almost 10 everybody's going to want to flock to a new high school so now you're going to get an increase…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Wmwycusf37I&t=5251s)  _(term: `alpr_flock`)_
 
 - **[2018-09-06] Planning & Zoning Commission** — North Branford Planning & Zoning Meeting - 09/06/2018
   > …roll through you know you're building a project you're always a little bit in flock ship people in the contract but generally speaking it's on a rolling basis as opposed to hoping you're gonna…
@@ -2307,7 +2214,7 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=m0srEoBUhqE&t=3290s)  _(term: `alpr_flock`)_
 
 
-### Lebanon — 9 mentions
+### Lebanon — 8 mentions
 
 - **[2026-08-11] Board of Selectmen** — Board of Selectmen Regular Meeting 8-11-26
   > …>> Yes. So, the uh the governor put in place a 30-day data retention. When you read the flock cameras terms and conditions, their data retention is 30 days. So, he did put something in in…
@@ -2341,12 +2248,7 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   > …company comes in and says, "We want to set up license plate readers or surveillance or drones," because Flock also does drones, which is creepy in my opinion, personal opinion, that we would…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5RyqhgbWYPg&t=8142s)  _(term: `alpr_flock`)_
 
-- **[2024-10-08] Board of Selectmen** — Board of Selectmen Regular Meeting 10-8-2024
-  > …I've read about a guy down, I don't know, outside of Washington who had a flock of sheep that he put in his truck and he go somewhere perimeter fence up. What about Yeah, maybe the boax boag…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=h4hl4B4biu4&t=4086s)  _(term: `alpr_flock`)_
-
-
-### Wallingford — 9 mentions
+### Wallingford — 8 mentions
 
 - **[2023-04-11] Town Council** — Wallingford Town Council Meeting - Regular Meeting & Budget Workshop April 11, 2023
   > …Cheshire and a lot of other towns are going to these fixed license plate readers flock safety is a leading company that proposes or that constructs these fixed license plate readers…
@@ -2355,10 +2257,6 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
 - **[2020-06-23] Town Council** — Town Council - Regular Meeting - June 23, 2020
   > …but I think you're familiar that the state of Connecticut handles the server capacity for the license plate reader and then thereafter whatever their policies are there okay I thought thank…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=wxUhMI03rHI&t=4486s)  _(term: `alpr_flock`)_
-
-- **[2020-05-18] Board of Education** — Special Board of Education Meeting - May 18, 2020
-  > …not in a position to make any decision at this time the governor as we know as I mentioned about the haircut my flock of seagulls hairdo that's for all the eighties people out there the fact is…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-Otp8na9dC0&t=3996s)  _(term: `alpr_flock`)_
 
 - **[2019-10-24] Town Council** — Candidates Forum 2019 - Town Council - October 24, 2019
   > …we all want instant gratification we all want and we want to put it out there get people to flock to Wallen for it doesn't always work that way sometimes I guess what I reject is this this…
@@ -2385,7 +2283,7 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=aMHEbNmPULo&t=2598s)  _(term: `alpr_flock`)_
 
 
-### Hartford — 8 mentions
+### Hartford — 6 mentions
 
 - **[2026-04-22] Operation, Management, Budget & Government Accountability Committee** — City of Hartford Budget Hearing FY27 MHIS & Board of Education April 22nd, 2026
   > …solution across all city devices. Supported C4 with deployment of their new Flock security camera infrastructure. Configured HPS…
@@ -2395,17 +2293,9 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   > …if we have any suspected stolen plates, suspect vehicles, stuff like that. They're preloaded into the license plate reader, and if they hit on the reader, we get an alert. Uh and then on the flip…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=16mHI-gZG30&t=1298s)  _(term: `alpr_flock`)_
 
-- **[2024-04-29] Operation, Management, Budget & Government Accountability Committee** — City of Hartford Budget Hearing April 29th, 2024 Live Stream
-  > …leaving the city of Harford to go to neighboring towns and once once upon a time people flock to the city of Harford because of salaries and benefits and so how can we now offset some of that…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qsTmp-Sko1A&t=2505s)  _(term: `alpr_flock`)_
-
 - **[2024-04-16] Operation, Management, Budget & Government Accountability Committee** — City of Hartford FY 24-25 Budget Hearing April 16th, 2024 Live Stream
   > …the new cameras that are going in the police cars every incar camera has a has a license plate reader module in it so it can read the license plates in front the cars that are that the cars that…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghcBvp8Z57A&t=5855s)  _(term: `alpr_flock`)_
-
-- **[2024-01-08] Court of Common Council** — City of Hartford Council Meeting Swearing Ceremony January 08th, 2024
-  > …and Redeemer for your scripture says that a good shepherd would lay down his life for his flock we thank you and we call down the blessings on on this August body to lead our city in your…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=l_dXj0FMY1Y&t=1012s)  _(term: `alpr_flock`)_
 
 - **[2023-09-21] Quality of Life and Public Safety Committee** — City of Hartford Quality of Life Public Safety Committee Meeting 9/21/23
   > …the key takeaway there is how the technology is applied so take for example uh License Plate Reader technology um we went beyond oh here's a camera and we're going to sell you as a…
@@ -2420,11 +2310,7 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ebvbCP5WQTo&t=3406s)  _(term: `alpr_flock`)_
 
 
-### Waterbury — 8 mentions
-
-- **[2026-08-17] Board of Aldermen** — Waterbury Board of Aldermen Meeting - August 17, 2026
-  > …about geese and people. First, geese fly in a V formation. the whole flock by doing this adds 71% greater flying range than each bird would do so alone. What I take from that…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=x4CgakCPh0g&t=841s)  _(term: `alpr_flock`)_
+### Waterbury — 7 mentions
 
 - **[2026-08-17] Board of Aldermen** — Waterbury Board of Aldermen Meeting - August 17, 2026
   > …insured, and you're supposed to have a license to operate it. From that, I'll talk about the flock cameras for a second. People don't like them, but they're saying you don't want…
@@ -2455,7 +2341,7 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=b9UbKRAwDzA&t=412s)  _(term: `alpr_flock`)_
 
 
-### Groton — 7 mentions
+### Groton — 6 mentions
 
 - **[2026-09-08] Town Council** — Groton Town Council Committee of the Whole and Special Town Council- 9/8/26
   > …>> Thank you. Okay, so I received communications regarding the flock cameras and the school lunch program. I did reach out to the superintendent and chairperson…
@@ -2464,10 +2350,6 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
 - **[2025-12-09] Planning and Zoning Commission** — Groton Planning and Zoning Commission - 12/9/25
   > …little bit dark now. Um, I have a uh a camera that measures vehicles that come in and go out. You know, it's my license plate reader just for security. So, I I get a a good indication of when people…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QoZ077VckTQ&t=2280s)  _(term: `alpr_flock`)_
-
-- **[2022-07-14] Planning and Zoning Commission** — Groton Planning and Zoning Commission - 7/14/22
-  > …pick to be a short-term rental district because it's everybody's gonna that's where they're gonna flock to and then every single house in that place will be a short term…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-PEisoWv4yw&t=716s)  _(term: `alpr_flock`)_
 
 - **[2022-04-08] Town Council** — Groton Town Council FYE 2024 Budget Review Session #2 - 4/8/22
   > …maintenance and we've also got a proposal in here for seven cameras through flock which are stationary cameras that will help identify Vehicles involved in crimes inside the town of…
@@ -2571,27 +2453,11 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   [Watch on Viebit ▸](https://coventryct.viebit.com/watch?hash=Etw1vMhTP2X8ZlV4)  [jump to 46:42 ▸](https://vbfast-vod.viebit.com/coventry/Etw1vMhTP2X8ZlV4/GMT20230508-224702_Recording_640x360.mp4#t=2802)  _(term: `alpr_flock`)_
 
 
-### Deep River — 6 mentions
-
-- **[2025-01-14] Board of Selectmen** — Deep River Town Meetings - January 14 2025
-  > …first so then we would refer you to some of these resources but they do um ask that if you have a domestic flock of birds you know chickens or something they encourage you to get registered…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7KT5N0EGaJE&t=1558s)  _(term: `alpr_flock`)_
-
-- **[2024-12-12] Planning & Zoning Commission** — Deep River Planning & Zoning meeting December 12, 2024
-  > …up because the reason I first approached um Planning and Zoning is to request the variant to allow me to increase my flock of hens um and currently as you're I'm sure you're all aware there's a limit on…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=22d3rhwA-R0&t=1857s)  _(term: `alpr_flock`)_
-
-- **[2024-12-12] Planning & Zoning Commission** — Deep River Planning & Zoning meeting December 12, 2024
-  > …make this a viable business I would really need to be able to increase A Flock I just submitted a a grant to be able to redo the fenced area um to the the current structure we have our hens…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=22d3rhwA-R0&t=1917s)  _(term: `alpr_flock`)_
+### Deep River — 2 mentions
 
 - **[2024-12-12] Planning & Zoning Commission** — Deep River Planning & Zoning meeting December 12, 2024
   > …everything so that's what the Grant I submitted for is however obviously I can't increase my flock without having some sort of variance but when I approached Planning and Zoning Tony said…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=22d3rhwA-R0&t=1951s)  _(term: `alpr_flock`)_
-
-- **[2024-12-12] Planning & Zoning Commission** — Deep River Planning & Zoning meeting December 12, 2024
-  > …our these are our pets and yeah it's putting me in in a tough position of do I basically Co my flock and start over with new hens just so that I can stay under that minimum of 25 Birds…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=22d3rhwA-R0&t=2684s)  _(term: `alpr_flock`)_
 
 - **[2024-12-12] Planning & Zoning Commission** — Deep River Planning & Zoning meeting December 12, 2024
   > …wouldn't be spot zoning because you do the whole yeah yeah yeah my concern would be that I would increase my flock and then something happens and someone says okay you need to get rid of X…
@@ -2625,15 +2491,11 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=D3BO3GDfFsU&t=2885s)  _(term: `alpr_flock`)_
 
 
-### New Haven — 6 mentions
+### New Haven — 5 mentions
 
 - **[2026-04-21] Public Safety Committee** — BoA Public Safety Committee 4/21/2026
   > …Uh, first is to install additional automated license plate readers throughout the city. We've had great success with this…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=i24uqVieIqU&t=442s)  _(term: `alpr_flock`)_
-
-- **[2024-03-07] City Services and Environmental Policy Committee** — CSEP 3/7/2024
-  > …Wheeler Street transfer station which I drove Kiana white by last week and there was a flock of gulls there now this is supposed to be recycling which is not supposed to be wet waste so the fact…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pFskUnjeKn4&t=3599s)  _(term: `alpr_flock`)_
 
 - **[2022-07-27] Tax Abatement Committee** — BoA Tax Abatement Committee
   > …state um we have been flock funded when i came to connecticut uh eight years ago we were getting…
@@ -2698,11 +2560,7 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ku-2oyXAKE0&t=6972s)  _(term: `alpr_flock`)_
 
 
-### Old Saybrook — 5 mentions
-
-- **[2026-08-27] Preserve Ad Hoc Subcommittee** — Old Saybrook Preserve Ad Hoc Subcommittee August 27, 2026
-  > …I I I haven't asked him that question. I know uh we had uh a whole mess of them, flock of them up at Founders Park last week. >> Yeah.…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=R1Xjx1OMvkM&t=831s)  _(term: `alpr_flock`)_
+### Old Saybrook — 4 mentions
 
 - **[2026-08-24] Police Commission** — Old Saybrook Police Commission August 24, 2026
   > …cameras will be active and they'll be able to all six patrol cars will be activate as an license plate reader through the front camera on the car which is also our our body camera or our…
@@ -2721,15 +2579,11 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LswHObso3xk&t=1338s)  _(term: `alpr_flock`)_
 
 
-### Wethersfield — 5 mentions
+### Wethersfield — 4 mentions
 
 - **[2023-11-20] Town Council** — Town Council - November 20, 2023
   > …any questions or concerns um and so what the uh detectives have been doing has been collecting uh video and uh License Plate Reader uh data this morning we had a good conversation with the property uh…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vABmBOfJpwI&t=3399s)  _(term: `alpr_flock`)_
-
-- **[2023-03-21] Planning and Zoning Commission** — March 21 2023 - PLANNING AND ZONING COMMISSION
-  > …um and a lot of the big players have already kind of decided on where their locations are you know they flock to like the major like the ones that opened up that were our Major League commercial…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ow8bRF2TZmQ&t=1015s)  _(term: `alpr_flock`)_
 
 - **[2021-04-08] Redevelopment Agency** — Economic Development & Improvement Commission Redevelopment Agency - April 8 2021
   > …sort of traffic study underway now when i'm biking you'll see a car with a license plate reader parked on the border like you'll see it on the corner of hang dog and route three and you see…
@@ -2801,26 +2655,13 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=312&doc_id=d676d81a-3e00-11ea-9ca4-0050569183fa)  _(agenda/minutes · term: `alpr_flock`)_
 
 
-### East Granby — 3 mentions
+### East Granby — 1 mention
 
 - **[2026-05-27] Board of Selectmen** — East Granby Board of Selectmen - 05-27-26
   > …actually just came in They just came in this evening, as I was driving in, um and including a license plate reader, if we choose to go that route, um as well as multiple cameras down there, as…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=2dYs-fg_dvg&t=924s)  _(term: `alpr_flock`)_
 
-- **[2026-04-22] Board of Selectmen** — East Granby Board of Selectmen  - 04-22-26
-  > …and livestock conflicts involve backyard chickens. I have personally been impacted with my backyard flock being mauled by a bear. My family owned business cannot take the…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_Dy_vpHNwng&t=724s)  _(term: `alpr_flock`)_
-
-- **[2015-02-27] Plan of Conservation and Development** — East Granby Plan of Conservation Workshop #2
-  > …opportunity all we have to do is do this and and people from all over the valley will flock here that wasn't the kind of uh situation you had and that means that most chain retailers ERS are going to…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=HVOG42D1uBY&t=651s)  _(term: `alpr_flock`)_
-
-
-### Westport — 3 mentions
-
-- **[2025-05-13] Shellfish Advisory Board** — Shellfish Advisory Committee - May 13, 2025
-  > …birds, whether it's seagulls that fly from the farm and go down. There's a there's a a flock of seagulls. When you go all the way up to well, there's Tom's Point, but if you…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QPIScWAE9_s&t=724s)  _(term: `alpr_flock`)_
+### Westport — 2 mentions
 
 - **[2025-05-13] Shellfish Advisory Board** — Shellfish Advisory Committee - May 13, 2025
   > …a week. Sometimes when there's more than one area open, though, it spreads the flock out. They tend to last longer. I guess they go with the easy digging is. Yeah. What's that?…
@@ -2842,53 +2683,6 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=BXyNry8NL_U&t=1627s)  _(term: `alpr_vendor`)_
 
 
-### Ellington — 2 mentions
-
-- **[2024-06-12] Board of Education** — BoE Meeting @ EHS 6/12/24
-  > …pathway at a her main experience was caring for her small poultry flock at home and working at the Stafford Veterinary Clinic um some of her highlights include…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TDIiRvxQfDY&t=1786s)  _(term: `alpr_flock`)_
-
-- **[2023-09-28] Board of Education** — BoE Meeting 9/27 @ EHS
-  > …into dishonesty and deception we are going to lose a whole lot of good teachers they're going to flock to districts who don't misrepresent them I really need this to not happen to our…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eU-ipYQ_VXA&t=1103s)  _(term: `alpr_flock`)_
-
-
-### Ledyard — 2 mentions
-
-- **[2023-06-29] Cemetery Committee** — Cemetery Committee - Regular Meeting - 14 Jun 2022
-  > …we had to go to bc oh yeah so who did mr flock to bring the boy scouts who brought the boys mr parker oh god well i…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=s-38G54_RPc&t=1088s)  _(term: `alpr_flock`)_
-
-- **[2013-07-24] Town Council** — Regular Meeting of Ledyard Town Council Held on 7 24 2013 7 00 00 PM At Council Chambers   Annex Bui
-  > …example any further discussion well and you raise a good point because spirit of this for the first flock of people their first year so in fact we knew that for the second year maybe…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wk6XBZVryLw&t=4234s)  _(term: `alpr_flock`)_
-
-
-### Naugatuck — 2 mentions
-
-- **[2026-08-03] Planning Commission** — Planning Commission Meeting 8-3-26
-  > …phenomenal. It was coffins. It was making all sorts of noises, tweets, and mechanical sounds. It was a flock of redwing blackbirds and they were in vibration. Now, if you've seen this…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AH4cVHcYvzY&t=3327s)  _(term: `alpr_flock`)_
-
-- **[2025-12-18] Zoning Commission** — Borough of Naugatuck Zoning Meeting 12-18-25
-  > …the time. It's a really nice sweating. Right now in Nagata, most of the people flock over to the golf course. It's a little tiny bunny thing. Only little tiny kids want to play there. This is…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NRgI9BBdiDM&t=4891s)  _(term: `alpr_flock`)_
-
-
-### Ashford — 1 mention
-
-- **[2024-12-09] Planning & Zoning Commission** — Planning & Zoning Commission, December 9, 2024
-  > …don't think it's as important that we judge as to whether people are going to flock to this as something that they see as fun as it is that we understand that this is something that will help support…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rnp-ssOztow&t=7773s)  _(term: `alpr_flock`)_
-
-
-### Bolton — 1 mention
-
-- **[2024-05-09] Board of Education** — Bolton Board of Education: May 9, 2024
-  > …sustainable food source or a stud income for example goats sheep heos pigs a flock of chicks ducks and honeybees are all offered for various uses a family can use the wall as she provides for…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3ycHEP8Komo&t=610s)  _(term: `alpr_flock`)_
-
-
 ### Bozrah — 1 mention
 
 - **[2026-07-02] (unassigned body)** — Inland Wetlands & Conservation Commission Minutes - 2026-07-02
@@ -2896,25 +2690,11 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
   [Open document ▸](https://www.townofbozrah.org/AgendaCenter/ViewFile/Minutes/_07022026-682)  _(agenda/minutes · term: `alpr_flock`)_
 
 
-### Cornwall — 1 mention
-
-- **[2024-01-23] Economic Development Commission** — Cornwall Regular EDC Meeting 1 23 24
-  > …Octobers when the weather was like that and still they you know people would flock to the town you know I've been with this almost 30 years and it was just phenomenally…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cY0RkspjWMI&t=2883s)  _(term: `alpr_flock`)_
-
-
 ### Cromwell — 1 mention
 
 - **[2026-08-12] Town Council** — Town of Cromwell Town Council Regular Meeting 08-12-2026
   > …about all the cameras that are being installed in town. >> The flock cameras. >> Yeah. You know, people are in an uproar. >> We don't have any in town.…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1-E3VFG4210&t=6255s)  _(term: `alpr_flock`)_
-
-
-### Kent — 1 mention
-
-- **[2026-08-04] Park and Recreation** — PARKS & REC AUG. 4, 2026
-  > …>> parent picking up their kids and going right to the field. So those kids tend to flock right over to the field. >> So >> that's um that tends to work out well.…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7mYodE4ZxYA&t=3710s)  _(term: `alpr_flock`)_
 
 
 ### Middlebury — 1 mention
@@ -2950,13 +2730,6 @@ _1 further mention in East Haddam not shown here — all of them are in [East Ha
 - **[2023-05-16] Board of Finance** — Board of Finance - May 16, 2023 - Regular Meeting
   > …being the same exact cars oh my gosh can we do any enforcements uh we have a license plate reader on our police car Linda and Kim and Kim have…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=2X-fKzwRCIA&t=1856s)  _(term: `alpr_flock`)_
-
-
-### Somers — 1 mention
-
-- **[2023-10-19] Board of Selectmen** — Board of Selectmen Meeting 10/19/2023
-  > …they really are hung up on is that it doesn't mean poverty level people are going to flock to Summers that and that's their fear I understand that that was uh yeah we were accused 30 years ago…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gY3I-hfU0Ak&t=3269s)  _(term: `alpr_flock`)_
 
 
 ### Suffield — 1 mention

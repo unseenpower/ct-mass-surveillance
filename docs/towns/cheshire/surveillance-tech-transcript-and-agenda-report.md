@@ -3,24 +3,28 @@
 
 ## At a glance: Cheshire
 
+<p class="glance-headline"><strong>65 mentions</strong> of surveillance technology in <strong>20</strong> Cheshire meetings, 2022–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">65</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 20 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2022–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2022-03-29 → 2026-08-04</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Cell-site simulators, Drones</span></a>
+<a class="glance-card" href="../../../analysis/towns/cheshire-alpr-searches.html"><span class="gc-big">16,600</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Cheshire police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">46%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">200 of 439 meetings</span></a>
+</div>
+
+**Still incomplete:** 239 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+
 This report collects every mention of surveillance technology found in **Cheshire**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **66 mentions** across **21 meetings**
-- **First mention:** 2022-03-29  |  **Most recent:** 2026-08-04
-- **Technologies discussed:** alpr, body_camera, cell_site_sim, drone
-- **Coverage:** 200 of 439 known Cheshire meetings transcribed (46%)
-- **Still incomplete:** 239 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
+- [Licence-plate searches by Cheshire police](#licence-plate-searches-by-cheshire-police)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,293 +35,216 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
-## Get the full transcripts
+## Licence-plate searches by Cheshire police
 
-**[Download Cheshire's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/cheshire-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+Six Connecticut towns have released the Flock audit log of every search run against their cameras. Below is what that record holds for Cheshire's own police department -- not a finding, just the log.
 
 
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+**Cheshire CT PD**
+
+- **16,600 searches** between 2023-06 and 2026-07 (38 months with at least one search)
+- **566 camera networks** swept by the average single search
+- **100%** of them reached beyond Cheshire's own cameras
+- The commonest stated reason is free text or a numeric code, rather than one of the preset categories Flock introduced in December 2025
+
+**[Open Cheshire CT PD's search dashboard](../../analysis/towns/cheshire-alpr-searches.html)** -- every one of those searches, filterable by month, stated reason, search type and how far it reached, with a **[How to read this](../../analysis/towns/cheshire-alpr-searches.html#how)** tab covering what each field means and what the record cannot tell you.
 
 
-**How to use it**
-
-```bash
-unzip cheshire-meeting-transcripts.zip -d cheshire
-cd cheshire
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+> **A floor, not a total.** The record only sees queries that reached those six towns' cameras. A single Flock query typically sweeps thousands of networks at once, so most of a Connecticut department's searching does land in it -- but the real count is higher. Nothing in it names an officer, shows a plate, or records what any search returned.
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+**Back to the meetings.** Everything above this point was about licence-plate *searches* -- what the town's police looked up. Everything below is about what was *said*: each mention is a moment in a recorded public meeting where a surveillance technology came up, with a link to that moment in the video.
+
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 36 | 6 | 2022-03-29 | 2026-08-04 |
-| body_camera | 2 | 1 | 2022-03-29 | 2022-03-29 |
-| cell_site_sim | 1 | 1 | 2025-04-10 | 2025-04-10 |
-| drone | 27 | 15 | 2022-03-29 | 2026-04-14 |
+| [ALPR / Flock](#alpr) | 35 | 5 | 2022-03-29 | 2026-08-04 |
+| [Body cameras](#body_camera) | 2 | 1 | 2022-03-29 | 2022-03-29 |
+| [Cell-site simulators](#cell_site_sim) | 1 | 1 | 2025-04-10 | 2025-04-10 |
+| [Drones](#drone) | 27 | 15 | 2022-03-29 | 2026-04-14 |
 
 
 ## Timeline
 
-21 meetings surfaced a finding (21 dated, spanning 2022-03-29 to 2026-08-04; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+20 meetings surfaced a finding (20 dated, spanning 2022-03-29 to 2026-08-04; 0 of unknown date, listed last). Newest first.
 
-### 2022-03-29 -- Town Council
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-08-04.*
 
-**Town Council Budget Workshop 3/29/22** _(topics: alpr, body_camera, drone)_
+??? note "Earlier meetings (20)"
 
-- `alpr_vendor` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=4326s)  > ...obviously everybody gets a brand new axon body camera and we install the axon fleet camera in in all the the cruisers at the two and a half year mark of the...
+    **2026-08-04 -- Town Council**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=4460s)  > ...the technology to make every cruiser camera uh a license plate reader also so sean can you um can you share the screen...
+    **Town Council 8-4-26** _(topics: alpr)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=4578s)  > ...zoom you can just look for it while brian's opening that up just we have we currently have one license plate reader um system in the uh in the department it's mounted obviously on one...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=1883s)  > ...Connecticut. Others see these cameras as important public safety tools. Automated license plate readers have helped police identify stolen vehicles, investigate...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=1942s)  > ...and whether to impose fines within the limits established by state law. But flock cameras are different. They are automated license plate readers used as investigative tools. They record plate...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=1944s)  > ...limits established by state law. But flock cameras are different. They are automated license plate readers used as investigative tools. They record plate and vehicle information so that police...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=1990s)  > ...the legislature pack passed public act 2614 to establish statewide protections governing automated license plate reader data. This is different than national. Connecticut has put together um a series...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=2093s)  > ...final step. I do have handouts if anyone is interested to see the difference between flock cameras, traffic enforcement cameras, and highlights what we have passed. I promise you my speech...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=2277s)  > ...numerous car breakins and vehicle thefts. Um [clears throat] so when when flock started to be questioned uh a year or so later, this council took...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=2292s)  > ...it upon themselves to bring in Chief Jordaner and have a discussion regarding the flock cameras and received answers to all of our questions to uh at least give us the ability to sufficiently be...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=2510s)  > ...infrastructure to name a few. Across the country, law enforcement agencies are ditching flock over the exact concerns. Even within our own state, Windsor, Killingworth, and I believe Old Sabbrook...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=2648s)  > ...public discourse. This includes broader public education on the differences between the flock system and basic license plate reading cameras, closed circuit television, and similar....
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=2660s)  > ...Most importantly, the transparency portal appears to be hosted and provided by Flock, not an independent party with oversight. The data appears to be merely theater and not overly instructive or...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=2735s)  > ...the most American of all virtues. As such, I support the indefinite and immediate suspension of the flock safety program in Cheshure and related future surveillance technology until further...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3083s)  > ...those. Um I'll just uh add sort of two more things I think which is one as much as regulation in this state of flock data is worthwhile and very much welcomed I think um regulating...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3261s)  > ...counties and towns across the country that are cancelling their partnerships with Flock. We should do the same. You see the public outcry. It's all across the nation and it's getting worse and...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3410s)  > ...also, hello members of the public. I'm here to echo as well the outcry and vehement opposition to the flock cameras. Uh written down, I had the same facts that other people have cited where...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3476s)  > ...to take one, you don't get the other. But what I'd also like to present is documentation from flock themselves to members of city councils on how to speak about public safety technology. This is...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3488s)  > ...about public safety technology. This is you. So you you can find this this is made by flock and this is how town councils can talk to the public about flock. I'd like to cite specifically in...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3494s)  > ...made by flock and this is how town councils can talk to the public about flock. I'd like to cite specifically in chapter 2 which is titled moving the conversation from surveillance to...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3518s)  > ...constitutes mass surveillance. Many leaders instinctively respond by attempting to refute these claims. Flock recommends a different approach. The strongest console presentations spend...
 
-- `alpr_vendor` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=4632s)  > ...um if we can go to the show them the uh axon fleet brian just uh so that is the forward-facing uh cruiser camera from axon...
+    **2026-05-27 -- Town Council**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=4675s)  > ...single one of our marked cruisers into uh you know into a license plate reader car is attractive um you know certainly to me as the as the police chief um...
+    **Town Council 5-27-26** _(topics: alpr)_
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=5623s)  > ...good thing or the the thing axon does the best is they have a centralized location for all of your body cam and video footage so anything that comes in from a body camera from a car camera...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IBfe_7m6irs&t=4997s)  > ...could if you when I'm done with my little spiel, you could speak to that too. How are they different from Flock? >> they can't share data that way and stuff....
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IBfe_7m6irs&t=5101s)  > ...So, we can put those navigations in place. To the chief's point about um ALPR cameras, there's been a national discussion growing, frankly, uh with quite a lot of anger over the last 6...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IBfe_7m6irs&t=5150s)  > ...anything else, but we're only taking photographs of the violators. It's absolutely not Flock if if that's the the comments I think we're we're hearing now. And there's a big movement about...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IBfe_7m6irs&t=5229s)  > ...>> I I I haven't seen on any large scale across the country in the last 21 years. Flock for sure, I'm seeing county after county and city after city taking out their ALPR cameras regardless of the...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IBfe_7m6irs&t=5233s)  > ...Flock for sure, I'm seeing county after county and city after city taking out their ALPR cameras regardless of the vendor they may be using for obvious reasons we've seen reported uh across...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=5631s)  > ...video footage so anything that comes in from a body camera from a car camera from a drone from anything that's part of their program goes in one place that you can easily retrieve the data from...
+    **2026-04-14 -- Town Council**
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=5737s)  > ...makes sense to have all of the um functions um compatible the the car camera and the body cam and i like the idea that there is a license plate um reader in every corner i think that's...
+    **Town Council Budget 4-14-26** _(topics: drone)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=7186s)  > ...how what has it actually done have we actually gotten any benefit from having a license plate reader um has it actually caught someone have we actually done...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4fQuoxhjAII&t=2850s)  > ...to start. It's not as glamorous as the public works where they're doing drone flyovers of someone. [laughter] >> You don't have drone flyovers of...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4fQuoxhjAII&t=2854s)  > ...works where they're doing drone flyovers of someone. [laughter] >> You don't have drone flyovers of finance. Come on, Gina. Gina must have those steps in it. I don't have a drone...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4fQuoxhjAII&t=2859s)  > ...>> You don't have drone flyovers of finance. Come on, Gina. Gina must have those steps in it. I don't have a drone in the office. Let me go around. [clears throat]...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=7220s)  > ...the license plate readers the the vast majority of the of the the plates that that the license plate reader alerts to have been for what i would call relatively routine motor...
+    **2026-03-31 -- Town Council**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=7275s)  > ...um yeah look the vast majority of the of the the alerts to the license plate reader system are for relatively routine motor vehicle uh violations again bearing in...
+    **Town Council Budget 3-31-26** _(topics: drone)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=7404s)  > ...who's who's done that or any complaints that have been made about an actual incident where license plate reader data has been abused thank you...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=e_H7_RENzzk&t=5480s)  > ...radio responsibilities, event planning, uh regional crash drone maintenance, radio maintenance. Um, and this would free uh them up to do more traffic related stuff, but also...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=e_H7_RENzzk&t=7828s)  > ...of the things we bought in the past, uh, ebikes, uh, for the police department, drone batteries for the police department, and, uh, one of the biggest topics tonight was recruitment and...
 
+    **2025-10-23 -- Next Generation School Building Committee**
 
-### 2023-03-29 -- Town Council
+    **Next Generation School Building Committee 10-23-25** _(topics: drone)_
 
-**Town Council 3/28** _(topics: alpr)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XuF6QY_tzwk&t=2609s)  > ...these slides as well as some additional um photos and and drone footage that Aeron's going to show tonight. But I just wanted to talk a little bit about a...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XuF6QY_tzwk&t=2941s)  > ...easy. >> Yeah, I think so, too. So, this is a 6 foot um drone footage of that area from the opposite angle. And you can see it's pretty expansive. It's sloping downhill....
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5wsHLWR_-SQ&t=3154s)  > ...um you know the one of the primary ones is the uh the block License Plate Reader system that um that process is underway uh we actually had a conference call today with their project...
+    **2025-10-14 -- Town Council**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5wsHLWR_-SQ&t=3175s)  > ...roads so there's a DOT uh permitting process there that is kind of out of our control so they weren't uh the flock team wasn't willing to commit um as to you know uh an actual start...
+    **Town Council 10-14-25** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=sf33Uq_YrZE&t=10182s)  > ...thanks to our public works and grounds team for making the park look so wonderful. Again, some nice uh drone footage there of uh the new space being used. Um as referenced also earlier in...
 
-### 2024-01-09 -- Town Council
+    **2025-09-25 -- Next Generation School Building Committee**
 
-**Town Council 1-9-24** _(topics: alpr)_
+    **Next Generation School Building Committee 9-25-25** _(topics: drone)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dcEnDynZH3g&t=3538s)  > ...that we have a uh a page dedicated to you know even the the flock LPR system and the transparency page that's associated with that so that the public has information...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Nu35gsMEHNk&t=1430s)  > ...know, half of a soccer field. >> So this is an AI uh done taking the drone footage that was there. um so it's similar to the building but it's not actual uh but visually you can see...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Nu35gsMEHNk&t=3651s)  > ...no panels on the front of that academic wing, right? Was that generally >> we do have drone footage too on our website if that would be helpful for >> Yeah, that actually might be a good idea...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Nu35gsMEHNk&t=3658s)  > ...>> Yeah, that actually might be a good idea to >> Yeah, the the latest drone drone footage is easy easier to use. Um >> why don't why don't you put that on so...
 
+    **2025-09-09 -- Town Council**
 
-### 2024-06-11 -- Town Council
+    **Town Council 9-9-25** _(topics: drone)_
 
-**Town Council 6-11-24** _(topics: alpr)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0DCz60ZGDQk&t=6286s)  > ...24/7, generating persistent industrial noise from beeping yard and fork trucks, safety alarms, constant drone of diesel motors from reefer trucks and refrigeration units, general warehouse...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_YCXKVswN2Q&t=1704s)  > ...there's uh flocks of merganzer geese that come in there were there this spring there were there was a flock of over a dozen uh Maller Ducks there's there's an osprey...
+    **2025-08-12 -- Town Council**
 
+    **Town Council 8-12-25** _(topics: drone)_
 
-### 2024-10-08 -- Town Council
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uklizqc57gs&t=2994s)  > ...Let's go to the next slide. This is an air photo. Um uh the drone photo that was uh taken the other day shows the park and ride in the front shows some light industrial...
 
-**Town Council 10-8-24** _(topics: drone)_
+    **2025-07-24 -- Next Generation School Building Committee**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dMuNddgPjqc&t=684s)  > ...items beyond the Bandshell um should be within the next couple of weeks uh and I have added a few more I think drone photos from uh earlier today we've had some nice pictur taking weather recently...
+    **Next Generation School Building Committee 7-24-25** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=zg9phkPYCng&t=598s)  > ...I gave the status of construction and site preparation and then Andrew projected a drone fly over of both schools and I circulate the preliminary fixtures and furnishings and they seemed...
 
-### 2025-01-14 -- Town Council
+    **2025-07-08 -- Town Council**
 
-**Town Council 1-14-25** _(topics: drone)_
+    **Town Council 7-8-25** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9zqrd3iq1nU&t=4787s)  > ...level that would include like we did with bartum Park South some sort of Drone footage the only comment I would make is if that is in the off...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rdRz7he4qh4&t=5109s)  > ...And as Mr. Rosenblad is speaking. We're going to have some videos on screen, I believe, of drone footage, Mr. Martelli. Okay. Um, Greg Rosenblat, [address redacted]. I'm...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9zqrd3iq1nU&t=4809s)  > ...the um Chief or the police department that you are going to be doing some drone surveillance and capturing footage over the two sites um that way they can easily you know if somebody does call...
+    **2025-04-24 -- Next Generation School Building Committee**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9zqrd3iq1nU&t=4834s)  > ...recently but it was raised a while back that once we got construction going we' want to get some Drone footage so and I'll be posting that and regular pictures onto our Facebook page um but...
+    **Next Generation School Building Committee 4-24-25** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9zqrd3iq1nU&t=4867s)  > ...so to speak good point umu just one thing sure Mr since he brought up the Drone have you thought about even just putting a camera there that can be viewed online or that way you don't have...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=URNIFP0j1dk&t=841s)  > ...really good about putting pictures up on our website and Mike has been going out with the drone uh and doing uh some occasional things there. So let me just very...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9zqrd3iq1nU&t=8870s)  > ...there's a link that says School modernization in there you can click to see videos of Drone footage over the last several months um we haven't loaded the photo link yet but the photos some...
+    **2025-04-10 -- Town Council**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9zqrd3iq1nU&t=8887s)  > ...historically we're just clearing up a link issue there uh so those should be up shortly but the Drone video is already up there um we are exploring permanent cameras uh we met with the...
+    **Town Council Budget 4-10-25** _(topics: cell_site_sim)_
 
+    - `cell_site_sim` [Watch on YouTube ▸](https://www.youtube.com/watch?v=xtK_EDndZko&t=5050s)  > ...at their pool well the Sington pool Southernington has their own team so there's a Southernington Stingray race and there's Chester Sea Dogs right um they're both Y teams um and yet the...
 
-### 2025-02-11 -- Town Council
+    **2025-03-18 -- Town Council**
 
-**Town Council 2-11-25** _(topics: drone)_
+    **Town Council Budget 3-18-25** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=W44Opx9YjjQ&t=4033s)  > ...protected uh and um I I urge you there's a um uh a drone uh video that we've put on to um Facebook it also can be seen by the chesher school modernization site um but...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Iw-kcWPlLrg&t=4541s)  > ...on to our treasure Public Schools homepage bottom left hand side is school modernization there's drone video there's all sorts of videos and pictures of our uh School construction process...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=W44Opx9YjjQ&t=4045s)  > ...um Facebook it also can be seen by the chesher school modernization site um but it it does there are a couple of drone pictures one that goes over the site before we started construction one that...
+    **2025-02-11 -- Town Council**
 
+    **Town Council 2-11-25** _(topics: drone)_
 
-### 2025-03-18 -- Town Council
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=W44Opx9YjjQ&t=4033s)  > ...protected uh and um I I urge you there's a um uh a drone uh video that we've put on to um Facebook it also can be seen by the chesher school modernization site um but...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=W44Opx9YjjQ&t=4045s)  > ...um Facebook it also can be seen by the chesher school modernization site um but it it does there are a couple of drone pictures one that goes over the site before we started construction one that...
 
-**Town Council Budget 3-18-25** _(topics: drone)_
+    **2025-01-14 -- Town Council**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Iw-kcWPlLrg&t=4541s)  > ...on to our treasure Public Schools homepage bottom left hand side is school modernization there's drone video there's all sorts of videos and pictures of our uh School construction process...
+    **Town Council 1-14-25** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9zqrd3iq1nU&t=4787s)  > ...level that would include like we did with bartum Park South some sort of Drone footage the only comment I would make is if that is in the off...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9zqrd3iq1nU&t=4809s)  > ...the um Chief or the police department that you are going to be doing some drone surveillance and capturing footage over the two sites um that way they can easily you know if somebody does call...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9zqrd3iq1nU&t=4834s)  > ...recently but it was raised a while back that once we got construction going we' want to get some Drone footage so and I'll be posting that and regular pictures onto our Facebook page um but...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9zqrd3iq1nU&t=4867s)  > ...so to speak good point umu just one thing sure Mr since he brought up the Drone have you thought about even just putting a camera there that can be viewed online or that way you don't have...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9zqrd3iq1nU&t=8870s)  > ...there's a link that says School modernization in there you can click to see videos of Drone footage over the last several months um we haven't loaded the photo link yet but the photos some...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9zqrd3iq1nU&t=8887s)  > ...historically we're just clearing up a link issue there uh so those should be up shortly but the Drone video is already up there um we are exploring permanent cameras uh we met with the...
 
-### 2025-04-10 -- Town Council
+    **2024-10-08 -- Town Council**
 
-**Town Council Budget 4-10-25** _(topics: cell_site_sim)_
+    **Town Council 10-8-24** _(topics: drone)_
 
-- `cell_site_sim` [Watch on YouTube ▸](https://www.youtube.com/watch?v=xtK_EDndZko&t=5050s)  > ...at their pool well the Sington pool Southernington has their own team so there's a Southernington Stingray race and there's Chester Sea Dogs right um they're both Y teams um and yet the...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dMuNddgPjqc&t=684s)  > ...items beyond the Bandshell um should be within the next couple of weeks uh and I have added a few more I think drone photos from uh earlier today we've had some nice pictur taking weather recently...
 
+    **2024-01-09 -- Town Council**
 
-### 2025-04-24 -- Next Generation School Building Committee
+    **Town Council 1-9-24** _(topics: alpr)_
 
-**Next Generation School Building Committee 4-24-25** _(topics: drone)_
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dcEnDynZH3g&t=3538s)  > ...that we have a uh a page dedicated to you know even the the flock LPR system and the transparency page that's associated with that so that the public has information...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=URNIFP0j1dk&t=841s)  > ...really good about putting pictures up on our website and Mike has been going out with the drone uh and doing uh some occasional things there. So let me just very...
+    **2023-03-29 -- Town Council**
 
+    **Town Council 3/28** _(topics: alpr)_
 
-### 2025-07-08 -- Town Council
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5wsHLWR_-SQ&t=3154s)  > ...um you know the one of the primary ones is the uh the block License Plate Reader system that um that process is underway uh we actually had a conference call today with their project...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5wsHLWR_-SQ&t=3175s)  > ...roads so there's a DOT uh permitting process there that is kind of out of our control so they weren't uh the flock team wasn't willing to commit um as to you know uh an actual start...
 
-**Town Council 7-8-25** _(topics: drone)_
+    **2022-03-29 -- Town Council**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rdRz7he4qh4&t=5109s)  > ...And as Mr. Rosenblad is speaking. We're going to have some videos on screen, I believe, of drone footage, Mr. Martelli. Okay. Um, Greg Rosenblat, [address redacted]. I'm...
+    **Town Council Budget Workshop 3/29/22** _(topics: alpr, body_camera, drone)_
 
-
-### 2025-07-24 -- Next Generation School Building Committee
-
-**Next Generation School Building Committee 7-24-25** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=zg9phkPYCng&t=598s)  > ...I gave the status of construction and site preparation and then Andrew projected a drone fly over of both schools and I circulate the preliminary fixtures and furnishings and they seemed...
-
-
-### 2025-08-12 -- Town Council
-
-**Town Council 8-12-25** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uklizqc57gs&t=2994s)  > ...Let's go to the next slide. This is an air photo. Um uh the drone photo that was uh taken the other day shows the park and ride in the front shows some light industrial...
-
-
-### 2025-09-09 -- Town Council
-
-**Town Council 9-9-25** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0DCz60ZGDQk&t=6286s)  > ...24/7, generating persistent industrial noise from beeping yard and fork trucks, safety alarms, constant drone of diesel motors from reefer trucks and refrigeration units, general warehouse...
-
-
-### 2025-09-25 -- Next Generation School Building Committee
-
-**Next Generation School Building Committee 9-25-25** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Nu35gsMEHNk&t=1430s)  > ...know, half of a soccer field. >> So this is an AI uh done taking the drone footage that was there. um so it's similar to the building but it's not actual uh but visually you can see...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Nu35gsMEHNk&t=3651s)  > ...no panels on the front of that academic wing, right? Was that generally >> we do have drone footage too on our website if that would be helpful for >> Yeah, that actually might be a good idea...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Nu35gsMEHNk&t=3658s)  > ...>> Yeah, that actually might be a good idea to >> Yeah, the the latest drone drone footage is easy easier to use. Um >> why don't why don't you put that on so...
-
-
-### 2025-10-14 -- Town Council
-
-**Town Council 10-14-25** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=sf33Uq_YrZE&t=10182s)  > ...thanks to our public works and grounds team for making the park look so wonderful. Again, some nice uh drone footage there of uh the new space being used. Um as referenced also earlier in...
-
-
-### 2025-10-23 -- Next Generation School Building Committee
-
-**Next Generation School Building Committee 10-23-25** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XuF6QY_tzwk&t=2609s)  > ...these slides as well as some additional um photos and and drone footage that Aeron's going to show tonight. But I just wanted to talk a little bit about a...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XuF6QY_tzwk&t=2941s)  > ...easy. >> Yeah, I think so, too. So, this is a 6 foot um drone footage of that area from the opposite angle. And you can see it's pretty expansive. It's sloping downhill....
-
-
-### 2026-03-31 -- Town Council
-
-**Town Council Budget 3-31-26** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=e_H7_RENzzk&t=5480s)  > ...radio responsibilities, event planning, uh regional crash drone maintenance, radio maintenance. Um, and this would free uh them up to do more traffic related stuff, but also...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=e_H7_RENzzk&t=7828s)  > ...of the things we bought in the past, uh, ebikes, uh, for the police department, drone batteries for the police department, and, uh, one of the biggest topics tonight was recruitment and...
-
-
-### 2026-04-14 -- Town Council
-
-**Town Council Budget 4-14-26** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4fQuoxhjAII&t=2850s)  > ...to start. It's not as glamorous as the public works where they're doing drone flyovers of someone. [laughter] >> You don't have drone flyovers of...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4fQuoxhjAII&t=2854s)  > ...works where they're doing drone flyovers of someone. [laughter] >> You don't have drone flyovers of finance. Come on, Gina. Gina must have those steps in it. I don't have a drone...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4fQuoxhjAII&t=2859s)  > ...>> You don't have drone flyovers of finance. Come on, Gina. Gina must have those steps in it. I don't have a drone in the office. Let me go around. [clears throat]...
-
-
-### 2026-05-27 -- Town Council
-
-**Town Council 5-27-26** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IBfe_7m6irs&t=4997s)  > ...could if you when I'm done with my little spiel, you could speak to that too. How are they different from Flock? >> they can't share data that way and stuff....
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IBfe_7m6irs&t=5101s)  > ...So, we can put those navigations in place. To the chief's point about um ALPR cameras, there's been a national discussion growing, frankly, uh with quite a lot of anger over the last 6...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IBfe_7m6irs&t=5150s)  > ...anything else, but we're only taking photographs of the violators. It's absolutely not Flock if if that's the the comments I think we're we're hearing now. And there's a big movement about...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IBfe_7m6irs&t=5229s)  > ...>> I I I haven't seen on any large scale across the country in the last 21 years. Flock for sure, I'm seeing county after county and city after city taking out their ALPR cameras regardless of the...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IBfe_7m6irs&t=5233s)  > ...Flock for sure, I'm seeing county after county and city after city taking out their ALPR cameras regardless of the vendor they may be using for obvious reasons we've seen reported uh across...
-
-
-### 2026-08-04 -- Town Council
-
-**Town Council 8-4-26** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=1883s)  > ...Connecticut. Others see these cameras as important public safety tools. Automated license plate readers have helped police identify stolen vehicles, investigate...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=1942s)  > ...and whether to impose fines within the limits established by state law. But flock cameras are different. They are automated license plate readers used as investigative tools. They record plate...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=1944s)  > ...limits established by state law. But flock cameras are different. They are automated license plate readers used as investigative tools. They record plate and vehicle information so that police...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=1990s)  > ...the legislature pack passed public act 2614 to establish statewide protections governing automated license plate reader data. This is different than national. Connecticut has put together um a series...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=2093s)  > ...final step. I do have handouts if anyone is interested to see the difference between flock cameras, traffic enforcement cameras, and highlights what we have passed. I promise you my speech...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=2277s)  > ...numerous car breakins and vehicle thefts. Um [clears throat] so when when flock started to be questioned uh a year or so later, this council took...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=2292s)  > ...it upon themselves to bring in Chief Jordaner and have a discussion regarding the flock cameras and received answers to all of our questions to uh at least give us the ability to sufficiently be...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=2510s)  > ...infrastructure to name a few. Across the country, law enforcement agencies are ditching flock over the exact concerns. Even within our own state, Windsor, Killingworth, and I believe Old Sabbrook...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=2648s)  > ...public discourse. This includes broader public education on the differences between the flock system and basic license plate reading cameras, closed circuit television, and similar....
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=2660s)  > ...Most importantly, the transparency portal appears to be hosted and provided by Flock, not an independent party with oversight. The data appears to be merely theater and not overly instructive or...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=2735s)  > ...the most American of all virtues. As such, I support the indefinite and immediate suspension of the flock safety program in Cheshure and related future surveillance technology until further...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3083s)  > ...those. Um I'll just uh add sort of two more things I think which is one as much as regulation in this state of flock data is worthwhile and very much welcomed I think um regulating...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3261s)  > ...counties and towns across the country that are cancelling their partnerships with Flock. We should do the same. You see the public outcry. It's all across the nation and it's getting worse and...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3410s)  > ...also, hello members of the public. I'm here to echo as well the outcry and vehement opposition to the flock cameras. Uh written down, I had the same facts that other people have cited where...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3476s)  > ...to take one, you don't get the other. But what I'd also like to present is documentation from flock themselves to members of city councils on how to speak about public safety technology. This is...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3488s)  > ...about public safety technology. This is you. So you you can find this this is made by flock and this is how town councils can talk to the public about flock. I'd like to cite specifically in...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3494s)  > ...made by flock and this is how town councils can talk to the public about flock. I'd like to cite specifically in chapter 2 which is titled moving the conversation from surveillance to...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UoAZWMEHtXA&t=3518s)  > ...constitutes mass surveillance. Many leaders instinctively respond by attempting to refute these claims. Flock recommends a different approach. The strongest console presentations spend...
+    - `alpr_vendor` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=4326s)  > ...obviously everybody gets a brand new axon body camera and we install the axon fleet camera in in all the the cruisers at the two and a half year mark of the...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=4460s)  > ...the technology to make every cruiser camera uh a license plate reader also so sean can you um can you share the screen...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=4578s)  > ...zoom you can just look for it while brian's opening that up just we have we currently have one license plate reader um system in the uh in the department it's mounted obviously on one...
+    - `alpr_vendor` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=4632s)  > ...um if we can go to the show them the uh axon fleet brian just uh so that is the forward-facing uh cruiser camera from axon...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=4675s)  > ...single one of our marked cruisers into uh you know into a license plate reader car is attractive um you know certainly to me as the as the police chief um...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=5623s)  > ...good thing or the the thing axon does the best is they have a centralized location for all of your body cam and video footage so anything that comes in from a body camera from a car camera...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=5631s)  > ...video footage so anything that comes in from a body camera from a car camera from a drone from anything that's part of their program goes in one place that you can easily retrieve the data from...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=5737s)  > ...makes sense to have all of the um functions um compatible the the car camera and the body cam and i like the idea that there is a license plate um reader in every corner i think that's...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=7186s)  > ...how what has it actually done have we actually gotten any benefit from having a license plate reader um has it actually caught someone have we actually done...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=7220s)  > ...the license plate readers the the vast majority of the of the the plates that that the license plate reader alerts to have been for what i would call relatively routine motor...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=7275s)  > ...um yeah look the vast majority of the of the the alerts to the license plate reader system are for relatively routine motor vehicle uh violations again bearing in...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=7404s)  > ...who's who's done that or any complaints that have been made about an actual incident where license plate reader data has been abused thank you...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -417,10 +344,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 - **[2026-05-27] Town Council** -- Town Council 5-27-26
   > ...anything else, but we're only taking photographs of the violators. It's absolutely not Flock if if that's the the comments I think we're we're hearing now. And there's a big movement about...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IBfe_7m6irs&t=5150s)  _(term: alpr_flock, unreviewed)_
-
-- **[2024-06-11] Town Council** -- Town Council 6-11-24
-  > ...there's uh flocks of merganzer geese that come in there were there this spring there were there was a flock of over a dozen uh Maller Ducks there's there's an osprey...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_YCXKVswN2Q&t=1704s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-01-09] Town Council** -- Town Council 1-9-24
   > ...that we have a uh a page dedicated to you know even the the flock LPR system and the transparency page that's associated with that so that the public has information...
@@ -674,7 +597,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -784,11 +706,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -865,6 +782,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Cheshire's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/cheshire-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip cheshire-meeting-transcripts.zip -d cheshire
+cd cheshire
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

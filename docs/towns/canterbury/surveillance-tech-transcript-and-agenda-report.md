@@ -3,24 +3,26 @@
 
 ## At a glance: Canterbury
 
+<p class="glance-headline"><strong>5 mentions</strong> of surveillance technology in <strong>2</strong> Canterbury meetings, 2023–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">5</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 2 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2023–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2023-09-13 → 2026-03-17</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">39%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">95 of 245 meetings</span></a>
+</div>
+
+**Still incomplete:** 150 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+
 This report collects every mention of surveillance technology found in **Canterbury**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **5 mentions** across **2 meetings**
-- **First mention:** 2023-09-13  |  **Most recent:** 2026-03-17
-- **Technologies discussed:** drone
-- **Coverage:** 95 of 245 known Canterbury meetings transcribed (39%)
-- **Still incomplete:** 150 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,73 +33,43 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Canterbury's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/canterbury-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip canterbury-meeting-transcripts.zip -d canterbury
-cd canterbury
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| drone | 5 | 2 | 2023-09-13 | 2026-03-17 |
+| [Drones](#drone) | 5 | 2 | 2023-09-13 | 2026-03-17 |
 
 
 ## Timeline
 
-2 meetings surfaced a finding (2 dated, spanning 2023-09-13 to 2026-03-17; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+2 meetings surfaced a finding (2 dated, spanning 2023-09-13 to 2026-03-17; 0 of unknown date, listed last). Newest first.
 
-### 2023-09-13 -- Board of Education
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-03-17.*
 
-**Board of Education 09//12/23** _(topics: drone)_
+??? note "Earlier meetings (2)"
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=107s)  > ...together about the high school there's a video about our AG program there's a video in there about our drone program which we started there's another video that is our barn and our animals and we...
+    **2026-03-17 -- Board of Selectmen**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=713s)  > ...outside new course offerings there you see the Drone pilot that is so cool you know you you you get a drone certification and we had a kid who um is...
+    **Board of Selectmen 03/17/26** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=715s)  > ...new course offerings there you see the Drone pilot that is so cool you know you you you get a drone certification and we had a kid who um is that's his job that's like his business...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=mfhjbqC6mJw&t=706s)  > ...up there. I think that um you know, it behooves us to take a look at this is a drone. Uh anecdotally, I'm not going to provide dates cuz I don't remember them all, but in the time I've...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=723s)  > ...certification and we had a kid who um is that's his job that's like his business now he has a he has a drone he he works with real estate agents you know showcasing their land using the the...
+    **2023-09-13 -- Board of Education**
 
+    **Board of Education 09//12/23** _(topics: drone)_
 
-### 2026-03-17 -- Board of Selectmen
-
-**Board of Selectmen 03/17/26** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=mfhjbqC6mJw&t=706s)  > ...up there. I think that um you know, it behooves us to take a look at this is a drone. Uh anecdotally, I'm not going to provide dates cuz I don't remember them all, but in the time I've...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=107s)  > ...together about the high school there's a video about our AG program there's a video in there about our drone program which we started there's another video that is our barn and our animals and we...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=713s)  > ...outside new course offerings there you see the Drone pilot that is so cool you know you you you get a drone certification and we had a kid who um is...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=715s)  > ...new course offerings there you see the Drone pilot that is so cool you know you you you get a drone certification and we had a kid who um is that's his job that's like his business...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Qfy5MVEQ1Ow&t=723s)  > ...certification and we had a kid who um is that's his job that's like his business now he has a he has a drone he he works with real estate agents you know showcasing their land using the the...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -216,7 +188,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -326,11 +297,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -409,6 +375,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Canterbury's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/canterbury-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip canterbury-meeting-transcripts.zip -d canterbury
+cd canterbury
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

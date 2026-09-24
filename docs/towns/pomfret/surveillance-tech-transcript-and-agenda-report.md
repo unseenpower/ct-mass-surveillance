@@ -3,18 +3,19 @@
 
 ## At a glance: Pomfret
 
-This report collects every mention of surveillance technology found in **Pomfret**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+<p class="glance-headline"><strong>No surveillance-technology mentions</strong> found yet in 18 transcribed Pomfret meetings</p>
 
+<div class="glance-grid">
+<a class="glance-card" href="#coverage-status"><span class="gc-big">100%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">18 of 18 meetings</span></a>
+</div>
+
+This report collects every mention of surveillance technology found in **Pomfret**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
 **No surveillance-technology mentions have been found in this town's meetings yet.** That is not the same as none existing -- read the coverage note below, and [Gaps and caveats](#gaps-and-caveats), before treating this as an answer about the town.
 
 
-- **Coverage:** 18 of 18 known Pomfret meetings transcribed (100%)
-
-
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -25,51 +26,22 @@ This report collects every mention of surveillance technology found in **Pomfret
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Pomfret's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/pomfret-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip pomfret-meeting-transcripts.zip -d pomfret
-cd pomfret
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-*(none)*
+*No surveillance-technology mentions found in this town's transcribed meetings yet.*
 
 
 ## Timeline
 
-0 meetings surfaced a finding (none have a known date).
+<!-- report-polish v1 -->
+
+No meetings have surfaced a finding yet.
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -169,7 +141,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### video_analytics
 
 *(no findings)*
-
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
@@ -280,11 +251,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -356,6 +322,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | channel | tab |
 | --- | --- |
 | Kathleen Sposato (Sposato Uncensored, Pomfret CT) | streams |
+
+
+## Get the full transcripts
+
+**[Download Pomfret's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/pomfret-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip pomfret-meeting-transcripts.zip -d pomfret
+cd pomfret
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

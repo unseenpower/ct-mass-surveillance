@@ -3,25 +3,27 @@
 
 ## At a glance: East Hampton
 
+<p class="glance-headline"><strong>43 mentions</strong> of surveillance technology in <strong>11</strong> East Hampton meetings, 2021–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">43</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 11 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2021–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-03-27 → 2026-06-09</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, General surveillance</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">55%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">136 of 247 meetings</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">6</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
+</div>
+
+**Still incomplete:** 111 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+
 This report collects every mention of surveillance technology found in **East Hampton**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **43 mentions** across **11 meetings**
-- **First mention:** 2021-03-27  |  **Most recent:** 2026-06-09
-- **Technologies discussed:** alpr, body_camera, drone, surveillance_general
-- **Coverage:** 136 of 247 known East Hampton meetings transcribed (55%)
-- **Still incomplete:** 111 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
-- **6 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -32,197 +34,129 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download East Hampton's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/east-hampton-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip east-hampton-meeting-transcripts.zip -d east-hampton
-cd east-hampton
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 32 | 5 | 2024-03-21 | 2026-03-24 |
-| body_camera | 2 | 2 | 2022-08-10 | 2026-06-09 |
-| drone | 6 | 3 | 2024-01-09 | 2024-06-11 |
-| surveillance_general | 3 | 1 | 2021-03-27 | 2021-03-27 |
+| [ALPR / Flock](#alpr) | 32 | 5 | 2024-03-21 | 2026-03-24 |
+| [Body cameras](#body_camera) | 2 | 2 | 2022-08-10 | 2026-06-09 |
+| [Drones](#drone) | 6 | 3 | 2024-01-09 | 2024-06-11 |
+| [General surveillance](#surveillance_general) | 3 | 1 | 2021-03-27 | 2021-03-27 |
 
 
 ## Timeline
 
-11 meetings surfaced a finding (11 dated, spanning 2021-03-27 to 2026-06-09; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+11 meetings surfaced a finding (11 dated, spanning 2021-03-27 to 2026-06-09; 0 of unknown date, listed last). Newest first.
 
-### 2021-03-27 -- Board of Finance
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-06-09.*
 
-**Board of Finance Budget Workshop** _(topics: surveillance_general)_
+??? note "Earlier meetings (11)"
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=lHfqxewSRnk&t=3666s)  > ...okay thank you sure um the video surveillance server is that not connected to the cctv upgrade did you help me just understand the delineation between a few of us...
+    **2026-06-09 -- Town Council**
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=lHfqxewSRnk&t=3676s)  > ...upgrade did you help me just understand the delineation between a few of us so the cctv upgrade for the addition of cameras um and were requested i believe that if...
+    **Town Council Regular Meeting - 6-9-2026** _(topics: body_camera)_
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=lHfqxewSRnk&t=4416s)  > ...purchase some of the cameras that uh rich was talking about and then the cctv upgrades is you know the related to the same system that high school and town hall are...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qBLAfA4cA4A&t=3228s)  > ...at it? Because if you go under number one, it says um in order to assist assist such officer with the preparation of a report. So wouldn't they have always been allowed to review their body cam? >> It would appear so uh the way the model policy is written. Uh but they obviously was a reason to clarify because it probably had been challenged...
 
+    **2026-03-24 -- Town Council**
 
-### 2022-08-10 -- Freedom of Information Workshop
+    **Town Council Regular Meeting 3-24-26** _(topics: alpr)_
 
-**FOIA Workshop Video 08Aug2022** _(topics: body_camera)_
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9P4nTqAVBxI&t=5945s)  > ...The new general order, general order 5.30, the automated license plate reader, is a new general order which is required to be in compliance with POST standards....
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9P4nTqAVBxI&t=5960s)  > ...council. The department does not currently have automated license plate reader cameras, but we're still required to adopt the policy to be in compliance with the...
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5aY5AT0kcPA&t=679s)  > ...couple weeks ago West State and attorney calls up and says please send me the body cam footage from his client's motor vehicle accident in Bridgeport no I don't I don't have a storage of...
+    **2025-05-27 -- Town Council**
 
+    **Town Council Regular Meeting 5-27-25** _(topics: alpr)_
 
-### 2024-01-09 -- Town Council
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2441s)  > ...Uh 9D review and possible action to authorize a grant request from the police department for funds for license plate reader cameras. I'll invite uh Chief Westerner to come up and discuss...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2474s)  > ...Department of Transportation Safe Streets and Roads for All grant to purchase six LPR cameras, license plate reader cameras, and associated equipment. As a side note, uh for the...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2499s)  > ...readers. Uh once the contract, initial contract expires, those cameras, the Flock cameras, which is the brand license plate readers, every camera had a $3,000...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2520s)  > ...of $9,000. Very expensive cost. Um, our goal through the grant is to purchase license plate reader cameras that would integrate with our current milestone camera system that we have in all the...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2552s)  > ...$75 which is a far side better than the $9,000 for each camera. In addition, these license plate reader cameras will be mounted on Eversource poles um after seeking permission. Um and we would have...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2624s)  > ...state of Connecticut, that wireless technology would be put in place in these license plate reader cameras. It is a um 8020 split uh with the federal government if we were to get approved...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2684s)  > ...uh, their city. Portland uh, has a $60,000 budget this year to install license plate reader cameras. Glastonbury, if you get off an exit ramp or drive through their town, you're...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2852s)  > ...identify people that were vandalizing the front gate. Um, the technology works. Now, the license plate reader technology that we have is not the ones that I'm requesting. They're much more...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3089s)  > ...reoccurring cost of $3,000 per camera. I openly admit that was a lot of money. Uh flock camera, that's one of the reasons why departments uh are starting to transition to something like Milestone....
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3158s)  > ...would be I don't know the statute number, but FOI is how we govern our retention. Um the all the uh license plate reader cameras that we have the state has. It's 30 days worth of data...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3322s)  > ...larger network, though. Correct. Ours would be connected to our milestone system upstairs. Okay. Not to a flock system like that is a a major all the flock cameras go to one system. It's...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3331s)  > ...system upstairs. Okay. Not to a flock system like that is a a major all the flock cameras go to one system. It's much bigger. Okay. So your flock is not going to be...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3336s)  > ...flock cameras go to one system. It's much bigger. Okay. So your flock is not going to be connected. I should not be using the word flock. Flock is a brand. Right. All...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3340s)  > ...Okay. So your flock is not going to be connected. I should not be using the word flock. Flock is a brand. Right. All right. We talk about license plate readers. These would be going into our...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3356s)  > ...going to be going and housed by a third-party vendor like similar would be for the flock cameras. Okay. And understand that currently that...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3427s)  > ...monitor for illegal activity. Um, so, so if someone comes down Route 66 and we have a license plate reader and your camera and you drive by there, it records the license plate. It went by a...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3436s)  > ...records the license plate. It went by a certain amount of time. If you drive all over town and never trip another license plate reader camera, I have no no idea where you are....
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3541s)  > ...with stolen cars, you know. Um, and to your point, uh, sometimes the technology is such when you do trip several license plate reader cameras and you get the person committing a crime at this...
 
-**Town Council Regular Meeting 1-9-24** _(topics: drone)_
+    **2024-06-11 -- Town Council**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fotgs7IEj28&t=1318s)  > ...environmental workers uh just one question and task three the Drone survey field work and mapping says task three does not include any private property survey and mapping...
+    **Town Council Regular Meeting 6/11/24** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fotgs7IEj28&t=1362s)  > ...whatever reason we have to move a facility onto a private property we can still get the Drone survey it's just the easements is what you wouldn't be is not included in the...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dRFL8RxTCBs&t=3143s)  > ...I last talked to them about a year ago uh and talk to them about what we've done you know that we did a drone fly over of the of the community did some high resolution mapping that way we're...
 
+    **2024-04-23 -- Town Council**
 
-### 2024-03-12 -- Town Council
+    **Town Council Regular Meeting 4-23-24** _(topics: alpr)_
 
-**Town Council Regular Meeting 3-12-24** _(topics: drone)_
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6TcraLiRig0&t=3339s)  > ...another question um in on the budget the new staff program request the 86535 is that the License Plate Reader that you had mentioned the three license plate readers the new officer that is...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Woo3QbXdIjA&t=1495s)  > ...system the work related to that that everyone will notice is expected to start on Monday WEA permitted uh weather permitting on Monday representatives of the community or of the engineering firm will begin to do doing a drone mapping of the community that is using an airplane style drone to map in high definition um the community including uh topography locations of of...
+    **2024-04-03 -- Board of Finance**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Woo3QbXdIjA&t=1501s)  > ...start on Monday WEA permitted uh weather permitting on Monday representatives of the community or of the engineering firm will begin to do doing a drone mapping of the community that is using an airplane style drone to map in high definition um the community including uh topography locations of of wetlands all sorts of information that they can get via the equipment on that...
+    **Board of Finance Special Budget Meeting 04-03-2024** _(topics: alpr)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Woo3QbXdIjA&t=1534s)  > ...facility it'll map in GIS uh and GPS and they will end up with that work they anticipate that they'll be in town for the week uh provide uh and those paths are um parallel paths 240 ft apart so this 2 and a half pound drone airplane will fly at about 400 feet at 400 ft above ground level and we'll make passes uh around I would say the center quarter or...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZGLFkTuwiRs&t=2058s)  > ...following changes the elimination of $ 2,945 for a flock Plate Reader the project is eliminated the reduction of...
 
+    **2024-03-21 -- Board of Finance**
 
-### 2024-03-21 -- Board of Finance
+    **Board of finance Budget Workshop 03-21-2024** _(topics: alpr)_
 
-**Board of finance Budget Workshop 03-21-2024** _(topics: alpr)_
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=123s)  > ...through that with any everybody probably doesn't know what the uh flock Safety license plate is so I basically have two things to Capital the first thing is uh money's in there to...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=201s)  > ...being the other thing uh in the budget the capital budget is uh flock Safety license plate readers I'm proposing uh purchase three of those they will be place in locations to be to...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=243s)  > ...entrance to eastampton from maror the reason why we've requested these uh three flock Li plate readers is last year we had several car burglaries burglaries in cars stolen cars we had I...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=298s)  > ...going into to we have an idea where we need to position our vehicles to try to apprehend the flock license plate readers and other license plate readers commonly referred to there's another big...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=341s)  > ...of chiefs of police and even though it's not in our state Little Rock Arkansas who deploys the flock safety License Plate Reader cameras they use them after a robbery at the Dollar General in BB...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=486s)  > ...readers on some of their buildings we can contact them and say can you search your license plate reader system to see if this car went by we can also go on to any Department that allows us to access...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=511s)  > ...agencies and says can anybody and everybody query their license plate readers regardless if it's a flock or a record to see if you've hit it and a lot of times you know you get hits and say...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=909s)  > ...some opposition about uh the ACLU complaining about the use of any type of License Plate Reader Camas and I'm not going to mix words the ACLU is not a fan of law...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=935s)  > ...only saved for a specific period of time then it's deleted flock technology cannot access the information only the agency that basically is using the...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=982s)  > ...not like it's saving for six seven eight nine months at least with flock technology I don't know about the other techn I always look at risk and realize there's...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=123s)  > ...through that with any everybody probably doesn't know what the uh flock Safety license plate is so I basically have two things to Capital the first thing is uh money's in there to...
+    **2024-03-12 -- Town Council**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=201s)  > ...being the other thing uh in the budget the capital budget is uh flock Safety license plate readers I'm proposing uh purchase three of those they will be place in locations to be to...
+    **Town Council Regular Meeting 3-12-24** _(topics: drone)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=243s)  > ...entrance to eastampton from maror the reason why we've requested these uh three flock Li plate readers is last year we had several car burglaries burglaries in cars stolen cars we had I...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Woo3QbXdIjA&t=1495s)  > ...system the work related to that that everyone will notice is expected to start on Monday WEA permitted uh weather permitting on Monday representatives of the community or of the engineering firm will begin to do doing a drone mapping of the community that is using an airplane style drone to map in high definition um the community including uh topography locations of of...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Woo3QbXdIjA&t=1501s)  > ...start on Monday WEA permitted uh weather permitting on Monday representatives of the community or of the engineering firm will begin to do doing a drone mapping of the community that is using an airplane style drone to map in high definition um the community including uh topography locations of of wetlands all sorts of information that they can get via the equipment on that...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Woo3QbXdIjA&t=1534s)  > ...facility it'll map in GIS uh and GPS and they will end up with that work they anticipate that they'll be in town for the week uh provide uh and those paths are um parallel paths 240 ft apart so this 2 and a half pound drone airplane will fly at about 400 feet at 400 ft above ground level and we'll make passes uh around I would say the center quarter or...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=298s)  > ...going into to we have an idea where we need to position our vehicles to try to apprehend the flock license plate readers and other license plate readers commonly referred to there's another big...
+    **2024-01-09 -- Town Council**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=341s)  > ...of chiefs of police and even though it's not in our state Little Rock Arkansas who deploys the flock safety License Plate Reader cameras they use them after a robbery at the Dollar General in BB...
+    **Town Council Regular Meeting 1-9-24** _(topics: drone)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=486s)  > ...readers on some of their buildings we can contact them and say can you search your license plate reader system to see if this car went by we can also go on to any Department that allows us to access...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fotgs7IEj28&t=1318s)  > ...environmental workers uh just one question and task three the Drone survey field work and mapping says task three does not include any private property survey and mapping...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fotgs7IEj28&t=1362s)  > ...whatever reason we have to move a facility onto a private property we can still get the Drone survey it's just the easements is what you wouldn't be is not included in the...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=511s)  > ...agencies and says can anybody and everybody query their license plate readers regardless if it's a flock or a record to see if you've hit it and a lot of times you know you get hits and say...
+    **2022-08-10 -- Freedom of Information Workshop**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=909s)  > ...some opposition about uh the ACLU complaining about the use of any type of License Plate Reader Camas and I'm not going to mix words the ACLU is not a fan of law...
+    **FOIA Workshop Video 08Aug2022** _(topics: body_camera)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=935s)  > ...only saved for a specific period of time then it's deleted flock technology cannot access the information only the agency that basically is using the...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5aY5AT0kcPA&t=679s)  > ...couple weeks ago West State and attorney calls up and says please send me the body cam footage from his client's motor vehicle accident in Bridgeport no I don't I don't have a storage of...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iqb6ViTVfbM&t=982s)  > ...not like it's saving for six seven eight nine months at least with flock technology I don't know about the other techn I always look at risk and realize there's...
+    **2021-03-27 -- Board of Finance**
 
-
-### 2024-04-03 -- Board of Finance
-
-**Board of Finance Special Budget Meeting 04-03-2024** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZGLFkTuwiRs&t=2058s)  > ...following changes the elimination of $ 2,945 for a flock Plate Reader the project is eliminated the reduction of...
-
-
-### 2024-04-23 -- Town Council
-
-**Town Council Regular Meeting 4-23-24** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6TcraLiRig0&t=3339s)  > ...another question um in on the budget the new staff program request the 86535 is that the License Plate Reader that you had mentioned the three license plate readers the new officer that is...
-
-
-### 2024-06-11 -- Town Council
-
-**Town Council Regular Meeting 6/11/24** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dRFL8RxTCBs&t=3143s)  > ...I last talked to them about a year ago uh and talk to them about what we've done you know that we did a drone fly over of the of the community did some high resolution mapping that way we're...
-
-
-### 2025-05-27 -- Town Council
-
-**Town Council Regular Meeting 5-27-25** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2441s)  > ...Uh 9D review and possible action to authorize a grant request from the police department for funds for license plate reader cameras. I'll invite uh Chief Westerner to come up and discuss...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2474s)  > ...Department of Transportation Safe Streets and Roads for All grant to purchase six LPR cameras, license plate reader cameras, and associated equipment. As a side note, uh for the...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2499s)  > ...readers. Uh once the contract, initial contract expires, those cameras, the Flock cameras, which is the brand license plate readers, every camera had a $3,000...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2520s)  > ...of $9,000. Very expensive cost. Um, our goal through the grant is to purchase license plate reader cameras that would integrate with our current milestone camera system that we have in all the...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2552s)  > ...$75 which is a far side better than the $9,000 for each camera. In addition, these license plate reader cameras will be mounted on Eversource poles um after seeking permission. Um and we would have...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2624s)  > ...state of Connecticut, that wireless technology would be put in place in these license plate reader cameras. It is a um 8020 split uh with the federal government if we were to get approved...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2684s)  > ...uh, their city. Portland uh, has a $60,000 budget this year to install license plate reader cameras. Glastonbury, if you get off an exit ramp or drive through their town, you're...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=2852s)  > ...identify people that were vandalizing the front gate. Um, the technology works. Now, the license plate reader technology that we have is not the ones that I'm requesting. They're much more...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3089s)  > ...reoccurring cost of $3,000 per camera. I openly admit that was a lot of money. Uh flock camera, that's one of the reasons why departments uh are starting to transition to something like Milestone....
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3158s)  > ...would be I don't know the statute number, but FOI is how we govern our retention. Um the all the uh license plate reader cameras that we have the state has. It's 30 days worth of data...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3322s)  > ...larger network, though. Correct. Ours would be connected to our milestone system upstairs. Okay. Not to a flock system like that is a a major all the flock cameras go to one system. It's...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3331s)  > ...system upstairs. Okay. Not to a flock system like that is a a major all the flock cameras go to one system. It's much bigger. Okay. So your flock is not going to be...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3336s)  > ...flock cameras go to one system. It's much bigger. Okay. So your flock is not going to be connected. I should not be using the word flock. Flock is a brand. Right. All...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3340s)  > ...Okay. So your flock is not going to be connected. I should not be using the word flock. Flock is a brand. Right. All right. We talk about license plate readers. These would be going into our...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3356s)  > ...going to be going and housed by a third-party vendor like similar would be for the flock cameras. Okay. And understand that currently that...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3427s)  > ...monitor for illegal activity. Um, so, so if someone comes down Route 66 and we have a license plate reader and your camera and you drive by there, it records the license plate. It went by a...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3436s)  > ...records the license plate. It went by a certain amount of time. If you drive all over town and never trip another license plate reader camera, I have no no idea where you are....
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6RWKnXHXFPg&t=3541s)  > ...with stolen cars, you know. Um, and to your point, uh, sometimes the technology is such when you do trip several license plate reader cameras and you get the person committing a crime at this...
-
-
-### 2026-03-24 -- Town Council
-
-**Town Council Regular Meeting 3-24-26** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9P4nTqAVBxI&t=5945s)  > ...The new general order, general order 5.30, the automated license plate reader, is a new general order which is required to be in compliance with POST standards....
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9P4nTqAVBxI&t=5960s)  > ...council. The department does not currently have automated license plate reader cameras, but we're still required to adopt the policy to be in compliance with the...
-
-
-### 2026-06-09 -- Town Council
-
-**Town Council Regular Meeting - 6-9-2026** _(topics: body_camera)_
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qBLAfA4cA4A&t=3228s)  > ...at it? Because if you go under number one, it says um in order to assist assist such officer with the preparation of a report. So wouldn't they have always been allowed to review their body cam? >> It would appear so uh the way the model policy is written. Uh but they obviously was a reason to clarify because it probably had been challenged...
+    **Board of Finance Budget Workshop** _(topics: surveillance_general)_
+
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=lHfqxewSRnk&t=3666s)  > ...okay thank you sure um the video surveillance server is that not connected to the cctv upgrade did you help me just understand the delineation between a few of us...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=lHfqxewSRnk&t=3676s)  > ...upgrade did you help me just understand the delineation between a few of us so the cctv upgrade for the addition of cameras um and were requested i believe that if...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=lHfqxewSRnk&t=4416s)  > ...purchase some of the cameras that uh rich was talking about and then the cctv upgrades is you know the related to the same system that high school and town hall are...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -487,7 +421,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -652,11 +585,6 @@ proposed for the property at this time, and that the...
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -736,6 +664,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download East Hampton's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/east-hampton-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip east-hampton-meeting-transcripts.zip -d east-hampton
+cd east-hampton
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

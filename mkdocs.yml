@@ -63,6 +63,12 @@ markdown_extensions:
       permalink: true
       slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
 
+extra_css:
+  - stylesheets/dashboards.css
+
+extra_javascript:
+  - javascripts/dashboard-modal.js
+
 extra:
   social:
     - icon: fontawesome/brands/github

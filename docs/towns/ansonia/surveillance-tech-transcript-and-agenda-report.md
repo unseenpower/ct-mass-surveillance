@@ -3,23 +3,24 @@
 
 ## At a glance: Ansonia
 
+<p class="glance-headline"><strong>17 mentions</strong> of surveillance technology in <strong>15</strong> Ansonia meetings, 2017–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">17</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 15 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2017–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2017-08-09 → 2026-02-11</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Predictive policing, General surveillance</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">96%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">109 of 114 meetings</span></a>
+</div>
+
 This report collects every mention of surveillance technology found in **Ansonia**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **17 mentions** across **15 meetings**
-- **First mention:** 2017-08-09  |  **Most recent:** 2026-02-11
-- **Technologies discussed:** alpr, body_camera, drone, predictive_policing, surveillance_general
-- **Coverage:** 109 of 114 known Ansonia meetings transcribed (96%)
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -30,166 +31,124 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Ansonia's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/ansonia-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip ansonia-meeting-transcripts.zip -d ansonia
-cd ansonia
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 2 | 2 | 2022-06-23 | 2022-12-14 |
-| body_camera | 7 | 6 | 2020-09-14 | 2026-02-11 |
-| drone | 3 | 2 | 2017-08-09 | 2025-06-11 |
-| predictive_policing | 4 | 4 | 2020-07-07 | 2025-02-12 |
-| surveillance_general | 1 | 1 | 2024-04-10 | 2024-04-10 |
+| [ALPR / Flock](#alpr) | 2 | 2 | 2022-06-23 | 2022-12-14 |
+| [Body cameras](#body_camera) | 7 | 6 | 2020-09-14 | 2026-02-11 |
+| [Drones](#drone) | 3 | 2 | 2017-08-09 | 2025-06-11 |
+| [Predictive policing](#predictive_policing) | 4 | 4 | 2020-07-07 | 2025-02-12 |
+| [General surveillance](#surveillance_general) | 1 | 1 | 2024-04-10 | 2024-04-10 |
 
 
 ## Timeline
 
-15 meetings surfaced a finding (15 dated, spanning 2017-08-09 to 2026-02-11; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+15 meetings surfaced a finding (15 dated, spanning 2017-08-09 to 2026-02-11; 0 of unknown date, listed last). Newest first.
 
-### 2017-08-09 -- Board of Aldermen
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-02-11.*
 
-**Ansonia Connecticut Board of Aldermen** _(topics: drone)_
+??? note "Earlier meetings (15)"
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FI3guTl4sJM&t=4416s)  > ...you to come over I I have right here and I'd be happy to and I'd be happy to look at it my point drone uh Mr y I've got some more want Mr Blackwell you had your hand up first just want to make it clear...
+    **2026-02-11 -- Board of Aldermen**
 
+    **Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
 
-### 2020-07-07 -- Board of Aldermen
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=mHzwOQ3OgIk&t=5041s)  > ...There was an officer and a supervisor that had gone there. I watched their body cam videos. Um there was definitely no rudeness. There was definitely no disrespect. There was trying to resolve...
 
-**Ansonia Connecticut Board of Aldermen** _(topics: predictive_policing)_
+    **2026-01-14 -- Board of Aldermen**
 
-- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=L6HPW0zJNeo&t=8472s)  > ...this project and go out to rebid in the market that we were in we have Foundry bids end up to be a higher number a tree bid because sometimes the low bidders would back...
+    **Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
 
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oKQG_cNTkDE&t=471s)  > ...>> Yep. And we will discuss it. Uh police >> I'll take a look at it because obviously there'll be body cam footage. So if officer was rude or disrespectful, I'll be able to watch the interaction...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oKQG_cNTkDE&t=3319s)  > ...thing about people when there's a complaint made about an officer is they all wear a body cam. So I can just sit play and watch what happened. Um and I will tell you it will probably be...
 
-### 2020-09-14 -- Board of Aldermen
+    **2025-06-11 -- Board of Aldermen**
 
-**Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
+    **Ansonia Connecticut Board of Aldermen** _(topics: drone)_
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4wXVi0jTXJU&t=1426s)  > ...i guess finances pricing moving forward we are waiting for some stuff from our our body cam uh company they've had some questions for us we've answered those so i don't have anything uh specific right...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dAbjq3EbCzY&t=2136s)  > ...And that's He sits more to the right, John. I think he's down in the 30. My drone will pick it up. Unless you just put Chargers on both sides like the Jets. Both sides. No, let's not do...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dAbjq3EbCzY&t=5086s)  > ...times and um I just curious, do we have uh in that uh the ability to uh have drone surveillance? Does anybody uh close by and other police departments or other investigations? I will tell you as...
 
+    **2025-02-12 -- Board of Aldermen**
 
-### 2020-11-03 -- Board of Aldermen
+    **Ansonia Connecticut Board of Aldermen** _(topics: predictive_policing)_
 
-**Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=V0qSwkkxEso&t=1866s)  > ...noticed there's a chain link fence that has been recently put up around the church at the base of Foundry Hill and uh I'm wondering is is that to prepare for its...
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=E_pwFNAy6WQ&t=5983s)  > ...uh talking about the additional cost that um this bill is going to to uh just for the body cam I think was going to be about almost $100,000 a year for for derby um and we had our own numbers from...
+    **2024-04-10 -- Board of Aldermen**
 
+    **Ansonia Connecticut Board of Aldermen** _(topics: surveillance_general)_
 
-### 2021-01-13 -- Board of Aldermen
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=xR2fpiWuYr4&t=1746s)  > ...and the additional survey work has been completed pipe cleaning and CCTV inspection has been completed um retaining wall is in design and um you know just moving along not not exciting...
 
-**Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
+    **2023-09-13 -- Board of Aldermen**
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VFqIA7Q_NcM&t=2379s)  > ...and then the one that we're waiting for a final number but we're working with our body cam company because we've had them for almost six years now um that's going to...
+    **Ansonia Connecticut Board of Aldermen** _(topics: predictive_policing)_
 
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=E_MKZB2H7F8&t=3114s)  > ...owner that owns two former feral buildings one is the one that you see here the form of The Foundry that abuts um the end of Main Street so as you go down right past the police station the...
 
-### 2021-07-15 -- Board of Aldermen
+    **2022-12-14 -- Board of Aldermen**
 
-**Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
+    **Ansonia Connecticut Board of Aldermen** _(topics: alpr)_
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qf-PAQq7QMQ&t=2159s)  > ...so we are we have been paying roughly 32 let's say 32 to 35 000 a year for our current body cam system and we're going up to roughly eighty thousand dollars...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=hApXtLIRNrA&t=4432s)  > ...oh absolutely okay absolutely yeah that's where the License Plate Reader and that uh that the real-time monitoring part comes in so so you only got...
 
+    **2022-06-23 -- Board of Aldermen**
 
-### 2021-08-11 -- Board of Aldermen
+    **Ansonia Connecticut Board of Aldermen** _(topics: alpr)_
 
-**Ansonia Connecticut Board of Aldermen** _(topics: predictive_policing)_
+    - `alpr_vendor` [Watch on YouTube ▸](https://www.youtube.com/watch?v=BXyNry8NL_U&t=1627s)  > ...vehicle in the next uh budget axon fleet if you drove by the police department today you may have seen uh them out working on cars in the parking...
 
-- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9fjXfxpqlXA&t=1713s)  > ...i mentioned i mentioned this to mickey one day i was sitting at the traffic light coming down foundry hill and uh [Music]...
+    **2021-08-11 -- Board of Aldermen**
 
+    **Ansonia Connecticut Board of Aldermen** _(topics: predictive_policing)_
 
-### 2022-06-23 -- Board of Aldermen
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9fjXfxpqlXA&t=1713s)  > ...i mentioned i mentioned this to mickey one day i was sitting at the traffic light coming down foundry hill and uh [Music]...
 
-**Ansonia Connecticut Board of Aldermen** _(topics: alpr)_
+    **2021-07-15 -- Board of Aldermen**
 
-- `alpr_vendor` [Watch on YouTube ▸](https://www.youtube.com/watch?v=BXyNry8NL_U&t=1627s)  > ...vehicle in the next uh budget axon fleet if you drove by the police department today you may have seen uh them out working on cars in the parking...
+    **Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
 
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qf-PAQq7QMQ&t=2159s)  > ...so we are we have been paying roughly 32 let's say 32 to 35 000 a year for our current body cam system and we're going up to roughly eighty thousand dollars...
 
-### 2022-12-14 -- Board of Aldermen
+    **2021-01-13 -- Board of Aldermen**
 
-**Ansonia Connecticut Board of Aldermen** _(topics: alpr)_
+    **Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=hApXtLIRNrA&t=4432s)  > ...oh absolutely okay absolutely yeah that's where the License Plate Reader and that uh that the real-time monitoring part comes in so so you only got...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VFqIA7Q_NcM&t=2379s)  > ...and then the one that we're waiting for a final number but we're working with our body cam company because we've had them for almost six years now um that's going to...
 
+    **2020-11-03 -- Board of Aldermen**
 
-### 2023-09-13 -- Board of Aldermen
+    **Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
 
-**Ansonia Connecticut Board of Aldermen** _(topics: predictive_policing)_
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=E_pwFNAy6WQ&t=5983s)  > ...uh talking about the additional cost that um this bill is going to to uh just for the body cam I think was going to be about almost $100,000 a year for for derby um and we had our own numbers from...
 
-- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=E_MKZB2H7F8&t=3114s)  > ...owner that owns two former feral buildings one is the one that you see here the form of The Foundry that abuts um the end of Main Street so as you go down right past the police station the...
+    **2020-09-14 -- Board of Aldermen**
 
+    **Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
 
-### 2024-04-10 -- Board of Aldermen
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4wXVi0jTXJU&t=1426s)  > ...i guess finances pricing moving forward we are waiting for some stuff from our our body cam uh company they've had some questions for us we've answered those so i don't have anything uh specific right...
 
-**Ansonia Connecticut Board of Aldermen** _(topics: surveillance_general)_
+    **2020-07-07 -- Board of Aldermen**
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=xR2fpiWuYr4&t=1746s)  > ...and the additional survey work has been completed pipe cleaning and CCTV inspection has been completed um retaining wall is in design and um you know just moving along not not exciting...
+    **Ansonia Connecticut Board of Aldermen** _(topics: predictive_policing)_
 
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=L6HPW0zJNeo&t=8472s)  > ...this project and go out to rebid in the market that we were in we have Foundry bids end up to be a higher number a tree bid because sometimes the low bidders would back...
 
-### 2025-02-12 -- Board of Aldermen
+    **2017-08-09 -- Board of Aldermen**
 
-**Ansonia Connecticut Board of Aldermen** _(topics: predictive_policing)_
+    **Ansonia Connecticut Board of Aldermen** _(topics: drone)_
 
-- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=V0qSwkkxEso&t=1866s)  > ...noticed there's a chain link fence that has been recently put up around the church at the base of Foundry Hill and uh I'm wondering is is that to prepare for its...
-
-
-### 2025-06-11 -- Board of Aldermen
-
-**Ansonia Connecticut Board of Aldermen** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dAbjq3EbCzY&t=2136s)  > ...And that's He sits more to the right, John. I think he's down in the 30. My drone will pick it up. Unless you just put Chargers on both sides like the Jets. Both sides. No, let's not do...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dAbjq3EbCzY&t=5086s)  > ...times and um I just curious, do we have uh in that uh the ability to uh have drone surveillance? Does anybody uh close by and other police departments or other investigations? I will tell you as...
-
-
-### 2026-01-14 -- Board of Aldermen
-
-**Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oKQG_cNTkDE&t=471s)  > ...>> Yep. And we will discuss it. Uh police >> I'll take a look at it because obviously there'll be body cam footage. So if officer was rude or disrespectful, I'll be able to watch the interaction...
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oKQG_cNTkDE&t=3319s)  > ...thing about people when there's a complaint made about an officer is they all wear a body cam. So I can just sit play and watch what happened. Um and I will tell you it will probably be...
-
-
-### 2026-02-11 -- Board of Aldermen
-
-**Ansonia Connecticut Board of Aldermen** _(topics: body_camera)_
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=mHzwOQ3OgIk&t=5041s)  > ...There was an officer and a supervisor that had gone there. I watched their body cam videos. Um there was definitely no rudeness. There was definitely no disrespect. There was trying to resolve...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FI3guTl4sJM&t=4416s)  > ...you to come over I I have right here and I'd be happy to and I'd be happy to look at it my point drone uh Mr y I've got some more want Mr Blackwell you had your hand up first just want to make it clear...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -348,7 +307,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -458,11 +416,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -538,6 +491,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Ansonia's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/ansonia-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip ansonia-meeting-transcripts.zip -d ansonia
+cd ansonia
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

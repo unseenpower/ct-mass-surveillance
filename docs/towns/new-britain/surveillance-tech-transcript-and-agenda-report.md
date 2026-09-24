@@ -3,25 +3,29 @@
 
 ## At a glance: New Britain
 
+<p class="glance-headline"><strong>11 mentions</strong> of surveillance technology in <strong>10</strong> New Britain meetings, 2021–2025</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">11</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 10 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2021–2025</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-10-04 → 2025-08-14</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">6</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Body cameras, Drones, Facial recognition, Predictive policing, Purchasing / procurement, General surveillance</span></a>
+<a class="glance-card" href="../../../analysis/towns/new-britain-alpr-searches.html"><span class="gc-big">3,026</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by New Britain police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">32%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">281 of 869 meetings</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">17</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
+</div>
+
+**Not the full history:** transcripts begin **2019-04-01**, but New Britain's published video archive goes back to **2017-01-11**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
 This report collects every mention of surveillance technology found in **New Britain**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **11 mentions** across **10 meetings**
-- **First mention:** 2021-10-04  |  **Most recent:** 2025-08-14
-- **Technologies discussed:** body_camera, drone, facial_recognition, predictive_policing, purchasing_broker, surveillance_general
-- **Coverage:** 281 of 869 known New Britain meetings transcribed (32%)
-- **Not the full history:** transcripts begin **2019-04-01**, but New Britain's published video archive goes back to **2017-01-11**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-- **17 additional mentions** in agendas and minutes (keyword scan, not yet human-reviewed)
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
+- [Licence-plate searches by New Britain police](#licence-plate-searches-by-new-britain-police)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -32,130 +36,114 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
-## Get the full transcripts
+## Licence-plate searches by New Britain police
 
-**[Download New Britain's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/new-britain-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+Six Connecticut towns have released the Flock audit log of every search run against their cameras. Below is what that record holds for New Britain's own police department -- not a finding, just the log.
 
 
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+**New Britain CT PD**
+
+- **3,026 searches** between 2024-09 and 2025-09 (13 months with at least one search)
+- **61 camera networks** swept by the average single search
+- **99%** of them reached beyond New Britain's own cameras
+- The commonest stated reason is free text or a numeric code, rather than one of the preset categories Flock introduced in December 2025
+
+**[Open New Britain CT PD's search dashboard](../../analysis/towns/new-britain-alpr-searches.html)** -- every one of those searches, filterable by month, stated reason, search type and how far it reached, with a **[How to read this](../../analysis/towns/new-britain-alpr-searches.html#how)** tab covering what each field means and what the record cannot tell you.
 
 
-**How to use it**
-
-```bash
-unzip new-britain-meeting-transcripts.zip -d new-britain
-cd new-britain
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+> **A floor, not a total.** The record only sees queries that reached those six towns' cameras. A single Flock query typically sweeps thousands of networks at once, so most of a Connecticut department's searching does land in it -- but the real count is higher. Nothing in it names an officer, shows a plate, or records what any search returned.
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+**Back to the meetings.** Everything above this point was about licence-plate *searches* -- what the town's police looked up. Everything below is about what was *said*: each mention is a moment in a recorded public meeting where a surveillance technology came up, with a link to that moment in the video.
+
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| body_camera | 3 | 2 | 2022-11-10 | 2024-06-27 |
-| drone | 1 | 1 | 2024-02-21 | 2024-02-21 |
-| facial_recognition | 1 | 1 | 2021-10-04 | 2021-10-04 |
-| predictive_policing | 2 | 2 | 2023-05-08 | 2023-05-19 |
-| purchasing_broker | 1 | 1 | 2025-06-26 | 2025-06-26 |
-| surveillance_general | 3 | 3 | 2024-08-15 | 2025-08-14 |
+| [Body cameras](#body_camera) | 3 | 2 | 2022-11-10 | 2024-06-27 |
+| [Drones](#drone) | 1 | 1 | 2024-02-21 | 2024-02-21 |
+| [Facial recognition](#facial_recognition) | 1 | 1 | 2021-10-04 | 2021-10-04 |
+| [Predictive policing](#predictive_policing) | 2 | 2 | 2023-05-08 | 2023-05-19 |
+| [Purchasing / procurement](#purchasing_broker) | 1 | 1 | 2025-06-26 | 2025-06-26 |
+| [General surveillance](#surveillance_general) | 3 | 3 | 2024-08-15 | 2025-08-14 |
 
 
 ## Timeline
 
-10 meetings surfaced a finding (10 dated, spanning 2021-10-04 to 2025-08-14; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+10 meetings surfaced a finding (10 dated, spanning 2021-10-04 to 2025-08-14; 0 of unknown date, listed last). Newest first.
 
-### 2021-10-04 -- Board of Education
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2025-08-14.*
 
-**New Britain Board of Education - 10/4/2021** _(topics: facial_recognition)_
+??? note "Earlier meetings (10)"
 
-- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=zrZ1Vhr1JHk&t=2128s)  > ...does so every single camera is intelligent it has analytics we're not doing any sort of facial recognition there's no ferpa issues or anything like that that i know are a big...
+    **2025-08-14 -- Common Council**
 
+    **Common Council Regular Meeting** _(topics: surveillance_general)_
 
-### 2022-11-10 -- Common Council
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=zc0NINqurYc&t=2964s)  > ...>> This is regarding $32,142 to Mammoth Security for the implementation of a new CCTV system at the water department's water filtration plant. I urge adoption....
 
-**Common Council Regular Meeting** _(topics: body_camera)_
+    **2025-06-26 -- Common Council**
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7NIeUA7hZDA&t=1152s)  > ...it's from the Bureau of Justice assistance says funding available under the body worn camera policy and implementation program uh these are funds that will help...
+    **Common Council Regular Meeting** _(topics: purchasing_broker)_
 
+    - `purchasing_broker` [Watch on YouTube ▸](https://www.youtube.com/watch?v=1TL_61l6SI8&t=2615s)  > ...we utilize for our firewalls. Um you'll actually see the following resolution is a CDWG um resolution for a UPS that equipment. If I would have you that...
 
-### 2023-05-08 -- Board of Education
+    **2024-09-12 -- Common Council**
 
-**New Britain Board of Education - 05-08-23** _(topics: predictive_policing)_
+    **Common Council Regular Meeting** _(topics: surveillance_general)_
 
-- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=-pAFc06j0Hc&t=1366s)  > ...very good public speaker last night this week um Dr Gotham for coming behalf of class it was fun and but I also want to Echo two that was a deposit on the the name...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nCCvOF9c_T8&t=5825s)  > ...of galvaniz Steel storm pipe um the existing storm pipe was tested through the CCTV in inspected and it exposed that the pipeline is nonexisting resulting in sink holes on the road and...
 
+    **2024-08-15 -- Common Council**
 
-### 2023-05-19 -- Consolidated Subcommittee
+    **Common Council Regular Meeting** _(topics: surveillance_general)_
 
-**Consolidated Subcommittee Budget Meeting** _(topics: predictive_policing)_
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iSaFOMr0Oq4&t=630s)  > ...flooding along Eaton and Newberry Eaton Hampton Eaton and new blueberry there are Simple Solutions run a CCTV camera down the infrastructure pipes Andor perform flow monitoring to identify...
 
-- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=m0jm5m5zMjM&t=6467s)  > ...school where I started my career at Manchester High School they still had a Foundry uh we don't we don't melt metal anymore in high schools but I think uh kind of out with the old Indian with the...
+    **2024-06-27 -- Common Council**
 
+    **Common Council Regular Meeting** _(topics: body_camera)_
 
-### 2024-02-21 -- Zoning Subcommittee
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3609s)  > ...in securing uh money for body cams so Chief if you could just talk a little bit about the body cam system and how our our officers use it I know there was extensive training in in body cams and...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3665s)  > ...second floor with the detective division uh and they can come in and do that so it all connects to both our body cam video and our uh unlimited storage so we have that at our disposal moving forward...
 
-**Zoning Subcommittee Special Meeting** _(topics: drone)_
+    **2024-02-21 -- Zoning Subcommittee**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eVxs3PtzzXg&t=1739s)  > ...like grilling because I know it's like other development had done previous with like drone and Corbin they don't allow you to have grills or anything outside so are there going to be able to have an...
+    **Zoning Subcommittee Special Meeting** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eVxs3PtzzXg&t=1739s)  > ...like grilling because I know it's like other development had done previous with like drone and Corbin they don't allow you to have grills or anything outside so are there going to be able to have an...
 
-### 2024-06-27 -- Common Council
+    **2023-05-19 -- Consolidated Subcommittee**
 
-**Common Council Regular Meeting** _(topics: body_camera)_
+    **Consolidated Subcommittee Budget Meeting** _(topics: predictive_policing)_
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3609s)  > ...in securing uh money for body cams so Chief if you could just talk a little bit about the body cam system and how our our officers use it I know there was extensive training in in body cams and...
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=m0jm5m5zMjM&t=6467s)  > ...school where I started my career at Manchester High School they still had a Foundry uh we don't we don't melt metal anymore in high schools but I think uh kind of out with the old Indian with the...
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=H_1B-BuU2h4&t=3665s)  > ...second floor with the detective division uh and they can come in and do that so it all connects to both our body cam video and our uh unlimited storage so we have that at our disposal moving forward...
+    **2023-05-08 -- Board of Education**
 
+    **New Britain Board of Education - 05-08-23** _(topics: predictive_policing)_
 
-### 2024-08-15 -- Common Council
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=-pAFc06j0Hc&t=1366s)  > ...very good public speaker last night this week um Dr Gotham for coming behalf of class it was fun and but I also want to Echo two that was a deposit on the the name...
 
-**Common Council Regular Meeting** _(topics: surveillance_general)_
+    **2022-11-10 -- Common Council**
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iSaFOMr0Oq4&t=630s)  > ...flooding along Eaton and Newberry Eaton Hampton Eaton and new blueberry there are Simple Solutions run a CCTV camera down the infrastructure pipes Andor perform flow monitoring to identify...
+    **Common Council Regular Meeting** _(topics: body_camera)_
 
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7NIeUA7hZDA&t=1152s)  > ...it's from the Bureau of Justice assistance says funding available under the body worn camera policy and implementation program uh these are funds that will help...
 
-### 2024-09-12 -- Common Council
+    **2021-10-04 -- Board of Education**
 
-**Common Council Regular Meeting** _(topics: surveillance_general)_
+    **New Britain Board of Education - 10/4/2021** _(topics: facial_recognition)_
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nCCvOF9c_T8&t=5825s)  > ...of galvaniz Steel storm pipe um the existing storm pipe was tested through the CCTV in inspected and it exposed that the pipeline is nonexisting resulting in sink holes on the road and...
-
-
-### 2025-06-26 -- Common Council
-
-**Common Council Regular Meeting** _(topics: purchasing_broker)_
-
-- `purchasing_broker` [Watch on YouTube ▸](https://www.youtube.com/watch?v=1TL_61l6SI8&t=2615s)  > ...we utilize for our firewalls. Um you'll actually see the following resolution is a CDWG um resolution for a UPS that equipment. If I would have you that...
-
-
-### 2025-08-14 -- Common Council
-
-**Common Council Regular Meeting** _(topics: surveillance_general)_
-
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=zc0NINqurYc&t=2964s)  > ...>> This is regarding $32,142 to Mammoth Security for the implementation of a new CCTV system at the water department's water filtration plant. I urge adoption....
+    - `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=zrZ1Vhr1JHk&t=2128s)  > ...does so every single camera is intelligent it has analytics we're not doing any sort of facial recognition there's no ferpa issues or anything like that that i know are a big...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -287,7 +275,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### video_analytics
 
 *(no findings)*
-
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
@@ -561,11 +548,6 @@ the City with CCTV investigations; and
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 4
@@ -666,6 +648,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | --- | --- |
 | City of New Britain (Granicus) | videos |
 | City of New Britain (Granicus) | streams |
+
+
+## Get the full transcripts
+
+**[Download New Britain's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/new-britain-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip new-britain-meeting-transcripts.zip -d new-britain
+cd new-britain
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

@@ -3,24 +3,26 @@
 
 ## At a glance: Easton
 
+<p class="glance-headline"><strong>1 mention</strong> of surveillance technology in <strong>1</strong> Easton meeting, 2022</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">1</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 1 meeting · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2022</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2022-04-20 → 2022-04-20</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">83%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">133 of 161 meetings</span></a>
+</div>
+
+**Still incomplete:** 28 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+
 This report collects every mention of surveillance technology found in **Easton**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **1 mention** across **1 meeting**
-- **First mention:** 2022-04-20  |  **Most recent:** 2022-04-20
-- **Technologies discussed:** drone
-- **Coverage:** 133 of 161 known Easton meetings transcribed (83%)
-- **Still incomplete:** 28 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,60 +33,34 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Easton's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/easton-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip easton-meeting-transcripts.zip -d easton
-cd easton
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| drone | 1 | 1 | 2022-04-20 | 2022-04-20 |
+| [Drones](#drone) | 1 | 1 | 2022-04-20 | 2022-04-20 |
 
 
 ## Timeline
 
-1 meetings surfaced a finding (1 dated, spanning 2022-04-20 to 2022-04-20; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+1 meetings surfaced a finding (1 dated, spanning 2022-04-20 to 2022-04-20; 0 of unknown date, listed last). Newest first.
 
-### 2022-04-20 -- Board of Education
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2022-04-20.*
 
-**Easton Board of Education Meeting** _(topics: drone)_
+??? note "Earlier meetings (1)"
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZvyDU8RUhmg&t=4114s)  > ...uh that'll take us to item seven board committee reports um so devin i know uh we had our dji community we'll come there as well so devin...
+    **2022-04-20 -- Board of Education**
+
+    **Easton Board of Education Meeting** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZvyDU8RUhmg&t=4114s)  > ...uh that'll take us to item seven board committee reports um so devin i know uh we had our dji community we'll come there as well so devin...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -186,7 +162,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### video_analytics
 
 *(no findings)*
-
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
@@ -297,11 +272,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -381,6 +351,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Easton's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/easton-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip easton-meeting-transcripts.zip -d easton
+cd easton
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

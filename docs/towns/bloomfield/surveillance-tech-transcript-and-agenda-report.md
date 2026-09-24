@@ -3,24 +3,28 @@
 
 ## At a glance: Bloomfield
 
+<p class="glance-headline"><strong>1 mention</strong> of surveillance technology in <strong>1</strong> Bloomfield meeting, 2018</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">1</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 1 meeting · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2018</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2018-09-11 → 2018-09-11</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Predictive policing</span></a>
+<a class="glance-card" href="../../../analysis/towns/bloomfield-alpr-searches.html"><span class="gc-big">6,471</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Bloomfield police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">20%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">11 of 55 meetings</span></a>
+</div>
+
+**Not the full history:** transcripts begin **2018-01-09**, but Bloomfield's published video archive goes back to **2017-03-13**. Meetings before 2018 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
 This report collects every mention of surveillance technology found in **Bloomfield**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **1 mention** across **1 meeting**
-- **First mention:** 2018-09-11  |  **Most recent:** 2018-09-11
-- **Technologies discussed:** predictive_policing
-- **Coverage:** 11 of 55 known Bloomfield meetings transcribed (20%)
-- **Not the full history:** transcripts begin **2018-01-09**, but Bloomfield's published video archive goes back to **2017-03-13**. Meetings before 2018 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
+- [Licence-plate searches by Bloomfield police](#licence-plate-searches-by-bloomfield-police)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,60 +35,54 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
-## Get the full transcripts
+## Licence-plate searches by Bloomfield police
 
-**[Download Bloomfield's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/bloomfield-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+Six Connecticut towns have released the Flock audit log of every search run against their cameras. Below is what that record holds for Bloomfield's own police department -- not a finding, just the log.
 
 
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+**Bloomfield CT PD**
+
+- **6,471 searches** between 2023-07 and 2026-07 (37 months with at least one search)
+- **406 camera networks** swept by the average single search
+- **99%** of them reached beyond Bloomfield's own cameras
+- The commonest stated reason is free text or a numeric code, rather than one of the preset categories Flock introduced in December 2025
+
+**[Open Bloomfield CT PD's search dashboard](../../analysis/towns/bloomfield-alpr-searches.html)** -- every one of those searches, filterable by month, stated reason, search type and how far it reached, with a **[How to read this](../../analysis/towns/bloomfield-alpr-searches.html#how)** tab covering what each field means and what the record cannot tell you.
 
 
-**How to use it**
-
-```bash
-unzip bloomfield-meeting-transcripts.zip -d bloomfield
-cd bloomfield
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+> **A floor, not a total.** The record only sees queries that reached those six towns' cameras. A single Flock query typically sweeps thousands of networks at once, so most of a Connecticut department's searching does land in it -- but the real count is higher. Nothing in it names an officer, shows a plate, or records what any search returned.
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+**Back to the meetings.** Everything above this point was about licence-plate *searches* -- what the town's police looked up. Everything below is about what was *said*: each mention is a moment in a recorded public meeting where a surveillance technology came up, with a link to that moment in the video.
+
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| predictive_policing | 1 | 1 | 2018-09-11 | 2018-09-11 |
+| [Predictive policing](#predictive_policing) | 1 | 1 | 2018-09-11 | 2018-09-11 |
 
 
 ## Timeline
 
-1 meetings surfaced a finding (1 dated, spanning 2018-09-11 to 2018-09-11; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+1 meetings surfaced a finding (1 dated, spanning 2018-09-11 to 2018-09-11; 0 of unknown date, listed last). Newest first.
 
-### 2018-09-11 -- Town Council
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2018-09-11.*
 
-**Town Council Sept. 11 2018** _(topics: predictive_policing)_
+??? note "Earlier meetings (1)"
 
-- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=R9PkZeJuSY4&t=684s)  > ...helping and same so we do do those type things councillor McCleary councillor Gotham 11 man thank you for your presentation Lorna's right and I say listen we're at...
+    **2018-09-11 -- Town Council**
+
+    **Town Council Sept. 11 2018** _(topics: predictive_policing)_
+
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=R9PkZeJuSY4&t=684s)  > ...helping and same so we do do those type things councillor McCleary councillor Gotham 11 man thank you for your presentation Lorna's right and I say listen we're at...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -186,7 +184,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### video_analytics
 
 *(no findings)*
-
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
@@ -297,11 +294,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -373,6 +365,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Bloomfield's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/bloomfield-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip bloomfield-meeting-transcripts.zip -d bloomfield
+cd bloomfield
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

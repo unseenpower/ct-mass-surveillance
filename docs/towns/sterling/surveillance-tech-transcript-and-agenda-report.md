@@ -3,24 +3,25 @@
 
 ## At a glance: Sterling
 
+<p class="glance-headline"><strong>4 mentions</strong> of surveillance technology in <strong>3</strong> Sterling meetings, 2025–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">4</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 3 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2025–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2025-06-10 → 2026-05-12</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones, Purchasing / procurement</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">96%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">132 of 137 meetings</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">1</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
+</div>
+
 This report collects every mention of surveillance technology found in **Sterling**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **4 mentions** across **3 meetings**
-- **First mention:** 2025-06-10  |  **Most recent:** 2026-05-12
-- **Technologies discussed:** drone, purchasing_broker
-- **Coverage:** 132 of 137 known Sterling meetings transcribed (96%)
-- **1 additional mention** in agendas and minutes (keyword scan, not yet human-reviewed)
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,77 +32,48 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Sterling's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/sterling-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip sterling-meeting-transcripts.zip -d sterling
-cd sterling
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| drone | 3 | 2 | 2025-06-10 | 2026-05-12 |
-| purchasing_broker | 1 | 1 | 2026-02-11 | 2026-02-11 |
+| [Drones](#drone) | 3 | 2 | 2025-06-10 | 2026-05-12 |
+| [Purchasing / procurement](#purchasing_broker) | 1 | 1 | 2026-02-11 | 2026-02-11 |
 
 
 ## Timeline
 
-3 meetings surfaced a finding (3 dated, spanning 2025-06-10 to 2026-05-12; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+3 meetings surfaced a finding (3 dated, spanning 2025-06-10 to 2026-05-12; 0 of unknown date, listed last). Newest first.
 
-### 2025-06-10 -- Economic Development Commission
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-05-12.*
 
-**Sterling EDC Meeting - Land Surveying RFP - 06/10/2025** _(topics: drone)_
+??? note "Earlier meetings (3)"
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=e1JiwfSGL-0&t=1772s)  > ...look at to the aerial. take a look at those children get older. So, we do have drone pictures of all industrial park including this property too. If you'd like to see them,...
+    **2026-05-12 -- Economic Development Commission**
 
+    **Sterling EDC-Regular Meeting - 05/12/2026** _(topics: drone)_
 
-### 2026-02-11 -- Board of Finance
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YsRoKNv67Ms&t=3347s)  > ...>> Okay. >> We have aerial maps of the industrial park. We got drone cameras of all the the full industrial park. They want that. We got plenty of pictures. So...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YsRoKNv67Ms&t=3356s)  > ...that. We got plenty of pictures. So >> yeah, we have a pretty good map though with the drone. So >> Okay. So this is something all new for me....
 
-**Sterling BOF-Regular Meeting - 02/11/2026** _(topics: purchasing_broker)_
+    **2026-02-11 -- Board of Finance**
 
-- `purchasing_broker` [Watch on YouTube ▸](https://www.youtube.com/watch?v=B6JXZOXORK8&t=227s)  > ...new business. Letter A, consider an act on a CDWG quote quote of um I think that's computer discount warehouse. I'm not...
+    **Sterling BOF-Regular Meeting - 02/11/2026** _(topics: purchasing_broker)_
 
+    - `purchasing_broker` [Watch on YouTube ▸](https://www.youtube.com/watch?v=B6JXZOXORK8&t=227s)  > ...new business. Letter A, consider an act on a CDWG quote quote of um I think that's computer discount warehouse. I'm not...
 
-### 2026-05-12 -- Economic Development Commission
+    **2025-06-10 -- Economic Development Commission**
 
-**Sterling EDC-Regular Meeting - 05/12/2026** _(topics: drone)_
+    **Sterling EDC Meeting - Land Surveying RFP - 06/10/2025** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YsRoKNv67Ms&t=3347s)  > ...>> Okay. >> We have aerial maps of the industrial park. We got drone cameras of all the the full industrial park. They want that. We got plenty of pictures. So...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YsRoKNv67Ms&t=3356s)  > ...that. We got plenty of pictures. So >> yeah, we have a pretty good map though with the drone. So >> Okay. So this is something all new for me....
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=e1JiwfSGL-0&t=1772s)  > ...look at to the aerial. take a look at those children get older. So, we do have drone pictures of all industrial park including this property too. If you'd like to see them,...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -213,7 +185,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### video_analytics
 
 *(no findings)*
-
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
@@ -330,11 +301,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -414,6 +380,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Sterling's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/sterling-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip sterling-meeting-transcripts.zip -d sterling
+cd sterling
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

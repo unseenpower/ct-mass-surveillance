@@ -3,24 +3,26 @@
 
 ## At a glance: Kent
 
+<p class="glance-headline"><strong>78 mentions</strong> of surveillance technology in <strong>27</strong> Kent meetings, 2021–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">78</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 27 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2021–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-10-18 → 2026-08-13</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Body cameras, Doorbell-camera partnerships, Drones, Facial recognition</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">74%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">696 of 944 meetings</span></a>
+</div>
+
+**Not the full history:** transcripts begin **2020-07-24**, but Kent's published video archive goes back to **2016-11-03**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
 This report collects every mention of surveillance technology found in **Kent**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **79 mentions** across **28 meetings**
-- **First mention:** 2021-10-18  |  **Most recent:** 2026-08-13
-- **Technologies discussed:** alpr, body_camera, doorbell_partnership, drone, facial_recognition
-- **Coverage:** 696 of 944 known Kent meetings transcribed (74%)
-- **Not the full history:** transcripts begin **2020-07-24**, but Kent's published video archive goes back to **2016-11-03**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,355 +33,244 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Kent's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/kent-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip kent-meeting-transcripts.zip -d kent
-cd kent
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 1 | 1 | 2026-08-04 | 2026-08-04 |
-| body_camera | 8 | 5 | 2022-01-03 | 2023-02-08 |
-| doorbell_partnership | 1 | 1 | 2024-07-10 | 2024-07-10 |
-| drone | 67 | 19 | 2021-10-18 | 2026-08-13 |
-| facial_recognition | 2 | 2 | 2022-07-21 | 2024-09-25 |
+| [Body cameras](#body_camera) | 8 | 5 | 2022-01-03 | 2023-02-08 |
+| [Doorbell-camera partnerships](#doorbell_partnership) | 1 | 1 | 2024-07-10 | 2024-07-10 |
+| [Drones](#drone) | 67 | 19 | 2021-10-18 | 2026-08-13 |
+| [Facial recognition](#facial_recognition) | 2 | 2 | 2022-07-21 | 2024-09-25 |
 
 
 ## Timeline
 
-28 meetings surfaced a finding (28 dated, spanning 2021-10-18 to 2026-08-13; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+27 meetings surfaced a finding (27 dated, spanning 2021-10-18 to 2026-08-13; 0 of unknown date, listed last). Newest first.
 
-### 2021-10-18 -- Park and Recreation
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-08-13.*
 
-**PARK AND RECREATION COMMISSION OCTOBER 18, 2021** _(topics: drone)_
+??? note "Earlier meetings (27)"
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5OWEELZCcgE&t=4647s)  > ...maybe in the springtime life you can get somebody to come over with a drone and pretend like it's a tennis ball and go back and forth to promote it even more...
+    **2026-08-13 -- Planning and Zoning Commission**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5OWEELZCcgE&t=4656s)  > ...we could probably figure out something like that yeah yeah is lori still in charge of the drone program yep...
+    **PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=672s)  > ...>> go ahead. >> I was just going to say, um, I I have two different, um, drone videos of the final balloon test that we did this past Sunday, and they're on my screen if you...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=682s)  > ...Sunday, and they're on my screen if you want to screen share and you want to see them. It's I'm I'm I am not a drone um, photographer person, but I'm happy to share them....
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=753s)  > ...You guys are all seeing this? >> Yes. I mean, at least I am. using a drone was a good idea. >> Okay. So, let me just um so if you can see my cursor....
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=808s)  > ...roads in the area. I just wanted you to get that sense for yourself. And the drone right now is at um 70 uh I think it's 120 ft above the elevation of the house site and the...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=876s)  > ...>> So, I am now at treetop level. It was um a little bit amusing to try and actually to find the the drone itself, but um I mean find the balloons, but eventually I did. And so now I'm at treetop level...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=906s)  > ...the other direction. Um this is from the field looking towards the towards the drone the uh balloons. and...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=992s)  > ...>> That's right. Yep. >> Okay. So, that's pretty much the best you're going to get out of the drone stuff that I took. Okay. Well, I appreciate your effort. Um, I have been...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1137s)  > ...trees were removed, you better believe you would see those balloons. Um, the drone footage was beautiful. Part of the reason that drone footage was beautiful because as you swung around to the...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1139s)  > ...you would see those balloons. Um, the drone footage was beautiful. Part of the reason that drone footage was beautiful because as you swung around to the panorama, the majority of the hilltops...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1335s)  > ...at the very top we we even went into Washington. We did Lake Waramug Road. But it's obvious from the drone video that there's no way we're going to see those...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1401s)  > ...that's been provided um [clears throat] and the the drive by that we did. I think with the drone is great. Don't get me wrong. I think you know you've you've done you've put a lot of work...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=2842s)  > ...>> Yes. >> Yeah. Well, that's what you saw with the drone view that she showed. >> But there's still another 75 to 80 feet of elevation behind the house before you...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=8399s)  > ...the ones that was tagged as not, you know, not not initially on the removal plan. Um, and then we did get a drone up in the air recently. And this hump here is where our house is. Uh, I have a few...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=8835s)  > ...presentation that you gave showing us views from the house out and looking back and the drone footage at least shows us that there hasn't been an effort to get away with more clearing um...
 
-### 2022-01-03 -- Park and Recreation
+    **2026-07-09 -- Planning and Zoning Commission**
 
-**PARK AND RECREATION SPECIAL  MEETING JANUARY 3, 2022** _(topics: body_camera)_
+    **P & Z JULY 9, 2026** _(topics: drone)_
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kQm9VVkMvl4&t=4007s)  > ...than our bylaws can we change that and increase it while you're doing the body cam because i mean kind of i don't know how long it's been a thousand dollars but...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kClM4YONaOE&t=5004s)  > ...>> Okay. >> Yeah. as a as an option, would it be possible and that you you can say no to this, but to provide just a drone image or something from us from above so we can get a I I I'm in my head trying to figure out where the line is and what people would be seeing versus what they would be seeing....
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kClM4YONaOE&t=5056s)  > ...make the sub subdivision like this within the horizon line we have to be very cautious about these because then it it sets a precedent. >> Um Sarah when you say a drone image do you want I have some aerial images. >> Aerials would be great. Yeah. So, if you guys while you're talking, I might be able to find them and send them over, but um I'm not exactly sure how close...
 
+    **2026-04-21 -- Board of Selectmen**
 
-### 2022-02-07 -- Park and Recreation
+    **BOARD OF SELECTMEN APRIL 21, 2026** _(topics: drone)_
 
-**PARK AND RECREATION FEBRUARY 7, 2022** _(topics: drone)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Joz2buWRKqE&t=351s)  > ...to make it that would be >> and then >> drone grant. Okay. >> And then there was right after that or it's actually a part of that but it...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Joz2buWRKqE&t=421s)  > ...please let me know. so I can ensure compliance going forward. The National Public Safety Drone Donation Program created the fundraiser page as a way for individuals or organizations who wish to...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Joz2buWRKqE&t=447s)  > ...donations were returned to those who contributed. and I provided you with a copy of the drone donation request documentation. There's any additional request uh...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_R8R11O7XDQ&t=4283s)  > ...emergency management used her for the the ice jamming we used her uh three days a week uh we had a drone from one of the uh asian students so it was fantastic...
+    **2025-05-20 -- Board of Selectmen**
 
+    **BOARD OF SELECTMEN SPECIAL MAY 20, 2025** _(topics: drone)_
 
-### 2022-05-09 -- Planning and Zoning Commission
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=563s)  > ...is a picture of um them getting ready in the morning. The green device is the underwater drone they used and the aerial drone is there too. And...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=565s)  > ...the morning. The green device is the underwater drone they used and the aerial drone is there too. And um so the first uh study part of the...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=663s)  > ...were testing would um go by the buoys and as the wave train came in um an aerial drone would follow it would follow that wave train of all the boats. So they so they knew not only the size...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=678s)  > ...were moving. Um how many waves were in the wave train. Uh everything was picked up by the by the drone work. And they also had the underwater drone uh to look at what was happening in the the...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=681s)  > ...the wave train. Uh everything was picked up by the by the drone work. And they also had the underwater drone uh to look at what was happening in the the the sediment environment, seeing what...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=693s)  > ...the sediment environment, seeing what was going on under the water. So they the the drone operator had a had a device he could look and see what the what the drone was seeing at all times,...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=699s)  > ...So they the the drone operator had a had a device he could look and see what the what the drone was seeing at all times, what what the drone was recording underwater. So the...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=701s)  > ...a device he could look and see what the what the drone was seeing at all times, what what the drone was recording underwater. So the the the setup was the boats would pass...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=906s)  > ...um they were curious to see if that was happen on Warmachog 2. Sure enough, um if you watch the drone footage, you can actually see as the the waves come into the shallows, you can really see how...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=936s)  > ...what was happening at the surface with the wave, but they had a camera and a drone underwater looking at what was happening in the shallow environment. So they have footage of all that and it...
 
-**PLANNING & ZONING POCD MAY 9, 2022** _(topics: drone)_
+    **2025-04-28 -- Inland Wetlands**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=f6Hq5QPtrgs&t=450s)  > ...um and he shoots a lot of the northwest connecticut towns with his drone um so i'm i'm wondering if he might have i know he recently just put up three or...
+    **INLAND WETLANDS APRIL 28, 2025** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=f6Hq5QPtrgs&t=470s)  > ...um you know he's he's done the whole valley he's got tons of drone shots that might be something that you know we could look at...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LEimXlR3gJM&t=8026s)  > ...Sure. I'm just Ken Johnson is saying something. Sorry. Does that I used to have a drone and you could fly the drone. I was thinking of that. But I think it's illegal. Is it...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LEimXlR3gJM&t=8028s)  > ...something. Sorry. Does that I used to have a drone and you could fly the drone. I was thinking of that. But I think it's illegal. Is it illegal? It's illegal. Don't It better...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LEimXlR3gJM&t=8037s)  > ...illegal? It's illegal. Don't It better be. Unfortunately, I don't have that drone anymore. But maybe someone knows has a neighbor or someone who has a drone....
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LEimXlR3gJM&t=8043s)  > ...Unfortunately, I don't have that drone anymore. But maybe someone knows has a neighbor or someone who has a drone. It's illegal, Ken. We can't do it. It's illegal. To fly a drone any place that I...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LEimXlR3gJM&t=8047s)  > ...neighbor or someone who has a drone. It's illegal, Ken. We can't do it. It's illegal. To fly a drone any place that I know of, unless you can't use it for land, right? Right....
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LEimXlR3gJM&t=8232s)  > ...stick and he was leading us out and I was thinking I wish there was something like a drone that could get us out of here. A All right. Well, you guys, thank you...
 
+    **2025-04-09 -- Board of Finance**
 
-### 2022-05-12 -- Planning and Zoning Commission
+    **BOARD OF FINANCE SPECIAL APRIL 9, 2025** _(topics: drone)_
 
-**PLANNING & ZONING COMMISSION MAY 12, 2022** _(topics: drone)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=221v5-yVy2w&t=4085s)  > ...management now doing more coordination. So these are the increases we looked at. They had asked for a drone. We thought maybe we could use you know some of the drones that are here from some of the...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=221v5-yVy2w&t=4092s)  > ...drones that are here from some of the schools if we needed it. Marblewood has an excellent drone program and so on. So instead of us owning let's use again making some cuts there. There is an...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=N-EDlOhN7nI&t=5323s)  > ...old now or less i believe yeah perhaps we should consider the use of drone footage i asked about that and i was told that i...
+    **2025-04-02 -- Board of Selectmen**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=N-EDlOhN7nI&t=5330s)  > ...i asked about that and i was told that i could not get a drone why well because people expect a certain...
+    **BOARD OF SELECTMEN APRIL 2, 2025** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=N-EDlOhN7nI&t=5366s)  > ...privacy and that doesn't just stop when you know at 10 feet as long as you keep your drone above the public road you can be the person to help establish that case law...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=2623s)  > ...are a lot of regulations with drones like you can't um you can't fly a drone over people which might be a problem for you using it in an emergency...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=2637s)  > ...using it in an emergency scene um have you looked into maybe just hiring a drone operator when you needed particular drone it might be a lot lot easier and a...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=2642s)  > ...hiring a drone operator when you needed particular drone it might be a lot lot easier and a lot cheaper it's possible I mean uh we...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=2717s)  > ...for free um when the big I know during the first big ice Jam marvelwood provided a lot of Drone footage so that might be worth exploring to make sure they're still...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=2731s)  > ...interested in doing that kind of thing okay and I know South K School used to have a drone I don't know if they still do it might be looking into Kent school and South Kent to see if they have...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=2797s)  > ...um by Susie Rundle either once or twice so it's it's pretty much the same exact thing for what a drone drone yeah no I was talking about the budget overall I'm sorry I'm sorry the budget...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=3270s)  > ...one well I'm I'm all right I'm a little reant on the drone at this point if we could come up with different things now the 800 Portables I'm 100% behind we need to...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=3947s)  > ...made I understand pretty much everything you talked about I don't I agree with Marty I don't think a drone is should be in the budget because I think there are other Alternatives in this particular...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=4241s)  > ...something that you can live without maybe for a year well definitely you can take the Drone off okay that that'd be the only thing I would offer as a I'm not I I don't want to I don't think it's...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=4330s)  > ...much of their equipment into uh into harm way so to speak so okay so I answer your question on the Drone if you have to take something um that's what I would offer...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=4680s)  > ...understand the need for that so the whole number was 322 with a drone so with the Dr so if we take out the Drone and the telephone take off a lot more than that...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=4683s)  > ...so the whole number was 322 with a drone so with the Dr so if we take out the Drone and the telephone take off a lot more than that though right and I'm just saying we just...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=N-EDlOhN7nI&t=5378s)  > ...i don't want to do that the next person can do that if somebody's flying a drone close over your property and you shoot it...
+    **2025-03-24 -- Inland Wetlands**
 
+    **INLAND WETLANDS MARCH 24, 2025** _(topics: drone)_
 
-### 2022-07-21 -- Board of Selectmen
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=wbiDTDiQRgk&t=4409s)  > ...types of plants and this is the general area that you want to put them in. Yeah, we we finished up our our drone aerial photography yesterday afternoon. So unfortunately I haven't been able to...
 
-**Kent, CT Board of Selectmen Meeting 07/21/2022** _(topics: facial_recognition)_
+    **2025-03-17 -- Board of Selectmen**
 
-- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=DYZKekA-9Rc&t=1194s)  > ...uh zoomable I guess the best way you can tell a photo in a lot closer to be able to get an actual facial recognition other benefits of PTZ is let's say you're having a problem on uh...
+    **BOARD OF SELECTMEN SPECIAL MARCH 17, 2025** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=WmyfBdJ1u6U&t=2203s)  > ...digitized so he's making um spreadsheets for that or whatnot and then giving that to Chronicle and then they've done drone sightings and then with the ground penetrating radar that's solidifying...
 
-### 2022-08-22 -- Board of Selectmen
+    **2025-01-27 -- Inland Wetlands**
 
-**BOARD OF SELECTMEN AUGUST 22, 2022** _(topics: body_camera)_
+    **INLAND WETLANDS COMMISSION JAN. 27, 2025** _(topics: drone)_
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=z4ZpzlL_T5M&t=3094s)  > ...um that would all all have to be purchased and managed um just the body-worn camera has across the state become a huge huge...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IigKm2k6GM8&t=2817s)  > ...both uh do you is there a way of getting across the brook and how what is is there a road or path or what do you have there is commissioner that the first to get to the if you're looking at that that that drone aerial shot there's access off of Seager Mountain Road that doesn't Traverse Cobble Brook at all it comes right off Seager Mountain Road through an existing gate into that rear...
 
+    **2025-01-09 -- Board of Selectmen**
 
-### 2022-10-06 -- Board of Selectmen
+    **BOARD OF SELECTMEN SPECIAL JAN.8, 2025** _(topics: drone)_
 
-**BOARD OF SELECTMEN OCT. 6, 2022** _(topics: body_camera)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZHYow612VVM&t=602s)  > ...tasting competition on July 4th with the parade and potentially either fireworks or a laser Lake show or a drone show to happen in the evening on the July 4th 2026 date um we have a ton of events...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZHYow612VVM&t=726s)  > ...is going to be for the paid actors for the events and then for fireworks or the Drone sh or the light show so that those are our two major items on our budget that are going to require a lot of...
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QTI45JVTUvw&t=1826s)  > ...point one of the big pinch points for me is the um body worn camera issue so as a formalized police department with a constable we would now have to...
+    **2024-11-22 -- Town Meeting**
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QTI45JVTUvw&t=1839s)  > ...with a constable we would now have to um that that Constable would be have would have to wear a body Cam and all that data and you are talking about terabytes and terabytes and terabytes...
+    **PUBLIC HEARING - TRAFFIC ENFORCEMENT SAFETY DEVICES - NOV. 22, 2024** _(topics: drone)_
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QTI45JVTUvw&t=1889s)  > ...an FTE that would have to be in charge of the um the data for the the body cams we'd have to have a backup body cam we have to have multiple redundancies put in place for all this data so putting...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=8hZ3nad4GlY&t=5734s)  > ...cameras all over town what's next drones I'm not even kidding you know then we're advertising for a drone pilot got to keep it in perspective perspective you said maybe...
 
+    **2024-09-25 -- Board of Selectmen**
 
-### 2022-12-02 -- Town Meeting
+    **BOARD OF SELECTMEN SEPT. 25, 2024** _(topics: facial_recognition)_
 
-**SPECIAL TOWN MEETING DECEMBER 2, 2022** _(topics: body_camera)_
+    - `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=THbFQaktkHo&t=614s)  > ...that camera for The Ballot Box is it basically so you can see the person and see the like a exactly yeah we facial recognition because people don't have to just drive up and do anything they could...
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=POTZ1KqDvMw&t=2656s)  > ...that are um part of the SRO package a big big one is the body cam and the data that comes with that body cam the body worn cameras that they're...
+    **2024-07-10 -- Board of Finance**
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=POTZ1KqDvMw&t=2658s)  > ...um part of the SRO package a big big one is the body cam and the data that comes with that body cam the body worn cameras that they're required to have so the town would be...
+    **BOARD OF FINANCE REGULAR MEETING JULY 10, 2024** _(topics: doorbell_partnership)_
 
+    - `doorbell_partnership` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Zvyn7J8VTY0&t=581s)  > ...would be there for you know even though they would be on there they would have like a ring doorbell kind of a thing to announce people in there so there's there's a Safety and Security of the...
 
-### 2023-02-08 -- Board of Selectmen
+    **2024-05-20 -- Inland Wetlands**
 
-**BOARD OF SELECTMEN SPECIAL MEETING FEB. 8, 2023** _(topics: body_camera)_
+    **INLAND WETLANDS MAY 20, 2024** _(topics: drone)_
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0HAJwDoC_c4&t=2704s)  > ...resident state troopers the data is a huge one um they are required to wear body cam um body worn cameras and the municipality...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=wc2D-RfZumc&t=3408s)  > ...no um yeah the I'm I'm looking at the uh uh the Drone footage that you have here and you can see the lawn mode around the house and then the the rest of the area...
 
+    **2024-02-06 -- Board of Selectmen**
 
-### 2023-08-30 -- Board of Selectmen
+    **BOARD OF SELECTMEN SPECIAL FEB 6, 2024** _(topics: drone)_
 
-**BOARD OF SELECTMEN SPECIAL AUG. 30, 2023** _(topics: drone)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ke4tuSvFYsg&t=1306s)  > ...Flanders and congregational and so after they have the Drone system then they plot out all the um the grave sites and then on that it's going to be...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=933TIWuYmoI&t=773s)  > ...improve you know our options in town um I think this is a drone shop that you included which is pretty cool but um what is the red line within the green...
+    **2023-08-30 -- Board of Selectmen**
 
+    **BOARD OF SELECTMEN SPECIAL AUG. 30, 2023** _(topics: drone)_
 
-### 2024-02-06 -- Board of Selectmen
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=933TIWuYmoI&t=773s)  > ...improve you know our options in town um I think this is a drone shop that you included which is pretty cool but um what is the red line within the green...
 
-**BOARD OF SELECTMEN SPECIAL FEB 6, 2024** _(topics: drone)_
+    **2023-02-08 -- Board of Selectmen**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ke4tuSvFYsg&t=1306s)  > ...Flanders and congregational and so after they have the Drone system then they plot out all the um the grave sites and then on that it's going to be...
+    **BOARD OF SELECTMEN SPECIAL MEETING FEB. 8, 2023** _(topics: body_camera)_
 
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0HAJwDoC_c4&t=2704s)  > ...resident state troopers the data is a huge one um they are required to wear body cam um body worn cameras and the municipality...
 
-### 2024-05-20 -- Inland Wetlands
+    **2022-12-02 -- Town Meeting**
 
-**INLAND WETLANDS MAY 20, 2024** _(topics: drone)_
+    **SPECIAL TOWN MEETING DECEMBER 2, 2022** _(topics: body_camera)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=wc2D-RfZumc&t=3408s)  > ...no um yeah the I'm I'm looking at the uh uh the Drone footage that you have here and you can see the lawn mode around the house and then the the rest of the area...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=POTZ1KqDvMw&t=2656s)  > ...that are um part of the SRO package a big big one is the body cam and the data that comes with that body cam the body worn cameras that they're...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=POTZ1KqDvMw&t=2658s)  > ...um part of the SRO package a big big one is the body cam and the data that comes with that body cam the body worn cameras that they're required to have so the town would be...
 
+    **2022-10-06 -- Board of Selectmen**
 
-### 2024-07-10 -- Board of Finance
+    **BOARD OF SELECTMEN OCT. 6, 2022** _(topics: body_camera)_
 
-**BOARD OF FINANCE REGULAR MEETING JULY 10, 2024** _(topics: doorbell_partnership)_
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QTI45JVTUvw&t=1826s)  > ...point one of the big pinch points for me is the um body worn camera issue so as a formalized police department with a constable we would now have to...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QTI45JVTUvw&t=1839s)  > ...with a constable we would now have to um that that Constable would be have would have to wear a body Cam and all that data and you are talking about terabytes and terabytes and terabytes...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=QTI45JVTUvw&t=1889s)  > ...an FTE that would have to be in charge of the um the data for the the body cams we'd have to have a backup body cam we have to have multiple redundancies put in place for all this data so putting...
 
-- `doorbell_partnership` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Zvyn7J8VTY0&t=581s)  > ...would be there for you know even though they would be on there they would have like a ring doorbell kind of a thing to announce people in there so there's there's a Safety and Security of the...
+    **2022-08-22 -- Board of Selectmen**
 
+    **BOARD OF SELECTMEN AUGUST 22, 2022** _(topics: body_camera)_
 
-### 2024-09-25 -- Board of Selectmen
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=z4ZpzlL_T5M&t=3094s)  > ...um that would all all have to be purchased and managed um just the body-worn camera has across the state become a huge huge...
 
-**BOARD OF SELECTMEN SEPT. 25, 2024** _(topics: facial_recognition)_
+    **2022-07-21 -- Board of Selectmen**
 
-- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=THbFQaktkHo&t=614s)  > ...that camera for The Ballot Box is it basically so you can see the person and see the like a exactly yeah we facial recognition because people don't have to just drive up and do anything they could...
+    **Kent, CT Board of Selectmen Meeting 07/21/2022** _(topics: facial_recognition)_
 
+    - `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=DYZKekA-9Rc&t=1194s)  > ...uh zoomable I guess the best way you can tell a photo in a lot closer to be able to get an actual facial recognition other benefits of PTZ is let's say you're having a problem on uh...
 
-### 2024-11-22 -- Town Meeting
+    **2022-05-12 -- Planning and Zoning Commission**
 
-**PUBLIC HEARING - TRAFFIC ENFORCEMENT SAFETY DEVICES - NOV. 22, 2024** _(topics: drone)_
+    **PLANNING & ZONING COMMISSION MAY 12, 2022** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=8hZ3nad4GlY&t=5734s)  > ...cameras all over town what's next drones I'm not even kidding you know then we're advertising for a drone pilot got to keep it in perspective perspective you said maybe...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=N-EDlOhN7nI&t=5323s)  > ...old now or less i believe yeah perhaps we should consider the use of drone footage i asked about that and i was told that i...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=N-EDlOhN7nI&t=5330s)  > ...i asked about that and i was told that i could not get a drone why well because people expect a certain...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=N-EDlOhN7nI&t=5366s)  > ...privacy and that doesn't just stop when you know at 10 feet as long as you keep your drone above the public road you can be the person to help establish that case law...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=N-EDlOhN7nI&t=5378s)  > ...i don't want to do that the next person can do that if somebody's flying a drone close over your property and you shoot it...
 
+    **2022-05-09 -- Planning and Zoning Commission**
 
-### 2025-01-09 -- Board of Selectmen
+    **PLANNING & ZONING POCD MAY 9, 2022** _(topics: drone)_
 
-**BOARD OF SELECTMEN SPECIAL JAN.8, 2025** _(topics: drone)_
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=f6Hq5QPtrgs&t=450s)  > ...um and he shoots a lot of the northwest connecticut towns with his drone um so i'm i'm wondering if he might have i know he recently just put up three or...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=f6Hq5QPtrgs&t=470s)  > ...um you know he's he's done the whole valley he's got tons of drone shots that might be something that you know we could look at...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZHYow612VVM&t=602s)  > ...tasting competition on July 4th with the parade and potentially either fireworks or a laser Lake show or a drone show to happen in the evening on the July 4th 2026 date um we have a ton of events...
+    **2022-02-07 -- Park and Recreation**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZHYow612VVM&t=726s)  > ...is going to be for the paid actors for the events and then for fireworks or the Drone sh or the light show so that those are our two major items on our budget that are going to require a lot of...
+    **PARK AND RECREATION FEBRUARY 7, 2022** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_R8R11O7XDQ&t=4283s)  > ...emergency management used her for the the ice jamming we used her uh three days a week uh we had a drone from one of the uh asian students so it was fantastic...
 
-### 2025-01-27 -- Inland Wetlands
+    **2022-01-03 -- Park and Recreation**
 
-**INLAND WETLANDS COMMISSION JAN. 27, 2025** _(topics: drone)_
+    **PARK AND RECREATION SPECIAL  MEETING JANUARY 3, 2022** _(topics: body_camera)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IigKm2k6GM8&t=2817s)  > ...both uh do you is there a way of getting across the brook and how what is is there a road or path or what do you have there is commissioner that the first to get to the if you're looking at that that that drone aerial shot there's access off of Seager Mountain Road that doesn't Traverse Cobble Brook at all it comes right off Seager Mountain Road through an existing gate into that rear...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kQm9VVkMvl4&t=4007s)  > ...than our bylaws can we change that and increase it while you're doing the body cam because i mean kind of i don't know how long it's been a thousand dollars but...
 
+    **2021-10-18 -- Park and Recreation**
 
-### 2025-03-17 -- Board of Selectmen
+    **PARK AND RECREATION COMMISSION OCTOBER 18, 2021** _(topics: drone)_
 
-**BOARD OF SELECTMEN SPECIAL MARCH 17, 2025** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=WmyfBdJ1u6U&t=2203s)  > ...digitized so he's making um spreadsheets for that or whatnot and then giving that to Chronicle and then they've done drone sightings and then with the ground penetrating radar that's solidifying...
-
-
-### 2025-03-24 -- Inland Wetlands
-
-**INLAND WETLANDS MARCH 24, 2025** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=wbiDTDiQRgk&t=4409s)  > ...types of plants and this is the general area that you want to put them in. Yeah, we we finished up our our drone aerial photography yesterday afternoon. So unfortunately I haven't been able to...
-
-
-### 2025-04-02 -- Board of Selectmen
-
-**BOARD OF SELECTMEN APRIL 2, 2025** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=2623s)  > ...are a lot of regulations with drones like you can't um you can't fly a drone over people which might be a problem for you using it in an emergency...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=2637s)  > ...using it in an emergency scene um have you looked into maybe just hiring a drone operator when you needed particular drone it might be a lot lot easier and a...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=2642s)  > ...hiring a drone operator when you needed particular drone it might be a lot lot easier and a lot cheaper it's possible I mean uh we...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=2717s)  > ...for free um when the big I know during the first big ice Jam marvelwood provided a lot of Drone footage so that might be worth exploring to make sure they're still...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=2731s)  > ...interested in doing that kind of thing okay and I know South K School used to have a drone I don't know if they still do it might be looking into Kent school and South Kent to see if they have...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=2797s)  > ...um by Susie Rundle either once or twice so it's it's pretty much the same exact thing for what a drone drone yeah no I was talking about the budget overall I'm sorry I'm sorry the budget...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=3270s)  > ...one well I'm I'm all right I'm a little reant on the drone at this point if we could come up with different things now the 800 Portables I'm 100% behind we need to...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=3947s)  > ...made I understand pretty much everything you talked about I don't I agree with Marty I don't think a drone is should be in the budget because I think there are other Alternatives in this particular...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=4241s)  > ...something that you can live without maybe for a year well definitely you can take the Drone off okay that that'd be the only thing I would offer as a I'm not I I don't want to I don't think it's...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=4330s)  > ...much of their equipment into uh into harm way so to speak so okay so I answer your question on the Drone if you have to take something um that's what I would offer...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=4680s)  > ...understand the need for that so the whole number was 322 with a drone so with the Dr so if we take out the Drone and the telephone take off a lot more than that...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=50czqbEVr6w&t=4683s)  > ...so the whole number was 322 with a drone so with the Dr so if we take out the Drone and the telephone take off a lot more than that though right and I'm just saying we just...
-
-
-### 2025-04-09 -- Board of Finance
-
-**BOARD OF FINANCE SPECIAL APRIL 9, 2025** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=221v5-yVy2w&t=4085s)  > ...management now doing more coordination. So these are the increases we looked at. They had asked for a drone. We thought maybe we could use you know some of the drones that are here from some of the...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=221v5-yVy2w&t=4092s)  > ...drones that are here from some of the schools if we needed it. Marblewood has an excellent drone program and so on. So instead of us owning let's use again making some cuts there. There is an...
-
-
-### 2025-04-28 -- Inland Wetlands
-
-**INLAND WETLANDS APRIL 28, 2025** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LEimXlR3gJM&t=8026s)  > ...Sure. I'm just Ken Johnson is saying something. Sorry. Does that I used to have a drone and you could fly the drone. I was thinking of that. But I think it's illegal. Is it...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LEimXlR3gJM&t=8028s)  > ...something. Sorry. Does that I used to have a drone and you could fly the drone. I was thinking of that. But I think it's illegal. Is it illegal? It's illegal. Don't It better...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LEimXlR3gJM&t=8037s)  > ...illegal? It's illegal. Don't It better be. Unfortunately, I don't have that drone anymore. But maybe someone knows has a neighbor or someone who has a drone....
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LEimXlR3gJM&t=8043s)  > ...Unfortunately, I don't have that drone anymore. But maybe someone knows has a neighbor or someone who has a drone. It's illegal, Ken. We can't do it. It's illegal. To fly a drone any place that I...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LEimXlR3gJM&t=8047s)  > ...neighbor or someone who has a drone. It's illegal, Ken. We can't do it. It's illegal. To fly a drone any place that I know of, unless you can't use it for land, right? Right....
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LEimXlR3gJM&t=8232s)  > ...stick and he was leading us out and I was thinking I wish there was something like a drone that could get us out of here. A All right. Well, you guys, thank you...
-
-
-### 2025-05-20 -- Board of Selectmen
-
-**BOARD OF SELECTMEN SPECIAL MAY 20, 2025** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=563s)  > ...is a picture of um them getting ready in the morning. The green device is the underwater drone they used and the aerial drone is there too. And...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=565s)  > ...the morning. The green device is the underwater drone they used and the aerial drone is there too. And um so the first uh study part of the...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=663s)  > ...were testing would um go by the buoys and as the wave train came in um an aerial drone would follow it would follow that wave train of all the boats. So they so they knew not only the size...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=678s)  > ...were moving. Um how many waves were in the wave train. Uh everything was picked up by the by the drone work. And they also had the underwater drone uh to look at what was happening in the the...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=681s)  > ...the wave train. Uh everything was picked up by the by the drone work. And they also had the underwater drone uh to look at what was happening in the the the sediment environment, seeing what...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=693s)  > ...the sediment environment, seeing what was going on under the water. So they the the drone operator had a had a device he could look and see what the what the drone was seeing at all times,...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=699s)  > ...So they the the drone operator had a had a device he could look and see what the what the drone was seeing at all times, what what the drone was recording underwater. So the...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=701s)  > ...a device he could look and see what the what the drone was seeing at all times, what what the drone was recording underwater. So the the the setup was the boats would pass...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=906s)  > ...um they were curious to see if that was happen on Warmachog 2. Sure enough, um if you watch the drone footage, you can actually see as the the waves come into the shallows, you can really see how...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GaTXhlfaBxs&t=936s)  > ...what was happening at the surface with the wave, but they had a camera and a drone underwater looking at what was happening in the shallow environment. So they have footage of all that and it...
-
-
-### 2026-04-21 -- Board of Selectmen
-
-**BOARD OF SELECTMEN APRIL 21, 2026** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Joz2buWRKqE&t=351s)  > ...to make it that would be >> and then >> drone grant. Okay. >> And then there was right after that or it's actually a part of that but it...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Joz2buWRKqE&t=421s)  > ...please let me know. so I can ensure compliance going forward. The National Public Safety Drone Donation Program created the fundraiser page as a way for individuals or organizations who wish to...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Joz2buWRKqE&t=447s)  > ...donations were returned to those who contributed. and I provided you with a copy of the drone donation request documentation. There's any additional request uh...
-
-
-### 2026-07-09 -- Planning and Zoning Commission
-
-**P & Z JULY 9, 2026** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kClM4YONaOE&t=5004s)  > ...>> Okay. >> Yeah. as a as an option, would it be possible and that you you can say no to this, but to provide just a drone image or something from us from above so we can get a I I I'm in my head trying to figure out where the line is and what people would be seeing versus what they would be seeing....
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kClM4YONaOE&t=5056s)  > ...make the sub subdivision like this within the horizon line we have to be very cautious about these because then it it sets a precedent. >> Um Sarah when you say a drone image do you want I have some aerial images. >> Aerials would be great. Yeah. So, if you guys while you're talking, I might be able to find them and send them over, but um I'm not exactly sure how close...
-
-
-### 2026-08-04 -- Park and Recreation
-
-**PARKS & REC AUG. 4, 2026** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7mYodE4ZxYA&t=3710s)  > ...>> parent picking up their kids and going right to the field. So those kids tend to flock right over to the field. >> So >> that's um that tends to work out well....
-
-
-### 2026-08-13 -- Planning and Zoning Commission
-
-**PLANNING AND ZONING COMMISSION REGULAR MEETING AUGUST 13, 2026** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=672s)  > ...>> go ahead. >> I was just going to say, um, I I have two different, um, drone videos of the final balloon test that we did this past Sunday, and they're on my screen if you...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=682s)  > ...Sunday, and they're on my screen if you want to screen share and you want to see them. It's I'm I'm I am not a drone um, photographer person, but I'm happy to share them....
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=753s)  > ...You guys are all seeing this? >> Yes. I mean, at least I am. using a drone was a good idea. >> Okay. So, let me just um so if you can see my cursor....
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=808s)  > ...roads in the area. I just wanted you to get that sense for yourself. And the drone right now is at um 70 uh I think it's 120 ft above the elevation of the house site and the...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=876s)  > ...>> So, I am now at treetop level. It was um a little bit amusing to try and actually to find the the drone itself, but um I mean find the balloons, but eventually I did. And so now I'm at treetop level...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=906s)  > ...the other direction. Um this is from the field looking towards the towards the drone the uh balloons. and...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=992s)  > ...>> That's right. Yep. >> Okay. So, that's pretty much the best you're going to get out of the drone stuff that I took. Okay. Well, I appreciate your effort. Um, I have been...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1137s)  > ...trees were removed, you better believe you would see those balloons. Um, the drone footage was beautiful. Part of the reason that drone footage was beautiful because as you swung around to the...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1139s)  > ...you would see those balloons. Um, the drone footage was beautiful. Part of the reason that drone footage was beautiful because as you swung around to the panorama, the majority of the hilltops...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1335s)  > ...at the very top we we even went into Washington. We did Lake Waramug Road. But it's obvious from the drone video that there's no way we're going to see those...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=1401s)  > ...that's been provided um [clears throat] and the the drive by that we did. I think with the drone is great. Don't get me wrong. I think you know you've you've done you've put a lot of work...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=2842s)  > ...>> Yes. >> Yeah. Well, that's what you saw with the drone view that she showed. >> But there's still another 75 to 80 feet of elevation behind the house before you...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=8399s)  > ...the ones that was tagged as not, you know, not not initially on the removal plan. Um, and then we did get a drone up in the air recently. And this hump here is where our house is. Uh, I have a few...
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjkcOQ-1rew&t=8835s)  > ...presentation that you gave showing us views from the house out and looking back and the drone footage at least shows us that there hasn't been an effort to get away with more clearing um...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5OWEELZCcgE&t=4647s)  > ...maybe in the springtime life you can get somebody to come over with a drone and pretend like it's a tennis ball and go back and forth to promote it even more...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5OWEELZCcgE&t=4656s)  > ...we could probably figure out something like that yeah yeah is lori still in charge of the drone program yep...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -388,9 +279,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
-- **[2026-08-04] Park and Recreation** -- PARKS & REC AUG. 4, 2026
-  > ...>> parent picking up their kids and going right to the field. So those kids tend to flock right over to the field. >> So >> that's um that tends to work out well....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7mYodE4ZxYA&t=3710s)  _(term: alpr_flock, unreviewed)_
+*(no findings)*
 
 
 ### biometrics_other
@@ -786,7 +675,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 *(no findings)*
 
-
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
 
@@ -896,11 +784,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -981,6 +864,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Kent's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/kent-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip kent-meeting-transcripts.zip -d kent
+cd kent
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

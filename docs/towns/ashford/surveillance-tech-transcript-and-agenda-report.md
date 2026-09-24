@@ -3,24 +3,26 @@
 
 ## At a glance: Ashford
 
+<p class="glance-headline"><strong>8 mentions</strong> of surveillance technology in <strong>6</strong> Ashford meetings, 2020–2024</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">8</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 6 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2020–2024</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2020-05-29 → 2024-10-21</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones, Predictive policing</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">49%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">228 of 467 meetings</span></a>
+</div>
+
+**Still incomplete:** 239 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+
 This report collects every mention of surveillance technology found in **Ashford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **11 mentions** across **9 meetings**
-- **First mention:** 2020-05-29  |  **Most recent:** 2026-03-06
-- **Technologies discussed:** alpr, drone, predictive_policing
-- **Coverage:** 228 of 467 known Ashford meetings transcribed (49%)
-- **Still incomplete:** 239 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,122 +33,67 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Ashford's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/ashford-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip ashford-meeting-transcripts.zip -d ashford
-cd ashford
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 1 | 1 | 2024-12-09 | 2024-12-09 |
-| drone | 9 | 7 | 2020-11-10 | 2026-03-06 |
-| predictive_policing | 1 | 1 | 2020-05-29 | 2020-05-29 |
+| [Drones](#drone) | 7 | 5 | 2020-11-10 | 2024-10-21 |
+| [Predictive policing](#predictive_policing) | 1 | 1 | 2020-05-29 | 2020-05-29 |
 
 
 ## Timeline
 
-9 meetings surfaced a finding (9 dated, spanning 2020-05-29 to 2026-03-06; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+6 meetings surfaced a finding (6 dated, spanning 2020-05-29 to 2024-10-21; 0 of unknown date, listed last). Newest first.
 
-### 2020-05-29 -- Board of Finance
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2024-10-21.*
 
-**Ashford Board of Finance Special Meeting 2020 0506** _(topics: predictive_policing)_
+??? note "Earlier meetings (6)"
 
-- `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=21vdM58TgGM&t=11639s)  > ...May 20th 2020 to be held virtually I need a I need a motion and a second this is Gotham I'll make a motion that we increase their budget by the 90,000 like we discussed...
+    **2024-10-21 -- Board of Selectmen**
 
+    **Board of Selectmen, October 21, 2024** _(topics: drone)_
 
-### 2020-11-10 -- Planning & Zoning Commission
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=s3Uq-sQP20U&t=2064s)  > ...as a result of that change order um the solar um solar guy um took a drone and put it over there uh on uh Saturday but in addition Garland has been monitoring this project all...
 
-**Planning and Zoning Commission 110920** _(topics: drone)_
+    **2023-09-25 -- Conservation Commission**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5395s)  > ...they haven't changed much uh one is a and i can get you pictures i may be able to get you some drone footage of uh when one building the medline building...
+    **Conservation Commission, September 25, 2023** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5419s)  > ...but that's the that's the kind of the size building we're talking about so maybe maybe a drone drone footage of that kind of place would be...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9f3HeNxnKDU&t=7466s)  > ...um so I'll let you know and uh again it should be this week I'll take a lot of pictures maybe I'll even do a drone thing oh good there you go oh well great that's all I had sorry...
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5420s)  > ...size building we're talking about so maybe maybe a drone drone footage of that kind of place would be important to see yeah maybe the...
+    **2023-02-27 -- Conservation Commission**
 
+    **Conservation Commission, February 27, 2023** _(topics: drone)_
 
-### 2023-02-27 -- Conservation Commission
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=hQ3NT-1bslQ&t=1962s)  > ...caustic chemicals oh I didn't know that you can see if if you can go to Google Maps there's a kind of drone shot or whatever you can see there's all kinds of crap all behind it it's right and...
 
-**Conservation Commission, February 27, 2023** _(topics: drone)_
+    **2023-02-27 -- Conservation Commission**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=hQ3NT-1bslQ&t=1962s)  > ...caustic chemicals oh I didn't know that you can see if if you can go to Google Maps there's a kind of drone shot or whatever you can see there's all kinds of crap all behind it it's right and...
+    **Conservation Commission, February 27, 2023** _(topics: drone)_
 
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=wVnmwad_lcU&t=1962s)  > ...caustic chemicals oh I didn't know that you can see if if you can go to Google Maps there's a kind of drone shot or whatever you can see there's all kinds of crap all behind it it's right and...
 
-### 2023-02-27 -- Conservation Commission
+    **2020-11-10 -- Planning & Zoning Commission**
 
-**Conservation Commission, February 27, 2023** _(topics: drone)_
+    **Planning and Zoning Commission 110920** _(topics: drone)_
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=wVnmwad_lcU&t=1962s)  > ...caustic chemicals oh I didn't know that you can see if if you can go to Google Maps there's a kind of drone shot or whatever you can see there's all kinds of crap all behind it it's right and...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5395s)  > ...they haven't changed much uh one is a and i can get you pictures i may be able to get you some drone footage of uh when one building the medline building...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5419s)  > ...but that's the that's the kind of the size building we're talking about so maybe maybe a drone drone footage of that kind of place would be...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5420s)  > ...size building we're talking about so maybe maybe a drone drone footage of that kind of place would be important to see yeah maybe the...
 
+    **2020-05-29 -- Board of Finance**
 
-### 2023-09-25 -- Conservation Commission
+    **Ashford Board of Finance Special Meeting 2020 0506** _(topics: predictive_policing)_
 
-**Conservation Commission, September 25, 2023** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9f3HeNxnKDU&t=7466s)  > ...um so I'll let you know and uh again it should be this week I'll take a lot of pictures maybe I'll even do a drone thing oh good there you go oh well great that's all I had sorry...
-
-
-### 2024-10-21 -- Board of Selectmen
-
-**Board of Selectmen, October 21, 2024** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=s3Uq-sQP20U&t=2064s)  > ...as a result of that change order um the solar um solar guy um took a drone and put it over there uh on uh Saturday but in addition Garland has been monitoring this project all...
-
-
-### 2024-12-09 -- Planning & Zoning Commission
-
-**Planning & Zoning Commission, December 9, 2024** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rnp-ssOztow&t=7773s)  > ...don't think it's as important that we judge as to whether people are going to flock to this as something that they see as fun as it is that we understand that this is something that will help support...
-
-
-### 2025-04-08 -- Board of Finance
-
-**Board of Finance, April 8, 2025** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nKYWcpXL3RY&t=3090s)  > ...it while we have it. Um, and thank you for your patience and listening to me drone on about money. And thank you to the first selectwoman for the hard work that she...
-
-
-### 2026-03-06 -- Board of Finance
-
-**Board of Finance, March 6, 2026** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LBqQ9Rmvlxs&t=6307s)  > ...and our current revenue estimate um and the reval which if you've joined any other meetings you've heard me drone on and on about that. Uh this and this reval makes life difficult. It shifts...
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=21vdM58TgGM&t=11639s)  > ...May 20th 2020 to be held virtually I need a I need a motion and a second this is Gotham I'll make a motion that we increase their budget by the 90,000 like we discussed...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -155,9 +102,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
-- **[2024-12-09] Planning & Zoning Commission** -- Planning & Zoning Commission, December 9, 2024
-  > ...don't think it's as important that we judge as to whether people are going to flock to this as something that they see as fun as it is that we understand that this is something that will help support...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rnp-ssOztow&t=7773s)  _(term: alpr_flock, unreviewed)_
+*(no findings)*
 
 
 ### biometrics_other
@@ -191,14 +136,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 
 ### drone
-
-- **[2026-03-06] Board of Finance** -- Board of Finance, March 6, 2026
-  > ...and our current revenue estimate um and the reval which if you've joined any other meetings you've heard me drone on and on about that. Uh this and this reval makes life difficult. It shifts...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LBqQ9Rmvlxs&t=6307s)  _(term: drone, unreviewed)_
-
-- **[2025-04-08] Board of Finance** -- Board of Finance, April 8, 2025
-  > ...it while we have it. Um, and thank you for your patience and listening to me drone on about money. And thank you to the first selectwoman for the hard work that she...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nKYWcpXL3RY&t=3090s)  _(term: drone, unreviewed)_
 
 - **[2024-10-21] Board of Selectmen** -- Board of Selectmen, October 21, 2024
   > ...as a result of that change order um the solar um solar guy um took a drone and put it over there uh on uh Saturday but in addition Garland has been monitoring this project all...
@@ -284,7 +221,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### video_analytics
 
 *(no findings)*
-
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
@@ -395,11 +331,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -482,6 +413,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | channel | tab |
 | --- | --- |
 | Town of Ashford CT Official | streams |
+
+
+## Get the full transcripts
+
+**[Download Ashford's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/ashford-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip ashford-meeting-transcripts.zip -d ashford
+cd ashford
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

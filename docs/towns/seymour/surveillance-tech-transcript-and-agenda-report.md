@@ -3,24 +3,26 @@
 
 ## At a glance: Seymour
 
+<p class="glance-headline"><strong>45 mentions</strong> of surveillance technology in <strong>35</strong> Seymour meetings, 2015–2026</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">45</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 35 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2015–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2015-06-03 → 2026-03-05</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Other biometrics, Body cameras, Drones, General surveillance</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">83%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">419 of 503 meetings</span></a>
+</div>
+
+**Not the full history:** transcripts begin **2015-06-03**, but Seymour's published video archive goes back to **2014-04-15**. Meetings before 2015 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
 This report collects every mention of surveillance technology found in **Seymour**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **46 mentions** across **36 meetings**
-- **First mention:** 2015-06-03  |  **Most recent:** 2026-03-05
-- **Technologies discussed:** alpr, biometrics_other, body_camera, drone, surveillance_general
-- **Coverage:** 419 of 503 known Seymour meetings transcribed (83%)
-- **Not the full history:** transcripts begin **2015-06-03**, but Seymour's published video archive goes back to **2014-04-15**. Meetings before 2015 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,329 +33,252 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Seymour's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/seymour-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip seymour-meeting-transcripts.zip -d seymour
-cd seymour
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 32 | 26 | 2015-06-03 | 2026-02-09 |
-| biometrics_other | 1 | 1 | 2022-02-08 | 2022-02-08 |
-| body_camera | 7 | 5 | 2020-08-24 | 2024-11-20 |
-| drone | 4 | 4 | 2021-03-04 | 2026-03-05 |
-| surveillance_general | 2 | 2 | 2021-01-08 | 2021-04-06 |
+| [ALPR / Flock](#alpr) | 32 | 26 | 2015-06-03 | 2026-02-09 |
+| [Other biometrics](#biometrics_other) | 1 | 1 | 2022-02-08 | 2022-02-08 |
+| [Body cameras](#body_camera) | 7 | 5 | 2020-08-24 | 2024-11-20 |
+| [Drones](#drone) | 3 | 3 | 2021-03-04 | 2026-03-05 |
+| [General surveillance](#surveillance_general) | 2 | 2 | 2021-01-08 | 2021-04-06 |
 
 
 ## Timeline
 
-36 meetings surfaced a finding (36 dated, spanning 2015-06-03 to 2026-03-05; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+35 meetings surfaced a finding (35 dated, spanning 2015-06-03 to 2026-03-05; 0 of unknown date, listed last). Newest first.
 
-### 2015-06-03 -- Board of Selectmen
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-03-05.*
 
-**Board of Selectmen 20150602** _(topics: alpr)_
+??? note "Earlier meetings (35)"
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dMH1oy0PL7M&t=2759s)  > ...provisions of section 12 dash 129 of the Connecticut General Statutes dated the 20th made Dana flock taxes Thank You Nicole at this point I'll entertain a motion to accept the tax collectors...
+    **2026-03-05 -- Budget Hearing / State of the Town**
 
+    **Board of Finance: Budget Workshop Meeting 03042026** _(topics: drone)_
 
-### 2015-08-19 -- Board of Selectmen
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qdrqDbtEkMg&t=3825s)  > ...purchases. So, >> it just makes sense. >> The Narcan dispersing drone. >> Yes. >> All right....
 
-**Board of Selectmen 20150818** _(topics: alpr)_
+    **2026-02-09 -- Budget Hearing / State of the Town**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=G5wMNWKh1zw&t=5848s)  > ...in accordance with provisions of section 12-1 129 of the Connecticut General statutes Dana flock tax office thank you Nicole I have a motion to accept the tax collector's report as...
+    **Board of Finance Budget Workshop: 2/9/2026** _(topics: alpr)_
 
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6s6cTA1RWXY&t=779s)  > ...also. So we pay an annual maintenance fee on that. Uh we have some we have one vehicle mounted license plate reader that we pay $900 a year for. Uh also for fire extinguishers. Um postage comes out...
 
-### 2015-09-16 -- Board of Selectmen
+    **2025-08-05 -- Board of Selectmen**
 
-**Board of Selectmen 20150915** _(topics: alpr)_
+    **BOS 8/5/2025** _(topics: alpr)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ql5EUIfTCzU&t=6673s)  > ...section 12-1 1229 of the Connecticut General statutes Dana flock tax office I'm sorry okay that's just one of those nights yes it is okay can I have a...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6OmBHkM-1J0&t=3605s)  > ...did you have any um >> Dana? Dana Flock tax collector. Um, yes, the in practice for the first one, that's fine. The other three things, I mean,...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ql5EUIfTCzU&t=6720s)  > ...of section 12- 129 of the Connecticut General statutes Dana flock tax office thank you for battling through that Nicole we appreciate that okay at this point I'll...
+    **2025-01-22 -- Board of Selectmen**
 
+    **BOS Ordinance Committee 20250121** _(topics: drone)_
 
-### 2016-01-20 -- Board of Selectmen
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=q-CL1NZv_6M&t=2831s)  > ...view but if I invite people on you know as long as I could see it it's one thing if no one can see it except by drone perhaps or space Karen that was big on Karen that was when M Stan was on the...
 
-**Board of Selectmen 20160119** _(topics: alpr)_
+    **2024-11-20 -- Board of Selectmen**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=DAuBTU0W354&t=2512s)  > ...12-129 at the Connecticut General statutes dated Seymour the 14th day of January 2014 signed Dana flock from the tax office um if you have a motion to accept the...
+    **BOS 20241119** _(topics: body_camera)_
 
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IH9rxMbzr6Q&t=1994s)  > ...that's that's another good point uh the way that Aon Works any new technology that comes out body cam wise they will send us brand new body cam so they come out and gr they could be in a year...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IH9rxMbzr6Q&t=1997s)  > ...way that Aon Works any new technology that comes out body cam wise they will send us brand new body cam so they come out and gr they could be in a year they're going to send that neg that...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IH9rxMbzr6Q&t=2061s)  > ...now where it what it actively translates for you so if you're dealing with a person that speaks Spanish the body cam will trans it's absolutely insane so um and having dealt with uh this company um...
 
-### 2016-02-17 -- Board of Selectmen
+    **2023-04-19 -- Board of Selectmen**
 
-**Board of Selectmen 20160216** _(topics: alpr)_
+    **Board of Selectpersons 20230418** _(topics: alpr)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=8iTvmpN1NnY&t=3006s)  > ...section 12-1 129 of the Connecticut General statutes dated at Seymour the 11th day of February 2016 Dana flock tax office thank you Nicole this point I'll entertain a...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6FUfUs5LYm0&t=28s)  > ...come to you to thank the Assessor's Office in Dana flock for settling a 13-year bloodbath with this such clock they were highly professional...
 
+    **2022-02-08 -- Budget Hearing / State of the Town**
 
-### 2016-03-02 -- Board of Selectmen
+    **Board of Finance 20220207 Budget Workshop** _(topics: alpr, biometrics_other, body_camera)_
 
-**Board of Selectmen 20160301 Part 2** _(topics: alpr)_
+    - `biometrics_other` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OoExig3puKg&t=867s)  > ...that was done away with about a year ago the state went to a different system called idemia we no longer use it so the 4250 that was in there uh reduced to...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OoExig3puKg&t=962s)  > ...extinguisher the actual cost is 660 dollars down from 2 grand and the license plate reader software we still have our total in this line i did leave out...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OoExig3puKg&t=967s)  > ...still have our total in this line i did leave out the the pole mounted alpr cameras that i'm considering purchasing we are getting our first year on those covered...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OoExig3puKg&t=1395s)  > ...uh chairman you actually asked me to put to separate this out and create a different line for body worn camera this is done by the police accountability act this is our yearly storage fees for um...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YAe6Ic34VWI&t=764s)  > ...12-129 of the connecticut general statutes dated the 25th day of february 2016 dana flock tax office thank you nicole michael at this point i'll entertain a motion to accept the tax...
+    **2021-04-06 -- Water Pollution Control Authority**
 
+    **WPCA 20210405** _(topics: surveillance_general)_
 
-### 2016-07-20 -- Board of Selectmen
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fuH0_1licD4&t=661s)  > ...cleaning and manhole inspection every five years and a cctv inspection every 10. that was brought up at the last contract discussions prior to the contract being...
 
-**Board of Selectmen 20160719** _(topics: alpr)_
+    **2021-03-25 -- Budget Hearing / State of the Town**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=R1qY6lrzJf4&t=3555s)  > ...12-29 of the Connecticut General statutes dated at Seymour the 15th day of July 2016 Dana flock Tex thank you Nicole and I have a motion to accept the tax collector's report as Pres presented...
+    **Board of Finance 20210324 Budget Deliberations** _(topics: body_camera)_
 
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LU-ILXc9Wic&t=2278s)  > ...not coming till may we put in the 30 reimbursement for the body cam for the body cams and dash cams because we've got to cut the check...
 
-### 2016-08-03 -- Board of Selectmen
+    **2021-03-04 -- Economic Development Commission**
 
-**Board of Selectmen 20160802 Part 2** _(topics: alpr)_
+    **Economic Development Commission 20210303** _(topics: drone)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ILCtDv5-TzE&t=121s)  > ...the Connecticut General Statutes dated at Seymour the 29th day of july 2016 Dana flock tax office Thank You Nicole if everybody can review and just see if you have any conflicts...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=U2fac_7uE8I&t=3892s)  > ...uh advocating to to our communities find someone in your town who is willing to do drone video and potentially do it you know pro bono for you...
 
+    **2021-01-27 -- Board of Finance**
 
-### 2016-08-18 -- Board of Selectmen
+    **Board of Finance 20210126** _(topics: body_camera)_
 
-**Board of Selectmen 20160816** _(topics: alpr)_
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JE6PQBgAP-8&t=3327s)  > ...year say it's uh the the dash cams and the body cam cameras and we need to purchase 44 of them for the cars...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=BX9h3QZBixw&t=5098s)  > ...-129 of the Connecticut General statutes dated at Seymour the 12th day of August 2016 Dana flock tax office thank you Nicole okay at this point I entertain a motion to accept the tax collector's...
+    **2021-01-08 -- Zoning Board of Appeals**
 
+    **Zoning Board of Appeals (Public Hearing and Regular Meeting)** _(topics: surveillance_general)_
 
-### 2016-09-07 -- Board of Selectmen
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Iaz8c8qo80M&t=3056s)  > ...for my security system because before six o'clock i have it on video um surveillance camera because his lights shine over our fence and he sets off our alarms at 5...
 
-**Board of Selectmen 20160906** _(topics: alpr)_
+    **2020-10-09 -- Board of Selectmen**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=102zIfEGFMY&t=2132s)  > ...I'll just wing it he September 2nd 2016 to the board of Selectmen from Dan Dana flock tax office oh thank you that right there anyway the following overpayments of tax payments...
+    **Board of Selectmen 20201008 Special  Meeting Part 2** _(topics: alpr)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=102zIfEGFMY&t=2151s)  > ...in accordance with the provisions of section 12-12 n of the Connecticut General statutes Dana flock tax office excellent thank you Nicole okay yep at this point I'll entertain a...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=wyRdkkya-qU&t=197s)  > ...just some information from our tax collector dana flock and again i asked her to take a look at how we are comparing uh overall collection wise we have...
 
+    **2020-09-02 -- Board of Selectmen**
 
-### 2016-10-05 -- Board of Selectmen
+    **Board of Selectmen 20200901 Part 1** _(topics: alpr)_
 
-**Board of Selectmen 20161004** _(topics: alpr)_
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=WiGbAe13Jkw&t=180s)  > ...approve the tax collector's report dated september 1st 2020 as presented by dana flock our tax collector motioned by anne marie second by...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YtWwrlst8hk&t=2931s)  > ...Connecticut General Statutes dated at Seymour the fifteenth day of sep tember 2016 dana flock tax office Thank You Nicole get this point i'll entertain a motion to accept the tax collectors...
+    **2020-08-24 -- Board of Police Commissioners**
 
+    **Board of Police Commissioners 20200819** _(topics: body_camera)_
 
-### 2016-11-02 -- Board of Selectmen
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3xJb2PzQzfM&t=1220s)  > ...taxpayers are gonna have to fund for these so do you have any cost factors for each of the officers to have a body cam in each vehicle they have the dash cams...
 
-**Board of Selectmen 20161101** _(topics: alpr)_
+    **2020-07-08 -- Board of Selectmen**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iF1UzOJ18bE&t=482s)  > ...129 of the Connecticut General Statutes dated the 28th date of October 2016 Dana flock tax office Thank You Nicole okay at this point I'll entertain a motion to accept the tax collectors...
+    **Board of Selectmen 20200707** _(topics: alpr)_
 
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=415s)  > ...should you have any questions please do not hesitate to contact me again that shouldn't Dana flock our tax collector so with that I will entertain a motion to move eight Francis Drive off the...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=495s)  > ...is B [address redacted] and again it is the same recommendation from our tax payer Dana flock she is recommending that we abate the following delinquent real estate taxes for Grand list 2013 14 15...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=532s)  > ...so at this point I'll entertain a motion to approve the recommendation from Dana flock as presented so move move motion by Al second by Trish is there any discussion okay...
 
-### 2016-12-07 -- Board of Selectmen
+    **2020-06-03 -- Board of Selectmen**
 
-**Board Of Selectment 20161206 Part 2** _(topics: alpr)_
+    **Board of Selectmen 20200602** _(topics: alpr)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=i6_0XfwPXbA&t=404s)  > ...section 12 129 of the Connecticut General Statutes David the tenth day of November 2016 Dana flock tax office Nicole this point i'll entertain a motion to accept in november 10 2016 tax...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dBcOOuLPZRk&t=2521s)  > ...and then it's signed by joe kuzey ak Thomas our finance director and Dana flock our tax collector so this point I'll entertain a motion that the Board of Selectmen approved the recommendation...
 
+    **2020-05-20 -- Board of Selectmen**
 
-### 2017-01-23 -- Board of Selectmen
+    **Board of Selectmen 20200519** _(topics: alpr)_
 
-**Board Of Selectmen 20170119 Part 2** _(topics: alpr)_
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ikwm5bFsKzk&t=296s)  > ...year because of the the Cova crisis so I've been getting reports from Dana flock our tax collector to get an idea as to where we are with regards to collections...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=p0o49_THrQ0&t=89s)  > ...dated at Seymour the 13th day of junior 2007 and it should be signed by Dana flock from our tax office so at this point I will entertain a motion to approve the tax collectors report as...
+    **2019-05-22 -- Board of Selectmen**
 
+    **Board of Selectmen 20190521** _(topics: alpr)_
 
-### 2017-06-07 -- Board of Selectmen
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kgOW08QMpU4&t=312s)  > ...benefits and that comes from Joseph Cusack our Assessor Doug Thomas our finance director in Dana flock are tax collectors so at this point I'll entertain a motion that we approve the...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kgOW08QMpU4&t=327s)  > ...benefits per applicant of $200 as recommended by Joe koozie act Doug Thomas and dan flock most of my Amory second by al just under questions this is the senior citizen tax freeze that's...
 
-**Board Of Selectmen 20170606 Part 2** _(topics: alpr)_
+    **2018-10-03 -- Board of Selectmen**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4IPA4A9LeWQ&t=365s)  > ...of correspondence before us we have the check register we have an email from our tax collector dana flock just letting us know that SEMA resident Jacob Honeycutt actually won a scholarship for the tax...
+    **Board of Selectmen 20181002** _(topics: alpr)_
 
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dwGMy0p7StQ&t=1374s)  > ...days okay just one they come once yeah and then like I said if it goes well I'd like to bring them back in the flock they don't require anything from us other than the parking lot and access to...
 
-### 2018-10-03 -- Board of Selectmen
+    **2017-06-07 -- Board of Selectmen**
 
-**Board of Selectmen 20181002** _(topics: alpr)_
+    **Board Of Selectmen 20170606 Part 2** _(topics: alpr)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dwGMy0p7StQ&t=1374s)  > ...days okay just one they come once yeah and then like I said if it goes well I'd like to bring them back in the flock they don't require anything from us other than the parking lot and access to...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4IPA4A9LeWQ&t=365s)  > ...of correspondence before us we have the check register we have an email from our tax collector dana flock just letting us know that SEMA resident Jacob Honeycutt actually won a scholarship for the tax...
 
+    **2017-01-23 -- Board of Selectmen**
 
-### 2019-05-22 -- Board of Selectmen
+    **Board Of Selectmen 20170119 Part 2** _(topics: alpr)_
 
-**Board of Selectmen 20190521** _(topics: alpr)_
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=p0o49_THrQ0&t=89s)  > ...dated at Seymour the 13th day of junior 2007 and it should be signed by Dana flock from our tax office so at this point I will entertain a motion to approve the tax collectors report as...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kgOW08QMpU4&t=312s)  > ...benefits and that comes from Joseph Cusack our Assessor Doug Thomas our finance director in Dana flock are tax collectors so at this point I'll entertain a motion that we approve the...
+    **2016-12-07 -- Board of Selectmen**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kgOW08QMpU4&t=327s)  > ...benefits per applicant of $200 as recommended by Joe koozie act Doug Thomas and dan flock most of my Amory second by al just under questions this is the senior citizen tax freeze that's...
+    **Board Of Selectment 20161206 Part 2** _(topics: alpr)_
 
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=i6_0XfwPXbA&t=404s)  > ...section 12 129 of the Connecticut General Statutes David the tenth day of November 2016 Dana flock tax office Nicole this point i'll entertain a motion to accept in november 10 2016 tax...
 
-### 2020-05-20 -- Board of Selectmen
+    **2016-11-02 -- Board of Selectmen**
 
-**Board of Selectmen 20200519** _(topics: alpr)_
+    **Board of Selectmen 20161101** _(topics: alpr)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ikwm5bFsKzk&t=296s)  > ...year because of the the Cova crisis so I've been getting reports from Dana flock our tax collector to get an idea as to where we are with regards to collections...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iF1UzOJ18bE&t=482s)  > ...129 of the Connecticut General Statutes dated the 28th date of October 2016 Dana flock tax office Thank You Nicole okay at this point I'll entertain a motion to accept the tax collectors...
 
+    **2016-10-05 -- Board of Selectmen**
 
-### 2020-06-03 -- Board of Selectmen
+    **Board of Selectmen 20161004** _(topics: alpr)_
 
-**Board of Selectmen 20200602** _(topics: alpr)_
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YtWwrlst8hk&t=2931s)  > ...Connecticut General Statutes dated at Seymour the fifteenth day of sep tember 2016 dana flock tax office Thank You Nicole get this point i'll entertain a motion to accept the tax collectors...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dBcOOuLPZRk&t=2521s)  > ...and then it's signed by joe kuzey ak Thomas our finance director and Dana flock our tax collector so this point I'll entertain a motion that the Board of Selectmen approved the recommendation...
+    **2016-09-07 -- Board of Selectmen**
 
+    **Board of Selectmen 20160906** _(topics: alpr)_
 
-### 2020-07-08 -- Board of Selectmen
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=102zIfEGFMY&t=2132s)  > ...I'll just wing it he September 2nd 2016 to the board of Selectmen from Dan Dana flock tax office oh thank you that right there anyway the following overpayments of tax payments...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=102zIfEGFMY&t=2151s)  > ...in accordance with the provisions of section 12-12 n of the Connecticut General statutes Dana flock tax office excellent thank you Nicole okay yep at this point I'll entertain a...
 
-**Board of Selectmen 20200707** _(topics: alpr)_
+    **2016-08-18 -- Board of Selectmen**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=415s)  > ...should you have any questions please do not hesitate to contact me again that shouldn't Dana flock our tax collector so with that I will entertain a motion to move eight Francis Drive off the...
+    **Board of Selectmen 20160816** _(topics: alpr)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=495s)  > ...is B [address redacted] and again it is the same recommendation from our tax payer Dana flock she is recommending that we abate the following delinquent real estate taxes for Grand list 2013 14 15...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=BX9h3QZBixw&t=5098s)  > ...-129 of the Connecticut General statutes dated at Seymour the 12th day of August 2016 Dana flock tax office thank you Nicole okay at this point I entertain a motion to accept the tax collector's...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=532s)  > ...so at this point I'll entertain a motion to approve the recommendation from Dana flock as presented so move move motion by Al second by Trish is there any discussion okay...
+    **2016-08-03 -- Board of Selectmen**
 
+    **Board of Selectmen 20160802 Part 2** _(topics: alpr)_
 
-### 2020-08-24 -- Board of Police Commissioners
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ILCtDv5-TzE&t=121s)  > ...the Connecticut General Statutes dated at Seymour the 29th day of july 2016 Dana flock tax office Thank You Nicole if everybody can review and just see if you have any conflicts...
 
-**Board of Police Commissioners 20200819** _(topics: body_camera)_
+    **2016-07-20 -- Board of Selectmen**
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3xJb2PzQzfM&t=1220s)  > ...taxpayers are gonna have to fund for these so do you have any cost factors for each of the officers to have a body cam in each vehicle they have the dash cams...
+    **Board of Selectmen 20160719** _(topics: alpr)_
 
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=R1qY6lrzJf4&t=3555s)  > ...12-29 of the Connecticut General statutes dated at Seymour the 15th day of July 2016 Dana flock Tex thank you Nicole and I have a motion to accept the tax collector's report as Pres presented...
 
-### 2020-09-02 -- Board of Selectmen
+    **2016-03-02 -- Board of Selectmen**
 
-**Board of Selectmen 20200901 Part 1** _(topics: alpr)_
+    **Board of Selectmen 20160301 Part 2** _(topics: alpr)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=WiGbAe13Jkw&t=180s)  > ...approve the tax collector's report dated september 1st 2020 as presented by dana flock our tax collector motioned by anne marie second by...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=YAe6Ic34VWI&t=764s)  > ...12-129 of the connecticut general statutes dated the 25th day of february 2016 dana flock tax office thank you nicole michael at this point i'll entertain a motion to accept the tax...
 
+    **2016-02-17 -- Board of Selectmen**
 
-### 2020-10-09 -- Board of Selectmen
+    **Board of Selectmen 20160216** _(topics: alpr)_
 
-**Board of Selectmen 20201008 Special  Meeting Part 2** _(topics: alpr)_
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=8iTvmpN1NnY&t=3006s)  > ...section 12-1 129 of the Connecticut General statutes dated at Seymour the 11th day of February 2016 Dana flock tax office thank you Nicole this point I'll entertain a...
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=wyRdkkya-qU&t=197s)  > ...just some information from our tax collector dana flock and again i asked her to take a look at how we are comparing uh overall collection wise we have...
+    **2016-01-20 -- Board of Selectmen**
 
+    **Board of Selectmen 20160119** _(topics: alpr)_
 
-### 2021-01-08 -- Zoning Board of Appeals
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=DAuBTU0W354&t=2512s)  > ...12-129 at the Connecticut General statutes dated Seymour the 14th day of January 2014 signed Dana flock from the tax office um if you have a motion to accept the...
 
-**Zoning Board of Appeals (Public Hearing and Regular Meeting)** _(topics: surveillance_general)_
+    **2015-09-16 -- Board of Selectmen**
 
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Iaz8c8qo80M&t=3056s)  > ...for my security system because before six o'clock i have it on video um surveillance camera because his lights shine over our fence and he sets off our alarms at 5...
+    **Board of Selectmen 20150915** _(topics: alpr)_
 
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ql5EUIfTCzU&t=6673s)  > ...section 12-1 1229 of the Connecticut General statutes Dana flock tax office I'm sorry okay that's just one of those nights yes it is okay can I have a...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ql5EUIfTCzU&t=6720s)  > ...of section 12- 129 of the Connecticut General statutes Dana flock tax office thank you for battling through that Nicole we appreciate that okay at this point I'll...
 
-### 2021-01-27 -- Board of Finance
+    **2015-08-19 -- Board of Selectmen**
 
-**Board of Finance 20210126** _(topics: body_camera)_
+    **Board of Selectmen 20150818** _(topics: alpr)_
 
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JE6PQBgAP-8&t=3327s)  > ...year say it's uh the the dash cams and the body cam cameras and we need to purchase 44 of them for the cars...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=G5wMNWKh1zw&t=5848s)  > ...in accordance with provisions of section 12-1 129 of the Connecticut General statutes Dana flock tax office thank you Nicole I have a motion to accept the tax collector's report as...
 
+    **2015-06-03 -- Board of Selectmen**
 
-### 2021-03-04 -- Economic Development Commission
+    **Board of Selectmen 20150602** _(topics: alpr)_
 
-**Economic Development Commission 20210303** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=U2fac_7uE8I&t=3892s)  > ...uh advocating to to our communities find someone in your town who is willing to do drone video and potentially do it you know pro bono for you...
-
-
-### 2021-03-25 -- Budget Hearing / State of the Town
-
-**Board of Finance 20210324 Budget Deliberations** _(topics: body_camera)_
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LU-ILXc9Wic&t=2278s)  > ...not coming till may we put in the 30 reimbursement for the body cam for the body cams and dash cams because we've got to cut the check...
-
-
-### 2021-04-06 -- Water Pollution Control Authority
-
-**WPCA 20210405** _(topics: surveillance_general)_
-
-- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fuH0_1licD4&t=661s)  > ...cleaning and manhole inspection every five years and a cctv inspection every 10. that was brought up at the last contract discussions prior to the contract being...
-
-
-### 2022-02-08 -- Budget Hearing / State of the Town
-
-**Board of Finance 20220207 Budget Workshop** _(topics: alpr, biometrics_other, body_camera)_
-
-- `biometrics_other` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OoExig3puKg&t=867s)  > ...that was done away with about a year ago the state went to a different system called idemia we no longer use it so the 4250 that was in there uh reduced to...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OoExig3puKg&t=962s)  > ...extinguisher the actual cost is 660 dollars down from 2 grand and the license plate reader software we still have our total in this line i did leave out...
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OoExig3puKg&t=967s)  > ...still have our total in this line i did leave out the the pole mounted alpr cameras that i'm considering purchasing we are getting our first year on those covered...
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OoExig3puKg&t=1395s)  > ...uh chairman you actually asked me to put to separate this out and create a different line for body worn camera this is done by the police accountability act this is our yearly storage fees for um...
-
-
-### 2023-04-19 -- Board of Selectmen
-
-**Board of Selectpersons 20230418** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6FUfUs5LYm0&t=28s)  > ...come to you to thank the Assessor's Office in Dana flock for settling a 13-year bloodbath with this such clock they were highly professional...
-
-
-### 2024-11-20 -- Board of Selectmen
-
-**BOS 20241119** _(topics: body_camera)_
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IH9rxMbzr6Q&t=1994s)  > ...that's that's another good point uh the way that Aon Works any new technology that comes out body cam wise they will send us brand new body cam so they come out and gr they could be in a year...
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IH9rxMbzr6Q&t=1997s)  > ...way that Aon Works any new technology that comes out body cam wise they will send us brand new body cam so they come out and gr they could be in a year they're going to send that neg that...
-
-- `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IH9rxMbzr6Q&t=2061s)  > ...now where it what it actively translates for you so if you're dealing with a person that speaks Spanish the body cam will trans it's absolutely insane so um and having dealt with uh this company um...
-
-
-### 2025-01-22 -- Board of Selectmen
-
-**BOS Ordinance Committee 20250121** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=q-CL1NZv_6M&t=2831s)  > ...view but if I invite people on you know as long as I could see it it's one thing if no one can see it except by drone perhaps or space Karen that was big on Karen that was when M Stan was on the...
-
-
-### 2025-08-05 -- Board of Selectmen
-
-**BOS 8/5/2025** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6OmBHkM-1J0&t=3605s)  > ...did you have any um >> Dana? Dana Flock tax collector. Um, yes, the in practice for the first one, that's fine. The other three things, I mean,...
-
-
-### 2025-10-22 -- Board of Selectmen
-
-**BOS 20251021** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=KrKKRi5-4Ns&t=1133s)  > ...manpower and um things that are needed. Um I appreciate your uh the board's listening to me drone on for just a minute and I promise I'm halfway through. I am going to have a hand...
-
-
-### 2026-02-09 -- Budget Hearing / State of the Town
-
-**Board of Finance Budget Workshop: 2/9/2026** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6s6cTA1RWXY&t=779s)  > ...also. So we pay an annual maintenance fee on that. Uh we have some we have one vehicle mounted license plate reader that we pay $900 a year for. Uh also for fire extinguishers. Um postage comes out...
-
-
-### 2026-03-05 -- Budget Hearing / State of the Town
-
-**Board of Finance: Budget Workshop Meeting 03042026** _(topics: drone)_
-
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qdrqDbtEkMg&t=3825s)  > ...purchases. So, >> it just makes sense. >> The Narcan dispersing drone. >> Yes. >> All right....
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dMH1oy0PL7M&t=2759s)  > ...provisions of section 12 dash 129 of the Connecticut General Statutes dated the 20th made Dana flock taxes Thank You Nicole at this point I'll entertain a motion to accept the tax collectors...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -555,10 +480,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
   > ...purchases. So, >> it just makes sense. >> The Narcan dispersing drone. >> Yes. >> All right....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=qdrqDbtEkMg&t=3825s)  _(term: drone, unreviewed)_
 
-- **[2025-10-22] Board of Selectmen** -- BOS 20251021
-  > ...manpower and um things that are needed. Um I appreciate your uh the board's listening to me drone on for just a minute and I promise I'm halfway through. I am going to have a hand...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KrKKRi5-4Ns&t=1133s)  _(term: drone, unreviewed)_
-
 - **[2025-01-22] Board of Selectmen** -- BOS Ordinance Committee 20250121
   > ...view but if I invite people on you know as long as I could see it it's one thing if no one can see it except by drone perhaps or space Karen that was big on Karen that was when M Stan was on the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=q-CL1NZv_6M&t=2831s)  _(term: drone, unreviewed)_
@@ -627,7 +548,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### video_analytics
 
 *(no findings)*
-
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
@@ -738,11 +658,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -847,6 +762,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Seymour's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/seymour-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip seymour-meeting-transcripts.zip -d seymour
+cd seymour
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

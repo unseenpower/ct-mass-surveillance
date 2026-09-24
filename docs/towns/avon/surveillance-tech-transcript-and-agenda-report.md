@@ -3,19 +3,23 @@
 
 ## At a glance: Avon
 
-This report collects every mention of surveillance technology found in **Avon**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
+<p class="glance-headline"><strong>2,604 licence-plate searches</strong> by Avon police in six towns' released Flock logs</p>
 
+<div class="glance-grid">
+<a class="glance-card" href="../../../analysis/towns/avon-alpr-searches.html"><span class="gc-big">2,604</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Avon police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">78%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">69 of 89 meetings</span></a>
+</div>
+
+**Still incomplete:** 20 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+
+This report collects every mention of surveillance technology found in **Avon**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
 **No surveillance-technology mentions have been found in this town's meetings yet.** That is not the same as none existing -- read the coverage note below, and [Gaps and caveats](#gaps-and-caveats), before treating this as an answer about the town.
 
 
-- **Coverage:** 69 of 89 known Avon meetings transcribed (78%)
-- **Still incomplete:** 20 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
-
-
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
+- [Licence-plate searches by Avon police](#licence-plate-searches-by-avon-police)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -26,51 +30,42 @@ This report collects every mention of surveillance technology found in **Avon**'
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
-## Get the full transcripts
+## Licence-plate searches by Avon police
 
-**[Download Avon's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/avon-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+Six Connecticut towns have released the Flock audit log of every search run against their cameras. Below is what that record holds for Avon's own police department -- not a finding, just the log.
 
 
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+**Avon CT PD**
+
+- **2,604 searches** between 2023-01 and 2026-07 (43 months with at least one search)
+- **183 camera networks** swept by the average single search
+- **99%** of them reached beyond Avon's own cameras
+- The commonest stated reason is free text or a numeric code, rather than one of the preset categories Flock introduced in December 2025
+
+**[Open Avon CT PD's search dashboard](../../analysis/towns/avon-alpr-searches.html)** -- every one of those searches, filterable by month, stated reason, search type and how far it reached, with a **[How to read this](../../analysis/towns/avon-alpr-searches.html#how)** tab covering what each field means and what the record cannot tell you.
 
 
-**How to use it**
-
-```bash
-unzip avon-meeting-transcripts.zip -d avon
-cd avon
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+> **A floor, not a total.** The record only sees queries that reached those six towns' cameras. A single Flock query typically sweeps thousands of networks at once, so most of a Connecticut department's searching does land in it -- but the real count is higher. Nothing in it names an officer, shows a plate, or records what any search returned.
 
 
 ## Mentions by topic: first seen / most recent
 
-*(none)*
+**Back to the meetings.** Everything above this point was about licence-plate *searches* -- what the town's police looked up. Everything below is about what was *said*: each mention is a moment in a recorded public meeting where a surveillance technology came up, with a link to that moment in the video.
+
+*No surveillance-technology mentions found in this town's transcribed meetings yet.*
 
 
 ## Timeline
 
-0 meetings surfaced a finding (none have a known date).
+<!-- report-polish v1 -->
+
+No meetings have surfaced a finding yet.
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -170,7 +165,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### video_analytics
 
 *(no findings)*
-
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
@@ -281,11 +275,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -352,6 +341,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 ### Tabs never crawled
 
 *(none)*
+
+
+## Get the full transcripts
+
+**[Download Avon's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/avon-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip avon-meeting-transcripts.zip -d avon
+cd avon
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---

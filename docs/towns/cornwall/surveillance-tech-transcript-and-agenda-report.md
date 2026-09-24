@@ -3,24 +3,26 @@
 
 ## At a glance: Cornwall
 
+<p class="glance-headline"><strong>2 mentions</strong> of surveillance technology in <strong>1</strong> Cornwall meeting, 2015</p>
+
+<div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">2</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 1 meeting · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2015</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2015-10-21 → 2015-10-21</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">22%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">70 of 322 meetings</span></a>
+</div>
+
+**Not the full history:** transcripts begin **2015-09-03**, but Cornwall's published video archive goes back to **2010-05-17**. Meetings before 2015 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
 This report collects every mention of surveillance technology found in **Cornwall**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-- **3 mentions** across **2 meetings**
-- **First mention:** 2015-10-21  |  **Most recent:** 2024-01-23
-- **Technologies discussed:** alpr, drone
-- **Coverage:** 70 of 322 known Cornwall meetings transcribed (22%)
-- **Not the full history:** transcripts begin **2015-09-03**, but Cornwall's published video archive goes back to **2010-05-17**. Meetings before 2015 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
-
-
 Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
-
 
 > Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
 
-- [Get the full transcripts](#get-the-full-transcripts)
 - [Mentions by topic: first seen / most recent](#mentions-by-topic-first-seen--most-recent)
 - [Timeline](#timeline)
 - [Findings by topic](#findings-by-topic)
@@ -31,70 +33,35 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   - [Agenda/minutes coverage](#agendaminutes-coverage)
   - [Research log](#research-log)
   - [Gaps and caveats](#gaps-and-caveats)
-
-
-## Get the full transcripts
-
-**[Download Cornwall's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/cornwall-meeting-transcripts.zip)**
-
-
-Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
-
-
-**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
-
-
-**How to use it**
-
-```bash
-unzip cornwall-meeting-transcripts.zip -d cornwall
-cd cornwall
-
-# every meeting that mentions a term, with the surrounding line
-grep -rin "license plate" .
-
-# just the meeting dates, from the filenames
-grep -ril "flock" . | sort
-```
-
-
-The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
-
-
-> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
+- [Get the full transcripts](#get-the-full-transcripts)
 
 
 ## Mentions by topic: first seen / most recent
 
-| topic | mentions | meetings | first_seen | most_recent |
+| Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| alpr | 1 | 1 | 2024-01-23 | 2024-01-23 |
-| drone | 2 | 1 | 2015-10-21 | 2015-10-21 |
+| [Drones](#drone) | 2 | 1 | 2015-10-21 | 2015-10-21 |
 
 
 ## Timeline
 
-2 meetings surfaced a finding (2 dated, spanning 2015-10-21 to 2024-01-23; 0 of unknown date, listed last).
+<!-- report-polish v1 -->
 
+1 meetings surfaced a finding (1 dated, spanning 2015-10-21 to 2015-10-21; 0 of unknown date, listed last). Newest first.
 
-### 2015-10-21 -- Board of Selectmen
+*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2015-10-21.*
 
-**Cornwall CT's selectman's meeting102015** _(topics: drone)_
+??? note "Earlier meetings (1)"
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gwzcRBCnHYs&t=113s)  > ...in the uh Connecticut uh tourism office uh called up and said there will be a uh camera on a drone flying around West Cornwall taking pictures of cover bridge and all glory this week U...
+    **2015-10-21 -- Board of Selectmen**
 
-- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gwzcRBCnHYs&t=125s)  > ...Cornwall taking pictures of cover bridge and all glory this week U so if you see a drone we're not being uh invaded or anything um where was she from she's from the Connecticut Tourism...
+    **Cornwall CT's selectman's meeting102015** _(topics: drone)_
 
-
-### 2024-01-23 -- Economic Development Commission
-
-**Cornwall Regular EDC Meeting 1 23 24** _(topics: alpr)_
-
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=cY0RkspjWMI&t=2883s)  > ...Octobers when the weather was like that and still they you know people would flock to the town you know I've been with this almost 30 years and it was just phenomenally...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gwzcRBCnHYs&t=113s)  > ...in the uh Connecticut uh tourism office uh called up and said there will be a uh camera on a drone flying around West Cornwall taking pictures of cover bridge and all glory this week U...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gwzcRBCnHYs&t=125s)  > ...Cornwall taking pictures of cover bridge and all glory this week U so if you see a drone we're not being uh invaded or anything um where was she from she's from the Connecticut Tourism...
 
 
 ## Findings by topic
-
 
 ### ai_data_fusion
 
@@ -103,9 +70,7 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 
 ### alpr
 
-- **[2024-01-23] Economic Development Commission** -- Cornwall Regular EDC Meeting 1 23 24
-  > ...Octobers when the weather was like that and still they you know people would flock to the town you know I've been with this almost 30 years and it was just phenomenally...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cY0RkspjWMI&t=2883s)  _(term: alpr_flock, unreviewed)_
+*(no findings)*
 
 
 ### biometrics_other
@@ -202,7 +167,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ### video_analytics
 
 *(no findings)*
-
 
 ## Agenda/minutes mentions (unreviewed -- live keyword scan, no human review queue yet)
 
@@ -313,11 +277,6 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 _Everything below describes the corpus and its limits, rather than what was found in it._
 
 
-### Why the counts rose on 2026-08-31
-
-Mention counts in this report increased on 2026-08-31, and that is a **correction, not new activity**. Until then the scanner matched keywords against individual caption cues, which average about 33 characters, so a phrase split across two cues -- "license plate" ending one and "reader" starting the next -- matched neither. It missed roughly a quarter of the meetings containing "license plate reader" and about half the mentions of some other terms. The meetings were always in the record; the scanner could not see the phrase. The scanner now matches across cue boundaries, and every term was rescanned against the whole corpus.
-
-
 ## Coverage status
 
 - Channels registered: 1
@@ -400,6 +359,37 @@ Mention counts in this report increased on 2026-08-31, and that is a **correctio
 | channel | tab |
 | --- | --- |
 | richard griggs (Cornwall CT volunteer channel) | streams |
+
+
+## Get the full transcripts
+
+**[Download Cornwall's meeting transcripts (.zip)](https://github.com/unseenpower/ct-mass-surveillance/releases/download/transcript-archives-2026-08/cornwall-meeting-transcripts.zip)**
+
+
+Every finding in this report is a keyword match against exactly these files. Download them to check a quote in its full context, or to search for something this report's keyword list does not cover.
+
+
+**What's inside:** one plain-text `.txt` file per meeting, named `<date>_<video-id>_<meeting-title>.txt`, plus a `MANIFEST.txt` giving the date range and how much of the town's video archive is transcribed.
+
+
+**How to use it**
+
+```bash
+unzip cornwall-meeting-transcripts.zip -d cornwall
+cd cornwall
+
+# every meeting that mentions a term, with the surrounding line
+grep -rin "license plate" .
+
+# just the meeting dates, from the filenames
+grep -ril "flock" . | sort
+```
+
+
+The filename's leading date is the meeting date, so a hit tells you which meeting to watch. Find that meeting in the [Timeline](#timeline) below for a direct, timestamped link to that moment in the video.
+
+
+> These are **machine-generated captions**, not certified minutes. Expect mis-heard names and technical terms, and quote the video rather than the transcript when accuracy matters.
 
 
 ---
