@@ -134,3 +134,23 @@ html.dash-modal-open { overflow: hidden; }
 .md-typeset .map-gif a { display: block; }
 .md-typeset .map-gif img { display: block; width: 100%; height: auto; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 4px; }
 .md-typeset .map-gif figcaption { font-size: .8rem; color: var(--md-default-fg-color--light); margin: .5em 0 0; max-width: none; text-align: left; }
+
+/* Cross-town matrix: the page takes the whole screen (matrix_layout.py hides the
+   sidebars and drops a .matrix-page marker), the 24-column table is tightened,
+   and the Town column stays put when the table scrolls sideways. */
+.md-main:has(.matrix-page) .md-grid { max-width: min(100%, 140rem); }
+.md-content:has(.matrix-page) .md-typeset > p,
+.md-content:has(.matrix-page) .md-typeset > blockquote { max-width: 52rem; }
+.md-content:has(.matrix-page) .md-typeset table:not([class]) { font-size: .64rem; }
+.md-content:has(.matrix-page) .md-typeset table:not([class]) th,
+.md-content:has(.matrix-page) .md-typeset table:not([class]) td { padding: .45em .6em; }
+.md-content:has(.matrix-page) .md-typeset table:not([class]) th {
+  vertical-align: bottom; line-height: 1.25; min-width: 0; /* the theme's 5rem floor x 24 columns overflows any screen */
+  hyphens: none; overflow-wrap: normal;
+}
+.md-content:has(.matrix-page) .md-typeset table:not([class]) td { white-space: nowrap; }
+.md-content:has(.matrix-page) .md-typeset table:not([class]) th:first-child,
+.md-content:has(.matrix-page) .md-typeset table:not([class]) td:first-child {
+  position: sticky; left: 0; z-index: 1; background: var(--md-default-bg-color);
+  box-shadow: 1px 0 0 var(--md-default-fg-color--lightest);
+}

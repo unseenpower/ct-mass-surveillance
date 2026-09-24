@@ -1,5 +1,16 @@
 # Surveillance-tech report: Orange
 
+<!-- freshness -->
+!!! info "Mentions current to 10 September 2026"
+
+    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+<!-- /freshness -->
+
+<!-- flockoff -->
+!!! tip "Want to do something about it?"
+
+    Visit **[flockoff.io](https://flockoff.io)** to find out what you can do.
+<!-- /flockoff -->
 
 ## At a glance: Orange
 
@@ -51,7 +62,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 28 meetings surfaced a finding (28 dated, spanning 2020-01-07 to 2026-08-13; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-08-13.*
+*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-13.*
 
 ??? note "Earlier meetings (28)"
 

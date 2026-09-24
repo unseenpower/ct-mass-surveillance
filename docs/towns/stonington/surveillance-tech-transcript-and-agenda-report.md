@@ -1,5 +1,16 @@
 # Surveillance-tech report: Stonington
 
+<!-- freshness -->
+!!! info "Mentions current to 10 September 2026"
+
+    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+<!-- /freshness -->
+
+<!-- flockoff -->
+!!! tip "Want to do something about it?"
+
+    Visit **[flockoff.io](https://flockoff.io)** to find out what you can do.
+<!-- /flockoff -->
 
 ## At a glance: Stonington
 
@@ -75,7 +86,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 14 meetings surfaced a finding (14 dated, spanning 2020-05-07 to 2026-08-26; 0 of unknown date, listed last). Newest first.
 
-**The last 30 days** (since 2026-08-25):
+**Since 2026-08-25** (through 2026-09-10, when this report was generated):
 
 ### 2026-08-26 -- Board of Selectmen
 
