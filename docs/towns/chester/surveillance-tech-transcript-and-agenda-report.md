@@ -1,5 +1,16 @@
 # Surveillance-tech report: Chester
 
+<!-- freshness -->
+!!! info "Mentions current to 10 September 2026"
+
+    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+<!-- /freshness -->
+
+<!-- flockoff -->
+!!! tip "Want to do something about it?"
+
+    Visit **[flockoff.io](https://flockoff.io)** to find out what you can do.
+<!-- /flockoff -->
 
 ## At a glance: Chester
 

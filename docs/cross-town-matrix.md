@@ -1,4 +1,18 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # CT surveillance-tech mentions: cross-town matrix
+
+<div class="matrix-page" hidden></div>
+
+<!-- flockoff -->
+!!! tip "Want to do something about it?"
+
+    Visit **[flockoff.io](https://flockoff.io)** to find out what you can do.
+<!-- /flockoff -->
 
 _Generated 2026-09-10T18:10:10 — 99 towns, 5,817 total mentions across 17 topics._
 

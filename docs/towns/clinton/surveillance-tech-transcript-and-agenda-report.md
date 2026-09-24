@@ -1,5 +1,16 @@
 # Surveillance-tech report: Clinton
 
+<!-- freshness -->
+!!! info "Mentions current to 10 September 2026"
+
+    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+<!-- /freshness -->
+
+<!-- flockoff -->
+!!! tip "Want to do something about it?"
+
+    Visit **[flockoff.io](https://flockoff.io)** to find out what you can do.
+<!-- /flockoff -->
 
 ## At a glance: Clinton
 
@@ -73,7 +84,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 9 meetings surfaced a finding (9 dated, spanning 2025-09-03 to 2026-07-01; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-24. The most recent was 2026-07-01.*
+*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-07-01.*
 
 ??? note "Earlier meetings (9)"
 

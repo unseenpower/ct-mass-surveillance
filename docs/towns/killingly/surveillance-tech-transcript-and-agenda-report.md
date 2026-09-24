@@ -1,5 +1,16 @@
 # Surveillance-tech report: Killingly
 
+<!-- freshness -->
+!!! info "Mentions current to 10 September 2026"
+
+    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+<!-- /freshness -->
+
+<!-- flockoff -->
+!!! tip "Want to do something about it?"
+
+    Visit **[flockoff.io](https://flockoff.io)** to find out what you can do.
+<!-- /flockoff -->
 
 ## At a glance: Killingly
 
@@ -53,7 +64,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 13 meetings surfaced a finding (13 dated, spanning 2024-02-06 to 2026-09-08; 0 of unknown date, listed last). Newest first.
 
-**The last 30 days** (since 2026-08-25):
+**Since 2026-08-25** (through 2026-09-10, when this report was generated):
 
 ### 2026-09-08 -- Town Council
 
