@@ -1,9 +1,9 @@
 # Surveillance-tech report: Rocky Hill
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,17 +14,17 @@
 
 ## At a glance: Rocky Hill
 
-<p class="glance-headline"><strong>65 mentions</strong> of surveillance technology in <strong>24</strong> Rocky Hill meetings, 2022–2026</p>
+<p class="glance-headline"><strong>78 mentions</strong> of surveillance technology in <strong>32</strong> Rocky Hill meetings, 2022–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">65</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 24 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2022–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2022-10-18 → 2026-08-18</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">78</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 32 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2022–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2022-10-18 → 2026-09-22</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones, Facial recognition, Predictive policing, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/rocky-hill-alpr-searches.html"><span class="gc-big">1,834</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Rocky Hill police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">47%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">190 of 404 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">59%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">241 of 406 meetings</span></a>
 </div>
 
-**Still incomplete:** 214 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+**Still incomplete:** 165 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **Rocky Hill**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -73,10 +73,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| [ALPR / Flock](#alpr) | 20 | 9 | 2024-03-04 | 2026-08-18 |
-| [Drones](#drone) | 21 | 9 | 2022-10-18 | 2026-04-21 |
+| [ALPR / Flock](#alpr) | 24 | 10 | 2023-04-25 | 2026-08-18 |
+| [Drones](#drone) | 26 | 13 | 2022-10-18 | 2026-09-22 |
 | [Facial recognition](#facial_recognition) | 1 | 1 | 2026-04-06 | 2026-04-06 |
-| [Predictive policing](#predictive_policing) | 22 | 10 | 2022-11-22 | 2026-07-02 |
+| [Predictive policing](#predictive_policing) | 26 | 13 | 2022-11-22 | 2026-07-02 |
 | [General surveillance](#surveillance_general) | 1 | 1 | 2024-03-18 | 2024-03-18 |
 
 
@@ -84,11 +84,18 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 <!-- report-polish v1 -->
 
-24 meetings surfaced a finding (24 dated, spanning 2022-10-18 to 2026-08-18; 0 of unknown date, listed last). Newest first.
+32 meetings surfaced a finding (32 dated, spanning 2022-10-18 to 2026-09-22; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-18.*
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
 
-??? note "Earlier meetings (24)"
+### 2026-09-22 -- Town Council
+
+**Town Council - September  22 , 2026** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XXZL_I9TajY&t=2155s)  > ...meeting. Um, from Fire Chief Gary, he came in to this email came in today. The RF RHFD drone squad has been requested by Weathersfield PD to attend the next...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=XXZL_I9TajY&t=2177s)  > ...Weathersfield. So, that was a pat on the back for their drone unit. Um for the ambulance, the ambulance...
+
+??? note "Earlier meetings (31)"
 
     **2026-08-18 -- Town Council**
 
@@ -262,6 +269,52 @@ Six Connecticut towns have released the Flock audit log of every search run agai
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4WRsumfDpqo&t=3093s)  > ...the police is that if we're called to a police scene the fire department will staff the Drone and we'll do whatever they need there vice versa if we need it on a fire scene our Personnel are going...
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4WRsumfDpqo&t=3104s)  > ...on a fire scene our Personnel are going to be tied up on the fire scene and uh the police will man the Drone for us uh lastly safety and support this is uh part of our lunar program which we're...
 
+    **2023-08-21 -- Town Council**
+
+    **Town Council  - August 21, 2023** _(topics: predictive_policing)_
+
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=jTp8SaeVtRc&t=7658s)  > ...River's Edge update [Laughter] AKA The Foundry okay uh when I wrote my uh report there was no progress there was no update I talked...
+
+    **2023-07-17 -- Town Council**
+
+    **Town Council -  July 17, 2023** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UJTW4wJ-bds&t=2586s)  > ...one resignation one military uh new website release is coming um six drone events are Billings to the I-90 uh one Corridor for uh our fire department have uh...
+
+    **2023-06-05 -- Town Council**
+
+    **Town Council     -  June 5, 2023** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=HFqIib3iCGI&t=1782s)  > ...they're doing live demonstrations they're going to have a car fire you'll see the jaws of life the Drone flying roof cutting learn not to burn trailer it's also an opportunity to recruit new...
+
+    **2023-04-25 -- Town Council**
+
+    **Town Council Budget Workshop #  2    -  April 25, 2023** _(topics: alpr)_
+
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=s3T1QhjqEZU&t=4783s)  > ...actually still in the uh the arpa funds we had uh three years of arpa did the License Plate Reader it's about 57 000 per year so as long as the ARP is available so...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=s3T1QhjqEZU&t=4798s)  > ...then on the uh so not next year the following year you'll see an increase of about 50 000 for those License Plate Reader system in which category...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=s3T1QhjqEZU&t=4847s)  > ...only uh next year surprise where did that come from was that we had agreed to the three-year contract with the License Plate Reader uh anything else we've seen uh positions such as the Human Service I...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=s3T1QhjqEZU&t=4873s)  > ...story but as you know we've got 980 000 available that includes the remaining two payments for the License Plate Reader those are the only expenditures that are allowed after...
+
+    **2023-04-17 -- Town Council**
+
+    **Town Council     - April 17, 2023** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=E6jQvzsgJ8I&t=6616s)  > ...so the department has a new vehicle but it's a donated vehicle and it will help house drone equipment and um and show up at events where to provide safety and backup...
+
+    **2023-03-07 -- Town Council**
+
+    **Town Council - March 7, 2023** _(topics: predictive_policing)_
+
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=TrZjanq-_kI&t=4480s)  > ...couple of other projects that came up in public Hearing in town There's The Foundry project now I know I sat on the park committee for The Foundry project whether it be eight or ten years ago a...
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=TrZjanq-_kI&t=4483s)  > ...public Hearing in town There's The Foundry project now I know I sat on the park committee for The Foundry project whether it be eight or ten years ago a project that was going to be completed...
+
+    **2023-03-06 -- Town Council**
+
+    **Town Council - March 6, 2023** _(topics: predictive_policing)_
+
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rZsTdwCtXAA&t=568s)  > ...silent to the seventy five thousand dollars what happened another example The Foundry or River's Edge Michael Romano acting for Leonard Thailand had made representations about...
+
     **2022-11-22 -- Town Council**
 
     **Town Council    - November 21 , 2022** _(topics: predictive_policing)_
@@ -290,12 +343,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=lBzlYZI-6pg&t=2539s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-20] Town Council** -- Town Council  - July 20, 2026
-  > ...repeat it. We have ALPR cameras in town. They are a different system. We have two flock cameras that we have access to, but are right. Oh, one >> just one. Sorry. Just one flock camera...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4-ytvgLtdk0&t=3269s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-07-20] Town Council** -- Town Council  - July 20, 2026
   > ...this is this program is totally separate from like an ALPR license plate reading program or something like that because this is...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4-ytvgLtdk0&t=3180s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-20] Town Council** -- Town Council  - July 20, 2026
+  > ...repeat it. We have ALPR cameras in town. They are a different system. We have two flock cameras that we have access to, but are right. Oh, one >> just one. Sorry. Just one flock camera...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4-ytvgLtdk0&t=3269s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-07-20] Town Council** -- Town Council  - July 20, 2026
   > ...there's some confusion out there and it's been talked about but let's just repeat it. We have ALPR cameras in town. They are a different system. We have two flock cameras that we have access to,...
@@ -318,8 +371,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=FbwFsDOe12I&t=576s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council --April 06, 2026
-  > ...to sign a contract, first to go live. Uh unique ALPR offering. Again, you can get ALPR with the program, but never do they get together. They are completely separate. We never...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=aomOl4EiDo8&t=1852s)  _(term: alpr_flock, unreviewed)_
+  > ...speed camera into an ALPR camera, which means we're looking at every plate." An ALPR camera looks at every plate that goes by. Our system only looks at violators who were going 10 mph over....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=aomOl4EiDo8&t=1391s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-06] Town Council** -- Town Council --April 06, 2026
+  > ...That's why we did it. We were the first to sign a contract, first to go live. Uh unique ALPR offering. Again, you can get ALPR with the program, but never do they get together....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=aomOl4EiDo8&t=1850s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council --April 06, 2026
   > ...the case may be. That is important. And one of the things that we never do is combine our ALPR with our speed cameras. So, you'll see some s- some companies that will say, "Well, we can turn your...
@@ -330,6 +387,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=aomOl4EiDo8&t=1387s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council --April 06, 2026
+  > ...to sign a contract, first to go live. Uh unique ALPR offering. Again, you can get ALPR with the program, but never do they get together. They are completely separate. We never...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=aomOl4EiDo8&t=1852s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-06] Town Council** -- Town Council --April 06, 2026
   > ...or any anything? There's no extra costs. No. What about the cost to to the license plate reader? You're not generating any income from that. There must be a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=aomOl4EiDo8&t=5367s)  _(term: alpr_flock, unreviewed)_
 
@@ -338,32 +399,40 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=aomOl4EiDo8&t=1373s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-06] Town Council** -- Town Council --April 06, 2026
-  > ...speed camera into an ALPR camera, which means we're looking at every plate." An ALPR camera looks at every plate that goes by. Our system only looks at violators who were going 10 mph over....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=aomOl4EiDo8&t=1391s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-06] Town Council** -- Town Council --April 06, 2026
   > ...program, but never do they get together. They are completely separate. We never see that ALPR data. We don't use our cameras for anything. We don't use our technology for that. You set it up under...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=aomOl4EiDo8&t=1859s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-06] Town Council** -- Town Council --April 06, 2026
-  > ...That's why we did it. We were the first to sign a contract, first to go live. Uh unique ALPR offering. Again, you can get ALPR with the program, but never do they get together....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=aomOl4EiDo8&t=1850s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-10-21] Town Council** -- Town Council - October 21, 2024
   > ...a lot of really good things happening in the community and they're happening organically um I want to welcome flock and herd I don't think I did that at the last meeting but it's a really great...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mxnHzcGV1Bw&t=2964s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-04-16] Town Council** -- Town Council  -- April 15 , 2024
-  > ...you have nothing to say it's not them um another question was there a hit on your license plate reader on this car for Stephanie place when it came into town my understanding I have not um my...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=izJmCouWTtY&t=3014s)  _(term: alpr_flock, unreviewed)_
-
-- **[2024-04-16] Town Council** -- Town Council  -- April 15 , 2024
   > ...evidence that's available to us these leads have been developed through the use of the town's License Plate Reader system information from other law enforce agencies as well as potential...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=izJmCouWTtY&t=1782s)  _(term: alpr_flock, unreviewed)_
+
+- **[2024-04-16] Town Council** -- Town Council  -- April 15 , 2024
+  > ...you have nothing to say it's not them um another question was there a hit on your license plate reader on this car for Stephanie place when it came into town my understanding I have not um my...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=izJmCouWTtY&t=3014s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-03-04] Town Council** -- Town Council --  March 04, 2024
   > ...keeping our public safe um how is that how have we adapted well you've adapted by supporting our License Plate Reader system number one so that that system in itself has almost made our job easier...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=NQtaL2Jofb4&t=2054s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-04-25] Town Council** -- Town Council Budget Workshop #  2    -  April 25, 2023
+  > ...actually still in the uh the arpa funds we had uh three years of arpa did the License Plate Reader it's about 57 000 per year so as long as the ARP is available so...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=s3T1QhjqEZU&t=4783s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-04-25] Town Council** -- Town Council Budget Workshop #  2    -  April 25, 2023
+  > ...only uh next year surprise where did that come from was that we had agreed to the three-year contract with the License Plate Reader uh anything else we've seen uh positions such as the Human Service I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=s3T1QhjqEZU&t=4847s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-04-25] Town Council** -- Town Council Budget Workshop #  2    -  April 25, 2023
+  > ...then on the uh so not next year the following year you'll see an increase of about 50 000 for those License Plate Reader system in which category...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=s3T1QhjqEZU&t=4798s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-04-25] Town Council** -- Town Council Budget Workshop #  2    -  April 25, 2023
+  > ...story but as you know we've got 980 000 available that includes the remaining two payments for the License Plate Reader those are the only expenditures that are allowed after...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=s3T1QhjqEZU&t=4873s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -398,13 +467,17 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### drone
 
+- **[2026-09-22] Town Council** -- Town Council - September  22 , 2026
+  > ...Weathersfield. So, that was a pat on the back for their drone unit. Um for the ambulance, the ambulance...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XXZL_I9TajY&t=2177s)  _(term: drone, unreviewed)_
+
+- **[2026-09-22] Town Council** -- Town Council - September  22 , 2026
+  > ...meeting. Um, from Fire Chief Gary, he came in to this email came in today. The RF RHFD drone squad has been requested by Weathersfield PD to attend the next...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XXZL_I9TajY&t=2155s)  _(term: drone, unreviewed)_
+
 - **[2026-04-21] Town Council** -- Town Council - April 20 , 2026
   > ...uh during the fire report um he had reported the fire chief reported that a drone had crashed on a call due to a propeller failure,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Dt8N33ZVLF4&t=6327s)  _(term: drone, unreviewed)_
-
-- **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
-  > ...Um, >> yeah, it was just three. It was just three drone activations. >> It was our drones, not other drones coming in,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=2704s)  _(term: drone, unreviewed)_
 
 - **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
   > ...the assistant mechanic position. And I I found this pretty interesting. They had three drone calls for February and...
@@ -417,6 +490,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
   > ...>> Um I think it was I think it was town >> three three calls for our drone to be used in town. I know they bring it to all kinds of stuff....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=2694s)  _(term: drone, unreviewed)_
+
+- **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
+  > ...Um, >> yeah, it was just three. It was just three drone activations. >> It was our drones, not other drones coming in,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=2704s)  _(term: drone, unreviewed)_
 
 - **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
   > ...>> It was our drones, not other drones coming in, >> right? Okay. Three drone calls as in like UFOs or something. >> Right. Okay....
@@ -439,10 +516,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=pjAuA3q1peY&t=3204s)  _(term: drone, unreviewed)_
 
 - **[2024-04-16] Town Council** -- Town Council  -- April 15 , 2024
-  > ...grandfather in those drones going forward we have to buy a certain type of drone I'd be open to that discussion too um the deputy fire chief is actually extrem extremely fired up about it no...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=izJmCouWTtY&t=4310s)  _(term: drone, unreviewed)_
-
-- **[2024-04-16] Town Council** -- Town Council  -- April 15 , 2024
   > ...accidents and find people who are missing um so to say to the town now that you cannot use the Drone um I don't know what the cost was but I would guess 20 to $40,000 or somewhere in there plus...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=izJmCouWTtY&t=4274s)  _(term: drone, unreviewed)_
 
@@ -454,6 +527,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   > ...drones um meanwhile take the case of Rocky Hill uh fire department has already purchased the Drone and is using it to save lives and uh respond to accidents and find people who are...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=izJmCouWTtY&t=4264s)  _(term: drone, unreviewed)_
 
+- **[2024-04-16] Town Council** -- Town Council  -- April 15 , 2024
+  > ...grandfather in those drones going forward we have to buy a certain type of drone I'd be open to that discussion too um the deputy fire chief is actually extrem extremely fired up about it no...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=izJmCouWTtY&t=4310s)  _(term: drone, unreviewed)_
+
 - **[2024-03-04] Town Council** -- Town Council --  March 04, 2024
   > ...department are coming out that you guys as a department could see as beneficial well you know we've we started a drone program a couple years ago um that's good for emergency response and maybe...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=NQtaL2Jofb4&t=2510s)  _(term: drone, unreviewed)_
@@ -463,24 +540,36 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4WRsumfDpqo&t=3079s)  _(term: drone, unreviewed)_
 
 - **[2024-02-05] Town Council** -- Town Council   - February 5, 2024
-  > ...on a fire scene our Personnel are going to be tied up on the fire scene and uh the police will man the Drone for us uh lastly safety and support this is uh part of our lunar program which we're...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4WRsumfDpqo&t=3104s)  _(term: drone, unreviewed)_
+  > ...uh they're responsible for all aspects of safety on the fire ground as well as supporting the Department's drone program which is a joint venture with the police I just want to take a couple...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4WRsumfDpqo&t=2978s)  _(term: drone, unreviewed)_
 
 - **[2024-02-05] Town Council** -- Town Council   - February 5, 2024
   > ...the police is that if we're called to a police scene the fire department will staff the Drone and we'll do whatever they need there vice versa if we need it on a fire scene our Personnel are going...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4WRsumfDpqo&t=3093s)  _(term: drone, unreviewed)_
 
 - **[2024-02-05] Town Council** -- Town Council   - February 5, 2024
-  > ...uh they're responsible for all aspects of safety on the fire ground as well as supporting the Department's drone program which is a joint venture with the police I just want to take a couple...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4WRsumfDpqo&t=2978s)  _(term: drone, unreviewed)_
+  > ...on a fire scene our Personnel are going to be tied up on the fire scene and uh the police will man the Drone for us uh lastly safety and support this is uh part of our lunar program which we're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4WRsumfDpqo&t=3104s)  _(term: drone, unreviewed)_
 
-- **[2022-10-18] Town Council** -- Town Council   - October 17 , 2022
-  > ...three months so that's that's quite a few calls still to 91. uh the Drone training is extended over to the with police the Drone program is going well...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=sOIGMp4OrHY&t=500s)  _(term: drone, unreviewed)_
+- **[2023-07-17] Town Council** -- Town Council -  July 17, 2023
+  > ...one resignation one military uh new website release is coming um six drone events are Billings to the I-90 uh one Corridor for uh our fire department have uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UJTW4wJ-bds&t=2586s)  _(term: drone, unreviewed)_
+
+- **[2023-06-05] Town Council** -- Town Council     -  June 5, 2023
+  > ...they're doing live demonstrations they're going to have a car fire you'll see the jaws of life the Drone flying roof cutting learn not to burn trailer it's also an opportunity to recruit new...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=HFqIib3iCGI&t=1782s)  _(term: drone, unreviewed)_
+
+- **[2023-04-17] Town Council** -- Town Council     - April 17, 2023
+  > ...so the department has a new vehicle but it's a donated vehicle and it will help house drone equipment and um and show up at events where to provide safety and backup...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=E6jQvzsgJ8I&t=6616s)  _(term: drone, unreviewed)_
 
 - **[2022-10-18] Town Council** -- Town Council   - October 17 , 2022
   > ...few calls still to 91. uh the Drone training is extended over to the with police the Drone program is going well uh fire department uh...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=sOIGMp4OrHY&t=502s)  _(term: drone, unreviewed)_
+
+- **[2022-10-18] Town Council** -- Town Council   - October 17 , 2022
+  > ...three months so that's that's quite a few calls still to 91. uh the Drone training is extended over to the with police the Drone program is going well...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=sOIGMp4OrHY&t=500s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -512,16 +601,28 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=fKJBTfoStKk&t=3785s)  _(term: predictive_policing, unreviewed)_
 
 - **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
-  > ...>> the first line is presently in the non-reoccurring fund and it is named foundry. So, if any of you have listened to me probably to the point of annoying, in order to take something out of a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=8900s)  _(term: predictive_policing, unreviewed)_
+  > ...Uh from account 40950000000 5950 non-recurring foundry 49,828. >> Do I add the >> Y...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=9174s)  _(term: predictive_policing, unreviewed)_
+
+- **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
+  > ...>> foundry >> 49. >> The foundry foundry was 49. >> The foundry was 49. >> No, that's right....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=8868s)  _(term: predictive_policing, unreviewed)_
+
+- **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
+  > ...identified in the capital nonrecurring fund received and unexpended subsequent to the foundry riverfront project in the amount of 49,828. Be it resolved that the above land...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=9148s)  _(term: predictive_policing, unreviewed)_
+
+- **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
+  > ...>> in our nonreoccurring >> foundry >> 49. >> The foundry foundry was 49....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=8867s)  _(term: predictive_policing, unreviewed)_
 
 - **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
   > ...>> 49. >> The foundry foundry was 49. >> The foundry was 49. >> No, that's right. >> So that account is going away and that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=8870s)  _(term: predictive_policing, unreviewed)_
 
 - **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
-  > ...>> foundry >> 49. >> The foundry foundry was 49. >> The foundry was 49. >> No, that's right....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=8868s)  _(term: predictive_policing, unreviewed)_
+  > ...>> the first line is presently in the non-reoccurring fund and it is named foundry. So, if any of you have listened to me probably to the point of annoying, in order to take something out of a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=8900s)  _(term: predictive_policing, unreviewed)_
 
 - **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
   > ...So, we're saying this little 49,000 that is currently in non-recurring for a purpose called foundry should go to the land trust. >> Okay....
@@ -530,18 +631,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
   > ...So on non-recurring you basically have a purpose. You can be working on sidewalks. You can be doing the foundry. There are sections that are called undesated and the only time that can...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=8960s)  _(term: predictive_policing, unreviewed)_
-
-- **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
-  > ...>> in our nonreoccurring >> foundry >> 49. >> The foundry foundry was 49....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=8867s)  _(term: predictive_policing, unreviewed)_
-
-- **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
-  > ...identified in the capital nonrecurring fund received and unexpended subsequent to the foundry riverfront project in the amount of 49,828. Be it resolved that the above land...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=9148s)  _(term: predictive_policing, unreviewed)_
-
-- **[2026-03-17] Town Council** -- Town Council - March 16 , 2026
-  > ...Uh from account 40950000000 5950 non-recurring foundry 49,828. >> Do I add the >> Y...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z0t2a3JFLbY&t=9174s)  _(term: predictive_policing, unreviewed)_
 
 - **[2025-12-16] Town Council** -- Town Council  - December 15 ,  2025
   > ...Foundry Project over to Elmidge Park for improvements and upgrades. Um, as you know, the foundry project is something we're obviously going to be tackling and that's for future discussion, but at the...
@@ -560,36 +649,52 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=iQzGYf2-1Rc&t=5080s)  _(term: predictive_policing, unreviewed)_
 
 - **[2025-09-04] Affordable Housing Committee** -- Rocky Hill Affordable Housing Committee   -- September 03 ,  2025
-  > ...>> Yeah. in >> that's a very interesting >> when when the foundry was approved it was intended to be condominiums and there was a tax abatement agreement that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=FQIZL3dzUD8&t=5800s)  _(term: predictive_policing, unreviewed)_
+  > ...for environmental cleanup, I believe, of the foundry and of Tulisano Park. And I'm not sure what the conditions are. um the state as a matter of public policy when...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=FQIZL3dzUD8&t=5710s)  _(term: predictive_policing, unreviewed)_
 
 - **[2025-09-04] Affordable Housing Committee** -- Rocky Hill Affordable Housing Committee   -- September 03 ,  2025
   > ...>> Any other business? >> I'm going to ask him. Um, how about the foundry? Now, that's been proposed and bought and they they filed plans in order to build apartments...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=FQIZL3dzUD8&t=5586s)  _(term: predictive_policing, unreviewed)_
 
 - **[2025-09-04] Affordable Housing Committee** -- Rocky Hill Affordable Housing Committee   -- September 03 ,  2025
-  > ...for environmental cleanup, I believe, of the foundry and of Tulisano Park. And I'm not sure what the conditions are. um the state as a matter of public policy when...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=FQIZL3dzUD8&t=5710s)  _(term: predictive_policing, unreviewed)_
-
-- **[2025-04-07] Town Council** -- Town Council  -   April 07,  2025
-  > ...strategies. And I do have a a quick summary which I'm not going to read uh a quick update on River's Edge the foundry update. Um they are still very interested. Um, as usual, the envir the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=lz7NYCEBQeg&t=3922s)  _(term: predictive_policing, unreviewed)_
+  > ...>> Yeah. in >> that's a very interesting >> when when the foundry was approved it was intended to be condominiums and there was a tax abatement agreement that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=FQIZL3dzUD8&t=5800s)  _(term: predictive_policing, unreviewed)_
 
 - **[2025-04-07] Town Council** -- Town Council  -   April 07,  2025
   > ...might be able to capitalize on. And who knows, maybe they'll jump start the foundry. Never know. All right. Third time's a charm. I'm a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=lz7NYCEBQeg&t=3412s)  _(term: predictive_policing, unreviewed)_
 
-- **[2025-03-18] Town Council** -- Town Council -  March 17 , 2025
-  > ...briefly um they're having an issue with MDC um MDC I guess shifted their priorities and The Foundry is not one of them right now um there's an issue getting water service to that property...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YtV4Bg5nQDQ&t=6211s)  _(term: predictive_policing, unreviewed)_
+- **[2025-04-07] Town Council** -- Town Council  -   April 07,  2025
+  > ...strategies. And I do have a a quick summary which I'm not going to read uh a quick update on River's Edge the foundry update. Um they are still very interested. Um, as usual, the envir the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=lz7NYCEBQeg&t=3922s)  _(term: predictive_policing, unreviewed)_
 
 - **[2025-03-18] Town Council** -- Town Council -  March 17 , 2025
   > ...in um I did um contact attorney Eric Parker regarding The Foundry um asked him that if he can attend the meeting couldn't attend this meeting or...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=YtV4Bg5nQDQ&t=6195s)  _(term: predictive_policing, unreviewed)_
 
+- **[2025-03-18] Town Council** -- Town Council -  March 17 , 2025
+  > ...briefly um they're having an issue with MDC um MDC I guess shifted their priorities and The Foundry is not one of them right now um there's an issue getting water service to that property...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YtV4Bg5nQDQ&t=6211s)  _(term: predictive_policing, unreviewed)_
+
 - **[2024-03-18] Town Council** -- Town Council - March 18, 2024
   > ...just give an update on where things stand uh with River's Edge with The Foundry um on behalf of my client Leonard thyen who's the principle of the entity that owns it and is is moving...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=c7VnA7ru6RI&t=236s)  _(term: predictive_policing, unreviewed)_
+
+- **[2023-08-21] Town Council** -- Town Council  - August 21, 2023
+  > ...River's Edge update [Laughter] AKA The Foundry okay uh when I wrote my uh report there was no progress there was no update I talked...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jTp8SaeVtRc&t=7658s)  _(term: predictive_policing, unreviewed)_
+
+- **[2023-03-07] Town Council** -- Town Council - March 7, 2023
+  > ...couple of other projects that came up in public Hearing in town There's The Foundry project now I know I sat on the park committee for The Foundry project whether it be eight or ten years ago a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TrZjanq-_kI&t=4480s)  _(term: predictive_policing, unreviewed)_
+
+- **[2023-03-07] Town Council** -- Town Council - March 7, 2023
+  > ...public Hearing in town There's The Foundry project now I know I sat on the park committee for The Foundry project whether it be eight or ten years ago a project that was going to be completed...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TrZjanq-_kI&t=4483s)  _(term: predictive_policing, unreviewed)_
+
+- **[2023-03-06] Town Council** -- Town Council - March 6, 2023
+  > ...silent to the seventy five thousand dollars what happened another example The Foundry or River's Edge Michael Romano acting for Leonard Thailand had made representations about...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rZsTdwCtXAA&t=568s)  _(term: predictive_policing, unreviewed)_
 
 - **[2022-11-22] Town Council** -- Town Council    - November 21 , 2022
   > ...okay thank you moving on to new business a River's Edge development AKA The Foundry update and we will welcome attorney Eric Parker thank you for coming thank you madam...
@@ -740,8 +845,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 13
-- Videos registered: 404 (fetched: 190, no captions: 8)
-- Date range covered: 2020-04-06 to 2026-08-28 (all 404 videos dated)
+- Videos registered: 406 (fetched: 240, no captions: 9)
+- Date range covered: 2020-04-06 to 2026-09-22 (all 406 videos dated)
 
 
 ### Channels
@@ -755,8 +860,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| rocky_hill_ct | streams | 2026-09-10 11:38:10.798589 | 815 |
-| rocky_hill_ct | videos | 2026-09-10 11:37:59.008172 | 56 |
+| rocky_hill_ct | streams | 2026-09-25 15:24:14.885384 | 821 |
+| rocky_hill_ct | videos | 2026-09-25 15:24:02.373108 | 56 |
 
 
 ## Registered meeting bodies
@@ -766,9 +871,9 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Capital Improvement Committee | budget_finance | True | 5 |
 | Finance Committee | budget_finance | True | 24 |
 | Insurance Committee | budget_finance | True | 3 |
-| Town Council | council | True | 164 |
+| Town Council | council | True | 165 |
 | Town Council/Board of Education Joint Meeting | council | True | 1 |
-| Board of Education | education | True | 53 |
+| Board of Education | education | True | 54 |
 | Affordable Housing Committee | other | True | 19 |
 | Economic Development Commission | other | True | 22 |
 | Government Operations Committee | other | True | 30 |
@@ -804,7 +909,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (8 shown, max 25)
+### Videos with no captions available (9 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
@@ -815,6 +920,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Zoning Board of Appeals - December 16 ,  2025 | 2025-12-16 |
 | Senior Liaison-   April 28,  2025 | 2025-04-28 |
 | Town Council  - December 16, 2024 | 2024-12-16 |
+| Government Operations Committee  - December 4, 2023 | 2023-12-04 |
 | Economic Development Commission | 2021-11-17 |
 
 
@@ -857,5 +963,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:01:47 from Rocky Hill's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:07:52 from Rocky Hill's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

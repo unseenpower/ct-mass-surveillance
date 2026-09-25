@@ -1,9 +1,9 @@
 # Surveillance-tech report: Westport
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,17 +14,17 @@
 
 ## At a glance: Westport
 
-<p class="glance-headline"><strong>72 mentions</strong> of surveillance technology in <strong>34</strong> Westport meetings, 2024–2026</p>
+<p class="glance-headline"><strong>86 mentions</strong> of surveillance technology in <strong>42</strong> Westport meetings, 2023–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">72</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 34 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2024–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-01-08 → 2026-08-24</span></a>
-<a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Doorbell-camera partnerships, Drones</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">86</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 42 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2023–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2023-05-16 → 2026-08-24</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Doorbell-camera partnerships, Drones, Predictive policing</span></a>
 <a class="glance-card" href="../../../analysis/towns/westport-alpr-searches.html"><span class="gc-big">10,941</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Westport police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">69%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">602 of 867 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">81%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">713 of 880 meetings</span></a>
 </div>
 
-**Not the full history:** transcripts begin **2023-07-20**, but Westport's published video archive goes back to **2018-04-03**. Meetings before 2023 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+**Not the full history:** transcripts begin **2023-05-08**, but Westport's published video archive goes back to **2018-04-03**. Meetings before 2023 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 This report collects every mention of surveillance technology found in **Westport**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -76,18 +76,19 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 | [ALPR / Flock](#alpr) | 2 | 2 | 2024-06-20 | 2025-05-13 |
 | [Body cameras](#body_camera) | 1 | 1 | 2025-01-14 | 2025-01-14 |
 | [Doorbell-camera partnerships](#doorbell_partnership) | 1 | 1 | 2025-06-23 | 2025-06-23 |
-| [Drones](#drone) | 68 | 31 | 2024-01-08 | 2026-08-24 |
+| [Drones](#drone) | 81 | 38 | 2023-05-16 | 2026-08-24 |
+| [Predictive policing](#predictive_policing) | 1 | 1 | 2023-09-19 | 2023-09-19 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-34 meetings surfaced a finding (34 dated, spanning 2024-01-08 to 2026-08-24; 0 of unknown date, listed last). Newest first.
+42 meetings surfaced a finding (42 dated, spanning 2023-05-16 to 2026-08-24; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-24.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-24.*
 
-??? note "Earlier meetings (34)"
+??? note "Earlier meetings (42)"
 
     **2026-08-24 -- Select Board**
 
@@ -331,6 +332,60 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ewq8GV-UMIU&t=3551s)  > ...but it is it is yeah from many public why did you need to fly a drone over it to see it or trespass we took boats out too I mean we have that's what we do we have to be...
 
+    **2023-10-17 -- Harbor Advisory Committee**
+
+    **Harbor Advisory Committee - October 17, 2023** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JCQV7WiuWb4&t=2345s)  > ...besides everything else you just explained it in a nutshell what about drones well you have to operate a drone you got have an operator sure before you even start getting the Drone and then...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JCQV7WiuWb4&t=2352s)  > ...drones well you have to operate a drone you got have an operator sure before you even start getting the Drone and then the Manpower the screen the equipment um I just asked him if he knew how I just...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JCQV7WiuWb4&t=2375s)  > ...know if you knew how much was involved in it but it's not as simple as you know kid putting the Drone up I mean I feel like TV gives people a false sense of what they can do in the...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JCQV7WiuWb4&t=2396s)  > ...capabilities we're now using like let's just say uh CSI science for a uh parking ticket and okay we can use a drone for um you know a big sting human human trafficking or whatever you need to okay...
+
+    **2023-09-25 -- Select Board**
+
+    **Select Board September 25, 2023** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=D0Wp453vesg&t=1138s)  > ...um and lastly I'll just throw this out as a wild card for future conversation um maybe we can get a drone to go up and down oh yeah oh sure I mean the price is...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=D0Wp453vesg&t=1148s)  > ...going down Edward Mills tells me that he has an extra drone Chris in case you want to talk to Everett if you want to implement a a you know that'll be a little off the...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=D0Wp453vesg&t=1168s)  > ...thank you my other comments the police department has a drone if you need one again I'm not my name is Dave Simcoe and...
+
+    **2023-09-19 -- Planning Board**
+
+    **Planning Board September 19, 2023** _(topics: predictive_policing)_
+
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uxCGVxOFoAo&t=3399s)  > ...boundaries was issued the problem I have is to look off to the left you see your Foundry of 248 feet that that's an old boundary that was turned down by the board when he had...
+
+    **2023-08-08 -- Planning Board**
+
+    **Planning Board August 8, 2023 Correct** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=t1tpzZ-Go2E&t=6230s)  > ...more detailed Page by Page breakouts of various parts of the buildings and an aerial drone imagery and that would cost closer to 17 500. and I did ask what software they use and...
+
+    **2023-08-07 -- Historical Commission**
+
+    **Historical Commission August 7, 2023** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=cJUCkXu4gVA&t=1546s)  > ...and when you've completed work okay absolutely okay it would be helpful if your son has a drone and to take a picture of the finished installation for us well that would be...
+
+    **2023-07-11 -- Planning Board**
+
+    **Planning Board July 11, 2023** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uwE1FVZg6h8&t=3946s)  > ...um Kevin Hamm the homeland security manager and the leader of service drone program and 3D modeling work he's currently actually doing a job in Taunton for...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uwE1FVZg6h8&t=4213s)  > ...meet next upward uh serpat gave us a whole set of drone photos I just want to let you know that they're all out there very cool photos yeah it's really nice of them to...
+
+    **2023-06-13 -- Planning Board**
+
+    **Planning Board June 13, 2023** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=8OdK6U6Z1-4&t=2701s)  > ...accept the withdrawal without prejudice and when was we accept the drone without prejudice second...
+
+    **2023-05-16 -- Planning Board**
+
+    **Planning Board May 16, 2023** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=R3uo3Wt0jvs&t=5194s)  > ...50 feet on group six yeah and uh it has a couple hundred feet on maybe 400 feet in four drone you know so it could be a good thing to Loop it in and get it out fortunate you have across the local joke...
+
 
 ## Findings by topic
 
@@ -403,32 +458,32 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-1XnRiZ2UIE&t=2050s)  _(term: drone, unreviewed)_
 
 - **[2026-06-01] Select Board** -- Select Board - June 1, 2026
-  > ...Corey Mack was having to work an overtime shift that night. They called him out. He flew the drone up, and within 10 minutes he had the person on on the thermal image and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-1XnRiZ2UIE&t=2071s)  _(term: drone, unreviewed)_
-
-- **[2026-06-01] Select Board** -- Select Board - June 1, 2026
   > ...Um also uh he'd like to uh talk about the Westport drone unit, how um we continue to use it um almost weekly now. Um we just had that huge fire over...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-1XnRiZ2UIE&t=2034s)  _(term: drone, unreviewed)_
 
+- **[2026-06-01] Select Board** -- Select Board - June 1, 2026
+  > ...Corey Mack was having to work an overtime shift that night. They called him out. He flew the drone up, and within 10 minutes he had the person on on the thermal image and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-1XnRiZ2UIE&t=2071s)  _(term: drone, unreviewed)_
+
 - **[2026-05-27] Harbor Advisory Committee** -- Harbor Advisory Committee - May 27, 2026
-  > ...Uh the second phase was a limited underwater inspection. They did bring a underwater drone down. Um That was back on the 13th. Um we were all doing uh an oil spill drill...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ixpV6xMvvMM&t=1256s)  _(term: drone, unreviewed)_
+  > ...inspect everything below the below the waterline and see where it goes. >> The underwater drone limit just looked at the general conditions or whatever....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ixpV6xMvvMM&t=1286s)  _(term: drone, unreviewed)_
 
 - **[2026-05-27] Harbor Advisory Committee** -- Harbor Advisory Committee - May 27, 2026
   > ...>> So, did they give you some kind of a 3D map of what's under there with the drone? >> I don't know exactly yet, Milt, but whatever they have in my [clears throat]...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ixpV6xMvvMM&t=1314s)  _(term: drone, unreviewed)_
 
 - **[2026-05-27] Harbor Advisory Committee** -- Harbor Advisory Committee - May 27, 2026
-  > ...inspect everything below the below the waterline and see where it goes. >> The underwater drone limit just looked at the general conditions or whatever....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ixpV6xMvvMM&t=1286s)  _(term: drone, unreviewed)_
-
-- **[2026-04-30] Climate Resilience Committee** -- Climate Resilience Committee - April 30, 2026
-  > ...I'm I'm sure there are drone operators who are using this tool, Rebecca. Not so much drone operators because we we have mostly photos that are being uploaded, not so much videos. Um but...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dXqhVpN7IVg&t=1427s)  _(term: drone, unreviewed)_
+  > ...Uh the second phase was a limited underwater inspection. They did bring a underwater drone down. Um That was back on the 13th. Um we were all doing uh an oil spill drill...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ixpV6xMvvMM&t=1256s)  _(term: drone, unreviewed)_
 
 - **[2026-04-30] Climate Resilience Committee** -- Climate Resilience Committee - April 30, 2026
   > ...Any other questions of Rebecca? I was just thinking, too, we probably have some drone operators in Westport and we could reach out to them and get them on board with this and send them an alert...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dXqhVpN7IVg&t=1408s)  _(term: drone, unreviewed)_
+
+- **[2026-04-30] Climate Resilience Committee** -- Climate Resilience Committee - April 30, 2026
+  > ...I'm I'm sure there are drone operators who are using this tool, Rebecca. Not so much drone operators because we we have mostly photos that are being uploaded, not so much videos. Um but...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dXqhVpN7IVg&t=1427s)  _(term: drone, unreviewed)_
 
 - **[2026-04-30] Climate Resilience Committee** -- Climate Resilience Committee - April 30, 2026
   > ...mind doing a flight and documenting some of this stuff? Yeah, I'm I'm sure there are drone operators who are using this tool, Rebecca. Not so much drone operators because we...
@@ -438,65 +493,65 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   > ...they would help us they would fly they have a drone and they would fly a drone over our the terrain web for training purposes and we could look at rip tides and the way the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=aXuHbSuVXes&t=370s)  _(term: drone, unreviewed)_
 
-- **[2026-03-19] Bike and Walking Committee** -- Bike and Walking Committee   March 19, 2026
-  > ...that we had somebody draw conceptual drawings of. And um this would be specifically from a drone uh site exploration...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=e8PzOUygV10&t=2379s)  _(term: drone, unreviewed)_
-
 - **[2026-03-19] Beach Committee** -- Beach Committee - March 19, 2026
   > ...very kind and generous to offer us to they would help us they would fly they have a drone and they would fly a drone over our the terrain web for training purposes and we...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=aXuHbSuVXes&t=368s)  _(term: drone, unreviewed)_
+
+- **[2026-03-19] Bike and Walking Committee** -- Bike and Walking Committee   March 19, 2026
+  > ...that we had somebody draw conceptual drawings of. And um this would be specifically from a drone uh site exploration...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=e8PzOUygV10&t=2379s)  _(term: drone, unreviewed)_
 
 - **[2026-02-05] Historical Commission** -- Historical Commission - February 5, 2026
   > ...what would be satisfactory. Is it what's visible from the water or what's visible from a drone? >> No, it's what's visible from the public way. That's what we have jurisdiction...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Khp16BpqOgM&t=3761s)  _(term: drone, unreviewed)_
 
 - **[2026-01-28] Offshore Wind Advisory Committee** -- Offshore Wind Advisory Committee - January 28, 2026
-  > ...while to figure out why I was sitting there and feeling or hearing a constant kind of drone or thumping. And that's what 15 miles offshore. So while they are doing it, there is an immediate...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dSqmqpOa2J8&t=5096s)  _(term: drone, unreviewed)_
+  > ...Obviously, you can't harass whales. So, he would I would watch the drone. I watched the drone go out and, you know, go sit there right above the whale and hover and then try to drop that suction...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dSqmqpOa2J8&t=4467s)  _(term: drone, unreviewed)_
 
 - **[2026-01-28] Offshore Wind Advisory Committee** -- Offshore Wind Advisory Committee - January 28, 2026
   > ...never got any details on that. Obviously, you can't harass whales. So, he would I would watch the drone. I watched the drone go out and, you know, go sit there right above the whale and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dSqmqpOa2J8&t=4465s)  _(term: drone, unreviewed)_
 
 - **[2026-01-28] Offshore Wind Advisory Committee** -- Offshore Wind Advisory Committee - January 28, 2026
-  > ...Obviously, you can't harass whales. So, he would I would watch the drone. I watched the drone go out and, you know, go sit there right above the whale and hover and then try to drop that suction...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dSqmqpOa2J8&t=4467s)  _(term: drone, unreviewed)_
-
-- **[2026-01-13] Finance Committee** -- Finance Committee - January 13, 2026
-  > ...there in the community as one of the things we really want to highlight right now is our drone unit. Uh we've kind of expanded upon that this year....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KxJMjP2NTBI&t=394s)  _(term: drone, unreviewed)_
-
-- **[2026-01-13] Planning Board** -- Planning Board - January 13, 2026
-  > ...for the drone. At least not to my memory. I don't know if you recall. They didn't touch the drone comment. No, they they >> probably but probably no because they...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=N66hTVRDnJE&t=6590s)  _(term: drone, unreviewed)_
-
-- **[2026-01-13] Planning Board** -- Planning Board - January 13, 2026
-  > ...we also asked for drone a drone and they didn't give comment on the financial ask for the drone. At least not to my memory. I don't know if you recall. They didn't touch the drone comment. No, they...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=N66hTVRDnJE&t=6585s)  _(term: drone, unreviewed)_
+  > ...while to figure out why I was sitting there and feeling or hearing a constant kind of drone or thumping. And that's what 15 miles offshore. So while they are doing it, there is an immediate...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dSqmqpOa2J8&t=5096s)  _(term: drone, unreviewed)_
 
 - **[2026-01-13] Finance Committee** -- Finance Committee - January 13, 2026
   > ...Uh we've kind of expanded upon that this year. We have two drone operators. Um and as you can see what we're seeing right here in the top left corner, this is the fire...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=KxJMjP2NTBI&t=400s)  _(term: drone, unreviewed)_
 
 - **[2026-01-13] Finance Committee** -- Finance Committee - January 13, 2026
-  > ...in the top left corner, this is the fire from Excel recycling that happened over the summer. By us deploying the drone unit, we were able to identify the hot spots for the fire department to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KxJMjP2NTBI&t=409s)  _(term: drone, unreviewed)_
+  > ...there in the community as one of the things we really want to highlight right now is our drone unit. Uh we've kind of expanded upon that this year....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KxJMjP2NTBI&t=394s)  _(term: drone, unreviewed)_
+
+- **[2026-01-13] Planning Board** -- Planning Board - January 13, 2026
+  > ...management and stuff like that. Um and asked >> and is the drone guy. >> He's also the drone guy. >> Yeah, he wears a lot of hats over there....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=N66hTVRDnJE&t=6090s)  _(term: drone, unreviewed)_
 
 - **[2026-01-13] Finance Committee** -- Finance Committee - January 13, 2026
   > ...many times they do rescues every year regarding the rip current. So we look forward to deploying the drone um come the spring to identify the gener the general areas the rip currents are. So,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=KxJMjP2NTBI&t=463s)  _(term: drone, unreviewed)_
+
+- **[2026-01-13] Finance Committee** -- Finance Committee - January 13, 2026
+  > ...in the top left corner, this is the fire from Excel recycling that happened over the summer. By us deploying the drone unit, we were able to identify the hot spots for the fire department to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KxJMjP2NTBI&t=409s)  _(term: drone, unreviewed)_
+
+- **[2026-01-13] Planning Board** -- Planning Board - January 13, 2026
+  > ...asked >> and is the drone guy. >> He's also the drone guy. >> Yeah, he wears a lot of hats over there. Um I asked him about if they would be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=N66hTVRDnJE&t=6091s)  _(term: drone, unreviewed)_
+
+- **[2026-01-13] Planning Board** -- Planning Board - January 13, 2026
+  > ...for the drone. At least not to my memory. I don't know if you recall. They didn't touch the drone comment. No, they they >> probably but probably no because they...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=N66hTVRDnJE&t=6590s)  _(term: drone, unreviewed)_
 
 - **[2026-01-13] Planning Board** -- Planning Board - January 13, 2026
   > ...for funding and with our capacity here. And with that um expression of interest, we also asked for drone a drone and they didn't give comment on the financial ask for the drone. At least not to my...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=N66hTVRDnJE&t=6580s)  _(term: drone, unreviewed)_
 
 - **[2026-01-13] Planning Board** -- Planning Board - January 13, 2026
-  > ...management and stuff like that. Um and asked >> and is the drone guy. >> He's also the drone guy. >> Yeah, he wears a lot of hats over there....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=N66hTVRDnJE&t=6090s)  _(term: drone, unreviewed)_
-
-- **[2026-01-13] Planning Board** -- Planning Board - January 13, 2026
-  > ...asked >> and is the drone guy. >> He's also the drone guy. >> Yeah, he wears a lot of hats over there. Um I asked him about if they would be...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=N66hTVRDnJE&t=6091s)  _(term: drone, unreviewed)_
+  > ...we also asked for drone a drone and they didn't give comment on the financial ask for the drone. At least not to my memory. I don't know if you recall. They didn't touch the drone comment. No, they...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=N66hTVRDnJE&t=6585s)  _(term: drone, unreviewed)_
 
 - **[2025-12-16] Select Board** -- Select Board - December 15. 2025
   > ...been doing eelgrass mapping mass Boston um so we have a pretty good idea both by drone and by boat with camera the director and myself have been with the team from UMass Boston um in...
@@ -539,16 +594,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=poh7kbYLmIs&t=2053s)  _(term: drone, unreviewed)_
 
 - **[2025-01-14] Finance Committee** -- Finance Committee   January 14, 2025
-  > ...some training on Monday with them over at Saudi Pond they were doing their cold water rescues and we deployed the Drone so that way they could see what was going on there like I said you can find...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=3928s)  _(term: drone, unreviewed)_
+  > ...Plymouth and Bristol County so a scenario would be like deputy chief talked about the Drone if we have a lost hunter in the woods we activate the sem search and rescue which they in turn...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=5127s)  _(term: drone, unreviewed)_
 
 - **[2025-01-14] Finance Committee** -- Finance Committee   January 14, 2025
   > ...what's going on and not hovering over the Drone operator while he's trying to operate the Drone currently we have two members that are taking the part 107 test for the FAA uh they take an online...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=3849s)  _(term: drone, unreviewed)_
-
-- **[2025-01-14] Finance Committee** -- Finance Committee   January 14, 2025
-  > ...honored to have our officers donate their time to give back to our community uh the Drone unit I'll take a moment and and defer to deputy chief reell who has a lot more um experience...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=3788s)  _(term: drone, unreviewed)_
 
 - **[2025-01-14] Finance Committee** -- Finance Committee   January 14, 2025
   > ...the command center command post can see what's going on and not hovering over the Drone operator while he's trying to operate the Drone currently we have two members that are taking the part 107...
@@ -559,28 +610,32 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=3801s)  _(term: drone, unreviewed)_
 
 - **[2025-01-14] Finance Committee** -- Finance Committee   January 14, 2025
-  > ...test on a computer system there the pictures there are what you would see from the Drone so the color picture is the wide angle lens and then the black and white is actually the thermal lens...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=3864s)  _(term: drone, unreviewed)_
-
-- **[2025-01-14] Finance Committee** -- Finance Committee   January 14, 2025
   > ...with the end ofe transfer from last year's funds we were able to add an additional drone to our unit it's a uh mavic I'm sorry it's a matrice 30t which gives us thermal capabilities our old...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=3811s)  _(term: drone, unreviewed)_
 
 - **[2025-01-14] Finance Committee** -- Finance Committee   January 14, 2025
-  > ...help if you look at the top the screen here that's what you would see through the uh drone if you're flying it on the controller we hook it up to a TV as well so that way people that are around us at...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=3837s)  _(term: drone, unreviewed)_
+  > ...honored to have our officers donate their time to give back to our community uh the Drone unit I'll take a moment and and defer to deputy chief reell who has a lot more um experience...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=3788s)  _(term: drone, unreviewed)_
+
+- **[2025-01-14] Finance Committee** -- Finance Committee   January 14, 2025
+  > ...some training on Monday with them over at Saudi Pond they were doing their cold water rescues and we deployed the Drone so that way they could see what was going on there like I said you can find...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=3928s)  _(term: drone, unreviewed)_
 
 - **[2025-01-14] Finance Committee** -- Finance Committee   January 14, 2025
   > ...mavic I'm sorry it's a matrice 30t which gives us thermal capabilities our old drone we lost the thermal capabilities with that um but now we have that back and it's a very robust drone it was...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=3818s)  _(term: drone, unreviewed)_
 
 - **[2025-01-14] Finance Committee** -- Finance Committee   January 14, 2025
-  > ...drone we lost the thermal capabilities with that um but now we have that back and it's a very robust drone it was utilized with Dartmouth PD in finding an individual that was suicidal that hurt...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=3822s)  _(term: drone, unreviewed)_
+  > ...test on a computer system there the pictures there are what you would see from the Drone so the color picture is the wide angle lens and then the black and white is actually the thermal lens...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=3864s)  _(term: drone, unreviewed)_
 
 - **[2025-01-14] Finance Committee** -- Finance Committee   January 14, 2025
-  > ...Plymouth and Bristol County so a scenario would be like deputy chief talked about the Drone if we have a lost hunter in the woods we activate the sem search and rescue which they in turn...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=5127s)  _(term: drone, unreviewed)_
+  > ...help if you look at the top the screen here that's what you would see through the uh drone if you're flying it on the controller we hook it up to a TV as well so that way people that are around us at...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=3837s)  _(term: drone, unreviewed)_
+
+- **[2025-01-14] Finance Committee** -- Finance Committee   January 14, 2025
+  > ...drone we lost the thermal capabilities with that um but now we have that back and it's a very robust drone it was utilized with Dartmouth PD in finding an individual that was suicidal that hurt...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=3822s)  _(term: drone, unreviewed)_
 
 - **[2025-01-09] Capital Improvement Planning Committee** -- Capital Improvement Planning Committee - January 9,  2025
   > ...then yeah are we being surveilled is that a drone of them okay a good discussion and uh continuing now the next one is uh some...
@@ -599,12 +654,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=fTGl-sIKs70&t=1991s)  _(term: drone, unreviewed)_
 
 - **[2024-09-11] Cable Advisory Committee** -- Cable Advisory Board - September 11, 2024
+  > ...meetings but his real talent is in filming um if you've seen any of the Drone photography that we've done this summer it's been all his work out there he's a pro he's certified in that he's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=lE68EtXQOuE&t=338s)  _(term: drone, unreviewed)_
+
+- **[2024-09-11] Cable Advisory Committee** -- Cable Advisory Board - September 11, 2024
   > ...summer it's been all his work out there he's a pro he's certified in that he's got his drone license and um he's done some events and now we're going to get him on to doing...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=lE68EtXQOuE&t=345s)  _(term: drone, unreviewed)_
 
-- **[2024-09-11] Cable Advisory Committee** -- Cable Advisory Board - September 11, 2024
-  > ...meetings but his real talent is in filming um if you've seen any of the Drone photography that we've done this summer it's been all his work out there he's a pro he's certified in that he's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=lE68EtXQOuE&t=338s)  _(term: drone, unreviewed)_
+- **[2024-06-19] Finance Committee** -- Finance Committee June 19, 2024
+  > ...secondly do we currently have someone on staff that can operate the newly upgraded drone or is this like you know a very specific I don't know um skill set to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=GouSC6x4YvU&t=770s)  _(term: drone, unreviewed)_
 
 - **[2024-06-19] Finance Committee** -- Finance Committee June 19, 2024
   > ...wasn't available um to do that we were are planning on having additional operators to fly that drone um besides myself so that that's in the plans as well to have people that are pilots that...
@@ -615,24 +674,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=GouSC6x4YvU&t=808s)  _(term: drone, unreviewed)_
 
 - **[2024-06-19] Finance Committee** -- Finance Committee June 19, 2024
-  > ...absolutely So currently I do have a uh part 107 license to fly the Drone the current drone we have we lost thermal capabilities we did at previously um Ed those thermal capabilities to find...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=GouSC6x4YvU&t=789s)  _(term: drone, unreviewed)_
+  > ...got your hand up thank you I was just curious it looks like one of the items was a drone upgrade for thermal capabilities um just purely out of curiosity I was wondering...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=GouSC6x4YvU&t=752s)  _(term: drone, unreviewed)_
 
 - **[2024-06-19] Finance Committee** -- Finance Committee June 19, 2024
   > ...well to have people that are pilots that have the part 107 license to uh to fly that drone and have that capability for us so it's it's a very robust system um there is specific train that you need to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=GouSC6x4YvU&t=823s)  _(term: drone, unreviewed)_
 
 - **[2024-06-19] Finance Committee** -- Finance Committee June 19, 2024
+  > ...absolutely So currently I do have a uh part 107 license to fly the Drone the current drone we have we lost thermal capabilities we did at previously um Ed those thermal capabilities to find...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=GouSC6x4YvU&t=789s)  _(term: drone, unreviewed)_
+
+- **[2024-06-19] Finance Committee** -- Finance Committee June 19, 2024
   > ...chief rebell on this please yeah absolutely So currently I do have a uh part 107 license to fly the Drone the current drone we have we lost thermal capabilities we did at previously um Ed...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=GouSC6x4YvU&t=787s)  _(term: drone, unreviewed)_
-
-- **[2024-06-19] Finance Committee** -- Finance Committee June 19, 2024
-  > ...secondly do we currently have someone on staff that can operate the newly upgraded drone or is this like you know a very specific I don't know um skill set to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=GouSC6x4YvU&t=770s)  _(term: drone, unreviewed)_
-
-- **[2024-06-19] Finance Committee** -- Finance Committee June 19, 2024
-  > ...got your hand up thank you I was just curious it looks like one of the items was a drone upgrade for thermal capabilities um just purely out of curiosity I was wondering...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=GouSC6x4YvU&t=752s)  _(term: drone, unreviewed)_
 
 - **[2024-05-28] Conservation Commission** -- Conservation Commission May 28, 2024
   > ...doing okay Mr chairman I gave you a nice little to give you the perspective of a drone were you flying the Drone I just purchased one for you guys just so I can did you e drop on...
@@ -647,16 +702,68 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ys61OSkNEc0&t=4396s)  _(term: drone, unreviewed)_
 
 - **[2024-01-16] Conservation Commission** -- Conservation Commission - January 16, 2024
-  > ...board has been very adamant that the shed should be movable and I think we should now if you take to those Drone footage and see before and after there's not many sheds remaining on that ocean...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9beeUFay-qc&t=1966s)  _(term: drone, unreviewed)_
-
-- **[2024-01-16] Conservation Commission** -- Conservation Commission - January 16, 2024
   > ...machine do the work but um if anybody's been to East Beach there's really good aerial photo photographs from a drone I sent you guys kind of gives you an idea where the accumulation and some um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9beeUFay-qc&t=1711s)  _(term: drone, unreviewed)_
+
+- **[2024-01-16] Conservation Commission** -- Conservation Commission - January 16, 2024
+  > ...board has been very adamant that the shed should be movable and I think we should now if you take to those Drone footage and see before and after there's not many sheds remaining on that ocean...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9beeUFay-qc&t=1966s)  _(term: drone, unreviewed)_
 
 - **[2024-01-08] Historical Commission** -- Historical Commission January 8, 2024
   > ...but it is it is yeah from many public why did you need to fly a drone over it to see it or trespass we took boats out too I mean we have that's what we do we have to be...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ewq8GV-UMIU&t=3551s)  _(term: drone, unreviewed)_
+
+- **[2023-10-17] Harbor Advisory Committee** -- Harbor Advisory Committee - October 17, 2023
+  > ...know if you knew how much was involved in it but it's not as simple as you know kid putting the Drone up I mean I feel like TV gives people a false sense of what they can do in the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JCQV7WiuWb4&t=2375s)  _(term: drone, unreviewed)_
+
+- **[2023-10-17] Harbor Advisory Committee** -- Harbor Advisory Committee - October 17, 2023
+  > ...besides everything else you just explained it in a nutshell what about drones well you have to operate a drone you got have an operator sure before you even start getting the Drone and then...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JCQV7WiuWb4&t=2345s)  _(term: drone, unreviewed)_
+
+- **[2023-10-17] Harbor Advisory Committee** -- Harbor Advisory Committee - October 17, 2023
+  > ...drones well you have to operate a drone you got have an operator sure before you even start getting the Drone and then the Manpower the screen the equipment um I just asked him if he knew how I just...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JCQV7WiuWb4&t=2352s)  _(term: drone, unreviewed)_
+
+- **[2023-10-17] Harbor Advisory Committee** -- Harbor Advisory Committee - October 17, 2023
+  > ...capabilities we're now using like let's just say uh CSI science for a uh parking ticket and okay we can use a drone for um you know a big sting human human trafficking or whatever you need to okay...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JCQV7WiuWb4&t=2396s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Select Board** -- Select Board September 25, 2023
+  > ...going down Edward Mills tells me that he has an extra drone Chris in case you want to talk to Everett if you want to implement a a you know that'll be a little off the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=D0Wp453vesg&t=1148s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Select Board** -- Select Board September 25, 2023
+  > ...thank you my other comments the police department has a drone if you need one again I'm not my name is Dave Simcoe and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=D0Wp453vesg&t=1168s)  _(term: drone, unreviewed)_
+
+- **[2023-09-25] Select Board** -- Select Board September 25, 2023
+  > ...um and lastly I'll just throw this out as a wild card for future conversation um maybe we can get a drone to go up and down oh yeah oh sure I mean the price is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=D0Wp453vesg&t=1138s)  _(term: drone, unreviewed)_
+
+- **[2023-08-08] Planning Board** -- Planning Board August 8, 2023 Correct
+  > ...more detailed Page by Page breakouts of various parts of the buildings and an aerial drone imagery and that would cost closer to 17 500. and I did ask what software they use and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=t1tpzZ-Go2E&t=6230s)  _(term: drone, unreviewed)_
+
+- **[2023-08-07] Historical Commission** -- Historical Commission August 7, 2023
+  > ...and when you've completed work okay absolutely okay it would be helpful if your son has a drone and to take a picture of the finished installation for us well that would be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cJUCkXu4gVA&t=1546s)  _(term: drone, unreviewed)_
+
+- **[2023-07-11] Planning Board** -- Planning Board July 11, 2023
+  > ...um Kevin Hamm the homeland security manager and the leader of service drone program and 3D modeling work he's currently actually doing a job in Taunton for...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=uwE1FVZg6h8&t=3946s)  _(term: drone, unreviewed)_
+
+- **[2023-07-11] Planning Board** -- Planning Board July 11, 2023
+  > ...meet next upward uh serpat gave us a whole set of drone photos I just want to let you know that they're all out there very cool photos yeah it's really nice of them to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=uwE1FVZg6h8&t=4213s)  _(term: drone, unreviewed)_
+
+- **[2023-06-13] Planning Board** -- Planning Board June 13, 2023
+  > ...accept the withdrawal without prejudice and when was we accept the drone without prejudice second...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8OdK6U6Z1-4&t=2701s)  _(term: drone, unreviewed)_
+
+- **[2023-05-16] Planning Board** -- Planning Board May 16, 2023
+  > ...50 feet on group six yeah and uh it has a couple hundred feet on maybe 400 feet in four drone you know so it could be a good thing to Loop it in and get it out fortunate you have across the local joke...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=R3uo3Wt0jvs&t=5194s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -681,7 +788,9 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### predictive_policing
 
-*(no findings)*
+- **[2023-09-19] Planning Board** -- Planning Board September 19, 2023
+  > ...boundaries was issued the problem I have is to look off to the left you see your Foundry of 248 feet that that's an old boundary that was turned down by the board when he had...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=uxCGVxOFoAo&t=3399s)  _(term: predictive_policing, unreviewed)_
 
 
 ### purchasing_broker
@@ -826,8 +935,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 25
-- Videos registered: 867 (fetched: 602, no captions: 10)
-- Date range covered: 2018-04-03 to 2026-09-23 (all 867 videos dated)
+- Videos registered: 880 (fetched: 712, no captions: 8)
+- Date range covered: 2018-04-03 to 2026-09-29 (all 880 videos dated)
 
 
 ### Channels
@@ -841,8 +950,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| westport_gov_tv | streams | 2026-09-10 11:38:42.335242 | 362 |
-| westport_gov_tv | videos | 2026-09-10 11:38:36.963185 | 785 |
+| westport_gov_tv | streams | 2026-09-25 15:14:18.503393 | 369 |
+| westport_gov_tv | videos | 2026-09-25 15:14:13.150665 | 791 |
 
 
 ## Registered meeting bodies
@@ -852,27 +961,27 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Capital Improvement Planning Committee | budget_finance | True | 15 |
 | Finance Committee | budget_finance | True | 70 |
 | Representative Town Meeting | council | True | 18 |
-| Select Board | council | True | 103 |
-| Beach Committee | other | True | 27 |
+| Select Board | council | True | 105 |
+| Beach Committee | other | True | 28 |
 | Bike and Walking Committee | other | True | 7 |
-| Board of Health | other | True | 84 |
+| Board of Health | other | True | 86 |
 | Cable Advisory Committee | other | True | 9 |
 | Climate Resilience Committee | other | True | 20 |
 | Community Preservation Committee | other | True | 20 |
-| Conservation Commission | other | True | 88 |
-| Disability Commission | other | True | 28 |
+| Conservation Commission | other | True | 89 |
+| Disability Commission | other | True | 29 |
 | Harbor Advisory Committee | other | True | 9 |
 | Historical Commission | other | True | 47 |
-| Housing Authority | other | True | 33 |
-| Infrastructure Oversight Committee | other | True | 22 |
+| Housing Authority | other | True | 34 |
+| Infrastructure Oversight Committee | other | True | 23 |
 | Landing Commission | other | True | 32 |
-| Library Board of Trustees | other | True | 38 |
+| Library Board of Trustees | other | True | 39 |
 | Long Term Building Committee | other | True | 14 |
 | Offshore Wind Advisory Committee | other | True | 8 |
-| Opioid Settlement Advisory Committee | other | True | 16 |
+| Opioid Settlement Advisory Committee | other | True | 17 |
 | Personnel Board | other | True | 14 |
-| Planning Board | other | True | 83 |
-| Shellfish Advisory Board | other | True | 10 |
+| Planning Board | other | True | 84 |
+| Shellfish Advisory Board | other | True | 11 |
 | Zoning Board of Appeals | other | True | 52 |
 
 
@@ -903,12 +1012,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (10 shown, max 25)
+### Videos with no captions available (8 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| Planning Board   September 8, 2026 | 2026-09-08 |
-| Landing Commission - August 25, 2026 | 2026-08-25 |
 | Long Term Building Committee - February 11, 2026 | 2026-02-11 |
 | Historical Commission   October 6, 2025 | 2025-10-06 |
 | Town Meeting 2025 | 2025-05-09 |
@@ -958,5 +1065,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:05:16 from Westport's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:11:44 from Westport's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

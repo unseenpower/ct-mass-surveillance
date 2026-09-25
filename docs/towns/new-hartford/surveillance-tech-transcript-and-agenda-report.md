@@ -1,9 +1,9 @@
 # Surveillance-tech report: New Hartford
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,10 +20,10 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">2</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 1 meeting · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2026-02-03 → 2026-02-03</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">44%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">60 of 137 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">44%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">61 of 139 meetings</span></a>
 </div>
 
-**Still incomplete:** 77 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+**Still incomplete:** 78 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **New Hartford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -60,7 +60,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 1 meetings surfaced a finding (1 dated, spanning 2026-02-03 to 2026-02-03; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-02-03.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-02-03.*
 
 ??? note "Earlier meetings (1)"
 
@@ -292,8 +292,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 2
 - Active meeting bodies: 7
-- Videos registered: 137 (fetched: 60, no captions: 10)
-- Date range covered: 2009-10-27 to 2026-09-02 (all 137 videos dated)
+- Videos registered: 139 (fetched: 61, no captions: 10)
+- Date range covered: 2009-10-27 to 2026-09-22 (all 139 videos dated)
 
 
 ### Channels
@@ -308,9 +308,9 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| new_hartford_boe | streams | 2026-09-10 13:29:09.891197 | 27 |
-| new_hartford_boe | videos | 2026-09-10 13:29:08.925435 | 49 |
-| new_hartford_plus | videos | 2026-09-10 13:48:11.719382 | 182 |
+| new_hartford_boe | streams | 2026-09-25 16:00:13.351008 | 27 |
+| new_hartford_boe | videos | 2026-09-25 16:00:12.291768 | 51 |
+| new_hartford_plus | videos | 2026-09-25 15:53:43.844440 | 182 |
 
 
 ## Registered meeting bodies
@@ -319,7 +319,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 11 |
 | Board of Selectmen | council | True | 13 |
-| Board of Education | education | True | 98 |
+| Board of Education | education | True | 100 |
 | Regional School District 7 Board of Education | education | True | 7 |
 | Planning & Zoning Commission | other | True | 1 |
 | Town Meeting | other | True | 2 |
@@ -414,5 +414,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:57:42 from New Hartford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:03:16 from New Hartford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

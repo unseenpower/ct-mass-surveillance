@@ -1,9 +1,9 @@
 # Surveillance-tech report: Somers
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,16 +14,16 @@
 
 ## At a glance: Somers
 
-<p class="glance-headline"><strong>39 mentions</strong> of surveillance technology in <strong>15</strong> Somers meetings, 2022–2026</p>
+<p class="glance-headline"><strong>46 mentions</strong> of surveillance technology in <strong>21</strong> Somers meetings, 2021–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">39</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 15 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2022–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2022-12-13 → 2026-08-18</span></a>
-<a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">55%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">332 of 601 meetings</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">46</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 21 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2021–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-09-02 → 2026-08-18</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">3</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Body cameras, Drones, Predictive policing</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">69%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">416 of 603 meetings</span></a>
 </div>
 
-**Still incomplete:** 269 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+**Still incomplete:** 187 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **Somers**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -51,18 +51,20 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| [Drones](#drone) | 39 | 15 | 2022-12-13 | 2026-08-18 |
+| [Body cameras](#body_camera) | 3 | 3 | 2022-03-31 | 2022-07-26 |
+| [Drones](#drone) | 42 | 17 | 2022-06-14 | 2026-08-18 |
+| [Predictive policing](#predictive_policing) | 1 | 1 | 2021-09-02 | 2021-09-02 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-15 meetings surfaced a finding (15 dated, spanning 2022-12-13 to 2026-08-18; 0 of unknown date, listed last). Newest first.
+21 meetings surfaced a finding (21 dated, spanning 2021-09-02 to 2026-08-18; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-18.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-18.*
 
-??? note "Earlier meetings (15)"
+??? note "Earlier meetings (21)"
 
     **2026-08-18 -- Board of Selectmen**
 
@@ -175,8 +177,45 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VFnrkbFORgo&t=5253s)  > ...what that photograph uh is yes that's from September 10th 2022 and it had a an event with loud music that was a drone shot that I took and there was four tents in the photograph...
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VFnrkbFORgo&t=5301s)  > ...I'm sorry it's just one bottle photography I have an extra in here that's another drone shot that I took in October 2022 that's the same two tents on the road sometime...
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VFnrkbFORgo&t=6497s)  > ...tense that are on second page and actually I think is also the Drone picture that Richard Pryor who was thrown over the property and took a picture of his...
-    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VFnrkbFORgo&t=7311s)  > ...over the hill there and into the property quite well she mentioned the Drone yeah there was a drone shot but the one from the road that that was from my...
-    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VFnrkbFORgo&t=7312s)  > ...property quite well she mentioned the Drone yeah there was a drone shot but the one from the road that that was from my property...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VFnrkbFORgo&t=7311s)  > ...over the hill there and into the property quite well she mentioned the Drone yeah there was a drone shot but the [address redacted] that that was from my...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=VFnrkbFORgo&t=7312s)  > ...property quite well she mentioned the Drone yeah there was a drone shot but the [address redacted] that that was from my property...
+
+    **2022-08-04 -- Town Meeting**
+
+    **Town Meeting 8/4/2022** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0BLSsBOSCkA&t=716s)  > ...thank you any further discussion steve kasich 55 well drone question on the management of this in the past...
+
+    **2022-07-26 -- Board of Finance**
+
+    **Board of Finance - Regular Meeting - 7/26/2022** _(topics: body_camera)_
+
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=t0R_tPx3WiQ&t=3590s)  > ...again nothing will be done until till work begins there the police body cam as of today should be 100 operational from my...
+
+    **2022-06-14 -- Zoning Board of Appeals**
+
+    **ZBA special meeting 06/14/2022** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4oXyUBX9HOs&t=499s)  > ...uh the agreement terminates which would terminate in the event that that uas or any other entity that might replace it...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4oXyUBX9HOs&t=611s)  > ...and the minimum charge is two hours of overtime if that fee is incurred by the town uas will reimburse the town for that expense but if it's an event uh during normal...
+
+    **2022-05-24 -- Board of Finance**
+
+    **Board of Finance Regular Meeting - 5/24/2022** _(topics: body_camera)_
+
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OXQ-J5boRDU&t=2085s)  > ...what i said was they were making a contribution towards the body cam okay so that's well that reduces that's what the paper says architecture...
+
+    **2022-03-31 -- Board of Finance**
+
+    **Board of Finance Special Meeting - 3/31/2022** _(topics: body_camera)_
+
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7rulneEfOto&t=2505s)  > ...a modem and a docking station inside the police station when the cars pulled in it downloaded when the body cam sat down it downloaded and that was ours that's the way to do it here's a retirement...
+
+    **2021-09-02 -- Board of Selectmen**
+
+    **Reg BOS Meeting 9/2/2021** _(topics: predictive_policing)_
+
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=uOpPpXEspGs&t=2939s)  > ...that total amount i don't know exactly what i don't want is the foundry and say hey why'd you spend 38 thousand dollars on a credit card...
 
 
 ## Findings by topic
@@ -198,7 +237,17 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ### body_camera
 
-*(no findings)*
+- **[2022-07-26] Board of Finance** -- Board of Finance - Regular Meeting - 7/26/2022
+  > ...again nothing will be done until till work begins there the police body cam as of today should be 100 operational from my...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=t0R_tPx3WiQ&t=3590s)  _(term: body_camera, unreviewed)_
+
+- **[2022-05-24] Board of Finance** -- Board of Finance Regular Meeting - 5/24/2022
+  > ...what i said was they were making a contribution towards the body cam okay so that's well that reduces that's what the paper says architecture...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OXQ-J5boRDU&t=2085s)  _(term: body_camera, unreviewed)_
+
+- **[2022-03-31] Board of Finance** -- Board of Finance Special Meeting - 3/31/2022
+  > ...a modem and a docking station inside the police station when the cars pulled in it downloaded when the body cam sat down it downloaded and that was ours that's the way to do it here's a retirement...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7rulneEfOto&t=2505s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -232,16 +281,20 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=z9YsZMAQFYs&t=675s)  _(term: drone, unreviewed)_
 
 - **[2026-02-03] Board of Finance** -- Board of Finance - Special Meeting - 2/3/2026
-  > ...anthem. And uh and on we go into our our final uh music concert followed by a drone based laser light show. Um and uh you know during the course of the day food trucks are about um the um public...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=z9YsZMAQFYs&t=206s)  _(term: drone, unreviewed)_
-
-- **[2026-02-03] Board of Finance** -- Board of Finance - Special Meeting - 2/3/2026
   > ...um uh sketched out a budget and it um with the hard numbers that we know are drone show with 300 drones about $51,000. Um the stage and found equipment about...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=z9YsZMAQFYs&t=480s)  _(term: drone, unreviewed)_
+
+- **[2026-02-03] Board of Finance** -- Board of Finance - Special Meeting - 2/3/2026
+  > ...anthem. And uh and on we go into our our final uh music concert followed by a drone based laser light show. Um and uh you know during the course of the day food trucks are about um the um public...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=z9YsZMAQFYs&t=206s)  _(term: drone, unreviewed)_
 
 - **[2026-01-07] Conservation Commission** -- Conservation Commission 1/7/2026
   > ...state provides on websites. So, it's not like >> Yeah, I'm not flying a drone. >> Yeah, we're not we're not spying on people trying to get them in trouble....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=i5nZSNh-RhQ&t=1546s)  _(term: drone, unreviewed)_
+
+- **[2025-12-18] Board of Selectmen** -- Board of Selectmen Meeting 12/18/25
+  > ...make it, Bob? >> Yeah. I'll make the motion to approve the Sky Elements contract, the drone show at the American 250 celebration and authorized for a second to sign the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=giOyQEVEydg&t=3263s)  _(term: drone, unreviewed)_
 
 - **[2025-12-18] Board of Selectmen** -- Board of Selectmen Meeting 12/18/25
   > ...>> so we um the America 250 committee uh I want to say back in October um met and approved um the drone show for um the America 250 celebration. Uh Sky Elements uh presented their...
@@ -250,10 +303,6 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 - **[2025-12-18] Board of Selectmen** -- Board of Selectmen Meeting 12/18/25
   > ...far as funding um goes. So we're now looking for approval of the Sky Elements contract for the drone show at the America 250 celebration and authorizing the first selectman to um enter into the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=giOyQEVEydg&t=3153s)  _(term: drone, unreviewed)_
-
-- **[2025-12-18] Board of Selectmen** -- Board of Selectmen Meeting 12/18/25
-  > ...make it, Bob? >> Yeah. I'll make the motion to approve the Sky Elements contract, the drone show at the American 250 celebration and authorized for a second to sign the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=giOyQEVEydg&t=3263s)  _(term: drone, unreviewed)_
 
 - **[2025-12-16] Board of Finance** -- Board of Finance - Regular Meeting - 12/16/2025
   > ...>> Yeah, I believe so. >> Well, maybe we'll have some leftover money from the drone show. [laughter] [laughter] >> I can just see it at the gate. Where you...
@@ -264,12 +313,12 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=owm2HaBZ7v4&t=1686s)  _(term: drone, unreviewed)_
 
 - **[2025-12-16] Board of Finance** -- Board of Finance - Regular Meeting - 12/16/2025
-  > ...personally don't have any objection to uh some form of uh entertainment like the drone show, but I do think the committee needs to present to us what any programmatic events and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=owm2HaBZ7v4&t=2077s)  _(term: drone, unreviewed)_
-
-- **[2025-12-16] Board of Finance** -- Board of Finance - Regular Meeting - 12/16/2025
   > ...the board of finance are thinking about charging other towns to visit to see our drone show. >> Yeah, we've done a lot of luck charging other towns....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=owm2HaBZ7v4&t=1705s)  _(term: drone, unreviewed)_
+
+- **[2025-12-16] Board of Finance** -- Board of Finance - Regular Meeting - 12/16/2025
+  > ...personally don't have any objection to uh some form of uh entertainment like the drone show, but I do think the committee needs to present to us what any programmatic events and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=owm2HaBZ7v4&t=2077s)  _(term: drone, unreviewed)_
 
 - **[2025-12-16] Board of Finance** -- Board of Finance - Regular Meeting - 12/16/2025
   > ...we're anticipating this is going to be the big deal of the day. It's going to be drone show. It's going to be at night. It's going to be visible for I mentioned this before 5 miles away. So...
@@ -280,60 +329,60 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=owm2HaBZ7v4&t=2008s)  _(term: drone, unreviewed)_
 
 - **[2025-11-18] Board of Finance** -- Board of Finance - Regular Meeting - 11/18/2025
-  > ...So it would that would be very interesting. And >> a drone show and apparently these things are visible from 5 miles away. So we ought to be charging our neighboring...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xL4AIcRTowg&t=440s)  _(term: drone, unreviewed)_
+  > ...fireworks. I mean, that's that's the bottom line. It's just >> uh it would be nice, but I think a drone show could be very interesting, though. And um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xL4AIcRTowg&t=512s)  _(term: drone, unreviewed)_
 
 - **[2025-11-18] Board of Finance** -- Board of Finance - Regular Meeting - 11/18/2025
   > ...children. Um they are thinking about hiring a group to put on a uh a uh drone show at night. So it would that would be very interesting. And...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=xL4AIcRTowg&t=432s)  _(term: drone, unreviewed)_
 
 - **[2025-11-18] Board of Finance** -- Board of Finance - Regular Meeting - 11/18/2025
-  > ...fireworks. I mean, that's that's the bottom line. It's just >> uh it would be nice, but I think a drone show could be very interesting, though. And um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xL4AIcRTowg&t=512s)  _(term: drone, unreviewed)_
+  > ...So it would that would be very interesting. And >> a drone show and apparently these things are visible from 5 miles away. So we ought to be charging our neighboring...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xL4AIcRTowg&t=440s)  _(term: drone, unreviewed)_
 
 - **[2025-07-22] Board of Finance** -- Board of Finance Regular Meeting - 7/22/2025
   > ...know, the absolute perfect day. Um, we've instead been looking at um laser light drone shows um and and doing something like that and telling a story in the sky with drones instead of using...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=b6XgUoYHYG0&t=1607s)  _(term: drone, unreviewed)_
 
 - **[2025-03-20] Board of Selectmen** -- Board of Selectmen Meeting  3/20/2025
-  > ...had a a night capable drone with thermal imaging. So they were able to launch the drone. We were actually able to run the fire from the command post using the drone. And with that building being the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qRedOimUmaU&t=1492s)  _(term: drone, unreviewed)_
-
-- **[2025-03-20] Board of Selectmen** -- Board of Selectmen Meeting  3/20/2025
-  > ...point of Yeah. Yeah. Um, uh, you know, other little things just, uh, we obviously talked about the drone footage. Uh, we ran out of 2 and 12 in hose when fighting a fire. The larger...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qRedOimUmaU&t=1716s)  _(term: drone, unreviewed)_
+  > ...ladder truck. It's a good use for mutual aid. We have a paramedic. They have a drone. So, so we'll trade off. Um, so that was some of the things. Some of the areas...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qRedOimUmaU&t=1587s)  _(term: drone, unreviewed)_
 
 - **[2025-03-20] Board of Selectmen** -- Board of Selectmen Meeting  3/20/2025
   > ...because you you know most people don't realize you need to have a pilot license, a drone pilot license to operate. So it's really the availability of the the pilots that are the the key...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=qRedOimUmaU&t=1545s)  _(term: drone, unreviewed)_
 
 - **[2025-03-20] Board of Selectmen** -- Board of Selectmen Meeting  3/20/2025
+  > ...tremendous advantage to having that. Uh some minor high skipping issues on our As far as the drone goes, how available are those drones? Uh they're available as needed. It really the bigger problem...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qRedOimUmaU&t=1533s)  _(term: drone, unreviewed)_
+
+- **[2025-03-20] Board of Selectmen** -- Board of Selectmen Meeting  3/20/2025
   > ...drone. And with that building being the size that it is, it gave us a tremendous uh vantage point. Once we got the drone up in the air and could actually see the extent the extension, we were able to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=qRedOimUmaU&t=1500s)  _(term: drone, unreviewed)_
 
 - **[2025-03-20] Board of Selectmen** -- Board of Selectmen Meeting  3/20/2025
-  > ...ladder truck. It's a good use for mutual aid. We have a paramedic. They have a drone. So, so we'll trade off. Um, so that was some of the things. Some of the areas...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qRedOimUmaU&t=1587s)  _(term: drone, unreviewed)_
+  > ...drone. We were actually able to run the fire from the command post using the drone. And with that building being the size that it is, it gave us a tremendous uh vantage point. Once we got the drone...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qRedOimUmaU&t=1495s)  _(term: drone, unreviewed)_
 
 - **[2025-03-20] Board of Selectmen** -- Board of Selectmen Meeting  3/20/2025
-  > ...tremendous advantage to having that. Uh some minor high skipping issues on our As far as the drone goes, how available are those drones? Uh they're available as needed. It really the bigger problem...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qRedOimUmaU&t=1533s)  _(term: drone, unreviewed)_
+  > ...point of Yeah. Yeah. Um, uh, you know, other little things just, uh, we obviously talked about the drone footage. Uh, we ran out of 2 and 12 in hose when fighting a fire. The larger...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qRedOimUmaU&t=1716s)  _(term: drone, unreviewed)_
 
 - **[2025-03-20] Board of Selectmen** -- Board of Selectmen Meeting  3/20/2025
   > ...interesting aspects of the incident was we had uh Broadbrook arrived and they had a a night capable drone with thermal imaging. So they were able to launch the drone. We were actually able to run the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=qRedOimUmaU&t=1488s)  _(term: drone, unreviewed)_
 
 - **[2025-03-20] Board of Selectmen** -- Board of Selectmen Meeting  3/20/2025
-  > ...drone. We were actually able to run the fire from the command post using the drone. And with that building being the size that it is, it gave us a tremendous uh vantage point. Once we got the drone...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qRedOimUmaU&t=1495s)  _(term: drone, unreviewed)_
-
-- **[2025-03-11] Board of Finance** -- Board of Finance Special Meeting - 3/11/2025
-  > ...have a drone here in town but broadw broad fire department brought their drone and proved to be very helpful because it it provides thermop Imaging let them know where the fire is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OONBBI6TSSc&t=1553s)  _(term: drone, unreviewed)_
+  > ...had a a night capable drone with thermal imaging. So they were able to launch the drone. We were actually able to run the fire from the command post using the drone. And with that building being the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qRedOimUmaU&t=1492s)  _(term: drone, unreviewed)_
 
 - **[2025-03-11] Board of Finance** -- Board of Finance Special Meeting - 3/11/2025
   > ...um one of the infin things was um what they discovered was that they didn't have a drone here in town but broadw broad fire department brought their drone and proved to be very...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=OONBBI6TSSc&t=1548s)  _(term: drone, unreviewed)_
+
+- **[2025-03-11] Board of Finance** -- Board of Finance Special Meeting - 3/11/2025
+  > ...have a drone here in town but broadw broad fire department brought their drone and proved to be very helpful because it it provides thermop Imaging let them know where the fire is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OONBBI6TSSc&t=1553s)  _(term: drone, unreviewed)_
 
 - **[2024-10-17] Board of Selectmen** -- Board of Selectmen Meeting 10/17/24
   > ...just affected the soils the water and the soils or the soils and the Bedrock so they need to drone the Bedrock to identify to what extent it's been uh contaminated and whether or not it needs...
@@ -360,8 +409,12 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rNfRSq-EfQM&t=1320s)  _(term: drone, unreviewed)_
 
 - **[2022-12-13] Zoning Board of Appeals** -- Zoning Board of Appeals 12/13/2022
-  > ...over the hill there and into the property quite well she mentioned the Drone yeah there was a drone shot but the one from the road that that was from my...
+  > ...over the hill there and into the property quite well she mentioned the Drone yeah there was a drone shot but the [address redacted] that that was from my...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=VFnrkbFORgo&t=7311s)  _(term: drone, unreviewed)_
+
+- **[2022-12-13] Zoning Board of Appeals** -- Zoning Board of Appeals 12/13/2022
+  > ...property quite well she mentioned the Drone yeah there was a drone shot but the [address redacted] that that was from my property...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=VFnrkbFORgo&t=7312s)  _(term: drone, unreviewed)_
 
 - **[2022-12-13] Zoning Board of Appeals** -- Zoning Board of Appeals 12/13/2022
   > ...what that photograph uh is yes that's from September 10th 2022 and it had a an event with loud music that was a drone shot that I took and there was four tents in the photograph...
@@ -375,9 +428,17 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   > ...tense that are on second page and actually I think is also the Drone picture that Richard Pryor who was thrown over the property and took a picture of his...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=VFnrkbFORgo&t=6497s)  _(term: drone, unreviewed)_
 
-- **[2022-12-13] Zoning Board of Appeals** -- Zoning Board of Appeals 12/13/2022
-  > ...property quite well she mentioned the Drone yeah there was a drone shot but the one from the road that that was from my property...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=VFnrkbFORgo&t=7312s)  _(term: drone, unreviewed)_
+- **[2022-08-04] Town Meeting** -- Town Meeting 8/4/2022
+  > ...thank you any further discussion steve kasich 55 well drone question on the management of this in the past...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=0BLSsBOSCkA&t=716s)  _(term: drone, unreviewed)_
+
+- **[2022-06-14] Zoning Board of Appeals** -- ZBA special meeting 06/14/2022
+  > ...and the minimum charge is two hours of overtime if that fee is incurred by the town uas will reimburse the town for that expense but if it's an event uh during normal...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4oXyUBX9HOs&t=611s)  _(term: drone, unreviewed)_
+
+- **[2022-06-14] Zoning Board of Appeals** -- ZBA special meeting 06/14/2022
+  > ...uh the agreement terminates which would terminate in the event that that uas or any other entity that might replace it...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4oXyUBX9HOs&t=499s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -402,7 +463,9 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ### predictive_policing
 
-*(no findings)*
+- **[2021-09-02] Board of Selectmen** -- Reg BOS Meeting 9/2/2021
+  > ...that total amount i don't know exactly what i don't want is the foundry and say hey why'd you spend 38 thousand dollars on a credit card...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=uOpPpXEspGs&t=2939s)  _(term: predictive_policing, unreviewed)_
 
 
 ### purchasing_broker
@@ -547,8 +610,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 9
-- Videos registered: 601 (fetched: 332, no captions: 20)
-- Date range covered: 2018-07-12 to 2026-09-03 (all 601 videos dated)
+- Videos registered: 603 (fetched: 416, no captions: 37)
+- Date range covered: 2018-07-12 to 2026-09-24 (all 603 videos dated)
 
 
 ### Channels
@@ -562,7 +625,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| somers_camera | streams | 2026-09-10 11:51:15.761598 | 638 |
+| somers_camera | streams | 2026-09-25 15:14:51.792459 | 640 |
 
 
 ## Registered meeting bodies
@@ -570,10 +633,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 99 |
-| Board of Selectmen | council | True | 246 |
+| Board of Selectmen | council | True | 247 |
 | Charter Revision Commission | other | True | 14 |
 | Conservation Commission | other | True | 39 |
-| Planning & Zoning Commission | other | True | 8 |
+| Planning & Zoning Commission | other | True | 9 |
 | Planning Commission | other | True | 35 |
 | Town Meeting | other | True | 20 |
 | Zoning Board of Appeals | other | True | 35 |
@@ -609,12 +672,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (20 shown, max 25)
+### Videos with no captions available (25 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| Board of Selectmen Reg Meeting 9/3/26 | 2026-09-03 |
-| Conservation Commission 9/2/2026 Regular Meeting | 2026-09-02 |
 | Planning Commission 11/13/2025 | 2025-11-13 |
 | Charter Revision Regular Meeting 05/07/2025 | 2025-05-07 |
 | Planning Commission Special meeting 3/27/2025 | 2025-03-27 |
@@ -627,12 +688,19 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Board of Selectmen Meeting November 3, 2022 6pm | 2022-11-03 |
 | Zoning Board of Appeals special meeting 8/23/2022 | 2022-08-23 |
 | Zoning Commission Special Meeting 8/8/2022 | 2022-08-08 |
+| Planning Commission 7/28/2022 | 2022-07-28 |
+| Zoning Commission meeting 6/6/2022 | 2022-06-06 |
+| Conservation Commission 6/1/2022 | 2022-06-01 |
 | ZBA meeting 051022 | 2022-05-11 |
+| Zoning Commission 5/2/2022 | 2022-05-02 |
 | Board of Selectmen Public Hearing 5:45pm | 2022-03-17 |
-| Special BOS Meeting 6pm | 2021-01-15 |
-| Special BOS Meeting 6pm | 2021-01-14 |
-| Zoning Board of Appeals | 2019-03-13 |
-| Special Town Meeting | 2018-10-26 |
+| 2/17/2022 Board of Selectmen Meeting | 2022-02-17 |
+| Zoning Commission meeting 2/7/2022 | 2022-02-07 |
+| Conservation Commission 2/2/2022 | 2022-02-02 |
+| Zoning Commission Special meeting 1/18/2022 | 2022-01-18 |
+| Planning Commission Special meeting 1/12/2022 | 2022-01-12 |
+| Zoning Commission Meeting 1/3/2022 | 2022-01-03 |
+| Zoning Commission Meeting 12/6/2021 | 2021-12-06 |
 
 
 ### Tabs never crawled
@@ -676,5 +744,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:02:38 from Somers's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:08:41 from Somers's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

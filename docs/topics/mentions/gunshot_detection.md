@@ -1,6 +1,6 @@
 # Gunshot detection: every mention, every town
 
-_Generated 2026-09-10T18:09:44 — 77 mentions across 4 towns, 2015-04-21 to 2026-08-05._
+_Generated 2026-09-25T17:14:05 — 78 mentions across 5 towns, 2015-04-21 to 2026-08-05._
 
 
 Acoustic sensor networks, such as ShotSpotter, that attempt to detect and locate gunfire.
@@ -24,7 +24,8 @@ _No human review has been applied to any mention in this file._
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
 | [New Haven](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **67** | 20 | 27 | 91% | 2015-04-21 | 2026-07-06 |
-| [Hartford](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 2 | 95% | 2019-05-07 | 2024-04-16 |
+| [Hartford](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 2 | 96% | 2019-05-07 | 2024-04-16 |
+| [Bristol](../../towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 77% | 2026-04-28 | 2026-04-28 |
 | [East Lyme](../../towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 95% | 2026-08-05 | 2026-08-05 |
 | Middletown ⁽ⁿᵖ⁾ | **1** | · | 1 | 19% | 2026-07-20 | 2026-07-20 |
 
@@ -123,6 +124,13 @@ _55 further mentions in New Haven not shown here — all of them are in [New Hav
 - **[2019-05-07] Operation, Management, Budget & Government Accountability Committee** — City of Hartford FY 2019-2020 Recommended Budget Hearing May 07, 2019
   > …overall budget yeah give or take yeah alright do you support the help to support the ShotSpotter infrastructure were HPD yes yeah what analysis do you run for them we basically look at it at…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gCUpvCyqmYY&t=3952s)  _(term: `gunshot_detection`)_
+
+
+### Bristol — 1 mention
+
+- **[2026-04-28] (unassigned body)** — Board of Finance Other - 2026-04-28
+  > …era (DVR) • Improved video quality with reduced motion blur and better low-light performance • Multi-mic audio—four built-in microphones • Wireless upload option • Gunshot detection and alerts • Streaming audio and video capability (requires the Axon Respond operations platform) • “Find my camera” feature • Verbal transcrip…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12299,plainText=false))  _(agenda/minutes · term: `gunshot_detection`)_
 
 
 ### East Lyme — 1 mention

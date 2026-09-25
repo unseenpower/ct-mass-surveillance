@@ -1,6 +1,6 @@
 # Cell-site simulators: every mention, every town
 
-_Generated 2026-09-10T18:10:01 — 7 mentions across 5 towns, 2016-06-01 to 2025-04-10._
+_Generated 2026-09-25T17:14:11 — 8 mentions across 6 towns, 2016-06-01 to 2025-04-10._
 
 
 Cell-site simulators ('Stingrays') — devices that impersonate a cell tower to locate phones.
@@ -23,9 +23,10 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Guilford](../../towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 79% | 2017-01-23 | 2017-10-25 |
-| [Berlin](../../towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 78% | 2023-07-13 | 2023-07-13 |
-| [Cheshire](../../towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 46% | 2025-04-10 | 2025-04-10 |
+| [Guilford](../../towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 84% | 2017-01-23 | 2017-10-25 |
+| [Berlin](../../towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 83% | 2023-07-13 | 2023-07-13 |
+| [Cheshire](../../towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 63% | 2025-04-10 | 2025-04-10 |
+| [Columbia](../../towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 72% | 2022-10-05 | 2022-10-05 |
 | [Fairfield](../../towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2016-06-01 | 2016-06-01 |
 | [Norwalk](../../towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2023-03-01 | 2023-03-01 |
 
@@ -61,6 +62,13 @@ _Most recent first within each town. Every line links to the exact second of the
 - **[2025-04-10] Town Council** — Town Council Budget 4-10-25
   > …at their pool well the Sington pool Southernington has their own team so there's a Southernington Stingray race and there's Chester Sea Dogs right um they're both Y teams um and yet the…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=xtK_EDndZko&t=5050s)  _(term: `cell_site_sim`)_
+
+
+### Columbia — 1 mention
+
+- **[2022-10-05] Lake Management Advisory Commission** — Lake Management Advisory Commission 10/5/2022
+  > …when they were putting those size motors on the 17 even the 19 Footers my my Stingray is a 19-footer and I have a 135 on it and honestly that's about Max um the biggest size boat you're gonna…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Nr2uiqf6AZQ&t=4453s)  _(term: `cell_site_sim`)_
 
 
 ### Fairfield — 1 mention

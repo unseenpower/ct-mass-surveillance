@@ -1,9 +1,9 @@
 # Surveillance-tech report: Granby
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,13 +14,13 @@
 
 ## At a glance: Granby
 
-<p class="glance-headline"><strong>14 mentions</strong> of surveillance technology in <strong>9</strong> Granby meetings, 2024–2026</p>
+<p class="glance-headline"><strong>15 mentions</strong> of surveillance technology in <strong>10</strong> Granby meetings, 2024–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">14</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 9 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2024–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-03-18 → 2026-08-03</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">15</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 10 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2024–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-03-18 → 2026-09-09</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones, Predictive policing, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">98%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">269 of 274 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">98%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">274 of 279 meetings</span></a>
 </div>
 
 This report collects every mention of surveillance technology found in **Granby**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
@@ -52,16 +52,22 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 | [ALPR / Flock](#alpr) | 6 | 2 | 2026-01-05 | 2026-08-03 |
 | [Drones](#drone) | 6 | 5 | 2024-03-18 | 2026-03-05 |
 | [Predictive policing](#predictive_policing) | 1 | 1 | 2024-08-21 | 2024-08-21 |
-| [General surveillance](#surveillance_general) | 1 | 1 | 2026-06-10 | 2026-06-10 |
+| [General surveillance](#surveillance_general) | 2 | 2 | 2026-06-10 | 2026-09-09 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-9 meetings surfaced a finding (9 dated, spanning 2024-03-18 to 2026-08-03; 0 of unknown date, listed last). Newest first.
+10 meetings surfaced a finding (10 dated, spanning 2024-03-18 to 2026-09-09; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-03.*
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+
+### 2026-09-09 -- Inland Wetlands & Watercourses Commission
+
+**Granby Inland Wetlands & Watercourses Commission - 09-09-26** _(topics: surveillance_general)_
+
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=T48FyDBnRTM&t=183s)  > ...meeting with the commission. June 12th, we submitted feedback from CT do and CCTV footage documenting the existing trunk line. And with that feedback from CT dot um we determined that they were...
 
 ??? note "Earlier meetings (9)"
 
@@ -255,6 +261,10 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ### surveillance_general
 
+- **[2026-09-09] Inland Wetlands & Watercourses Commission** -- Granby Inland Wetlands & Watercourses Commission - 09-09-26
+  > ...meeting with the commission. June 12th, we submitted feedback from CT do and CCTV footage documenting the existing trunk line. And with that feedback from CT dot um we determined that they were...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=T48FyDBnRTM&t=183s)  _(term: surveillance_general, unreviewed)_
+
 - **[2026-06-10] Inland Wetlands & Watercourses Commission** -- Granby Inland Wetlands & Watercourses Commission - 06-10-26
   > ...in. Um, additionally, we also um scoped the existing pipes today and I have that CCTV footage um that I can send to Kate. Um, and it looks like the drainage the the pipes are in good condition at...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mRNVsCa2faY&t=718s)  _(term: surveillance_general, unreviewed)_
@@ -387,8 +397,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 274 (fetched: 269, no captions: 3)
-- Date range covered: 2014-11-20 to 2026-09-08 (all 274 videos dated)
+- Videos registered: 279 (fetched: 274, no captions: 2)
+- Date range covered: 2014-11-20 to 2026-09-22 (all 279 videos dated)
 
 
 ### Channels
@@ -402,8 +412,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| gctv16 | streams | 2026-09-10 11:40:20.054934 | 1 |
-| gctv16 | videos | 2026-09-10 11:40:19.331062 | 782 |
+| gctv16 | videos | 2026-09-25 15:08:03.353670 | 796 |
 
 
 ## Registered meeting bodies
@@ -413,13 +422,13 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Board of Finance | budget_finance | True | 36 |
 | Capital Program Priority Advisory Committee | budget_finance | True | 6 |
 | Three Board Meeting | budget_finance | True | 4 |
-| Board of Education | education | True | 50 |
-| Board of Selectmen | other | True | 59 |
+| Board of Education | education | True | 51 |
+| Board of Selectmen | other | True | 60 |
 | Center Advisory Committee | other | True | 23 |
-| Inland Wetlands & Watercourses Commission | other | True | 30 |
+| Inland Wetlands & Watercourses Commission | other | True | 31 |
 | Plan of Conservation and Development Committee | other | True | 8 |
-| Planning & Zoning Commission | other | True | 41 |
-| Zoning Board of Appeals | other | True | 17 |
+| Planning & Zoning Commission | other | True | 42 |
+| Zoning Board of Appeals | other | True | 18 |
 
 
 ## Agenda/minutes coverage
@@ -450,18 +459,19 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (3 shown, max 25)
+### Videos with no captions available (2 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| Granby Planning & Zoning Commission - 09-08-26 | 2026-09-08 |
 | Granby Three Board Budget Meeting - 01-20-26 | 2026-01-20 |
 | Granby Board of Finance - 05-27-25 | 2025-05-27 |
 
 
 ### Tabs never crawled
 
-*(none)*
+| channel | tab |
+| --- | --- |
+| GCTV16 | streams |
 
 
 ## Get the full transcripts
@@ -498,5 +508,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:53:19 from Granby's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:56:49 from Granby's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

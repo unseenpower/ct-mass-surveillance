@@ -1,9 +1,9 @@
 # Surveillance-tech report: Lebanon
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,16 +14,14 @@
 
 ## At a glance: Lebanon
 
-<p class="glance-headline"><strong>12 mentions</strong> of surveillance technology in <strong>3</strong> Lebanon meetings, 2024–2026</p>
+<p class="glance-headline"><strong>16 mentions</strong> of surveillance technology in <strong>5</strong> Lebanon meetings, 2024–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">12</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 3 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2024–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-08-27 → 2026-08-11</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">16</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 5 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2024–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-08-27 → 2026-09-21</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">83%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">100 of 121 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">97%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">121 of 125 meetings</span></a>
 </div>
-
-**Still incomplete:** 21 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **Lebanon**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -51,7 +49,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| [ALPR / Flock](#alpr) | 8 | 1 | 2026-08-11 | 2026-08-11 |
+| [ALPR / Flock](#alpr) | 12 | 3 | 2026-08-11 | 2026-09-21 |
 | [Drones](#drone) | 4 | 2 | 2024-08-27 | 2026-03-16 |
 
 
@@ -59,9 +57,23 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 <!-- report-polish v1 -->
 
-3 meetings surfaced a finding (3 dated, spanning 2024-08-27 to 2026-08-11; 0 of unknown date, listed last). Newest first.
+5 meetings surfaced a finding (5 dated, spanning 2024-08-27 to 2026-09-21; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-11.*
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+
+### 2026-09-21 -- Planning and Zoning Commission
+
+**Planning and Zoning Regular Meeting 9-21-26** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=p2Legiiav3I&t=4772s)  > ...we just don't have the space for them in an industrial zone. >> Bad ear to be uh in the flock camera or the data center building business? >> Oh yeah, flock camera. I've heard it...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=p2Legiiav3I&t=4777s)  > ...>> Bad ear to be uh in the flock camera or the data center building business? >> Oh yeah, flock camera. I've heard it other towns planning and zoning commissions. Um,...
+
+### 2026-09-08 -- Board of Selectmen
+
+**Board of Selectmen Regular Meeting 9/8/26** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z4nUQECbX_M&t=5628s)  > ...I have one more. Um, so that was also the meeting where we talked about the flock cameras. >> And I don't know that we captured the board's general distaste for flock...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z4nUQECbX_M&t=5632s)  > ...flock cameras. >> And I don't know that we captured the board's general distaste for flock cameras or if we wanted to memorialize that. I have no problem with it. Um,...
 
 ??? note "Earlier meetings (3)"
 
@@ -101,6 +113,22 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 
 ### alpr
+
+- **[2026-09-21] Planning and Zoning Commission** -- Planning and Zoning Regular Meeting 9-21-26
+  > ...>> Bad ear to be uh in the flock camera or the data center building business? >> Oh yeah, flock camera. I've heard it other towns planning and zoning commissions. Um,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=p2Legiiav3I&t=4777s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-21] Planning and Zoning Commission** -- Planning and Zoning Regular Meeting 9-21-26
+  > ...we just don't have the space for them in an industrial zone. >> Bad ear to be uh in the flock camera or the data center building business? >> Oh yeah, flock camera. I've heard it...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=p2Legiiav3I&t=4772s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Board of Selectmen** -- Board of Selectmen Regular Meeting 9/8/26
+  > ...flock cameras. >> And I don't know that we captured the board's general distaste for flock cameras or if we wanted to memorialize that. I have no problem with it. Um,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z4nUQECbX_M&t=5632s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-08] Board of Selectmen** -- Board of Selectmen Regular Meeting 9/8/26
+  > ...I have one more. Um, so that was also the meeting where we talked about the flock cameras. >> And I don't know that we captured the board's general distaste for flock...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z4nUQECbX_M&t=5628s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-11] Board of Selectmen** -- Board of Selectmen Regular Meeting 8-11-26
   > ...company comes in and says, "We want to set up license plate readers or surveillance or drones," because Flock also does drones, which is creepy in my opinion, personal opinion, that we would...
@@ -351,8 +379,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 8
-- Videos registered: 121 (fetched: 100, no captions: 4)
-- Date range covered: 2024-04-23 to 2026-08-19 (all 121 videos dated)
+- Videos registered: 125 (fetched: 121, no captions: 4)
+- Date range covered: 2024-04-23 to 2026-09-21 (all 125 videos dated)
 
 
 ### Channels
@@ -366,19 +394,19 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| lebanon_ct | videos | 2026-09-10 13:41:44.413016 | 121 |
+| lebanon_ct | videos | 2026-09-25 15:27:04.780044 | 125 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 38 |
+| Board of Finance | budget_finance | True | 39 |
 | BOS/BOF/BOE School Study Subcommittee | education | True | 1 |
 | Board of Assessment Appeals | other | True | 1 |
-| Board of Selectmen | other | True | 47 |
-| Library Board of Trustees | other | True | 13 |
-| Planning and Zoning Commission | other | True | 12 |
+| Board of Selectmen | other | True | 48 |
+| Library Board of Trustees | other | True | 14 |
+| Planning and Zoning Commission | other | True | 13 |
 | Town Meeting | other | True | 6 |
 | Zoning Board of Appeals | other | True | 3 |
 
@@ -460,5 +488,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:55:34 from Lebanon's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:59:31 from Lebanon's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

@@ -1,9 +1,9 @@
 # Surveillance-tech report: Danbury
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -86,7 +86,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 15 meetings surfaced a finding (15 dated, spanning 2021-04-23 to 2026-08-26; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-25** (through 2026-09-10, when this report was generated):
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
 
 ### 2026-08-26 -- Environmental Impact Commission
 
@@ -660,8 +660,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| city_of_danbury | streams | 2026-09-10 13:43:24.317843 | 44 |
-| city_of_danbury | videos | 2026-09-10 13:43:23.090178 | 87 |
+| city_of_danbury | streams | 2026-09-25 15:52:18.924435 | 44 |
+| city_of_danbury | videos | 2026-09-25 15:52:17.638251 | 87 |
 | danbury_granicus | Danbury Video Archives - Granicus Content | 2026-09-06 00:03:16.495278 | 2040 |
 
 
@@ -695,8 +695,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 2
-- Documents registered: 303 (fetched: 238)
-- Date range covered: 2022-02-15 to 2026-09-10
+- Documents registered: 325 (fetched: 254)
+- Date range covered: 2022-02-15 to 2026-09-24
 
 
 ### Agenda sources
@@ -770,5 +770,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:49:40 from Danbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:52:41 from Danbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

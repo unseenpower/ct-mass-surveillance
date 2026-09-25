@@ -1,9 +1,9 @@
 # Surveillance-tech report: Andover
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,13 +14,13 @@
 
 ## At a glance: Andover
 
-<p class="glance-headline"><strong>1 mention</strong> of surveillance technology in <strong>1</strong> Andover meeting, 2025</p>
+<p class="glance-headline"><strong>2 mentions</strong> of surveillance technology in <strong>2</strong> Andover meetings, 2025–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">1</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 1 meeting · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2025</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2025-11-19 → 2025-11-19</span></a>
-<a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Predictive policing</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">49%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">242 of 489 meetings</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 2 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2025–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2025-11-19 → 2026-09-15</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones, Predictive policing</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">64%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">317 of 492 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2021-05-04**, but Andover's published video archive goes back to **2020-04-03**. Meetings before 2021 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -51,6 +51,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
+| [Drones](#drone) | 1 | 1 | 2026-09-15 | 2026-09-15 |
 | [Predictive policing](#predictive_policing) | 1 | 1 | 2025-11-19 | 2025-11-19 |
 
 
@@ -58,9 +59,15 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 <!-- report-polish v1 -->
 
-1 meetings surfaced a finding (1 dated, spanning 2025-11-19 to 2025-11-19; 0 of unknown date, listed last). Newest first.
+2 meetings surfaced a finding (2 dated, spanning 2025-11-19 to 2026-09-15; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2025-11-19.*
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+
+### 2026-09-15 -- Planning and Zoning Commission
+
+**Planning and Zoning- Regular Meeting 9.15.26** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=fhtUUbGN19g&t=9275s)  > ...loop. So I know what that place looks like. It's it's either like this or it's wet or it's a drone. >> Remember you're on >> reported. We don't want to be...
 
 ??? note "Earlier meetings (1)"
 
@@ -115,7 +122,9 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ### drone
 
-*(no findings)*
+- **[2026-09-15] Planning and Zoning Commission** -- Planning and Zoning- Regular Meeting 9.15.26
+  > ...loop. So I know what that place looks like. It's it's either like this or it's wet or it's a drone. >> Remember you're on >> reported. We don't want to be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fhtUUbGN19g&t=9275s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -287,8 +296,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 9
-- Videos registered: 489 (fetched: 242, no captions: 6)
-- Date range covered: 2020-04-03 to 2026-09-03 (all 489 videos dated)
+- Videos registered: 492 (fetched: 317, no captions: 9)
+- Date range covered: 2020-04-03 to 2026-09-23 (all 492 videos dated)
 
 
 ### Channels
@@ -302,7 +311,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| andover_ct | videos | 2026-09-10 11:39:33.739933 | 512 |
+| andover_ct | videos | 2026-09-25 15:26:39.467029 | 515 |
 
 
 ## Registered meeting bodies
@@ -310,13 +319,13 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Annual Town Budget Meeting | budget_finance | True | 18 |
-| Board of Finance | budget_finance | True | 126 |
+| Board of Finance | budget_finance | True | 127 |
 | Capital Improvement Planning Committee | budget_finance | True | 4 |
 | Andover Charter Revision Commission | other | True | 7 |
 | Board of Assessment Appeals | other | True | 11 |
-| Board of Selectmen | other | True | 170 |
+| Board of Selectmen | other | True | 171 |
 | Inland Wetlands and Watercourses Commission | other | True | 59 |
-| Planning and Zoning Commission | other | True | 81 |
+| Planning and Zoning Commission | other | True | 82 |
 | Zoning Board of Appeals | other | True | 13 |
 
 
@@ -347,7 +356,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (6 shown, max 25)
+### Videos with no captions available (9 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
@@ -356,6 +365,9 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Board of Finance- Budget Meeting 3.11.26 | 2026-03-11 |
 | IWWC 12.2.24 Regular Meeting | 2024-12-02 |
 | Town Meeting 5.2.23 | 2023-05-02 |
+| Board of Selectman November 14, 2022 Video 1 | 2022-11-14 |
+| 5.24.2022 Town Budget Meeting | 2022-05-24 |
+| 5.4.2022 Town Budget Meeting | 2022-05-04 |
 | IWWC #20-27 Application, 129 Hebron Road, Puerto - Video 2 | 2020-11-02 |
 
 
@@ -400,5 +412,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:46:28 from Andover's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:48:34 from Andover's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

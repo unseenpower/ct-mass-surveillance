@@ -1,9 +1,9 @@
 # Surveillance-tech report: Cromwell
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,13 +14,13 @@
 
 ## At a glance: Cromwell
 
-<p class="glance-headline"><strong>14 mentions</strong> of surveillance technology in <strong>6</strong> Cromwell meetings, 2025–2026</p>
+<p class="glance-headline"><strong>15 mentions</strong> of surveillance technology in <strong>7</strong> Cromwell meetings, 2025–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">14</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 6 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2025–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2025-03-18 → 2026-08-12</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">15</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 7 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2025–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2025-03-18 → 2026-09-24</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Predictive policing, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">99%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">85 of 86 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">99%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">87 of 88 meetings</span></a>
 <a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">1</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
@@ -50,7 +50,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| [ALPR / Flock](#alpr) | 1 | 1 | 2026-08-12 | 2026-08-12 |
+| [ALPR / Flock](#alpr) | 2 | 2 | 2026-08-12 | 2026-09-24 |
 | [Body cameras](#body_camera) | 1 | 1 | 2025-08-13 | 2025-08-13 |
 | [Drones](#drone) | 3 | 2 | 2025-06-26 | 2026-04-02 |
 | [Predictive policing](#predictive_policing) | 3 | 1 | 2025-03-18 | 2025-03-18 |
@@ -61,9 +61,15 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 <!-- report-polish v1 -->
 
-6 meetings surfaced a finding (6 dated, spanning 2025-03-18 to 2026-08-12; 0 of unknown date, listed last). Newest first.
+7 meetings surfaced a finding (7 dated, spanning 2025-03-18 to 2026-09-24; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-12.*
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+
+### 2026-09-24 -- Planning & Zoning Commission
+
+**Town of Cromwell Planning & Zoning Commission Special Meeting 09-24-2026** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4CDN3VRCDUI&t=3695s)  > ...back and that's what you should just accept." If that was the case, nobody'd be unhappy with flock. Nobody would be unhappy with the way that data centers are are affecting communities in New...
 
 ??? note "Earlier meetings (6)"
 
@@ -120,6 +126,10 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 
 ### alpr
+
+- **[2026-09-24] Planning & Zoning Commission** -- Town of Cromwell Planning & Zoning Commission Special Meeting 09-24-2026
+  > ...back and that's what you should just accept." If that was the case, nobody'd be unhappy with flock. Nobody would be unhappy with the way that data centers are are affecting communities in New...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4CDN3VRCDUI&t=3695s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-12] Town Council** -- Town of Cromwell Town Council Regular Meeting 08-12-2026
   > ...about all the cameras that are being installed in town. >> The flock cameras. >> Yeah. You know, people are in an uproar. >> We don't have any in town....
@@ -383,8 +393,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 6
-- Videos registered: 86 (fetched: 85, no captions: 1)
-- Date range covered: 2025-03-18 to 2026-08-18 (all 86 videos dated)
+- Videos registered: 88 (fetched: 87, no captions: 1)
+- Date range covered: 2025-03-18 to 2026-09-24 (all 88 videos dated)
 
 
 ### Channels
@@ -398,8 +408,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| cromwell_ct | streams | 2026-09-10 13:28:11.758912 | 20 |
-| cromwell_ct | videos | 2026-09-10 13:28:10.853130 | 86 |
+| cromwell_ct | streams | 2026-09-25 16:08:49.684411 | 21 |
+| cromwell_ct | videos | 2026-09-25 16:08:48.702166 | 88 |
 
 
 ## Registered meeting bodies
@@ -408,8 +418,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 16 |
 | Inland Wetlands & Watercourses Agency | other | True | 2 |
-| Planning & Zoning Commission | other | True | 27 |
-| Town Council | other | True | 36 |
+| Planning & Zoning Commission | other | True | 28 |
+| Town Council | other | True | 37 |
 | Water Pollution Control Authority | other | True | 1 |
 | Zoning Board of Appeals | other | True | 4 |
 
@@ -417,8 +427,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 157 (fetched: 25)
-- Date range covered: 2026-01-06 to 2026-09-09
+- Documents registered: 164 (fetched: 28)
+- Date range covered: 2026-01-06 to 2026-09-24
 
 
 ### Agenda sources
@@ -486,5 +496,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:49:28 from Cromwell's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:52:27 from Cromwell's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

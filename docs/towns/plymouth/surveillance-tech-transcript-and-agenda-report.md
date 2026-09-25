@@ -1,9 +1,9 @@
 # Surveillance-tech report: Plymouth
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -61,7 +61,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 2 meetings surfaced a finding (2 dated, spanning 2024-01-10 to 2026-04-15; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-04-15.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-04-15.*
 
 ??? note "Earlier meetings (2)"
 
@@ -312,10 +312,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| plymouth_ct | streams | 2026-09-10 13:30:24.106293 | 14 |
-| plymouth_ct | videos | 2026-09-10 13:30:23.314363 | 3 |
-| plymouth_public_schools | streams | 2026-09-10 13:52:18.440350 | 2 |
-| plymouth_public_schools | videos | 2026-09-10 13:52:17.686261 | 182 |
+| plymouth_ct | streams | 2026-09-25 16:00:38.040763 | 14 |
+| plymouth_ct | videos | 2026-09-25 16:00:37.132970 | 3 |
+| plymouth_public_schools | streams | 2026-09-25 15:55:29.513289 | 2 |
+| plymouth_public_schools | videos | 2026-09-25 15:55:28.767244 | 182 |
 
 
 ## Registered meeting bodies
@@ -399,5 +399,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:01:23 from Plymouth's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:07:23 from Plymouth's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

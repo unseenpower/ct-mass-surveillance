@@ -1,9 +1,9 @@
 # Surveillance-tech report: Plainfield
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,7 +20,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">28</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 21 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2021–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-05-03 → 2026-04-08</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Predictive policing, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">62%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">485 of 781 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">72%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">561 of 784 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2018-10-24**, but Plainfield's published video archive goes back to **2017-11-13**. Meetings before 2018 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -64,7 +64,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 21 meetings surfaced a finding (21 dated, spanning 2021-05-03 to 2026-04-08; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-04-08.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-04-08.*
 
 ??? note "Earlier meetings (21)"
 
@@ -518,8 +518,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 2
 - Active meeting bodies: 17
-- Videos registered: 781 (fetched: 485, no captions: 58)
-- Date range covered: 2017-11-13 to 2026-08-25 (all 781 videos dated)
+- Videos registered: 784 (fetched: 561, no captions: 59)
+- Date range covered: 2017-11-13 to 2026-09-16 (all 784 videos dated)
 
 
 ### Channels
@@ -534,20 +534,20 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| plainfield_dtc | streams | 2026-09-10 11:40:58.746156 | 32 |
-| plainfield_dtc | videos | 2026-09-10 11:40:57.604497 | 26 |
-| plainfield_watchdog | videos | 2026-09-10 11:41:26.554851 | 881 |
+| plainfield_dtc | streams | 2026-09-25 15:41:40.528640 | 32 |
+| plainfield_dtc | videos | 2026-09-25 15:41:39.345213 | 26 |
+| plainfield_watchdog | videos | 2026-09-25 15:42:14.967712 | 885 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 154 |
+| Board of Finance | budget_finance | True | 155 |
 | Capital Strategic Planning Committee | budget_finance | True | 7 |
 | Pension Board | budget_finance | True | 2 |
 | Town Meeting / Budget Hearing | budget_finance | True | 50 |
-| Board of Selectmen | council | True | 243 |
+| Board of Selectmen | council | True | 245 |
 | Board of Education | education | True | 28 |
 | Agriculture Commission | other | True | 12 |
 | Charter Revision Commission | other | True | 53 |
@@ -662,5 +662,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:01:09 from Plainfield's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:07:06 from Plainfield's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

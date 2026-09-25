@@ -1,9 +1,9 @@
 # Surveillance-tech report: Oxford
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,13 +14,13 @@
 
 ## At a glance: Oxford
 
-<p class="glance-headline"><strong>No surveillance-technology mentions</strong> found yet in 35 transcribed Oxford meetings</p>
+<p class="glance-headline"><strong>No surveillance-technology mentions</strong> found yet in 38 transcribed Oxford meetings</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#coverage-status"><span class="gc-big">73%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">35 of 48 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">79%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">38 of 48 meetings</span></a>
 </div>
 
-**Still incomplete:** 13 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+**Still incomplete:** 10 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **Oxford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -268,7 +268,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 2
 - Active meeting bodies: 6
-- Videos registered: 48 (fetched: 35, no captions: 12)
+- Videos registered: 48 (fetched: 38, no captions: 10)
 - Date range covered: 2024-05-06 to 2026-09-02 (all 48 videos dated)
 
 
@@ -284,8 +284,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| oxford_bos_ct | streams | 2026-09-10 13:42:36.276337 | 24 |
-| oxford_underground_press | videos | 2026-09-10 13:42:19.746285 | 37 |
+| oxford_bos_ct | streams | 2026-09-25 15:34:41.261405 | 24 |
+| oxford_underground_press | videos | 2026-09-25 15:51:13.608565 | 37 |
 
 
 ## Registered meeting bodies
@@ -306,7 +306,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 143 (fetched: 2)
+- Documents registered: 151 (fetched: 2)
 - Date range covered: 2026-01-06 to 2026-10-20
 
 
@@ -333,20 +333,18 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (12 shown, max 25)
+### Videos with no captions available (10 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| 9 02 26 BOS Meeting | 2026-09-02 |
-| 9 02 26 BOS Meeting | 2026-09-02 |
 | 04 02 25 BoS Meeting, Oxford, CT | 2025-04-02 |
 | 03 24 25 BoF Special Mtg with BOE - Oxford, CT  (Part 1 of 2) | 2025-03-24 |
 | 3 19 25 Board of Selectmen Meeting, Oxford, CT Part 2 of 2 | 2025-03-19 |
 | 03 19 25 BoS Meeting, Oxford, CT Part 1 of 2 | 2025-03-19 |
 | 03-05-25 Board of Selectmen Meeting - Oxford, CT | 2025-03-05 |
 | 02-19-25 Board of Selectmen Meeting Oxford, CT | 2025-02-19 |
-| 02-05-25 Town Meeting - Lot 1, E Commerce Drive, Oxford, CT | 2025-02-05 |
 | 02-05-25 Town Meeting - Oxford, CT | 2025-02-05 |
+| 02-05-25 Town Meeting - Lot 1, E Commerce Drive, Oxford, CT | 2025-02-05 |
 | 01 08 25 BoS Special Meeting Part 1 of 2- Oxford CT | 2025-01-08 |
 | 10 16 24 BoS Meeting, Oxford, CT | 2024-10-16 |
 
@@ -393,5 +391,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:01:01 from Oxford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:06:56 from Oxford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

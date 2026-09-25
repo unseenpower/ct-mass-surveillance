@@ -1,6 +1,6 @@
 # Other biometrics: every mention, every town
 
-_Generated 2026-09-10T18:10:00 — 9 mentions across 6 towns, 2021-03-11 to 2025-08-11._
+_Generated 2026-09-25T17:14:11 — 10 mentions across 7 towns, 2021-03-11 to 2026-07-23._
 
 
 Biometric identification other than face — gait, iris, voice.
@@ -24,10 +24,11 @@ _No human review has been applied to any mention in this file._
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
 | [East Lyme](../../towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **3** | 3 | 3 | 95% | 2021-03-11 | 2025-08-11 |
-| [Monroe](../../towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 67% | 2022-11-07 | 2024-05-28 |
-| [East Windsor](../../towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 46% | 2024-03-28 | 2024-03-28 |
+| [Monroe](../../towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 81% | 2022-11-07 | 2024-05-28 |
+| [East Windsor](../../towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 68% | 2024-03-28 | 2024-03-28 |
 | [Fairfield](../../towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2024-02-21 | 2024-02-21 |
-| [Seymour](../../towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 83% | 2022-02-08 | 2022-02-08 |
+| [Norwalk](../../towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 98% | 2026-07-23 | 2026-07-23 |
+| [Seymour](../../towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 84% | 2022-02-08 | 2022-02-08 |
 | [Southington](../../towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2023-12-14 | 2023-12-14 |
 
 ## Receipts
@@ -73,6 +74,13 @@ _Most recent first within each town. Every line links to the exact second of the
 - **[2024-02-21] Board of Selectmen** — Board of Selectmen (Regular Meeting) - 2/21/2024
   > …motion uh deputy chief in 2020 the Department of Emergency Services and public protection contracted with idemia to serve as the state's biometric technology for the secure capture and…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=T_M-3cLmct0&t=281s)  _(term: `biometrics_other`)_
+
+
+### Norwalk — 1 mention
+
+- **[2026-07-23] Public Safety and General Government Committee** — Public Safety and General Government Committee Other - 2026-07-23
+  > …nnel. All appointments, dates, and times, will be scheduled through the BIS website. Links will be provided under the NPD website to include all necessary information. BIS will utilize the NPD owned Idemia Live Scan Machine to capture and electronically transmit fingerprint records to the State of Connecticut. NPD will only receive back approved applications for Norwalk residents, employees, or p…
+  [Open document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15740,plainText=false))  _(agenda/minutes · term: `biometrics_other`)_
 
 
 ### Seymour — 1 mention

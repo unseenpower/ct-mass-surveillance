@@ -1,9 +1,9 @@
 # Surveillance-tech report: Watertown
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,7 +20,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">55</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 17 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2021–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-08-05 → 2026-08-17</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones, Predictive policing, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">78%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">425 of 548 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">78%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">435 of 558 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2019-09-17**, but Watertown's published video archive goes back to **2005-04-21**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -63,7 +63,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 17 meetings surfaced a finding (17 dated, spanning 2021-08-05 to 2026-08-17; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-17.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-17.*
 
 ??? note "Earlier meetings (17)"
 
@@ -634,8 +634,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 16
-- Videos registered: 548 (fetched: 425, no captions: 2)
-- Date range covered: 2005-04-21 to 2026-08-26 (all 548 videos dated)
+- Videos registered: 558 (fetched: 435, no captions: 2)
+- Date range covered: 2005-04-21 to 2026-09-23 (all 558 videos dated)
 
 
 ### Channels
@@ -649,8 +649,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| watertown_ct | streams | 2026-09-10 13:51:44.375892 | 24 |
-| watertown_ct | videos | 2026-09-10 13:51:43.520411 | 644 |
+| watertown_ct | streams | 2026-09-25 15:54:45.536424 | 24 |
+| watertown_ct | videos | 2026-09-25 15:54:44.624594 | 654 |
 
 
 ## Registered meeting bodies
@@ -658,7 +658,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Finance Subcommittee | budget_finance | True | 7 |
-| Town Council | council | True | 169 |
+| Town Council | council | True | 173 |
 | School Capital Project Committee | education | True | 6 |
 | Commission on Aging | other | True | 30 |
 | Conservation Commission / Inland Wetlands Agency | other | True | 63 |
@@ -666,13 +666,13 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Golf Subcommittee | other | True | 3 |
 | Ordinance Subcommittee | other | True | 7 |
 | Parks Subcommittee | other | True | 3 |
-| Planning & Zoning Commission | other | True | 62 |
+| Planning & Zoning Commission | other | True | 64 |
 | Public Works Subcommittee | other | True | 36 |
-| Recreation Commission | other | True | 9 |
+| Recreation Commission | other | True | 11 |
 | Town Meeting | other | True | 30 |
-| Water & Sewer Authority | other | True | 32 |
+| Water & Sewer Authority | other | True | 33 |
 | Zoning Board of Appeals | other | True | 32 |
-| Police Commission | public_safety | True | 49 |
+| Police Commission | public_safety | True | 50 |
 
 
 ## Agenda/minutes coverage
@@ -748,5 +748,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:04:42 from Watertown's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:11:11 from Watertown's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

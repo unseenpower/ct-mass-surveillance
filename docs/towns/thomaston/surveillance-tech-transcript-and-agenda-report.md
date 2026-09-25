@@ -1,9 +1,9 @@
 # Surveillance-tech report: Thomaston
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,10 +14,10 @@
 
 ## At a glance: Thomaston
 
-<p class="glance-headline"><strong>No surveillance-technology mentions</strong> found yet in 32 transcribed Thomaston meetings</p>
+<p class="glance-headline"><strong>No surveillance-technology mentions</strong> found yet in 34 transcribed Thomaston meetings</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#coverage-status"><span class="gc-big">33%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">32 of 98 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">34%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">34 of 100 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2020-05-27**, but Thomaston's published video archive goes back to **2016-02-17**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -268,8 +268,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 8
-- Videos registered: 98 (fetched: 32, no captions: 1)
-- Date range covered: 2016-02-17 to 2026-09-09 (all 98 videos dated)
+- Videos registered: 100 (fetched: 34, no captions: 1)
+- Date range covered: 2016-02-17 to 2026-09-09 (all 100 videos dated)
 
 
 ### Channels
@@ -283,8 +283,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| thomaston_ct | streams | 2026-09-10 13:49:25.596344 | 72 |
-| thomaston_ct | videos | 2026-09-10 13:49:23.938709 | 34 |
+| thomaston_ct | streams | 2026-09-25 15:44:57.449351 | 72 |
+| thomaston_ct | videos | 2026-09-25 15:44:55.494995 | 36 |
 
 
 ## Registered meeting bodies
@@ -292,11 +292,11 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 13 |
-| Board of Selectmen | council | True | 19 |
+| Board of Selectmen | council | True | 20 |
 | Board of Education | education | True | 15 |
 | Economic Development Commission | other | True | 10 |
 | Inland Wetlands & Watercourses Commission | other | True | 5 |
-| Planning & Zoning Commission | other | True | 25 |
+| Planning & Zoning Commission | other | True | 26 |
 | Water Pollution Control Authority | other | True | 8 |
 | Zoning Board of Appeals | other | True | 3 |
 
@@ -375,5 +375,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:03:47 from Thomaston's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:10:18 from Thomaston's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

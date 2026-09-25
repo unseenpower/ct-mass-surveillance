@@ -1,6 +1,6 @@
 # Mobile forensics: every mention, every town
 
-_Generated 2026-09-10T18:10:02 — 2 mentions across 1 towns, 2020-09-23 to 2021-10-13._
+_Generated 2026-09-25T17:14:12 — 3 mentions across 2 towns, 2020-09-23 to 2026-08-04._
 
 
 > **These are unreviewed keyword matches, not verified claims.** Each receipt below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous — "drone" can mean a bee, "flock" a bird — and auto-captions mis-transcribe. **Follow the timestamped link and listen before citing anything here.**
@@ -20,7 +20,8 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [New Britain](../../towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 32% | 2020-09-23 | 2021-10-13 |
+| [New Britain](../../towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 34% | 2020-09-23 | 2021-10-13 |
+| [West Hartford](../../towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 93% | 2026-08-04 | 2026-08-04 |
 
 ## Receipts
 
@@ -36,4 +37,11 @@ _Most recent first within each town. Every line links to the exact second of the
 - **[2020-09-23] Common Council** — Common Council Regular Meeting Minutes - 2020-09-23
   > …d. Approved September 29, 2020 by Mayor Erin E. Stewart. NEW BUSINESS RESOLUTIONS 35218 RE: PURCHASE OF THE GRAYKEY DIGITAL FORENSIC EXTRACTION TOOL SYSTEM FOR THE NEW BRITAIN POLICE DEPARTMENT’S INVESTIGATIONS BUREAU To Her Honor, the Mayor, and the Common Council of the City of New Bri…
   [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=413&doc_id=2ae5726b-3314-11eb-bc32-0050569183fa)  _(agenda/minutes · term: `mobile_forensics`)_
+
+
+### West Hartford — 1 mention
+
+- **[2026-08-04] Public Safety Committee** — Public Safety Committee Other - 2026-08-04
+  > …to custody. • Detective Division ▪ During the week of June 1-5, 2026, West Hartford Police hosted Detectives from different parts of the country for Cellebrite Certified Operator for Inseyets and Cellebrite Certified Physical Analyst for Inseyets Bundle – This is a dual certification class that teaches…
+  [Open document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7469,plainText=false))  _(agenda/minutes · term: `mobile_forensics`)_
 

@@ -1,9 +1,9 @@
 # Surveillance-tech report: New Britain
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,18 +14,18 @@
 
 ## At a glance: New Britain
 
-<p class="glance-headline"><strong>11 mentions</strong> of surveillance technology in <strong>10</strong> New Britain meetings, 2021–2025</p>
+<p class="glance-headline"><strong>13 mentions</strong> of surveillance technology in <strong>12</strong> New Britain meetings, 2018–2025</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">11</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 10 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2021–2025</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-10-04 → 2025-08-14</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">13</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 12 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2018–2025</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2018-06-26 → 2025-08-14</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">6</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Body cameras, Drones, Facial recognition, Predictive policing, Purchasing / procurement, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/new-britain-alpr-searches.html"><span class="gc-big">3,026</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by New Britain police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">32%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">281 of 869 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">34%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">299 of 871 meetings</span></a>
 <a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">17</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
-**Not the full history:** transcripts begin **2019-04-01**, but New Britain's published video archive goes back to **2017-01-11**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+**Not the full history:** transcripts begin **2018-05-21**, but New Britain's published video archive goes back to **2017-01-11**. Meetings before 2018 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 This report collects every mention of surveillance technology found in **New Britain**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -75,9 +75,9 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
 | [Body cameras](#body_camera) | 3 | 2 | 2022-11-10 | 2024-06-27 |
-| [Drones](#drone) | 1 | 1 | 2024-02-21 | 2024-02-21 |
+| [Drones](#drone) | 2 | 2 | 2019-02-04 | 2024-02-21 |
 | [Facial recognition](#facial_recognition) | 1 | 1 | 2021-10-04 | 2021-10-04 |
-| [Predictive policing](#predictive_policing) | 2 | 2 | 2023-05-08 | 2023-05-19 |
+| [Predictive policing](#predictive_policing) | 3 | 3 | 2018-06-26 | 2023-05-19 |
 | [Purchasing / procurement](#purchasing_broker) | 1 | 1 | 2025-06-26 | 2025-06-26 |
 | [General surveillance](#surveillance_general) | 3 | 3 | 2024-08-15 | 2025-08-14 |
 
@@ -86,11 +86,11 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 <!-- report-polish v1 -->
 
-10 meetings surfaced a finding (10 dated, spanning 2021-10-04 to 2025-08-14; 0 of unknown date, listed last). Newest first.
+12 meetings surfaced a finding (12 dated, spanning 2018-06-26 to 2025-08-14; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2025-08-14.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2025-08-14.*
 
-??? note "Earlier meetings (10)"
+??? note "Earlier meetings (12)"
 
     **2025-08-14 -- Common Council**
 
@@ -153,6 +153,18 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
     - `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=zrZ1Vhr1JHk&t=2128s)  > ...does so every single camera is intelligent it has analytics we're not doing any sort of facial recognition there's no ferpa issues or anything like that that i know are a big...
 
+    **2019-02-04 -- Board of Education**
+
+    **New Britain Board of Education 2-4-19** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4JOp-wDfUXY&t=5879s)  > ...know one of the highlights was about switching from the current platform of the BYOC the drone curriculum platform that initiative uses to something more centralized that people are more like...
+
+    **2018-06-26 -- Common Council**
+
+    **New Britain Common Council Special Public Hearing - 6/26/18** _(topics: predictive_policing)_
+
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=74BUH3Ft91c&t=8933s)  > ...why I'm here thank you areare merry Palantir and Peter Davis very writings Ward [address redacted] Bristol Connecticut first of all I'd...
+
 
 ## Findings by topic
 
@@ -212,6 +224,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   > ...like grilling because I know it's like other development had done previous with like drone and Corbin they don't allow you to have grills or anything outside so are there going to be able to have an...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eVxs3PtzzXg&t=1739s)  _(term: drone, unreviewed)_
 
+- **[2019-02-04] Board of Education** -- New Britain Board of Education 2-4-19
+  > ...know one of the highlights was about switching from the current platform of the BYOC the drone curriculum platform that initiative uses to something more centralized that people are more like...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4JOp-wDfUXY&t=5879s)  _(term: drone, unreviewed)_
+
 
 ### facial_recognition
 
@@ -244,6 +260,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2023-05-08] Board of Education** -- New Britain Board of Education - 05-08-23
   > ...very good public speaker last night this week um Dr Gotham for coming behalf of class it was fun and but I also want to Echo two that was a deposit on the the name...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-pAFc06j0Hc&t=1366s)  _(term: predictive_policing, unreviewed)_
+
+- **[2018-06-26] Common Council** -- New Britain Common Council Special Public Hearing - 6/26/18
+  > ...why I'm here thank you areare merry Palantir and Peter Davis very writings Ward [address redacted] Bristol Connecticut first of all I'd...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=74BUH3Ft91c&t=8933s)  _(term: predictive_policing, unreviewed)_
 
 
 ### purchasing_broker
@@ -563,8 +583,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 4
 - Active meeting bodies: 11
-- Videos registered: 869 (fetched: 281, no captions: 8)
-- Date range covered: 2017-01-11 to 2026-09-09 — **based on the 752 of 869 videos that carry a parseable upload date**; the other 117 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 871 (fetched: 299, no captions: 7)
+- Date range covered: 2017-01-11 to 2026-09-24 — **based on the 754 of 871 videos that carry a parseable upload date**; the other 117 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -581,13 +601,13 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| conbct | streams | 2026-09-10 13:43:46.836823 | 197 |
-| conbct | videos | 2026-09-10 13:43:43.517952 | 25 |
-| csdnb | streams | 2026-09-10 13:50:19.514649 | 155 |
-| csdnb | videos | 2026-09-10 13:50:16.834334 | 159 |
+| conbct | streams | 2026-09-25 15:29:57.142984 | 198 |
+| conbct | videos | 2026-09-25 15:29:53.460098 | 25 |
+| csdnb | streams | 2026-09-25 15:54:12.231212 | 155 |
+| csdnb | videos | 2026-09-25 15:54:09.509270 | 162 |
 | new_britain_granicus | New Britain CT - Granicus Content | 2026-09-06 11:48:18.144951 | 564 |
-| nutmeg_tv | streams | 2026-09-10 11:37:23.451548 | 3 |
-| nutmeg_tv | videos | 2026-09-10 11:37:22.711081 | 5289 |
+| nutmeg_tv | streams | 2026-09-25 15:38:33.671540 | 3 |
+| nutmeg_tv | videos | 2026-09-25 15:38:32.776262 | 5316 |
 
 
 ## Registered meeting bodies
@@ -598,9 +618,9 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Board of Finance | budget_finance | True | 0 |
 | Committee on Administration, Finance and Law | budget_finance | True | 0 |
 | Standing Bonding Subcommittee | budget_finance | True | 17 |
-| Common Council | council | True | 445 |
+| Common Council | council | True | 446 |
 | Consolidated Subcommittee | council | True | 41 |
-| Board of Education | education | True | 107 |
+| Board of Education | education | True | 108 |
 | Committee on Planning, Zoning and Housing | land_use | True | 84 |
 | Zoning Subcommittee | land_use | True | 39 |
 | Compensation Committee | other | True | 19 |
@@ -613,8 +633,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 960 (fetched: 391)
-- Date range covered: 2016-09-06 to 2026-09-09
+- Documents registered: 969 (fetched: 394)
+- Date range covered: 2016-09-06 to 2026-10-07
 
 
 ### Agenda sources
@@ -639,17 +659,16 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (8 shown, max 25)
+### Videos with no captions available (7 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| Common Council Regular Meeting | 2026-09-09 |
 | Standing Bonding Subcommittee | 2025-03-20 |
 | New Britain Board of Education Meeting (November 2, 2020) | 2020-11-02 |
 | New Britain Board of Education Meeting (August 17, 2020) | 2020-08-17 |
 | Common Council Public Hearing |  |
-| Common Council Regular Meeting |  |
 | Committee on Administration, Finance and Law and Public Services |  |
+| Common Council Regular Meeting |  |
 | Common Council Regular Meeting |  |
 
 
@@ -695,5 +714,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:57:08 from New Britain's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:02:41 from New Britain's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

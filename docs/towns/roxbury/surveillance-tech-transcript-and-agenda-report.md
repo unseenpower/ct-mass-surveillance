@@ -1,9 +1,9 @@
 # Surveillance-tech report: Roxbury
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,16 +14,16 @@
 
 ## At a glance: Roxbury
 
-<p class="glance-headline"><strong>1 mention</strong> of surveillance technology in <strong>1</strong> Roxbury meeting, 2023</p>
+<p class="glance-headline"><strong>2 mentions</strong> of surveillance technology in <strong>2</strong> Roxbury meetings, 2023</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">1</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 1 meeting · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2023</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2023-05-16 → 2023-05-16</span></a>
-<a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">18%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">52 of 286 meetings</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 2 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2023</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2023-05-05 → 2023-05-16</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">44%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">127 of 286 meetings</span></a>
 </div>
 
-**Not the full history:** transcripts begin **2023-05-11**, but Roxbury's published video archive goes back to **2020-03-31**. Meetings before 2023 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+**Not the full history:** transcripts begin **2022-03-29**, but Roxbury's published video archive goes back to **2020-03-31**. Meetings before 2022 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 This report collects every mention of surveillance technology found in **Roxbury**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -52,23 +52,30 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
 | [ALPR / Flock](#alpr) | 1 | 1 | 2023-05-16 | 2023-05-16 |
+| [Drones](#drone) | 1 | 1 | 2023-05-05 | 2023-05-05 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-1 meetings surfaced a finding (1 dated, spanning 2023-05-16 to 2023-05-16; 0 of unknown date, listed last). Newest first.
+2 meetings surfaced a finding (2 dated, spanning 2023-05-05 to 2023-05-16; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2023-05-16.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2023-05-16.*
 
-??? note "Earlier meetings (1)"
+??? note "Earlier meetings (2)"
 
     **2023-05-16 -- Board of Finance**
 
     **Board of Finance - May 16, 2023 - Regular Meeting** _(topics: alpr)_
 
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=2X-fKzwRCIA&t=1856s)  > ...being the same exact cars oh my gosh can we do any enforcements uh we have a license plate reader on our police car Linda and Kim and Kim have...
+
+    **2023-05-05 -- Board of Selectmen**
+
+    **Board of Selectmen - May 5, 2023 - Special Meeting** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=DW-wfJ2LrzE&t=1258s)  > ...my Muk boots I just had my my sneakers so is that good me too I don't think we're hiking try a drone over all the different okay okay explain how they operate the system what they've been...
 
 
 ## Findings by topic
@@ -117,7 +124,9 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ### drone
 
-*(no findings)*
+- **[2023-05-05] Board of Selectmen** -- Board of Selectmen - May 5, 2023 - Special Meeting
+  > ...my Muk boots I just had my my sneakers so is that good me too I don't think we're hiking try a drone over all the different okay okay explain how they operate the system what they've been...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DW-wfJ2LrzE&t=1258s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -287,7 +296,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 11
-- Videos registered: 286 (fetched: 52, no captions: 0)
+- Videos registered: 286 (fetched: 127, no captions: 0)
 - Date range covered: 2020-03-31 to 2026-05-21 (all 286 videos dated)
 
 
@@ -302,7 +311,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| roxbury_ct | videos | 2026-09-10 11:58:51.169987 | 291 |
+| roxbury_ct | videos | 2026-09-25 15:57:39.125303 | 291 |
 
 
 ## Registered meeting bodies
@@ -395,5 +404,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:01:54 from Roxbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:08:00 from Roxbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

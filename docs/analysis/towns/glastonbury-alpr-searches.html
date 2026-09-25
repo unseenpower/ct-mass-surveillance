@@ -851,7 +851,8 @@ th.sortable:focus-visible { outline: 2px solid var(--series-1); outline-offset: 
 .topbar .backlink { font-size: 13.5px; color: var(--text-secondary); text-decoration: none;
   padding: 3px 9px; border: 1px solid var(--border); border-radius: 999px; white-space: nowrap; }
 .topbar .backlink:hover { color: var(--text-primary); border-color: var(--text-secondary); }
-html.framed .topbar .backlink { display: none; }
+html.framed .topbar .backlink:not(.feedback) { display: none; }
+.topbar .backlink.feedback { color: var(--accent, #2a6fdb); border-color: currentColor; font-weight: 600; }
 </style>
 <script>if (window.self !== window.top) document.documentElement.classList.add("framed");</script>
 </head>
@@ -860,6 +861,7 @@ html.framed .topbar .backlink { display: none; }
 <div class="topbar">
   <div class="wrap">
     <a class="backlink" href="./">All departments</a>
+    <a class="backlink feedback" href="mailto:flockoff.io@proton.me?subject=Question%20/%20feedback%3A%20Glastonbury%20CT%20PD%20search%20dashboard">Questions / Feedback</a>
     <span class="brand">CT ALPR Explorer</span>
     <span class="live" id="live">Loading&hellip;</span>
     <span class="spacer"></span>

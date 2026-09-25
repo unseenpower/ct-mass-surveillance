@@ -1,9 +1,9 @@
 # Surveillance-tech report: Southington
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -21,7 +21,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">2020–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2020-09-09 → 2026-07-14</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Other biometrics, Body cameras, Drones, Facial recognition</span></a>
 <a class="glance-card" href="../../../analysis/towns/southington-alpr-searches.html"><span class="gc-big">10,518</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Southington police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">97%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">375 of 388 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">97%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">380 of 393 meetings</span></a>
 </div>
 
 This report collects every mention of surveillance technology found in **Southington**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
@@ -84,7 +84,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 26 meetings surfaced a finding (26 dated, spanning 2020-09-09 to 2026-07-14; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-07-14.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-07-14.*
 
 ??? note "Earlier meetings (26)"
 
@@ -1123,8 +1123,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 4
-- Videos registered: 388 (fetched: 375, no captions: 13)
-- Date range covered: 2019-07-22 to 2026-08-13 (all 388 videos dated)
+- Videos registered: 393 (fetched: 380, no captions: 13)
+- Date range covered: 2019-07-22 to 2026-09-24 (all 393 videos dated)
 
 
 ### Channels
@@ -1138,17 +1138,17 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| town_of_southington | streams | 2026-09-10 11:54:11.282319 | 304 |
-| town_of_southington | videos | 2026-09-10 11:54:06.826934 | 241 |
+| town_of_southington | streams | 2026-09-25 15:15:24.242220 | 309 |
+| town_of_southington | videos | 2026-09-25 15:15:19.764296 | 242 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 85 |
-| Town Council | council | True | 176 |
-| Board of Education | education | True | 127 |
+| Board of Finance | budget_finance | True | 87 |
+| Town Council | council | True | 177 |
+| Board of Education | education | True | 129 |
 | Board of Police Commissioners | public_safety | True | 0 |
 
 
@@ -1243,5 +1243,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:03:15 from Southington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:09:16 from Southington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

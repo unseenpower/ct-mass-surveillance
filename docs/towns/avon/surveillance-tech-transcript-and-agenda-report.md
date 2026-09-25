@@ -1,9 +1,9 @@
 # Surveillance-tech report: Avon
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -18,10 +18,8 @@
 
 <div class="glance-grid">
 <a class="glance-card" href="../../../analysis/towns/avon-alpr-searches.html"><span class="gc-big">2,604</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Avon police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">78%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">69 of 89 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">91%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">82 of 90 meetings</span></a>
 </div>
-
-**Still incomplete:** 20 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **Avon**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -290,8 +288,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 3
-- Videos registered: 89 (fetched: 69, no captions: 0)
-- Date range covered: 2017-02-28 to 2026-06-09 (all 89 videos dated)
+- Videos registered: 90 (fetched: 82, no captions: 0)
+- Date range covered: 2017-02-28 to 2026-09-15 (all 90 videos dated)
 
 
 ### Channels
@@ -305,8 +303,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| nutmeg_tv | streams | 2026-09-10 11:37:23.451548 | 3 |
-| nutmeg_tv | videos | 2026-09-10 11:37:22.711081 | 5289 |
+| nutmeg_tv | streams | 2026-09-25 15:38:33.671540 | 3 |
+| nutmeg_tv | videos | 2026-09-25 15:38:32.776262 | 5316 |
 
 
 ## Registered meeting bodies
@@ -315,7 +313,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 4 |
 | Town Council | council | True | 3 |
-| Board of Education | education | True | 82 |
+| Board of Education | education | True | 83 |
 
 
 ## Agenda/minutes coverage
@@ -388,5 +386,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:46:49 from Avon's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:49:01 from Avon's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

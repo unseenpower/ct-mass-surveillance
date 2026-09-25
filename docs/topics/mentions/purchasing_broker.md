@@ -1,6 +1,6 @@
 # Purchasing / procurement: every mention, every town
 
-_Generated 2026-09-10T18:09:51 — 30 mentions across 7 towns, 2011-03-22 to 2026-04-20._
+_Generated 2026-09-25T17:14:08 — 37 mentions across 10 towns, 2011-03-22 to 2026-09-22._
 
 
 How surveillance equipment is bought: sole-source awards, grant funding, co-operative purchasing contracts and reseller arrangements that can bypass ordinary competitive bidding and the public votes that go with it.
@@ -23,20 +23,31 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [New Canaan](../../towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **15** | · | 7 | 84% | 2021-09-07 | 2025-10-21 |
+| [New Canaan](../../towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **17** | · | 8 | 89% | 2021-09-07 | 2026-09-22 |
 | [Fairfield](../../towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 1 | 98% | 2011-03-22 | 2011-03-22 |
 | [Danbury](../../towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 16% | 2024-06-05 | 2024-10-23 |
-| [Guilford](../../towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 79% | 2023-02-21 | 2026-04-20 |
-| [New Britain](../../towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **2** | 1 | 2 | 32% | 2022-12-14 | 2025-06-26 |
-| [East Haddam](../../towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 82% | 2024-02-29 | 2024-02-29 |
-| [Sterling](../../towns/sterling/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 96% | 2026-02-11 | 2026-02-11 |
+| [Guilford](../../towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 84% | 2023-02-21 | 2026-04-20 |
+| [Bristol](../../towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 77% | 2026-03-10 | 2026-03-10 |
+| [New Britain](../../towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **2** | 1 | 2 | 34% | 2022-12-14 | 2025-06-26 |
+| [Norwalk](../../towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 98% | 2026-03-12 | 2026-07-09 |
+| [Berlin](../../towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 83% | 2026-09-01 | 2026-09-01 |
+| [East Haddam](../../towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 89% | 2024-02-29 | 2024-02-29 |
+| [Sterling](../../towns/sterling/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2026-02-11 | 2026-02-11 |
 
 ## Receipts
 
 _Most recent first within each town. Every line links to the exact second of the meeting video._
 
 
-### New Canaan — 15 mentions
+### New Canaan — 17 mentions
+
+- **[2026-09-22] Board of Selectmen** — Board of Selectmen Meeting September 22, 2026
+  > …>> Okay. >> The highest was uh >> Okay. Next, the CD CDWG. >> This is the renewal for our um backup solution which does the entire town…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ydp0jPKOuek&t=320s)  _(term: `purchasing_broker`)_
+
+- **[2026-09-22] Board of Selectmen** — Board of Selectmen Meeting September 22, 2026
+  > …>> Okay. Um so, if I could get um a motion to approve a request from it to enter into a contract with CDWG in the amount of 24,98572 for the renewal of Rubric.…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ydp0jPKOuek&t=369s)  _(term: `purchasing_broker`)_
 
 - **[2025-10-21] Board of Selectmen** — Board of Selectmen Meeting October 21, 2025
   > …And the second, we're looking for approval to enter into a contract with CW CDWG uh the government side of it for our um vast backup solution. And we've actually…
@@ -78,16 +89,8 @@ _Most recent first within each town. Every line links to the exact second of the
   > …uh with Presidio for fifteen thousand one ninety ninety one seventy six and cdwg for subscription a real license for six thousand five eighty seven fifty second second here all in favor…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=guaRs9OMhu4&t=2484s)  _(term: `purchasing_broker`)_
 
-- **[2023-01-04] Board of Selectmen** — Board of Selectmen Meeting January 4, 2023
-  > …so we we can save sometimes and other times won't go direct especially with cdwg they're the state contract cour okay yep all right um so could I get a motion to…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dJSqsL3NQ-A&t=175s)  _(term: `purchasing_broker`)_
 
-- **[2023-01-04] Board of Selectmen** — Board of Selectmen Meeting January 4, 2023
-  > …system smartnet three-year contract for $546 21 15 and the cdwg rubric software subscription and license for $2,210 so…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dJSqsL3NQ-A&t=198s)  _(term: `purchasing_broker`)_
-
-
-_3 further mentions in New Canaan not shown here — all of them are in [New Canaan's full report](../../towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md)._
+_5 further mentions in New Canaan not shown here — all of them are in [New Canaan's full report](../../towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Fairfield — 5 mentions
@@ -143,6 +146,17 @@ _3 further mentions in New Canaan not shown here — all of them are in [New Can
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=L9bQ5GvDJxQ&t=1251s)  _(term: `purchasing_broker`)_
 
 
+### Bristol — 2 mentions
+
+- **[2026-03-10] (unassigned body)** — Joint Meeting of the City Council and Board of Finance Other - 2026-03-10
+  > …Chicago, IL 60675-1515 Sales Contact Info Vincent Mulvihill | (866) 773-7348 | vinny@cdwg.com Need Help? My Account Support Call 800.800.4239 About Us | Privacy Policy | Terms and Conditions Th…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11872,plainText=false))  _(agenda/minutes · term: `purchasing_broker`)_
+
+- **[2026-03-10] (unassigned body)** — Board of Finance Other - 2026-03-10
+  > …Chicago, IL 60675-1515 Sales Contact Info Vincent Mulvihill | (866) 773-7348 | vinny@cdwg.com Need Help? My Account Support Call 800.800.4239 About Us | Privacy Policy | Terms and Conditions Th…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11868,plainText=false))  _(agenda/minutes · term: `purchasing_broker`)_
+
+
 ### New Britain — 2 mentions
 
 - **[2025-06-26] Common Council** — Common Council Regular Meeting
@@ -152,6 +166,24 @@ _3 further mentions in New Canaan not shown here — all of them are in [New Can
 - **[2022-12-14] Common Council** — Common Council Regular Meeting Minutes - 2022-12-14
   > …ore, the Acting Director of the Support Services Department, Facilities, IT and PSTC Divisions, is recommending that the bid be awarded for the Migration from Exchange to Google Workspace Services to Carahsoft Technology Corporation of Reston, VA who submitted lowest responsible bid and met all of the bid specifications for the Exchange to Google Workplace Services. The price for each year shall n…
   [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=668&doc_id=a40baaa5-ac84-11ed-8145-0050569183fa)  _(agenda/minutes · term: `purchasing_broker`)_
+
+
+### Norwalk — 2 mentions
+
+- **[2026-07-09] Finance and Claims Committee** — Finance & Claims Committee Other - 2026-07-09
+  > …Tax 0.00 Estimate Total (USD) $211,200.00 Terms About Us https://www.cdwg.com/content/cdwg/en/about/overview.html Privacy Policy https://www.cdwg.com/content/cdwg/en/terms-conditions/privacy-notice.html Terms and Conditions https://www.cdwg.com/content/cdwg/en/terms-co…
+  [Open document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15654,plainText=false))  _(agenda/minutes · term: `purchasing_broker`)_
+
+- **[2026-03-12] Finance and Claims Committee** — Finance & Claims Committee Other - 2026-03-12
+  > …Page 153 of 154 Sales Contact Info Vincent Mulvihill | (866) 773-7348 | vinny@cdwg.com Need Help? My Account Support Call 800.800.4239 About Us | Privacy Policy | Terms and Conditions This order is subj…
+  [Open document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4157,plainText=false))  _(agenda/minutes · term: `purchasing_broker`)_
+
+
+### Berlin — 1 mention
+
+- **[2026-09-01] Town Council** — Town Council 2026 09 01
+  > …251 to purchase 4 Janet theme vault 2041 Eeries security camera servers from Insight Public Sector in the amount not to exceed $17,800. >> Thank you. Second.…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rkZcSwYsqQA&t=2724s)  _(term: `purchasing_broker`)_
 
 
 ### East Haddam — 1 mention

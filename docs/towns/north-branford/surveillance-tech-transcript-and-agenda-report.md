@@ -1,9 +1,9 @@
 # Surveillance-tech report: North Branford
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,13 +14,13 @@
 
 ## At a glance: North Branford
 
-<p class="glance-headline"><strong>66 mentions</strong> of surveillance technology in <strong>46</strong> North Branford meetings, 2018–2026</p>
+<p class="glance-headline"><strong>76 mentions</strong> of surveillance technology in <strong>54</strong> North Branford meetings, 2017–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">66</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 46 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2018–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2018-03-22 → 2026-04-14</span></a>
-<a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Facial recognition, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">71%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">615 of 864 meetings</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">76</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 54 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2017–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2017-10-03 → 2026-09-23</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">6</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Facial recognition, Predictive policing, General surveillance</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">78%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">675 of 870 meetings</span></a>
 <a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">2</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
@@ -53,9 +53,10 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
 | [ALPR / Flock](#alpr) | 4 | 4 | 2018-09-06 | 2026-02-17 |
-| [Body cameras](#body_camera) | 6 | 5 | 2026-02-17 | 2026-04-14 |
-| [Drones](#drone) | 51 | 36 | 2018-03-22 | 2026-04-14 |
+| [Body cameras](#body_camera) | 8 | 6 | 2018-01-16 | 2026-04-14 |
+| [Drones](#drone) | 57 | 41 | 2017-10-03 | 2026-09-23 |
 | [Facial recognition](#facial_recognition) | 1 | 1 | 2019-10-01 | 2019-10-01 |
+| [Predictive policing](#predictive_policing) | 2 | 2 | 2018-01-25 | 2018-02-01 |
 | [General surveillance](#surveillance_general) | 4 | 4 | 2018-08-07 | 2023-06-20 |
 
 
@@ -63,11 +64,18 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 <!-- report-polish v1 -->
 
-46 meetings surfaced a finding (46 dated, spanning 2018-03-22 to 2026-04-14; 0 of unknown date, listed last). Newest first.
+54 meetings surfaced a finding (54 dated, spanning 2017-10-03 to 2026-09-23; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-04-14.*
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
 
-??? note "Earlier meetings (46)"
+### 2026-09-23 -- Conservation & Inland Wetlands & Watercourses Agency
+
+**North Branford Conservation & Inland Wetlands & Watercourses 9/23/26** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=NBvr-FFRK-A&t=246s)  > ...any kind of um observation of the area either by drone or otherwise to make sure nothing is done until an application is submitted...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=NBvr-FFRK-A&t=288s)  > ...know you can't see it with the naked eye from the street. >> But that's why I'm saying drone or aerial. >> Correct. So what would you propose that?...
+
+??? note "Earlier meetings (53)"
 
     **2026-04-14 -- Town Council**
 
@@ -365,6 +373,49 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dL8tQUYESBk&t=3339s)  > ...scription of the other two programs and you have slideshow for the drone we have the rate however accountability is very interesting as well...
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=dL8tQUYESBk&t=3637s)  > ...French currently we have over 17 applications for the drone preschool and our 25 drivers say that in both cases that's more than with these things we have so...
 
+    **2018-02-01 -- Planning & Zoning Commission**
+
+    **North Branford Planning and Zoning Meeting - 02/01/2018** _(topics: predictive_policing)_
+
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=V92O9OXyy6k&t=2206s)  > ...leave out agricultural festivals cuz just seem to be hung up on that take that out a foundry can't they make conducts special agricultural events such as farm such as...
+
+    **2018-01-25 -- Board of Education**
+
+    **North Branford Board of Education Budget Meeting - 01/25/2018** _(topics: predictive_policing)_
+
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=2fWgYcWBQuw&t=3412s)  > ...you probably know which areas won't be is much renovation as others and there may be Gotham's it could be renovator left intact that's when the rest of it is renovated and I throw the number of a...
+
+    **2018-01-18 -- Planning & Zoning Commission**
+
+    **North Branford Planning and Zoning Meeting - 01/18/2018** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=yJoBg4NOG9Q&t=8442s)  > ...you're trying to help them out yeah it's a lot of you know controlling and you know working with a drone I understand what these apartment the public to hear that there is we are trying to provide...
+
+    **2018-01-16 -- Town Council**
+
+    **North Branford Town Council Meeting - 01/16/2018** _(topics: body_camera)_
+
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nKLKzhAXB28&t=1148s)  > ...a standard in police work every agency around us has some type of camera system the only one that's not using a body cam right now is Guilford but they have in-car with a mic setup we're actually...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=nKLKzhAXB28&t=1284s)  > ...that individual if it wasn't this is strictly from the chief's mouth if it wasn't for their body cam footage with the witness statements they had on scene they would have four officers federally...
+
+    **2017-10-25 -- Town Council**
+
+    **North Branford Town Council Public Hearing -  10/25/2017** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=BbiB8OiacHk&t=273s)  > ...the parcel that runs all the way out to notch Hill and again this is aerial footage from a drone also gives some very very nice shots of our of our town as well so I just wanted to to handle...
+
+    **2017-10-19 -- Board of Education**
+
+    **North Branford Board of Education Meeting - 10/19/2017** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=8XGrvcgXMv4&t=6652s)  > ...that's romantic artists family and it truly is going to be a family event it will be tedious and drone harrison staff in the middle school in facebook that connection football team so it will be...
+
+    **2017-10-03 -- Town Council**
+
+    **North Branford Town Council Meeting - 10/03/2017** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gg_hTJD11sw&t=7142s)  > ...tell you they also Steve Torino has come forward to offer his services in flying the drone to get a visual 360 of the property we can run on a loop on a computer or on a flash drive and...
+
 
 ## Findings by topic
 
@@ -411,17 +462,25 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   > ...who wasn't at he wasn't at the on the council after that meeting, but that was for the extra money for the axon body cam uh project. So, um, we believe we have funding sources for that that won't...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5WX61YkMpLw&t=2241s)  _(term: body_camera, unreviewed)_
 
-- **[2026-02-17] Town Council** -- WPCA & Town Council Meeting 2/17/26
+- **[2026-02-17] Town Council** -- WPCA & Town Council Meeting 02/17/2026
   > ...Um, it's broken down. Most of these things that we have or we already have in our body cam program. It's just continuing that such as autotagging. anytime an officer goes there um to a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RBFw5P2XtpI&t=7881s)  _(term: body_camera, unreviewed)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjtapcIB8c4&t=7881s)  _(term: body_camera, unreviewed)_
 
 - **[2026-02-17] Town Council** -- WPCA & Town Council Meeting 2/17/26
   > ...not just buying the equipment. It's also all of the all of >> Yeah. All these things are insured. Body cam goes down, we send it out, we got another one coming coming back to us...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RBFw5P2XtpI&t=8282s)  _(term: body_camera, unreviewed)_
 
-- **[2026-02-17] Town Council** -- WPCA & Town Council Meeting 02/17/2026
+- **[2026-02-17] Town Council** -- WPCA & Town Council Meeting 2/17/26
   > ...Um, it's broken down. Most of these things that we have or we already have in our body cam program. It's just continuing that such as autotagging. anytime an officer goes there um to a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjtapcIB8c4&t=7881s)  _(term: body_camera, unreviewed)_
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RBFw5P2XtpI&t=7881s)  _(term: body_camera, unreviewed)_
+
+- **[2018-01-16] Town Council** -- North Branford Town Council Meeting - 01/16/2018
+  > ...a standard in police work every agency around us has some type of camera system the only one that's not using a body cam right now is Guilford but they have in-car with a mic setup we're actually...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nKLKzhAXB28&t=1148s)  _(term: body_camera, unreviewed)_
+
+- **[2018-01-16] Town Council** -- North Branford Town Council Meeting - 01/16/2018
+  > ...that individual if it wasn't this is strictly from the chief's mouth if it wasn't for their body cam footage with the witness statements they had on scene they would have four officers federally...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nKLKzhAXB28&t=1284s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -446,13 +505,21 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ### drone
 
-- **[2026-04-14] Town Council** -- NB Town Council Budget Workshop 4/14/26
-  > ...>> Okay. >> And just to make it clear on the the drone Harrison, the the the the granite curbing is in the bus way. It's not the whole place....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NHsH_AU6nuI&t=6961s)  _(term: drone, unreviewed)_
+- **[2026-09-23] Conservation & Inland Wetlands & Watercourses Agency** -- North Branford Conservation & Inland Wetlands & Watercourses 9/23/26
+  > ...know you can't see it with the naked eye from the street. >> But that's why I'm saying drone or aerial. >> Correct. So what would you propose that?...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NBvr-FFRK-A&t=288s)  _(term: drone, unreviewed)_
+
+- **[2026-09-23] Conservation & Inland Wetlands & Watercourses Agency** -- North Branford Conservation & Inland Wetlands & Watercourses 9/23/26
+  > ...any kind of um observation of the area either by drone or otherwise to make sure nothing is done until an application is submitted...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NBvr-FFRK-A&t=246s)  _(term: drone, unreviewed)_
 
 - **[2026-04-14] Town Council** -- Town Council - Budget Workshop 04/14/2026
   > ...>> Okay. >> And just to make it clear on the the drone harrison, the the the the granite curbing is in the bus way. It's not the whole place....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4_sFIUZVAFE&t=6961s)  _(term: drone, unreviewed)_
+
+- **[2026-04-14] Town Council** -- NB Town Council Budget Workshop 4/14/26
+  > ...>> Okay. >> And just to make it clear on the the drone Harrison, the the the the granite curbing is in the bus way. It's not the whole place....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NHsH_AU6nuI&t=6961s)  _(term: drone, unreviewed)_
 
 - **[2025-06-17] Town Council** -- WPCA & Town Council 6/17/2025
   > ...report that this legislation passed the Connecticut General Assembly. Uh it also allows for innovative drone use for farming and the bill is now on the governor's desk and awaiting his...
@@ -475,20 +542,12 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=8KM_TFcliz0&t=2773s)  _(term: drone, unreviewed)_
 
 - **[2024-11-21] Board of Education** -- Board of Education 11/21/2024
-  > ...drone staff we spent the entire day on Monday collaborating with one another we started with that drone we did a ghost walk of Jerome we developed uh vertical teams so teachers from 3K through fifth...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TPP7MClWSVE&t=784s)  _(term: drone, unreviewed)_
-
-- **[2024-11-21] Board of Education** -- Board of Education 11/21/2024
   > ...and as you see in the some de briefs the TVs staff and drone staff we spent the entire day on Monday collaborating with one another we started with that drone we did a ghost...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TPP7MClWSVE&t=780s)  _(term: drone, unreviewed)_
 
-- **[2024-03-19] Town Council** -- Town Council 03/19/2024
-  > ...fantastic fire and emergency folks uh went through another other Litany of things when bylaws drone policy and some budget updates talked about the new ambulance update and getting things in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jH1kelU8R_k&t=994s)  _(term: drone, unreviewed)_
-
-- **[2024-03-19] Town Council** -- Town Council- 3/19/2024
-  > ...have for the team that's it and and again we ran a free clinic last week for girls um just as a drone Harrison gy because we had four girls for the third fourth grade team and not one single...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Y6upWIXr_Zs&t=5373s)  _(term: drone, unreviewed)_
+- **[2024-11-21] Board of Education** -- Board of Education 11/21/2024
+  > ...drone staff we spent the entire day on Monday collaborating with one another we started with that drone we did a ghost walk of Jerome we developed uh vertical teams so teachers from 3K through fifth...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TPP7MClWSVE&t=784s)  _(term: drone, unreviewed)_
 
 - **[2024-03-19] Town Council** -- Town Council 03/19/2024
   > ...team that's it and and again we ran a free clinic last week for girls um just as a drone Harrison gy because we had four girls for the third fourth grade team and not one single third grader and...
@@ -498,33 +557,41 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   > ...our are fantastic fire and emergency folks uh went through another other Litany of things when bylaws drone policy and some budget updates talked about the new ambulance update and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Y6upWIXr_Zs&t=994s)  _(term: drone, unreviewed)_
 
+- **[2024-03-19] Town Council** -- Town Council 03/19/2024
+  > ...fantastic fire and emergency folks uh went through another other Litany of things when bylaws drone policy and some budget updates talked about the new ambulance update and getting things in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jH1kelU8R_k&t=994s)  _(term: drone, unreviewed)_
+
+- **[2024-03-19] Town Council** -- Town Council- 3/19/2024
+  > ...have for the team that's it and and again we ran a free clinic last week for girls um just as a drone Harrison gy because we had four girls for the third fourth grade team and not one single...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Y6upWIXr_Zs&t=5373s)  _(term: drone, unreviewed)_
+
 - **[2024-01-24] Conservation & Inland Wetlands & Watercourses Agency** -- Inland Wetlands Agency- 01/24/2024
   > ...there to eat them Potato Festival we can have a new salad so here is um a drone photo done by the regional Water Authority relatively...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Pji9VgE71BU&t=3760s)  _(term: drone, unreviewed)_
 
-- **[2023-12-19] Town Council** -- Town Council- 12/19/2023
-  > ...was a little bit different of an understanding when we were talking about it I thought this was going to be drone Le or something that was consistent not every six months which is a little bit...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TMTWH71241Y&t=5197s)  _(term: drone, unreviewed)_
-
 - **[2023-12-19] Town Council** -- Town Council 12/19/2023
   > ...was a little bit different of an understanding when we were talking about it I thought this was going to be drone Le or something that was consistent not every six months...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ilF40a8T7sM&t=4997s)  _(term: drone, unreviewed)_
-
-- **[2023-12-19] Town Council** -- Town Council 12/19/2023
-  > ...it from my desk um yeah and please note that um this is aerial imagery it's not live stream from a drone or from a satellite so it's just a picture in time is is what it is and um I made a few...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ilF40a8T7sM&t=4864s)  _(term: drone, unreviewed)_
 
 - **[2023-12-19] Town Council** -- Town Council- 12/19/2023
   > ...do it from my desk um you and please note that um this is aerial Imager it's not live streamed from a drone or from a satellite so it's just a picture in time is is what it is and um I made a few...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TMTWH71241Y&t=5062s)  _(term: drone, unreviewed)_
 
 - **[2023-12-19] Town Council** -- Town Council- 12/19/2023
-  > ...different altitude in order to gain that so you'd have to get it through some type of some some type of a drone um I'm not sure I think the software provides for these different angles I think just...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TMTWH71241Y&t=5283s)  _(term: drone, unreviewed)_
+  > ...was a little bit different of an understanding when we were talking about it I thought this was going to be drone Le or something that was consistent not every six months which is a little bit...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TMTWH71241Y&t=5197s)  _(term: drone, unreviewed)_
+
+- **[2023-12-19] Town Council** -- Town Council 12/19/2023
+  > ...it from my desk um yeah and please note that um this is aerial imagery it's not live stream from a drone or from a satellite so it's just a picture in time is is what it is and um I made a few...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ilF40a8T7sM&t=4864s)  _(term: drone, unreviewed)_
 
 - **[2023-12-19] Town Council** -- Town Council 12/19/2023
   > ...have to get it through some type of some some type of a drone I'm not sure I think software provides for these different angles I think it's just technology sure every...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ilF40a8T7sM&t=5086s)  _(term: drone, unreviewed)_
+
+- **[2023-12-19] Town Council** -- Town Council- 12/19/2023
+  > ...different altitude in order to gain that so you'd have to get it through some type of some some type of a drone um I'm not sure I think the software provides for these different angles I think just...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TMTWH71241Y&t=5283s)  _(term: drone, unreviewed)_
 
 - **[2023-06-15] Board of Education** -- Board of Education Meeting 06/15/2023
   > ...no we uh the the tech classes the TV production class went out and did a site visit we're gonna fly the Drone and video the whole process and then have kids involved hoping some of the...
@@ -615,40 +682,56 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5Zwz5Ln4GhU&t=274s)  _(term: drone, unreviewed)_
 
 - **[2019-05-21] Town Council** -- North Branford Town Council Meeting - 05/21/2019
-  > ...officers not to have to chase ATVs not to have problems with accidents chase dirt bikes by having a drone they'll be able to find where an ATV or a dirt bike is quickly and an officer can throw out...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tld246RaEMk&t=303s)  _(term: drone, unreviewed)_
+  > ...serious situation if that's not correct the next item I mentioned before is a drone the drone was approved by the Commission at a cost not to exceed six thousand dollars the third item is a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tld246RaEMk&t=6427s)  _(term: drone, unreviewed)_
 
 - **[2019-05-21] Town Council** -- North Branford Town Council Meeting - 05/21/2019
   > ...happen in most towns they have the Commission to approve the purchase of a drone I think having a drone according to the Commission would allow the police officers not to have to chase ATVs not...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tld246RaEMk&t=292s)  _(term: drone, unreviewed)_
 
 - **[2019-05-21] Town Council** -- North Branford Town Council Meeting - 05/21/2019
-  > ...serious situation if that's not correct the next item I mentioned before is a drone the drone was approved by the Commission at a cost not to exceed six thousand dollars the third item is a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tld246RaEMk&t=6427s)  _(term: drone, unreviewed)_
+  > ...officers not to have to chase ATVs not to have problems with accidents chase dirt bikes by having a drone they'll be able to find where an ATV or a dirt bike is quickly and an officer can throw out...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tld246RaEMk&t=303s)  _(term: drone, unreviewed)_
 
 - **[2019-03-27] Conservation & Inland Wetlands & Watercourses Agency** -- North Branford Inland Wetlands Commission Meeting - 03/27/2019
   > ...contains 41 thousand six hundred and nineteen square feet it yes unboxing drone run back from Fox and Road the wetlands that were delineating through the profit property run along...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=og0WZa_ygdw&t=234s)  _(term: drone, unreviewed)_
 
 - **[2019-03-12] Town Council** -- Town Council Budget Meeting - 03/12/2019
-  > ...Fire Department that has stopped the bleed equipment we have purchased a drone we have trained 13 members of the department North Branford police department and North Haven Police...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vwZCaA-XxlE&t=5503s)  _(term: drone, unreviewed)_
-
-- **[2019-03-12] Town Council** -- Town Council Budget Meeting - 03/12/2019
   > ...department North Branford police department and North Haven Police Department has drone operators in accordance with FAA regulations that is active right now the next page talks...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vwZCaA-XxlE&t=5510s)  _(term: drone, unreviewed)_
 
-- **[2018-03-22] Board of Education** -- North Branford Board of Education Meeting - 03/22/2018
-  > ...scription of the other two programs and you have slideshow for the drone we have the rate however accountability is very interesting as well...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dL8tQUYESBk&t=3339s)  _(term: drone, unreviewed)_
+- **[2019-03-12] Town Council** -- Town Council Budget Meeting - 03/12/2019
+  > ...Fire Department that has stopped the bleed equipment we have purchased a drone we have trained 13 members of the department North Branford police department and North Haven Police...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vwZCaA-XxlE&t=5503s)  _(term: drone, unreviewed)_
 
 - **[2018-03-22] Board of Education** -- North Branford Board of Education Meeting - 03/22/2018
   > ...that they do and there's always people here on hand speakers as well as the FRC our drone program and fries then we have an open house on February 28th that allowed the parents to come in and see...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dL8tQUYESBk&t=3322s)  _(term: drone, unreviewed)_
 
 - **[2018-03-22] Board of Education** -- North Branford Board of Education Meeting - 03/22/2018
+  > ...scription of the other two programs and you have slideshow for the drone we have the rate however accountability is very interesting as well...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dL8tQUYESBk&t=3339s)  _(term: drone, unreviewed)_
+
+- **[2018-03-22] Board of Education** -- North Branford Board of Education Meeting - 03/22/2018
   > ...French currently we have over 17 applications for the drone preschool and our 25 drivers say that in both cases that's more than with these things we have so...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dL8tQUYESBk&t=3637s)  _(term: drone, unreviewed)_
+
+- **[2018-01-18] Planning & Zoning Commission** -- North Branford Planning and Zoning Meeting - 01/18/2018
+  > ...you're trying to help them out yeah it's a lot of you know controlling and you know working with a drone I understand what these apartment the public to hear that there is we are trying to provide...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yJoBg4NOG9Q&t=8442s)  _(term: drone, unreviewed)_
+
+- **[2017-10-25] Town Council** -- North Branford Town Council Public Hearing -  10/25/2017
+  > ...the parcel that runs all the way out to notch Hill and again this is aerial footage from a drone also gives some very very nice shots of our of our town as well so I just wanted to to handle...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BbiB8OiacHk&t=273s)  _(term: drone, unreviewed)_
+
+- **[2017-10-19] Board of Education** -- North Branford Board of Education Meeting - 10/19/2017
+  > ...that's romantic artists family and it truly is going to be a family event it will be tedious and drone harrison staff in the middle school in facebook that connection football team so it will be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8XGrvcgXMv4&t=6652s)  _(term: drone, unreviewed)_
+
+- **[2017-10-03] Town Council** -- North Branford Town Council Meeting - 10/03/2017
+  > ...tell you they also Steve Torino has come forward to offer his services in flying the drone to get a visual 360 of the property we can run on a loop on a computer or on a flash drive and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gg_hTJD11sw&t=7142s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -675,7 +758,13 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ### predictive_policing
 
-*(no findings)*
+- **[2018-02-01] Planning & Zoning Commission** -- North Branford Planning and Zoning Meeting - 02/01/2018
+  > ...leave out agricultural festivals cuz just seem to be hung up on that take that out a foundry can't they make conducts special agricultural events such as farm such as...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=V92O9OXyy6k&t=2206s)  _(term: predictive_policing, unreviewed)_
+
+- **[2018-01-25] Board of Education** -- North Branford Board of Education Budget Meeting - 01/25/2018
+  > ...you probably know which areas won't be is much renovation as others and there may be Gotham's it could be renovator left intact that's when the rest of it is renovated and I throw the number of a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2fWgYcWBQuw&t=3412s)  _(term: predictive_policing, unreviewed)_
 
 
 ### purchasing_broker
@@ -846,8 +935,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 864 (fetched: 615, no captions: 13)
-- Date range covered: 2011-12-13 to 2026-09-03 (all 864 videos dated)
+- Videos registered: 870 (fetched: 674, no captions: 21)
+- Date range covered: 2011-12-13 to 2026-09-27 (all 870 videos dated)
 
 
 ### Channels
@@ -861,17 +950,17 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| totoket_tv | streams | 2026-09-10 13:48:42.726380 | 128 |
-| totoket_tv | videos | 2026-09-10 13:48:40.459574 | 969 |
+| totoket_tv | streams | 2026-09-25 15:07:12.892227 | 132 |
+| totoket_tv | videos | 2026-09-25 15:07:10.204304 | 973 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Town Council | council | True | 358 |
-| Board of Education | education | True | 169 |
-| Conservation & Inland Wetlands & Watercourses Agency | other | True | 81 |
+| Town Council | council | True | 360 |
+| Board of Education | education | True | 171 |
+| Conservation & Inland Wetlands & Watercourses Agency | other | True | 83 |
 | Parks & Recreation Commission | other | True | 2 |
 | Planning & Zoning Commission | other | True | 248 |
 | Water Pollution Control Authority | other | True | 1 |
@@ -887,8 +976,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 187 (fetched: 157)
-- Date range covered: 2023-05-23 to 2026-09-15
+- Documents registered: 206 (fetched: 172)
+- Date range covered: 2023-05-23 to 2026-10-15
 
 
 ### Agenda sources
@@ -916,12 +1005,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (13 shown, max 25)
+### Videos with no captions available (21 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| NB Planning and Zoning 9/3/2026 | 2026-09-03 |
-| NB Planning and Zoning 9/3/2026 | 2026-09-03 |
 | Town Council Budget Workshop 03/10/2026 | 2026-03-10 |
 | Town Council Budget Workshop 03/03/2026 | 2026-03-03 |
 | North Branford Town Council 09/17/2024 | 2024-09-17 |
@@ -933,6 +1020,16 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | North Branford Town Council Meeting - 09/04/2018 | 2018-09-04 |
 | North Branford Planning & Zoning Meeting - 07/12/2018 | 2018-07-12 |
 | North Branford Planning & Zoning Meeting - 04/05/2018 | 2018-04-05 |
+| North Branford Planning & Zoning Meeting - 04/20/2017 PT.1 | 2017-04-20 |
+| North Branford Planning & Zoning Meeting - 04/20/2017 PT.2 | 2017-04-20 |
+| North Branford Planning and Zoning Special Meeting - 04/06/2017 | 2017-04-06 |
+| North Branford Town Council - 04/04/2017 | 2017-04-04 |
+| North Branford Town Council  Budget Meeting - 04/04/2017 | 2017-04-04 |
+| North Branford Town Council -  03/21/2017 | 2017-03-21 |
+| Planning & Zoning - 03/16/2017 | 2017-03-16 |
+| Planning & Zoning - 03/09/2017 | 2017-03-09 |
+| Planning & Zoning - 03/02/2017 | 2017-03-02 |
+| North Branford Town Council -  02/07/2017 | 2017-02-07 |
 
 
 ### Tabs never crawled
@@ -974,5 +1071,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:59:08 from North Branford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:04:44 from North Branford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

@@ -1,9 +1,9 @@
 # Surveillance-tech report: Sterling
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,7 +20,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">4</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 3 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2025–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2025-06-10 → 2026-05-12</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones, Purchasing / procurement</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">96%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">132 of 137 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">97%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">136 of 140 meetings</span></a>
 <a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">1</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
@@ -60,7 +60,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 3 meetings surfaced a finding (3 dated, spanning 2025-06-10 to 2026-05-12; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-05-12.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-05-12.*
 
 ??? note "Earlier meetings (3)"
 
@@ -316,8 +316,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 9
-- Videos registered: 137 (fetched: 132, no captions: 5)
-- Date range covered: 2025-03-25 to 2026-09-09 (all 137 videos dated)
+- Videos registered: 140 (fetched: 136, no captions: 4)
+- Date range covered: 2025-03-25 to 2026-09-21 (all 140 videos dated)
 
 
 ### Channels
@@ -331,8 +331,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| sterling_ct | streams | 2026-09-10 11:51:34.594091 | 0 |
-| sterling_ct | videos | 2026-09-10 11:51:33.893089 | 139 |
+| sterling_ct | streams | 2026-09-25 15:35:46.836179 | 0 |
+| sterling_ct | videos | 2026-09-25 15:35:46.061614 | 142 |
 
 
 ## Registered meeting bodies
@@ -340,21 +340,21 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 18 |
-| Board of Selectmen | council | True | 36 |
+| Board of Selectmen | council | True | 37 |
 | Agricultural Commission | other | True | 15 |
 | Economic Development Commission | other | True | 13 |
 | Inland Wetland & Watercourses Commission | other | True | 7 |
-| Planning & Zoning Commission | other | True | 21 |
+| Planning & Zoning Commission | other | True | 22 |
 | Town Meeting | other | True | 3 |
-| Water Pollution Control Authority | other | True | 18 |
+| Water Pollution Control Authority | other | True | 19 |
 | Zoning Board of Appeals | other | True | 6 |
 
 
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 155 (fetched: 153)
-- Date range covered: 2026-01-07 to 2026-09-09
+- Documents registered: 163 (fetched: 161)
+- Date range covered: 2026-01-07 to 2026-09-24
 
 
 ### Agenda sources
@@ -377,11 +377,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (5 shown, max 25)
+### Videos with no captions available (4 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| Sterling BOS-Regular Meeting (Evening) - 09/02/2026 | 2026-09-02 |
 | Sterling BOS-Special Meeting - 10/09/2025 | 2025-10-09 |
 | Sterling BOS - Special Meeting - 10/06/2025 | 2025-10-06 |
 | Sterling Ag. Comm. - 07/01/2025 | 2025-07-01 |
@@ -427,5 +426,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:03:23 from Sterling's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:09:53 from Sterling's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

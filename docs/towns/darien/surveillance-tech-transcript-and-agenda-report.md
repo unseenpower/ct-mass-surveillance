@@ -1,9 +1,9 @@
 # Surveillance-tech report: Darien
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,15 +14,15 @@
 
 ## At a glance: Darien
 
-<p class="glance-headline"><strong>317 mentions</strong> of surveillance technology in <strong>122</strong> Darien meetings, 2020–2026</p>
+<p class="glance-headline"><strong>322 mentions</strong> of surveillance technology in <strong>127</strong> Darien meetings, 2019–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">317</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 122 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2020–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2020-01-29 → 2026-07-07</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">322</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 127 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2019–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2019-10-30 → 2026-09-08</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">7</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Doorbell-camera partnerships, Drones, Facial recognition, Predictive policing, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/darien-alpr-searches.html"><span class="gc-big">5,642</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Darien police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">82%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">1,440 of 1,751 meetings</span></a>
-<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">19</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">90%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">1,590 of 1,764 meetings</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">21</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2019-05-17**, but Darien's published video archive goes back to **2018-12-19**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -74,24 +74,30 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| [ALPR / Flock](#alpr) | 63 | 23 | 2021-01-27 | 2026-06-18 |
+| [ALPR / Flock](#alpr) | 64 | 24 | 2019-12-16 | 2026-06-18 |
 | [Body cameras](#body_camera) | 33 | 13 | 2020-08-17 | 2025-03-25 |
 | [Doorbell-camera partnerships](#doorbell_partnership) | 3 | 3 | 2021-06-22 | 2023-05-16 |
-| [Drones](#drone) | 103 | 47 | 2020-02-04 | 2026-03-17 |
+| [Drones](#drone) | 105 | 49 | 2019-11-05 | 2026-03-17 |
 | [Facial recognition](#facial_recognition) | 5 | 3 | 2022-01-25 | 2026-01-21 |
-| [Predictive policing](#predictive_policing) | 5 | 3 | 2023-09-19 | 2024-12-17 |
-| [General surveillance](#surveillance_general) | 105 | 45 | 2020-01-29 | 2026-07-07 |
+| [Predictive policing](#predictive_policing) | 6 | 4 | 2019-10-30 | 2024-12-17 |
+| [General surveillance](#surveillance_general) | 106 | 46 | 2020-01-29 | 2026-09-08 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-122 meetings surfaced a finding (122 dated, spanning 2020-01-29 to 2026-07-07; 0 of unknown date, listed last). Newest first.
+127 meetings surfaced a finding (127 dated, spanning 2019-10-30 to 2026-09-08; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-07-07.*
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
 
-??? note "Earlier meetings (122)"
+### 2026-09-08 -- Sewer Commission
+
+**Sewer Commission  9-8-26** _(topics: surveillance_general)_
+
+- `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=xqAjH84Un1w&t=3418s)  > ...time. They'll be here this week and I believe into next. Um lateral cleaning and CCTV work uh has three more days remaining on their list. Um some remaining uh lateral lining is to be...
+
+??? note "Earlier meetings (126)"
 
     **2026-07-07 -- Sewer Commission**
 
@@ -898,6 +904,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=cWj7O1sfLws&t=1065s)  > ...so we will get a public uh announcement out there with a diagram i even hope to try to get some drone footage of traveling southbound under open avenue through that area to...
 
+    **2021-03-24 -- Planning & Zoning Commission**
+
+    **Planning & Zoning Comm  3-23--21** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=gJZ3zcRMOeY&t=7170s)  > ...shown on accessories map number 17 as lot number 53 in the r1 half drone so this looks like a big piece of land with a house on it and a half acre zone...
+
     **2021-03-22 -- Board of Selectmen**
 
     **Board of Selectmen  3-22-21** _(topics: surveillance_general)_
@@ -1020,6 +1032,24 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
     - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fy6T7160VpQ&t=10457s)  > ...there's a lot of equipment in there is a radio clip i me 91 one all that is housed in there our in-house CCTV is screwing in there so it's not just either it's all the operations so those...
 
+    **2019-12-16 -- RTM Finance & Budget**
+
+    **RTM Finance & Budget Committee  12-16-19** _(topics: alpr)_
+
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Com_CABHMv8&t=3133s)  > ...the beach because you have access there's a town on Cape Cod Harbach that has the license plate reader technology for entrance to the dom but there really isn't a way to stop people...
+
+    **2019-11-05 -- Planning & Zoning Commission**
+
+    **Planning & Zoning Commission 11-05-19** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6TebEmyM2wo&t=1009s)  > ...the Mother Road Brookside four-corners is up there it's Stephen Mather and it works I drone it's already it's pretty much a historical landmark site you've got you amok the Mather house across met...
+
+    **2019-10-30 -- Planning & Zoning Commission**
+
+    **Planning & Zoning Commission   10-30-19** _(topics: predictive_policing)_
+
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=noMpdHsXeso&t=6874s)  > ...campers great might meet personally and everyone could speak for themselves my big concern is the Kim Gotham's gone from forty eight to eighty five I want to know dates the parking permits to...
+
 
 ## Findings by topic
 
@@ -1083,12 +1113,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_loMhveZJIY&t=3430s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-05-08] Police Commission** -- Darien Police Commission  5-8-25
-  > ...down for sure. Um, and I did want to comment uh the the use of our license plate reader and our our flock cameras that we have uh located throughout town. Just in the recent weeks, they've give...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4NoCAylvu8w&t=404s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-05-08] Police Commission** -- Darien Police Commission  5-8-25
   > ...Still an issue, but yeah, our stats are down for sure. Um, and I did want to comment uh the the use of our license plate reader and our our flock cameras that we have uh located throughout town....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4NoCAylvu8w&t=402s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-05-08] Police Commission** -- Darien Police Commission  5-8-25
+  > ...down for sure. Um, and I did want to comment uh the the use of our license plate reader and our our flock cameras that we have uh located throughout town. Just in the recent weeks, they've give...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4NoCAylvu8w&t=404s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-04-22] Board of Selectmen** -- Board of Selectmen 4-22-25
   > ...really struggling. So, fortunate to not be in that same situation. Um, a hot topic is our license plate reader cameras. Uh, by the end of this week, finally, we will have 13 in place in...
@@ -1147,12 +1177,8 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7ATRY6xqVKU&t=2425s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-11-30] Police Commission** -- Darien Police Commission  11-30-2023
-  > ...expenditure of funds where we had two License Plate Reader cars we will now have 14 License Plate Reader cars out there on the road you don't have to drill any holes and you don't have to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UTexKDrU9sw&t=1637s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-11-30] Police Commission** -- Darien Police Commission  11-30-2023
-  > ...to speak to each other on a regular basis so for getting the cameras the the automatic License Plate Reader technology is available in that camera it's not required to be in that camera...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UTexKDrU9sw&t=1610s)  _(term: alpr_flock, unreviewed)_
+  > ...any type of acceptable standard so these would replace the yes we have one car where the License Plate Reader does not work however to take it out right now would leave holes in the car that we'd...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UTexKDrU9sw&t=1682s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-11-30] Police Commission** -- Darien Police Commission  11-30-2023
   > ...something that I think is a prudent expenditure of funds where we had two License Plate Reader cars we will now have 14 License Plate Reader cars out there on the road you don't have to...
@@ -1163,8 +1189,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UTexKDrU9sw&t=1598s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-11-30] Police Commission** -- Darien Police Commission  11-30-2023
-  > ...any type of acceptable standard so these would replace the yes we have one car where the License Plate Reader does not work however to take it out right now would leave holes in the car that we'd...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UTexKDrU9sw&t=1682s)  _(term: alpr_flock, unreviewed)_
+  > ...expenditure of funds where we had two License Plate Reader cars we will now have 14 License Plate Reader cars out there on the road you don't have to drill any holes and you don't have to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UTexKDrU9sw&t=1637s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-11-30] Police Commission** -- Darien Police Commission  11-30-2023
+  > ...to speak to each other on a regular basis so for getting the cameras the the automatic License Plate Reader technology is available in that camera it's not required to be in that camera...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UTexKDrU9sw&t=1610s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-11-02] Police Commission** -- Police Commission  11-2-23
   > ...intersection uh folks will come in uh at somewhere around this point in the building there'll be a license plate reader so if you're a cloud 10 member which many folks are uh at at other...
@@ -1183,24 +1213,28 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z9zjHmOm2OY&t=411s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
-  > ...network of devices right so the great thing as well is that you guys own your data and your images but the flock Partnerships so you don't have to share with anyone that you don't want to share...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1638s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
   > ...investigations um uh one piece on that as well within flock systems is we are focused on being a law enforcement tool we actually require an investigative reason to do...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1659s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
-  > ...questions that you have after that um like the current temperature being said we're a license plate reader technology but we also like to describe this as vehicle recognition technology...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1272s)  _(term: alpr_flock, unreviewed)_
+  > ...footage eyewitnesses even just the slightest of bit of information that you have you can go into the system flock safety isn't your traditional LPR where it's just being being predicated off the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1426s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
-  > ...we're in public session for the public as well maybe you can talk a little bit about just an overview of flock what is block Technology's number one number two what is a license plate reader and how...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1202s)  _(term: alpr_flock, unreviewed)_
+  > ...it yes sir so uh we actually for New England her name is Lakeland Kate she's a former detective using flock she started using her Department started using it...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1894s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
+  > ...network of devices right so the great thing as well is that you guys own your data and your images but the flock Partnerships so you don't have to share with anyone that you don't want to share...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1638s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
   > ...it happens again Craig you also have the ability with the other flock technology to tie into neighboring Townsend they use in New Canaan I know it's using this technology...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1522s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
+  > ...questions that you have after that um like the current temperature being said we're a license plate reader technology but we also like to describe this as vehicle recognition technology...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1272s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
   > ...a support line that's not a hotline there's actual people that work within flock safety it's the organization that you can call as well I know it's kind of not Apples to Apples...
@@ -1211,44 +1245,44 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=2478s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
-  > ...footage eyewitnesses even just the slightest of bit of information that you have you can go into the system flock safety isn't your traditional LPR where it's just being being predicated off the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1426s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
   > ...more citizens um it seems like every day we're getting a story about our flock stage and Technology helping to find a missing person...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=2164s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
-  > ...after that 30 days if that information is not used for an investigation purpose it's 100 deleted so flock doesn't have any access to it we don't repurpose it reuse it package it up and resell it a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1560s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
   > ...echoed a number of times to me I said all the time flock safety is delivering unbiased vehicle information to the police department the rear of the vehicle you...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=3157s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
-  > ...it yes sir so uh we actually for New England her name is Lakeland Kate she's a former detective using flock she started using her Department started using it...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1894s)  _(term: alpr_flock, unreviewed)_
+  > ...after that 30 days if that information is not used for an investigation purpose it's 100 deleted so flock doesn't have any access to it we don't repurpose it reuse it package it up and resell it a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1560s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
-  > ...you want to kind of go into this you know overview about uh license plate readers flock safety to technology overview um the benefits of it and some of the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1241s)  _(term: alpr_flock, unreviewed)_
+  > ...about just an overview of flock what is block Technology's number one number two what is a license plate reader and how is that technology being used today by law enforcement or towns in general...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1206s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
+  > ...we're in public session for the public as well maybe you can talk a little bit about just an overview of flock what is block Technology's number one number two what is a license plate reader and how...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1202s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
   > ...kind of reporting metric and when you're thinking about how to evaluate the system luckily with flock's system we've got a transparency portal that you can use we make it really easy for our...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=2692s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-03-09] Police Commission** -- Darien Police Commission  3-9-2023
-  > ...about just an overview of flock what is block Technology's number one number two what is a license plate reader and how is that technology being used today by law enforcement or towns in general...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1206s)  _(term: alpr_flock, unreviewed)_
+  > ...you want to kind of go into this you know overview about uh license plate readers flock safety to technology overview um the benefits of it and some of the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eoj4JVTgqRA&t=1241s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-02-21] Police Commission** -- Darien Police Commission  2-21-23
-  > ...you know in the last few weeks that would be something if there was a license plate reader there we would be able to see most likely what car was involved it might understand as McCain...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bmL9OCKXN7k&t=1182s)  _(term: alpr_flock, unreviewed)_
+  > ...um you know if you have a description of the vehicle and it's not even just the License Plate Reader but you can identify the description of the vehicle and if the camera picks up on it or...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bmL9OCKXN7k&t=1320s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-02-21] Police Commission** -- Darien Police Commission  2-21-23
   > ...is actually doing it around all the entrances coming into the town as well having spoken to flock this one clock Technologies is a big National Vendor of fixed license plate...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bmL9OCKXN7k&t=1191s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-02-21] Police Commission** -- Darien Police Commission  2-21-23
+  > ...they maintain the equipment many many agencies across the country are using flock for their fixed license plate I think Snappers using a little more extensively now as well I don't...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bmL9OCKXN7k&t=1213s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-02-21] Police Commission** -- Darien Police Commission  2-21-23
   > ...we have had many investigations here and there and assisted by license plate readers either our own mobile License Plate Reader or License Plate Reader from adjoining towns would give us the...
@@ -1263,16 +1297,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bmL9OCKXN7k&t=1359s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-02-21] Police Commission** -- Darien Police Commission  2-21-23
-  > ...they maintain the equipment many many agencies across the country are using flock for their fixed license plate I think Snappers using a little more extensively now as well I don't...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bmL9OCKXN7k&t=1213s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-02-21] Police Commission** -- Darien Police Commission  2-21-23
-  > ...um you know if you have a description of the vehicle and it's not even just the License Plate Reader but you can identify the description of the vehicle and if the camera picks up on it or...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bmL9OCKXN7k&t=1320s)  _(term: alpr_flock, unreviewed)_
-
-- **[2023-02-21] Police Commission** -- Darien Police Commission  2-21-23
   > ...32 pm and you pursue them accordingly so I I'm not adverse the License Plate Reader technology I think just so a Next Step would be costing it or...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bmL9OCKXN7k&t=1339s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-02-21] Police Commission** -- Darien Police Commission  2-21-23
+  > ...you know in the last few weeks that would be something if there was a license plate reader there we would be able to see most likely what car was involved it might understand as McCain...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bmL9OCKXN7k&t=1182s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-02-21] Police Commission** -- Darien Police Commission  2-21-23
   > ...there and assisted by license plate readers either our own mobile License Plate Reader or License Plate Reader from adjoining towns would give us the information that we need...
@@ -1281,6 +1311,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2021-01-27] Board of Selectmen** -- Board of Selectmen - Budget  1-27-21  TIME STAMPS IN DESCRIPTION
   > ...software support has to do with the pay stations and the license plate reader and then the insurance that's carried by the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zuRUQe50wJk&t=9664s)  _(term: alpr_flock, unreviewed)_
+
+- **[2019-12-16] RTM Finance & Budget** -- RTM Finance & Budget Committee  12-16-19
+  > ...the beach because you have access there's a town on Cape Cod Harbach that has the license plate reader technology for entrance to the dom but there really isn't a way to stop people...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Com_CABHMv8&t=3133s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -1311,8 +1345,8 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=nCV4ytTvSfo&t=1347s)  _(term: body_camera, unreviewed)_
 
 - **[2023-03-30] Board of Finance** -- Board Of Finance  3-30-2023
-  > ...uh Bobby Camp video by Statute so if we have a use of force incident and there is a request for that body cam footage it has to be released within 96 hours or sooner if the officer has had a chance...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=u1cQQDVYN0Q&t=1782s)  _(term: body_camera, unreviewed)_
+  > ...best staff to get your best bang for your buck for your police officers here so the the when you mentioned the body cam footage and stuff like that is that something that a sworn officer has to do...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=u1cQQDVYN0Q&t=1747s)  _(term: body_camera, unreviewed)_
 
 - **[2023-03-30] Board of Finance** -- Board Of Finance  3-30-2023
   > ...a house bill that's pending that is going to allow a municipality to charge a reasonable fee for body cam redaction in body cam preparation before it released their significant pushback for...
@@ -1327,24 +1361,24 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=u1cQQDVYN0Q&t=1823s)  _(term: body_camera, unreviewed)_
 
 - **[2023-03-30] Board of Finance** -- Board Of Finance  3-30-2023
-  > ...best staff to get your best bang for your buck for your police officers here so the the when you mentioned the body cam footage and stuff like that is that something that a sworn officer has to do...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=u1cQQDVYN0Q&t=1747s)  _(term: body_camera, unreviewed)_
-
-- **[2023-03-30] Board of Finance** -- Board Of Finance  3-30-2023
-  > ...it has to be released within 96 hours or sooner if the officer has had a chance to view the body cam footage collaterally now there's a state statute a house bill that's pending that is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=u1cQQDVYN0Q&t=1789s)  _(term: body_camera, unreviewed)_
+  > ...uh Bobby Camp video by Statute so if we have a use of force incident and there is a request for that body cam footage it has to be released within 96 hours or sooner if the officer has had a chance...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=u1cQQDVYN0Q&t=1782s)  _(term: body_camera, unreviewed)_
 
 - **[2023-03-30] Board of Finance** -- Board Of Finance  3-30-2023
   > ...going to allow a municipality to charge a reasonable fee for body cam redaction in body cam preparation before it released their significant pushback for many legislators more in the urban areas...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=u1cQQDVYN0Q&t=1801s)  _(term: body_camera, unreviewed)_
 
-- **[2023-01-31] Board of Selectmen** -- Board Of Selectmen - Budget  Pt 2  1-31-2023.m4v
-  > ...we've probably doubled or tripled in the last 10 years and you didn't have body cam footage that we had to look at before we could produce it and we can't release it...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gQPAnkqVV3M&t=5495s)  _(term: body_camera, unreviewed)_
+- **[2023-03-30] Board of Finance** -- Board Of Finance  3-30-2023
+  > ...it has to be released within 96 hours or sooner if the officer has had a chance to view the body cam footage collaterally now there's a state statute a house bill that's pending that is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=u1cQQDVYN0Q&t=1789s)  _(term: body_camera, unreviewed)_
 
 - **[2023-01-31] Board of Selectmen** -- Board Of Selectmen - Budget  Pt 2  1-31-2023.m4v
   > ...we've got we got over 50 people wide requests a calendar year 2022. wow all of them about body cam requests but this is exploded what was the previous years please...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gQPAnkqVV3M&t=5483s)  _(term: body_camera, unreviewed)_
+
+- **[2023-01-31] Board of Selectmen** -- Board Of Selectmen - Budget  Pt 2  1-31-2023.m4v
+  > ...we've probably doubled or tripled in the last 10 years and you didn't have body cam footage that we had to look at before we could produce it and we can't release it...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gQPAnkqVV3M&t=5495s)  _(term: body_camera, unreviewed)_
 
 - **[2023-01-31] Board of Selectmen** -- Board Of Selectmen - Budget  Pt 2  1-31-2023.m4v
   > ...the role will also include managing foi responses um the foi for body foot can body cam footage can take hours on probably even days to go through because there are...
@@ -1355,16 +1389,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eUsTe0wDryw&t=2551s)  _(term: body_camera, unreviewed)_
 
 - **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
-  > ...so being that that team is made up of seven or eight different agencies they didn't want disparate body cam videos they want to run on one platform which certainly in my mind is the best case...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=4257s)  _(term: body_camera, unreviewed)_
+  > ...through the state that they are required like every other officer to have body cam or a helmet cam on during all operations so being that that team is made up of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=4248s)  _(term: body_camera, unreviewed)_
 
 - **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
   > ...mentioned if we're at a major scene and we get a we get a request foi for body cam footage that might be five hours worth of footage that we have to watch every...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=3234s)  _(term: body_camera, unreviewed)_
 
 - **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
-  > ...through the state that they are required like every other officer to have body cam or a helmet cam on during all operations so being that that team is made up of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=4248s)  _(term: body_camera, unreviewed)_
+  > ...so being that that team is made up of seven or eight different agencies they didn't want disparate body cam videos they want to run on one platform which certainly in my mind is the best case...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=4257s)  _(term: body_camera, unreviewed)_
 
 - **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
   > ...additional question on the drone regarding drone footage is it similar to body cam where it would need to be saved available for court foiable and would there be any additional...
@@ -1403,16 +1437,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=XkXDIxdYx7c&t=1093s)  _(term: body_camera, unreviewed)_
 
 - **[2020-09-17] Police Commission** -- Darien Police Commission  9-17-20
-  > ...that's not the time to be thinking about that so i think that that can really and really i'd love to have full body cam footage of an officer during the firewall i'm gonna put the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XkXDIxdYx7c&t=1227s)  _(term: body_camera, unreviewed)_
-
-- **[2020-09-17] Police Commission** -- Darien Police Commission  9-17-20
   > ...holster will activate your body cam your car's dash cam any officer within 30 30 feet body cam and the benefit i think it brings to us as well as all these other factors the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=XkXDIxdYx7c&t=1197s)  _(term: body_camera, unreviewed)_
 
 - **[2020-09-17] Police Commission** -- Darien Police Commission  9-17-20
   > ...hour uh like button so the light bars go on body cam and your dad or the airbag deploys your body cam and your dash cam automatically go on that's a win-win...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=XkXDIxdYx7c&t=1116s)  _(term: body_camera, unreviewed)_
+
+- **[2020-09-17] Police Commission** -- Darien Police Commission  9-17-20
+  > ...that's not the time to be thinking about that so i think that that can really and really i'd love to have full body cam footage of an officer during the firewall i'm gonna put the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XkXDIxdYx7c&t=1227s)  _(term: body_camera, unreviewed)_
 
 - **[2020-08-17] Board of Selectmen** -- Board of Selectmen 8-17-20
   > ...over 70 miles an hour or if you activate the emergency lights your body cam and your dash cam go on automatically so we're ahead of the curve there and i...
@@ -1456,80 +1490,80 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 ### drone
 
 - **[2026-03-17] Board of Finance** -- Board of Finance  3-17-26
-  > ...but let's be efficient and smart about it, but it's not a big item in this budget. And uh, that that drone study makes sense to make sure we're being efficient with respect to the um,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=7747s)  _(term: drone, unreviewed)_
-
-- **[2026-03-17] Board of Finance** -- Board of Finance  3-17-26
   > ...related. Um, there is a line item in here for operating and licensing drone operators uh, associated with potentially acquiring three small drones....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=7717s)  _(term: drone, unreviewed)_
+
+- **[2026-03-17] Board of Finance** -- Board of Finance  3-17-26
+  > ...but let's be efficient and smart about it, but it's not a big item in this budget. And uh, that that drone study makes sense to make sure we're being efficient with respect to the um,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=7747s)  _(term: drone, unreviewed)_
 
 - **[2026-03-17] Board of Finance** -- Board of Finance  3-17-26
   > ...uh, part of a first selectman charge to assess uh, our drone usage as a town and let's not put them in every department and have to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=AgcycX8Drc4&t=7737s)  _(term: drone, unreviewed)_
 
 - **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
-  > ...rely on scaffolding that's been put up by the contractor and may at times be questionable. Um, they can use a drone to get up and view um, chimneys, roofs, flashing, all of these things. So in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7554s)  _(term: drone, unreviewed)_
-
-- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
-  > ...not thought of that could be really helpful for us. So, I'd like to get some more thoughtfulness on our drone general drone program. >> Okay....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7898s)  _(term: drone, unreviewed)_
-
-- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
-  > ...my request would be can we take a look at what other towns are doing in terms of whether drone activity is say consolidated in a particular group and look at the building guys call up and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7808s)  _(term: drone, unreviewed)_
-
-- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
-  > ...>> That's a good negotiation right there. >> That is a very good question. Um, we do we are adding drone coverage. That is not something that we previously had. Um, so I'm not quite sure what the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7726s)  _(term: drone, unreviewed)_
-
-- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
-  > ...inspector's vehicles and then if they get on site and say, "Oh, perfect opportunity for a drone." It's there and it's usable instead of, "Oh, you know, kind of ar pre-arranged with the police...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7637s)  _(term: drone, unreviewed)_
-
-- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
-  > ...what they are requesting is the purchase of three drones for use in inspections. They're $500 per drone and about $180 per per person to get registered and trained. So about $680 per drone,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7525s)  _(term: drone, unreviewed)_
-
-- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
-  > ...there. And I just worry about the quality of the work being consistent if if we're going to spread out drone usage and drone ownership across different town departments. Uh I guess...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7797s)  _(term: drone, unreviewed)_
-
-- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
-  > ...out a bunch of expensive equipment because it's not just that they've all got to get FAA drone licenses. is they'll have to be trained. All of that that this this doesn't feel quite right....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7831s)  _(term: drone, unreviewed)_
-
-- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
-  > ...helpful for us. So, I'd like to get some more thoughtfulness on our drone general drone program. >> Okay. >> Um, on the revenue side, both the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7900s)  _(term: drone, unreviewed)_
-
-- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
-  > ...quality of the work being consistent if if we're going to spread out drone usage and drone ownership across different town departments. Uh I guess my request would be can we take a look...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7798s)  _(term: drone, unreviewed)_
-
-- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
   > ...>> and to where when we do go through and say we're about to spend a lot of money on drone capability that the way the town is doing this is bestin-class. We're going to get very high quality...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7881s)  _(term: drone, unreviewed)_
-
-- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
-  > ...consolidated in a particular group and look at the building guys call up and the drone services today done we'll have somebody over there who can very carefully and precisely place that drone...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7814s)  _(term: drone, unreviewed)_
-
-- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
-  > ...Um, I have a little bit of a pause with this in the sense that um, if you just use a drone once a month or periodically, you're not going to have the skills required to position that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7756s)  _(term: drone, unreviewed)_
-
-- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
-  > ...They're $500 per drone and about $180 per per person to get registered and trained. So about $680 per drone, $2,000, $2,40 total for the program. Um, the way this would work is they get on...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7531s)  _(term: drone, unreviewed)_
 
 - **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
   > ...the drone services today done we'll have somebody over there who can very carefully and precisely place that drone get exactly the photographs you need and it's all done smooth and and smoothly...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7818s)  _(term: drone, unreviewed)_
 
 - **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
+  > ...not thought of that could be really helpful for us. So, I'd like to get some more thoughtfulness on our drone general drone program. >> Okay....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7898s)  _(term: drone, unreviewed)_
+
+- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
+  > ...consolidated in a particular group and look at the building guys call up and the drone services today done we'll have somebody over there who can very carefully and precisely place that drone...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7814s)  _(term: drone, unreviewed)_
+
+- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
+  > ...rely on scaffolding that's been put up by the contractor and may at times be questionable. Um, they can use a drone to get up and view um, chimneys, roofs, flashing, all of these things. So in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7554s)  _(term: drone, unreviewed)_
+
+- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
   > ...>> Okay. More commonly sized drones. >> Yeah. I I remember that the police you needed two people too to run the drone. Um but that might have just been for because it was police work,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7662s)  _(term: drone, unreviewed)_
+
+- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
+  > ...They're $500 per drone and about $180 per per person to get registered and trained. So about $680 per drone, $2,000, $2,40 total for the program. Um, the way this would work is they get on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7531s)  _(term: drone, unreviewed)_
+
+- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
+  > ...helpful for us. So, I'd like to get some more thoughtfulness on our drone general drone program. >> Okay. >> Um, on the revenue side, both the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7900s)  _(term: drone, unreviewed)_
+
+- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
+  > ...my request would be can we take a look at what other towns are doing in terms of whether drone activity is say consolidated in a particular group and look at the building guys call up and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7808s)  _(term: drone, unreviewed)_
+
+- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
+  > ...out a bunch of expensive equipment because it's not just that they've all got to get FAA drone licenses. is they'll have to be trained. All of that that this this doesn't feel quite right....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7831s)  _(term: drone, unreviewed)_
+
+- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
+  > ...quality of the work being consistent if if we're going to spread out drone usage and drone ownership across different town departments. Uh I guess my request would be can we take a look...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7798s)  _(term: drone, unreviewed)_
+
+- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
+  > ...>> That's a good negotiation right there. >> That is a very good question. Um, we do we are adding drone coverage. That is not something that we previously had. Um, so I'm not quite sure what the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7726s)  _(term: drone, unreviewed)_
+
+- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
+  > ...what they are requesting is the purchase of three drones for use in inspections. They're $500 per drone and about $180 per per person to get registered and trained. So about $680 per drone,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7525s)  _(term: drone, unreviewed)_
+
+- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
+  > ...inspector's vehicles and then if they get on site and say, "Oh, perfect opportunity for a drone." It's there and it's usable instead of, "Oh, you know, kind of ar pre-arranged with the police...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7637s)  _(term: drone, unreviewed)_
+
+- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
+  > ...Um, I have a little bit of a pause with this in the sense that um, if you just use a drone once a month or periodically, you're not going to have the skills required to position that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7756s)  _(term: drone, unreviewed)_
+
+- **[2026-02-09] Board of Selectmen** -- Board of Selectmen 2.09.26
+  > ...there. And I just worry about the quality of the work being consistent if if we're going to spread out drone usage and drone ownership across different town departments. Uh I guess...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IDuN7Ettfjw&t=7797s)  _(term: drone, unreviewed)_
 
 - **[2025-10-28] Planning & Zoning Commission** -- Planning & Zoning Commission  10-28-25
   > ...>> Let's see how this goes. James Deo, my company's name is Connecticut Aerial Drone Surveys, located at one McConey Grove in Derby. All right, I'm going to try to...
@@ -1540,28 +1574,28 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=znLLkIqGhYg&t=941s)  _(term: drone, unreviewed)_
 
 - **[2025-05-08] Police Commission** -- Darien Police Commission  5-8-25
-  > ...out of order here? Traffic officer Tim Bud, who's also our drone operator, was called out to Ridgefield on April 19th. uh the report of a missing elderly gentleman....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4NoCAylvu8w&t=115s)  _(term: drone, unreviewed)_
-
-- **[2025-05-08] Police Commission** -- Darien Police Commission  5-8-25
   > ...report of a missing elderly gentleman. Um they had several K-9 units, several drone units up there and spent several hours and ultimately there was a good outcome and a resident was located. So...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4NoCAylvu8w&t=126s)  _(term: drone, unreviewed)_
 
-- **[2025-04-07] Board of Selectmen** -- Board of Selectmen  4-7-25
-  > ...in terms of their compliance with this. I would note that we did go out on a boat with his drone and he taught this guy's a drone genius by the way. Um, and we did the population of the of the beds...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wfPLsa1rzlg&t=2909s)  _(term: drone, unreviewed)_
+- **[2025-05-08] Police Commission** -- Darien Police Commission  5-8-25
+  > ...out of order here? Traffic officer Tim Bud, who's also our drone operator, was called out to Ridgefield on April 19th. uh the report of a missing elderly gentleman....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4NoCAylvu8w&t=115s)  _(term: drone, unreviewed)_
 
 - **[2025-04-07] Board of Selectmen** -- Board of Selectmen  4-7-25
   > ...I would note that we did go out on a boat with his drone and he taught this guy's a drone genius by the way. Um, and we did the population of the of the beds that were over there by Scotts Cove and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=wfPLsa1rzlg&t=2911s)  _(term: drone, unreviewed)_
 
-- **[2025-01-28] Planning & Zoning Commission** -- Planning & Zoning Comm  1-28-25
-  > ...landscape water then uh these are actually drone photos that were taken in 2022 that this is approaching...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=A4DuIimqeaU&t=4078s)  _(term: drone, unreviewed)_
+- **[2025-04-07] Board of Selectmen** -- Board of Selectmen  4-7-25
+  > ...in terms of their compliance with this. I would note that we did go out on a boat with his drone and he taught this guy's a drone genius by the way. Um, and we did the population of the of the beds...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wfPLsa1rzlg&t=2909s)  _(term: drone, unreviewed)_
 
 - **[2025-01-28] Planning & Zoning Commission** -- Planning & Zoning Comm  1-28-25
   > ...being was a all right and then so you're getting a little closer now from the Drone and this is the the seaw wall that you're going to hear more about from our engineer and we're going to be uh...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=A4DuIimqeaU&t=4116s)  _(term: drone, unreviewed)_
+
+- **[2025-01-28] Planning & Zoning Commission** -- Planning & Zoning Comm  1-28-25
+  > ...landscape water then uh these are actually drone photos that were taken in 2022 that this is approaching...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=A4DuIimqeaU&t=4078s)  _(term: drone, unreviewed)_
 
 - **[2025-01-04] Board of Education** -- Board Of Education  1-4-2025
   > ...the kids that show up and have something to participate in even if they're flying the Drone in in a sport or carrying the water bottles out to the to the team during a halftime or a break is...
@@ -1584,24 +1618,28 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RvR_9itgjrE&t=3213s)  _(term: drone, unreviewed)_
 
 - **[2024-02-12] Operations Planning Committee** -- Operations Planning Committee  2-12-2024
-  > ...for our next one which is about great Island Access and the police department's got a a drone which we're going to use for some Drone footage showing you how you access great Island...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ULlku7RheWE&t=528s)  _(term: drone, unreviewed)_
-
-- **[2024-02-12] Operations Planning Committee** -- Operations Planning Committee  2-12-2024
   > ...Island Access and the police department's got a a drone which we're going to use for some Drone footage showing you how you access great Island where parking is and just where where...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ULlku7RheWE&t=531s)  _(term: drone, unreviewed)_
+
+- **[2024-02-12] Operations Planning Committee** -- Operations Planning Committee  2-12-2024
+  > ...for our next one which is about great Island Access and the police department's got a a drone which we're going to use for some Drone footage showing you how you access great Island...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ULlku7RheWE&t=528s)  _(term: drone, unreviewed)_
 
 - **[2024-02-08] Police Commission** -- Police Commission  2-8-2024
   > ...Tilly Pond Park no damage was reported officer bud has been assisting the first selectman's office with Drone footage of great island in the same time period we had one DWI arrest four...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mb6luTRjTMo&t=279s)  _(term: drone, unreviewed)_
 
 - **[2024-02-05] Board of Selectmen** -- Board Of Selectmen  2-5-2024
+  > ...experiments with the uh police video drone one of our officers Officer Tim bud has an FAA drone license and we're going to be working with him to do some video shooting uh and take some shots...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KQxTk-VYgF0&t=87s)  _(term: drone, unreviewed)_
+
+- **[2024-02-05] Board of Selectmen** -- Board Of Selectmen  2-5-2024
   > ...thing we did today was to run some experiments with the uh police video drone one of our officers Officer Tim bud has an FAA drone license and we're going to be working with him to do some...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=KQxTk-VYgF0&t=84s)  _(term: drone, unreviewed)_
 
-- **[2024-02-05] Board of Selectmen** -- Board Of Selectmen  2-5-2024
-  > ...experiments with the uh police video drone one of our officers Officer Tim bud has an FAA drone license and we're going to be working with him to do some video shooting uh and take some shots...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KQxTk-VYgF0&t=87s)  _(term: drone, unreviewed)_
+- **[2023-10-24] Board of Education** -- Board Of Education  10-24-2023
+  > ...opposite our music and art um in sixth grade and just our music in seventh and eth so that did increase some of the uas to accommodate the smaller PE classes additionally we tried to make sure that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z4l-kxrl9d0&t=4623s)  _(term: drone, unreviewed)_
 
 - **[2023-10-24] Board of Education** -- Board Of Education  10-24-2023
   > ...student designing a drone uh doing the programming for it and also designing the actual drone to locate danger and deliver assistance and I I can't explain you more than that um uh but it's really...
@@ -1610,10 +1648,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2023-10-24] Board of Education** -- Board Of Education  10-24-2023
   > ...in in science everything is so specific to the student I mean we we have a student designing a drone uh doing the programming for it and also designing the actual drone to locate danger and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z4l-kxrl9d0&t=4449s)  _(term: drone, unreviewed)_
-
-- **[2023-10-24] Board of Education** -- Board Of Education  10-24-2023
-  > ...opposite our music and art um in sixth grade and just our music in seventh and eth so that did increase some of the uas to accommodate the smaller PE classes additionally we tried to make sure that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Z4l-kxrl9d0&t=4623s)  _(term: drone, unreviewed)_
 
 - **[2023-09-06] RTM Finance & Budget** -- RTM Finance & Budget  9-6-2023
   > ...um oh here it is just so I can report on some of them so completed projects on the Drone the rescue Jacks for the darien fire department the senior tablets uh for 10...
@@ -1636,16 +1670,24 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bmL9OCKXN7k&t=391s)  _(term: drone, unreviewed)_
 
 - **[2023-01-11] RTM Finance & Budget** -- RTM Finance & Budget Comm  1-11-2023
-  > ...hours or you know actually signed the scene I was talking about a 25 000 drone and who's going to be trained on it and what other services can use it and who else needs to be trained on that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JA9okyNShg&t=4211s)  _(term: drone, unreviewed)_
-
-- **[2023-01-11] RTM Finance & Budget** -- RTM Finance & Budget Comm  1-11-2023
   > ...if they're going to use it here and there do we need a second person for a 000 drone that we ended up putting in offer anyway so...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JA9okyNShg&t=4224s)  _(term: drone, unreviewed)_
+
+- **[2023-01-11] RTM Finance & Budget** -- RTM Finance & Budget Comm  1-11-2023
+  > ...hours or you know actually signed the scene I was talking about a 25 000 drone and who's going to be trained on it and what other services can use it and who else needs to be trained on that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9JA9okyNShg&t=4211s)  _(term: drone, unreviewed)_
 
 - **[2023-01-05] Police Commission** -- Darien Police Commission   1-5-23
   > ...everything because a notable exception I feel like are the driving conditions particularly on hollow tree or drone uh and surrounding Oxbridge Elementary School...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TSsyMuwrJwM&t=750s)  _(term: drone, unreviewed)_
+
+- **[2022-10-12] Blight Review Board** -- Blight Review Board  10-12-2022
+  > ...like when you talk about the license you got to fight this is yeah I buy the Drone I have to get this license it's like five dollars um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oZkxFjVy9UQ&t=142s)  _(term: drone, unreviewed)_
+
+- **[2022-10-12] Operations Planning Committee** -- Operations Planning Comm  10-12-2022
+  > ...our area I was very impressed with for one for one we had I was able to view the Drone that we are looking at for the police department and um and get it firsthand kind of read...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=FY2SjAmPtO8&t=332s)  _(term: drone, unreviewed)_
 
 - **[2022-10-12] Blight Review Board** -- Blight Review Board  10-12-2022
   > ...government type of applications yeah I know though for instance if the town happens to want to use the Drone for whatever purpose it has to be done by a if a person has to have a particular...
@@ -1654,14 +1696,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2022-10-12] Blight Review Board** -- Blight Review Board  10-12-2022
   > ...States ground level or at first floor in a drone May violate that particular aspect of the ordinance but but this is different than...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=oZkxFjVy9UQ&t=129s)  _(term: drone, unreviewed)_
-
-- **[2022-10-12] Operations Planning Committee** -- Operations Planning Comm  10-12-2022
-  > ...our area I was very impressed with for one for one we had I was able to view the Drone that we are looking at for the police department and um and get it firsthand kind of read...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=FY2SjAmPtO8&t=332s)  _(term: drone, unreviewed)_
-
-- **[2022-10-12] Blight Review Board** -- Blight Review Board  10-12-2022
-  > ...like when you talk about the license you got to fight this is yeah I buy the Drone I have to get this license it's like five dollars um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oZkxFjVy9UQ&t=142s)  _(term: drone, unreviewed)_
 
 - **[2022-09-14] Blight Review Board** -- Blight Review Bd  9-14-2022
   > ...like I'm not suggesting you would do this but look I have one could you fly a drone over someone's property like what's what's the law say do you know like how that works...
@@ -1684,12 +1718,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=KPbRE_14rGI&t=7328s)  _(term: drone, unreviewed)_
 
 - **[2022-04-06] Board of Education** -- Board Of Education 4-6-2022
-  > ...attended one of our weekly practices a night game at the stadium or viewed the various drone footage that you can find out there what a fully lit stadium completes...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KPbRE_14rGI&t=580s)  _(term: drone, unreviewed)_
-
-- **[2022-04-06] Board of Education** -- Board Of Education 4-6-2022
   > ...concerns regarding light spillage have proven to be unfounded this has been verified by drone footage in the initial night that the lights were energized...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=KPbRE_14rGI&t=372s)  _(term: drone, unreviewed)_
+
+- **[2022-04-06] Board of Education** -- Board Of Education 4-6-2022
+  > ...attended one of our weekly practices a night game at the stadium or viewed the various drone footage that you can find out there what a fully lit stadium completes...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KPbRE_14rGI&t=580s)  _(term: drone, unreviewed)_
 
 - **[2022-03-07] RTM Finance & Budget** -- RTM Finance and Budget 3.7.22.mp4
   > ...uh mill rate thing but but yes and while you're talking about signage i'll throw in the drone so but again i mean under that...
@@ -1704,12 +1738,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=c4lkMRMLMkE&t=939s)  _(term: drone, unreviewed)_
 
 - **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
-  > ...service they're not even dispatching an officer there's california agencies that are dispatching a drone first and they get on scene to see if officers are needed there and if if they...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5760s)  _(term: drone, unreviewed)_
+  > ...we we don't have a town where we would be running a drone every day so we do need some utility for our drone operator to have time on those gimbals so he's ready to go when we do have an...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5708s)  _(term: drone, unreviewed)_
 
 - **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
-  > ...we do have somebody else who would be able to use the drone and not have to bring him in on overtime i think...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5847s)  _(term: drone, unreviewed)_
+  > ...officer is needed so i would think at some point in this building you'll see sometime some kind of drone heliport on our roof where we'll be able to deploy drones right here from the police...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5772s)  _(term: drone, unreviewed)_
 
 - **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
   > ...operating or the capital requests we do have one additional question on the drone regarding drone footage is it similar to body cam where it would need to be saved...
@@ -1720,20 +1754,8 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5797s)  _(term: drone, unreviewed)_
 
 - **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
-  > ...and to kate's point thankfully we we don't have a town where we would be running a drone every day so we do need some utility for our drone operator to have time on those gimbals...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5705s)  _(term: drone, unreviewed)_
-
-- **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
-  > ...we do have one additional question on the drone regarding drone footage is it similar to body cam where it would need to be saved available for court foiable...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=6104s)  _(term: drone, unreviewed)_
-
-- **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
-  > ...would be fair it should be minimal most of it probably can stay on the sd card that comes out of the drone and may not even have to be downloaded onto a server we're good...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=6156s)  _(term: drone, unreviewed)_
-
-- **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
-  > ...we we don't have a town where we would be running a drone every day so we do need some utility for our drone operator to have time on those gimbals so he's ready to go when we do have an...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5708s)  _(term: drone, unreviewed)_
+  > ...think it would be that much but uh i don't i think expenses for data retention for that drone would be would be fair it should be minimal most of it probably can stay on the sd card...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=6150s)  _(term: drone, unreviewed)_
 
 - **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
   > ...all right last call on public works so okay is this where i ask for the drone [Laughter] no okay no no i'll just have don donald...
@@ -1744,12 +1766,28 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5677s)  _(term: drone, unreviewed)_
 
 - **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
-  > ...think it would be that much but uh i don't i think expenses for data retention for that drone would be would be fair it should be minimal most of it probably can stay on the sd card...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=6150s)  _(term: drone, unreviewed)_
+  > ...and to kate's point thankfully we we don't have a town where we would be running a drone every day so we do need some utility for our drone operator to have time on those gimbals...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5705s)  _(term: drone, unreviewed)_
 
 - **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
-  > ...officer is needed so i would think at some point in this building you'll see sometime some kind of drone heliport on our roof where we'll be able to deploy drones right here from the police...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5772s)  _(term: drone, unreviewed)_
+  > ...we do have somebody else who would be able to use the drone and not have to bring him in on overtime i think...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5847s)  _(term: drone, unreviewed)_
+
+- **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
+  > ...we do have one additional question on the drone regarding drone footage is it similar to body cam where it would need to be saved available for court foiable...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=6104s)  _(term: drone, unreviewed)_
+
+- **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
+  > ...be happy to um share the use of the drone with other departments you know where they need it um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5640s)  _(term: drone, unreviewed)_
+
+- **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
+  > ...service they're not even dispatching an officer there's california agencies that are dispatching a drone first and they get on scene to see if officers are needed there and if if they...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5760s)  _(term: drone, unreviewed)_
+
+- **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
+  > ...would be fair it should be minimal most of it probably can stay on the sd card that comes out of the drone and may not even have to be downloaded onto a server we're good...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=6156s)  _(term: drone, unreviewed)_
 
 - **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
   > ...can put that on a standalone server here at worst and we hope we don't have to use the drone too often it would be a once a week type event and i don't even think it would be that much...
@@ -1758,10 +1796,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
   > ...okay um next one was the drone and if you remember a couple nights ago we talked about um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5599s)  _(term: drone, unreviewed)_
-
-- **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
-  > ...be happy to um share the use of the drone with other departments you know where they need it um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2GvINXVyBSQ&t=5640s)  _(term: drone, unreviewed)_
 
 - **[2021-11-30] Planning & Zoning Commission** -- Planning & Zoning Comm  11-30-21
   > ...location of the fire hydrant again at the intersection of hollow tree we're drone half mile road right near the uh where it goes underneath the road...
@@ -1772,64 +1806,52 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9bznqy-qwkk&t=3294s)  _(term: drone, unreviewed)_
 
 - **[2021-04-29] Police Commission** -- Police Commission  4-29-21
-  > ...looking to come back to the commission for funding for a drone we try to get out of the drone verbiage because it's just people think it's something that it's not the uav but...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMkwAR35cZ4&t=1307s)  _(term: drone, unreviewed)_
+  > ...we're still working on getting some assistance with someone to give us some drone footage there but i think it would be a worthwhile endeavor and we would be probably...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMkwAR35cZ4&t=1299s)  _(term: drone, unreviewed)_
 
 - **[2021-04-29] Police Commission** -- Police Commission  4-29-21
   > ...the leader in the in uav technology that they did they have two dis two drone operators on duty uh and all hours of daylight and they actually dispatch uavs to calls for service...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMkwAR35cZ4&t=1341s)  _(term: drone, unreviewed)_
 
 - **[2021-04-29] Police Commission** -- Police Commission  4-29-21
-  > ...development was the way to go so i really like to have an aerial overview with a drone flying you know slowly from the narrow knights fire department straight down that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMkwAR35cZ4&t=1278s)  _(term: drone, unreviewed)_
+  > ...learned the norwalk police department sent their drone team over and their drone has a capability for thermal imaging so we're hoping that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMkwAR35cZ4&t=1411s)  _(term: drone, unreviewed)_
 
 - **[2021-04-29] Police Commission** -- Police Commission  4-29-21
   > ...we will wait to hear interesting potential for implementation of the uav drone program i think this has been discussed at police commission meetings in the past we had put out...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMkwAR35cZ4&t=1233s)  _(term: drone, unreviewed)_
 
 - **[2021-04-29] Police Commission** -- Police Commission  4-29-21
-  > ...we're still working on getting some assistance with someone to give us some drone footage there but i think it would be a worthwhile endeavor and we would be probably...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMkwAR35cZ4&t=1299s)  _(term: drone, unreviewed)_
+  > ...development was the way to go so i really like to have an aerial overview with a drone flying you know slowly from the narrow knights fire department straight down that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMkwAR35cZ4&t=1278s)  _(term: drone, unreviewed)_
 
 - **[2021-04-29] Police Commission** -- Police Commission  4-29-21
-  > ...learned the norwalk police department sent their drone team over and their drone has a capability for thermal imaging so we're hoping that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMkwAR35cZ4&t=1411s)  _(term: drone, unreviewed)_
+  > ...looking to come back to the commission for funding for a drone we try to get out of the drone verbiage because it's just people think it's something that it's not the uav but...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMkwAR35cZ4&t=1307s)  _(term: drone, unreviewed)_
 
 - **[2021-04-01] Police Commission** -- Darien Police Commission  4-1-21
   > ...so we will get a public uh announcement out there with a diagram i even hope to try to get some drone footage of traveling southbound under open avenue through that area to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cWj7O1sfLws&t=1065s)  _(term: drone, unreviewed)_
+
+- **[2021-03-24] Planning & Zoning Commission** -- Planning & Zoning Comm  3-23--21
+  > ...shown on accessories map number 17 as lot number 53 in the r1 half drone so this looks like a big piece of land with a house on it and a half acre zone...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gJZ3zcRMOeY&t=7170s)  _(term: drone, unreviewed)_
 
 - **[2021-02-03] Board of Selectmen** -- Board of Selectmen - Budget  2-3-21
   > ...do you want me to start at the top of these sure yep okay so the unmanned drone i spoke to um mark mccune about it this afternoon and it would be something that could be...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=CzxhjNiU9VI&t=1777s)  _(term: drone, unreviewed)_
 
 - **[2021-02-03] Board of Selectmen** -- Board of Selectmen - Budget  2-3-21
-  > ...just move forward so um thank you for getting that additional information about the drone i'm going to recommend that we cut the drone um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CzxhjNiU9VI&t=1878s)  _(term: drone, unreviewed)_
-
-- **[2021-02-03] Board of Selectmen** -- Board of Selectmen - Budget  2-3-21
   > ...additional information about the drone i'm going to recommend that we cut the drone um not that i don't think it's a useful tool to have but...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=CzxhjNiU9VI&t=1882s)  _(term: drone, unreviewed)_
+
+- **[2021-02-03] Board of Selectmen** -- Board of Selectmen - Budget  2-3-21
+  > ...just move forward so um thank you for getting that additional information about the drone i'm going to recommend that we cut the drone um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CzxhjNiU9VI&t=1878s)  _(term: drone, unreviewed)_
 
 - **[2021-02-02] Board of Selectmen** -- Board of Selectmen - Budget  2-2-21
   > ...um i was not able to get a response um to the questions you all had about the drone okay okay i was going to put that in as a possible cut...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=wt9FPl-bi3U&t=1299s)  _(term: drone, unreviewed)_
-
-- **[2021-02-01] Board of Selectmen** -- Board of Selectmen - Budget  2-1-21
-  > ...um the the one question that i have about this is i know you have to be certified and licensed to be a drone operator and i don't know who that person would...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=o5grmQ9s_l8&t=817s)  _(term: drone, unreviewed)_
-
-- **[2021-02-01] Board of Selectmen** -- Board of Selectmen - Budget  2-1-21
-  > ...available oh yeah um so mark has requested a drone one of the things that we have learned during certain emergencies is um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=o5grmQ9s_l8&t=738s)  _(term: drone, unreviewed)_
-
-- **[2021-02-01] Board of Selectmen** -- Board of Selectmen - Budget  2-1-21
-  > ...to make assessment of situations um because of the ground conditions and a drone would be able to would assist us in being able to monitor situations and learn a lot more...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=o5grmQ9s_l8&t=764s)  _(term: drone, unreviewed)_
-
-- **[2021-02-01] Board of Selectmen** -- Board of Selectmen - Budget  2-1-21
-  > ...and if there's any associated training or certification costs with procuring and using a drone um i believe you are correct about needing to be licensed...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=o5grmQ9s_l8&t=831s)  _(term: drone, unreviewed)_
 
 - **[2021-02-01] Board of Selectmen** -- Board of Selectmen - Budget  2-1-21
   > ...in the storms that we had this year several municipalities around us were able to utilize drone footage to document storm damage that was not easily accessible by foot...
@@ -1838,6 +1860,22 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2021-02-01] Board of Selectmen** -- Board of Selectmen - Budget  2-1-21
   > ...the emergency services division and and um the service that a drone provides to the municipality is certainly a worthwhile service but is there any other way to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=o5grmQ9s_l8&t=948s)  _(term: drone, unreviewed)_
+
+- **[2021-02-01] Board of Selectmen** -- Board of Selectmen - Budget  2-1-21
+  > ...available oh yeah um so mark has requested a drone one of the things that we have learned during certain emergencies is um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=o5grmQ9s_l8&t=738s)  _(term: drone, unreviewed)_
+
+- **[2021-02-01] Board of Selectmen** -- Board of Selectmen - Budget  2-1-21
+  > ...um the the one question that i have about this is i know you have to be certified and licensed to be a drone operator and i don't know who that person would...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=o5grmQ9s_l8&t=817s)  _(term: drone, unreviewed)_
+
+- **[2021-02-01] Board of Selectmen** -- Board of Selectmen - Budget  2-1-21
+  > ...to make assessment of situations um because of the ground conditions and a drone would be able to would assist us in being able to monitor situations and learn a lot more...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=o5grmQ9s_l8&t=764s)  _(term: drone, unreviewed)_
+
+- **[2021-02-01] Board of Selectmen** -- Board of Selectmen - Budget  2-1-21
+  > ...and if there's any associated training or certification costs with procuring and using a drone um i believe you are correct about needing to be licensed...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=o5grmQ9s_l8&t=831s)  _(term: drone, unreviewed)_
 
 - **[2020-12-15] Architectural Review Board** -- Architectural Review Bd  12-15-20
   > ...and then it's not until we go to a bird's eye uh well unless you're a bird or flying a drone this is the view you'd see of the parking and this is where we can...
@@ -1856,16 +1894,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=wHimev_ato8&t=5158s)  _(term: drone, unreviewed)_
 
 - **[2020-05-06] Police Commission** -- Police Commission   5-6-20
-  > ...resident from Brookside thanking us for our service and asking if we would like to get a drone to help catch bad guys so I did send them a nice letter back drone technology is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BLTAI5QMpdA&t=83s)  _(term: drone, unreviewed)_
-
-- **[2020-05-06] Police Commission** -- Police Commission   5-6-20
   > ...if we would like to get a drone to help catch bad guys so I did send them a nice letter back drone technology is something is coming in the future I think yes I'm not sure his name but if...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=BLTAI5QMpdA&t=89s)  _(term: drone, unreviewed)_
+
+- **[2020-05-06] Police Commission** -- Police Commission   5-6-20
+  > ...resident from Brookside thanking us for our service and asking if we would like to get a drone to help catch bad guys so I did send them a nice letter back drone technology is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=BLTAI5QMpdA&t=83s)  _(term: drone, unreviewed)_
 
 - **[2020-02-04] Board of Selectmen** -- Board of Selectmen - BUDGET  2-4-20
   > ...may drums oh we talked about that but there was a problem with that um can't have a drone if I have no arms okay general overhead anything we can change here I know not...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=g-baiAgSYlU&t=6968s)  _(term: drone, unreviewed)_
+
+- **[2019-11-05] Planning & Zoning Commission** -- Planning & Zoning Commission 11-05-19
+  > ...the Mother Road Brookside four-corners is up there it's Stephen Mather and it works I drone it's already it's pretty much a historical landmark site you've got you amok the Mather house across met...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6TebEmyM2wo&t=1009s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -1928,6 +1970,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   > ...we're going with the building standard the um the extreme standard need a Foundry uh great okay okay just as long as it's all um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=K-BIIVdJiJI&t=4992s)  _(term: predictive_policing, unreviewed)_
 
+- **[2019-10-30] Planning & Zoning Commission** -- Planning & Zoning Commission   10-30-19
+  > ...campers great might meet personally and everyone could speak for themselves my big concern is the Kim Gotham's gone from forty eight to eighty five I want to know dates the parking permits to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=noMpdHsXeso&t=6874s)  _(term: predictive_policing, unreviewed)_
+
 
 ### purchasing_broker
 
@@ -1941,6 +1987,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### surveillance_general
 
+- **[2026-09-08] Sewer Commission** -- Sewer Commission  9-8-26
+  > ...time. They'll be here this week and I believe into next. Um lateral cleaning and CCTV work uh has three more days remaining on their list. Um some remaining uh lateral lining is to be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=xqAjH84Un1w&t=3418s)  _(term: surveillance_general, unreviewed)_
+
 - **[2026-07-07] Sewer Commission** -- Sewer Commission  7-7-2026
   > ...stuff cuz this is getting um facy rehab. They started this week with the lateral CCTV um work and cleaning. That was this week. Next week they are starting the mainline...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bOYk8AP-7uE&t=2372s)  _(term: surveillance_general, unreviewed)_
@@ -1950,24 +2000,24 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=HzUyv0QCAtw&t=6888s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-03-10] Board of Finance** -- Board of Finance  3-10-26
-  > ...of their work. >> Okay. >> CCTV work is ongoing too. At the same time um we run a camera through about uh 8 miles a year. So over the next two...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9WG6W0sGq9k&t=877s)  _(term: surveillance_general, unreviewed)_
-
-- **[2026-03-10] Board of Finance** -- Board of Finance  3-10-26
   > ...equipment um CCTV cleaning like it's pretty self-explanatory and plus Ed's here if you have a question....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9WG6W0sGq9k&t=7898s)  _(term: surveillance_general, unreviewed)_
+
+- **[2026-03-10] Board of Finance** -- Board of Finance  3-10-26
+  > ...of their work. >> Okay. >> CCTV work is ongoing too. At the same time um we run a camera through about uh 8 miles a year. So over the next two...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9WG6W0sGq9k&t=877s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-03-09] Board of Selectmen** -- Board of Selectmen  3-9-26
   > ...now. We did see some additional um items that needed to be addressed during some CCTV work. Uh so, I asked for some additional funds to cover that work in this bond authorization. Um as well as...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PyEAyY2Jz2g&t=3675s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-03-03] Sewer Commission** -- Sewer Commission  3-3-26
-  > ...>> at certain locations so we can do some comparison. Um included the CCTV work for 26 and 27. Um, that's the total I've used to to get us to the to next jumping off point,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=VwlR2vQJfjs&t=5370s)  _(term: surveillance_general, unreviewed)_
-
-- **[2026-03-03] Sewer Commission** -- Sewer Commission  3-3-26
   > ...have. Um >> I think and connection fees and things like that. So those CCTV costs may come out of a different that opens up funding for maybe rehab....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=VwlR2vQJfjs&t=5409s)  _(term: surveillance_general, unreviewed)_
+
+- **[2026-03-03] Sewer Commission** -- Sewer Commission  3-3-26
+  > ...>> at certain locations so we can do some comparison. Um included the CCTV work for 26 and 27. Um, that's the total I've used to to get us to the to next jumping off point,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=VwlR2vQJfjs&t=5370s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-02-25] Parks & Recreation Commission** -- Parks and Recreation 2-25-26
   > ...we haven't that we did do two change orders. One was for the that um doing that CCTV inspection. Um, so we had that that was uh around $8,000 or so. And then the other change order that...
@@ -1978,12 +2028,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UTOR6tTo_As&t=2515s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-02-10] Board of Selectmen** -- Board of Selectmen  2-10-26
-  > ...continued running of the pumps and provide a more energyefficient system. The next one is sewer main CCTV and cleaning. Uh we do this every year and this is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=k0VGgIemWbc&t=5224s)  _(term: surveillance_general, unreviewed)_
-
-- **[2026-02-10] Board of Selectmen** -- Board of Selectmen  2-10-26
   > ...and replace any part of the sewer main or infrastructure that is found to be in disrepair u through the CCTV and cleaning. or through the SSES program....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=k0VGgIemWbc&t=5273s)  _(term: surveillance_general, unreviewed)_
+
+- **[2026-02-10] Board of Selectmen** -- Board of Selectmen  2-10-26
+  > ...continued running of the pumps and provide a more energyefficient system. The next one is sewer main CCTV and cleaning. Uh we do this every year and this is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=k0VGgIemWbc&t=5224s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-01-21] Commission on Aging** -- Commission on Aging   1-21-26
   > ...marketing look minor. you're so but but you have to be clear that just because it says it has a surveillance camera that can be legal. >> Peter, did they give you a sense of how...
@@ -1998,8 +2048,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=BGriP8oQzxk&t=5311s)  _(term: surveillance_general, unreviewed)_
 
 - **[2025-11-04] Sewer Commission** -- Sewer Commission  11-4-25
+  > ...manhole um epoxy work and things like that. Phase three rehab, the CCTV work is ongoing right now. Um they're I'd say I' I'd say they're about 25 30% complete....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=44DVV0iyejo&t=7621s)  _(term: surveillance_general, unreviewed)_
+
+- **[2025-11-04] Sewer Commission** -- Sewer Commission  11-4-25
   > ...>> Very nice. >> They were though it's not on the list. I'm going to throw in the annual CCTV work on item 9C. I think it was evident. Uh, but I understand you've got some...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=44DVV0iyejo&t=7680s)  _(term: surveillance_general, unreviewed)_
+
+- **[2025-11-04] Sewer Commission** -- Sewer Commission  11-4-25
+  > ...out. >> Yeah. >> Yeah. The same thing with the CCTV. I've squeezed her to said, "Let's close the area. I want to say I'm done over here."...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=44DVV0iyejo&t=7742s)  _(term: surveillance_general, unreviewed)_
 
 - **[2025-11-04] Sewer Commission** -- Sewer Commission  11-4-25
   > ...crews and they go through it. Um our uh field engineer from Arcadus does the phase three and the CCTV work at the same time. So we're kind of saving a little money and splitting the costs...
@@ -2008,14 +2066,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2025-11-04] Sewer Commission** -- Sewer Commission  11-4-25
   > ...And that's my report. >> You want the superintendent? >> And when you do the CCTV work, is there a way of overlaying it so you could click on a manhole later and know what...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=44DVV0iyejo&t=7863s)  _(term: surveillance_general, unreviewed)_
-
-- **[2025-11-04] Sewer Commission** -- Sewer Commission  11-4-25
-  > ...manhole um epoxy work and things like that. Phase three rehab, the CCTV work is ongoing right now. Um they're I'd say I' I'd say they're about 25 30% complete....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=44DVV0iyejo&t=7621s)  _(term: surveillance_general, unreviewed)_
-
-- **[2025-11-04] Sewer Commission** -- Sewer Commission  11-4-25
-  > ...out. >> Yeah. >> Yeah. The same thing with the CCTV. I've squeezed her to said, "Let's close the area. I want to say I'm done over here."...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=44DVV0iyejo&t=7742s)  _(term: surveillance_general, unreviewed)_
 
 - **[2025-11-04] Sewer Commission** -- Sewer Commission  11-4-25
   > ...them a little. >> Nothing else you had on >> just the CCTV work for our annual 5 is starting November 17th. Should take them two to three weeks to do. We found...
@@ -2046,10 +2096,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DclbBsELtxE&t=2714s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-08-13] Sewer Commission** -- Sewer Commission  8-13-2024
-  > ...know spot account the spot repairs now are down we've got a lot of them from the TV on CCTV work we've identified them and repaired them and then but and you're also...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pl9v89Dv6Vs&t=2295s)  _(term: surveillance_general, unreviewed)_
-
-- **[2024-08-13] Sewer Commission** -- Sewer Commission  8-13-2024
   > ...are with projects um CCTV work of course you guys get that in December we give you an update on how we're doing there but just wanted to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=pl9v89Dv6Vs&t=2085s)  _(term: surveillance_general, unreviewed)_
 
@@ -2057,25 +2103,29 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   > ...saying there's balances in there now you just identified them you were looking at them that 244 is the a balance for CCTV work yeah yeah yeah it's in it's in chart too the overall Reserve yeah the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=pl9v89Dv6Vs&t=2343s)  _(term: surveillance_general, unreviewed)_
 
-- **[2024-07-02] Sewer Commission** -- Sewer Commission  7-2-2024
-  > ...the sump pumps so um just as an aside the town of Greenwich did their did their sewer study they did CCTV inspection they found 1,00 illicit connections and what they mean by elicit...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JYvLD0zJi-U&t=5861s)  _(term: surveillance_general, unreviewed)_
-
-- **[2024-07-02] Sewer Commission** -- Sewer Commission  7-2-2024
-  > ...it and that some pump's pumping out all the time but I think you know if our if Arcus does the CCTV inspections and they find a property or a house that has a some pump discharging um it would be...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JYvLD0zJi-U&t=5974s)  _(term: surveillance_general, unreviewed)_
+- **[2024-08-13] Sewer Commission** -- Sewer Commission  8-13-2024
+  > ...know spot account the spot repairs now are down we've got a lot of them from the TV on CCTV work we've identified them and repaired them and then but and you're also...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pl9v89Dv6Vs&t=2295s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-07-02] Sewer Commission** -- Sewer Commission  7-2-2024
   > ...material which was unknown do you now know what those pipes are um as we're doing the CCTV CCTV investigations that's information that's recorded absolutely it's being updated in the gis...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JYvLD0zJi-U&t=5580s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-07-02] Sewer Commission** -- Sewer Commission  7-2-2024
-  > ...and it's all been within this uh the Stony Brook study area so and also tend to find stuff during the CCTV that wasn't necessarily obvious during the uh inflow testing yes absolutely and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JYvLD0zJi-U&t=8391s)  _(term: surveillance_general, unreviewed)_
+  > ...it and that some pump's pumping out all the time but I think you know if our if Arcus does the CCTV inspections and they find a property or a house that has a some pump discharging um it would be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JYvLD0zJi-U&t=5974s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-07-02] Sewer Commission** -- Sewer Commission  7-2-2024
   > ...the S SSS report so it's the infiltration um that we were able when we um reviewed you know the CCTV videos in addition to the manhole inspection reports so it doesn't add in any inflow...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JYvLD0zJi-U&t=5322s)  _(term: surveillance_general, unreviewed)_
+
+- **[2024-07-02] Sewer Commission** -- Sewer Commission  7-2-2024
+  > ...and it's all been within this uh the Stony Brook study area so and also tend to find stuff during the CCTV that wasn't necessarily obvious during the uh inflow testing yes absolutely and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JYvLD0zJi-U&t=8391s)  _(term: surveillance_general, unreviewed)_
+
+- **[2024-07-02] Sewer Commission** -- Sewer Commission  7-2-2024
+  > ...the sump pumps so um just as an aside the town of Greenwich did their did their sewer study they did CCTV inspection they found 1,00 illicit connections and what they mean by elicit...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JYvLD0zJi-U&t=5861s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-03-05] Sewer Commission** -- Sewer Commission   3-5-2024
   > ...to be helpful too um and then finally we we find a a defective pipe up on Brookside as part of the CCTV work so we added a lining to this part of the contract Brookside Road Brookside Drive...
@@ -2086,32 +2136,32 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=oSkNCjPD5gI&t=2910s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-01-02] Sewer Commission** -- Sewer Commission  1-2-2024
-  > ...in the next 18 months yeah very excited so that's going on um they did the B CCTV work it was completed um they did camera Mechanic Street o anything good nothing more than...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pdn5AxKQK6Y&t=2414s)  _(term: surveillance_general, unreviewed)_
-
-- **[2024-01-02] Sewer Commission** -- Sewer Commission  1-2-2024
   > ...these numbers which is why I could knock down some of their collection um even the CCTV work you guys talk me in a 3% increases so I want to let you know that sorry to end it on the I I consider it...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=pdn5AxKQK6Y&t=3076s)  _(term: surveillance_general, unreviewed)_
 
-- **[2023-12-05] Sewer Commission** -- Sewer Commission  12-5-2023
-  > ...those repairs so I'm just kind of replenishing it a little bit um and the final one is the um request for CCTV work on an annual basis I put about 125,000 in that that covers both the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ANPAgUyvQz4&t=4900s)  _(term: surveillance_general, unreviewed)_
-
-- **[2023-12-05] Sewer Commission** -- Sewer Commission  12-5-2023
-  > ...you he okay so that takes care of that uh the CCTV work for calendar year 2023 is nearly complet I think got 1,500 ft left to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ANPAgUyvQz4&t=5156s)  _(term: surveillance_general, unreviewed)_
-
-- **[2023-12-05] Sewer Commission** -- Sewer Commission  12-5-2023
-  > ...easement work um kind of a little mix and match right now cuz they're wrapping up the CCTV work the annual CCTV work so um that's uh just waiting on now to get the uh...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ANPAgUyvQz4&t=5083s)  _(term: surveillance_general, unreviewed)_
+- **[2024-01-02] Sewer Commission** -- Sewer Commission  1-2-2024
+  > ...in the next 18 months yeah very excited so that's going on um they did the B CCTV work it was completed um they did camera Mechanic Street o anything good nothing more than...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pdn5AxKQK6Y&t=2414s)  _(term: surveillance_general, unreviewed)_
 
 - **[2023-12-05] Sewer Commission** -- Sewer Commission  12-5-2023
   > ...this one so they plan to do it now next Tuesday so they will be back out there to do it CCTV cleaning evaluation out there is that the is that the um Cedric SSO is the same as Mechanic Street okay...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ANPAgUyvQz4&t=5139s)  _(term: surveillance_general, unreviewed)_
 
 - **[2023-12-05] Sewer Commission** -- Sewer Commission  12-5-2023
+  > ...you he okay so that takes care of that uh the CCTV work for calendar year 2023 is nearly complet I think got 1,500 ft left to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ANPAgUyvQz4&t=5156s)  _(term: surveillance_general, unreviewed)_
+
+- **[2023-12-05] Sewer Commission** -- Sewer Commission  12-5-2023
+  > ...those repairs so I'm just kind of replenishing it a little bit um and the final one is the um request for CCTV work on an annual basis I put about 125,000 in that that covers both the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ANPAgUyvQz4&t=4900s)  _(term: surveillance_general, unreviewed)_
+
+- **[2023-12-05] Sewer Commission** -- Sewer Commission  12-5-2023
   > ...uh just waiting on now to get the uh the liners and are we adding Mechanic Street to the end of the CCTV work uh we have added it they were supposed to do it today um but an issue with our state...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ANPAgUyvQz4&t=5095s)  _(term: surveillance_general, unreviewed)_
+
+- **[2023-12-05] Sewer Commission** -- Sewer Commission  12-5-2023
+  > ...easement work um kind of a little mix and match right now cuz they're wrapping up the CCTV work the annual CCTV work so um that's uh just waiting on now to get the uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ANPAgUyvQz4&t=5083s)  _(term: surveillance_general, unreviewed)_
 
 - **[2023-11-30] Police Commission** -- Darien Police Commission  11-30-2023
   > ...the people know that there's no CCTV in in either of those uh I'm not sure that that's that there's no CCTV across the market share for those companies so I I don't know um think maybe they know...
@@ -2122,12 +2172,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=UTexKDrU9sw&t=607s)  _(term: surveillance_general, unreviewed)_
 
 - **[2023-11-14] Sewer Commission** -- Sewer Commission  11-14-23
-  > ...been trying to get somebody in here just we it just makes sense to have um inent form added to the CCTV work now so within the next two weeks it's going to do that section too maybe come up with...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=uREt6qFlGw8&t=2981s)  _(term: surveillance_general, unreviewed)_
-
-- **[2023-11-14] Sewer Commission** -- Sewer Commission  11-14-23
   > ...ready and measured um 5B uh 23 uh CCTV uh we are 85% complete I could not be um happier with that information um it looks like they're...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=uREt6qFlGw8&t=2896s)  _(term: surveillance_general, unreviewed)_
+
+- **[2023-11-14] Sewer Commission** -- Sewer Commission  11-14-23
+  > ...been trying to get somebody in here just we it just makes sense to have um inent form added to the CCTV work now so within the next two weeks it's going to do that section too maybe come up with...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=uREt6qFlGw8&t=2981s)  _(term: surveillance_general, unreviewed)_
 
 - **[2023-11-14] Sewer Commission** -- Sewer Commission  11-14-23
   > ...that I had mentioned to you a couple months ago phase three and for phase three plus phase three for the CCTV for 24 for the second phase of the inii SS study to another section of town um all...
@@ -2150,24 +2200,24 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7jK2nCfDExw&t=2258s)  _(term: surveillance_general, unreviewed)_
 
 - **[2023-07-11] Sewer Commission** -- Sewer Commission  7-11-2023
-  > ...be a third party review whether it be assistance in doing our CCTV work annual CCTV work where they coordinated they go out they collect them they read it they don't just take them and put them away...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7NU4rFXogdo&t=276s)  _(term: surveillance_general, unreviewed)_
-
-- **[2023-07-11] Sewer Commission** -- Sewer Commission  7-11-2023
   > ...assigning new tasks to them whether it be a third party review whether it be assistance in doing our CCTV work annual CCTV work where they coordinated they go out they collect them they read it they...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7NU4rFXogdo&t=272s)  _(term: surveillance_general, unreviewed)_
+
+- **[2023-07-11] Sewer Commission** -- Sewer Commission  7-11-2023
+  > ...be a third party review whether it be assistance in doing our CCTV work annual CCTV work where they coordinated they go out they collect them they read it they don't just take them and put them away...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7NU4rFXogdo&t=276s)  _(term: surveillance_general, unreviewed)_
 
 - **[2023-05-04] Police Commission** -- Darien Police Commission  5-4-2023
   > ...there's anything else going on in the building right now where it's CCTV system is largely installed I think there's a little bit of the hiccups there that we're still trying to work...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=6G1a2O42-x8&t=401s)  _(term: surveillance_general, unreviewed)_
 
 - **[2023-05-02] Sewer Commission** -- Sewer Commission  5-2-2023
-  > ...list and expound expanded on um the recent investigations that we had done with CCTV and the you know ini program and kind of expanded on it a little bit more some segments were able...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=z1OUMhPK48E&t=3501s)  _(term: surveillance_general, unreviewed)_
-
-- **[2023-05-02] Sewer Commission** -- Sewer Commission  5-2-2023
   > ...projects such as the ini program the sscs investigations um the annual cleaning of CCTV as well so it's a lot that goes into it and I know you're probably like I keep saying...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=z1OUMhPK48E&t=2724s)  _(term: surveillance_general, unreviewed)_
+
+- **[2023-05-02] Sewer Commission** -- Sewer Commission  5-2-2023
+  > ...list and expound expanded on um the recent investigations that we had done with CCTV and the you know ini program and kind of expanded on it a little bit more some segments were able...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=z1OUMhPK48E&t=3501s)  _(term: surveillance_general, unreviewed)_
 
 - **[2023-01-20] Sewer Commission** -- Inside Town Hall - Sewer Commission  2023
   > ...systems that we use now it's a quick identifier for us but we also use that I that CCTV work to identify pipelining sections and areas where we need rehabilitations on on inverts of pipes...
@@ -2186,44 +2236,44 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=nft_hx8RbfI&t=3357s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-12-06] Sewer Commission** -- Sewer Commission  12-6-2022
-  > ...the 249 yes okay and uh there's well of course the uh the CCTV work that we do yearly okay so add all those numbers together and that's where you get that 249 from okay...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nft_hx8RbfI&t=1930s)  _(term: surveillance_general, unreviewed)_
-
-- **[2022-12-06] Sewer Commission** -- Sewer Commission  12-6-2022
   > ...backup on that row principal and interest the root control yeah placement Pump Station rehab CCTV there was one of those things you said okay but those would be itemized and then you would see...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=nft_hx8RbfI&t=2422s)  _(term: surveillance_general, unreviewed)_
-
-- **[2022-12-06] Sewer Commission** -- Sewer Commission  12-6-2022
-  > ...surgery all right B our CCTV work our annual program is nearly complete they have this week and next week and then they should be done...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nft_hx8RbfI&t=2671s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-12-06] Sewer Commission** -- Sewer Commission  12-6-2022
   > ...water main was at Old parish and Middlesex that was the lining no that wasn't the line CCTV okay okay oh that's right we put them in the locations of the next phase...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=nft_hx8RbfI&t=3344s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-12-06] Sewer Commission** -- Sewer Commission  12-6-2022
+  > ...surgery all right B our CCTV work our annual program is nearly complete they have this week and next week and then they should be done...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nft_hx8RbfI&t=2671s)  _(term: surveillance_general, unreviewed)_
+
+- **[2022-12-06] Sewer Commission** -- Sewer Commission  12-6-2022
   > ...but there's going to be more pipes to repair and because we're going to do the CCTV stuff annually for eight more years should that just be a line item in the budget you know versus something kind of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=nft_hx8RbfI&t=2220s)  _(term: surveillance_general, unreviewed)_
+
+- **[2022-12-06] Sewer Commission** -- Sewer Commission  12-6-2022
+  > ...the 249 yes okay and uh there's well of course the uh the CCTV work that we do yearly okay so add all those numbers together and that's where you get that 249 from okay...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nft_hx8RbfI&t=1930s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-10-04] Sewer Commission** -- Sewer Commission 10-4-22
   > ...had our meeting on Monday um as part of the Old Kings Highway South we also kicked off the CCTV work same company is going to be doing it great they're going to start on the 17th...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZyxqldKzTp8&t=1278s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-10-04] Sewer Commission** -- Sewer Commission 10-4-22
-  > ...eight miles we're supposed to do each year of cleaning and CCTV so if I can wrap it in here I can get some more studies the arcadeus oversight required for that is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZyxqldKzTp8&t=1101s)  _(term: surveillance_general, unreviewed)_
-
-- **[2022-10-04] Sewer Commission** -- Sewer Commission 10-4-22
   > ...and monitor the pumping while we're there too while they're doing it um the CCTV Eight Mile program I just spoke of that we're going to uh we got three prices I actually got two prices...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZyxqldKzTp8&t=1261s)  _(term: surveillance_general, unreviewed)_
 
-- **[2022-10-03] Board of Selectmen** -- Board Of Selectmen  10-3-2022
-  > ...basis so we increase the size when necessary we do storm drainage inspections we have a CCTV camera um in-house and for the larger pipes we do have a vendor or two that we bring in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4-DoBun6-u0&t=4774s)  _(term: surveillance_general, unreviewed)_
+- **[2022-10-04] Sewer Commission** -- Sewer Commission 10-4-22
+  > ...eight miles we're supposed to do each year of cleaning and CCTV so if I can wrap it in here I can get some more studies the arcadeus oversight required for that is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZyxqldKzTp8&t=1101s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-10-03] Board of Selectmen** -- Board Of Selectmen  10-3-2022
   > ...depending on on the size of the pipe and at times if we do find things through that CCTV work generally clogs either roots or debris we'll have them cleaned while we find them and that company and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4-DoBun6-u0&t=4792s)  _(term: surveillance_general, unreviewed)_
+
+- **[2022-10-03] Board of Selectmen** -- Board Of Selectmen  10-3-2022
+  > ...basis so we increase the size when necessary we do storm drainage inspections we have a CCTV camera um in-house and for the larger pipes we do have a vendor or two that we bring in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4-DoBun6-u0&t=4774s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-04-07] Police Commission** -- Police Commission  4-7-22
   > ...items that break or need to be replaced unfortunately in the last fiscal year as the commission knows our cctv cameras since seven or eight of them or nine of them had to be replaced...
@@ -2234,56 +2284,56 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=FrdiywXFqJs&t=3103s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-04-05] Board of Finance** -- Board of Finance  4-5-22
-  > ...that we just replaced this kind of came to light too with the cctv when we had the vandalism to the police memorial monument in front of our...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=FrdiywXFqJs&t=3084s)  _(term: surveillance_general, unreviewed)_
-
-- **[2022-04-05] Board of Finance** -- Board of Finance  4-5-22
   > ...as this board knows and i explained at the border selectment last night we've asked for a new cctv camera system in next year's capital budget and the vendor has assured me that these...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=FrdiywXFqJs&t=3066s)  _(term: surveillance_general, unreviewed)_
+
+- **[2022-04-05] Board of Finance** -- Board of Finance  4-5-22
+  > ...that we just replaced this kind of came to light too with the cctv when we had the vandalism to the police memorial monument in front of our...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=FrdiywXFqJs&t=3084s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-04-04] Board of Selectmen** -- Board of Selectmen  4-4-22
   > ...they had to be replaced um and the board knows that we've asked for a cctv upgrade for the entire building these cameras that they did retrofit they've assured us we'll work with the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QtB8al5px80&t=1348s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-02-15] Sewer Commission** -- Sewer Commission  2-15-22
-  > ...inflow you know where we're going to do um the follow-on cctv inspections we're not only looking at like that that segment what's the number at we're also looking...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=2719s)  _(term: surveillance_general, unreviewed)_
+  > ...we did do some additional investigations um lateral inspections to augment the mainline cctv inspections to assist with identifying you know the extent of the hydrogen sulfide damage in the um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=1539s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-02-15] Sewer Commission** -- Sewer Commission  2-15-22
   > ...able to assign a defect grade for each of those individual components and then similar to the cctv program arcadis reviewed the inspection reports and the images for each manhole...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=1019s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-02-15] Sewer Commission** -- Sewer Commission  2-15-22
-  > ...know when we were on site sometimes too we were right away you know we asked the cctv sub and the manhole sub if you find anything that is like needs immediate attention please let us know right away...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=1361s)  _(term: surveillance_general, unreviewed)_
-
-- **[2022-02-15] Sewer Commission** -- Sewer Commission  2-15-22
   > ...kind of require the more detailed and more expensive investigations which is you know cctv inspections and also similarly for smoke testing that's another very effective um field...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=768s)  _(term: surveillance_general, unreviewed)_
-
-- **[2022-02-15] Sewer Commission** -- Sewer Commission  2-15-22
-  > ...was um uh was part was inspected as part of the cctv program um so this this does go to show what i just talked about you know the importance of doing that initial...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=811s)  _(term: surveillance_general, unreviewed)_
-
-- **[2022-02-15] Sewer Commission** -- Sewer Commission  2-15-22
-  > ...we did do some additional investigations um lateral inspections to augment the mainline cctv inspections to assist with identifying you know the extent of the hydrogen sulfide damage in the um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=1539s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-02-15] Sewer Commission** -- Sewer Commission  2-15-22
   > ...um those meter areas so meter areas with high infiltration were included in flow isolation cctv and manhole inspection programs and meter areas with high inflow were selected for smoke testing...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=730s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-02-15] Sewer Commission** -- Sewer Commission  2-15-22
-  > ...to get a closer look at like the defects and the features within the pipe um so as part of that cctv inspection um the camera operator...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=844s)  _(term: surveillance_general, unreviewed)_
+  > ...know when we were on site sometimes too we were right away you know we asked the cctv sub and the manhole sub if you find anything that is like needs immediate attention please let us know right away...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=1361s)  _(term: surveillance_general, unreviewed)_
+
+- **[2022-02-15] Sewer Commission** -- Sewer Commission  2-15-22
+  > ...inflow you know where we're going to do um the follow-on cctv inspections we're not only looking at like that that segment what's the number at we're also looking...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=2719s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-02-15] Sewer Commission** -- Sewer Commission  2-15-22
   > ...structural issues and improve the system reliability um so that lining quantity is almost about 50 of what was cctv inspected and the overall almost about 60 of the pipe...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=1691s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-02-15] Sewer Commission** -- Sewer Commission  2-15-22
+  > ...was um uh was part was inspected as part of the cctv program um so this this does go to show what i just talked about you know the importance of doing that initial...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=811s)  _(term: surveillance_general, unreviewed)_
+
+- **[2022-02-15] Sewer Commission** -- Sewer Commission  2-15-22
   > ...detailed um inspections so the for those of you who may not be aware of what cctv entails it involved inspecting the inside of the pipe it's with a mobile remote operated camera and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=826s)  _(term: surveillance_general, unreviewed)_
+
+- **[2022-02-15] Sewer Commission** -- Sewer Commission  2-15-22
+  > ...to get a closer look at like the defects and the features within the pipe um so as part of that cctv inspection um the camera operator...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gmChKTQkgVc&t=844s)  _(term: surveillance_general, unreviewed)_
 
 - **[2022-01-31] Board of Selectmen** -- Board of Selectmen - Budget  PART 3  1-31-22
   > ...have to look into that i think it would be minimal and when we are replacing cct cctv is ongoing now we are ensuring that the cameras that are put in are our high def spec where...
@@ -2326,20 +2376,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=3GGJLqtQDgA&t=5139s)  _(term: surveillance_general, unreviewed)_
 
 - **[2020-07-29] Sewer Commission** -- Sewer Commission G2M  7-29-20
-  > ...isolation results and see what those numbers are we make recommendations for cctv so this just sort of shows you how we had a meter downstream...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QpS2HZRzKdg&t=1094s)  _(term: surveillance_general, unreviewed)_
+  > ...in brookside and mechanic but we do have some money for cctv and manhole inspections which we will hope to use as soon as possible we want...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QpS2HZRzKdg&t=2239s)  _(term: surveillance_general, unreviewed)_
 
 - **[2020-07-29] Sewer Commission** -- Sewer Commission G2M  7-29-20
   > ...process we're able to say okay in mechanic street we already know the segments we want to cctv and we don't have to do investigations in the entire sewer shed anymore...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QpS2HZRzKdg&t=1270s)  _(term: surveillance_general, unreviewed)_
 
 - **[2020-07-29] Sewer Commission** -- Sewer Commission G2M  7-29-20
-  > ...accordingly so with high infiltration we're going to be doing flow isolation cctv and manhole inspections and with high inflow areas it can include smoke testing dye testing...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QpS2HZRzKdg&t=2158s)  _(term: surveillance_general, unreviewed)_
-
-- **[2020-07-29] Sewer Commission** -- Sewer Commission G2M  7-29-20
-  > ...in brookside and mechanic but we do have some money for cctv and manhole inspections which we will hope to use as soon as possible we want...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QpS2HZRzKdg&t=2239s)  _(term: surveillance_general, unreviewed)_
+  > ...isolation results and see what those numbers are we make recommendations for cctv so this just sort of shows you how we had a meter downstream...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QpS2HZRzKdg&t=1094s)  _(term: surveillance_general, unreviewed)_
 
 - **[2020-07-29] Sewer Commission** -- Sewer Commission G2M  7-29-20
   > ...down even more and come up with just these select segments for cctv recommendations so the flow isolation determined that we had...
@@ -2350,12 +2396,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QpS2HZRzKdg&t=3162s)  _(term: surveillance_general, unreviewed)_
 
 - **[2020-07-29] Sewer Commission** -- Sewer Commission G2M  7-29-20
+  > ...did some flow isolation here as well to help really narrow down where we're going to do the cctv and um we did find about 60 000 gallons per day of infiltration...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QpS2HZRzKdg&t=1237s)  _(term: surveillance_general, unreviewed)_
+
+- **[2020-07-29] Sewer Commission** -- Sewer Commission G2M  7-29-20
   > ...which would be uh that flow isolation that amy described manhole inspections and cctv so we've used our allocation approved already by deep for...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QpS2HZRzKdg&t=2225s)  _(term: surveillance_general, unreviewed)_
 
 - **[2020-07-29] Sewer Commission** -- Sewer Commission G2M  7-29-20
-  > ...did some flow isolation here as well to help really narrow down where we're going to do the cctv and um we did find about 60 000 gallons per day of infiltration...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QpS2HZRzKdg&t=1237s)  _(term: surveillance_general, unreviewed)_
+  > ...accordingly so with high infiltration we're going to be doing flow isolation cctv and manhole inspections and with high inflow areas it can include smoke testing dye testing...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QpS2HZRzKdg&t=2158s)  _(term: surveillance_general, unreviewed)_
 
 - **[2020-01-29] Board of Selectmen** -- Board of Selectmen  -  BUDGET Workshop #3  1-29-20
   > ...there's a lot of equipment in there is a radio clip i me 91 one all that is housed in there our in-house CCTV is screwing in there so it's not just either it's all the operations so those...
@@ -2428,15 +2478,11 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### drone
 
-- **[2026-01-20] Board of Finance** -- Board of Finance Agenda - 2026-01-20 (agenda)
-  > ...  -                 -
+- **[2026-09-15] Board of Finance** -- Board of Finance Agenda - 2026-09-15 (agenda)
+  > ...                                                         $                   -   $     33,760.00               33,760.00                        -                        -                        -
 
-     Replace Holohan Backstop Parks & Rec             $                  -   $    33,760.00              33,760.00                     -               -                 -
-
-     Drone                        Police          $            25,000.00     $    24,732.83              24,732.83                     -               -                 -
-
-     CCTV                        ...
-  [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_01202026-2192)  _(term: drone, unreviewed)_
+   Drone                     Police                                                                                       $            25,000.00      $     24,732.83               24,732.83              ...
+  [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_09152026-2527)  _(term: drone, unreviewed)_
 
 - **[2026-03-23] Board of Selectmen** -- Board of Selectmen Minutes - 2026-03-23 (minutes)
   > ... Watch and buffet dinner. On
@@ -2451,7 +2497,7 @@ Mr. Burke reported that the Blight Review Board’s next meeting will be in Apri
 Ms. Neumann reported that Thriving Youth Darien met on Mar...
   [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Minutes/_03232026-2310)  _(term: drone, unreviewed)_
 
-- **[2026-02-10] Board of Finance** -- Board of Finance Agenda - 2026-02-10 (agenda)
+- **[2026-01-20] Board of Finance** -- Board of Finance Agenda - 2026-01-20 (agenda)
   > ...  -                 -
 
      Replace Holohan Backstop Parks & Rec             $                  -   $    33,760.00              33,760.00                     -               -                 -
@@ -2459,7 +2505,7 @@ Ms. Neumann reported that Thriving Youth Darien met on Mar...
      Drone                        Police          $            25,000.00     $    24,732.83              24,732.83                     -               -                 -
 
      CCTV                        ...
-  [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_02102026-2224)  _(term: drone, unreviewed)_
+  [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_01202026-2192)  _(term: drone, unreviewed)_
 
 - **[2026-04-20] Board of Selectmen** -- Board of Selectmen Agenda - 2026-04-20 (agenda)
   > ...onetsk Oblast)                        Protective Gear for Municipal Workers –
@@ -2469,6 +2515,16 @@ Ms. Neumann reported that Thriving Youth Darien met on Mar...
       Druzhkivka (Donetsk Oblast)
       Kramatorsk (Donetsk Oblast)                Children & Commun...
   [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_04202026-2356)  _(term: drone, unreviewed)_
+
+- **[2026-02-10] Board of Finance** -- Board of Finance Agenda - 2026-02-10 (agenda)
+  > ...  -                 -
+
+     Replace Holohan Backstop Parks & Rec             $                  -   $    33,760.00              33,760.00                     -               -                 -
+
+     Drone                        Police          $            25,000.00     $    24,732.83              24,732.83                     -               -                 -
+
+     CCTV                        ...
+  [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_02102026-2224)  _(term: drone, unreviewed)_
 
 - **[2026-03-10] Board of Finance** -- Board of Finance Agenda - 2026-03-10 (agenda)
   > ...                                                        $                   -   $     33,760.00               33,760.00                        -                        -                         -
@@ -2534,12 +2590,12 @@ Ms. Neumann reported that Thriving Youth Darien met on Mar...
 
 ### surveillance_general
 
-- **[2026-01-20] Board of Finance** -- Board of Finance Agenda - 2026-01-20 (agenda)
-  > ...eat Island - Pool Fence                                           $7,800          $7,800
-     Site Drainage - Cleaning and Repair                      $25,000                       $25,000   Cleaning-CCTV-Repairs (Estimate)
-     Driveway Repairs                                          $7,613       $12,387         $20,000   500 LF @ Green House (Comp 8/26/24)
-     Tree Trimming                    ...
-  [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_01202026-2192)  _(term: surveillance_general, unreviewed)_
+- **[2026-09-15] Board of Finance** -- Board of Finance Agenda - 2026-09-15 (agenda)
+  > ...nd - Pool Fence                                               $7,800          $7,800
+     Site Drainage - Cleaning and Repair                          $25,000                       $25,000   Cleaning-CCTV-Repairs (Estimate)
+     Driveway Repairs                                              $7,613       $12,387         $20,000   500 LF @ Green House (Comp 8/26/24)
+     Tree Trimming                ...
+  [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_09152026-2527)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-02-25] Parks & Recreation Commission** -- Parks & Recreation Commission Minutes - 2026-02-25 (minutes)
   > ...te. Most of the drainage work has been completed, with the exception of the water
@@ -2576,12 +2632,12 @@ a.     Phase III Rehab Update
      Townwide Sanitary Sewer I&I Program has started to sh...
   [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_03092026-2279)  _(term: surveillance_general, unreviewed)_
 
-- **[2026-02-10] Board of Finance** -- Board of Finance Agenda - 2026-02-10 (agenda)
+- **[2026-01-20] Board of Finance** -- Board of Finance Agenda - 2026-01-20 (agenda)
   > ...eat Island - Pool Fence                                           $7,800          $7,800
      Site Drainage - Cleaning and Repair                      $25,000                       $25,000   Cleaning-CCTV-Repairs (Estimate)
      Driveway Repairs                                          $7,613       $12,387         $20,000   500 LF @ Green House (Comp 8/26/24)
      Tree Trimming                    ...
-  [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_02102026-2224)  _(term: surveillance_general, unreviewed)_
+  [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_01202026-2192)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-02-25] Parks & Recreation Commission** -- Parks & Recreation Commission Agenda - 2026-02-25 (agenda)
   > ...     An unmapped clay pipe was encountered that conflicts with the pipe connection to the water quality
@@ -2590,14 +2646,12 @@ a.     Phase III Rehab Update
         inspection. Once we have the results of the inspection, a determination will be m...
   [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_02252026-2247)  _(term: surveillance_general, unreviewed)_
 
-- **[2026-03-10] Board of Finance** -- Board of Finance Agenda - 2026-03-10 (agenda)
-  > ...
-
-     #48 Great Island - Pool Fence                      $7,800                        $7,800
-     Site Drainage - Cleaning and Repair                                    $0            $0    Cleaning-CCTV-Repairs (Estimate)
-     Driveway Repairs                                  $12,387              $0       $12,387    500 LF @ Green House (Comp 8/26/24)
-     Tree Trimming                          ...
-  [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_03102026-2280)  _(term: surveillance_general, unreviewed)_
+- **[2026-02-10] Board of Finance** -- Board of Finance Agenda - 2026-02-10 (agenda)
+  > ...eat Island - Pool Fence                                           $7,800          $7,800
+     Site Drainage - Cleaning and Repair                      $25,000                       $25,000   Cleaning-CCTV-Repairs (Estimate)
+     Driveway Repairs                                          $7,613       $12,387         $20,000   500 LF @ Green House (Comp 8/26/24)
+     Tree Trimming                    ...
+  [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_02102026-2224)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-03-18] Parks & Recreation Commission** -- Parks & Recreation Commission Agenda - 2026-03-18 (agenda)
   > ...te. Most of the drainage work has been completed, with the exception of the water
@@ -2608,6 +2662,15 @@ using CCTV to determine whether the line can be abandoned. Two change orders hav
 been approved by the Pear Tree Point Beach Building Committee related to the
 unidentified pipe and to the removal and dispos...
   [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_03182026-2300)  _(term: surveillance_general, unreviewed)_
+
+- **[2026-03-10] Board of Finance** -- Board of Finance Agenda - 2026-03-10 (agenda)
+  > ...
+
+     #48 Great Island - Pool Fence                      $7,800                        $7,800
+     Site Drainage - Cleaning and Repair                                    $0            $0    Cleaning-CCTV-Repairs (Estimate)
+     Driveway Repairs                                  $12,387              $0       $12,387    500 LF @ Green House (Comp 8/26/24)
+     Tree Trimming                          ...
+  [View document ▸](https://www.darienct.gov/AgendaCenter/ViewFile/Agenda/_03102026-2280)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-04-07] Board of Finance** -- Board of Finance Agenda - 2026-04-07 (agenda)
   > ...ump Replacement (Sewer-
@@ -2657,8 +2720,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 17
-- Videos registered: 1751 (fetched: 1440, no captions: 14)
-- Date range covered: 2018-12-19 to 2026-09-08 — **based on the 1743 of 1751 videos that carry a parseable upload date**; the other 8 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 1764 (fetched: 1590, no captions: 11)
+- Date range covered: 2018-12-19 to 2026-09-23 (all 1764 videos dated)
 
 
 ### Channels
@@ -2672,37 +2735,37 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| darien_tv79 | videos | 2026-09-10 13:39:04.270685 | 3579 |
+| darien_tv79 | videos | 2026-09-25 15:31:57.627726 | 3612 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 131 |
-| RTM Finance & Budget | budget_finance | True | 88 |
-| Board of Selectmen | council | True | 186 |
-| Board of Education | education | True | 212 |
-| Architectural Review Board | other | True | 59 |
+| Board of Finance | budget_finance | True | 132 |
+| RTM Finance & Budget | budget_finance | True | 89 |
+| Board of Selectmen | council | True | 187 |
+| Board of Education | education | True | 213 |
+| Architectural Review Board | other | True | 60 |
 | Beautification Commission | other | True | 38 |
 | Blight Review Board | other | True | 70 |
-| Commission on Aging | other | True | 81 |
-| Housing Authority | other | True | 45 |
+| Commission on Aging | other | True | 82 |
+| Housing Authority | other | True | 46 |
 | Monuments & Ceremonies Commission | other | True | 64 |
-| Operations Planning Committee | other | True | 73 |
-| Parks & Recreation Commission | other | True | 127 |
-| Planning & Zoning Commission | other | True | 214 |
-| RTM Rules Committee | other | True | 84 |
+| Operations Planning Committee | other | True | 74 |
+| Parks & Recreation Commission | other | True | 128 |
+| Planning & Zoning Commission | other | True | 215 |
+| RTM Rules Committee | other | True | 85 |
 | Sewer Commission | other | True | 96 |
-| Zoning Board of Appeals | other | True | 77 |
-| Police Commission | public_safety | True | 106 |
+| Zoning Board of Appeals | other | True | 78 |
+| Police Commission | public_safety | True | 107 |
 
 
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 286 (fetched: 205)
-- Date range covered: 2026-01-05 to 2026-09-16
+- Documents registered: 331 (fetched: 241)
+- Date range covered: 2026-01-05 to 2026-09-23
 
 
 ### Agenda sources
@@ -2723,14 +2786,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (14 shown, max 25)
+### Videos with no captions available (11 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| Planning & Zoning Commission  9-8-26 | 2026-09-08 |
-| Sewer Commission  9-8-26 | 2026-09-08 |
-| Planning & Zoning Commission  9-1-26 | 2026-09-01 |
-| Board of Selectmen  8-31-26 | 2026-08-31 |
 | Planning & Zoning Comm  6-23-26 | 2026-06-23 |
 | Zoning Bd of Appeals  5-27-26 | 2026-05-27 |
 | Planning & Zoning Comm  3-10-26 | 2026-03-10 |
@@ -2741,6 +2800,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Monuments & Ceremonies Commission   3-10-20 | 2020-03-10 |
 | Board of Selectmen & Parking Authority  2-24-20 | 2020-02-24 |
 | Parks & Recreation Commission   2-12-20 | 2020-02-12 |
+| Planning & Zoning Commission  12-3-19 | 2019-12-03 |
 
 
 ### Tabs never crawled
@@ -2784,5 +2844,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:50:11 from Darien's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:53:10 from Darien's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

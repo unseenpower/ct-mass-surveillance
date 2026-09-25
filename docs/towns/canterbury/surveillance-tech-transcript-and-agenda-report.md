@@ -1,9 +1,9 @@
 # Surveillance-tech report: Canterbury
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,10 +20,10 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">5</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 2 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2023–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2023-09-13 → 2026-03-17</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">39%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">95 of 245 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">40%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">98 of 246 meetings</span></a>
 </div>
 
-**Still incomplete:** 150 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+**Still incomplete:** 148 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **Canterbury**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -60,7 +60,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 2 meetings surfaced a finding (2 dated, spanning 2023-09-13 to 2026-03-17; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-03-17.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-03-17.*
 
 ??? note "Earlier meetings (2)"
 
@@ -312,8 +312,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 11
-- Videos registered: 245 (fetched: 95, no captions: 1)
-- Date range covered: 2020-03-18 to 2026-09-03 (all 245 videos dated)
+- Videos registered: 246 (fetched: 98, no captions: 0)
+- Date range covered: 2020-03-18 to 2026-09-09 (all 246 videos dated)
 
 
 ### Channels
@@ -327,15 +327,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| canterbury_ct | streams | 2026-09-10 13:33:54.350961 | 148 |
-| canterbury_ct | videos | 2026-09-10 13:33:51.774334 | 100 |
+| canterbury_ct | streams | 2026-09-25 15:34:17.609824 | 148 |
+| canterbury_ct | videos | 2026-09-25 15:34:15.047056 | 101 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 85 |
+| Board of Finance | budget_finance | True | 86 |
 | Capital Improvement Plan Committee | budget_finance | True | 3 |
 | Board of Education | education | True | 2 |
 | Board of Assessment Appeals | other | True | 3 |
@@ -376,11 +376,9 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (1 shown, max 25)
+### Videos with no captions available (0 shown, max 25)
 
-| title | upload_date |
-| --- | --- |
-| Town Meeting 09/03/2026 | 2026-09-03 |
+*(none)*
 
 
 ### Tabs never crawled
@@ -422,5 +420,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:48:28 from Canterbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:51:12 from Canterbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

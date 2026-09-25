@@ -1,9 +1,9 @@
 # Surveillance-tech report: East Granby
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,13 +14,13 @@
 
 ## At a glance: East Granby
 
-<p class="glance-headline"><strong>26 mentions</strong> of surveillance technology in <strong>5</strong> East Granby meetings, 2024–2026</p>
+<p class="glance-headline"><strong>29 mentions</strong> of surveillance technology in <strong>6</strong> East Granby meetings, 2024–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">26</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 5 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2024–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-05-28 → 2026-05-27</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">29</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 6 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2024–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-05-28 → 2026-09-14</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones, Facial recognition, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">97%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">227 of 234 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">98%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">234 of 240 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2015-02-27**, but East Granby's published video archive goes back to **2014-04-09**. Meetings before 2015 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -52,7 +52,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
 | [ALPR / Flock](#alpr) | 1 | 1 | 2026-05-27 | 2026-05-27 |
-| [Drones](#drone) | 23 | 3 | 2024-05-28 | 2025-04-09 |
+| [Drones](#drone) | 26 | 4 | 2024-05-28 | 2026-09-14 |
 | [Facial recognition](#facial_recognition) | 1 | 1 | 2024-05-28 | 2024-05-28 |
 | [General surveillance](#surveillance_general) | 1 | 1 | 2025-01-22 | 2025-01-22 |
 
@@ -61,9 +61,17 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 <!-- report-polish v1 -->
 
-5 meetings surfaced a finding (5 dated, spanning 2024-05-28 to 2026-05-27; 0 of unknown date, listed last). Newest first.
+6 meetings surfaced a finding (6 dated, spanning 2024-05-28 to 2026-09-14; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-05-27.*
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+
+### 2026-09-14 -- Board of Education
+
+**East Granby Board of Education - 09-14-26** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SdAlWgjm9B0&t=4294s)  > ...great." And he says, "If we could get the school involved, I think they do the drone stuff and the 3D." And that conversation from Suzanne to Tony and Wendy's on the team. We've got Arm Wings...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SdAlWgjm9B0&t=4304s)  > ...conversation from Suzanne to Tony and Wendy's on the team. We've got Arm Wings uh drone company working and the idea is to mentor the kids to get them and we're going to reach out...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SdAlWgjm9B0&t=4342s)  > ...blown away at at Fong and uh I can only see this. We're impressed. It's a 5-year program. They'll make a drone building and section by section each year. And eventually, we're hoping these kids will...
 
 ??? note "Earlier meetings (5)"
 
@@ -165,6 +173,18 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ### drone
 
+- **[2026-09-14] Board of Education** -- East Granby Board of Education - 09-14-26
+  > ...great." And he says, "If we could get the school involved, I think they do the drone stuff and the 3D." And that conversation from Suzanne to Tony and Wendy's on the team. We've got Arm Wings...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SdAlWgjm9B0&t=4294s)  _(term: drone, unreviewed)_
+
+- **[2026-09-14] Board of Education** -- East Granby Board of Education - 09-14-26
+  > ...conversation from Suzanne to Tony and Wendy's on the team. We've got Arm Wings uh drone company working and the idea is to mentor the kids to get them and we're going to reach out...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SdAlWgjm9B0&t=4304s)  _(term: drone, unreviewed)_
+
+- **[2026-09-14] Board of Education** -- East Granby Board of Education - 09-14-26
+  > ...blown away at at Fong and uh I can only see this. We're impressed. It's a 5-year program. They'll make a drone building and section by section each year. And eventually, we're hoping these kids will...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SdAlWgjm9B0&t=4342s)  _(term: drone, unreviewed)_
+
 - **[2025-04-09] Board of Finance** -- East Granby Board of Finance - 04-09-25
   > ...motion was made you know had it I not to receive and the estimated coming back from UAS and then the actual grant reward. Okay. And do we know when that 356k is coming? I will defer to on that....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=t1wL5XYNZZI&t=7046s)  _(term: drone, unreviewed)_
@@ -172,14 +192,6 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 - **[2025-01-27] Board of Education** -- East Granby Board of Education - 01-27-25
   > ...a an exam that a teacher wants online or something to do with the Drone they don't take purchase orders because it's not a it's not a and just just recently...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Dx082KUyovk&t=4827s)  _(term: drone, unreviewed)_
-
-- **[2024-05-28] Board of Education** -- East Granby Board of Education - 05-28-24
-  > ...taken at the same spot um I took all of them besides the bottom left with my drone and the bottom [Music] is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=899s)  _(term: drone, unreviewed)_
-
-- **[2024-05-28] Board of Education** -- East Granby Board of Education - 05-28-24
-  > ...took those with a phantom and then the one at the bottom right I took a my drone that was our baseball field no that was the one that was the little leag field okay I say it look I say it...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=834s)  _(term: drone, unreviewed)_
 
 - **[2024-05-28] Board of Education** -- East Granby Board of Education - 05-28-24
   > ...fast it just goes 29 mph it's very cinematic basic it's amazing to start with for drones and that's the Drone I ended up using in to fly through the school because it was easier with radio...
@@ -206,8 +218,8 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=711s)  _(term: drone, unreviewed)_
 
 - **[2024-05-28] Board of Education** -- East Granby Board of Education - 05-28-24
-  > ...really another company out there um any drone over 250 mg you have to register we did that with this drone and the next drone I'll show you I use that for some of the outside...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=701s)  _(term: drone, unreviewed)_
+  > ...drone over 250 mg you have to register we did that with this drone and the next drone I'll show you I use that for some of the outside clips that I've gotten at the high...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=704s)  _(term: drone, unreviewed)_
 
 - **[2024-05-28] Board of Education** -- East Granby Board of Education - 05-28-24
   > ...mostly everybody uses them there's not really another company out there um any drone over 250 mg you have to register we did that with this drone and the next drone I'll show...
@@ -242,8 +254,16 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=633s)  _(term: drone, unreviewed)_
 
 - **[2024-05-28] Board of Education** -- East Granby Board of Education - 05-28-24
+  > ...took those with a phantom and then the one at the bottom right I took a my drone that was our baseball field no that was the one that was the little leag field okay I say it look I say it...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=834s)  _(term: drone, unreviewed)_
+
+- **[2024-05-28] Board of Education** -- East Granby Board of Education - 05-28-24
   > ...modern as drones are I went through a lot of challenges I mean flying a drone is a challenge in itself cuz it's taking off it's danger it can be dangerous if you don't know...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=610s)  _(term: drone, unreviewed)_
+
+- **[2024-05-28] Board of Education** -- East Granby Board of Education - 05-28-24
+  > ...taken at the same spot um I took all of them besides the bottom left with my drone and the bottom [Music] is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=899s)  _(term: drone, unreviewed)_
 
 - **[2024-05-28] Board of Education** -- East Granby Board of Education - 05-28-24
   > ...I was inspired by the Drone course with Miss mun um to help the Community with My Capstone I took drone videos and pictures of the school and made a virtual tour out of the video um and...
@@ -254,8 +274,8 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=565s)  _(term: drone, unreviewed)_
 
 - **[2024-05-28] Board of Education** -- East Granby Board of Education - 05-28-24
-  > ...drone over 250 mg you have to register we did that with this drone and the next drone I'll show you I use that for some of the outside clips that I've gotten at the high...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=704s)  _(term: drone, unreviewed)_
+  > ...really another company out there um any drone over 250 mg you have to register we did that with this drone and the next drone I'll show you I use that for some of the outside...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ddTuvDJ7FBc&t=701s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -429,8 +449,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 12
-- Videos registered: 234 (fetched: 227, no captions: 3)
-- Date range covered: 2014-04-09 to 2026-09-09 (all 234 videos dated)
+- Videos registered: 240 (fetched: 234, no captions: 2)
+- Date range covered: 2014-04-09 to 2026-09-23 (all 240 videos dated)
 
 
 ### Channels
@@ -444,18 +464,17 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| gctv16 | streams | 2026-09-10 11:40:20.054934 | 1 |
-| gctv16 | videos | 2026-09-10 11:40:19.331062 | 782 |
+| gctv16 | videos | 2026-09-25 15:08:03.353670 | 796 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 36 |
-| Board of Education | education | True | 50 |
-| School Building Committee | education | True | 1 |
-| Board of Selectmen | other | True | 45 |
+| Board of Finance | budget_finance | True | 37 |
+| Board of Education | education | True | 51 |
+| School Building Committee | education | True | 2 |
+| Board of Selectmen | other | True | 47 |
 | Commission on Aging | other | True | 23 |
 | Economic Development Commission | other | True | 17 |
 | Inland Wetlands Conservation Commission | other | True | 14 |
@@ -463,7 +482,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Planning & Zoning Commission | other | True | 25 |
 | Shared Services Committee | other | True | 1 |
 | Town Meeting | other | True | 15 |
-| Water Pollution Control Authority | other | True | 4 |
+| Water Pollution Control Authority | other | True | 5 |
 
 
 ## Agenda/minutes coverage
@@ -494,18 +513,19 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (3 shown, max 25)
+### Videos with no captions available (2 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| East Granby Plan of Conservation & Development - 09-08-26 | 2026-09-08 |
 | East Granby Commission on Aging - 10-07-25 | 2025-10-07 |
 | East Granby BOE presents, "Your Schools 2015-2016" Episode #2 | 2015-12-23 |
 
 
 ### Tabs never crawled
 
-*(none)*
+| channel | tab |
+| --- | --- |
+| GCTV16 | streams |
 
 
 ## Get the full transcripts
@@ -542,5 +562,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:50:25 from East Granby's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:53:28 from East Granby's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

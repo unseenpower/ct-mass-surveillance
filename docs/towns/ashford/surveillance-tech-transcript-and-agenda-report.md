@@ -1,9 +1,9 @@
 # Surveillance-tech report: Ashford
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,16 +14,16 @@
 
 ## At a glance: Ashford
 
-<p class="glance-headline"><strong>8 mentions</strong> of surveillance technology in <strong>6</strong> Ashford meetings, 2020–2024</p>
+<p class="glance-headline"><strong>10 mentions</strong> of surveillance technology in <strong>8</strong> Ashford meetings, 2020–2024</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">8</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 6 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">10</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 8 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2020–2024</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2020-05-29 → 2024-10-21</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones, Predictive policing</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">49%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">228 of 467 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">65%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">307 of 471 meetings</span></a>
 </div>
 
-**Still incomplete:** 239 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+**Still incomplete:** 164 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **Ashford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -51,19 +51,19 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| [Drones](#drone) | 7 | 5 | 2020-11-10 | 2024-10-21 |
-| [Predictive policing](#predictive_policing) | 1 | 1 | 2020-05-29 | 2020-05-29 |
+| [Drones](#drone) | 8 | 6 | 2020-11-10 | 2024-10-21 |
+| [Predictive policing](#predictive_policing) | 2 | 2 | 2020-05-29 | 2022-10-03 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-6 meetings surfaced a finding (6 dated, spanning 2020-05-29 to 2024-10-21; 0 of unknown date, listed last). Newest first.
+8 meetings surfaced a finding (8 dated, spanning 2020-05-29 to 2024-10-21; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2024-10-21.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2024-10-21.*
 
-??? note "Earlier meetings (6)"
+??? note "Earlier meetings (8)"
 
     **2024-10-21 -- Board of Selectmen**
 
@@ -88,6 +88,18 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
     **Conservation Commission, February 27, 2023** _(topics: drone)_
 
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=wVnmwad_lcU&t=1962s)  > ...caustic chemicals oh I didn't know that you can see if if you can go to Google Maps there's a kind of drone shot or whatever you can see there's all kinds of crap all behind it it's right and...
+
+    **2022-10-03 -- Our Town Our Future**
+
+    **Our Town Our Future, October 3, 2022** _(topics: predictive_policing)_
+
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=eeE4tST7XS4&t=402s)  > ...I don't think it was a shoe factory behind a church there there was um some type of a Foundry but there was also a blacksmith shop and the Westford Bottleworks down on waterfall on the...
+
+    **2022-04-21 -- Agricultural Commission**
+
+    **Agricultural Commission, April 21, 2022** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=51Zhucio9do&t=4961s)  > ...okay me too i have a drone too guys so both paul and nick have drones you guys can fly...
 
     **2020-11-10 -- Planning & Zoning Commission**
 
@@ -164,6 +176,10 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   > ...caustic chemicals oh I didn't know that you can see if if you can go to Google Maps there's a kind of drone shot or whatever you can see there's all kinds of crap all behind it it's right and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=wVnmwad_lcU&t=1962s)  _(term: drone, unreviewed)_
 
+- **[2022-04-21] Agricultural Commission** -- Agricultural Commission, April 21, 2022
+  > ...okay me too i have a drone too guys so both paul and nick have drones you guys can fly...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=51Zhucio9do&t=4961s)  _(term: drone, unreviewed)_
+
 - **[2020-11-10] Planning & Zoning Commission** -- Planning and Zoning Commission 110920
   > ...size building we're talking about so maybe maybe a drone drone footage of that kind of place would be important to see yeah maybe the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=K1cIoTyDbWI&t=5420s)  _(term: drone, unreviewed)_
@@ -198,6 +214,10 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 
 ### predictive_policing
+
+- **[2022-10-03] Our Town Our Future** -- Our Town Our Future, October 3, 2022
+  > ...I don't think it was a shoe factory behind a church there there was um some type of a Foundry but there was also a blacksmith shop and the Westford Bottleworks down on waterfall on the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eeE4tST7XS4&t=402s)  _(term: predictive_policing, unreviewed)_
 
 - **[2020-05-29] Board of Finance** -- Ashford Board of Finance Special Meeting 2020 0506
   > ...May 20th 2020 to be held virtually I need a I need a motion and a second this is Gotham I'll make a motion that we increase their budget by the 90,000 like we discussed...
@@ -346,8 +366,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 14
-- Videos registered: 467 (fetched: 228, no captions: 2)
-- Date range covered: 2020-04-06 to 2026-08-27 (all 467 videos dated)
+- Videos registered: 471 (fetched: 307, no captions: 2)
+- Date range covered: 2020-04-06 to 2026-09-24 (all 471 videos dated)
 
 
 ### Channels
@@ -361,24 +381,24 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| ashford_ct | videos | 2026-09-10 13:33:33.920679 | 482 |
+| ashford_ct | videos | 2026-09-25 15:16:30.032488 | 486 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 116 |
+| Board of Finance | budget_finance | True | 117 |
 | Capital Improvement Committee | budget_finance | True | 6 |
 | School Building/Roof Committee | education | True | 5 |
 | Agricultural Commission | other | True | 8 |
-| Board of Selectmen | other | True | 149 |
+| Board of Selectmen | other | True | 150 |
 | Conservation Commission | other | True | 25 |
 | Economic Development Commission | other | True | 13 |
 | Inland Wetlands and Watercourses Commission | other | True | 15 |
 | Library Board | other | True | 6 |
-| Our Town Our Future | other | True | 36 |
-| Planning & Zoning Commission | other | True | 63 |
+| Our Town Our Future | other | True | 37 |
+| Planning & Zoning Commission | other | True | 64 |
 | Recreation Commission | other | True | 8 |
 | Special Town Meeting | other | True | 12 |
 | Zoning Board of Appeals | other | True | 5 |
@@ -387,8 +407,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 250 (fetched: 246)
-- Date range covered: 2026-01-05 to 2026-09-14
+- Documents registered: 263 (fetched: 259)
+- Date range covered: 2026-01-05 to 2026-09-28
 
 
 ### Agenda sources
@@ -460,5 +480,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:46:43 from Ashford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:48:53 from Ashford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

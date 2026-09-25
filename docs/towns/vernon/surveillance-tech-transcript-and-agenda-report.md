@@ -1,9 +1,9 @@
 # Surveillance-tech report: Vernon
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,18 +14,23 @@
 
 ## At a glance: Vernon
 
-<p class="glance-headline"><strong>12,909 licence-plate searches</strong> by Vernon police in six towns' released Flock logs</p>
+<p class="glance-headline"><strong>1 mention</strong> of surveillance technology in <strong>1</strong> Vernon meeting, 2026</p>
 
 <div class="glance-grid">
+<a class="glance-card" href="#timeline"><span class="gc-big">1</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 1 meeting · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2026-09-15 → 2026-09-15</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Facial recognition</span></a>
 <a class="glance-card" href="../../../analysis/towns/vernon-alpr-searches.html"><span class="gc-big">12,909</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Vernon police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">41%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">35 of 86 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">41%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">36 of 88 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2023-05-16**, but Vernon's published video archive goes back to **2021-08-17**. Meetings before 2023 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 This report collects every mention of surveillance technology found in **Vernon**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-**No surveillance-technology mentions have been found in this town's meetings yet.** That is not the same as none existing -- read the coverage note below, and [Gaps and caveats](#gaps-and-caveats), before treating this as an answer about the town.
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
+
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
@@ -66,14 +71,24 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 **Back to the meetings.** Everything above this point was about licence-plate *searches* -- what the town's police looked up. Everything below is about what was *said*: each mention is a moment in a recorded public meeting where a surveillance technology came up, with a link to that moment in the video.
 
-*No surveillance-technology mentions found in this town's transcribed meetings yet.*
+| Topic | Mentions | Meetings | First seen | Most recent |
+| --- | --- | --- | --- | --- |
+| [Facial recognition](#facial_recognition) | 1 | 1 | 2026-09-15 | 2026-09-15 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-No meetings have surfaced a finding yet.
+1 meetings surfaced a finding (1 dated, spanning 2026-09-15 to 2026-09-15; 0 of unknown date, listed last). Newest first.
+
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+
+### 2026-09-15 -- Town Council
+
+**The Tuesday, September 15, 2026 Town Council meeting of the Town of Vernon, Connecticut.** _(topics: facial_recognition)_
+
+- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=U4FfzrA1BiU&t=726s)  > ...infrastructure of the cameras that needs to be removed. facial recognition or audio for the data for now. Several towns and cities across the...
 
 
 ## Findings by topic
@@ -125,7 +140,9 @@ No meetings have surfaced a finding yet.
 
 ### facial_recognition
 
-*(no findings)*
+- **[2026-09-15] Town Council** -- The Tuesday, September 15, 2026 Town Council meeting of the Town of Vernon, Connecticut.
+  > ...infrastructure of the cameras that needs to be removed. facial recognition or audio for the data for now. Several towns and cities across the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=U4FfzrA1BiU&t=726s)  _(term: facial_recognition, unreviewed)_
 
 
 ### gunshot_detection
@@ -290,8 +307,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 7
-- Videos registered: 86 (fetched: 35, no captions: 27)
-- Date range covered: 2021-08-17 to 2026-08-18 — **based on the 84 of 86 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 88 (fetched: 36, no captions: 27)
+- Date range covered: 2021-08-17 to 2026-09-15 — **based on the 86 of 88 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -305,15 +322,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| vernon_ct | streams | 2026-09-10 13:33:07.590243 | 56 |
-| vernon_ct | videos | 2026-09-10 13:33:06.386852 | 83 |
+| vernon_ct | streams | 2026-09-25 15:44:31.536291 | 56 |
+| vernon_ct | videos | 2026-09-25 15:44:30.212391 | 85 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Town Council | council | True | 86 |
+| Town Council | council | True | 88 |
 | Board of Education | education | True | 0 |
 | Board of Assessment Appeals | other | True | 0 |
 | Inland Wetlands Regulatory Commission | other | True | 0 |
@@ -421,5 +438,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:03:54 from Vernon's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:10:26 from Vernon's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

@@ -1,9 +1,9 @@
 # Surveillance-tech report: East Lyme
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,15 +14,15 @@
 
 ## At a glance: East Lyme
 
-<p class="glance-headline"><strong>205 mentions</strong> of surveillance technology in <strong>44</strong> East Lyme meetings, 2018–2026</p>
+<p class="glance-headline"><strong>215 mentions</strong> of surveillance technology in <strong>46</strong> East Lyme meetings, 2018–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">205</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 44 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2018–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2018-08-01 → 2026-09-09</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">215</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 46 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2018–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2018-08-01 → 2026-09-16</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">6</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Doorbell-camera partnerships, Drones, Facial recognition, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/east-lyme-alpr-searches.html"><span class="gc-big">4,137</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by East Lyme police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">95%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">1,228 of 1,291 meetings</span></a>
-<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">34</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">95%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">1,233 of 1,295 meetings</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">38</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
 This report collects every mention of surveillance technology found in **East Lyme**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
@@ -72,11 +72,11 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| [ALPR / Flock](#alpr) | 128 | 15 | 2022-11-07 | 2026-09-09 |
+| [ALPR / Flock](#alpr) | 134 | 17 | 2022-11-07 | 2026-09-16 |
 | [Body cameras](#body_camera) | 25 | 15 | 2020-07-20 | 2026-03-09 |
 | [Doorbell-camera partnerships](#doorbell_partnership) | 1 | 1 | 2020-11-12 | 2020-11-12 |
 | [Drones](#drone) | 44 | 15 | 2018-08-01 | 2026-03-11 |
-| [Facial recognition](#facial_recognition) | 2 | 2 | 2026-05-18 | 2026-08-05 |
+| [Facial recognition](#facial_recognition) | 6 | 3 | 2026-05-18 | 2026-09-16 |
 | [General surveillance](#surveillance_general) | 5 | 4 | 2020-07-20 | 2026-08-12 |
 
 
@@ -84,9 +84,29 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 <!-- report-polish v1 -->
 
-44 meetings surfaced a finding (44 dated, spanning 2018-08-01 to 2026-09-09; 0 of unknown date, listed last). Newest first.
+46 meetings surfaced a finding (46 dated, spanning 2018-08-01 to 2026-09-16; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-25** (through 2026-09-10, when this report was generated):
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+
+### 2026-09-16 -- Board of Selectmen
+
+**East Lyme, CT Board of Selectmen - Public Hearing 09/16/2026** _(topics: alpr, facial_recognition)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=216s)  > ...for each citation. So, the speed enforcement program is not an automated license plate reader program. This has nothing to do with the flock technology or any other license...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=221s)  > ...an automated license plate reader program. This has nothing to do with the flock technology or any other license plate reader technology. Does not capture images of every plate or every...
+- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=251s)  > ...Um these cameras do not detect sound. They don't track cars. They don't use facial recognition. Uh they do not photograph drivers. The information that's gathered is not shared or sold....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=2802s)  > ...that. We're not discussing that tonight, but I also happen to favor what are called flock cameras because if you go to New York City, you're going to be in the camera no matter where you are. If...
+- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=3091s)  > ...Department put up um all types of camera technologies uh both in terms of speed, red light, facial recognition, license plate recognition and whatnot. Um, I can tell you as again I have no skin in the...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=3176s)  > ...put out through the internet through our mobile phones will far exceed any data that a camera system even a flock camera system which is not the topic tonight um will uh you know will combine up and and...
+- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=3380s)  > ...children, adults, men, women, um, puppy dogs, kittens, everything out there. I'm for facial recognition, license plate recognition, whatever you can, whatever you have. I do understand...
+- `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=3457s)  > ...departments also helping. But we need we need more. I feel that you really need more facial recognition. You need more license plate recognition to stop whatever is coming into our...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=4034s)  > ...Speder. Now the sixth time I've spoken against the surveillance devices, whether it's a speed camera, flock, whatever. Totally totally in agreement. That's against your Fourth Amendment...
+
+### 2026-09-16 -- Board of Selectmen
+
+**East Lyme, CT Board of Selectmen 09/16/2026** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FbG8ePtxl1g&t=3227s)  > ...commission the other night, but uh you know, there was just a lot of discussion about the flock cameras. That's all I have to offer. Um >> the zoning commission meets tomorrow...
 
 ### 2026-09-09 -- Board of Finance
 
@@ -188,7 +208,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1451s)  > ...this size. We've had major cities Los Angeles a month ago uh withdrew uh their flock camera system Virginia at the behest of their citizens withdrew from uh flock camera systems and Garrett...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1457s)  > ...uh their flock camera system Virginia at the behest of their citizens withdrew from uh flock camera systems and Garrett Langley as others have pointed out the CEO of Flock called them terrorist wrote...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1464s)  > ...from uh flock camera systems and Garrett Langley as others have pointed out the CEO of Flock called them terrorist wrote a letter to the police chief in St Virginia uh indicating he was being uh...
-    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1608s)  > ...>> Burba Mukherji Five Peach Lane. Um, I was wondering now that there is such a big movement against uh the flock cameras all over the United States, I wouldn't be surprised if um folks like...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1608s)  > ...>> Burba Mukherji [address redacted]. Um, I was wondering now that there is such a big movement against uh the flock cameras all over the United States, I wouldn't be surprised if um folks like...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1629s)  > ...question of technology and um improvement in technology. What is to stop a company like Flock or some other company um to deploy drones for example um to surveil towns? So my question is...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1647s)  > ...broader. Um a as as we learn this lesson and perhaps give people the right to take down flock uh give people like you our representatives to take down the flock. What happens in the future uh...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1652s)  > ...take down flock uh give people like you our representatives to take down the flock. What happens in the future uh when the next technology comes along? Um what is the safeguard there so that...
@@ -525,17 +545,33 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### alpr
 
-- **[2026-09-09] Board of Finance** -- East Lyme, CT Board of Finance 09/09/2026
-  > ...there's a public hearing on the speed cameras. And the speed cameras are different than the ALPR flack cameras. Um, they work differently. They don't retain the data the way the flack does....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ekQMzQ4GrSw&t=249s)  _(term: alpr_flock, unreviewed)_
+- **[2026-09-16] Board of Selectmen** -- East Lyme, CT Board of Selectmen - Public Hearing 09/16/2026
+  > ...that. We're not discussing that tonight, but I also happen to favor what are called flock cameras because if you go to New York City, you're going to be in the camera no matter where you are. If...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=2802s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-16] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/16/2026
+  > ...commission the other night, but uh you know, there was just a lot of discussion about the flock cameras. That's all I have to offer. Um >> the zoning commission meets tomorrow...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=FbG8ePtxl1g&t=3227s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-16] Board of Selectmen** -- East Lyme, CT Board of Selectmen - Public Hearing 09/16/2026
+  > ...Speder. Now the sixth time I've spoken against the surveillance devices, whether it's a speed camera, flock, whatever. Totally totally in agreement. That's against your Fourth Amendment...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=4034s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-16] Board of Selectmen** -- East Lyme, CT Board of Selectmen - Public Hearing 09/16/2026
+  > ...an automated license plate reader program. This has nothing to do with the flock technology or any other license plate reader technology. Does not capture images of every plate or every...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=221s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-16] Board of Selectmen** -- East Lyme, CT Board of Selectmen - Public Hearing 09/16/2026
+  > ...put out through the internet through our mobile phones will far exceed any data that a camera system even a flock camera system which is not the topic tonight um will uh you know will combine up and and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=3176s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-16] Board of Selectmen** -- East Lyme, CT Board of Selectmen - Public Hearing 09/16/2026
+  > ...for each citation. So, the speed enforcement program is not an automated license plate reader program. This has nothing to do with the flock technology or any other license...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=216s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-09] Board of Finance** -- East Lyme, CT Board of Finance 09/09/2026
   > ...>> I mean, you know, people coming the two and someone will probably respond at that hearing um about flock cameras, but I'm hoping people will focus on the speed cameras and what their attitudes...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ekQMzQ4GrSw&t=296s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-09] Board of Finance** -- East Lyme, CT Board of Finance 09/09/2026
-  > ...right along. Um, as I think everybody knows and reading the newspaper, the ALPR, which is referred to as flock cameras, flock is like Xerox. It's, you know, ALPR is is is the camera type of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ekQMzQ4GrSw&t=198s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-09] Board of Finance** -- East Lyme, CT Board of Finance 09/09/2026
   > ...>> No, not at this. Do you anticipate there be discussion at the speed camera discussion about flock or >> I mean, you know, people coming the two and someone will probably respond at...
@@ -546,68 +582,40 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ekQMzQ4GrSw&t=201s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-09] Board of Finance** -- East Lyme, CT Board of Finance 09/09/2026
-  > ...ALPR, which is referred to as flock cameras, flock is like Xerox. It's, you know, ALPR is is is the camera type of um, so there's it's been a hot topic. There's been a lot of discussion. Uh,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ekQMzQ4GrSw&t=203s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-09] Board of Finance** -- East Lyme, CT Board of Finance 09/09/2026
   > ...>> on on the speed cameras. >> Is there anything specific additionally for the flock cameras? >> No, not at this. Do you anticipate there be discussion at the speed camera...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ekQMzQ4GrSw&t=284s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...purveyors of of the uh automated license plate reader uh systems, whether it's Flock or Axon. And with that information, I would again heartily and strongly recommend that we consider...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1804s)  _(term: alpr_flock, unreviewed)_
+- **[2026-09-09] Board of Finance** -- East Lyme, CT Board of Finance 09/09/2026
+  > ...there's a public hearing on the speed cameras. And the speed cameras are different than the ALPR flack cameras. Um, they work differently. They don't retain the data the way the flack does....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ekQMzQ4GrSw&t=249s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-09] Board of Finance** -- East Lyme, CT Board of Finance 09/09/2026
+  > ...right along. Um, as I think everybody knows and reading the newspaper, the ALPR, which is referred to as flock cameras, flock is like Xerox. It's, you know, ALPR is is is the camera type of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ekQMzQ4GrSw&t=198s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-09] Board of Finance** -- East Lyme, CT Board of Finance 09/09/2026
+  > ...ALPR, which is referred to as flock cameras, flock is like Xerox. It's, you know, ALPR is is is the camera type of um, so there's it's been a hot topic. There's been a lot of discussion. Uh,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ekQMzQ4GrSw&t=203s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...>> Thanks, Brian. Alan Buckolds 11 McKinnon please following on the flock camera. >> I didn't hear it. >> Alan Buck Holds 11 McKinnon please....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1646s)  _(term: alpr_flock, unreviewed)_
+  > ...>> Did you fill the phone off? >> I will. Um following on the flock camera system. I'm I'm here to make two comments. one um I'm not a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1657s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...>> just a clarification, are you speaking of automated plate readers or are you speaking of flock cameras? >> Automated license plate readers are flock cameras....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=886s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...only thing that I have concerned about the I never even thought about these flock cameras that you're talking about. Everything in my life has been hacked. So, it's all out there. My concern about...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=2545s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...of automated plate readers or are you speaking of flock cameras? >> Automated license plate readers are flock cameras. >> They have different technologies. That's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=888s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...$10,000 limit um for for appropriations. Um it it appears that may have the funds that were expended for the flock cameras in 2023 came out of an IT budget. Um yes, there were $3,000 a camera, but...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=2247s)  _(term: alpr_flock, unreviewed)_
+  > ...Connecticut follow suit with the state of Florida and remove flock cameras or any license plate reader from state roads and highways. That would in fact include the three that are ex uh extent...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1819s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
   > ...speaking of flock cameras? >> Automated license plate readers are flock cameras. >> They have different technologies. That's why I asked for clarification of what...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=890s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...great advice and I try to do that on a daily basis not to be a slime ball. Um Flock and all these surveillance technology companies are slime balls and this is why they're slime balls. They...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=2131s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...so back in early January, February when we were discussing the speed cameras initially um the idea of of the flock cameras came up through our discussions and uh through a series of votes and a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=6063s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
   > ...>> across the board. Yes. Okay. Just >> I'm not speaking about speed cameras. They are separate from automated license plate readers. >> I got Thank you....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=902s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...>> Thank you. >> Hi uh Lisa Row Wthbun Road Niantic. Uh back to flock. Uh I agree with points that were made here. I too am against them the surveillance. Um, but there's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=2025s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...encourage everyone that there are a lot of questions about what is happening right now with the automated license plate readers. I would encourage everyone in the town to be as educated...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=866s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
   > ...Manwearing. I live at [address redacted] in Nyanic. And I'm also here to speak about the use of Flock surveillance cameras and really surveillance cameras in general, not...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=990s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...Connecticut follow suit with the state of Florida and remove flock cameras or any license plate reader from state roads and highways. That would in fact include the three that are ex uh extent...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1819s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
   > ...surveillance cameras and really surveillance cameras in general, not just Flock as a brand, which I think is something important to bring up. Uh I spoke at the meeting a few weeks ago and...
@@ -618,92 +626,128 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1101s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...removal. I would ask that the state of Connecticut follow suit with the state of Florida and remove flock cameras or any license plate reader from state roads and highways. That would in fact...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1816s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...front of you. Data usage and licensing 4.1 customer data as between flock and customer. All right, title and interest in and to customer data belong to and are retained...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1551s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
   > ...being followed. And finally, I want to emphasize again that my concern is not simply with Flock as a company. The concern is with the technology and the level of surveillance that it enables...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1151s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...those retention periods of data. Three, how do we know that the ESL data has been deleted from the Flock databases as well as the license plate images? At this point, we don't even understand how...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1532s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...customer data belong to and are retained by customer. customer hereby grants to flock a limited non-exclusive royalty-free irrevocable perpetual worldwide license...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1561s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
   > ...And as I mentioned, right, it's not just Faulk as a company. Tempe, Arizona, for example, removed Flock cameras, but then they moved towards another vendor's license plate reader technology, just...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1201s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...and reside there. as far as we know, in perpetuity, despite what what uh the purveyors of of the uh automated license plate reader uh systems, whether it's Flock or Axon. And with that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1799s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...Everything in my life has been hacked. So, it's all out there. My concern about not having the flock cameras out there. I think of Amber Alerts that they can actually save a child's life. Again, an...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=2552s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...irrevocable perpetual worldwide license to a use and disclose customer data to provide flock services and b use customer data to support and improve flocks products and services....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1573s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...5% to the point that was made where a low crime area. the the use of flock to really monitor things and impact or affect crime in this town is is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1763s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...flocks products and services. This states that lime is forced to permit Flock to use our data. For anyone who is satisfied with the terms, it's important to note the following. One,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1584s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
   > ...example, removed Flock cameras, but then they moved towards another vendor's license plate reader technology, just swapping out a different company with Flock. I don't want to see us spend...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1205s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...counties in Florida uh without being requested have followed suit and remove their flock cameras because all all the points that have been made here so far tonight. The second point that I'll...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1702s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...who is satisfied with the terms, it's important to note the following. One, flock selling the data isn't the issue. They don't have to sell our data. They can sell access to their database....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1592s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
   > ...license plate reader technology, just swapping out a different company with Flock. I don't want to see us spend months debating Flock, remove those cameras, and then simply replace them...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1208s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...have to applaud the state of Florida and Ron Desantis for the recent decision to eliminate flock or APR automated license plate readers from all state highways and roads. And a follow on to that has...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1677s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...can sell access to their database. The town of East Lime has been forced to give access to flock of our data. So, what the town is actually doing is using our residents as products....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1602s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
   > ...swapping out a different company with Flock. I don't want to see us spend months debating Flock, remove those cameras, and then simply replace them with another company's cameras that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1210s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...>> Did you fill the phone off? >> I will. Um following on the flock camera system. I'm I'm here to make two comments. one um I'm not a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1657s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
-  > ...What I've learned is that we don't believe East Lime owns the data collected by these flock cameras. There's been discussion about guard rails and a new law about data...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1503s)  _(term: alpr_flock, unreviewed)_
+  > ...counties in Florida uh without being requested have followed suit and remove their flock cameras because all all the points that have been made here so far tonight. The second point that I'll...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1702s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
   > ...next handout. This is the taken from the user agreement for flock camera. >> Thank you. What I've learned is that we don't...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1460s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...5% to the point that was made where a low crime area. the the use of flock to really monitor things and impact or affect crime in this town is is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1763s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...What I've learned is that we don't believe East Lime owns the data collected by these flock cameras. There's been discussion about guard rails and a new law about data...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1503s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...>> just a clarification, are you speaking of automated plate readers or are you speaking of flock cameras? >> Automated license plate readers are flock cameras....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=886s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...and reside there. as far as we know, in perpetuity, despite what what uh the purveyors of of the uh automated license plate reader uh systems, whether it's Flock or Axon. And with that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1799s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...purveyors of of the uh automated license plate reader uh systems, whether it's Flock or Axon. And with that information, I would again heartily and strongly recommend that we consider...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1804s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...so back in early January, February when we were discussing the speed cameras initially um the idea of of the flock cameras came up through our discussions and uh through a series of votes and a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=6063s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...removal. I would ask that the state of Connecticut follow suit with the state of Florida and remove flock cameras or any license plate reader from state roads and highways. That would in fact...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1816s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
   > ...>> But one, given that we don't control or even have view access of the KMS encryption keys. Two, Flock has always been the party responsible for setting those retention periods of data. Three,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1521s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...Everything in my life has been hacked. So, it's all out there. My concern about not having the flock cameras out there. I think of Amber Alerts that they can actually save a child's life. Again, an...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=2552s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...of automated plate readers or are you speaking of flock cameras? >> Automated license plate readers are flock cameras. >> They have different technologies. That's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=888s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...those retention periods of data. Three, how do we know that the ESL data has been deleted from the Flock databases as well as the license plate images? At this point, we don't even understand how...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1532s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...only thing that I have concerned about the I never even thought about these flock cameras that you're talking about. Everything in my life has been hacked. So, it's all out there. My concern about...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=2545s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...encourage everyone that there are a lot of questions about what is happening right now with the automated license plate readers. I would encourage everyone in the town to be as educated...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=866s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...front of you. Data usage and licensing 4.1 customer data as between flock and customer. All right, title and interest in and to customer data belong to and are retained...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1551s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...$10,000 limit um for for appropriations. Um it it appears that may have the funds that were expended for the flock cameras in 2023 came out of an IT budget. Um yes, there were $3,000 a camera, but...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=2247s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...>> Thanks, Brian. Alan Buckolds 11 McKinnon please following on the flock camera. >> I didn't hear it. >> Alan Buck Holds 11 McKinnon please....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1646s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...customer data belong to and are retained by customer. customer hereby grants to flock a limited non-exclusive royalty-free irrevocable perpetual worldwide license...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1561s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...great advice and I try to do that on a daily basis not to be a slime ball. Um Flock and all these surveillance technology companies are slime balls and this is why they're slime balls. They...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=2131s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...irrevocable perpetual worldwide license to a use and disclose customer data to provide flock services and b use customer data to support and improve flocks products and services....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1573s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...flocks products and services. This states that lime is forced to permit Flock to use our data. For anyone who is satisfied with the terms, it's important to note the following. One,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1584s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...>> Thank you. >> Hi uh Lisa Row Wthbun Road Niantic. Uh back to flock. Uh I agree with points that were made here. I too am against them the surveillance. Um, but there's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=2025s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...who is satisfied with the terms, it's important to note the following. One, flock selling the data isn't the issue. They don't have to sell our data. They can sell access to their database....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1592s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...can sell access to their database. The town of East Lime has been forced to give access to flock of our data. So, what the town is actually doing is using our residents as products....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1602s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen 09/02/2026
+  > ...have to applaud the state of Florida and Ron Desantis for the recent decision to eliminate flock or APR automated license plate readers from all state highways and roads. And a follow on to that has...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TtBA2chcKi4&t=1677s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-12] Board of Finance** -- East Lyme, CT Board of Finance 08/12/2026
   > ...of things. Um yesterday, uh you know, there's been a lot of discussion about flock cameras and al uh PR ALP, yeah, automatic license plate, ALPR, uh...
@@ -714,12 +758,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=148s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-12] Board of Finance** -- East Lyme, CT Board of Finance 08/12/2026
-  > ...>> So, right now they're still moving forward. So, there's an important distinction between the flock cameras and the speed cameras and um they're vastly different when you start getting...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=372s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-12] Board of Finance** -- East Lyme, CT Board of Finance 08/12/2026
   > ...two types of surveillance. There are the speed cameras and then there are the the flock system and they are separate and distinct as far as I understand. >> Yes. And what's distinct is the the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=430s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-12] Board of Finance** -- East Lyme, CT Board of Finance 08/12/2026
+  > ...nature of how they the length of time they store the data and the data itself. Uh a flock camera as I understand it and that's saying flock is like saying Xerox. Xerox is a copy machine, right?...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=444s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-12] Board of Finance** -- East Lyme, CT Board of Finance 08/12/2026
   > ...they store the data and the data itself. Uh a flock camera as I understand it and that's saying flock is like saying Xerox. Xerox is a copy machine, right? >> Flock is a is a u you know surveillance...
@@ -730,152 +774,148 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=451s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-12] Board of Finance** -- East Lyme, CT Board of Finance 08/12/2026
-  > ...nature of how they the length of time they store the data and the data itself. Uh a flock camera as I understand it and that's saying flock is like saying Xerox. Xerox is a copy machine, right?...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=444s)  _(term: alpr_flock, unreviewed)_
+  > ...>> So, right now they're still moving forward. So, there's an important distinction between the flock cameras and the speed cameras and um they're vastly different when you start getting...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=U2xCiUv214s&t=372s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-10] Board of Education** -- Board of Education: August 10th, 2026
   > ...next time through and things like that. So that's I think the Fairfield kind of a flock cameras. >> Do we have any any scam? >> We do. Uh, we have four from what I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tIPDN37mFKo&t=305s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...broader. Um a as as we learn this lesson and perhaps give people the right to take down flock uh give people like you our representatives to take down the flock. What happens in the future uh...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1647s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...we the people have signed no such contract with you the police department. or flock. Uh, and Dan, there's also many ways to uh effectively block your cell phone...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1120s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...uh their flock camera system Virginia at the behest of their citizens withdrew from uh flock camera systems and Garrett Langley as others have pointed out the CEO of Flock called them terrorist wrote...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1457s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...Lowe's [clears throat] or I go to Walmart and I'm aware that there are flock cameras there, I have a choice to shop at those places. I don't have that choice to drive in into Watford from uh...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1409s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...from uh flock camera systems and Garrett Langley as others have pointed out the CEO of Flock called them terrorist wrote a letter to the police chief in St Virginia uh indicating he was being uh...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1464s)  _(term: alpr_flock, unreviewed)_
+  > ...protect freedom and liberty for oligarchs like Garrett Langley, the CEO and co-founder of Flock Safety, who's yet another 30-something tech billionaire with a quick and profitable...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=998s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
   > ...take down flock uh give people like you our representatives to take down the flock. What happens in the future uh when the next technology comes along? Um what is the safeguard there so that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1652s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...representatives today. um you will respect us and hopefully take down the flock cameras, but whoever takes over from you, what's the institutional memory of this? What will be in place a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1666s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...>> I would be more than happy to do that. Um, and then turning more towards the the flock, which I think a lot of people are here to discuss, which are even worse than the speed cameras by far. Um,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=451s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...the country, there have been numerous documented cases of officers improperly accessing license plate reader systems for personal reasons outside of the scope of legitimate investigations. So,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=188s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...>> Burba Mukherji Five Peach Lane. Um, I was wondering now that there is such a big movement against uh the flock cameras all over the United States, I wouldn't be surprised if um folks like...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1608s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...briefly talk about um the youth mental health crisis. And I think that these flock cameras are simply just going to be the cherry on top of the cocktail of nightmares that we are serving to the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1728s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...question of technology and um improvement in technology. What is to stop a company like Flock or some other company um to deploy drones for example um to surveil towns? So my question is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1629s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...brief summary of some of your relevant experience. I won't talk about flock cameras. [laughter] >> Thank you. Hey, you had your chance....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=3206s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...of this meeting until my son informed me about an hour ago. And my issues with flock camera have been enumerated by a number of the folks here. I didn't hear everyone. But one of the things that I'm...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1349s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...you know, there's there's two different there's there's a lot of confusion between speed cameras and flock cameras and, you know, concern that there's overlap between the two and how is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=5554s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...there's been a lot of stories about, as we've just heard, um, people accessing flock cameras and using it for not such great deeds. We've had there's there's a scenario going around online where a new...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=278s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...today. In addition to any of the other surveillance technology that's out there uh including but not limited to flock. There's other things, Axon, um, all sorts of different new WHAM,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=350s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...follow the ACLU guidelines, which is asking for a statewide moratorum on license plate readers and flock cameras citing mass surveillance and privacy risks. The organization field public...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1195s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
   > ...cameras. It came out that there were several flock cameras in East Line. And I've been on the board for I don't know how many years. I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=5593s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...bit um disingenuous. Um, and that was exposed when when it was discovered that Flock was essentially giving these handbooks out to police departments, basically telling them how to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=654s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...hit the highlights maybe. Um, you know, I think, um, one of the big questions with these flock cameras is are they actually even legal, especially under the recent Supreme Court president? Um,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=505s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...>> Good evening. My name is Alex Manoring, [address redacted], and I would also like to speak on the topic of the flock safety cameras. I understand these cameras can be a very useful...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=167s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...data retention policy public as well as the findings of those audits public and the overall flock use policy? Because I think technology that can track the movements of thousands of law-abiding...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=233s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...Um, uh, gosh, I I will say I'm also against flock, which is why I'm here today. I just, um, I've been noticing it popping around. Um, I' I think there's one near...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=264s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
-  > ...protect freedom and liberty for oligarchs like Garrett Langley, the CEO and co-founder of Flock Safety, who's yet another 30-something tech billionaire with a quick and profitable...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=998s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
   > ...tonight because when I was visiting my son Jesse in Manhattan, he pointed out the flock cameras to me and we pulled up the website and saw where they are in East Lime. Shortly thereafter, I noticed...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=132s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...the country, there have been numerous documented cases of officers improperly accessing license plate reader systems for personal reasons outside of the scope of legitimate investigations. So,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=188s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...we the people have signed no such contract with you the police department. or flock. Uh, and Dan, there's also many ways to uh effectively block your cell phone...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1120s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...Um, uh, gosh, I I will say I'm also against flock, which is why I'm here today. I just, um, I've been noticing it popping around. Um, I' I think there's one near...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=264s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...follow the ACLU guidelines, which is asking for a statewide moratorum on license plate readers and flock cameras citing mass surveillance and privacy risks. The organization field public...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1195s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...there's been a lot of stories about, as we've just heard, um, people accessing flock cameras and using it for not such great deeds. We've had there's there's a scenario going around online where a new...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=278s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...of this meeting until my son informed me about an hour ago. And my issues with flock camera have been enumerated by a number of the folks here. I didn't hear everyone. But one of the things that I'm...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1349s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...hit the highlights maybe. Um, you know, I think, um, one of the big questions with these flock cameras is are they actually even legal, especially under the recent Supreme Court president? Um,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=505s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...>> I would be more than happy to do that. Um, and then turning more towards the the flock, which I think a lot of people are here to discuss, which are even worse than the speed cameras by far. Um,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=451s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...>> Good evening. My name is Alex Manoring, [address redacted], and I would also like to speak on the topic of the flock safety cameras. I understand these cameras can be a very useful...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=167s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
   > ...scenario going around online where a new story broke where, um, a woman was tracked across state lines using Flock cameras uh, to see where she got an abortion um, and, you know, how she went...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=289s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...Lowe's [clears throat] or I go to Walmart and I'm aware that there are flock cameras there, I have a choice to shop at those places. I don't have that choice to drive in into Watford from uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1409s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...brief summary of some of your relevant experience. I won't talk about flock cameras. [laughter] >> Thank you. Hey, you had your chance....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=3206s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
   > ...this size. We've had major cities Los Angeles a month ago uh withdrew uh their flock camera system Virginia at the behest of their citizens withdrew from uh flock camera systems and Garrett...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1451s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-04-01] Board of Selectmen** -- East Lyme, CT Board of Selectmen 04/01/2026
-  > ...kept by a public agency. Well, clearly these private camera companies are not that or these digital flock camera and they've tried very hard to keep all the material themselves....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bevKccEFfC8&t=2669s)  _(term: alpr_flock, unreviewed)_
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...uh their flock camera system Virginia at the behest of their citizens withdrew from uh flock camera systems and Garrett Langley as others have pointed out the CEO of Flock called them terrorist wrote...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1457s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...from uh flock camera systems and Garrett Langley as others have pointed out the CEO of Flock called them terrorist wrote a letter to the police chief in St Virginia uh indicating he was being uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1464s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...briefly talk about um the youth mental health crisis. And I think that these flock cameras are simply just going to be the cherry on top of the cocktail of nightmares that we are serving to the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1728s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...>> Burba Mukherji [address redacted]. Um, I was wondering now that there is such a big movement against uh the flock cameras all over the United States, I wouldn't be surprised if um folks like...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1608s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...question of technology and um improvement in technology. What is to stop a company like Flock or some other company um to deploy drones for example um to surveil towns? So my question is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1629s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...broader. Um a as as we learn this lesson and perhaps give people the right to take down flock uh give people like you our representatives to take down the flock. What happens in the future uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1647s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...representatives today. um you will respect us and hopefully take down the flock cameras, but whoever takes over from you, what's the institutional memory of this? What will be in place a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=1666s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...bit um disingenuous. Um, and that was exposed when when it was discovered that Flock was essentially giving these handbooks out to police departments, basically telling them how to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=654s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...today. In addition to any of the other surveillance technology that's out there uh including but not limited to flock. There's other things, Axon, um, all sorts of different new WHAM,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=350s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...data retention policy public as well as the findings of those audits public and the overall flock use policy? Because I think technology that can track the movements of thousands of law-abiding...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=233s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
+  > ...you know, there's there's two different there's there's a lot of confusion between speed cameras and flock cameras and, you know, concern that there's overlap between the two and how is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=5554s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-01] Board of Selectmen** -- East Lyme, CT Board of Selectmen 04/01/2026
   > ...as far as I'm concerned, it doesn't exist anymore. So, this isn't it shouldn't be confused with with flock technology. It's a completely different platform and program....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bevKccEFfC8&t=2983s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-01] Board of Selectmen** -- East Lyme, CT Board of Selectmen 04/01/2026
-  > ...because they're owned by private companies that I know I looked at the flock explanation for why uh they're not public records and they seem to have um think that they have come up with a way...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bevKccEFfC8&t=2598s)  _(term: alpr_flock, unreviewed)_
+  > ...kept by a public agency. Well, clearly these private camera companies are not that or these digital flock camera and they've tried very hard to keep all the material themselves....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bevKccEFfC8&t=2669s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-01] Board of Selectmen** -- East Lyme, CT Board of Selectmen 04/01/2026
   > ...Massachusetts, Eugene, Oregon, Santa Cruz, California, and some 30 other municipalities have deactivated flock cameras or canceled their contracts since 2025. Fox News reports that Palm...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bevKccEFfC8&t=2851s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-01] Board of Selectmen** -- East Lyme, CT Board of Selectmen 04/01/2026
+  > ...because they're owned by private companies that I know I looked at the flock explanation for why uh they're not public records and they seem to have um think that they have come up with a way...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bevKccEFfC8&t=2598s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-09] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/09/2026
   > ...>> I don't think we're ever down. we're adding, right? So, it's like, you know, we had three flock cameras, we're adding a camera. Um, we have 29 cops, you're adding two more cops. So, it's just a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7nqfpebfSmg&t=4831s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-04] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/04/2026
-  > ...So, having said that and listening to what uh Candace said, I would, you know, I I'll agree to, you know, another flock camera. Um because I think what he said is right if it impacts the technology, I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RSa0-FxQ5YM&t=1573s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-04] Board of Selectmen** -- East Lyme, CT Board of Selectmen 03/04/2026
-  > ...a mistake and I don't either. So, we we had taken out 9,000 from that line item, right, for the flock cameras on Monday, right? >> Then we just put back in 3,000 for the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AsyoMzR8xo4&t=6618s)  _(term: alpr_flock, unreviewed)_
+  > ...line. >> So I have a question. Um it specifically affects the flock cameras, but also the CIP. Chief, when you presented your CIP um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RSa0-FxQ5YM&t=1837s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-04] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/04/2026
   > ...discussed for the potential bill that was raised today um is in line with what we do currently with our flock cameras. There was never any talk about limiting or not allowing municipalities to use...
@@ -890,12 +930,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RSa0-FxQ5YM&t=756s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-04] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/04/2026
-  > ...favor of taking that one out. I am in favor of moving forward with the two. I wasn't in favor of taking the flock cameras out either last night. So, can I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RSa0-FxQ5YM&t=425s)  _(term: alpr_flock, unreviewed)_
+  > ...So, having said that and listening to what uh Candace said, I would, you know, I I'll agree to, you know, another flock camera. Um because I think what he said is right if it impacts the technology, I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RSa0-FxQ5YM&t=1573s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-04] Board of Selectmen** -- East Lyme, CT Board of Selectmen 03/04/2026
+  > ...a mistake and I don't either. So, we we had taken out 9,000 from that line item, right, for the flock cameras on Monday, right? >> Then we just put back in 3,000 for the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AsyoMzR8xo4&t=6618s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-04] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/04/2026
-  > ...line. >> So I have a question. Um it specifically affects the flock cameras, but also the CIP. Chief, when you presented your CIP um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RSa0-FxQ5YM&t=1837s)  _(term: alpr_flock, unreviewed)_
+  > ...tonight and but also the people who view the minutes after the fact and watch the videos on YouTube or on TV. Um the flock line exists in the IT um budget that affects the police department. We...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RSa0-FxQ5YM&t=924s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-04] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/04/2026
   > ...There was never any talk about limiting or not allowing municipalities to use flock cameras or any license plate readers at all. That's not in the proposed bill. Things will be removed...
@@ -906,12 +950,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RSa0-FxQ5YM&t=1125s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-04] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/04/2026
-  > ...tonight and but also the people who view the minutes after the fact and watch the videos on YouTube or on TV. Um the flock line exists in the IT um budget that affects the police department. We...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RSa0-FxQ5YM&t=924s)  _(term: alpr_flock, unreviewed)_
+  > ...favor of taking that one out. I am in favor of moving forward with the two. I wasn't in favor of taking the flock cameras out either last night. So, can I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RSa0-FxQ5YM&t=425s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-04] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/04/2026
   > ...CIP. Chief, when you presented your CIP um requests, the flock cameras, the $30,000 was there. And as far as I know, it was put forward by the CIP committee....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RSa0-FxQ5YM&t=1844s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/02/2026
+  > ...>> but overall it's up 27% from the year before but that does not just incorporate the flock that's other tech it other yeah >> okay so does that then...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mwBxR266GEw&t=8058s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/02/2026
   > ...turn your Y. So, it's just tough like zooming in. But, so there's the flock here. You guys just cut back to the 9,000. This line right above it, this 3863, that's no...
@@ -922,32 +970,24 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mwBxR266GEw&t=8098s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/02/2026
-  > ...proliferation. So the the thrust of the legislation that as far as I can tell is limiting the use of flock cameras in municipalities. >> Understood....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mwBxR266GEw&t=8231s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/02/2026
-  > ...>> but overall it's up 27% from the year before but that does not just incorporate the flock that's other tech it other yeah >> okay so does that then...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mwBxR266GEw&t=8058s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/02/2026
   > ...>> Okay. I I reduced it to 259073 and part of that reduction was a reduction in the flock camera >> but overall it's up 27% from the year before but that does not just...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mwBxR266GEw&t=8051s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/02/2026
-  > ...he believed that uh there would be support to remain uh moving forward with the flock cameras. So whether or not there's going to be changes and or not, it should be interesting. I I question...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mwBxR266GEw&t=8262s)  _(term: alpr_flock, unreviewed)_
+  > ...The first selectman has already cut this line back $12,000. So now the budget for flock cameras is $18,000. >> Okay. Now >> so it's doubling....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mwBxR266GEw&t=8021s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/02/2026
+  > ...proliferation. So the the thrust of the legislation that as far as I can tell is limiting the use of flock cameras in municipalities. >> Understood....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mwBxR266GEw&t=8231s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/02/2026
   > ...So there there was an issue and about I think Jason had brought it up about flock readers have we had three and they want to add three more um and they want to add a add I have...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mwBxR266GEw&t=7915s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-02] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/02/2026
-  > ...The first selectman has already cut this line back $12,000. So now the budget for flock cameras is $18,000. >> Okay. Now >> so it's doubling....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mwBxR266GEw&t=8021s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
-  > ...these. >> Sure. So a contract was signed about four years ago. That's when the flock uh camera program started in East Lime. It started with three locations. Um the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=5742s)  _(term: alpr_flock, unreviewed)_
+  > ...he believed that uh there would be support to remain uh moving forward with the flock cameras. So whether or not there's going to be changes and or not, it should be interesting. I I question...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mwBxR266GEw&t=8262s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
   > ...>> Sure. >> Specifically, I was curious about the flock cameras. Um so just a little background we we have three. They read you want to increase the capacity for...
@@ -957,77 +997,81 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   > ...around sharing and what agencies um it's appropriate to share with. There is an an optin function in the flock system that you can automatically if you check the box that allows other agencies out...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=5889s)  _(term: alpr_flock, unreviewed)_
 
+- **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
+  > ...these. >> Sure. So a contract was signed about four years ago. That's when the flock uh camera program started in East Lime. It started with three locations. Um the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=5742s)  _(term: alpr_flock, unreviewed)_
+
 - **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
   > ...screenshot social media. This is not like hard-hitting journalism reporting, but um the issue with the flock cameras I think was left out of the initial conversation....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4909s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
-  > ...one of those locations is not accurate. Uh there's currently three flock cameras in autonomy slime. Flock cameras have nothing to do with the speed enforcement ordinance or um enforcing speeds or...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4212s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
-  > ...same theory with the flock cameras. If that same [clears throat] vehicle drives by a flock camera, it accesses the same database and notifies the police that that vehicle is stolen and a description...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4251s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
-  > ...a vehicle, runs the license plate, they know it's a stolen vehicle. It's the same theory with the flock cameras. If that same [clears throat] vehicle drives by a flock camera, it accesses the same...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4248s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
-  > ...everybody. So there it isn't selecting certain individuals to look at. Um if if If flock is given, if there is a plate they're looking for because there's a kidnapped kid or or some other purpose,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4411s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
-  > ...are who with their their identity lives in that national database and they're tied to a vehicle. So the flock cameras are reading the license plates non-stop. not only uh if somebody's driving too...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4276s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
   > ...conversation about surveillance and uh folks in town have have talked about flock cameras. they were no long not not part of the conversation earlier. Could you give us kind of a profile of what...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4151s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
+  > ...one of those locations is not accurate. Uh there's currently three flock cameras in autonomy slime. Flock cameras have nothing to do with the speed enforcement ordinance or um enforcing speeds or...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4212s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
   > ...ordinance and and speeding ordinance and and uh speeding problems in town for public safety, not to discuss flock, but um I can get you that information. >> Okay,...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4312s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
-  > ...very animated young man right next to the the podium. >> So, the flock cameras, there's some misinformation out there. I know part of the packet um was uh what looked like a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4190s)  _(term: alpr_flock, unreviewed)_
+  > ...Uh we don't have four flock cameras. Uh one of those locations is not accurate. Uh there's currently three flock cameras in autonomy slime. Flock cameras have nothing to do with the speed enforcement...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4210s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
+  > ...same theory with the flock cameras. If that same [clears throat] vehicle drives by a flock camera, it accesses the same database and notifies the police that that vehicle is stolen and a description...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4251s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
+  > ...everybody. So there it isn't selecting certain individuals to look at. Um if if If flock is given, if there is a plate they're looking for because there's a kidnapped kid or or some other purpose,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4411s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
+  > ...a vehicle, runs the license plate, they know it's a stolen vehicle. It's the same theory with the flock cameras. If that same [clears throat] vehicle drives by a flock camera, it accesses the same...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4248s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
   > ...the website that was advertised in a social media post. That's not accurate. Uh we don't have four flock cameras. Uh one of those locations is not accurate. Uh there's currently three flock cameras...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4205s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
-  > ...Uh we don't have four flock cameras. Uh one of those locations is not accurate. Uh there's currently three flock cameras in autonomy slime. Flock cameras have nothing to do with the speed enforcement...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4210s)  _(term: alpr_flock, unreviewed)_
+  > ...very animated young man right next to the the podium. >> So, the flock cameras, there's some misinformation out there. I know part of the packet um was uh what looked like a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4190s)  _(term: alpr_flock, unreviewed)_
 
-- **[2025-12-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen 12/03/2025
-  > ...oh no >> it >> it's just it's not a license plate reader. It's just it's you know it's taking the photo of the violation....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4Ebu9egiL5E&t=4920s)  _(term: alpr_flock, unreviewed)_
+- **[2026-01-07] Board of Selectmen** -- East Lyme, CT Board of Selectmen 01/07/2026
+  > ...are who with their their identity lives in that national database and they're tied to a vehicle. So the flock cameras are reading the license plates non-stop. not only uh if somebody's driving too...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8TypJu-UwY8&t=4276s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen 12/03/2025
   > ...affirming care or abort abortion care may or may not be targeted by these automated license plate readers. Nobody knows where this data is going. So I respectfully ask the board to consider a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4Ebu9egiL5E&t=160s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen 12/03/2025
-  > ...>> right. >> You can read the plate or not. >> But flock is there's a bad guy. Let's alert somebody. >> That's a whole different that's a whole...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4Ebu9egiL5E&t=4996s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-12-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen 12/03/2025
-  > ...that's an interesting point that you just made and I think it's important. It's not a license plate reader. It's a license plate recorder after the fact....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4Ebu9egiL5E&t=4936s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-12-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen 12/03/2025
-  > ...the camera does anything. Camera does nothing if the car is not speeding. In a flock system or that's the license plate reader system, it interprets the plate first and then it takes action. That's a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4Ebu9egiL5E&t=4954s)  _(term: alpr_flock, unreviewed)_
+  > ...Current concerning the American Civil Liberties Union of Connecticut called for a temporary moratorium on automated license plate readers throughout the state until the lawmakers take action to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4Ebu9egiL5E&t=122s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen 12/03/2025
   > ...ordinance uh that's being discussed or considered this evening um is not a license plate reader program. Um that is something um as referenced the article in the Harford Current and a number of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4Ebu9egiL5E&t=225s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-12-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen 12/03/2025
-  > ...Current concerning the American Civil Liberties Union of Connecticut called for a temporary moratorium on automated license plate readers throughout the state until the lawmakers take action to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4Ebu9egiL5E&t=122s)  _(term: alpr_flock, unreviewed)_
+  > ...oh no >> it >> it's just it's not a license plate reader. It's just it's you know it's taking the photo of the violation....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4Ebu9egiL5E&t=4920s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-12-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen 12/03/2025
+  > ...that's an interesting point that you just made and I think it's important. It's not a license plate reader. It's a license plate recorder after the fact....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4Ebu9egiL5E&t=4936s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-12-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen 12/03/2025
+  > ...>> right. >> You can read the plate or not. >> But flock is there's a bad guy. Let's alert somebody. >> That's a whole different that's a whole...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4Ebu9egiL5E&t=4996s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-12-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen 12/03/2025
+  > ...the camera does anything. Camera does nothing if the car is not speeding. In a flock system or that's the license plate reader system, it interprets the plate first and then it takes action. That's a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4Ebu9egiL5E&t=4954s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-03-13] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special Meeting 03/13/2023
   > ...um trends like that downtrend of some enrollment so through some years I mean it you've you've had flock you've had fluctuations small amounts but still I guess my point is...
@@ -1175,8 +1219,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=HVJdYQmFuMQ&t=4311s)  _(term: drone, unreviewed)_
 
 - **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
-  > ...back in is there. Um well that was that was when we were going with the DJI DJI drone which was the cost of the drone itself that didn't did not include any iCloud storage or anything like that....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4346s)  _(term: drone, unreviewed)_
+  > ...that I had, it was 167,058 that included the admin assistant and the drone. Um then deducted the the three grants there. The total budget would be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4303s)  _(term: drone, unreviewed)_
+
+- **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
+  > ...>> Thank you. >> If I could pull money to give you your drone, I'd be >> I know you were going to give me the car last time. I know....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4149s)  _(term: drone, unreviewed)_
+
+- **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
+  > ...But it's 118 now. It's 118,847 before we take off the grant money. So, >> is there a reason that the drone couldn't be added to the capital improvement plan?...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4324s)  _(term: drone, unreviewed)_
 
 - **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
   > ..."This is this is great." And I said, "Yeah, but do you know how quickly I could have done this with a drone?" [laughter] You know what I mean? But because of that effort...
@@ -1191,6 +1243,14 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4380s)  _(term: drone, unreviewed)_
 
 - **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
+  > ...>> So, the possibility of us putting it back in is there. Um well that was that was when we were going with the DJI DJI drone which was the cost of the drone itself that didn't did not include any...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4343s)  _(term: drone, unreviewed)_
+
+- **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
+  > ...$18,000 that was in there that included the cloud storage. And this is an Axon drone which also mirrors the Axon body cameras that the police have. So it's using the same company. We would have...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4036s)  _(term: drone, unreviewed)_
+
+- **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
   > ...>> we got to be safe and protect our assets. So, um, that's why we decided to go with the Exxon drone. So, it would be, [clears throat] you know, I don't know how you would do that if it's a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4389s)  _(term: drone, unreviewed)_
 
@@ -1199,32 +1259,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=5915s)  _(term: drone, unreviewed)_
 
 - **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
-  > ...could all be incorporated into the same iCloud type >> uh storage um and we can't get DJI drones shouldn't for public safety because the the servers are based in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4368s)  _(term: drone, unreviewed)_
-
-- **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
-  > ...$18,000 that was in there that included the cloud storage. And this is an Axon drone which also mirrors the Axon body cameras that the police have. So it's using the same company. We would have...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4036s)  _(term: drone, unreviewed)_
-
-- **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
   > ...>> understood >> okay um so then I had this beautiful drone in there [laughter]...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=3835s)  _(term: drone, unreviewed)_
 
 - **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
-  > ...>> Thank you. >> If I could pull money to give you your drone, I'd be >> I know you were going to give me the car last time. I know....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4149s)  _(term: drone, unreviewed)_
+  > ...could all be incorporated into the same iCloud type >> uh storage um and we can't get DJI drones shouldn't for public safety because the the servers are based in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4368s)  _(term: drone, unreviewed)_
 
 - **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
-  > ...that I had, it was 167,058 that included the admin assistant and the drone. Um then deducted the the three grants there. The total budget would be...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4303s)  _(term: drone, unreviewed)_
-
-- **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
-  > ...>> So, the possibility of us putting it back in is there. Um well that was that was when we were going with the DJI DJI drone which was the cost of the drone itself that didn't did not include any...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4343s)  _(term: drone, unreviewed)_
-
-- **[2026-02-18] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 02/18/2026
-  > ...But it's 118 now. It's 118,847 before we take off the grant money. So, >> is there a reason that the drone couldn't be added to the capital improvement plan?...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4324s)  _(term: drone, unreviewed)_
+  > ...back in is there. Um well that was that was when we were going with the DJI DJI drone which was the cost of the drone itself that didn't did not include any iCloud storage or anything like that....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ElTxV1o7vaI&t=4346s)  _(term: drone, unreviewed)_
 
 - **[2025-10-06] Board of Education** -- Board of Education: October 6, 2025
   > ...>> It was fun watching all you guys try to line up and all the letterings very organized. It was really neat. The drone footage was cool. They showed all the parents at open house night. It was...
@@ -1235,8 +1279,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=aDZPps2lf5Q&t=407s)  _(term: drone, unreviewed)_
 
 - **[2025-04-09] Board of Finance** -- East Lyme, CT Board of Finance 04/09/2025
-  > ...help with drones if we needed to? Uh, yeah. Currently, uh, the Waterford police have a drone, the state police have a drone, and I believe there's two fire departments in the Colchester area...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7du0PJMl5_M&t=10274s)  _(term: drone, unreviewed)_
+  > ...drones, like the police were looking for a drone, fire marshall was looking for a drone. Um, you know, you could see where it has a lot of application....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7du0PJMl5_M&t=10208s)  _(term: drone, unreviewed)_
+
+- **[2025-04-09] Board of Finance** -- East Lyme, CT Board of Finance 04/09/2025
+  > ...talked a lot about in the CIP was, um, drones, like the police were looking for a drone, fire marshall was looking for a drone. Um, you know, you could see where it has...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7du0PJMl5_M&t=10206s)  _(term: drone, unreviewed)_
 
 - **[2025-04-09] Board of Finance** -- East Lyme, CT Board of Finance 04/09/2025
   > ...Um, so I'd like to make a motion to remove the 28,000 for the Matress 300 RTK drone and base station for 28,000 and move it out of this year's...
@@ -1247,32 +1295,28 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7du0PJMl5_M&t=10276s)  _(term: drone, unreviewed)_
 
 - **[2025-04-09] Board of Finance** -- East Lyme, CT Board of Finance 04/09/2025
+  > ...help with drones if we needed to? Uh, yeah. Currently, uh, the Waterford police have a drone, the state police have a drone, and I believe there's two fire departments in the Colchester area...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7du0PJMl5_M&t=10274s)  _(term: drone, unreviewed)_
+
+- **[2025-04-09] Board of Finance** -- East Lyme, CT Board of Finance 04/09/2025
   > ...So, while the CIP committee did recommend that we, you know, get the drone, I'm just thinking um that would have been paid for in cash capital and if we could move that out a year and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7du0PJMl5_M&t=10244s)  _(term: drone, unreviewed)_
-
-- **[2025-04-09] Board of Finance** -- East Lyme, CT Board of Finance 04/09/2025
-  > ...drones, like the police were looking for a drone, fire marshall was looking for a drone. Um, you know, you could see where it has a lot of application....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7du0PJMl5_M&t=10208s)  _(term: drone, unreviewed)_
-
-- **[2025-04-09] Board of Finance** -- East Lyme, CT Board of Finance 04/09/2025
-  > ...talked a lot about in the CIP was, um, drones, like the police were looking for a drone, fire marshall was looking for a drone. Um, you know, you could see where it has...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7du0PJMl5_M&t=10206s)  _(term: drone, unreviewed)_
-
-- **[2025-03-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/03/2025
-  > ...you're still paying for yeah um okay and then the other piece of equipment here is the uh drone base station and uh training so um uh the Drone is approximately $10,000 is and then...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=0UlG8QqfEjE&t=864s)  _(term: drone, unreviewed)_
-
-- **[2025-03-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/03/2025
-  > ...then the other piece of equipment here is the uh drone base station and uh training so um uh the Drone is approximately $10,000 is and then there's the the base station for it and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=0UlG8QqfEjE&t=868s)  _(term: drone, unreviewed)_
 
 - **[2025-03-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/03/2025
   > ...then the training for a few police officers and firefighters to become drone certified to actually use this drone correct yes beautiful if they leave the force or something um is that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=0UlG8QqfEjE&t=880s)  _(term: drone, unreviewed)_
 
 - **[2025-03-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/03/2025
+  > ...you're still paying for yeah um okay and then the other piece of equipment here is the uh drone base station and uh training so um uh the Drone is approximately $10,000 is and then...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=0UlG8QqfEjE&t=864s)  _(term: drone, unreviewed)_
+
+- **[2025-03-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/03/2025
   > ...officers and firefighters to become drone certified to actually use this drone correct yes beautiful if they leave the force or something um is that certification transferable or would we...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=0UlG8QqfEjE&t=882s)  _(term: drone, unreviewed)_
+
+- **[2025-03-03] Board of Selectmen** -- East Lyme, CT Board of Selectmen Special 03/03/2025
+  > ...then the other piece of equipment here is the uh drone base station and uh training so um uh the Drone is approximately $10,000 is and then there's the the base station for it and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=0UlG8QqfEjE&t=868s)  _(term: drone, unreviewed)_
 
 - **[2023-12-06] Board of Selectmen** -- East Lyme, CT Board of Selectmen Meeting 12/06/2023
   > ...website and they have an inter not interactive but U it's kind of like like a a drone view of the project and it's uh it shows where it is now and then it you know shows what the future will look...
@@ -1303,8 +1347,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=xcLNn0L9e1s&t=1130s)  _(term: drone, unreviewed)_
 
 - **[2020-05-26] Board of Education** -- Board of Education: May 26, 2020
-  > ...might not probably um I think it's a great great ceremony and I think some of the drone footage of maybe the kids walking with their parents to the stage or how we're escorting them from their...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9iKDHKhiW9c&t=4659s)  _(term: drone, unreviewed)_
+  > ...student um who's probably a sophomore right now who is a very experienced drone pilot so I can try to find his name and okay so I saw Jamie then Candice and I think Eric's hand went up...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9iKDHKhiW9c&t=4597s)  _(term: drone, unreviewed)_
+
+- **[2020-05-26] Board of Education** -- Board of Education: May 26, 2020
+  > ...forgotten I mentioned to you or dashi this morning and Myka sent you a text as well regarding you know drone footage because the middle school has a drone Jason don't know if you were able to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9iKDHKhiW9c&t=4540s)  _(term: drone, unreviewed)_
 
 - **[2020-05-26] Board of Education** -- Board of Education: May 26, 2020
   > ...this morning and Myka sent you a text as well regarding you know drone footage because the middle school has a drone Jason don't know if you were able to talk to Peter grant if that's working or...
@@ -1315,10 +1363,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9iKDHKhiW9c&t=4555s)  _(term: drone, unreviewed)_
 
 - **[2020-05-26] Board of Education** -- Board of Education: May 26, 2020
-  > ...forgotten I mentioned to you or dashi this morning and Myka sent you a text as well regarding you know drone footage because the middle school has a drone Jason don't know if you were able to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9iKDHKhiW9c&t=4540s)  _(term: drone, unreviewed)_
-
-- **[2020-05-26] Board of Education** -- Board of Education: May 26, 2020
   > ...or something along those those lines you know great I'm not sure how good my drone flying skills are I guess but a couple ways to work on that but actually I think we have we do have drone footage...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9iKDHKhiW9c&t=4568s)  _(term: drone, unreviewed)_
 
@@ -1327,12 +1371,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9iKDHKhiW9c&t=4574s)  _(term: drone, unreviewed)_
 
 - **[2020-05-26] Board of Education** -- Board of Education: May 26, 2020
-  > ...student um who's probably a sophomore right now who is a very experienced drone pilot so I can try to find his name and okay so I saw Jamie then Candice and I think Eric's hand went up...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9iKDHKhiW9c&t=4597s)  _(term: drone, unreviewed)_
-
-- **[2020-05-26] Board of Education** -- Board of Education: May 26, 2020
   > ...come home they wanted to do that but Mike I suggest maybe you ask you one of your kids about flying the drone they might not probably um I think it's a great great ceremony and I think some of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9iKDHKhiW9c&t=4650s)  _(term: drone, unreviewed)_
+
+- **[2020-05-26] Board of Education** -- Board of Education: May 26, 2020
+  > ...might not probably um I think it's a great great ceremony and I think some of the drone footage of maybe the kids walking with their parents to the stage or how we're escorting them from their...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9iKDHKhiW9c&t=4659s)  _(term: drone, unreviewed)_
 
 - **[2019-09-09] Board of Education** -- Board of Education: September 09, 2019
   > ...going into kindergarten another part of that is at the curriculum meeting that we had with Amy drone and you went through all of the steps on who to call where to go and I that information...
@@ -1348,6 +1392,22 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 
 ### facial_recognition
+
+- **[2026-09-16] Board of Selectmen** -- East Lyme, CT Board of Selectmen - Public Hearing 09/16/2026
+  > ...departments also helping. But we need we need more. I feel that you really need more facial recognition. You need more license plate recognition to stop whatever is coming into our...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=3457s)  _(term: facial_recognition, unreviewed)_
+
+- **[2026-09-16] Board of Selectmen** -- East Lyme, CT Board of Selectmen - Public Hearing 09/16/2026
+  > ...children, adults, men, women, um, puppy dogs, kittens, everything out there. I'm for facial recognition, license plate recognition, whatever you can, whatever you have. I do understand...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=3380s)  _(term: facial_recognition, unreviewed)_
+
+- **[2026-09-16] Board of Selectmen** -- East Lyme, CT Board of Selectmen - Public Hearing 09/16/2026
+  > ...Department put up um all types of camera technologies uh both in terms of speed, red light, facial recognition, license plate recognition and whatnot. Um, I can tell you as again I have no skin in the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=3091s)  _(term: facial_recognition, unreviewed)_
+
+- **[2026-09-16] Board of Selectmen** -- East Lyme, CT Board of Selectmen - Public Hearing 09/16/2026
+  > ...Um these cameras do not detect sound. They don't track cars. They don't use facial recognition. Uh they do not photograph drivers. The information that's gathered is not shared or sold....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=251s)  _(term: facial_recognition, unreviewed)_
 
 - **[2026-08-05] Board of Selectmen** -- East Lyme, CT Board of Selectmen 08/05/2026
   > ...story about how this technology screwed up and uh misidentified somebody with facial recognition or misread a license plate and all of a sudden, you know, the police are coming out, guns drawn on a...
@@ -1443,12 +1503,48 @@ Six Connecticut towns have released the Flock audit log of every search run agai
      *The discussion focused on data security, retention practices...
   [View document ▸](https://eltownhall.com/wp-content/uploads/2026/09/BOF-August-12-2026-Minutes.pdf)  _(term: alpr_flock, unreviewed)_
 
-- **[2021-04-08] Board of Police Commissioners** -- Board of Police Commissioners Minutes - 2021-04-08 (minutes)
-  > ...ecessary documentation for the body camera grant application
-and will forward that onto the state for approval once she has allthe signatures; she has also been made aware of an
-available grant for a license plate reader and she is looking into that and will report back. The finance director is in
-receipt of the ACO's overtime and that will be submiffed to Waterford for reimbursement of their port...
-  [View document ▸](https://eltownhall.com/wp-content/uploads/2021/04/Police-Commission-April-8-2021-Minutes.pdf)  _(term: alpr_flock, unreviewed)_
+- **[2026-09-14] Board of Police Commissioners** -- Board of Police Commissioners Minutes - 2026-09-14 (minutes)
+  > ...eorder items numbered
+       10 & 11 on the agenda to be held after items numbered 12 & 13.
+       VOTE: 5-0-0 (all in favor)
+
+   2. Delegations:
+       The following residents spoke in opposition of FLOCK cameras
+
+
+      Kevin Mills, [address redacted], East Lyme CT
+      Brian Lepkowski,[address redacted], East Lyme CT
+      Lisa McGowan, [address redacted], Niantic CT
+
+      The following...
+  [View document ▸](https://eltownhall.com/wp-content/uploads/2026/09/Board-of-Police-Commissioners-September-14-2026-Minutes.pdf)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-16] Board of Selectmen** -- Board of Selectmen Minutes - 2026-09-16 (minutes)
+  > ...
+Transportation, which is the next step in the process. Chief Glenn's presentation is
+attached hereto as Exhibit #1.
+
+Chief Glenn stated that automated traffic enforcement devices are not the same as
+FLOCK; these cameras will only activate and scan your license plate if you are speeding.
+There is no sound. or visual AI recognition used in these devices, and the infraction does
+not go against your ...
+  [View document ▸](https://eltownhall.com/wp-content/uploads/2026/09/BOS-September-16-2026-Public-Hearing-Minutes.pdf)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Police Commissioners** -- Board of Police Commissioners Minutes - 2026-09-14 (minutes)
+  > ...eorder items numbered
+       10 & 11 on the agenda to be held after items numbered 12 & 13.
+       VOTE: 5-0-0 (all in favor)
+
+   2. Delegations:
+       The following residents spoke in opposition of FLOCK cameras
+
+
+       Kevin Mills, [address redacted], East Lyme CT
+       Brian Lepkowski,[address redacted], East Lyme CT
+       Lisa McGowan, [address redacted], Niantic CT
+
+       The follo...
+  [View document ▸](https://eltownhall.com/wp-content/uploads/2026/09/Police-Commission-September-14-2026-Minutes.pdf)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-02] Board of Selectmen** -- Board of Selectmen Minutes - 2026-09-02 (minutes)
   > ... to prevent people from climbing down the rocks and/or falling, She would also
@@ -1459,6 +1555,13 @@ Alerts.
 Jaime Barr Shelburn, [address redacted], Niantic, spoke against the Town using Cannabis funds
 for anything accept Youth Fa...
   [View document ▸](https://eltownhall.com/wp-content/uploads/2026/09/BOS-September-2-2026-Minutes.pdf)  _(term: alpr_flock, unreviewed)_
+
+- **[2021-04-08] Board of Police Commissioners** -- Board of Police Commissioners Minutes - 2021-04-08 (minutes)
+  > ...ecessary documentation for the body camera grant application
+and will forward that onto the state for approval once she has allthe signatures; she has also been made aware of an
+available grant for a license plate reader and she is looking into that and will report back. The finance director is in
+receipt of the ACO's overtime and that will be submiffed to Waterford for reimbursement of their port...
+  [View document ▸](https://eltownhall.com/wp-content/uploads/2021/04/Police-Commission-April-8-2021-Minutes.pdf)  _(term: alpr_flock, unreviewed)_
 
 - **[2020-05-20] Board of Selectmen** -- Board of Selectmen Minutes - 2020-05-20 (minutes)
   > ... situation. He noted that the DEEP has publicly advised that
@@ -1788,7 +1891,16 @@ Services - Contracted/Operat
 
 ### facial_recognition
 
-*(no mentions)*
+- **[2026-09-16] Board of Selectmen** -- Board of Selectmen Minutes - 2026-09-16 (minutes)
+  > ... PLATE
+  OF SPEEDS AT LEAST 11 mph OR MORE         . DOES NOT DETECT SOUND
+. SECURE EXCHANGE OF INFORMATION            . DOES NOT TRACK CARS
+. USES NLETS/SOC 2 ryPE IIl AND CJIS        . DOES NOT USE FACIAL RECOGNITION
+  COMPLIANT
+. USES THIRD PARTY AUDITS TO ENSURE         . DOES NOT PHOTOGRAPH DRIVERS
+  COMPLIANCE WITH SECURIry AND RETENTION    . INFORMATION IS NOT SHARED OR SOLD
+. $50 FINE FIRS...
+  [View document ▸](https://eltownhall.com/wp-content/uploads/2026/09/BOS-September-16-2026-Public-Hearing-Minutes.pdf)  _(term: facial_recognition, unreviewed)_
 
 
 ### gunshot_detection
@@ -1871,8 +1983,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 2
 - Active meeting bodies: 6
-- Videos registered: 1291 (fetched: 1228, no captions: 51)
-- Date range covered: 2013-07-17 to 2026-09-09 — **based on the 1288 of 1291 videos that carry a parseable upload date**; the other 3 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 1295 (fetched: 1233, no captions: 50)
+- Date range covered: 2013-07-17 to 2026-09-16 — **based on the 1292 of 1295 videos that carry a parseable upload date**; the other 3 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -1887,9 +1999,9 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| east_lyme_public_schools | streams | 2026-09-10 12:03:13.940404 | 1344 |
-| east_lyme_public_schools | videos | 2026-09-10 12:02:56.388432 | 484 |
-| eltownhall | videos | 2026-09-10 11:35:57.144999 | 1543 |
+| east_lyme_public_schools | streams | 2026-09-25 15:39:20.657057 | 1353 |
+| east_lyme_public_schools | videos | 2026-09-25 15:39:02.820622 | 488 |
+| eltownhall | videos | 2026-09-25 15:27:49.226786 | 1549 |
 
 
 ## Registered meeting bodies
@@ -1897,8 +2009,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 405 |
-| Board of Selectmen | council | True | 635 |
-| Board of Education | education | True | 171 |
+| Board of Selectmen | council | True | 637 |
+| Board of Education | education | True | 173 |
 | Ad Hoc Short-Term Rental Committee | other | True | 0 |
 | Special Town Meeting | other | True | 80 |
 | Board of Police Commissioners | public_safety | True | 0 |
@@ -1910,7 +2022,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 1958 (fetched: 1455)
+- Documents registered: 1966 (fetched: 1463)
 - Date range covered: 2012-02-08 to 2026-09-16
 
 
@@ -1942,7 +2054,6 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | title | upload_date |
 | --- | --- |
-| Board of Education: August 31st | 2026-08-31 |
 | Board of Education: June 09, 2025 | 2025-06-09 |
 | East Lyme, CT Board of Selectmen - Ad Hoc Short-Term Rental Committee 01/27/2025 | 2025-01-27 |
 | East Lyme, CT Board of Selectmen Meeting 12/04/2024 | 2024-12-04 |
@@ -1957,16 +2068,17 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Board of Education: October 15, 2018 | 2018-10-15 |
 | Board of Education: September 4, 2018 | 2018-09-04 |
 | East Lyme, CT Board of Selectmen Public Hearing 04/19/2017 | 2017-04-19 |
+| East Lyme, CT Board of Selectmen Meeting 04/19/2017 - Part 1 of 4 | 2017-04-19 |
 | East Lyme, CT Board of Selectmen Meeting 04/19/2017 - Part 3 of 4 | 2017-04-19 |
 | East Lyme, CT Board of Selectmen Meeting 04/19/2017 - Part 2 of 4 | 2017-04-19 |
-| East Lyme, CT Board of Selectmen Meeting 04/19/2017 - Part 1 of 4 | 2017-04-19 |
 | East Lyme, CT Board of Finance Meeting 04/12/2017 | 2017-04-12 |
-| East Lyme, CT Board of Selectmen Public Hearing 04/05/2017 - Part 2 of 3 | 2017-04-05 |
-| East Lyme, CT Board of Selectmen Public Hearing 04/05/2017 - Part 1 of 3 | 2017-04-05 |
 | East Lyme, CT Board of Selectmen Meeting 04/05/2017 - Part 1 of 4 | 2017-04-05 |
 | East Lyme, CT Board of Selectmen Meeting 04/05/2017 - Part 2 of 4 | 2017-04-05 |
+| East Lyme, CT Board of Selectmen Public Hearing 04/05/2017 - Part 1 of 3 | 2017-04-05 |
+| East Lyme, CT Board of Selectmen Public Hearing 04/05/2017 - Part 2 of 3 | 2017-04-05 |
 | East Lyme, CT Board of Selectmen Meeting 04/05/2017 - Part 3 of 4 | 2017-04-05 |
 | East Lyme, CT Board of Finance Meeting 03/08/2017 - Part 2 of 3 | 2017-03-08 |
+| East Lyme, CT Board of Selectmen Meeting 03/01/2017 - Part 2 of 5 | 2017-03-01 |
 
 
 ### Tabs never crawled
@@ -2010,5 +2122,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:52:15 from East Lyme's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:55:33 from East Lyme's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

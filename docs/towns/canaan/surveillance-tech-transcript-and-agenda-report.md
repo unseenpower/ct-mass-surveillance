@@ -1,9 +1,9 @@
 # Surveillance-tech report: Canaan
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,10 +20,8 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">5</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 4 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2024–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-12-17 → 2026-04-23</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">62%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">60 of 96 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">93%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">91 of 98 meetings</span></a>
 </div>
-
-**Not the full history:** transcripts begin **2024-04-17**, but Canaan's published video archive goes back to **2023-08-14**. Meetings before 2024 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 This report collects every mention of surveillance technology found in **Canaan**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -61,7 +59,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 4 meetings surfaced a finding (4 dated, spanning 2024-12-17 to 2026-04-23; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-04-23.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-04-23.*
 
 ??? note "Earlier meetings (4)"
 
@@ -321,8 +319,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 19
-- Videos registered: 96 (fetched: 60, no captions: 2)
-- Date range covered: 2023-08-14 to 2026-08-27 — **based on the 90 of 96 videos that carry a parseable upload date**; the other 6 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 98 (fetched: 91, no captions: 1)
+- Date range covered: 2023-07-22 to 2026-09-24 (all 98 videos dated)
 
 
 ### Channels
@@ -336,7 +334,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| canaan_falls_village_ct | videos | 2026-09-10 13:40:29.582640 | 97 |
+| canaan_falls_village_ct | videos | 2026-09-25 15:39:44.761385 | 99 |
 
 
 ## Registered meeting bodies
@@ -348,12 +346,12 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | 35 Railroad Street Sale Committee | other | True | 3 |
 | Affordable Housing Plan Task Team | other | True | 0 |
 | Board of Assessment Appeals | other | True | 0 |
-| Board of Selectmen | other | True | 7 |
+| Board of Selectmen | other | True | 8 |
 | Bridge/Infrastructure Committee | other | True | 5 |
 | Forestry Advisory Committee | other | True | 0 |
 | Housatonic River Commission | other | True | 0 |
 | Inland Wetlands & Conservation Commission | other | True | 0 |
-| Planning & Zoning Commission | other | True | 19 |
+| Planning & Zoning Commission | other | True | 20 |
 | Public Hearing | other | True | 6 |
 | Recreation Commission | other | True | 0 |
 | Solar Committee | other | True | 5 |
@@ -394,11 +392,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (2 shown, max 25)
+### Videos with no captions available (1 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| Planning & Zoning -Town of Canaan/Falls Village 8.27.26 | 2026-08-27 |
 | Bd of Finance - Education Spending Plan presentation. 4.9.26 Town of Canaan/Falls Village | 2026-04-09 |
 
 
@@ -443,5 +440,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:48:21 from Canaan's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:51:04 from Canaan's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

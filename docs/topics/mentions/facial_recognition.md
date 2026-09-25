@@ -1,6 +1,6 @@
 # Facial recognition: every mention, every town
 
-_Generated 2026-09-10T18:09:20 — 162 mentions across 30 towns, 2014-09-04 to 2026-08-05._
+_Generated 2026-09-25T17:13:54 — 187 mentions across 35 towns, 2014-09-04 to 2026-09-16._
 
 
 Software that attempts to identify individuals by matching face images against a database.
@@ -23,36 +23,41 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Hartford](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **79** | · | 10 | 95% | 2022-06-13 | 2023-03-21 |
-| Stamford ⁽ⁿᵖ⁾ | **10** | · | 3 | 11% | 2014-09-04 | 2015-05-14 |
-| [Bristol](../../towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 2 | 76% | 2023-08-08 | 2026-04-14 |
+| [Hartford](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **79** | · | 10 | 96% | 2022-06-13 | 2023-03-21 |
+| Stamford ⁽ⁿᵖ⁾ | **21** | · | 5 | 62% | 2014-09-04 | 2024-01-24 |
+| [Bristol](../../towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 2 | 77% | 2023-08-08 | 2026-04-14 |
+| [East Lyme](../../towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **7** | 1 | 4 | 95% | 2026-05-18 | 2026-09-16 |
 | [Fairfield](../../towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 4 | 98% | 2023-03-09 | 2024-03-13 |
+| [Milford](../../towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 5 | 95% | 2022-04-25 | 2026-08-27 |
 | [New Haven](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **6** | 1 | 3 | 91% | 2021-11-08 | 2022-09-21 |
-| [Darien](../../towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 82% | 2022-01-25 | 2026-01-21 |
-| [New Canaan](../../towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 84% | 2022-03-24 | 2025-09-17 |
+| [Darien](../../towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 90% | 2022-01-25 | 2026-01-21 |
+| [New Canaan](../../towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 89% | 2022-03-24 | 2025-09-17 |
 | [East Hartford](../../towns/east-hartford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 100% | 2025-04-23 | 2025-09-02 |
-| [East Windsor](../../towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 46% | 2026-02-05 | 2026-06-04 |
-| [Milford](../../towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 95% | 2022-04-25 | 2026-08-03 |
-| [New Milford](../../towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 44% | 2023-03-13 | 2026-02-09 |
+| [East Windsor](../../towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 68% | 2026-02-05 | 2026-06-04 |
+| [New Milford](../../towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 62% | 2023-03-13 | 2026-02-09 |
 | [West Hartford](../../towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 93% | 2024-11-14 | 2026-08-04 |
-| [Bethany](../../towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 70% | 2026-05-06 | 2026-05-06 |
-| [East Lyme](../../towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2026-05-18 | 2026-08-05 |
-| [Groton](../../towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 82% | 2023-03-13 | 2023-03-13 |
-| [Kent](../../towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 74% | 2022-07-21 | 2024-09-25 |
-| [Naugatuck](../../towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 58% | 2022-02-10 | 2022-02-10 |
-| [Berlin](../../towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 78% | 2026-05-15 | 2026-05-15 |
-| [East Granby](../../towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2024-05-28 | 2024-05-28 |
-| [East Haddam](../../towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 82% | 2025-11-05 | 2025-11-05 |
+| [Bethany](../../towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 85% | 2026-05-06 | 2026-05-06 |
+| [Groton](../../towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 88% | 2023-03-13 | 2023-03-13 |
+| [Kent](../../towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 82% | 2022-07-21 | 2024-09-25 |
+| [Mansfield](../../towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 86% | 2022-01-10 | 2022-01-10 |
+| [Naugatuck](../../towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 59% | 2022-02-10 | 2022-02-10 |
+| [North Haven](../../towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 28% | 2020-02-03 | 2025-09-29 |
+| [Berlin](../../towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 83% | 2026-05-15 | 2026-05-15 |
+| [Cheshire](../../towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 63% | 2023-04-06 | 2023-04-06 |
+| [East Granby](../../towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2024-05-28 | 2024-05-28 |
+| [East Haddam](../../towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 89% | 2025-11-05 | 2025-11-05 |
 | [Killingly](../../towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 64% | 2026-02-10 | 2026-02-10 |
 | [Ledyard](../../towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 44% | 2022-03-09 | 2022-03-09 |
 | Middletown ⁽ⁿᵖ⁾ | **1** | · | 1 | 19% | 2026-07-20 | 2026-07-20 |
-| [New Britain](../../towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 32% | 2021-10-04 | 2021-10-04 |
-| [Newington](../../towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 73% | 2022-08-22 | 2022-08-22 |
-| [North Branford](../../towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 71% | 2019-10-01 | 2019-10-01 |
-| [North Haven](../../towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 23% | 2025-09-29 | 2025-09-29 |
-| [Rocky Hill](../../towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 47% | 2026-04-06 | 2026-04-06 |
+| [New Britain](../../towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 34% | 2021-10-04 | 2021-10-04 |
+| [Newington](../../towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 74% | 2022-08-22 | 2022-08-22 |
+| [North Branford](../../towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 77% | 2019-10-01 | 2019-10-01 |
+| [Norwalk](../../towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 98% | 2026-07-23 | 2026-07-23 |
+| [Rocky Hill](../../towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 59% | 2026-04-06 | 2026-04-06 |
 | [Southington](../../towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2023-07-10 | 2023-07-10 |
 | [Suffield](../../towns/suffield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 90% | 2026-06-09 | 2026-06-09 |
+| [Vernon](../../towns/vernon/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 41% | 2026-09-15 | 2026-09-15 |
+| [Waterford](../../towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 44% | 2026-09-14 | 2026-09-14 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -116,47 +121,58 @@ _Most recent first within each town. Every line links to the exact second of the
 _67 further mentions in Hartford not shown here — all of them are in [Hartford's full report](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Stamford — 10 mentions
+### Stamford — 21 mentions
+
+- **[2024-01-24] (unassigned body)** — Social Services Commission Regular Meeting
+  > …pass the um past the um time for uh public comments but did you intend to make a comment um francis i know i'm just uh sitting in listening you know trying to learn you know things so no i have no comment at this point okay thank you welcome thank you um and if you have a if you have face recognition ability we'd love to see you um um no i am calling teleconferencing in so i'm calling through my l…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/13781)  [jump to 5:26 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_6b870eea-36e7-4f2a-87fa-26a4bf09c465.mp4#t=326)  _(term: `facial_recognition`)_
+
+- **[2022-01-08] Board of Representatives** — BOR Charter Revision Committee Meeting Pt.1
+  > …i think that people you know have some ways to reach their reps but i just think that they don't even know i think the communication would be better uh thank you for that um another part of your um your application your other quick ideas section 7-2 prevention of the use of facial recognition can you i i i can you just expand on that sure uh so my background has pretty much been in tech since the …
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11223)  [jump to 37:44 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_b8286b23-6419-463a-9984-9f9bcc64a1e3.mp4#t=2264)  _(term: `facial_recognition`)_
+
+- **[2022-01-08] Board of Representatives** — BOR Charter Revision Committee Meeting Pt.1
+  > …i i can you just expand on that sure uh so my background has pretty much been in tech since the early 90s uh i did study architecture and urban planning in college uh the problem with facial recognition is that there is probably a place for it but it requires very complicated language to explain the purpose and the usage of it i think it can easily lead to profiling by the the way my co-founder in…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11223)  [jump to 38:04 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_b8286b23-6419-463a-9984-9f9bcc64a1e3.mp4#t=2284)  _(term: `facial_recognition`)_
+
+- **[2022-01-08] Board of Representatives** — BOR Charter Revision Committee Meeting Pt.1
+  > …complicated language to explain the purpose and the usage of it i think it can easily lead to profiling by the the way my co-founder in the startup that i own currently uh he is a cto of a another startup that is that does facial recognition for police and uh the general perception is there is some favorable use of it but the guidelines across the nation are very very weak for it so it'll require …
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11223)  [jump to 38:28 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_b8286b23-6419-463a-9984-9f9bcc64a1e3.mp4#t=2308)  _(term: `facial_recognition`)_
+
+- **[2022-01-08] Board of Representatives** — BOR Charter Revision Committee Meeting Pt.1
+  > …so generally my default would be we take a stance on it prior to that unless people want to do you know significant research into the appropriate use of it um i i happen to agree with you about um facial recognition um i know that the city's police department uses it i guess uh live facial recognition um as opposed to i don't know what it would be called stationary facial recognition or something …
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11223)  [jump to 38:58 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_b8286b23-6419-463a-9984-9f9bcc64a1e3.mp4#t=2338)  _(term: `facial_recognition`)_
+
+- **[2022-01-08] Board of Representatives** — BOR Charter Revision Committee Meeting Pt.1
+  > …significant research into the appropriate use of it um i i happen to agree with you about um facial recognition um i know that the city's police department uses it i guess uh live facial recognition um as opposed to i don't know what it would be called stationary facial recognition or something like that um and uh so do you think that that is something you'd be i mean i know that the committee set…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11223)  [jump to 39:12 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_b8286b23-6419-463a-9984-9f9bcc64a1e3.mp4#t=2352)  _(term: `facial_recognition`)_
+
+- **[2022-01-08] Board of Representatives** — BOR Charter Revision Committee Meeting Pt.1
+  > …um i i happen to agree with you about um facial recognition um i know that the city's police department uses it i guess uh live facial recognition um as opposed to i don't know what it would be called stationary facial recognition or something like that um and uh so do you think that that is something you'd be i mean i know that the committee sets the agenda for the commission but um do you think …
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11223)  [jump to 39:18 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_b8286b23-6419-463a-9984-9f9bcc64a1e3.mp4#t=2358)  _(term: `facial_recognition`)_
+
+- **[2022-01-08] Board of Representatives** — BOR Charter Revision Committee Meeting Pt.1
+  > …regulation of it not have it be unfettered because basically you can run significant or very complicated searches and profile people very easily and it's not perfect i actually have a company myself that we use facial recognition to identify people in video for entertainment so so it's a pretty benign use of it but um leaving it without any kind of structure and and law around it is very very prob…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11223)  [jump to 40:00 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_b8286b23-6419-463a-9984-9f9bcc64a1e3.mp4#t=2400)  _(term: `facial_recognition`)_
+
+- **[2022-01-08] Board of Representatives** — BOR Charter Revision Committee Meeting Pt.1
+  > …are there any other questions from community members if not i i'll ask a question myself mr butler and i also think the it's interesting the approach your your uh you put on the table to about facial recognition how do you imagine that would fit into a charter revision uh without really knowing how that would be implemented i mean your your sort of stance was putting a position forward that we sho…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11223)  [jump to 43:57 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_b8286b23-6419-463a-9984-9f9bcc64a1e3.mp4#t=2637)  _(term: `facial_recognition`)_
+
+- **[2022-01-08] Board of Representatives** — BOR Charter Revision Committee Meeting Pt.1
+  > …said we need to use this for certain reasons well i believe that i believe the police are using it currently like what representative sherwood said uh there i believe they're using it like supposedly live facial recognition you'd have to ask them specifically what they're doing with it but honestly once you have that functionality there's many things you can do with it and you're really not bounde…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11223)  [jump to 44:34 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_b8286b23-6419-463a-9984-9f9bcc64a1e3.mp4#t=2674)  _(term: `facial_recognition`)_
+
+- **[2022-01-08] Board of Representatives** — BOR Charter Revision Committee Meeting Pt.1
+  > …i i understand the idea that anything could be abused so i but i i am still someone in favor of it because i i've seen it so many times where it has solved crimes but at the same time wouldn't you think most people in the in the city regardless of facial recognition itself there's someone of understanding that we're all being recorded you know like so many there's so many different locations where…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11223)  [jump to 46:02 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_b8286b23-6419-463a-9984-9f9bcc64a1e3.mp4#t=2762)  _(term: `facial_recognition`)_
 
 - **[2015-05-14] Camera Review Committee** — Camera Review Committee
   > …So with technology increasing, we do not consider it to be advanced technology anymore. As it was years ago. Facial recognition is something different that we are still considering to be advanced technology. The second, we wanted to put a definition of body worn videos in here. This would be body worn cameras for the Stanford Police Department.…
   [Watch ▸](https://cityofstamford.granicus.com/player/clip/3960)  [jump to 8:52 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_5fbebe7b-6143-43ef-acf4-d4205ae4c4bf.mp4#t=532)  _(term: `facial_recognition`)_
 
-- **[2015-05-14] Camera Review Committee** — Camera Review Committee
-  > …And there's a procedure to follow after the cameras are up to bring it forth to the CRC. The next area is page 16, 18.1. This is automatic identification, facial recognition technology, aberration software, or other enhancements. The recommendation was to remove the area that's highlighted, which speaks about specific perils such as fires, as well as information such as the registration number of …
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3960)  [jump to 13:38 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_5fbebe7b-6143-43ef-acf4-d4205ae4c4bf.mp4#t=818)  _(term: `facial_recognition`)_
 
-- **[2015-04-23] Camera Review Committee** — Camera Review Committee
-  > …Exactly. Right. And it's not-- it's-- advanced technology nowadays is more that facial recognition going into a database, and that's where I think a lot of people-- and I can't speak for the group that when they wrote this, but I know even now the feeling is people don't want any invasion of their privacy in terms of facial recognition, identification, in that sense. So, okay.…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3833)  [jump to 23:02 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_1928980e-bf6c-4887-852d-90dab3230042.mp4/playlist.m3u8#t=1382)  _(term: `facial_recognition`)_
-
-- **[2015-04-23] Camera Review Committee** — Camera Review Committee
-  > …Right. And it's not-- it's-- advanced technology nowadays is more that facial recognition going into a database, and that's where I think a lot of people-- and I can't speak for the group that when they wrote this, but I know even now the feeling is people don't want any invasion of their privacy in terms of facial recognition, identification, in that sense. So, okay. Kathy, I would just ask that …
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3833)  [jump to 23:11 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_1928980e-bf6c-4887-852d-90dab3230042.mp4/playlist.m3u8#t=1391)  _(term: `facial_recognition`)_
-
-- **[2015-04-23] Camera Review Committee** — Camera Review Committee
-  > …So, you know, from, certainly from the mall and Rexon's perspective, I think having Veterans Park be, you know, a safer place is in their business interests. You know, my sense is, if they are providing us with a feed of any cameras they place that are looking at Veterans Park, that they probably should be subject to the same requirements of retention. And, you know, non-use of facial recognition …
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3833)  [jump to 31:09 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_1928980e-bf6c-4887-852d-90dab3230042.mp4/playlist.m3u8#t=1869)  _(term: `facial_recognition`)_
-
-- **[2015-04-23] Camera Review Committee** — Camera Review Committee
-  > …Yeah. So I'll just move the poll on that. In section 18, 18.1, automatic identification, facial recognition, technology, apparition, software, other enhancement, my recommendation was to remove the area where it says specific perils, such as fire, as well as information, such as the registration number of a vehicle. Now, when they speak of registration number, I'm thinking they're talking about th…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3833)  [jump to 32:40 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_1928980e-bf6c-4887-852d-90dab3230042.mp4/playlist.m3u8#t=1960)  _(term: `facial_recognition`)_
-
-- **[2014-09-04] Camera Review Committee** — Camera Review Committee - Part 1
-  > …You know, we have license plate readers on our radio course, and they really only monitor the license plate, but I think we would want to see who is dumping them. It's a combination of both, right? So, and that's what they were saying, you know, advanced technologies, and they're the professionals, and we had Kevin Fitzgibbons from IT, I'd sit down with him too, just to discuss. So you would have …
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3092)  [jump to 3:14 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_4fbf1ad0-02f4-40ae-b069-de487b0f144b.mp4/playlist.m3u8#t=194)  _(term: `facial_recognition`)_
-
-- **[2014-09-04] Camera Review Committee** — Camera Review Committee - Part 1
-  > …So you would have the license plate reading camera at certain locations, and then another camera also to videotape to get facial recognition. So, with the first option, are we going to be able to see license plates or not? I believe you will, depending upon the vantage point of the video, so we'll have the capability to get the vehicle, the license plate, as well as hopefully facial recognition. I…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3092)  [jump to 3:38 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_4fbf1ad0-02f4-40ae-b069-de487b0f144b.mp4/playlist.m3u8#t=218)  _(term: `facial_recognition`)_
-
-- **[2014-09-04] Camera Review Committee** — Camera Review Committee - Part 1
-  > …If you want to use a license plate reader. And they, the board of reps, would have the authority to reject the use of that license plate reader. Well, but also go to the facial recognition then too. Yes. And if you're using facial recognition, that is another specifically identified enhancement technique.…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3092)  [jump to 7:44 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_4fbf1ad0-02f4-40ae-b069-de487b0f144b.mp4/playlist.m3u8#t=464)  _(term: `facial_recognition`)_
-
-- **[2014-09-04] Camera Review Committee** — Camera Review Committee - Part 1
-  > …Well, but also go to the facial recognition then too. Yes. And if you're using facial recognition, that is another specifically identified enhancement technique. That the board of reps, according to this policy, the board of reps is, is, is, is to be made aware of the use of those things. And they have the ability to say, we don't want the city using this.…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/3092)  [jump to 7:48 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_4fbf1ad0-02f4-40ae-b069-de487b0f144b.mp4/playlist.m3u8#t=468)  _(term: `facial_recognition`)_
+_9 further mentions in Stamford not shown here — all of them are in Stamford's full report (not yet published)._
 
 
 ### Bristol — 8 mentions
@@ -194,6 +210,37 @@ _67 further mentions in Hartford not shown here — all of them are in [Hartford
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RY0hm3buJ3A&t=1433s)  _(term: `facial_recognition`)_
 
 
+### East Lyme — 7 mentions
+
+- **[2026-09-16] Board of Selectmen** — East Lyme, CT Board of Selectmen - Public Hearing 09/16/2026
+  > …Um these cameras do not detect sound. They don't track cars. They don't use facial recognition. Uh they do not photograph drivers. The information that's gathered is not shared or sold.…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=251s)  _(term: `facial_recognition`)_
+
+- **[2026-09-16] Board of Selectmen** — East Lyme, CT Board of Selectmen - Public Hearing 09/16/2026
+  > …Department put up um all types of camera technologies uh both in terms of speed, red light, facial recognition, license plate recognition and whatnot. Um, I can tell you as again I have no skin in the…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=3091s)  _(term: `facial_recognition`)_
+
+- **[2026-09-16] Board of Selectmen** — East Lyme, CT Board of Selectmen - Public Hearing 09/16/2026
+  > …children, adults, men, women, um, puppy dogs, kittens, everything out there. I'm for facial recognition, license plate recognition, whatever you can, whatever you have. I do understand…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=3380s)  _(term: `facial_recognition`)_
+
+- **[2026-09-16] Board of Selectmen** — East Lyme, CT Board of Selectmen - Public Hearing 09/16/2026
+  > …departments also helping. But we need we need more. I feel that you really need more facial recognition. You need more license plate recognition to stop whatever is coming into our…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UPLlpcRJPkU&t=3457s)  _(term: `facial_recognition`)_
+
+- **[2026-09-16] Board of Selectmen** — Board of Selectmen Minutes - 2026-09-16
+  > …PLATE OF SPEEDS AT LEAST 11 mph OR MORE . DOES NOT DETECT SOUND . SECURE EXCHANGE OF INFORMATION . DOES NOT TRACK CARS . USES NLETS/SOC 2 ryPE IIl AND CJIS . DOES NOT USE FACIAL RECOGNITION COMPLIANT . USES THIRD PARTY AUDITS TO ENSURE . DOES NOT PHOTOGRAPH DRIVERS COMPLIANCE WITH SECURIry AND RETENTION . INFORMATION IS NOT SHARED OR SOLD . $50 FINE FIRS…
+  [Open document ▸](https://eltownhall.com/wp-content/uploads/2026/09/BOS-September-16-2026-Public-Hearing-Minutes.pdf)  _(agenda/minutes · term: `facial_recognition`)_
+
+- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
+  > …story about how this technology screwed up and uh misidentified somebody with facial recognition or misread a license plate and all of a sudden, you know, the police are coming out, guns drawn on a…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=609s)  _(term: `facial_recognition`)_
+
+- **[2026-05-18] Board of Education** — Board of Education: May 18th, 2026
+  > …that environment. It's just information only and sort of getting facial recognition, so Sarah Furman is there, she's got some swag, kids come up to the table. It's just a…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=R7wIipF5fBY&t=2049s)  _(term: `facial_recognition`)_
+
+
 ### Fairfield — 7 mentions
 
 - **[2024-03-13] Board of Selectmen** — Board of Selectmen (Regular Meeting) - 3/13/2024
@@ -223,6 +270,33 @@ _67 further mentions in Hartford not shown here — all of them are in [Hartford
 - **[2023-03-09] Board of Selectmen** — Board of Selectmen 3-9-2023 Special Meeting
   > …where driver's license was required tired to show proof of age and to step it up this year we are doing a facial recognition so rather than just taking a picture of your driver's license you…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=q8KPmrygn5k&t=2489s)  _(term: `facial_recognition`)_
+
+
+### Milford — 6 mentions
+
+- **[2026-08-27] Board of Aldermen** — Board of Aldermen Special Meeting 08/27/2026
+  > …they're just the beginning of a a product pipeline that includes dozens of different products, including facial recognition, drones, and even AI agents to answer 911 calls that Flock Safety…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UpmNRic4chc&t=6759s)  _(term: `facial_recognition`)_
+
+- **[2026-08-27] Board of Aldermen** — Board of Aldermen Special Meeting 08/27/2026
+  > …that you you need to take into account. Last thing I'll say is uh I'm not talking facial recognition here. That's uh very much overdated. The lowhanging fruit to who you are is your vehicle.…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UpmNRic4chc&t=7536s)  _(term: `facial_recognition`)_
+
+- **[2026-08-03] Board of Aldermen** — Board Of Aldermen 08/03/2026
+  > …We are also learning that due to errors being made, whether it be plate misreads, poor facial recognition, or human care, carelessness during data entry, dozens of innocent people's lives…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9372s)  _(term: `facial_recognition`)_
+
+- **[2024-04-22] Board of Aldermen** — Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
+  > …question because there is one new item in there and that's clar view for $8,600 um and that's uh a facial recognition software that we've been borrowing from other communities to…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=3791s)  _(term: `facial_recognition`)_
+
+- **[2024-04-22] Board of Aldermen** — Board Of Aldermen  4/22/24 Budget Hearing FY '25
+  > …question because there is one new item in there and that's Clair view for $8,600 um and that's uh a facial recognition software that we've been borrowing from other communities to…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=4074s)  _(term: `facial_recognition`)_
+
+- **[2022-04-25] Board of Aldermen** — Board of Aldermen: Budget Hearing 04/25/2022
+  > …would hold but that's the best I can give you um you know there's been talk about other things like facial recognition and some of those things um they're still kind of the jury's out…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMl482q5Thg&t=7946s)  _(term: `facial_recognition`)_
 
 
 ### New Haven — 6 mentions
@@ -336,25 +410,6 @@ _67 further mentions in Hartford not shown here — all of them are in [Hartford
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=1DizUvytqng&t=3041s)  _(term: `facial_recognition`)_
 
 
-### Milford — 4 mentions
-
-- **[2026-08-03] Board of Aldermen** — Board Of Aldermen 08/03/2026
-  > …We are also learning that due to errors being made, whether it be plate misreads, poor facial recognition, or human care, carelessness during data entry, dozens of innocent people's lives…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=9372s)  _(term: `facial_recognition`)_
-
-- **[2024-04-22] Board of Aldermen** — Board Of Aldermen 04/22/2024 Budget Hearing FY 24-25
-  > …question because there is one new item in there and that's clar view for $8,600 um and that's uh a facial recognition software that we've been borrowing from other communities to…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hIUC2yIbtyI&t=3791s)  _(term: `facial_recognition`)_
-
-- **[2024-04-22] Board of Aldermen** — Board Of Aldermen  4/22/24 Budget Hearing FY '25
-  > …question because there is one new item in there and that's Clair view for $8,600 um and that's uh a facial recognition software that we've been borrowing from other communities to…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RevSNQ4kLS4&t=4074s)  _(term: `facial_recognition`)_
-
-- **[2022-04-25] Board of Aldermen** — Board of Aldermen: Budget Hearing 04/25/2022
-  > …would hold but that's the best I can give you um you know there's been talk about other things like facial recognition and some of those things um they're still kind of the jury's out…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gMl482q5Thg&t=7946s)  _(term: `facial_recognition`)_
-
-
 ### New Milford — 4 mentions
 
 - **[2026-02-09] Town Council** — Regular Meeting of the Town Council / February 9th, 2026 / New Milford, CT
@@ -400,17 +455,6 @@ _67 further mentions in Hartford not shown here — all of them are in [Hartford
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=fn4sGw6Qlp4&t=10642s)  _(term: `facial_recognition`)_
 
 
-### East Lyme — 2 mentions
-
-- **[2026-08-05] Board of Selectmen** — East Lyme, CT Board of Selectmen 08/05/2026
-  > …story about how this technology screwed up and uh misidentified somebody with facial recognition or misread a license plate and all of a sudden, you know, the police are coming out, guns drawn on a…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7GJ0bZjNRIA&t=609s)  _(term: `facial_recognition`)_
-
-- **[2026-05-18] Board of Education** — Board of Education: May 18th, 2026
-  > …that environment. It's just information only and sort of getting facial recognition, so Sarah Furman is there, she's got some swag, kids come up to the table. It's just a…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=R7wIipF5fBY&t=2049s)  _(term: `facial_recognition`)_
-
-
 ### Groton — 2 mentions
 
 - **[2023-03-13] Planning and Zoning Commission** — Groton Planning and Zoning Commission - 3/13/23
@@ -433,6 +477,17 @@ _67 further mentions in Hartford not shown here — all of them are in [Hartford
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DYZKekA-9Rc&t=1194s)  _(term: `facial_recognition`)_
 
 
+### Mansfield — 2 mentions
+
+- **[2022-01-10] Commission on Aging** — Commission on Aging 01/10/2022
+  > …like john says it's good to see everybody's face i've got a phone that does facial recognition it doesn't like the masks…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AF1Ps84m7s&t=298s)  _(term: `facial_recognition`)_
+
+- **[2022-01-10] Commission on Aging** — Commission on Aging 01/10/2022
+  > …uh you know if he wants something and um i keep having to unlock my phone i'm so used to the facial recognition that you know it's funny how fast you get used to some of those things yes…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AF1Ps84m7s&t=322s)  _(term: `facial_recognition`)_
+
+
 ### Naugatuck — 2 mentions
 
 - **[2022-02-10] Board of Education** — Naugatuck Board of Education Meeting Feb. 10, 2022
@@ -444,11 +499,29 @@ _67 further mentions in Hartford not shown here — all of them are in [Hartford
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZjYeVPNY_ik&t=3148s)  _(term: `facial_recognition`)_
 
 
+### North Haven — 2 mentions
+
+- **[2025-09-29] Town Meeting** — Annual Town Meeting 09/29/2025
+  > …front end of the vehicle. We're not looking to capture people's images and get into the world of facial recognition and who's the actual driver. That's why it's the back of the vehicle only and…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pIrF-2jl39g&t=4859s)  _(term: `facial_recognition`)_
+
+- **[2020-02-03] Town Meeting** — Special Town Meeting - 02/03/2020
+  > …would probably be a lot more effective than anything you can do with taping up your doors or facial recognition or RFID or anything that we're going to be expected to do in the 21st century but I…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-75E9zqCLBo&t=2892s)  _(term: `facial_recognition`)_
+
+
 ### Berlin — 1 mention
 
 - **[2026-05-15] Parks and Recreation Commission** — Parks and Recreation Commission 5 15 2026
   > …public park. We're not >> although I did hear from see comments that we're getting facial recognition software. Wait, there's a lot of I like that.…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=dIK4agun5Xw&t=3382s)  _(term: `facial_recognition`)_
+
+
+### Cheshire — 1 mention
+
+- **[2023-04-06] Town Council** — Town Council 4-6-23
+  > …more fancy I just found out you know we interviewed cleaning companies they use facial recognition for their employee punching and punch out so yeah okay and our doors of Jesus that's an accessory…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wnkdARoD6DE&t=2735s)  _(term: `facial_recognition`)_
 
 
 ### East Granby — 1 mention
@@ -507,11 +580,11 @@ _67 further mentions in Hartford not shown here — all of them are in [Hartford
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IC7aobeJJSo&t=4238s)  _(term: `facial_recognition`)_
 
 
-### North Haven — 1 mention
+### Norwalk — 1 mention
 
-- **[2025-09-29] Town Meeting** — Annual Town Meeting 09/29/2025
-  > …front end of the vehicle. We're not looking to capture people's images and get into the world of facial recognition and who's the actual driver. That's why it's the back of the vehicle only and…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pIrF-2jl39g&t=4859s)  _(term: `facial_recognition`)_
+- **[2026-07-23] Public Safety and General Government Committee** — Public Safety and General Government Committee Other - 2026-07-23
+  > …Applicant Fingerprinting Services 1. Agreement This Agreement is entered into as of the date of last signature of the Parties (the “Effective Date”) by and between Biometric Identification Services, LLC (BIS) and the City of Norwalk on behalf of its Police Department (Agency) and sets forth the services that will be provided by BIS to the Agency in…
+  [Open document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15740,plainText=false))  _(agenda/minutes · term: `facial_recognition`)_
 
 
 ### Rocky Hill — 1 mention
@@ -533,4 +606,18 @@ _67 further mentions in Hartford not shown here — all of them are in [Hartford
 - **[2026-06-09] Kent Memorial Library Commission** — KMLC regular meeting June 9 2026
   > …>> can't find out their name. >> It's true. >> Facial recognition software. It's also difficult for staff because not all staff is on at the same time. So…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=sAHqokYkb1U&t=2910s)  _(term: `facial_recognition`)_
+
+
+### Vernon — 1 mention
+
+- **[2026-09-15] Town Council** — The Tuesday, September 15, 2026 Town Council meeting of the Town of Vernon, Connecticut.
+  > …infrastructure of the cameras that needs to be removed. facial recognition or audio for the data for now. Several towns and cities across the…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=U4FfzrA1BiU&t=726s)  _(term: `facial_recognition`)_
+
+
+### Waterford — 1 mention
+
+- **[2026-09-14] Board of Police Commissioners** — Board of Police Commissioners 2026/09/14
+  > …as far as who is the owner of that car. Um it does not um scan for people. It does there's no facial recognition. None of that is in the cameras themselves. Um that data is held for 21 days. Um we…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_IMjdKqej3s&t=1296s)  _(term: `facial_recognition`)_
 

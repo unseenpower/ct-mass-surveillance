@@ -1,6 +1,6 @@
 # Meetings to watch
 
-_Generated 2026-09-24T12:05:10._
+_Generated 2026-09-25T17:20:14._
 
 
 Where surveillance technology is most likely to come up next in a Connecticut municipal meeting. Two sections, deliberately kept apart: meetings with it **confirmed on a published agenda**, and bodies where it is **likely** because they keep returning to it.
@@ -18,53 +18,11 @@ This section fills in when a newer sweep is imported. An empty section means no 
 
 ## On the municipal calendars
 
-_280 upcoming public meeting(s) across 36 town(s) in the next 120 days, taken from the towns' own calendar feeds, including 8 cancelled. **These are scheduled meetings, not confirmed agenda items** — nobody has read these agendas. Bodies with a surveillance track record are marked ◆._
+_244 upcoming public meeting(s) across 35 town(s) in the next 120 days, taken from the towns' own calendar feeds, including 6 cancelled. **These are scheduled meetings, not confirmed agenda items** — nobody has read these agendas. Bodies with a surveillance track record are marked ◆._
 
 
 | Date | Town | Meeting | Track record |
 | --- | --- | --- | --- |
-| **2026-09-24** | [Ashford](towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | [Board of Finance Meeting](https://ct-ashford.civicplus.com/Calendar.aspx?EID=1688) | ◆ **3 prior mentions** |
-| **2026-09-24** | [Bloomfield](towns/bloomfield/surveillance-tech-transcript-and-agenda-report.md) | [Town Plan & Zoning Commission Meeting](https://www.bloomfieldct.gov/Calendar.aspx?EID=2858) | — |
-| **2026-09-24** | Burlington | [Planning & Zoning Commission](https://www.burlingtonct.gov/Calendar.aspx?EID=1183) | — |
-| **2026-09-24** | [Cheshire](towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | [Water Pollution Control Authority](https://www.cheshirect.gov/Calendar.aspx?EID=1626) | — |
-| **2026-09-24** | [Cheshire](towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | [Next Generation School Building Committee](https://www.cheshirect.gov/Calendar.aspx?EID=1452) | ◆ **7 prior mentions** |
-| **2026-09-24** | [Chester](towns/chester/surveillance-tech-transcript-and-agenda-report.md) | [Chester Board of Education Meeting](https://www.chesterct.org/Calendar.aspx?EID=662) | — |
-| **2026-09-24** | [Chester](towns/chester/surveillance-tech-transcript-and-agenda-report.md) | [Board of Fire Commissioners Special Meeting](https://www.chesterct.gov/Calendar.aspx?EID=675) | — |
-| **2026-09-24** | [Clinton](towns/clinton/surveillance-tech-transcript-and-agenda-report.md) | [Sustainability Committee Regular Meeting](https://clintonct.org/Calendar.aspx?EID=15096) | — |
-| **2026-09-24** | [Clinton](towns/clinton/surveillance-tech-transcript-and-agenda-report.md) | [Sustainability Committee VIRTUAL Meeting](https://clintonct.org/Calendar.aspx?EID=15096) | — |
-| **2026-09-24** | [Coventry](towns/coventry/surveillance-tech-transcript-and-agenda-report.md) | [Economic Development Commission meeting](https://www.coventry-ct.gov/Calendar.aspx?EID=10421) | — |
-| **2026-09-24** | [Coventry](towns/coventry/surveillance-tech-transcript-and-agenda-report.md) | [Council Woman Lisa Thomas](https://www.coventry-ct.gov/Calendar.aspx?EID=10781) | — |
-| **2026-09-24** | [Cromwell](towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | [Board of Finance](https://www.cromwellct.gov/Calendar.aspx?EID=727) | ◆ **6 prior mentions** |
-| **2026-09-24** | [Cromwell](towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | ~~[Board of Finance - CANCELLED!](https://www.cromwellct.gov/Calendar.aspx?EID=727)~~ | ◆ **6 prior mentions** |
-| **2026-09-24** | [Danbury](towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | [Zoning Board of Appeals](https://www.danbury-ct.gov/Calendar.aspx?EID=2108) | ◆ **1 prior mentions** |
-| **2026-09-24** | [Danbury](towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | ~~[Zoning Board of Appeals- CANCELLED](https://www.danbury-ct.gov/Calendar.aspx?EID=2108)~~ | ◆ **1 prior mentions** |
-| **2026-09-24** | [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | [Great Island Parking Design Committee](https://www.darienct.gov/Calendar.aspx?EID=2352) | — |
-| **2026-09-24** | [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | [Advisory Sidewalk Committee](https://www.darienct.gov/Calendar.aspx?EID=2341) | — |
-| **2026-09-24** | Essex | [Harbor Management Commission Meeting](https://www.essexct.gov/Calendar.aspx?EID=517) | — |
-| **2026-09-24** | [Haddam](towns/haddam/surveillance-tech-transcript-and-agenda-report.md) | [Zoning Board of Appeals](https://www.haddam.org/Calendar.aspx?EID=1016) | — |
-| **2026-09-24** | [Lisbon](towns/lisbon/surveillance-tech-transcript-and-agenda-report.md) | [Lisbon Democrat Town Committee Meeting](https://www.lisbonct.gov/Calendar.aspx?EID=653) | — |
-| **2026-09-24** | [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | [School Building Committee](https://www.mansfieldct.gov/Calendar.aspx?EID=16346) | ◆ **28 prior mentions** |
-| **2026-09-24** | [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | [Board of Education](https://www.mansfieldct.gov/Calendar.aspx?EID=17897) | ◆ **3 prior mentions** |
-| **2026-09-24** | [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | [Board of Education Meeting](https://www.mansfieldct.gov/Calendar.aspx?EID=18609) | ◆ **3 prior mentions** |
-| **2026-09-24** | [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | [Board of Education - Transportation/Communications Committee](https://www.mansfieldct.gov/Calendar.aspx?EID=17898) | ◆ **3 prior mentions** |
-| **2026-09-24** | [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | [Library Renovations/Addition Project Building Committee Regular Meeting](https://www.newingtonct.gov/Calendar.aspx?EID=13948) | — |
-| **2026-09-24** | [North Stonington](towns/north-stonington/surveillance-tech-transcript-and-agenda-report.md) | [Water Pollution Control Authority](https://www.northstoningtonct.gov/Calendar.aspx?EID=767) | — |
-| **2026-09-24** | [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | [Commission on the City Plan](https://www.norwichct.gov/Calendar.aspx?EID=11531) | ◆ **3 prior mentions** |
-| **2026-09-24** | [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | [Norwich Democratic Town Committee](https://www.norwichct.gov/Calendar.aspx?EID=11036) | — |
-| **2026-09-24** | [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | [CMEEC & CTMEEC - Joint Board of Directors](https://www.norwichct.gov/Calendar.aspx?EID=11116) | — |
-| **2026-09-24** | [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | [9AM Housing Strategic Planning Steering Committee](https://www.oldlyme-ct.gov/Calendar.aspx?EID=7821) | — |
-| **2026-09-24** | [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | [Mariners Way Ad Hoc Committee](https://www.oldsaybrookct.gov/Calendar.aspx?EID=1023) | — |
-| **2026-09-24** | [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | [Pension and Benefits Board Regular Meeting](https://www.oldsaybrookct.gov/Calendar.aspx?EID=1056) | — |
-| **2026-09-24** | Salem | [Board Of Assessment Appeals Special Meeting](https://www.salemct.gov/Calendar.aspx?EID=938) | — |
-| **2026-09-24** | [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | [Culture, Parks and Recreation Commission](https://www.simsbury-ct.gov/Calendar.aspx?EID=724) | — |
-| **2026-09-24** | [Sterling](towns/sterling/surveillance-tech-transcript-and-agenda-report.md) | [Inland Wetland & Watercourses Commission Regular Meeting](https://www.sterlingct.gov/Calendar.aspx?EID=1101) | — |
-| **2026-09-24** | [Waterford](towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | [SCRRRA Executive Committee Meeting](https://www.waterfordct.gov/Calendar.aspx?EID=6841) | — |
-| **2026-09-24** | [Waterford](towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | [Board of Education Meeting](https://www.waterfordct.gov/Calendar.aspx?EID=6894) | — |
-| **2026-09-24** | [Waterford](towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | [Conservation Commission Meeting](https://www.waterfordct.gov/Calendar.aspx?EID=6877) | — |
-| **2026-09-24** | [Waterford](towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | ~~[Conservation Commission Meeting - CANCELLED](https://www.waterfordct.gov/Calendar.aspx?EID=6877)~~ | — |
-| **2026-09-24** | [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | [Parks & Recreation Advisory Board and Harbor Management Commission](https://www.wethersfieldct.gov/Calendar.aspx?EID=1393) | — |
-| **2026-09-24** | [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | [Joint Committee of Town Council and Board of Education](https://www.wethersfieldct.gov/Calendar.aspx?EID=1381) | ◆ **25 prior mentions** |
-| **2026-09-24** | [Windsor](towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | [Wilson/Deerfield Advisory Committee Meeting](https://www.windsorct.gov/Calendar.aspx?EID=3019) | — |
 | **2026-09-25** | [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | [Advisory Sidewalk Committee](https://www.darienct.gov/Calendar.aspx?EID=2341) | — |
 | **2026-09-25** | [Orange](towns/orange/surveillance-tech-transcript-and-agenda-report.md) | [Emergency Management Advisory Council](https://www.orange-ct.gov/Calendar.aspx?EID=3001) | — |
 | **2026-09-28** | [Ashford](towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | [Conservation Commission Meeting](https://ct-ashford.civicplus.com/Calendar.aspx?EID=1511) | ◆ **3 prior mentions** |
@@ -85,8 +43,8 @@ _280 upcoming public meeting(s) across 36 town(s) in the next 120 days, taken fr
 | **2026-09-28** | [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | [Town Council Finance Committee](https://www.mansfieldct.gov/Calendar.aspx?EID=16322) | ◆ **16 prior mentions** |
 | **2026-09-28** | [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | [Town Council](https://www.mansfieldct.gov/Calendar.aspx?EID=16310) | ◆ **16 prior mentions** |
 | **2026-09-28** | Middlebury | [Economic Development Commission](https://www.middleburyct.gov/Calendar.aspx?EID=447) | — |
-| **2026-09-28** | [Milford](towns/milford/surveillance-tech-transcript-and-agenda-report.md) | [Board of Education Regular Meeting](https://www.milfordct.us/Calendar.aspx?EID=1683) | ◆ **2 prior mentions** |
 | **2026-09-28** | [Milford](towns/milford/surveillance-tech-transcript-and-agenda-report.md) | [Board of Finance Regular Meeting](https://www.milfordct.us/Calendar.aspx?EID=1616) | ◆ **42 prior mentions** |
+| **2026-09-28** | [Milford](towns/milford/surveillance-tech-transcript-and-agenda-report.md) | [Board of Education Regular Meeting](https://www.milfordct.us/Calendar.aspx?EID=1683) | ◆ **2 prior mentions** |
 | **2026-09-28** | [North Stonington](towns/north-stonington/surveillance-tech-transcript-and-agenda-report.md) | [Special Town Meeting](https://www.northstoningtonct.gov/Calendar.aspx?EID=834) | — |
 | **2026-09-28** | [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | [Eastern Regional Tourism District - Finance Committee](https://www.norwichct.gov/Calendar.aspx?EID=11061) | — |
 | **2026-09-28** | [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | [5:30pm America 250 Committee](https://www.oldlyme-ct.gov/Calendar.aspx?EID=7543) | — |
@@ -94,13 +52,15 @@ _280 upcoming public meeting(s) across 36 town(s) in the next 120 days, taken fr
 | **2026-09-28** | [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | [Police Commission Regular Meeting](https://www.oldsaybrookct.gov/Calendar.aspx?EID=648) | ◆ **7 prior mentions** |
 | **2026-09-28** | [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | [Architectural Review Board](https://www.oldsaybrookct.gov/Calendar.aspx?EID=744) | — |
 | **2026-09-28** | Preston | [Preston Conservation and Agricultural Commission](https://www.prestonct.gov/Calendar.aspx?EID=2742) | — |
+| **2026-09-28** | Preston | [DEMOCRATIC TOWN COMMITTEE](https://www.prestonct.gov/Calendar.aspx?EID=3059) | — |
 | **2026-09-28** | [Rocky Hill](towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | [Senior Liaison Committee Meeting](https://www.rockyhillct.gov/Calendar.aspx?EID=1608) | — |
 | **2026-09-28** | [Rocky Hill](towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | [Sustainable Rocky Hill Task Force](https://www.rockyhillct.gov/Calendar.aspx?EID=1557) | — |
 | **2026-09-28** | [Roxbury](towns/roxbury/surveillance-tech-transcript-and-agenda-report.md) | [Library Board of Directors Special Meeting](https://www.roxburyct.com/Calendar.aspx?EID=1265) | — |
 | **2026-09-28** | Sharon | [Historic District Commission Regular Meeting](https://www.sharonct.gov/Calendar.aspx?EID=1035) | — |
-| **2026-09-28** | [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | [Board of Selectmen](https://www.simsbury-ct.gov/Calendar.aspx?EID=658) | ◆ **41 prior mentions** |
+| **2026-09-28** | [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | [Board of Selectmen](https://www.simsbury-ct.gov/Calendar.aspx?EID=658) | ◆ **42 prior mentions** |
 | **2026-09-28** | [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | [Advisory School Building Committee](https://www.wethersfieldct.gov/Calendar.aspx?EID=1528) | — |
 | **2026-09-28** | [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | [Zoning Board of Appeals](https://www.wethersfieldct.gov/Calendar.aspx?EID=1367) | — |
+| **2026-09-28** | [Windsor](towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | [Finance Committee Special Meeting](https://www.windsorct.gov/Calendar.aspx?EID=3163) | — |
 | **2026-09-29** | [Bloomfield](towns/bloomfield/surveillance-tech-transcript-and-agenda-report.md) | [Bloomfield Charter Revision Commission Special Meeting: Public Hearing](https://www.bloomfieldct.gov/Calendar.aspx?EID=3436) | — |
 | **2026-09-29** | [Cheshire](towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | [Inland Wetlands and Watercourses Commission: Executive Session](https://www.cheshirect.gov/Calendar.aspx?EID=1846) | — |
 | **2026-09-29** | [Chester](towns/chester/surveillance-tech-transcript-and-agenda-report.md) | [R4 Fields Renovation Advisory Committee Meeting](https://www.chesterct.gov/Calendar.aspx?EID=676) | — |
@@ -114,18 +74,20 @@ _280 upcoming public meeting(s) across 36 town(s) in the next 120 days, taken fr
 | **2026-09-30** | [Danbury](towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | [Civil Service Commission Meeting](https://www.danbury-ct.gov/Calendar.aspx?EID=2226) | — |
 | **2026-09-30** | [Haddam](towns/haddam/surveillance-tech-transcript-and-agenda-report.md) | [Conservation Commission](https://www.haddam.org/Calendar.aspx?EID=942) | — |
 | **2026-09-30** | [Windsor](towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | [Public Building Commission Special Meeting](https://www.windsorct.gov/Calendar.aspx?EID=3160) | — |
+| **2026-09-30** | [Windsor](towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | [Town Improvements Committee Special Meeting](https://www.windsorct.gov/Calendar.aspx?EID=3180) | — |
 | **2026-10-01** | [Ashford](towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | [Ashford Board of Education Meeting](https://ct-ashford.civicplus.com/Calendar.aspx?EID=1708) | — |
 | **2026-10-01** | [Bloomfield](towns/bloomfield/surveillance-tech-transcript-and-agenda-report.md) | [Fair Rent Commission Meeting](https://www.bloomfieldct.gov/Calendar.aspx?EID=2718) | — |
 | **2026-10-01** | [Bloomfield](towns/bloomfield/surveillance-tech-transcript-and-agenda-report.md) | [Design Review Board Meeting](https://www.bloomfieldct.gov/Calendar.aspx?EID=2959) | — |
+| **2026-10-01** | [Bloomfield](towns/bloomfield/surveillance-tech-transcript-and-agenda-report.md) | ~~[CANCELLED: Fair Rent Commission Meeting](https://www.bloomfieldct.gov/Calendar.aspx?EID=2718)~~ | — |
 | **2026-10-01** | Bozrah | [Inland Wetland & Conservation Commission Regular Meeting](https://www.townofbozrah.org/Calendar.aspx?EID=1886) | — |
 | **2026-10-01** | Canton | [Permanent Insurance Committee](https://www.townofcantonct.gov/Calendar.aspx?EID=517) | — |
 | **2026-10-01** | [Cheshire](towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | [Veterans Advisory Committee](https://www.cheshirect.gov/Calendar.aspx?EID=1678) | — |
-| **2026-10-01** | [Chester](towns/chester/surveillance-tech-transcript-and-agenda-report.md) | [Supervision District BOE Meeting](https://www.chesterct.org/Calendar.aspx?EID=665) | — |
 | **2026-10-01** | [Chester](towns/chester/surveillance-tech-transcript-and-agenda-report.md) | [R4 BOE (Board of Education) Meeting Immediately Following Joint BOE Meeting](https://www.chesterct.org/Calendar.aspx?EID=667) | — |
 | **2026-10-01** | [Chester](towns/chester/surveillance-tech-transcript-and-agenda-report.md) | [Conservation Commission Meeting](https://www.chesterct.org/Calendar.aspx?EID=426) | — |
+| **2026-10-01** | [Chester](towns/chester/surveillance-tech-transcript-and-agenda-report.md) | [Supervision District BOE Meeting](https://www.chesterct.org/Calendar.aspx?EID=665) | — |
 | **2026-10-01** | [Cromwell](towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | [Recreation Commission](https://www.cromwellct.gov/Calendar.aspx?EID=836) | — |
-| **2026-10-01** | [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | [Advisory Sidewalk Committee](https://www.darienct.gov/Calendar.aspx?EID=2342) | — |
 | **2026-10-01** | [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | [Police Commission Meeting](https://www.darienct.gov/Calendar.aspx?EID=2002) | ◆ **73 prior mentions** |
+| **2026-10-01** | [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | [Advisory Sidewalk Committee](https://www.darienct.gov/Calendar.aspx?EID=2342) | — |
 | **2026-10-01** | [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | ~~[Police Commission Meeting CANCELLED](https://www.darienct.gov/Calendar.aspx?EID=2002)~~ | ◆ **73 prior mentions** |
 | **2026-10-01** | [Haddam](towns/haddam/surveillance-tech-transcript-and-agenda-report.md) | [Planning and Zoning Commission](https://www.haddam.org/Calendar.aspx?EID=1028) | — |
 | **2026-10-01** | [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | [Affordable Housing Committee Meeting](https://www.mansfieldct.gov/Calendar.aspx?EID=16204) | ◆ **2 prior mentions** |
@@ -166,7 +128,7 @@ _280 upcoming public meeting(s) across 36 town(s) in the next 120 days, taken fr
 | **2026-10-05** | [North Branford](towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | [Permanent Project Building Committee Meeting](https://www.northbranfordct.gov/Calendar.aspx?EID=1951) | — |
 | **2026-10-05** | [North Stonington](towns/north-stonington/surveillance-tech-transcript-and-agenda-report.md) | [Hewitt Farm Committee](https://www.northstoningtonct.gov/Calendar.aspx?EID=769) | — |
 | **2026-10-05** | [North Stonington](towns/north-stonington/surveillance-tech-transcript-and-agenda-report.md) | [Economic Development Commission](https://www.northstoningtonct.gov/Calendar.aspx?EID=770) | — |
-| **2026-10-05** | [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | [City Council](https://www.norwichct.gov/Calendar.aspx?EID=11021) | ◆ **40 prior mentions** |
+| **2026-10-05** | [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | [City Council](https://www.norwichct.gov/Calendar.aspx?EID=11021) | ◆ **41 prior mentions** |
 | **2026-10-05** | [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | [9am Historic District Commission](https://www.oldlyme-ct.gov/Calendar.aspx?EID=5740) | ◆ **3 prior mentions** |
 | **2026-10-05** | [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | [5:30pm Board of Selectmen Meeting](https://www.oldlyme-ct.gov/Calendar.aspx?EID=7497) | ◆ **20 prior mentions** |
 | **2026-10-05** | [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | [Zoning Commission](https://www.oldsaybrookct.gov/Calendar.aspx?EID=661) | — |
@@ -182,6 +144,7 @@ _280 upcoming public meeting(s) across 36 town(s) in the next 120 days, taken fr
 | **2026-10-05** | [Waterford](towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | [Representative Town Meeting (RTM)](https://www.waterfordct.gov/Calendar.aspx?EID=7096) | ◆ **2 prior mentions** |
 | **2026-10-05** | [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | [Town Council](https://www.wethersfieldct.gov/Calendar.aspx?EID=1259) | ◆ **25 prior mentions** |
 | **2026-10-05** | [Windsor](towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | [Town Council Regular Meeting](https://www.windsorct.gov/Calendar.aspx?EID=2904) | — |
+| **2026-10-05** | [Windsor](towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | [Public Hearing - to hear public comment on "AN ORDINANCE AMENDING CHAPTER 3, ARTICLE III, FLOOPLAIN MANAGEMENT."](https://www.windsorct.gov/Calendar.aspx?EID=3179) | — |
 | **2026-10-06** | [Ashford](towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | [Regional School District #19 Board of Education Meeting](https://ct-ashford.civicplus.com/Calendar.aspx?EID=1733) | — |
 | **2026-10-06** | [Ashford](towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | [Inland Wetlands & Watercourses Commission Meeting](https://ct-ashford.civicplus.com/Calendar.aspx?EID=1622) | — |
 | **2026-10-06** | [Bloomfield](towns/bloomfield/surveillance-tech-transcript-and-agenda-report.md) | [Youth Adult Council Meeting](https://www.bloomfieldct.gov/Calendar.aspx?EID=3086) | — |
@@ -303,296 +266,301 @@ _280 upcoming public meeting(s) across 36 town(s) in the next 120 days, taken fr
 | **2026-10-08** | [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | [Water Pollution Control Authority](https://www.simsbury-ct.gov/Calendar.aspx?EID=901) | — |
 | **2026-10-08** | [Waterford](towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | [Conservation Commission Meeting](https://www.waterfordct.gov/Calendar.aspx?EID=6878) | — |
 | **2026-10-08** | [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | [Economic Development & Improvement Commission](https://www.wethersfieldct.gov/Calendar.aspx?EID=1215) | — |
+| **2026-10-09** | [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | [Simsbury Housing Authority](https://www.simsbury-ct.gov/Calendar.aspx?EID=804) | — |
 
 ## Scheduled: meetings already on the calendar
 
-_11 meeting(s) in the next 120 days, taken from livestreams the towns themselves have already scheduled. 11 of them are bodies that have discussed surveillance before — those are the ones marked ◆ and are the best use of an evening._
+_13 meeting(s) in the next 120 days, taken from livestreams the towns themselves have already scheduled. 12 of them are bodies that have discussed surveillance before — those are the ones marked ◆ and are the best use of an evening._
 
 
 | Date | Town | Meeting body | Track record |
 | --- | --- | --- | --- |
-| **2026-09-25** | [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | [Historic District Commission](https://www.youtube.com/watch?v=_Qtvq2Gcsw4) | ◆ **2 prior mentions** |
 | **2026-09-27** | [North Branford](towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | [Board of Education](https://www.youtube.com/watch?v=bpWPVK38gMA) | ◆ **13 prior mentions** |
 | **2026-09-28** | [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | [Disability Commission](https://www.youtube.com/watch?v=BRirIm5ZLTg) | ◆ **4 prior mentions** |
+| **2026-09-28** | [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | [Select Board](https://www.youtube.com/watch?v=DZ4MEx2cik8) | ◆ **8 prior mentions** |
+| **2026-09-28** | [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | [Board of Health](https://www.youtube.com/watch?v=7VM9KMaPz78) | no prior mentions |
+| **2026-09-28** | [Fairfield](towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | [Representative Town Meeting](https://www.youtube.com/watch?v=pS1lj7U49J8) | ◆ **33 prior mentions** |
 | **2026-09-29** | [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | [Conservation Commission](https://www.youtube.com/watch?v=-9AFo1jYaiY) | ◆ **3 prior mentions** |
 | **2026-10-05** | [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | [Finance and Administration Committee](https://www.youtube.com/watch?v=UvpF-4rScQo) | ◆ **1 prior mentions** |
 | **2026-10-06** | [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | [Public Safety Committee](https://www.youtube.com/watch?v=kHo5JKQLkBo) | ◆ **69 prior mentions** |
 | **2026-10-08** | [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | [Public Works, Facilities, and Sustainability Committee](https://www.youtube.com/watch?v=0T08GdpAhMk) | ◆ **2 prior mentions** |
-| **2026-10-13** | [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | [Town Council](https://www.youtube.com/watch?v=A2Tb3SOOLXg) | ◆ **12 prior mentions** |
+| **2026-10-13** | [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | [Town Council](https://www.youtube.com/watch?v=A2Tb3SOOLXg) | ◆ **18 prior mentions** |
 | **2026-10-15** | [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | [Human & Community Services Committee](https://www.youtube.com/watch?v=1IDZp1-NRIY) | ◆ **1 prior mentions** |
 | **2026-10-21** | [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | [Community Planning and Economic Development Committee](https://www.youtube.com/watch?v=SOBrp0Exk7E) | ◆ **3 prior mentions** |
-| **2026-10-27** | [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | [Town Council](https://www.youtube.com/watch?v=spLVuBB1vks) | ◆ **12 prior mentions** |
+| **2026-10-27** | [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | [Town Council](https://www.youtube.com/watch?v=spLVuBB1vks) | ◆ **18 prior mentions** |
 
 Only a handful of Connecticut towns publish their meeting streams far enough ahead to appear here, so this is a sample of what is scheduled, not a statewide calendar.
 
 
 ## Likely: bodies that keep returning to the subject
 
-_260 active bodies with at least 3 surveillance mentions in their recorded meetings. Sorted by volume. "Typically meets" is the median gap between that body's recorded meetings — a rough guide to when the next one falls, not a schedule._
+_262 active bodies with at least 3 surveillance mentions in their recorded meetings. Sorted by volume. "Typically meets" is the median gap between that body's recorded meetings — a rough guide to when the next one falls, not a schedule._
 
 
 | Town | Meeting body | Mentions | Meetings w/ hits | Last recorded | Typically meets |
 | --- | --- | --- | --- | --- | --- |
-| [Milford](towns/milford/surveillance-tech-transcript-and-agenda-report.md) | Board of Aldermen | **431** | 20 | 2026-09-14 (10d ago) | every ~9 days |
-| [South Windsor](towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **223** | 14 | 2026-09-21 (3d ago) | every ~14 days |
-| Middletown | Public Safety Commission | **208** | 33 | 2026-07-20 (66d ago) | every ~28 days |
-| [Orange](towns/orange/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **200** | 10 | 2026-09-09 (15d ago) | every ~28 days |
-| [East Lyme](towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **166** | 27 | 2026-09-16 (8d ago) | every ~14 days |
-| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **134** | 25 | 2026-09-16 (8d ago) | every ~22 days |
-| [Fairfield](towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **97** | 30 | 2026-09-24 (0d ago) | every ~9 days |
-| [East Windsor](towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **95** | 13 | 2026-09-03 (21d ago) | every ~14 days |
-| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **91** | 28 | 2026-09-14 (10d ago) | every ~14 days |
-| [Hartford](towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | Quality of Life and Public Safety Committee | **89** | 9 | 2026-09-17 (7d ago) | every ~35 days |
-| Stamford | Board of Representatives | **89** | 39 | 2026-08-26 (29d ago) | every ~1 days |
-| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **88** | 32 | 2026-09-22 (2d ago) | every ~14 days |
-| [Cheshire](towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **81** | 22 | 2026-09-22 (2d ago) | every ~8 days |
-| [Bristol](towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | City Council | **80** | 10 | 2026-09-08 (16d ago) | every ~28 days |
-| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Sewer Commission | **80** | 29 | 2026-09-08 (16d ago) | every ~28 days |
-| [Southington](towns/southington/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **79** | 14 | 2026-09-14 (10d ago) | every ~14 days |
-| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Public Safety and General Government Committee | **79** | 11 | 2026-08-27 (28d ago) | every ~56 days |
-| [East Hartford](towns/east-hartford/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **75** | 11 | 2026-09-01 (23d ago) | every ~14 days |
-| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **73** | 22 | 2026-09-17 (7d ago) | every ~28 days |
-| [Rocky Hill](towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **71** | 28 | 2026-09-22 (2d ago) | every ~7 days |
-| [New Haven](towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | Public Safety Committee | **70** | 10 | 2026-09-15 (9d ago) | every ~77 days |
+| [Milford](towns/milford/surveillance-tech-transcript-and-agenda-report.md) | Board of Aldermen | **431** | 20 | 2026-09-14 (11d ago) | every ~9 days |
+| [South Windsor](towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **223** | 14 | 2026-09-21 (4d ago) | every ~14 days |
+| Middletown | Public Safety Commission | **208** | 33 | 2026-07-20 (67d ago) | every ~28 days |
+| [Orange](towns/orange/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **200** | 10 | 2026-09-09 (16d ago) | every ~28 days |
+| [East Lyme](towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **166** | 27 | 2026-09-16 (9d ago) | every ~14 days |
+| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **134** | 25 | 2026-09-16 (9d ago) | every ~22 days |
+| [Fairfield](towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **97** | 30 | 2026-09-24 (1d ago) | every ~9 days |
+| [East Windsor](towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **95** | 13 | 2026-09-03 (22d ago) | every ~14 days |
+| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **91** | 28 | 2026-09-14 (11d ago) | every ~14 days |
+| [Hartford](towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | Quality of Life and Public Safety Committee | **89** | 9 | 2026-09-17 (8d ago) | every ~35 days |
+| Stamford | Board of Representatives | **89** | 39 | 2026-08-26 (30d ago) | every ~1 days |
+| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **88** | 32 | 2026-09-22 (3d ago) | every ~14 days |
+| [Cheshire](towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **81** | 22 | 2026-09-22 (3d ago) | every ~8 days |
+| [Bristol](towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | City Council | **80** | 10 | 2026-09-08 (17d ago) | every ~28 days |
+| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Sewer Commission | **80** | 29 | 2026-09-08 (17d ago) | every ~28 days |
+| [Southington](towns/southington/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **79** | 14 | 2026-09-14 (11d ago) | every ~14 days |
+| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Public Safety and General Government Committee | **79** | 11 | 2026-08-27 (29d ago) | every ~56 days |
+| [East Hartford](towns/east-hartford/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **75** | 11 | 2026-09-01 (24d ago) | every ~14 days |
+| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **73** | 22 | 2026-09-17 (8d ago) | every ~28 days |
+| [Rocky Hill](towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **73** | 29 | 2026-09-22 (3d ago) | every ~7 days |
+| [New Haven](towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | Public Safety Committee | **70** | 10 | 2026-09-15 (10d ago) | every ~77 days |
 | [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | Public Safety Committee | **69** | 12 | 2026-10-06 (scheduled) | every ~35 days |
-| [Farmington](towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | Farmington High School Building Committee | **65** | 33 | 2026-03-13 (195d ago) | every ~28 days |
-| Stamford | Camera Review Committee | **63** | 14 | 2025-09-17 (372d ago) | every ~31 days |
-| [New Haven](towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | Finance Committee | **63** | 3 | 2026-09-14 (10d ago) | every ~28 days |
-| [Fairfield](towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **59** | 29 | 2026-09-16 (8d ago) | every ~14 days |
-| [Guilford](towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **57** | 27 | 2026-08-20 (35d ago) | every ~13 days |
-| Stamford | Police Commission | **57** | 16 | 2026-09-02 (22d ago) | every ~28 days |
-| [Clinton](towns/clinton/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **56** | 12 | 2026-07-01 (85d ago) | every ~14 days |
-| [North Haven](towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **54** | 5 | 2026-09-14 (10d ago) | every ~28 days |
-| [Wallingford](towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **54** | 19 | 2026-09-22 (2d ago) | every ~14 days |
-| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **53** | 12 | 2026-09-15 (9d ago) | every ~14 days |
-| [Southington](towns/southington/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **53** | 7 | 2026-09-16 (8d ago) | every ~28 days |
-| [North Branford](towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **53** | 35 | 2026-09-22 (2d ago) | every ~14 days |
-| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **49** | 26 | 2026-09-14 (10d ago) | every ~28 days |
-| [Brookfield](towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **48** | 12 | 2026-09-09 (15d ago) | every ~5 days |
-| [Farmington](towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **47** | 16 | 2026-09-08 (16d ago) | every ~14 days |
-| [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | Mayor & Town Council | **46** | 14 | 2026-09-22 (2d ago) | every ~14 days |
-| [New Milford](towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **44** | 16 | 2026-09-14 (10d ago) | every ~14 days |
-| [Milford](towns/milford/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **42** | 6 | 2026-03-12 (196d ago) | every ~3 days |
-| [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **41** | 23 | 2026-09-14 (10d ago) | every ~11 days |
-| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Open Space Commission | **41** | 17 | 2026-09-09 (15d ago) | every ~28 days |
-| [New Haven](towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | Board of Alders | **40** | 10 | 2026-09-22 (2d ago) | every ~15 days |
-| [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | City Council | **40** | 16 | 2026-08-17 (38d ago) | every ~14 days |
-| [East Lyme](towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **39** | 13 | 2026-09-09 (15d ago) | every ~7 days |
-| [Kent](towns/kent/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **38** | 13 | 2026-09-15 (9d ago) | every ~11 days |
-| [East Windsor](towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **38** | 6 | 2026-08-19 (36d ago) | every ~7 days |
-| [Waterbury](towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | Board of Aldermen | **37** | 19 | 2026-09-21 (3d ago) | every ~5 days |
-| [North Stonington](towns/north-stonington/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **34** | 10 | 2026-09-02 (22d ago) | every ~7 days |
-| [Seymour](towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **34** | 27 | 2026-09-15 (9d ago) | every ~15 days |
-| [Fairfield](towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | Representative Town Meeting | **33** | 6 | 2026-09-22 (2d ago) | every ~8 days |
-| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **32** | 9 | 2026-09-14 (10d ago) | every ~28 days |
-| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **32** | 18 | 2026-09-22 (2d ago) | every ~7 days |
-| [Killingly](towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **32** | 12 | 2026-09-08 (16d ago) | every ~8 days |
-| [Waterbury](towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **32** | 16 | 2026-09-17 (7d ago) | every ~14 days |
-| [Columbia](towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **30** | 8 | 2026-09-15 (9d ago) | every ~14 days |
-| [Watertown](towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **30** | 6 | 2026-09-21 (3d ago) | every ~14 days |
-| [Waterford](towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | Board of Police Commissioners | **28** | 3 | 2026-09-14 (10d ago) | every ~35 days |
-| [East Hampton](towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **28** | 7 | 2026-09-22 (2d ago) | every ~14 days |
-| [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | School Building Committee | **28** | 14 | 2026-08-27 (28d ago) | every ~18 days |
-| [Columbia](towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | Lake Management Advisory Commission | **28** | 13 | 2026-09-02 (22d ago) | every ~28 days |
-| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **26** | 12 | 2026-09-15 (9d ago) | every ~21 days |
-| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **26** | 11 | 2026-09-15 (9d ago) | every ~14 days |
-| [East Granby](towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **26** | 3 | 2026-09-14 (10d ago) | every ~28 days |
-| [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **25** | 11 | 2026-09-22 (2d ago) | every ~14 days |
-| [North Stonington](towns/north-stonington/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **24** | 9 | 2026-09-15 (9d ago) | every ~14 days |
-| [Hartford](towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | Operation, Management, Budget & Government Accountability Committee | **24** | 10 | 2026-09-02 (22d ago) | every ~6 days |
-| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Water Pollution Control Authority | **24** | 6 | 2026-06-09 (107d ago) | every ~35 days |
-| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Finance Committee | **23** | 3 | 2026-09-08 (16d ago) | every ~14 days |
-| [Plainville](towns/plainville/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **23** | 17 | 2026-07-20 (66d ago) | every ~13 days |
-| [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | Economic Development Commission | **23** | 3 | 2026-09-01 (23d ago) | every ~35 days |
-| [Portland](towns/portland/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **23** | 15 | 2026-09-16 (8d ago) | every ~14 days |
-| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Representative Town Meeting | **22** | 11 | 2026-08-12 (43d ago) | every ~21 days |
-| [Kent](towns/kent/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **22** | 4 | 2026-09-10 (14d ago) | every ~28 days |
-| [Guilford](towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **22** | 13 | 2026-02-04 (232d ago) | every ~36 days |
-| [Killingworth](towns/killingworth/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **21** | 14 | 2026-09-10 (14d ago) | every ~17 days |
-| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Parking Commission | **21** | 9 | 2026-09-02 (22d ago) | every ~28 days |
-| [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **21** | 10 | 2026-09-14 (10d ago) | every ~30 days |
-| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **20** | 13 | 2026-09-08 (16d ago) | every ~14 days |
-| [East Lyme](towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **20** | 11 | 2026-09-14 (10d ago) | every ~14 days |
-| [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **20** | 4 | 2026-09-21 (3d ago) | every ~14 days |
-| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Land Use and Building Management Committee | **19** | 15 | 2026-09-02 (22d ago) | every ~28 days |
-| [Bethel](towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | Public Utilities Commission | **19** | 12 | 2026-08-13 (42d ago) | every ~28 days |
-| [Danbury](towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | Board of Award | **19** | 10 | 2026-08-26 (29d ago) | every ~7 days |
-| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **18** | 12 | 2026-08-25 (30d ago) | every ~28 days |
-| [Somers](towns/somers/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **18** | 8 | 2026-06-25 (91d ago) | every ~30 days |
-| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Planning Board | **18** | 11 | 2026-09-22 (2d ago) | every ~14 days |
-| [Coventry](towns/coventry/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **18** | 13 | 2026-08-24 (31d ago) | every ~7 days |
-| [Guilford](towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | Parks and Recreation | **18** | 16 | 2026-02-02 (234d ago) | every ~28 days |
-| [Monroe](towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **17** | 13 | 2026-09-17 (7d ago) | every ~21 days |
-| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Board of Estimate and Taxation | **17** | 11 | 2026-09-14 (10d ago) | every ~12 days |
-| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **17** | 7 | 2026-09-08 (16d ago) | every ~13 days |
-| [Somers](towns/somers/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **17** | 8 | 2026-09-03 (21d ago) | every ~14 days |
-| [Ansonia](towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | Board of Aldermen | **17** | 15 | 2026-08-06 (49d ago) | every ~21 days |
-| Middletown | Common Council | **17** | 1 | 2026-08-20 (35d ago) | every ~8 days |
-| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **16** | 12 | 2026-09-08 (16d ago) | every ~14 days |
-| [Bethel](towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **16** | 8 | 2026-09-15 (9d ago) | every ~14 days |
-| [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **16** | 10 | 2026-09-14 (10d ago) | every ~14 days |
-| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Public Works Committee | **15** | 10 | 2026-09-01 (23d ago) | every ~28 days |
-| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Ordinance Committee | **15** | 7 | 2026-09-15 (9d ago) | every ~28 days |
-| [Bethel](towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **15** | 3 | 2026-09-17 (7d ago) | every ~28 days |
-| [Monroe](towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | Inland Wetlands Commission | **15** | 7 | 2026-09-09 (15d ago) | every ~21 days |
-| [New Milford](towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | Joint Budget Hearing | **15** | 5 | 2026-02-26 (210d ago) | every ~1 days |
-| [North Haven](towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **15** | 7 | 2026-09-16 (8d ago) | every ~24 days |
-| [East Hampton](towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **14** | 3 | 2026-08-10 (45d ago) | every ~7 days |
-| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **14** | 8 | 2026-09-16 (8d ago) | every ~28 days |
-| [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | School Building Committee | **14** | 6 | 2026-08-18 (37d ago) | every ~16 days |
-| [Lebanon](towns/lebanon/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **14** | 4 | 2026-09-08 (16d ago) | every ~28 days |
-| [Stonington](towns/stonington/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **13** | 7 | 2026-09-02 (22d ago) | every ~14 days |
-| [Waterford](towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **13** | 1 | 2026-09-09 (15d ago) | every ~27 days |
-| [Bridgeport](towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | City Council | **13** | 2 | 2026-09-21 (3d ago) | every ~14 days |
+| [Farmington](towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | Farmington High School Building Committee | **65** | 33 | 2026-03-13 (196d ago) | every ~28 days |
+| Stamford | Camera Review Committee | **63** | 14 | 2025-09-17 (373d ago) | every ~31 days |
+| [New Haven](towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | Finance Committee | **63** | 3 | 2026-09-14 (11d ago) | every ~28 days |
+| [Fairfield](towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **59** | 29 | 2026-09-16 (9d ago) | every ~14 days |
+| [Guilford](towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **57** | 27 | 2026-08-20 (36d ago) | every ~13 days |
+| Stamford | Police Commission | **57** | 16 | 2026-09-02 (23d ago) | every ~28 days |
+| [Clinton](towns/clinton/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **56** | 12 | 2026-07-01 (86d ago) | every ~14 days |
+| [Wallingford](towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **55** | 20 | 2026-09-22 (3d ago) | every ~14 days |
+| [North Haven](towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **54** | 5 | 2026-09-14 (11d ago) | every ~28 days |
+| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **53** | 12 | 2026-09-15 (10d ago) | every ~14 days |
+| [Southington](towns/southington/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **53** | 7 | 2026-09-16 (9d ago) | every ~28 days |
+| [North Branford](towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **53** | 35 | 2026-09-22 (3d ago) | every ~14 days |
+| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **49** | 26 | 2026-09-14 (11d ago) | every ~28 days |
+| [Brookfield](towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **48** | 12 | 2026-09-09 (16d ago) | every ~5 days |
+| [Farmington](towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **47** | 16 | 2026-09-08 (17d ago) | every ~14 days |
+| [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | Mayor & Town Council | **46** | 14 | 2026-09-22 (3d ago) | every ~14 days |
+| [New Milford](towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **44** | 16 | 2026-09-14 (11d ago) | every ~14 days |
+| [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **42** | 24 | 2026-09-14 (11d ago) | every ~11 days |
+| [Milford](towns/milford/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **42** | 6 | 2026-03-12 (197d ago) | every ~3 days |
+| [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | City Council | **41** | 17 | 2026-09-21 (4d ago) | every ~14 days |
+| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Open Space Commission | **41** | 17 | 2026-09-09 (16d ago) | every ~28 days |
+| [New Haven](towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | Board of Alders | **40** | 10 | 2026-09-22 (3d ago) | every ~15 days |
+| [East Lyme](towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **39** | 13 | 2026-09-09 (16d ago) | every ~7 days |
+| [Kent](towns/kent/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **38** | 13 | 2026-09-15 (10d ago) | every ~11 days |
+| [East Windsor](towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **38** | 6 | 2026-08-19 (37d ago) | every ~7 days |
+| [Waterbury](towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | Board of Aldermen | **37** | 19 | 2026-09-21 (4d ago) | every ~5 days |
+| [North Stonington](towns/north-stonington/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **34** | 10 | 2026-09-02 (23d ago) | every ~7 days |
+| [Seymour](towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **34** | 27 | 2026-09-15 (10d ago) | every ~15 days |
+| [Fairfield](towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | Representative Town Meeting | **33** | 6 | 2026-09-28 (scheduled) | every ~8 days |
+| [Killingly](towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **32** | 12 | 2026-09-08 (17d ago) | every ~8 days |
+| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **32** | 18 | 2026-09-22 (3d ago) | every ~7 days |
+| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **32** | 9 | 2026-09-14 (11d ago) | every ~28 days |
+| [Waterbury](towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **32** | 16 | 2026-09-17 (8d ago) | every ~14 days |
+| [Columbia](towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **30** | 8 | 2026-09-15 (10d ago) | every ~14 days |
+| [Watertown](towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **30** | 6 | 2026-09-21 (4d ago) | every ~14 days |
+| [Waterford](towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | Board of Police Commissioners | **28** | 3 | 2026-09-14 (11d ago) | every ~35 days |
+| [East Hampton](towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **28** | 7 | 2026-09-22 (3d ago) | every ~14 days |
+| [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | School Building Committee | **28** | 14 | 2026-09-24 (1d ago) | every ~18 days |
+| [Columbia](towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | Lake Management Advisory Commission | **28** | 13 | 2026-09-02 (23d ago) | every ~28 days |
+| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **26** | 12 | 2026-09-15 (10d ago) | every ~21 days |
+| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **26** | 11 | 2026-09-15 (10d ago) | every ~14 days |
+| [East Granby](towns/east-granby/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **26** | 3 | 2026-09-14 (11d ago) | every ~28 days |
+| [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **25** | 11 | 2026-09-22 (3d ago) | every ~14 days |
+| [Hartford](towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | Operation, Management, Budget & Government Accountability Committee | **24** | 10 | 2026-09-02 (23d ago) | every ~6 days |
+| [North Stonington](towns/north-stonington/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **24** | 9 | 2026-09-15 (10d ago) | every ~14 days |
+| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Water Pollution Control Authority | **24** | 6 | 2026-06-09 (108d ago) | every ~35 days |
+| [Plainville](towns/plainville/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **23** | 17 | 2026-09-21 (4d ago) | every ~14 days |
+| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Finance Committee | **23** | 3 | 2026-09-08 (17d ago) | every ~14 days |
+| [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | Economic Development Commission | **23** | 3 | 2026-09-01 (24d ago) | every ~35 days |
+| [Portland](towns/portland/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **23** | 15 | 2026-09-16 (9d ago) | every ~14 days |
+| [Guilford](towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **22** | 13 | 2026-02-04 (233d ago) | every ~36 days |
+| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Representative Town Meeting | **22** | 11 | 2026-08-12 (44d ago) | every ~21 days |
+| [Kent](towns/kent/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **22** | 4 | 2026-09-22 (3d ago) | every ~28 days |
+| [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **21** | 10 | 2026-09-14 (11d ago) | every ~30 days |
+| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Parking Commission | **21** | 9 | 2026-09-02 (23d ago) | every ~28 days |
+| [Killingworth](towns/killingworth/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **21** | 14 | 2026-09-10 (15d ago) | every ~17 days |
+| [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **20** | 4 | 2026-09-23 (2d ago) | every ~14 days |
+| [East Lyme](towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **20** | 11 | 2026-09-14 (11d ago) | every ~14 days |
+| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **20** | 13 | 2026-09-21 (4d ago) | every ~14 days |
+| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Land Use and Building Management Committee | **19** | 15 | 2026-09-02 (23d ago) | every ~28 days |
+| [Bethel](towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | Public Utilities Commission | **19** | 12 | 2026-08-13 (43d ago) | every ~28 days |
+| [Danbury](towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | Board of Award | **19** | 10 | 2026-08-26 (30d ago) | every ~7 days |
+| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Planning Board | **18** | 11 | 2026-09-22 (3d ago) | every ~14 days |
+| [Coventry](towns/coventry/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **18** | 13 | 2026-08-24 (32d ago) | every ~7 days |
+| [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **18** | 13 | 2026-10-27 (scheduled) | every ~14 days |
+| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **18** | 12 | 2026-08-25 (31d ago) | every ~28 days |
+| [Somers](towns/somers/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **18** | 8 | 2026-06-25 (92d ago) | every ~30 days |
+| [Guilford](towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | Parks and Recreation | **18** | 16 | 2026-02-02 (235d ago) | every ~28 days |
+| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Board of Estimate and Taxation | **17** | 11 | 2026-09-14 (11d ago) | every ~12 days |
+| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **17** | 7 | 2026-09-08 (17d ago) | every ~13 days |
+| [Somers](towns/somers/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **17** | 8 | 2026-09-24 (1d ago) | every ~14 days |
+| [Monroe](towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **17** | 13 | 2026-09-17 (8d ago) | every ~21 days |
+| [Ansonia](towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | Board of Aldermen | **17** | 15 | 2026-08-06 (50d ago) | every ~21 days |
+| Middletown | Common Council | **17** | 1 | 2026-08-20 (36d ago) | every ~8 days |
+| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **16** | 12 | 2026-09-24 (1d ago) | every ~14 days |
+| [Bethel](towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **16** | 8 | 2026-09-15 (10d ago) | every ~14 days |
+| [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **16** | 10 | 2026-09-14 (11d ago) | every ~14 days |
+| [Bethel](towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **15** | 3 | 2026-09-17 (8d ago) | every ~28 days |
+| [Monroe](towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | Inland Wetlands Commission | **15** | 7 | 2026-09-23 (2d ago) | every ~14 days |
+| [New Milford](towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | Joint Budget Hearing | **15** | 5 | 2026-02-26 (211d ago) | every ~1 days |
+| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Public Works Committee | **15** | 10 | 2026-09-01 (24d ago) | every ~28 days |
+| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Ordinance Committee | **15** | 7 | 2026-09-15 (10d ago) | every ~28 days |
+| [North Haven](towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **15** | 7 | 2026-09-16 (9d ago) | every ~24 days |
+| [East Hampton](towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **14** | 3 | 2026-08-10 (46d ago) | every ~7 days |
+| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **14** | 8 | 2026-09-16 (9d ago) | every ~28 days |
+| [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | School Building Committee | **14** | 6 | 2026-08-18 (38d ago) | every ~16 days |
+| [Lebanon](towns/lebanon/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **14** | 4 | 2026-09-08 (17d ago) | every ~28 days |
+| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Historic District Commission | **13** | 12 | 2026-09-15 (10d ago) | every ~14 days |
+| [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | Budget Work Session | **13** | 6 | 2026-04-30 (148d ago) | every ~3 days |
+| [Bridgeport](towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | City Council | **13** | 2 | 2026-09-21 (4d ago) | every ~14 days |
 | [North Branford](towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **13** | 10 | 2026-09-27 (scheduled) | every ~28 days |
-| [Watertown](towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **13** | 4 | 2026-09-09 (15d ago) | every ~42 days |
-| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Historic District Commission | **13** | 12 | 2026-09-15 (9d ago) | every ~14 days |
-| [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | Budget Work Session | **13** | 6 | 2026-04-30 (147d ago) | every ~3 days |
-| [Hartford](towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | Court of Common Council | **13** | 11 | 2026-08-10 (45d ago) | every ~14 days |
-| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **12** | 6 | 2026-09-16 (8d ago) | every ~12 days |
-| [Plainfield](towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **12** | 7 | 2026-09-16 (8d ago) | every ~12 days |
-| [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | Zoning Commission | **12** | 7 | 2026-09-09 (15d ago) | every ~20 days |
-| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Rogers Lake Authority | **12** | 3 | 2026-09-09 (15d ago) | every ~28 days |
-| [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **12** | 12 | 2026-10-27 (scheduled) | every ~14 days |
-| [Farmington](towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | Conservation and Inland Wetlands Commission | **11** | 6 | 2026-09-16 (8d ago) | every ~14 days |
-| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Common Council | **11** | 8 | 2025-10-28 (331d ago) | every ~8 days |
-| [North Branford](towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **11** | 9 | 2026-09-03 (21d ago) | every ~28 days |
-| [East Haddam](towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | Public Information Meeting | **11** | 3 | 2026-09-12 (12d ago) | every ~21 days |
-| [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **10** | 4 | 2026-09-15 (9d ago) | every ~16 days |
-| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **10** | 7 | 2026-09-08 (16d ago) | every ~12 days |
-| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Inland Wetlands Commission | **10** | 3 | 2026-09-14 (10d ago) | every ~35 days |
-| [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **10** | 8 | 2026-09-15 (9d ago) | every ~13 days |
-| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Architectural Review Board | **10** | 7 | 2026-09-15 (9d ago) | every ~35 days |
-| [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | Town Plan & Zoning Commission | **10** | 6 | 2026-09-23 (1d ago) | every ~14 days |
-| [Bristol](towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **10** | 2 | 2026-09-09 (15d ago) | every ~14 days |
-| [Brookfield](towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | Zoning Commission | **10** | 7 | 2026-02-17 (219d ago) | every ~14 days |
-| [East Haddam](towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | Cemetery Committee | **10** | 4 | 2026-08-20 (35d ago) | every ~35 days |
-| [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **10** | 4 | 2026-09-08 (16d ago) | every ~14 days |
-| [Bethany](towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **10** | 2 | 2026-09-02 (22d ago) | every ~28 days |
-| [North Haven](towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **10** | 3 | 2026-07-21 (65d ago) | every ~28 days |
-| [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | Board of Fire Commissioners | **9** | 7 | 2026-09-10 (14d ago) | every ~28 days |
-| [Windsor](towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **9** | 7 | 2026-09-15 (9d ago) | every ~14 days |
-| [Kent](towns/kent/surveillance-tech-transcript-and-agenda-report.md) | Inland Wetlands | **9** | 4 | 2026-08-24 (31d ago) | every ~35 days |
-| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Road and Public Safety Committee | **9** | 4 | 2026-08-11 (44d ago) | every ~37 days |
-| [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | Parks and Natural Resources Committee | **9** | 2 | 2026-07-09 (77d ago) | every ~56 days |
-| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Finance and Claims Committee | **9** | 5 | 2026-09-10 (14d ago) | every ~28 days |
-| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **9** | 8 | 2026-09-08 (16d ago) | every ~14 days |
-| [Hebron](towns/hebron/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **9** | 3 | 2025-12-18 (280d ago) | every ~14 days |
-| [Bridgeport](towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | Budget and Appropriations Committee | **9** | 2 | 2026-05-09 (138d ago) | every ~2 days |
-| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Golf Course Commission | **9** | 3 | 2026-08-20 (35d ago) | every ~28 days |
-| [Somers](towns/somers/surveillance-tech-transcript-and-agenda-report.md) | Zoning Board of Appeals | **9** | 4 | 2026-08-11 (44d ago) | every ~52 days |
-| [Brookfield](towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | Inland Wetlands Commission | **8** | 4 | 2026-09-14 (10d ago) | every ~21 days |
-| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **8** | 4 | 2026-09-08 (16d ago) | every ~14 days |
-| [New Haven](towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | Legislation Committee | **8** | 4 | 2026-08-04 (51d ago) | every ~49 days |
-| [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **8** | 5 | 2026-08-19 (36d ago) | every ~14 days |
-| [Southington](towns/southington/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **8** | 5 | 2026-09-10 (14d ago) | every ~14 days |
-| [Brookfield](towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **8** | 4 | 2026-09-01 (23d ago) | every ~28 days |
-| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Select Board | **8** | 4 | 2026-09-14 (10d ago) | every ~14 days |
-| [New Britain](towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | Common Council | **8** | 7 | 2026-09-09 (15d ago) | every ~11 days |
-| [Wallingford](towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **8** | 7 | 2026-08-24 (31d ago) | every ~25 days |
-| [Orange](towns/orange/surveillance-tech-transcript-and-agenda-report.md) | Park & Recreation Commission | **7** | 6 | 2026-07-23 (63d ago) | every ~35 days |
-| [Seymour](towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | Budget Hearing / State of the Town | **7** | 4 | 2026-05-07 (140d ago) | every ~6 days |
-| [Columbia](towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | Informational/Public Meeting | **7** | 1 | 2026-05-07 (140d ago) | — |
-| [Guilford](towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **7** | 5 | 2026-08-17 (38d ago) | every ~21 days |
-| [Cheshire](towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | Next Generation School Building Committee | **7** | 4 | 2026-09-17 (7d ago) | every ~21 days |
-| [Stonington](towns/stonington/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **7** | 6 | 2026-09-09 (15d ago) | every ~14 days |
-| [Granby](towns/granby/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **7** | 3 | 2026-09-21 (3d ago) | every ~14 days |
-| [New Haven](towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | Aldermanic Affairs Committee | **7** | 2 | 2026-05-21 (126d ago) | every ~58 days |
-| [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **7** | 7 | 2026-08-24 (31d ago) | every ~25 days |
-| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | RTM Finance & Budget | **7** | 6 | 2026-06-04 (112d ago) | every ~21 days |
-| [Naugatuck](towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | Finance Board | **7** | 2 | 2026-01-26 (241d ago) | every ~7 days |
-| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Harbor Advisory Committee | **7** | 2 | 2026-09-23 (1d ago) | every ~63 days |
-| [Kent](towns/kent/surveillance-tech-transcript-and-agenda-report.md) | Park and Recreation | **7** | 6 | 2026-09-03 (21d ago) | every ~7 days |
-| [Farmington](towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | Town Plan and Zoning Commission | **7** | 5 | 2026-09-14 (10d ago) | every ~14 days |
-| [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | Harbor Management Commission | **7** | 2 | 2026-09-21 (3d ago) | every ~28 days |
-| [Naugatuck](towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | Board of Mayor and Burgesses | **7** | 4 | 2026-09-01 (23d ago) | every ~28 days |
-| [Plainfield](towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | Economic Development Commission | **7** | 6 | 2025-11-20 (308d ago) | every ~35 days |
-| [Monroe](towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **6** | 6 | 2026-09-14 (10d ago) | every ~15 days |
-| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **6** | 4 | 2026-09-10 (14d ago) | every ~28 days |
-| [Brookfield](towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **6** | 3 | 2026-09-10 (14d ago) | every ~21 days |
-| [Cromwell](towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **6** | 2 | 2026-06-25 (91d ago) | every ~30 days |
-| [Watertown](towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **6** | 3 | 2026-09-02 (22d ago) | every ~35 days |
-| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Parks and Recreation Commission | **6** | 4 | 2026-09-10 (14d ago) | every ~29 days |
-| [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **6** | 4 | 2026-07-21 (65d ago) | every ~35 days |
-| [East Haddam](towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **6** | 5 | 2026-09-16 (8d ago) | every ~14 days |
-| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Town Council Committee of the Whole | **6** | 3 | 2026-07-28 (58d ago) | every ~14 days |
-| [Cromwell](towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **5** | 3 | 2026-09-16 (8d ago) | every ~15 days |
-| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **5** | 4 | 2026-08-11 (44d ago) | every ~44 days |
-| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Water Pollution Control Authority | **5** | 2 | 2026-07-14 (72d ago) | every ~35 days |
-| [East Haddam](towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **5** | 2 | 2026-09-01 (23d ago) | every ~28 days |
-| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Parks & Recreation Commission | **5** | 4 | 2026-09-16 (8d ago) | every ~35 days |
-| [Waterford](towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **5** | 1 | 2026-08-19 (36d ago) | every ~14 days |
-| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Historical Commission | **5** | 5 | 2026-09-02 (22d ago) | every ~28 days |
-| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Economic Development Commission | **5** | 3 | 2026-09-02 (22d ago) | every ~28 days |
-| [Ledyard](towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | Housing Authority | **5** | 2 | 2026-08-20 (35d ago) | every ~41 days |
-| [Griswold](towns/griswold/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **5** | 2 | 2026-09-22 (2d ago) | every ~14 days |
-| [Watertown](towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission / Inland Wetlands Agency | **5** | 3 | 2026-08-10 (45d ago) | every ~35 days |
-| [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | Open Space Committee | **5** | 1 | 2026-09-02 (22d ago) | every ~91 days |
-| [Deep River](towns/deep-river/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **5** | 1 | 2026-08-19 (36d ago) | every ~34 days |
-| [East Haddam](towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | Moodus Firehouse Committee | **5** | 2 | 2026-08-13 (42d ago) | every ~15 days |
-| [Ledyard](towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | Water Pollution Control Authority | **5** | 4 | 2026-08-26 (29d ago) | every ~20 days |
-| [Columbia](towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | Traffic and Transportation Committee | **5** | 1 | 2026-07-15 (71d ago) | every ~21 days |
-| [East Haddam](towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | Economic Development Commission | **4** | 3 | 2026-09-17 (7d ago) | every ~46 days |
-| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Zoning Commission | **4** | 3 | 2026-09-15 (9d ago) | every ~15 days |
-| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **4** | 4 | 2026-09-10 (14d ago) | every ~14 days |
-| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Operations Planning Committee | **4** | 3 | 2026-09-15 (9d ago) | every ~35 days |
+| [Watertown](towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **13** | 4 | 2026-09-09 (16d ago) | every ~42 days |
+| [Stonington](towns/stonington/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **13** | 7 | 2026-09-02 (23d ago) | every ~14 days |
+| [Waterford](towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **13** | 1 | 2026-09-09 (16d ago) | every ~27 days |
+| [Hartford](towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | Court of Common Council | **13** | 11 | 2026-08-10 (46d ago) | every ~14 days |
+| [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | Zoning Commission | **12** | 7 | 2026-09-09 (16d ago) | every ~20 days |
+| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **12** | 6 | 2026-09-16 (9d ago) | every ~12 days |
+| [Plainfield](towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **12** | 7 | 2026-09-16 (9d ago) | every ~12 days |
+| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Rogers Lake Authority | **12** | 3 | 2026-09-09 (16d ago) | every ~28 days |
+| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Common Council | **11** | 8 | 2025-10-28 (332d ago) | every ~8 days |
+| [North Branford](towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **11** | 9 | 2026-09-03 (22d ago) | every ~28 days |
+| [Farmington](towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | Conservation and Inland Wetlands Commission | **11** | 6 | 2026-09-16 (9d ago) | every ~14 days |
+| [East Haddam](towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | Public Information Meeting | **11** | 3 | 2026-09-12 (13d ago) | every ~21 days |
+| [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **10** | 4 | 2026-09-15 (10d ago) | every ~16 days |
+| [North Haven](towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **10** | 3 | 2026-09-22 (3d ago) | every ~28 days |
+| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **10** | 7 | 2026-09-08 (17d ago) | every ~12 days |
+| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Inland Wetlands Commission | **10** | 3 | 2026-09-14 (11d ago) | every ~35 days |
+| [Brookfield](towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | Zoning Commission | **10** | 7 | 2026-02-17 (220d ago) | every ~14 days |
+| [East Haddam](towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | Cemetery Committee | **10** | 4 | 2026-08-20 (36d ago) | every ~35 days |
+| [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **10** | 8 | 2026-09-15 (10d ago) | every ~13 days |
+| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Architectural Review Board | **10** | 7 | 2026-09-15 (10d ago) | every ~35 days |
+| [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | Town Plan & Zoning Commission | **10** | 6 | 2026-09-23 (2d ago) | every ~14 days |
+| [Bristol](towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **10** | 2 | 2026-09-23 (2d ago) | every ~14 days |
+| [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **10** | 4 | 2026-09-08 (17d ago) | every ~14 days |
+| [Bethany](towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **10** | 2 | 2026-09-02 (23d ago) | every ~28 days |
+| [Bridgeport](towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | Budget and Appropriations Committee | **9** | 2 | 2026-05-09 (139d ago) | every ~2 days |
+| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Golf Course Commission | **9** | 3 | 2026-09-24 (1d ago) | every ~29 days |
+| [Somers](towns/somers/surveillance-tech-transcript-and-agenda-report.md) | Zoning Board of Appeals | **9** | 4 | 2026-08-11 (45d ago) | every ~52 days |
+| [Windsor](towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **9** | 7 | 2026-09-15 (10d ago) | every ~14 days |
+| [Kent](towns/kent/surveillance-tech-transcript-and-agenda-report.md) | Inland Wetlands | **9** | 4 | 2026-08-24 (32d ago) | every ~35 days |
+| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Road and Public Safety Committee | **9** | 4 | 2026-08-11 (45d ago) | every ~37 days |
+| [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | Board of Fire Commissioners | **9** | 7 | 2026-09-10 (15d ago) | every ~28 days |
+| [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | Parks and Natural Resources Committee | **9** | 2 | 2026-07-09 (78d ago) | every ~56 days |
+| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Finance and Claims Committee | **9** | 5 | 2026-09-10 (15d ago) | every ~28 days |
+| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **9** | 8 | 2026-09-22 (3d ago) | every ~14 days |
+| [Hebron](towns/hebron/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **9** | 3 | 2025-12-18 (281d ago) | every ~14 days |
+| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **8** | 4 | 2026-09-22 (3d ago) | every ~14 days |
+| [Wallingford](towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **8** | 7 | 2026-08-24 (32d ago) | every ~25 days |
+| [Brookfield](towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | Inland Wetlands Commission | **8** | 4 | 2026-09-14 (11d ago) | every ~21 days |
+| [Southington](towns/southington/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **8** | 5 | 2026-09-24 (1d ago) | every ~14 days |
+| [Brookfield](towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **8** | 4 | 2026-09-01 (24d ago) | every ~28 days |
+| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Select Board | **8** | 4 | 2026-09-28 (scheduled) | every ~14 days |
+| [New Haven](towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | Legislation Committee | **8** | 4 | 2026-08-04 (52d ago) | every ~49 days |
+| [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **8** | 5 | 2026-08-19 (37d ago) | every ~14 days |
+| [New Britain](towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | Common Council | **8** | 7 | 2026-09-24 (1d ago) | every ~11 days |
+| [Guilford](towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **7** | 5 | 2026-08-17 (39d ago) | every ~21 days |
+| [Farmington](towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | Town Plan and Zoning Commission | **7** | 5 | 2026-09-14 (11d ago) | every ~14 days |
+| [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | Harbor Management Commission | **7** | 2 | 2026-09-21 (4d ago) | every ~28 days |
+| [Naugatuck](towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | Board of Mayor and Burgesses | **7** | 4 | 2026-09-01 (24d ago) | every ~28 days |
+| [Plainfield](towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | Economic Development Commission | **7** | 6 | 2025-11-20 (309d ago) | every ~35 days |
+| [Columbia](towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | Informational/Public Meeting | **7** | 1 | 2026-05-07 (141d ago) | — |
+| [Cheshire](towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | Next Generation School Building Committee | **7** | 4 | 2026-09-17 (8d ago) | every ~21 days |
+| [Stonington](towns/stonington/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **7** | 6 | 2026-09-09 (16d ago) | every ~14 days |
+| [Granby](towns/granby/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **7** | 3 | 2026-09-21 (4d ago) | every ~14 days |
+| [Orange](towns/orange/surveillance-tech-transcript-and-agenda-report.md) | Park & Recreation Commission | **7** | 6 | 2026-09-24 (1d ago) | every ~35 days |
+| [Seymour](towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | Budget Hearing / State of the Town | **7** | 4 | 2026-05-07 (141d ago) | every ~6 days |
+| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | RTM Finance & Budget | **7** | 6 | 2026-09-23 (2d ago) | every ~29 days |
+| [Naugatuck](towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | Finance Board | **7** | 2 | 2026-01-26 (242d ago) | every ~7 days |
+| [New Haven](towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | Aldermanic Affairs Committee | **7** | 2 | 2026-05-21 (127d ago) | every ~58 days |
+| [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | Police Commission | **7** | 7 | 2026-08-24 (32d ago) | every ~25 days |
+| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Harbor Advisory Committee | **7** | 2 | 2026-09-23 (2d ago) | every ~63 days |
+| [Kent](towns/kent/surveillance-tech-transcript-and-agenda-report.md) | Park and Recreation | **7** | 6 | 2026-09-22 (3d ago) | every ~9 days |
+| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Town Council Committee of the Whole | **6** | 3 | 2026-07-28 (59d ago) | every ~14 days |
+| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **6** | 4 | 2026-09-10 (15d ago) | every ~28 days |
+| [Brookfield](towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **6** | 3 | 2026-09-24 (1d ago) | every ~21 days |
+| [Cromwell](towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **6** | 2 | 2026-06-25 (92d ago) | every ~30 days |
+| [Watertown](towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **6** | 3 | 2026-09-23 (2d ago) | every ~35 days |
+| [Monroe](towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **6** | 6 | 2026-09-14 (11d ago) | every ~15 days |
+| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Parks and Recreation Commission | **6** | 4 | 2026-09-10 (15d ago) | every ~29 days |
+| [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **6** | 4 | 2026-07-21 (66d ago) | every ~35 days |
+| [East Haddam](towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **6** | 5 | 2026-09-16 (9d ago) | every ~14 days |
+| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Water Pollution Control Authority | **5** | 2 | 2026-07-14 (73d ago) | every ~35 days |
+| [East Haddam](towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **5** | 2 | 2026-09-01 (24d ago) | every ~28 days |
+| [Columbia](towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | Traffic and Transportation Committee | **5** | 1 | 2026-07-15 (72d ago) | every ~21 days |
+| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **5** | 4 | 2026-08-11 (45d ago) | every ~44 days |
+| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Parks & Recreation Commission | **5** | 4 | 2026-09-16 (9d ago) | every ~35 days |
+| [Waterford](towns/waterford/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **5** | 1 | 2026-08-19 (37d ago) | every ~14 days |
+| [Cromwell](towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **5** | 3 | 2026-09-16 (9d ago) | every ~15 days |
+| [Griswold](towns/griswold/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **5** | 2 | 2026-09-22 (3d ago) | every ~14 days |
+| [Watertown](towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission / Inland Wetlands Agency | **5** | 3 | 2026-08-10 (46d ago) | every ~35 days |
+| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Historical Commission | **5** | 5 | 2026-09-02 (23d ago) | every ~28 days |
+| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Economic Development Commission | **5** | 3 | 2026-09-02 (23d ago) | every ~28 days |
+| [Ledyard](towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | Housing Authority | **5** | 2 | 2026-08-20 (36d ago) | every ~41 days |
+| [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | Open Space Committee | **5** | 1 | 2026-09-02 (23d ago) | every ~91 days |
+| [Deep River](towns/deep-river/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **5** | 1 | 2026-08-19 (37d ago) | every ~34 days |
+| [East Haddam](towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | Moodus Firehouse Committee | **5** | 2 | 2026-08-13 (43d ago) | every ~15 days |
+| [Ledyard](towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | Water Pollution Control Authority | **5** | 4 | 2026-08-26 (30d ago) | every ~20 days |
+| [East Windsor](towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **4** | 4 | 2026-09-22 (3d ago) | every ~21 days |
+| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Parks and Recreation Commission | **4** | 2 | 2026-08-26 (30d ago) | every ~35 days |
+| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Commission on Aging | **4** | 1 | 2026-09-16 (9d ago) | every ~28 days |
+| [Orange](towns/orange/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **4** | 1 | 2026-09-22 (3d ago) | every ~37 days |
+| [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | Budget Hearing | **4** | 4 | 2026-05-11 (137d ago) | every ~4 days |
+| [Ellington](towns/ellington/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **4** | 3 | 2026-09-23 (2d ago) | every ~28 days |
+| [Guilford](towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **4** | 3 | 2026-09-14 (11d ago) | every ~21 days |
+| [Portland](towns/portland/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **4** | 4 | 2026-08-27 (29d ago) | every ~20 days |
+| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **4** | 4 | 2026-09-10 (15d ago) | every ~14 days |
+| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Operations Planning Committee | **4** | 3 | 2026-09-15 (10d ago) | every ~35 days |
 | [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Disability Commission | **4** | 4 | 2026-09-28 (scheduled) | every ~35 days |
-| [East Windsor](towns/east-windsor/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **4** | 4 | 2026-09-08 (16d ago) | every ~21 days |
-| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | Parks and Recreation Commission | **4** | 2 | 2026-08-26 (29d ago) | every ~35 days |
-| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Commission on Aging | **4** | 1 | 2026-09-16 (8d ago) | every ~28 days |
-| [Orange](towns/orange/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **4** | 1 | 2026-09-22 (2d ago) | every ~37 days |
-| [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | Budget Hearing | **4** | 4 | 2026-05-11 (136d ago) | every ~4 days |
-| [Ellington](towns/ellington/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **4** | 3 | 2026-08-26 (29d ago) | every ~28 days |
-| [Guilford](towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **4** | 3 | 2026-09-14 (10d ago) | every ~21 days |
-| [New Haven](towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **4** | 4 | 2026-08-11 (44d ago) | every ~14 days |
-| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Public Building Commission | **4** | 3 | 2026-09-10 (14d ago) | every ~28 days |
-| [Rocky Hill](towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | Affordable Housing Committee | **4** | 2 | 2026-08-28 (27d ago) | every ~41 days |
-| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Shellfish Advisory Board | **4** | 2 | 2026-09-22 (2d ago) | every ~59 days |
-| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Blight Review Board | **4** | 2 | 2026-06-10 (106d ago) | every ~28 days |
-| [East Haddam](towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **4** | 4 | 2026-09-08 (16d ago) | every ~14 days |
-| [Columbia](towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | Safety Committee | **4** | 3 | 2026-09-16 (8d ago) | every ~126 days |
-| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | RTM Finance Committee | **4** | 2 | 2026-08-12 (43d ago) | every ~28 days |
-| [Killingworth](towns/killingworth/surveillance-tech-transcript-and-agenda-report.md) | Public Health Agency | **4** | 2 | 2025-10-08 (351d ago) | every ~91 days |
-| [Orange](towns/orange/surveillance-tech-transcript-and-agenda-report.md) | Zoning Board of Appeals | **4** | 4 | 2026-08-04 (51d ago) | every ~31 days |
-| [Brookfield](towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | Zoning Board of Appeals | **4** | 3 | 2026-09-14 (10d ago) | every ~35 days |
-| [Bethel](towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **4** | 4 | 2026-09-22 (2d ago) | every ~14 days |
-| [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **4** | 3 | 2026-09-08 (16d ago) | every ~20 days |
-| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Police Department Building Committee | **4** | 4 | 2025-10-23 (336d ago) | every ~21 days |
-| [Ashford](towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **4** | 2 | 2026-09-14 (10d ago) | every ~35 days |
-| [Portland](towns/portland/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **4** | 4 | 2026-08-27 (28d ago) | every ~20 days |
-| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Wetlands Commission | **3** | 3 | 2026-09-01 (23d ago) | every ~35 days |
-| [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **3** | 3 | 2026-09-15 (9d ago) | every ~15 days |
-| [Cromwell](towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **3** | 1 | 2026-08-18 (37d ago) | every ~14 days |
-| [Kent](towns/kent/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **3** | 2 | 2026-08-26 (29d ago) | every ~28 days |
-| [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | Board of Parks and Recreation | **3** | 1 | 2026-09-15 (9d ago) | every ~28 days |
-| [Kent](towns/kent/surveillance-tech-transcript-and-agenda-report.md) | Town Meeting | **3** | 2 | 2026-07-24 (62d ago) | every ~42 days |
-| [Ashford](towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **3** | 3 | 2026-08-27 (28d ago) | every ~14 days |
-| [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **3** | 3 | 2026-09-10 (14d ago) | every ~28 days |
-| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Utilities Commission | **3** | 3 | 2025-10-09 (350d ago) | every ~35 days |
-| [Lebanon](towns/lebanon/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **3** | 2 | 2026-09-21 (3d ago) | every ~35 days |
-| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Parks and Recreation Commission | **3** | 3 | 2026-09-09 (15d ago) | every ~28 days |
-| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Tourism and Economic Development Advisory Committee | **3** | 3 | 2026-09-15 (9d ago) | every ~71 days |
-| [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | Commission on the City Plan | **3** | 3 | 2026-08-18 (37d ago) | every ~23 days |
-| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Offshore Wind Advisory Committee | **3** | 1 | 2026-08-19 (36d ago) | every ~97 days |
-| [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | Agriculture Committee | **3** | 3 | 2026-09-10 (14d ago) | every ~35 days |
-| [Columbia](towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **3** | 3 | 2026-07-13 (73d ago) | every ~22 days |
-| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Historic District Commission | **3** | 2 | 2026-09-14 (10d ago) | every ~35 days |
-| [Chester](towns/chester/surveillance-tech-transcript-and-agenda-report.md) | Selectboard | **3** | 1 | 2026-09-16 (8d ago) | every ~14 days |
-| [Ledyard](towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **3** | 3 | 2026-08-13 (42d ago) | every ~14 days |
-| [Sterling](towns/sterling/surveillance-tech-transcript-and-agenda-report.md) | Economic Development Commission | **3** | 2 | 2026-05-12 (135d ago) | every ~28 days |
-| [Danbury](towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | Environmental Impact Commission | **3** | 2 | 2026-08-26 (29d ago) | every ~14 days |
+| [New Haven](towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **4** | 4 | 2026-08-11 (45d ago) | every ~14 days |
+| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Public Building Commission | **4** | 3 | 2026-09-10 (15d ago) | every ~28 days |
+| [Rocky Hill](towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | Affordable Housing Committee | **4** | 2 | 2026-08-28 (28d ago) | every ~41 days |
+| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Shellfish Advisory Board | **4** | 2 | 2026-09-22 (3d ago) | every ~59 days |
+| [Cromwell](towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **4** | 2 | 2026-09-24 (1d ago) | every ~14 days |
+| [East Haddam](towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | Economic Development Commission | **4** | 3 | 2026-09-17 (8d ago) | every ~46 days |
+| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Zoning Commission | **4** | 3 | 2026-09-15 (10d ago) | every ~15 days |
+| [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) | RTM Finance Committee | **4** | 2 | 2026-08-12 (44d ago) | every ~28 days |
+| [Killingworth](towns/killingworth/surveillance-tech-transcript-and-agenda-report.md) | Public Health Agency | **4** | 2 | 2025-10-08 (352d ago) | every ~91 days |
+| [Orange](towns/orange/surveillance-tech-transcript-and-agenda-report.md) | Zoning Board of Appeals | **4** | 4 | 2026-08-04 (52d ago) | every ~31 days |
+| [North Branford](towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | Conservation & Inland Wetlands & Watercourses Agency | **4** | 3 | 2026-09-23 (2d ago) | every ~35 days |
+| [Darien](towns/darien/surveillance-tech-transcript-and-agenda-report.md) | Blight Review Board | **4** | 2 | 2026-06-10 (107d ago) | every ~28 days |
+| [East Haddam](towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **4** | 4 | 2026-09-08 (17d ago) | every ~14 days |
+| [Columbia](towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | Safety Committee | **4** | 3 | 2026-09-16 (9d ago) | every ~126 days |
+| [Brookfield](towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | Zoning Board of Appeals | **4** | 3 | 2026-09-14 (11d ago) | every ~35 days |
+| [Bethel](towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **4** | 4 | 2026-09-22 (3d ago) | every ~14 days |
+| [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **4** | 3 | 2026-09-22 (3d ago) | every ~20 days |
+| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Police Department Building Committee | **4** | 4 | 2025-10-23 (337d ago) | every ~21 days |
+| [Ashford](towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | Planning & Zoning Commission | **4** | 2 | 2026-09-14 (11d ago) | every ~35 days |
+| [Ashford](towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **3** | 3 | 2026-09-24 (1d ago) | every ~14 days |
+| [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **3** | 3 | 2026-09-24 (1d ago) | every ~21 days |
+| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Economic and Community Development Committee | **3** | 2 | 2026-09-17 (8d ago) | every ~40 days |
+| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Climate Resilience Committee | **3** | 1 | 2026-06-11 (106d ago) | every ~63 days |
+| [New Milford](towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | Virtual Town Hall (Mayor's briefing) | **3** | 3 | 2026-09-24 (1d ago) | every ~7 days |
+| [North Haven](towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | Town Meeting | **3** | 3 | 2026-06-02 (115d ago) | every ~70 days |
+| [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **3** | 1 | 2026-09-23 (2d ago) | every ~28 days |
+| [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | Board of Parks and Recreation | **3** | 1 | 2026-09-15 (10d ago) | every ~28 days |
+| [Kent](towns/kent/surveillance-tech-transcript-and-agenda-report.md) | Town Meeting | **3** | 2 | 2026-07-24 (63d ago) | every ~42 days |
+| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Utilities Commission | **3** | 3 | 2025-10-09 (351d ago) | every ~35 days |
+| [Lebanon](towns/lebanon/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **3** | 2 | 2026-09-21 (4d ago) | every ~35 days |
+| [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | Wetlands Commission | **3** | 3 | 2026-09-01 (24d ago) | every ~35 days |
+| [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **3** | 3 | 2026-09-15 (10d ago) | every ~15 days |
+| [Kent](towns/kent/surveillance-tech-transcript-and-agenda-report.md) | Board of Finance | **3** | 2 | 2026-09-23 (2d ago) | every ~28 days |
+| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **3** | 2 | 2026-09-23 (2d ago) | every ~12 days |
+| [Ledyard](towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | Town Council | **3** | 3 | 2026-08-13 (43d ago) | every ~14 days |
+| [Sterling](towns/sterling/surveillance-tech-transcript-and-agenda-report.md) | Economic Development Commission | **3** | 2 | 2026-05-12 (136d ago) | every ~28 days |
+| [Danbury](towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | Environmental Impact Commission | **3** | 2 | 2026-08-26 (30d ago) | every ~14 days |
+| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Parks and Recreation Commission | **3** | 3 | 2026-09-09 (16d ago) | every ~28 days |
+| [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | Tourism and Economic Development Advisory Committee | **3** | 3 | 2026-09-15 (10d ago) | every ~71 days |
+| [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | Commission on the City Plan | **3** | 3 | 2026-08-18 (38d ago) | every ~23 days |
+| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Offshore Wind Advisory Committee | **3** | 1 | 2026-08-19 (37d ago) | every ~97 days |
+| [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | Agriculture Committee | **3** | 3 | 2026-09-10 (15d ago) | every ~35 days |
+| [Columbia](towns/columbia/surveillance-tech-transcript-and-agenda-report.md) | Planning and Zoning Commission | **3** | 3 | 2026-07-13 (74d ago) | every ~22 days |
+| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Historic District Commission | **3** | 2 | 2026-09-14 (11d ago) | every ~35 days |
+| [Chester](towns/chester/surveillance-tech-transcript-and-agenda-report.md) | Selectboard | **3** | 1 | 2026-09-16 (9d ago) | every ~14 days |
 | [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | Community Planning and Economic Development Committee | **3** | 2 | 2026-10-21 (scheduled) | every ~35 days |
-| [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | Open Space Committee | **3** | 1 | 2026-07-08 (78d ago) | every ~83 days |
-| [Bethany](towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **3** | 2 | 2026-09-16 (8d ago) | every ~14 days |
+| [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | Open Space Committee | **3** | 1 | 2026-07-08 (79d ago) | every ~83 days |
+| [Bethany](towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **3** | 2 | 2026-09-16 (9d ago) | every ~14 days |
 | [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **3** | 2 | 2026-09-29 (scheduled) | every ~14 days |
-| [Deep River](towns/deep-river/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **3** | 3 | 2026-06-23 (93d ago) | every ~21 days |
-| [Suffield](towns/suffield/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **3** | 2 | 2026-09-02 (22d ago) | every ~14 days |
-| [New Britain](towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **3** | 3 | 2026-09-14 (10d ago) | every ~28 days |
-| [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | Economic and Community Development Committee | **3** | 2 | 2026-09-17 (7d ago) | every ~40 days |
-| [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md) | Climate Resilience Committee | **3** | 1 | 2026-06-11 (105d ago) | every ~63 days |
-| [New Milford](towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | Virtual Town Hall (Mayor's briefing) | **3** | 3 | 2026-09-16 (8d ago) | every ~7 days |
-| [North Haven](towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | Town Meeting | **3** | 3 | 2026-06-02 (114d ago) | every ~70 days |
-| [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | **3** | 1 | 2026-07-15 (71d ago) | every ~28 days |
+| [Deep River](towns/deep-river/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **3** | 3 | 2026-06-23 (94d ago) | every ~21 days |
+| [Suffield](towns/suffield/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | **3** | 2 | 2026-09-02 (23d ago) | every ~14 days |
+| [New Britain](towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | **3** | 3 | 2026-09-14 (11d ago) | every ~28 days |
 
 ### Dormant
 
@@ -601,18 +569,18 @@ _12 bodies that raised surveillance repeatedly but have no recorded meeting in t
 
 | Town | Meeting body | Mentions | Last recorded |
 | --- | --- | --- | --- |
-| [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | Insurance Committee | 16 | 2022-02-17 (1680d ago) |
-| [Orange](towns/orange/surveillance-tech-transcript-and-agenda-report.md) | OGAT Committee | 14 | 2025-02-14 (587d ago) |
-| [Canterbury](towns/canterbury/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | 4 | 2023-09-13 (1107d ago) |
-| [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | Kycia Farm Committee | 4 | 2022-03-07 (1662d ago) |
-| [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | Redevelopment Agency | 3 | 2022-01-13 (1715d ago) |
-| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | 3 | 2025-07-02 (449d ago) |
-| [Stonington](towns/stonington/surveillance-tech-transcript-and-agenda-report.md) | Board of Police Commissioners | 3 | 2024-01-11 (987d ago) |
-| [Cornwall](towns/cornwall/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | 3 | 2023-04-18 (1255d ago) |
-| [Guilford](towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | Shellfish Commission | 3 | 2022-06-09 (1568d ago) |
-| [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | Standing Insurance Committee | 3 | 2025-07-07 (444d ago) |
-| [Cheshire](towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | Energy Commission | 3 | 2022-11-21 (1403d ago) |
-| [Ashford](towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | 3 | 2023-09-25 (1095d ago) |
+| [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | Insurance Committee | 16 | 2022-02-17 (1681d ago) |
+| [Orange](towns/orange/surveillance-tech-transcript-and-agenda-report.md) | OGAT Committee | 14 | 2025-02-14 (588d ago) |
+| [Canterbury](towns/canterbury/surveillance-tech-transcript-and-agenda-report.md) | Board of Education | 4 | 2023-09-13 (1108d ago) |
+| [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | Kycia Farm Committee | 4 | 2022-03-07 (1663d ago) |
+| [Stonington](towns/stonington/surveillance-tech-transcript-and-agenda-report.md) | Board of Police Commissioners | 3 | 2024-01-11 (988d ago) |
+| [Cornwall](towns/cornwall/surveillance-tech-transcript-and-agenda-report.md) | Board of Selectmen | 3 | 2023-04-18 (1256d ago) |
+| [Cheshire](towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | Energy Commission | 3 | 2022-11-21 (1404d ago) |
+| [Ashford](towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | 3 | 2023-09-25 (1096d ago) |
+| [Old Lyme](towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | Conservation Commission | 3 | 2025-07-02 (450d ago) |
+| [Guilford](towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | Shellfish Commission | 3 | 2022-06-09 (1569d ago) |
+| [Wethersfield](towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | Redevelopment Agency | 3 | 2022-01-13 (1716d ago) |
+| [Newington](towns/newington/surveillance-tech-transcript-and-agenda-report.md) | Standing Insurance Committee | 3 | 2025-07-07 (445d ago) |
 
 ## Statewide risk tiers
 

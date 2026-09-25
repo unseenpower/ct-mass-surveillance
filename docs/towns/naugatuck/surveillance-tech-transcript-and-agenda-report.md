@@ -1,9 +1,9 @@
 # Surveillance-tech report: Naugatuck
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,10 +20,10 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">16</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 7 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2022–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2022-02-10 → 2026-08-04</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Body cameras, Drones, Facial recognition, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">58%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">141 of 243 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">59%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">143 of 244 meetings</span></a>
 </div>
 
-**Still incomplete:** 102 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+**Still incomplete:** 101 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **Naugatuck**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -63,7 +63,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 7 meetings surfaced a finding (7 dated, spanning 2022-02-10 to 2026-08-04; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-04.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-04.*
 
 ??? note "Earlier meetings (7)"
 
@@ -389,8 +389,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 2
 - Active meeting bodies: 11
-- Videos registered: 243 (fetched: 141, no captions: 7)
-- Date range covered: 2018-08-16 to 2027-11-07 — **based on the 238 of 243 videos that carry a parseable upload date**; the other 5 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 244 (fetched: 143, no captions: 6)
+- Date range covered: 2018-08-16 to 2027-11-07 — **based on the 239 of 244 videos that carry a parseable upload date**; the other 5 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -405,9 +405,9 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| naugatuck_borough | videos | 2026-09-10 13:28:30.958309 | 225 |
-| naugatuck_schools | streams | 2026-09-10 13:28:51.455312 | 158 |
-| naugatuck_schools | videos | 2026-09-10 13:28:48.734838 | 96 |
+| naugatuck_borough | videos | 2026-09-25 16:08:00.614111 | 226 |
+| naugatuck_schools | streams | 2026-09-25 15:59:47.943042 | 158 |
+| naugatuck_schools | videos | 2026-09-25 15:59:45.018869 | 96 |
 
 
 ## Registered meeting bodies
@@ -423,7 +423,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Inland Wetlands Commission | other | True | 14 |
 | Planning Commission | other | True | 6 |
 | Public Hearing | other | True | 13 |
-| Zoning Commission | other | True | 23 |
+| Zoning Commission | other | True | 24 |
 | Police Commission | public_safety | True | 2 |
 
 
@@ -454,17 +454,16 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (7 shown, max 25)
+### Videos with no captions available (6 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| Monthly Board of Mayor and Burgess meeting 9-1-26 | 2026-09-01 |
 | Zoning Meeting (1) - 11-19-25 | 2025-11-19 |
 | Monthly Board of Mayor and Burgess Meeting 12/03/2024 | 2024-12-03 |
 | Naugatuck Board of Education meeting |  |
 | Naugatuck Board of Education Meeting |  |
-| Board of Education message to our CHMS 8th Graders |  |
 | Naugatuck Board of Education |  |
+| Board of Education message to our CHMS 8th Graders |  |
 
 
 ### Tabs never crawled
@@ -508,5 +507,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:56:53 from Naugatuck's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:02:25 from Naugatuck's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 
