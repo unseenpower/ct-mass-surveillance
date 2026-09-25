@@ -1,9 +1,9 @@
 # Surveillance-tech report: West Hartford
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,14 +14,15 @@
 
 ## At a glance: West Hartford
 
-<p class="glance-headline"><strong>138 mentions</strong> of surveillance technology in <strong>51</strong> West Hartford meetings, 2017–2026</p>
+<p class="glance-headline"><strong>144 mentions</strong> of surveillance technology in <strong>52</strong> West Hartford meetings, 2017–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">138</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 51 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2017–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2017-05-16 → 2026-08-04</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">144</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 52 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2017–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2017-05-16 → 2026-09-22</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">6</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Facial recognition, Real-time crime centres, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/west-hartford-alpr-searches.html"><span class="gc-big">41,498</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by West Hartford police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">93%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">761 of 819 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">93%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">777 of 834 meetings</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">14</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
 This report collects every mention of surveillance technology found in **West Hartford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
@@ -71,7 +72,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| [ALPR / Flock](#alpr) | 60 | 16 | 2019-05-07 | 2026-08-04 |
+| [ALPR / Flock](#alpr) | 66 | 17 | 2019-05-07 | 2026-09-22 |
 | [Body cameras](#body_camera) | 15 | 10 | 2020-07-08 | 2026-06-02 |
 | [Drones](#drone) | 55 | 27 | 2017-05-16 | 2026-05-05 |
 | [Facial recognition](#facial_recognition) | 3 | 2 | 2024-11-14 | 2026-08-04 |
@@ -83,9 +84,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 <!-- report-polish v1 -->
 
-51 meetings surfaced a finding (51 dated, spanning 2017-05-16 to 2026-08-04; 0 of unknown date, listed last). Newest first.
+52 meetings surfaced a finding (52 dated, spanning 2017-05-16 to 2026-09-22; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-04.*
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+
+### 2026-09-22 -- Town Council
+
+**Town Council Meeting of September 22, 2026** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=EDADKFdOvxI&t=420s)  > ...communications Corey Manento uh addressing the town council on the use of ALPR cameras. But before um Corey goes, I just want to um just sorry it's been a busy day. Uh before we begin, I...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=EDADKFdOvxI&t=446s)  > ...extremely important. I know many residents are here tonight because they want to speak about the automated license plate reader or ALPR technology, including flot cameras. We hear those...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=EDADKFdOvxI&t=448s)  > ...residents are here tonight because they want to speak about the automated license plate reader or ALPR technology, including flot cameras. We hear those concerns and take them very seriously....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=EDADKFdOvxI&t=509s)  > ...privacy and civil liberties. We are awaiting statewide guidance regarding the use of ALPR technology. The council will continue to receive information and consider this issue as that guidance...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=EDADKFdOvxI&t=560s)  > ...different rules. Public comment during that meeting is is limited to matters on the council's agenda. Because ALPR technology is not on tonight's regular council agenda, it will not be the...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=EDADKFdOvxI&t=868s)  > ...these cameras only read license plates and that's all they're doing. But in fact on Flock's own website um they say that their existing infrastructure collects speed data....
 
 ??? note "Earlier meetings (51)"
 
@@ -492,13 +504,73 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### alpr
 
+- **[2026-09-22] Town Council** -- Town Council Meeting of September 22, 2026
+  > ...communications Corey Manento uh addressing the town council on the use of ALPR cameras. But before um Corey goes, I just want to um just sorry it's been a busy day. Uh before we begin, I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EDADKFdOvxI&t=420s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-22] Town Council** -- Town Council Meeting of September 22, 2026
+  > ...these cameras only read license plates and that's all they're doing. But in fact on Flock's own website um they say that their existing infrastructure collects speed data....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EDADKFdOvxI&t=868s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-22] Town Council** -- Town Council Meeting of September 22, 2026
+  > ...different rules. Public comment during that meeting is is limited to matters on the council's agenda. Because ALPR technology is not on tonight's regular council agenda, it will not be the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EDADKFdOvxI&t=560s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-22] Town Council** -- Town Council Meeting of September 22, 2026
+  > ...privacy and civil liberties. We are awaiting statewide guidance regarding the use of ALPR technology. The council will continue to receive information and consider this issue as that guidance...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EDADKFdOvxI&t=509s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-22] Town Council** -- Town Council Meeting of September 22, 2026
+  > ...residents are here tonight because they want to speak about the automated license plate reader or ALPR technology, including flot cameras. We hear those concerns and take them very seriously....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EDADKFdOvxI&t=448s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-22] Town Council** -- Town Council Meeting of September 22, 2026
+  > ...extremely important. I know many residents are here tonight because they want to speak about the automated license plate reader or ALPR technology, including flot cameras. We hear those...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EDADKFdOvxI&t=446s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...I believe that there are 34 cameras in town. I\h was wondering how you decide where you put them.\h\h Um which locations those go to and why? And\h then the second question I had was what was\h\h the cost of the um program? meaning what is the\h town spending on on flock cameras. Thank you.\h\h All right. Through you uh Mr. Chair, uh the the\h initial inception of this was an ARPA funding\h\h uh back in in 2022. Uh the initial outlay\h the annual cost now is about $64,000\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2858s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...it's not a question. So outside agencies outside\h of of West Harford. [snorts] Yeah. So to be clear,\h\h if um if you if a federal agency or any agency\h comes to Flock with a subpoena or a request\h\h for customer data, it is Flock's position and\h contractual contractual obligation to refer that\h\h entity back to the data owner. In this case,\h the town. So we would redirect to the town and\h\h say you must go to them if you want the data. If\h for some reason, and I want to be clear, this has\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3305s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...Mr. led with for putting this on the agenda and\h moving it up uh before we talk about the next\h\h incredibly important uh topic. Um and I will go\h ahead and move on to our discussion regarding\h\h license plate readers also known uh commonly known\h as flock cameras. It is something that has been\h\h of great interest here in West Harford as well\h as across the country and um I would like to uh\h\h you know I look forward to this discussion uh\h pros cons otherwise and I will go ahead and turn\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1120s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...responsibly, uh it does make our town safer. Um at\h the same time, uh we recognize that any technology\h\h uh must has to have safeguards uh and oversight.\h and Connecticut as as you'll hear uh from the\h\h chief has enacted legislation that establishes\h standards for the use of uh license plate reader\h\h systems uh including limitations on data retention\h and access controls uh audit requirements um\h\h and uh and you know prohibit prohibiting uses\h uh unrelated to um legitimate law enforcement\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1277s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...with that uh as an opening I'd like to turn\h things over to the chief uh who will provide\h\h an overview of the program. Uh we also invited uh\h Max Weinstein who uh is a representative from uh\h\h Flock Safety who is the vendor who we\h are working with here in West Hartford\h\h and uh through you Mr. Chairman I will\h turn things over to our chief Chief Frick.\h\h Good morning uh Mr. Manager. Um Mr.\h Chair, thank you for this opportunity.\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1356s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...transparency is paramount, and of course\h accountability through audits and training. So why are we here uh this morning? uh if we've\h watched the national narrative uh there's been a\h\h lot of discussions regarding LPRs um LPRs uh\h people have now said associated flock to all\h\h LPRs but we know there's different vendors out\h there it reminds us of of a Kleenex there's many\h\h different types of tissues but everyone just says\h Kleenex so that's where we are regarding flocks\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1518s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...have to go before a judge and secure a judicial\h warrant, serve that warrant to the data owner,\h\h which would be West Hartford in this case, and\h then they would have to choose whether or whether\h\h or not to comply. It takes flock, it takes\h the private side out of it completely.\h\h Uh but that is how the process will\h work once SP 397 goes into effect.\h\h Yeah. Okay. That's what I just wanted that out and\h for the record. Thank you. Okay. Uh again, I I'm\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=5179s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...LPRs but we know there's different vendors out\h there it reminds us of of a Kleenex there's many\h\h different types of tissues but everyone just says\h Kleenex so that's where we are regarding flocks\h\h and and Flock is our vendor and I truly have an\h appreciation for the public's concern regarding\h\h potential overreach of governmental authority and\h what's happening with the data. Uh let's look back\h\h just a little bit. Uh the LPR technology\h is not new uh 20 plus years uh not just\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1538s)  _(term: alpr_flock, unreviewed)_
+
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...no name tags, and utilizing some of this\h technology to uh go get immigration folks and\h\h potentially other people. So, there's been a shift\h and the public is disturbed and troubled. We all\h\h know the case uh the Texas deputy who utilized the\h ALPR system to investigate a reproductive rights\h\h case. uh no one agreed with well let me not say\h that most of us in the law enforcement community\h\h that is not the purpose of that to go to an\h entire another jurisdiction uh regarding a a woman\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1730s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...Uh so all the same parameters exist for block\h and NCIC and it's the same users that are using\h\h both systems uh sworn personnel. The\h auditing process, we take random samples\h\h of officers throughout the month. Um and Flock\h makes it very easy to audit what's been done.\h\h There's timestamps and date stamps for\h essentially every keystroke in a program.\h\h Uh so we take a random sampling of usernames.\h uh we run their search history and we make sure\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3803s)  _(term: alpr_flock, unreviewed)_
+  > ...Uh that being said, we already have changed\h our policy and updated it. We are currently\h\h in compliance with this statute even though\h it doesn't come into effect until October and I have Max Mr. Max Weinstein here who can\h discuss a lot of these issues later on the flock\h\h side. So I thank him for that. Um you know vendor\h contracts prohibit the selling of data and the uh\h\h consumer uh those of us who have the agencies who\h have this can only share uh data with permission.\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1962s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...was the a had audits been done prior to sort\h of this current environment and, um, I think\h\h that question was answered uh, that you had done\h them. I just want to make sure that we get back\h\h to Robin on that. and the flock had a 20% I think\h it was clearance rate is the is the term uh and\h\h West Hartford uh she asked about whether that was\h a similar clearance rate and would we have that\h\h number I think that was her question so I just\h wanted to make sure we address that and answer it\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4762s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...ourselves with failure, but we just want to, you\h know, take a look at this and make sure it works. Right now on our West Harford uh plea PD web\h page uh we have several policies that are there\h\h including our LPR policy. So people can take a\h look at that. Our flock transparency uh portal\h\h is there. Um and in that portal what you have\h is the number of days that the data is retained.\h\h how many of LPR cameras that we have, the total\h number of plates read over the last 30 days,\h\h...
@@ -509,28 +581,36 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2316s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...is really uh understanding how we can prevent\h um by training and uh and audits and then and\h\h and then making sure that we are enforcing any\h anything that goes that goes wrong. Um we had uh\h\h a meeting with uh several city residents and one\h was from Windsor who had disconnected um the flock\h\h and um and had their reasons for for doing\h that and mostly I think there were a lot of\h\h unanswered questions um and maybe some we\h found to be misinformation in our meeting.\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4715s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...the vehicle evaded the scene. We did talk to a few\h witnesses. We did not have uh good statements from\h\h them. Uh we found a piece of evidence on the scene\h which the investigators were able to put it to\h\h what we believe a specific vehicle. Um fortunately\h we put this information into the flock system and\h\h within 13 hours in the use of the flock technology\h uh we were able to make an arrest and secure an\h\h arrest warrant. uh without the FL technology this\h crime would not have remained probably would have\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2394s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...Mr. led with for putting this on the agenda and\h moving it up uh before we talk about the next\h\h incredibly important uh topic. Um and I will go\h ahead and move on to our discussion regarding\h\h license plate readers also known uh commonly known\h as flock cameras. It is something that has been\h\h of great interest here in West Harford as well\h as across the country and um I would like to uh\h\h you know I look forward to this discussion uh\h pros cons otherwise and I will go ahead and turn\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1120s)  _(term: alpr_flock, unreviewed)_
+  > ...is the protections surrounding this um are are\h answering those questions. Um and we still need\h\h to, you know, be eyes wide open and if anything\h were to change, uh if the courts were to start to\h\h insist, uh that flock open up data for a use for\h something, that would change, uh the dynamic of of\h\h how we would handle and what kind of information\h we would have available uh for um any kind of\h\h federal government misuse. And as the chief said\h in the beginning, we have a a storied past in our\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4571s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...them. Uh we found a piece of evidence on the scene\h which the investigators were able to put it to\h\h what we believe a specific vehicle. Um fortunately\h we put this information into the flock system and\h\h within 13 hours in the use of the flock technology\h uh we were able to make an arrest and secure an\h\h arrest warrant. uh without the FL technology this\h crime would not have remained probably would have\h\h remained unsolved for quite some time. So\h it was a huge uh force multiplier for us\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2401s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...these are purely license plate readers and nothing\h no other information is being captured. Is that\h\h accurate for the specific flock cameras? Yes.\h However, as you know, we have s other surveillance\h\h cameras that we have throughout the town regarding\h that. But for the flock cameras that is accurate.\h\h Uh thank you and through you Mr. Chair. Just one\h other request um and the U transparency portal\h\h that we that you have on the website um I think\h is useful. I I admit I've taken a couple different\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4250s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...and patrol and our community support division and\h um the community support division is called CSU.\h\h Uh that is more of our uh street crime\h uh interdiction unit in 2026 is a recent\h\h uh just a few weeks ago. Sorry, we had a flock\h hit that led to an arrest for an individual had\h\h multiple warrants at East Harford in Hartford.\h And as we talked about domestic violence,\h\h charges included domestic violence,\h interfering with police and breach of peace.\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2480s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...have to go before a judge and secure a judicial\h warrant, serve that warrant to the data owner,\h\h which would be West Hartford in this case, and\h then they would have to choose whether or whether\h\h or not to comply. It takes flock, it takes\h the private side out of it completely.\h\h Uh but that is how the process will\h work once SP 397 goes into effect.\h\h Yeah. Okay. That's what I just wanted that out and\h for the record. Thank you. Okay. Uh again, I I'm\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=5179s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...multiple warrants at East Harford in Hartford.\h And as we talked about domestic violence,\h\h charges included domestic violence,\h interfering with police and breach of peace.\h\h And also just a few weeks ago, as a result\h of a flock hit of a stolen motor vehicle,\h\h we arrested two individuals. The charges\h for failure of probation, excuse me,\h\h violation or probation, uh failure to appear in\h the second degree, violation of protective order,\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2496s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...Um, thank you. And just so the but just to follow\h so the the flock cameras that are are in town,\h\h these are purely license plate readers and nothing\h no other information is being captured. Is that\h\h accurate for the specific flock cameras? Yes.\h However, as you know, we have s other surveillance\h\h cameras that we have throughout the town regarding\h that. But for the flock cameras that is accurate.\h\h Uh thank you and through you Mr. Chair. Just one\h other request um and the U transparency portal\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4242s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...and possession with intent to sell. Again,\h great grabs as utilization of this technology. Last year around November, we had a uh a\h family that reported one of their loved\h\h ones missing. Uh they did not know where they\h were at as a result of the flock tech. We put\h\h the information into the LPRs. Um later on in the\h evening, the vehicle hit on a couple of the LPRs.\h\h Long story short, we're able to\h zero in and locate the individual\h\h...
@@ -541,16 +621,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2576s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...The the camera, if that's the email that you're\h that I believe you're referring to, uh that's\h\h a private entities camera. That is not a West\h Hartford uh Police Department camera, LPR camera.\h\h Um, thank you. And just so the but just to follow\h so the the flock cameras that are are in town,\h\h these are purely license plate readers and nothing\h no other information is being captured. Is that\h\h accurate for the specific flock cameras? Yes.\h However, as you know, we have s other surveillance\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4226s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...That concludes my slideshow uh\h presentation. Uh at this time,\h\h my request through you uh Mr. share if I\h could allow uh Max Weinstein from Flock\h\h to provide some comments um regarding\h the Flock technology specifically\h\h and then after that we can entertain any\h questions uh if that's okay with you sir you are muted thank you I said absolutely make\h it so Chief Rick thank you appreciate it uh Mr.\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2583s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...was the a had audits been done prior to sort\h of this current environment and, um, I think\h\h that question was answered uh, that you had done\h them. I just want to make sure that we get back\h\h to Robin on that. and the flock had a 20% I think\h it was clearance rate is the is the term uh and\h\h West Hartford uh she asked about whether that was\h a similar clearance rate and would we have that\h\h number I think that was her question so I just\h wanted to make sure we address that and answer it\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4762s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...your assistance um in helping us uh prepare for\h today. Go ahead, Max. Thank you, Chief. And uh to\h\h the committee, uh thank you very much for allowing\h me a little time to present this morning. Uh my\h\h name is Max. I'm the director of public trust\h and technology here at Flock. I've been with\h\h the company for about two and a half years. And\h as Chief uh mentioned before, one correction,\h\h Chief, I am a Hall grad. Uh but other than that,\h you were spot on. Uh I am very very This meeting\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2621s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...that you use at Hartford um is something like\h Epic, right? Where you actually need to decrypt\h\h that information for a provider to actually be\h able to read it in a patient room, for example.\h\h That is kind of where Flock is. And so there is a\h specific subset of CJIS certified employees that\h\h exist within here. I'm I'm one of them.\h uh who because we need to fix the system\h\h may at times be able to see images captured on\h West Hartford devices. We are not logging into\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3936s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...similar meetings like this. This meeting is of\h particular personal importance because this is\h\h where my family is. Um, so thank you very much\h for for giving me the opportunity to speak. Um,\h\h Chief, as you mentioned, you know, LPR technology\h is not new. Uh, Flock was able to really transform\h\h the way it's utilized within law enforcement.\h And as a company, we really want to create\h\h a technology that works for local values and\h whatever those local values might be. We want\h\h...
@@ -561,56 +645,32 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2758s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...is really uh understanding how we can prevent\h um by training and uh and audits and then and\h\h and then making sure that we are enforcing any\h anything that goes that goes wrong. Um we had uh\h\h a meeting with uh several city residents and one\h was from Windsor who had disconnected um the flock\h\h and um and had their reasons for for doing\h that and mostly I think there were a lot of\h\h unanswered questions um and maybe some we\h found to be misinformation in our meeting.\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4715s)  _(term: alpr_flock, unreviewed)_
+  > ...Hospital for example that is personal and it's\h encrypted in one drive so Microsoft cannot\h\h go in and read my data even though my data\h is hosted on a Microsoft server. Is that how\h\h it works with flock or what level of access\h does the actual corporation have to our data?\h\h Yeah. Um I can take that. That's a that's a good\h question. Uh so yes, the data the second it's\h\h data is taken on the actual device. Uh it is\h encrypted. It is encrypted in transit. It is\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3891s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...Uh that being said, we already have changed\h our policy and updated it. We are currently\h\h in compliance with this statute even though\h it doesn't come into effect until October and I have Max Mr. Max Weinstein here who can\h discuss a lot of these issues later on the flock\h\h side. So I thank him for that. Um you know vendor\h contracts prohibit the selling of data and the uh\h\h consumer uh those of us who have the agencies who\h have this can only share uh data with permission.\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1962s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...responsibly, uh it does make our town safer. Um at\h the same time, uh we recognize that any technology\h\h uh must has to have safeguards uh and oversight.\h and Connecticut as as you'll hear uh from the\h\h chief has enacted legislation that establishes\h standards for the use of uh license plate reader\h\h systems uh including limitations on data retention\h and access controls uh audit requirements um\h\h and uh and you know prohibit prohibiting uses\h uh unrelated to um legitimate law enforcement\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1277s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...is the protections surrounding this um are are\h answering those questions. Um and we still need\h\h to, you know, be eyes wide open and if anything\h were to change, uh if the courts were to start to\h\h insist, uh that flock open up data for a use for\h something, that would change, uh the dynamic of of\h\h how we would handle and what kind of information\h we would have available uh for um any kind of\h\h federal government misuse. And as the chief said\h in the beginning, we have a a storied past in our\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4571s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...I believe that there are 34 cameras in town. I\h was wondering how you decide where you put them.\h\h Um which locations those go to and why? And\h then the second question I had was what was\h\h the cost of the um program? meaning what is the\h town spending on on flock cameras. Thank you.\h\h All right. Through you uh Mr. Chair, uh the the\h initial inception of this was an ARPA funding\h\h uh back in in 2022. Uh the initial outlay\h the annual cost now is about $64,000\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2858s)  _(term: alpr_flock, unreviewed)_
+  > ...any questions or comments, please? Yeah. Thank\h you, Mr. Chair. Um, yeah, first of all, thank\h\h you for that really informative presentation.\h uh really helps to understand uh what exactly\h\h are flock cameras. So I'm appreciative of that.\h Um I had a couple of questions. One is you said\h\h I believe that there are 34 cameras in town. I\h was wondering how you decide where you put them.\h\h Um which locations those go to and why? And\h then the second question I had was what was\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2837s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...where it flows. We have safeguards within the\h system to make sure that it is only shared with\h\h who the town chooses and elects to share with. In\h addition, you can only share the sharing network\h\h is only for other law enforcement agencies. So\h even though Flock does have a private customer uh\h\h group uh those those customers data is completely\h separate and bifurcated from law enforcement.\h\h So they they can share with their local\h law enforcement the private customers\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3213s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...these are purely license plate readers and nothing\h no other information is being captured. Is that\h\h accurate for the specific flock cameras? Yes.\h However, as you know, we have s other surveillance\h\h cameras that we have throughout the town regarding\h that. But for the flock cameras that is accurate.\h\h Uh thank you and through you Mr. Chair. Just one\h other request um and the U transparency portal\h\h that we that you have on the website um I think\h is useful. I I admit I've taken a couple different\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4250s)  _(term: alpr_flock, unreviewed)_
+  > ...Uh so all the same parameters exist for block\h and NCIC and it's the same users that are using\h\h both systems uh sworn personnel. The\h auditing process, we take random samples\h\h of officers throughout the month. Um and Flock\h makes it very easy to audit what's been done.\h\h There's timestamps and date stamps for\h essentially every keystroke in a program.\h\h Uh so we take a random sampling of usernames.\h uh we run their search history and we make sure\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3803s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...subpoenas? I want to make sure that people\h understand um you know if if I don't know if a\h\h federal agency were to come to us with a subpoena\h in that case um where the obligations lie.\h\h Sure. So sorry is the question if the federal\h agency comes to flock with a subpoena or West\h\h Hartford police? Uh well I think if West\h Hartford police come we own the data so\h\h it's not a question. So outside agencies outside\h of of West Harford. [snorts] Yeah. So to be clear,\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3280s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
+  > ...for some reason there is a judge that insists\h that data must be released to that federal agency,\h\h we would have no choice as the town would\h have no choice but to comply. Now, that is\h\h Flock's legal position. I can tell you that in\h the history of Flock, that has not happened. Okay. Thank you. That's very interesting\h to know and I appreciate that.\h\h One last question and I'll turn it over to\h others. Um, given what has just been said,\h\h...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3355s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...Hartford police? Uh well I think if West\h Hartford police come we own the data so\h\h it's not a question. So outside agencies outside\h of of West Harford. [snorts] Yeah. So to be clear,\h\h if um if you if a federal agency or any agency\h comes to Flock with a subpoena or a request\h\h for customer data, it is Flock's position and\h contractual contractual obligation to refer that\h\h entity back to the data owner. In this case,\h the town. So we would redirect to the town and\h\h...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3299s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...Um, thank you. And just so the but just to follow\h so the the flock cameras that are are in town,\h\h these are purely license plate readers and nothing\h no other information is being captured. Is that\h\h accurate for the specific flock cameras? Yes.\h However, as you know, we have s other surveillance\h\h cameras that we have throughout the town regarding\h that. But for the flock cameras that is accurate.\h\h Uh thank you and through you Mr. Chair. Just one\h other request um and the U transparency portal\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4242s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...it's not a question. So outside agencies outside\h of of West Harford. [snorts] Yeah. So to be clear,\h\h if um if you if a federal agency or any agency\h comes to Flock with a subpoena or a request\h\h for customer data, it is Flock's position and\h contractual contractual obligation to refer that\h\h entity back to the data owner. In this case,\h the town. So we would redirect to the town and\h\h say you must go to them if you want the data. If\h for some reason, and I want to be clear, this has\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3305s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...with that uh as an opening I'd like to turn\h things over to the chief uh who will provide\h\h an overview of the program. Uh we also invited uh\h Max Weinstein who uh is a representative from uh\h\h Flock Safety who is the vendor who we\h are working with here in West Hartford\h\h and uh through you Mr. Chairman I will\h turn things over to our chief Chief Frick.\h\h Good morning uh Mr. Manager. Um Mr.\h Chair, thank you for this opportunity.\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1356s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...The the camera, if that's the email that you're\h that I believe you're referring to, uh that's\h\h a private entities camera. That is not a West\h Hartford uh Police Department camera, LPR camera.\h\h Um, thank you. And just so the but just to follow\h so the the flock cameras that are are in town,\h\h these are purely license plate readers and nothing\h no other information is being captured. Is that\h\h accurate for the specific flock cameras? Yes.\h However, as you know, we have s other surveillance\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=4226s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...say you must go to them if you want the data. If\h for some reason, and I want to be clear, this has\h\h never happened. We are speaking in hypotheticals\h now, but if for some reason that federal agency\h\h or whatever that entity is came back to flock and\h said, "No, you must comply with this subpoena,"\h\h we would refer them back to the town and\h we will stand shoulder-to-shoulder with\h\h your legal representation to fight that. If\h at the end of whatever legal process that is,\h\h...
@@ -619,30 +679,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
   > ...Extremely important to understand that\h that uh public safety and civil liberties\h\h uh are not adversaries. uh\h they can complement each other\h\h uh as we go forward as we have been going\h forward with our uh ALPR program. Uh public\h\h safety is important, protecting our\h victims, privacy is extremely important,\h\h transparency is paramount, and of course\h accountability through audits and training....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1493s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...that you use at Hartford um is something like\h Epic, right? Where you actually need to decrypt\h\h that information for a provider to actually be\h able to read it in a patient room, for example.\h\h That is kind of where Flock is. And so there is a\h specific subset of CJIS certified employees that\h\h exist within here. I'm I'm one of them.\h uh who because we need to fix the system\h\h may at times be able to see images captured on\h West Hartford devices. We are not logging into\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3936s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...for some reason there is a judge that insists\h that data must be released to that federal agency,\h\h we would have no choice as the town would\h have no choice but to comply. Now, that is\h\h Flock's legal position. I can tell you that in\h the history of Flock, that has not happened. Okay. Thank you. That's very interesting\h to know and I appreciate that.\h\h One last question and I'll turn it over to\h others. Um, given what has just been said,\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3355s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...LPRs but we know there's different vendors out\h there it reminds us of of a Kleenex there's many\h\h different types of tissues but everyone just says\h Kleenex so that's where we are regarding flocks\h\h and and Flock is our vendor and I truly have an\h appreciation for the public's concern regarding\h\h potential overreach of governmental authority and\h what's happening with the data. Uh let's look back\h\h just a little bit. Uh the LPR technology\h is not new uh 20 plus years uh not just\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1538s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...Hospital for example that is personal and it's\h encrypted in one drive so Microsoft cannot\h\h go in and read my data even though my data\h is hosted on a Microsoft server. Is that how\h\h it works with flock or what level of access\h does the actual corporation have to our data?\h\h Yeah. Um I can take that. That's a that's a good\h question. Uh so yes, the data the second it's\h\h data is taken on the actual device. Uh it is\h encrypted. It is encrypted in transit. It is\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=3891s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...transparency is paramount, and of course\h accountability through audits and training. So why are we here uh this morning? uh if we've\h watched the national narrative uh there's been a\h\h lot of discussions regarding LPRs um LPRs uh\h people have now said associated flock to all\h\h LPRs but we know there's different vendors out\h there it reminds us of of a Kleenex there's many\h\h different types of tissues but everyone just says\h Kleenex so that's where we are regarding flocks\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=1518s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Virtual Meeting - August 4, 2026
-  > ...any questions or comments, please? Yeah. Thank\h you, Mr. Chair. Um, yeah, first of all, thank\h\h you for that really informative presentation.\h uh really helps to understand uh what exactly\h\h are flock cameras. So I'm appreciative of that.\h Um I had a couple of questions. One is you said\h\h I believe that there are 34 cameras in town. I\h was wondering how you decide where you put them.\h\h Um which locations those go to and why? And\h then the second question I had was what was\h\h...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2837s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-06] Public Safety Committee** -- Public Safety Committee Virtual Meeting - January 6, 2026
   > ...and was held on a $150,000 bond on December 19th with the utilization of our LPR system, our license plate reader system. Uh we had a hit on a stolen motor vehicle. Uh with the efforts of...
@@ -725,12 +761,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=xZOpX3S8QFE&t=994s)  _(term: alpr_flock, unreviewed)_
 
 - **[2019-05-07] Board of Education** -- Board of Education Meeting of May 7, 2019
-  > ...only involved in the flocking fundraiser at Connard and we just inherited the form and it said we can only flock west hartford addresses and one of the parents said well i want to flock an...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Y2K9XpYYD8c&t=2986s)  _(term: alpr_flock, unreviewed)_
-
-- **[2019-05-07] Board of Education** -- Board of Education Meeting of May 7, 2019
   > ...form and it said we can only flock west hartford addresses and one of the parents said well i want to flock an open choice student who lives out of town and our knee-jerk reaction was we...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Y2K9XpYYD8c&t=2991s)  _(term: alpr_flock, unreviewed)_
+
+- **[2019-05-07] Board of Education** -- Board of Education Meeting of May 7, 2019
+  > ...only involved in the flocking fundraiser at Connard and we just inherited the form and it said we can only flock west hartford addresses and one of the parents said well i want to flock an...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Y2K9XpYYD8c&t=2986s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -757,20 +793,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Df0BH3cmQ&t=5833s)  _(term: body_camera, unreviewed)_
 
 - **[2025-04-03] Public Safety Committee** -- Public Safety Committee Virtual Meeting - Budget Workshop of April 3, 2025
-  > ...everything else. Other times it's just a simple report. Uh, people aren't requesting the body cam and you can have that done in in less than 24 hours and sometimes if a person send it in, the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Df0BH3cmQ&t=5814s)  _(term: body_camera, unreviewed)_
+  > ...uh civil suits, accidents. Um, and when it comes to that, there's always a request for the body cam and the dash cam. So, I can't give you I I hope you understand it's always request driven....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Df0BH3cmQ&t=5854s)  _(term: body_camera, unreviewed)_
 
 - **[2025-04-03] Public Safety Committee** -- Public Safety Committee Virtual Meeting - Budget Workshop of April 3, 2025
   > ...component of that understand although we had dash cams before now every single police officer has a body cam associated with that that impacts it there's a cloud there's storage there's so many...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Df0BH3cmQ&t=3540s)  _(term: body_camera, unreviewed)_
 
 - **[2025-04-03] Public Safety Committee** -- Public Safety Committee Virtual Meeting - Budget Workshop of April 3, 2025
-  > ...uh civil suits, accidents. Um, and when it comes to that, there's always a request for the body cam and the dash cam. So, I can't give you I I hope you understand it's always request driven....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Df0BH3cmQ&t=5854s)  _(term: body_camera, unreviewed)_
-
-- **[2025-04-03] Public Safety Committee** -- Public Safety Committee Virtual Meeting - Budget Workshop of April 3, 2025
   > ...me of this. Uh especially with the subpoenas, it's not just us, our core counsel has to review those body cam and stuff too. So, it impacts their division. Uh, also, it's just a lot of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Df0BH3cmQ&t=6013s)  _(term: body_camera, unreviewed)_
+
+- **[2025-04-03] Public Safety Committee** -- Public Safety Committee Virtual Meeting - Budget Workshop of April 3, 2025
+  > ...everything else. Other times it's just a simple report. Uh, people aren't requesting the body cam and you can have that done in in less than 24 hours and sometimes if a person send it in, the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=m3Df0BH3cmQ&t=5814s)  _(term: body_camera, unreviewed)_
 
 - **[2024-02-07] (unassigned body)** -- Public Safety Standing Committee Virtual Meeting of February 7, 2024
   > ...I hope the technology Works U just to show that video that we have from our body Cam and if I can have your permission for that it's only a couple minutes long uh but it's one thing to...
@@ -828,20 +864,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7W0-lxJMhME&t=1845s)  _(term: drone, unreviewed)_
 
 - **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
-  > ...going to move forward with our Axon equipment. At the same time, we had our drone program with some legislative mandates with uh a ban on Chinese-made drones...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5437s)  _(term: drone, unreviewed)_
+  > ...That eliminates that need. The Done Portable is a is a portable drone detection uh system. Obviously paying attention to current events uh in this country and around the world. Uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5706s)  _(term: drone, unreviewed)_
 
 - **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
-  > ...the threat of drones is certainly increasing. That allows you to see where the drone is being flown from. Um so you roll that out to any of your large scale events um things of that nature. Uh the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5721s)  _(term: drone, unreviewed)_
+  > ...time a new product is is released, whether it be a body camera, a fleet camera, a new drone camera, uh that is uh automatically refreshed at no cost, which we have done with our current...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5874s)  _(term: drone, unreviewed)_
 
 - **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
   > ...is a company um out of California. So, we'd be transitioning uh away from our current DJI drones, which was um going to be we're not going to be able to use those after 2028. We...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5661s)  _(term: drone, unreviewed)_
 
 - **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
-  > ...That eliminates that need. The Done Portable is a is a portable drone detection uh system. Obviously paying attention to current events uh in this country and around the world. Uh...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5706s)  _(term: drone, unreviewed)_
+  > ...the threat of drones is certainly increasing. That allows you to see where the drone is being flown from. Um so you roll that out to any of your large scale events um things of that nature. Uh the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5721s)  _(term: drone, unreviewed)_
 
 - **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
   > ...have to have eyes on the drone at all times. There's a pilot and a physical observer that has to watch the drone. That eliminates that need. The Done Portable is a is a portable...
@@ -852,16 +888,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5694s)  _(term: drone, unreviewed)_
 
 - **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
+  > ...going to move forward with our Axon equipment. At the same time, we had our drone program with some legislative mandates with uh a ban on Chinese-made drones...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5437s)  _(term: drone, unreviewed)_
+
+- **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
   > ...really expands our our drone capabilities. It comes with uh you'll see the DR uh D drone beyond fixed site. That's basically a radar platform that allows us to fly higher and beyond line...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5683s)  _(term: drone, unreviewed)_
 
 - **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
   > ...are um docks that are placed in different locations in town. Um and it really expands our our drone capabilities. It comes with uh you'll see the DR uh D drone beyond fixed site....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5678s)  _(term: drone, unreviewed)_
-
-- **[2026-03-31] Public Safety Committee** -- Budget Workshop Public Safety Committee Virtual Meeting - March 31, 2026
-  > ...time a new product is is released, whether it be a body camera, a fleet camera, a new drone camera, uh that is uh automatically refreshed at no cost, which we have done with our current...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=5874s)  _(term: drone, unreviewed)_
 
 - **[2025-12-16] Board of Education** -- Board of Education Meeting December 16, 2025
   > ...unbelievable security plan. Fire and ice is extremely secured with bomb squad, SWAT team, undercover cops, drone surveillance, as well as fortified in many angles. I will spare you the photos...
@@ -1051,12 +1087,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=emwsV5k4c2A&t=2277s)  _(term: facial_recognition, unreviewed)_
 
 - **[2024-11-14] Public Works, Facilities, and Sustainability Committee** -- Public Works, Facilities and Sustainability Meeting - November 14, 2024
-  > ...this next step uh and and modernizing our time and attendance system it'll be a facial recognition time clock or they can use their cellphones it's geomapped to at the facilities that they work at...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hrFLpPWp7j8&t=1699s)  _(term: facial_recognition, unreviewed)_
-
-- **[2024-11-14] Public Works, Facilities, and Sustainability Committee** -- Public Works, Facilities and Sustainability Meeting - November 14, 2024
   > ...just interesting to hear about the time sheet um entry and submission in terms of moving from paper to the whole facial recognition electronic so my question is probably dual for both you and the town...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=hrFLpPWp7j8&t=2089s)  _(term: facial_recognition, unreviewed)_
+
+- **[2024-11-14] Public Works, Facilities, and Sustainability Committee** -- Public Works, Facilities and Sustainability Meeting - November 14, 2024
+  > ...this next step uh and and modernizing our time and attendance system it'll be a facial recognition time clock or they can use their cellphones it's geomapped to at the facilities that they work at...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=hrFLpPWp7j8&t=1699s)  _(term: facial_recognition, unreviewed)_
 
 
 ### gunshot_detection
@@ -1098,12 +1134,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=AdkOjIxeIXU&t=4747s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-01-21] Community Planning and Economic Development Committee** -- Community Planning & Economic Development Committee Virtual Meeting  - January 21, 2026
-  > ...that's in this case sanitary sewer overflows. So we have a pro program set up where we do CCTV inspection of the sewers. We do manhole inspections. We clean the sewers. And then ideally, if...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ih4vo-P9-4M&t=4363s)  _(term: surveillance_general, unreviewed)_
-
-- **[2026-01-21] Community Planning and Economic Development Committee** -- Community Planning & Economic Development Committee Virtual Meeting  - January 21, 2026
   > ...And then we have a crossount unit kind of like this little ATV shown here where we can get in there um and get CCTV equipment in there. So, we're not trying to like produce a road or anything. We...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ih4vo-P9-4M&t=4551s)  _(term: surveillance_general, unreviewed)_
+
+- **[2026-01-21] Community Planning and Economic Development Committee** -- Community Planning & Economic Development Committee Virtual Meeting  - January 21, 2026
+  > ...that's in this case sanitary sewer overflows. So we have a pro program set up where we do CCTV inspection of the sewers. We do manhole inspections. We clean the sewers. And then ideally, if...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ih4vo-P9-4M&t=4363s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-09-24] Community Planning and Economic Development Committee** -- Special Community Planning & Economic Development Committee Virtual Meeting - September 24, 2024
   > ...times um the first step that the contractor does is to inspect the sewer they they put cameras in it they CCTV it they clean it they're looking to make sure one they agree that it is...
@@ -1134,7 +1170,124 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### alpr
 
-*(no mentions)*
+- **[2026-09-22] Town Council** -- Town Council Minutes - 2026-09-22 (minutes)
+  > ...or Cantor, Councilors Harris, Lazarus, Lyons, McGinnis, Deputy Mayor
+Polun, Walters, Wang and Wenograd
+2. Communications
+
+A. Cory Manento, [address redacted], addressing the Council on the Town's use of ALPR
+Cameras
+Cory Manento addressed the Council on the Town's use of ALPR Cameras
+3. Adjournment
+Without Objection, Motion to Adjourn (Cantor)
+  MOTION CARRIES (9 YEA, 0 NAY)
+
+The meeting adjourned at...
+  [View document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7585,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-01] Public Safety Committee** -- Public Safety Committee Other - 2026-09-01 (other)
+  > ...      Interval House was presented to the committee to be placed on the next Town Council
+      meeting for action.
+   C. The Police Chief, members of the police department, and a representative from Flock
+      provided the committee and councilors with an overview of the department's license
+      plate reader program.
+
+3. Communications
+   A. No communications were provided at this time.
+
+4. St...
+  [View document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7508,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-22] Town Council** -- Town Council Agenda - 2026-09-22 (agenda)
+  > ...tive:
+Comcast Channel 5 and Frontier TV Channel 6098, YouTube as well as
+www.whctv.org
+1. Call to Order
+2. Communications
+A. Cory Manento, [address redacted], addressing the Council on the Town's use of ALPR
+Cameras
+3. Adjournment
+
+
+Anyone requiring auxiliary aid or service for effective communication or
+modification of policies or procedures to participate in a meeting, service,
+program, or activity...
+  [View document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7563,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Other - 2026-08-04 (other)
+  > ...der
+2. Business Items
+A. Approval of Minutes - June 9, 2026
+B. Resolution Appropriating Municipal Tax Revenues From Cannabis Sales To Support
+The Interval House
+C. Overview of the Police Department's License Plate Reader Program
+3. Communications
+4. Staff Reports
+A. Fire Department Update
+B. Police Department Update
+5. Future Agenda Items
+6. Adjournment
+
+
+Anyone requiring auxiliary aid or service ...
+  [View document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7469,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Agenda - 2026-08-04 (agenda)
+  > ...der
+2. Business Items
+A. Approval of Minutes - June 9, 2026
+B. Resolution Appropriating Municipal Tax Revenues From Cannabis Sales To Support
+The Interval House
+C. Overview of the Police Department's License Plate Reader Program
+3. Communications
+4. Staff Reports
+A. Fire Department Update
+B. Police Department Update
+5. Future Agenda Items
+6. Adjournment
+
+
+Anyone requiring auxiliary aid or service ...
+  [View document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7465,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-06-02] Public Safety Committee** -- Public Safety Committee Other - 2026-06-02 (other)
+  > ...ond.
+                       Christina Baker was charged with Interfering and issued a $10,000 non-surety
+                       bond.
+
+                   ▪   May 26-#26-24872-Units were notified of a Flock hit for a stolen vehicle in the
+                       area of New Park Ave and Foley Street. The vehicle was located by officers
+                       driving east of the Flatbush Bridge. They...
+  [View document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7368,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-05-05] Public Safety Committee** -- Public Safety Committee Other - 2026-05-05 (other)
+  > ...  • Marijuana seized-709.1 grams (1.5 pounds)
+
+                   ▪   April 17-#26-18270-One of our detectives was notified by a West Hartford Police
+                       Intel Analyst Officer of a Flock LPR hit for a File 01; Felony Vehicle that had
+                       entered the Town of West Hartford. The vehicle, a 2005 Audi A5, bearing MA
+                       Reg 3CMC17, was entered in...
+  [View document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7360,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-10] Public Safety Committee** -- Public Safety Committee Other - 2026-03-10 (other)
+  > ...ere was a theft of cooking oil where the suspects were
+                      confronted by the owner. Pictures as well as suspect and vehicle descriptions were
+                      passed to WHPD. A FLOCK search located the vehicle in Newtown, CT where
+                      local PD stopped the suspects (who appeared to be preparing for another theft.)
+                      The suspects were arre...
+  [View document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7126,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-01-06] Public Safety Committee** -- Public Safety Committee Other - 2026-01-06 (other)
+  > ...                          VERNON RIDDICK, JR
+OFFICE OF THE POLICE CHIEF                                                   CHIEF OF POLICE
+
+
+
+
+                   ▪   December 19-#25-59763: There was a Flock License Plate Reader (LPR) hit of a
+                       stolen Mercedes Benz that was then located by patrol officers in the area of
+                       Boulevard/Trout Brook Drive. A stop...
+  [View document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5954,plainText=false))  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -1169,7 +1322,13 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### drone
 
-*(no mentions)*
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Other - 2026-08-04 (other)
+  > ...84-Connecticut State Police requested mutual aid for a File 01 on
+                       I84. Multiple occupants of the vehicle fled on foot in the area of Trout Brook
+                       Drive. A drone and K9s were requested and deployed on scene. Three suspects
+                       were located and taken into custody; one suspect is believed to have alluded
+                       capture. T...
+  [View document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7469,plainText=false))  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -1184,7 +1343,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### mobile_forensics
 
-*(no mentions)*
+- **[2026-08-04] Public Safety Committee** -- Public Safety Committee Other - 2026-08-04 (other)
+  > ...to custody.
+
+   •   Detective Division
+
+                   ▪   During the week of June 1-5, 2026, West Hartford Police hosted Detectives from
+                       different parts of the country for Cellebrite Certified Operator for Inseyets and
+                       Cellebrite Certified Physical Analyst for Inseyets Bundle – This is a dual
+                       certification class that teaches...
+  [View document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7469,plainText=false))  _(term: mobile_forensics, unreviewed)_
 
 
 ### osint_social_monitor
@@ -1209,7 +1377,36 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### surveillance_general
 
-*(no mentions)*
+- **[2026-06-02] Public Safety Committee** -- Public Safety Committee Other - 2026-06-02 (other)
+  > ... and discussed the Internal Affairs Investigation Report: 25-
+02. The West Hartford Police Department investigated an alleged shoplifting incident at a store at
+West Farms Mall. The officers reviewed surveillance camera footage showing a female suspect
+exiting the mall and being driven away as a passenger in a red Cadillac. The first and last two
+digits of the license plate number were visible. Th...
+  [View document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7368,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-01-21] Community Planning and Economic Development Committee** -- Community Planning & Economic Development Other - 2026-01-21 (other)
+  > ...Operation & Maintenance (CMOM)
+   – Primary Objective is elimination of Maintenance Related Sanitary Sewer
+     Overflows
+   – Typical CMOM Activities
+       • Sewer Inspection via Closed Circuit TV (CCTV)
+       • Manhole Inspections
+       • Sewer Cleaning
+       • Sewer Lining
+           – Structural and/or Infiltration/Inflow (I/I)
+   – MDC has CCTV Inspected approximately 97% of entire
+     c...
+  [View document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6019,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-05-05] Public Safety Committee** -- Public Safety Committee Other - 2026-05-05 (other)
+  > ...r items of evidentiary value. Our detectives assisted with a canvass of
+                       the area for anyone tied to the vehicle or potential witnesses. Detective located
+                       CCTV video footage of a party exiting the vehicle prior to its recovery. The
+                       information was provided to investigators from the New Britain Police Dept.
+
+                   ▪   ...
+  [View document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7360,plainText=false))  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools
@@ -1236,9 +1433,9 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Coverage status
 
 - Channels registered: 1
-- Active meeting bodies: 8
-- Videos registered: 819 (fetched: 761, no captions: 51)
-- Date range covered: 2012-09-18 to 2026-09-22 — **based on the 811 of 819 videos that carry a parseable upload date**; the other 8 are undated, so the real corpus may extend beyond this range in either direction
+- Active meeting bodies: 11
+- Videos registered: 834 (fetched: 777, no captions: 47)
+- Date range covered: 2012-09-18 to 2026-10-27 — **based on the 826 of 834 videos that carry a parseable upload date**; the other 8 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -1252,8 +1449,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| whci | streams | 2026-09-10 13:25:02.323646 | 3770 |
-| whci | videos | 2026-09-10 13:24:12.495801 | 2473 |
+| whci | streams | 2026-09-25 15:21:53.432357 | 3783 |
+| whci | videos | 2026-09-25 15:21:00.390078 | 2480 |
 
 
 ## Registered meeting bodies
@@ -1261,14 +1458,17 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | False | 0 |
-| Finance and Administration Committee | budget_finance | True | 59 |
-| Town Council | council | True | 345 |
+| Finance and Administration Committee | budget_finance | True | 60 |
+| Special Services District | budget_finance | True | 5 |
+| Committee of the Whole | council | True | 1 |
+| Town Council | council | True | 347 |
+| Town Council Public Hearing | council | True | 2 |
 | Board of Education | education | True | 248 |
-| Community Planning and Economic Development Committee | other | True | 25 |
+| Community Planning and Economic Development Committee | other | True | 26 |
 | Council Affairs and Governance Committee | other | True | 1 |
-| Human & Community Services Committee | other | True | 46 |
-| Public Works, Facilities, and Sustainability Committee | other | True | 38 |
-| Public Safety Committee | public_safety | True | 27 |
+| Human & Community Services Committee | other | True | 47 |
+| Public Works, Facilities, and Sustainability Committee | other | True | 39 |
+| Public Safety Committee | public_safety | True | 28 |
 
 
 **Zero videos registered for:** Board of Finance
@@ -1277,8 +1477,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 90 (fetched: 0)
-- Date range covered: 2026-01-06 to 2026-09-08
+- Documents registered: 173 (fetched: 173)
+- Date range covered: 2026-01-05 to 2026-09-23
 
 
 ### Agenda sources
@@ -1308,10 +1508,6 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | title | upload_date |
 | --- | --- |
-| Town Council Meeting of September 8, 2026 | 2026-09-08 |
-| Public Works, Facilities and Sustainability Meeting - August 20, 2026 | 2026-08-20 |
-| Community Planning & Economic Development Committee Virtual Meeting  - August 19, 2026 | 2026-08-19 |
-| Town Council Meeting of August 12, 2026 | 2026-08-12 |
 | Public Safety Committee Virtual Meeting of December 4, 2024 | 2024-12-04 |
 | Finance and Administration Committee Meeting of December 4, 2023 | 2023-12-04 |
 | West Hartford Lens - Town Council Candidate Forum - October 4, 2023 | 2023-10-04 |
@@ -1333,6 +1529,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Community Comments and Town Council Meeting of September 26, 2017 | 2017-09-26 |
 | Board of Education Meeting of September 5, 2017 | 2017-09-05 |
 | Board of Education Meeting of April 18, 2017 | 2017-04-18 |
+| Public Hearing and Town Council Meeting of March 28, 2017 | 2017-03-28 |
+| Board of Education Meeting & Workshop of March 21, 2017 | 2017-03-21 |
+| Board of Education Budget Workshop #1 of March 15, 2017 | 2017-03-15 |
+| Board of Education Budget Workshop of March 15, 2017 | 2017-03-15 |
 
 
 ### Tabs never crawled
@@ -1374,5 +1574,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:05:02 from West Hartford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:11:31 from West Hartford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

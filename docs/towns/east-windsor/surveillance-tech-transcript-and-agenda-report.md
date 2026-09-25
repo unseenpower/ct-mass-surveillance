@@ -1,9 +1,9 @@
 # Surveillance-tech report: East Windsor
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,18 +14,18 @@
 
 ## At a glance: East Windsor
 
-<p class="glance-headline"><strong>124 mentions</strong> of surveillance technology in <strong>18</strong> East Windsor meetings, 2023–2026</p>
+<p class="glance-headline"><strong>137 mentions</strong> of surveillance technology in <strong>23</strong> East Windsor meetings, 2022–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">124</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 18 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2023–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2023-05-18 → 2026-07-28</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">137</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 23 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2022–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2022-03-08 → 2026-07-28</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Other biometrics, Drones, Facial recognition, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/east-windsor-alpr-searches.html"><span class="gc-big">6,597</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by East Windsor police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">46%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">227 of 490 meetings</span></a>
-<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">1</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">68%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">332 of 491 meetings</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">2</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
-**Still incomplete:** 263 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+**Still incomplete:** 159 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **East Windsor**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -74,9 +74,9 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| [ALPR / Flock](#alpr) | 5 | 4 | 2024-05-16 | 2026-06-04 |
+| [ALPR / Flock](#alpr) | 6 | 5 | 2022-03-08 | 2026-06-04 |
 | [Other biometrics](#biometrics_other) | 1 | 1 | 2024-03-28 | 2024-03-28 |
-| [Drones](#drone) | 113 | 12 | 2023-05-18 | 2026-07-28 |
+| [Drones](#drone) | 125 | 16 | 2022-04-21 | 2026-07-28 |
 | [Facial recognition](#facial_recognition) | 4 | 3 | 2026-02-05 | 2026-06-04 |
 | [General surveillance](#surveillance_general) | 1 | 1 | 2024-05-16 | 2024-05-16 |
 
@@ -85,11 +85,11 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 <!-- report-polish v1 -->
 
-18 meetings surfaced a finding (18 dated, spanning 2023-05-18 to 2026-07-28; 0 of unknown date, listed last). Newest first.
+23 meetings surfaced a finding (23 dated, spanning 2022-03-08 to 2026-07-28; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-07-28.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-07-28.*
 
-??? note "Earlier meetings (18)"
+??? note "Earlier meetings (23)"
 
     **2026-07-28 -- Planning & Zoning Commission**
 
@@ -111,6 +111,26 @@ Six Connecticut towns have released the Flock audit log of every search run agai
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=bj7HJDN_vPo&t=6306s)  > ...companies do different things. I want to be very clear on this. These are not flock cameras. These are not LPR uh cameras which are either fixed or on cruisers. Um, this just takes a picture...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=bj7HJDN_vPo&t=7231s)  > ...the elephant in the room. Um express concerns about sharing data, right? This is the big thing with flock. Everyone said, "Well, you know, how are you using this with ICE or other federal uh...
     - `facial_recognition` [Watch on YouTube ▸](https://www.youtube.com/watch?v=bj7HJDN_vPo&t=7565s)  > ...were looking for. Yes. >> Those cameras were like >> taking pictures of people and facial recognition stuff. Although we would turn it on, they had it there and and...
+
+    **2026-03-25 -- Board of Finance**
+
+    **Board of Finance FY 26-27 Budget Workshop Wednesday, March 25, 2026** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=cEZD0Nowhow&t=4027s)  > ...for service, what we're what we're faced with. Um and then lastly, we upgraded our drone our drone program. We have uh three drones. Uh one's really training, one's DJI, which is a Chinese drone....
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=cEZD0Nowhow&t=4031s)  > ...our drone our drone program. We have uh three drones. Uh one's really training, one's DJI, which is a Chinese drone. It's always questionable when it's going to be rounded. And then this latest one...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=cEZD0Nowhow&t=4036s)  > ...It's always questionable when it's going to be rounded. And then this latest one is a Skyo drone which is Americanmade. Um so we're pretty happy. We're we're excited about our drone program. Um and...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=cEZD0Nowhow&t=4040s)  > ...is a Skyo drone which is Americanmade. Um so we're pretty happy. We're we're excited about our drone program. Um and so we upgraded that last year. >> Next slide....
+
+    **2026-02-25 -- Board of Selectmen**
+
+    **Board of Selectmen Budget Workshop - February 25, 2026** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SxfzG3Junc4&t=5102s)  > ...keep up with those. Uh this year uh in actually in July, we took possession of an updated uh drone. It's a Skyo. Um in the event that we we had a DJI, it's a Chinese manufactured drone. In the event...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SxfzG3Junc4&t=5108s)  > ...an updated uh drone. It's a Skyo. Um in the event that we we had a DJI, it's a Chinese manufactured drone. In the event that that's going to cause problems for us with the Department of Defense or uh...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SxfzG3Junc4&t=5120s)  > ...last year it was up in uh the legislators and if they restricted us we that's an Americanmade drone so we wouldn't have to lose our our drone program. I don't think it's going to go...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SxfzG3Junc4&t=5123s)  > ...legislators and if they restricted us we that's an Americanmade drone so we wouldn't have to lose our our drone program. I don't think it's going to go there but you never know. So I just want...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SxfzG3Junc4&t=5158s)  > ...>> Last year money. Yes. >> And then uh the the How did you pay for the drone update? >> The drone was um the >> grant. It was the uh um autotheft. We...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SxfzG3Junc4&t=5160s)  > ...>> And then uh the the How did you pay for the drone update? >> The drone was um the >> grant. It was the uh um autotheft. We used the Joel autotheft grant. So um...
 
     **2026-02-05 -- Board of Selectmen**
 
@@ -305,6 +325,24 @@ Six Connecticut towns have released the Flock audit log of every search run agai
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=zgVJFCh0koA&t=1034s)  > ...equipment violations or we can do some covert surveillance I also included possibly we could use the Drone and do some surveillance with the Drone in the evening or late night hours so it is to...
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=zgVJFCh0koA&t=1037s)  > ...covert surveillance I also included possibly we could use the Drone and do some surveillance with the Drone in the evening or late night hours so it is to take care of overtime...
 
+    **2022-07-26 -- Planning & Zoning Commission**
+
+    **Planning and Zoning Commission Meeting - Tuesday, July 26, 2022** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=O2n9xpvwEek&t=1414s)  > ...but there's still only sort of two categories it's an accessory drone or tying out something else and can i just clarify one thing the...
+
+    **2022-04-21 -- Board of Selectmen**
+
+    **Board of Selectmen Regular Meeting/Special Town Meeting - April 21, 2022** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5MW5GZLgnOk&t=1637s)  > ...statements reviewing the acceptance discussion request regarding the use of the k-9 gun range and drone program i also found a golden meeting on march 13th to follow up on the budget...
+
+    **2022-03-08 -- Planning & Zoning Commission**
+
+    **Planning and Zoning Commission Meeting - March 8, 2022** _(topics: alpr)_
+
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=SawAqiKC3_4&t=5901s)  > ...down and then all the trees on the other flock that was on town property and there's like 60 to go back there and it's just a...
+
 
 ## Findings by topic
 
@@ -320,12 +358,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-9AP43h6uhg&t=3302s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-05-07] Board of Selectmen** -- Board of Selectmen Regular Meeting - May 7th, 2026
-  > ...companies do different things. I want to be very clear on this. These are not flock cameras. These are not LPR uh cameras which are either fixed or on cruisers. Um, this just takes a picture...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bj7HJDN_vPo&t=6306s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-05-07] Board of Selectmen** -- Board of Selectmen Regular Meeting - May 7th, 2026
   > ...the elephant in the room. Um express concerns about sharing data, right? This is the big thing with flock. Everyone said, "Well, you know, how are you using this with ICE or other federal uh...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bj7HJDN_vPo&t=7231s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-05-07] Board of Selectmen** -- Board of Selectmen Regular Meeting - May 7th, 2026
+  > ...companies do different things. I want to be very clear on this. These are not flock cameras. These are not LPR uh cameras which are either fixed or on cruisers. Um, this just takes a picture...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bj7HJDN_vPo&t=6306s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-09-23] Planning & Zoning Commission** -- Planning & Zoning Commission Meeting 9 23 2025
   > ...security blue ditch, the construction of that culvert. Um you mentioned that the road flock shut off to the folks at the far end. Um and just a note about preser preserving...
@@ -334,6 +372,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2024-05-16] Board of Selectmen** -- Board of Selectmen Regular Meeting - May 16, 2024
   > ...looking at this the technology is there with the lprs the license plate readers the flock cameras the fixed cameras that we have in the community already that are are giving us license plate...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ku-2oyXAKE0&t=6972s)  _(term: alpr_flock, unreviewed)_
+
+- **[2022-03-08] Planning & Zoning Commission** -- Planning and Zoning Commission Meeting - March 8, 2022
+  > ...down and then all the trees on the other flock that was on town property and there's like 60 to go back there and it's just a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SawAqiKC3_4&t=5901s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -374,6 +416,46 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   > ...Obviously, you would never quite experience the site like this unless you're in a drone or some type of plane, but uh this gives you a sense of um where those existing vacuums are, where...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PUSkliUCgIM&t=4068s)  _(term: drone, unreviewed)_
 
+- **[2026-03-25] Board of Finance** -- Board of Finance FY 26-27 Budget Workshop Wednesday, March 25, 2026
+  > ...is a Skyo drone which is Americanmade. Um so we're pretty happy. We're we're excited about our drone program. Um and so we upgraded that last year. >> Next slide....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cEZD0Nowhow&t=4040s)  _(term: drone, unreviewed)_
+
+- **[2026-03-25] Board of Finance** -- Board of Finance FY 26-27 Budget Workshop Wednesday, March 25, 2026
+  > ...our drone our drone program. We have uh three drones. Uh one's really training, one's DJI, which is a Chinese drone. It's always questionable when it's going to be rounded. And then this latest one...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cEZD0Nowhow&t=4031s)  _(term: drone, unreviewed)_
+
+- **[2026-03-25] Board of Finance** -- Board of Finance FY 26-27 Budget Workshop Wednesday, March 25, 2026
+  > ...It's always questionable when it's going to be rounded. And then this latest one is a Skyo drone which is Americanmade. Um so we're pretty happy. We're we're excited about our drone program. Um and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cEZD0Nowhow&t=4036s)  _(term: drone, unreviewed)_
+
+- **[2026-03-25] Board of Finance** -- Board of Finance FY 26-27 Budget Workshop Wednesday, March 25, 2026
+  > ...for service, what we're what we're faced with. Um and then lastly, we upgraded our drone our drone program. We have uh three drones. Uh one's really training, one's DJI, which is a Chinese drone....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cEZD0Nowhow&t=4027s)  _(term: drone, unreviewed)_
+
+- **[2026-02-25] Board of Selectmen** -- Board of Selectmen Budget Workshop - February 25, 2026
+  > ...an updated uh drone. It's a Skyo. Um in the event that we we had a DJI, it's a Chinese manufactured drone. In the event that that's going to cause problems for us with the Department of Defense or uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SxfzG3Junc4&t=5108s)  _(term: drone, unreviewed)_
+
+- **[2026-02-25] Board of Selectmen** -- Board of Selectmen Budget Workshop - February 25, 2026
+  > ...keep up with those. Uh this year uh in actually in July, we took possession of an updated uh drone. It's a Skyo. Um in the event that we we had a DJI, it's a Chinese manufactured drone. In the event...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SxfzG3Junc4&t=5102s)  _(term: drone, unreviewed)_
+
+- **[2026-02-25] Board of Selectmen** -- Board of Selectmen Budget Workshop - February 25, 2026
+  > ...last year it was up in uh the legislators and if they restricted us we that's an Americanmade drone so we wouldn't have to lose our our drone program. I don't think it's going to go...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SxfzG3Junc4&t=5120s)  _(term: drone, unreviewed)_
+
+- **[2026-02-25] Board of Selectmen** -- Board of Selectmen Budget Workshop - February 25, 2026
+  > ...legislators and if they restricted us we that's an Americanmade drone so we wouldn't have to lose our our drone program. I don't think it's going to go there but you never know. So I just want...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SxfzG3Junc4&t=5123s)  _(term: drone, unreviewed)_
+
+- **[2026-02-25] Board of Selectmen** -- Board of Selectmen Budget Workshop - February 25, 2026
+  > ...>> Last year money. Yes. >> And then uh the the How did you pay for the drone update? >> The drone was um the >> grant. It was the uh um autotheft. We...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SxfzG3Junc4&t=5158s)  _(term: drone, unreviewed)_
+
+- **[2026-02-25] Board of Selectmen** -- Board of Selectmen Budget Workshop - February 25, 2026
+  > ...>> And then uh the the How did you pay for the drone update? >> The drone was um the >> grant. It was the uh um autotheft. We used the Joel autotheft grant. So um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SxfzG3Junc4&t=5160s)  _(term: drone, unreviewed)_
+
 - **[2025-04-07] Board of Finance** -- Board of Finance, Monday, April 7, 2025 Budget Workshop
   > ...some medical equipment in the cars, and a cruiser supplies that's needed. And lastly, we did our drone upgrade last uh June. Next slide. Um some of the things that we did...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZW7MpwuoOuY&t=3173s)  _(term: drone, unreviewed)_
@@ -387,32 +469,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiwBkbhRD7s&t=4493s)  _(term: drone, unreviewed)_
 
 - **[2024-10-17] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 17, 2024
-  > ...own insurance coverage they set their own policies the town sets the policy for drone use correct at least that's where I thought the conversation was going last meeting um that people were...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1748s)  _(term: drone, unreviewed)_
-
-- **[2024-10-17] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 17, 2024
-  > ...and convey that over to the broad Rook fire department the other remaining new drone would stay in the custody of the police department and replace their Antiquated one so that thereby the same...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1442s)  _(term: drone, unreviewed)_
-
-- **[2024-10-17] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 17, 2024
-  > ...you guys should pay for it but if it was part of a collaborative effort to get the Drone system going for both fire and by the way you know I don't know if you were here last time we were talking...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1603s)  _(term: drone, unreviewed)_
-
-- **[2024-10-17] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 17, 2024
-  > ...about this maybe you were I mean I I I really do understand the the the uh the benefits for drone drones at at both crashes and at fires and for police and for fire I've looked into this it's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1613s)  _(term: drone, unreviewed)_
+  > ...use mcneel company it's already in our policy the Drone itself was 13 to 15,000 our policy covers a drone up to 25 uh we got 4 million liability on personal property and injury so we're covered...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1691s)  _(term: drone, unreviewed)_
 
 - **[2024-10-17] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 17, 2024
   > ...right there who do you guys use mcneel use mcneel company it's already in our policy the Drone itself was 13 to 15,000 our policy covers a drone up to 25 uh we got 4 million liability on personal...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1687s)  _(term: drone, unreviewed)_
 
 - **[2024-10-17] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 17, 2024
-  > ...use mcneel company it's already in our policy the Drone itself was 13 to 15,000 our policy covers a drone up to 25 uh we got 4 million liability on personal property and injury so we're covered...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1691s)  _(term: drone, unreviewed)_
+  > ...appropriate way to handle it but um the insurance issue um Kromer is not going to be ensuring that drone that's going to the Robb fire department they're going to pay it themselves the insurance...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1674s)  _(term: drone, unreviewed)_
 
 - **[2024-10-17] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 17, 2024
-  > ...Department the fire departments um and our insurance carrier to try and establish a a drone program that uh will support our Emergency Services um in in the communications earlier I included a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1395s)  _(term: drone, unreviewed)_
+  > ...own insurance coverage they set their own policies the town sets the policy for drone use correct at least that's where I thought the conversation was going last meeting um that people were...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1748s)  _(term: drone, unreviewed)_
 
 - **[2024-10-17] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 17, 2024
   > ...I'm good um all right um may I have a motion to convey one uh uas aerial drone uh from the custody of town of East Windsor to the town of East Windsor broadbrook fire...
@@ -423,192 +493,56 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=3196s)  _(term: drone, unreviewed)_
 
 - **[2024-10-17] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 17, 2024
-  > ...third is a letter from the warehouse Point fire district uh relative to the Drone program um so those are FYI although we will come back to that in some degree in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=323s)  _(term: drone, unreviewed)_
+  > ...about this maybe you were I mean I I I really do understand the the the uh the benefits for drone drones at at both crashes and at fires and for police and for fire I've looked into this it's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1613s)  _(term: drone, unreviewed)_
 
 - **[2024-10-17] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 17, 2024
-  > ...appropriate way to handle it but um the insurance issue um Kromer is not going to be ensuring that drone that's going to the Robb fire department they're going to pay it themselves the insurance...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1674s)  _(term: drone, unreviewed)_
+  > ...you guys should pay for it but if it was part of a collaborative effort to get the Drone system going for both fire and by the way you know I don't know if you were here last time we were talking...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1603s)  _(term: drone, unreviewed)_
+
+- **[2024-10-17] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 17, 2024
+  > ...and convey that over to the broad Rook fire department the other remaining new drone would stay in the custody of the police department and replace their Antiquated one so that thereby the same...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1442s)  _(term: drone, unreviewed)_
+
+- **[2024-10-17] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 17, 2024
+  > ...Department the fire departments um and our insurance carrier to try and establish a a drone program that uh will support our Emergency Services um in in the communications earlier I included a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=1395s)  _(term: drone, unreviewed)_
+
+- **[2024-10-17] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 17, 2024
+  > ...third is a letter from the warehouse Point fire district uh relative to the Drone program um so those are FYI although we will come back to that in some degree in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PGrnSOcUB80&t=323s)  _(term: drone, unreviewed)_
 
 - **[2024-10-16] Board of Finance** -- Board of Finance, Wednesday, October 16th, 2024
   > ...the board of uh the The Warehouse Point fire department has opted to instead simply buy their own drone and and solve that problem um but the um in order to get the public safety plan program up as...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5qPYAySGYrg&t=550s)  _(term: drone, unreviewed)_
 
 - **[2024-10-16] Board of Finance** -- Board of Finance, Wednesday, October 16th, 2024
-  > ...get the public safety plan program up as quickly as we want it to be we're just going to convey the second drone um over to the broad fire department so the police department will have a new one...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5qPYAySGYrg&t=561s)  _(term: drone, unreviewed)_
+  > ...Licensing the the Drone operators and um signing off on the insurance coverage they don't license the Drone operators it's not by FAA but um rather than going through perm process we're going to go...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5qPYAySGYrg&t=614s)  _(term: drone, unreviewed)_
 
 - **[2024-10-16] Board of Finance** -- Board of Finance, Wednesday, October 16th, 2024
   > ...commission um so I don't expect there's going to be any issues there the existing drone um that the PD has about it's either eight or nine years old um they're going to keep it on hand but...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5qPYAySGYrg&t=642s)  _(term: drone, unreviewed)_
 
 - **[2024-10-16] Board of Finance** -- Board of Finance, Wednesday, October 16th, 2024
+  > ...get the public safety plan program up as quickly as we want it to be we're just going to convey the second drone um over to the broad fire department so the police department will have a new one...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5qPYAySGYrg&t=561s)  _(term: drone, unreviewed)_
+
+- **[2024-10-16] Board of Finance** -- Board of Finance, Wednesday, October 16th, 2024
+  > ...through perm process we're going to go through the r fire departments for that um the police department has a uas um policy already in place it's actually more comprehensive than what e FAA...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5qPYAySGYrg&t=623s)  _(term: drone, unreviewed)_
+
+- **[2024-10-16] Board of Finance** -- Board of Finance, Wednesday, October 16th, 2024
   > ...one um through Emergency Management having Perma go through the process of Licensing the the Drone operators and um signing off on the insurance coverage they don't license the Drone operators...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5qPYAySGYrg&t=608s)  _(term: drone, unreviewed)_
-
-- **[2024-10-16] Board of Finance** -- Board of Finance, Wednesday, October 16th, 2024
-  > ...Licensing the the Drone operators and um signing off on the insurance coverage they don't license the Drone operators it's not by FAA but um rather than going through perm process we're going to go...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5qPYAySGYrg&t=614s)  _(term: drone, unreviewed)_
-
-- **[2024-10-16] Board of Finance** -- Board of Finance, Wednesday, October 16th, 2024
-  > ...wasn't clear so just to so the Brad fire department essentially instead of the Town owning the Drone they're going to take ownership corre follow their their insurance coverage their liability their...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5qPYAySGYrg&t=593s)  _(term: drone, unreviewed)_
 
 - **[2024-10-16] Board of Finance** -- Board of Finance, Wednesday, October 16th, 2024
   > ...town meeting inclusive of that is funding for the purchase of a third drone I'll simply have the board of selectman cancel that so that's not going to go to town meeting so that'll...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5qPYAySGYrg&t=686s)  _(term: drone, unreviewed)_
 
 - **[2024-10-16] Board of Finance** -- Board of Finance, Wednesday, October 16th, 2024
-  > ...through perm process we're going to go through the r fire departments for that um the police department has a uas um policy already in place it's actually more comprehensive than what e FAA...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5qPYAySGYrg&t=623s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...but I mean so okay so you have a um covert repair needs to be done you want to send up a drone that makes sense right to assess the the the area from the top that's a good idea but what if...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3052s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...like to know a little bit more of that I don't think we're holding anybody else up right we don't even have a drone they got their own policy the fire departments have to have their own...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3669s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...cheap I mean you can drive buy a drone now for what 15 grand no you can drive buy drone for $300 a high quality drone for 500 you can get a great quality drone for $1,000 and you get a decent...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3240s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...and if they need to maybe do a infrastructure project it's it's important you can hire a um drone operator probably for a couple hundred dollar to to do the work legally right...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3286s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...evolve this you know as we start to adopt this more we're going to probably end up with a drone that we you know you're using for other things who knows so then just let make this make this one...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=4018s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...a policy yet that says that town employees with permission of department heads can buy a drone in town because as you said there's a lot that goes into it and if they need to maybe do a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3276s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...process um but I mean I'm happy to get the clarity here well I'm assuming if we have a drone policy it's so we can have a drone we don't if we're not going to have a drone let's not have a policy...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3979s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...drone for $1,000 and you get a decent quality drone for3 $400 I could buy a drone tomorrow and fly it over your house but you're a private citizen but the town doing it is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3250s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...were people who were certified in that capacity to serve as either a pilot for the Drone or um one of the line of sight spotters sight spotters is that what they're called um then there needs to be...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=1597s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...for 500 you can get a great quality drone for $1,000 and you get a decent quality drone for3 $400 I could buy a drone tomorrow and fly it over your house but you're a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3248s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...hole here because there there are no departments that are going to buy a drone without going through the budget process um but I mean I'm happy to get the clarity here well I'm assuming if we...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3972s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...buy drone for $300 a high quality drone for 500 you can get a great quality drone for $1,000 and you get a decent quality drone for3 $400 I could buy a drone tomorrow and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3245s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...don't let ask fire away um I see it's highlighted $1,000 amount on page three I think should be the cost of the Drone itself depending on which one is going where um well that's that's under the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=1692s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...have a drone policy it's so we can have a drone we don't if we're not going to have a drone let's not have a policy well we have to have that's what that's what K's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3984s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...go through you and tell nobody's buying a drone well you know drones are very cheap I mean you can drive buy a drone now for what 15 grand no you can drive buy drone for $300 a high quality drone...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3236s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...feeling about it and if somebody sees an invasion of the privacy and they saw a drone Opera from the town doing that and and it was a violation of their privacy that'd be pretty upsetting regardless of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3858s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...they could just send it up they' have to go through you and tell nobody's buying a drone well you know drones are very cheap I mean you can drive buy a drone now for what 15 grand no you can drive...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3234s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...that out but this policy would allow um this policy would theoretically allow a department to purchase their own drone and with the department heads permission or the first El's position no offense...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3223s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...assemble with the controller CU I saw that that some police departments have First Responders have like a drone system where it's in a box it charges all the time and is it that or is it is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=1901s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...our supervisors do we take a cad entry it's in the computer supervisor is aware of it the Drone operaters are aware of it and they review the policy and in the end the policy reviewed and sign off on...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3194s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...not allowed to fly the Drone if it's going to impede because it's not public safe you can't f a drone for that purpose if you're going to be on anybody else's private property or if it's going...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3145s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...all the time and is it that or is it is it is it um and what do these things cost like ballpark so the Drone system itself is about a little over $113,000 per drone for the new these are I'm...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=1910s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...to launch it for the very reason they were going to survey a park of you're not allowed to fly the Drone if it's going to impede because it's not public safe you can't f a drone for that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3141s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...positive or negative perception of the use of drones in the community and speak so we at our drone program we were contacted by a local town we were asked to launch it for the very reason they...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3130s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...to just discipline the employees when they do that well I could fly my this drone 400 feet in the air you're not going to see it or hear it and then I can read what's on your text message...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3812s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...something and I have nothing to hide but I just don't want a drone there and there's a guy that shot a drone out of the sky on YouTube or something with a shotgun I mean I'd like to hear from the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3118s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...or something and I have nothing to hide but I just don't want a drone there and there's a guy that shot a drone out of the sky on YouTube or something with a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3116s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...cost like ballpark so the Drone system itself is about a little over $113,000 per drone for the new these are I'm going talk about the newer purchase these are the ones that would be ear...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=1916s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...house just because it's my home and my property I don't want anybody flying a drone on my property not Public Safety or something and I have nothing to hide but...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3112s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...mean does the concept of a drone flying around my house for example I would be offended if a drone was flying over my house just because it's my home and my property I don't want anybody flying a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3105s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...zoning enforcement person wants to check out some property and wants to fly a drone to see if there's a violation Wetlands violation or a that's why they would need Mass permission to do that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3071s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...their property purposefully or inadvertently I mean does the concept of a drone flying around my house for example I would be offended if a drone was flying over my...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3100s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...Wetlands violation or a that's why they would need Mass permission to do that and the Drone is going to be embedded in the PD so I don't I don't know if I want to have yet I'm not I'm not I'm not sure...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3077s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...screen with the sticks that's about $1,600 the batteries are also there's 12 of them for each drone so the batteries are self-contained in a separate Pelican box with a charger so it's long as...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=1948s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...were going to have drones readily available for police First Responders so that you'd be able to fly a drone at the scene of an accident or search and rescue you without having to go to some...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=2003s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...the clarity here well I'm assuming if we have a drone policy it's so we can have a drone we don't if we're not going to have a drone let's not have a policy well we have to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3982s)  _(term: drone, unreviewed)_
-
-- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...know we're more concerned with if we're flying drones it's going to be Public Works f a drone for some reason it's going to be Wetlands for some reason it's going to be Planning and Zoning for...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3715s)  _(term: drone, unreviewed)_
+  > ...wasn't clear so just to so the Brad fire department essentially instead of the Town owning the Drone they're going to take ownership corre follow their their insurance coverage their liability their...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5qPYAySGYrg&t=593s)  _(term: drone, unreviewed)_
 
 - **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
   > ...okay yeah I'll make a motion to authorize the first selectman to sign the um drone Li drone license agreement with uh it's both fire departments right y both fire...
@@ -619,28 +553,160 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=2028s)  _(term: drone, unreviewed)_
 
 - **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...evolve this you know as we start to adopt this more we're going to probably end up with a drone that we you know you're using for other things who knows so then just let make this make this one...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=4018s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...for 500 you can get a great quality drone for $1,000 and you get a decent quality drone for3 $400 I could buy a drone tomorrow and fly it over your house but you're a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3248s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...the clarity here well I'm assuming if we have a drone policy it's so we can have a drone we don't if we're not going to have a drone let's not have a policy well we have to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3982s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...buy drone for $300 a high quality drone for 500 you can get a great quality drone for $1,000 and you get a decent quality drone for3 $400 I could buy a drone tomorrow and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3245s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...were people who were certified in that capacity to serve as either a pilot for the Drone or um one of the line of sight spotters sight spotters is that what they're called um then there needs to be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=1597s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...cheap I mean you can drive buy a drone now for what 15 grand no you can drive buy drone for $300 a high quality drone for 500 you can get a great quality drone for $1,000 and you get a decent...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3240s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...go through you and tell nobody's buying a drone well you know drones are very cheap I mean you can drive buy a drone now for what 15 grand no you can drive buy drone for $300 a high quality drone...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3236s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...have a drone policy it's so we can have a drone we don't if we're not going to have a drone let's not have a policy well we have to have that's what that's what K's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3984s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...they could just send it up they' have to go through you and tell nobody's buying a drone well you know drones are very cheap I mean you can drive buy a drone now for what 15 grand no you can drive...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3234s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...that out but this policy would allow um this policy would theoretically allow a department to purchase their own drone and with the department heads permission or the first El's position no offense...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3223s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...process um but I mean I'm happy to get the clarity here well I'm assuming if we have a drone policy it's so we can have a drone we don't if we're not going to have a drone let's not have a policy...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3979s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...our supervisors do we take a cad entry it's in the computer supervisor is aware of it the Drone operaters are aware of it and they review the policy and in the end the policy reviewed and sign off on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3194s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...not allowed to fly the Drone if it's going to impede because it's not public safe you can't f a drone for that purpose if you're going to be on anybody else's private property or if it's going...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3145s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...hole here because there there are no departments that are going to buy a drone without going through the budget process um but I mean I'm happy to get the clarity here well I'm assuming if we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3972s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...to launch it for the very reason they were going to survey a park of you're not allowed to fly the Drone if it's going to impede because it's not public safe you can't f a drone for that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3141s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...positive or negative perception of the use of drones in the community and speak so we at our drone program we were contacted by a local town we were asked to launch it for the very reason they...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3130s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...don't let ask fire away um I see it's highlighted $1,000 amount on page three I think should be the cost of the Drone itself depending on which one is going where um well that's that's under the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=1692s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...something and I have nothing to hide but I just don't want a drone there and there's a guy that shot a drone out of the sky on YouTube or something with a shotgun I mean I'd like to hear from the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3118s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...or something and I have nothing to hide but I just don't want a drone there and there's a guy that shot a drone out of the sky on YouTube or something with a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3116s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...house just because it's my home and my property I don't want anybody flying a drone on my property not Public Safety or something and I have nothing to hide but...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3112s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...feeling about it and if somebody sees an invasion of the privacy and they saw a drone Opera from the town doing that and and it was a violation of their privacy that'd be pretty upsetting regardless of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3858s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...mean does the concept of a drone flying around my house for example I would be offended if a drone was flying over my house just because it's my home and my property I don't want anybody flying a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3105s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...their property purposefully or inadvertently I mean does the concept of a drone flying around my house for example I would be offended if a drone was flying over my...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3100s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...Wetlands violation or a that's why they would need Mass permission to do that and the Drone is going to be embedded in the PD so I don't I don't know if I want to have yet I'm not I'm not I'm not sure...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3077s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...assemble with the controller CU I saw that that some police departments have First Responders have like a drone system where it's in a box it charges all the time and is it that or is it is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=1901s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...zoning enforcement person wants to check out some property and wants to fly a drone to see if there's a violation Wetlands violation or a that's why they would need Mass permission to do that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3071s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...but I mean so okay so you have a um covert repair needs to be done you want to send up a drone that makes sense right to assess the the the area from the top that's a good idea but what if...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3052s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...to just discipline the employees when they do that well I could fly my this drone 400 feet in the air you're not going to see it or hear it and then I can read what's on your text message...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3812s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...all the time and is it that or is it is it is it um and what do these things cost like ballpark so the Drone system itself is about a little over $113,000 per drone for the new these are I'm...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=1910s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
   > ...say that um B automatically shall expire automatically and immediately upon the date which the Drone is no longer in makes the motion I just make the motion where Cy...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=2882s)  _(term: drone, unreviewed)_
 
 - **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...sheds and pools and you can't really see it all so is it legal to drive your fly your drone around that neighborhood and look for sheds and pools I want to know like before and I may or may not have an...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3524s)  _(term: drone, unreviewed)_
+  > ...know we're more concerned with if we're flying drones it's going to be Public Works f a drone for some reason it's going to be Wetlands for some reason it's going to be Planning and Zoning for...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3715s)  _(term: drone, unreviewed)_
 
 - **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
   > ...that is being used and sooner or later that drone is going to be not in the area this goes with the Drone yeah okay not like with the Department no it goes with it goes with the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=2772s)  _(term: drone, unreviewed)_
 
 - **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...cost like ballpark so the Drone system itself is about a little over $113,000 per drone for the new these are I'm going talk about the newer purchase these are the ones that would be ear...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=1916s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
   > ...actually reference the specific drone that is being used and sooner or later that drone is going to be not in the area this goes with the Drone yeah okay not like with the Department no it...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=2770s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...like to know a little bit more of that I don't think we're holding anybody else up right we don't even have a drone they got their own policy the fire departments have to have their own...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3669s)  _(term: drone, unreviewed)_
 
 - **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
   > ...don't want it to expire right like well this is uh so it the license will actually reference the specific drone that is being used and sooner or later that drone is going to be not in the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=2766s)  _(term: drone, unreviewed)_
 
 - **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...a policy yet that says that town employees with permission of department heads can buy a drone in town because as you said there's a lot that goes into it and if they need to maybe do a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3276s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
   > ...operations in that area we we have not been successful in that area because what is your drone indicates IND restricted a you have to call over Bradley that you got to get a light you...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=2589s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...screen with the sticks that's about $1,600 the batteries are also there's 12 of them for each drone so the batteries are self-contained in a separate Pelican box with a charger so it's long as...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=1948s)  _(term: drone, unreviewed)_
 
 - **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
   > ...fit for them and then it becomes I Envision it then becomes the individual departments if they want to add a drone you know that's up to you but to get it taken off the ground and out there I...
@@ -671,16 +737,32 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=2263s)  _(term: drone, unreviewed)_
 
 - **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
-  > ...coming up soon I hope that we get the funding to replace it for the exact same drone all of them will be the same so that even we could have one jump on our drone or whatever and they would all be...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=2150s)  _(term: drone, unreviewed)_
+  > ...and if they need to maybe do a infrastructure project it's it's important you can hire a um drone operator probably for a couple hundred dollar to to do the work legally right...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3286s)  _(term: drone, unreviewed)_
 
 - **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
   > ...drone all of them will be the same so that even we could have one jump on our drone or whatever and they would all be consistent it's like driving the same car right so um I would hope that we...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=2156s)  _(term: drone, unreviewed)_
 
 - **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...sheds and pools and you can't really see it all so is it legal to drive your fly your drone around that neighborhood and look for sheds and pools I want to know like before and I may or may not have an...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3524s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...coming up soon I hope that we get the funding to replace it for the exact same drone all of them will be the same so that even we could have one jump on our drone or whatever and they would all be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=2150s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
   > ...still getting concerned about public perception as much as also the legal thing if a if a drone is flying near somebody's house and it's a town employee and they're surveilling for um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3341s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...were going to have drones readily available for police First Responders so that you'd be able to fly a drone at the scene of an accident or search and rescue you without having to go to some...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=2003s)  _(term: drone, unreviewed)_
+
+- **[2024-10-03] Board of Selectmen** -- Board of Selectmen Regular Meeting - October 3, 2024
+  > ...drone for $1,000 and you get a decent quality drone for3 $400 I could buy a drone tomorrow and fly it over your house but you're a private citizen but the town doing it is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LYLVWoQ9lOA&t=3250s)  _(term: drone, unreviewed)_
 
 - **[2024-10-02] Board of Finance** -- Board of Finance Special Meeting, Wednesday, October 2, 2024
   > ...where the town is throwing good money after bad um and the last item is um to acquire a new drone for the police department you'll require that back in April Chief Carl appeared in front of...
@@ -691,16 +773,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eB0d7CiZvSc&t=6636s)  _(term: drone, unreviewed)_
 
 - **[2024-09-19] Board of Selectmen** -- Board of Selectmen Regular Meeting - 9/19/24
-  > ...support fire service Police Service various Town departments um we the existing drone that we have is eight years old and probably should be replaced as well um if we were to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eB0d7CiZvSc&t=3008s)  _(term: drone, unreviewed)_
+  > ...department and get permission from them to use it and sign out in order to use that drone that's crazy drone should be put in each one of the Departments we talked to the chief...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eB0d7CiZvSc&t=7295s)  _(term: drone, unreviewed)_
 
 - **[2024-09-19] Board of Selectmen** -- Board of Selectmen Regular Meeting - 9/19/24
   > ...to use it and sign out in order to use that drone that's crazy drone should be put in each one of the Departments we talked to the chief of the police over there he said the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eB0d7CiZvSc&t=7297s)  _(term: drone, unreviewed)_
 
 - **[2024-09-19] Board of Selectmen** -- Board of Selectmen Regular Meeting - 9/19/24
-  > ...department and get permission from them to use it and sign out in order to use that drone that's crazy drone should be put in each one of the Departments we talked to the chief...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eB0d7CiZvSc&t=7295s)  _(term: drone, unreviewed)_
+  > ...support fire service Police Service various Town departments um we the existing drone that we have is eight years old and probably should be replaced as well um if we were to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eB0d7CiZvSc&t=3008s)  _(term: drone, unreviewed)_
+
+- **[2024-09-19] Board of Selectmen** -- Board of Selectmen Regular Meeting - 9/19/24
+  > ...department whs Point department and the fire department if we want to use a drone we have to go over to the police department and get permission from them to use it and sign out in order to use...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eB0d7CiZvSc&t=7290s)  _(term: drone, unreviewed)_
 
 - **[2024-09-19] Board of Selectmen** -- Board of Selectmen Regular Meeting - 9/19/24
   > ...replaced as well um if we were to purchase one more um that would allow for each fire department to have a drone embedded in their departments Plus have one that's available for the police...
@@ -711,10 +797,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eB0d7CiZvSc&t=3406s)  _(term: drone, unreviewed)_
 
 - **[2024-09-19] Board of Selectmen** -- Board of Selectmen Regular Meeting - 9/19/24
-  > ...department whs Point department and the fire department if we want to use a drone we have to go over to the police department and get permission from them to use it and sign out in order to use...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eB0d7CiZvSc&t=7290s)  _(term: drone, unreviewed)_
-
-- **[2024-09-19] Board of Selectmen** -- Board of Selectmen Regular Meeting - 9/19/24
   > ...drones are stored the Commissioners and the chief Express their desire to have a drone kept at the firehouse so they are able to assist promptly when needed to help the police department out in a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eB0d7CiZvSc&t=6655s)  _(term: drone, unreviewed)_
 
@@ -723,20 +805,60 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=CYY7ruKfjqc&t=4270s)  _(term: drone, unreviewed)_
 
 - **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
-  > ...identified we can get more drone deployments so when the officers are it takes two people one to fly a drone and and one person to watch it all the time well if we only have three or four...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=813s)  _(term: drone, unreviewed)_
+  > ...able to do our scenes vice versa the fire department's fire fighting a firearm they want to get a drone shot of something or bring something in or whatever they can use the police so if...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=826s)  _(term: drone, unreviewed)_
+
+- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
+  > ...whatever they can use the police so if we have greater people that are trained to use a drone lece fire Personnel we can have drone deployments with with that we want to train some people on the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=833s)  _(term: drone, unreviewed)_
 
 - **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
   > ...we have greater people that are trained to use a drone lece fire Personnel we can have drone deployments with with that we want to train some people on the fire department and we want to upgrade...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=837s)  _(term: drone, unreviewed)_
 
 - **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
+  > ...that would be in salary line um in addition to the storage units uh the we've had a drone program in East Windsor that's been put together for about seven or eight years now the Drone...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=698s)  _(term: drone, unreviewed)_
+
+- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
+  > ...go over they can use Chinese Jones as long as it's stored on American server but DJI does not do that doesn't correct so you know the ins and outs of all that and I left some of the details out...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=961s)  _(term: drone, unreviewed)_
+
+- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
+  > ...talking about um it's a it's a pretty in depth you can see it's a it's a breakdown of our drone uh s that did the Drone does the Drone program Sergeant uh Julia no she does a fantastic job you'll...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=867s)  _(term: drone, unreviewed)_
+
+- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
+  > ...we're gonna Go a different direction so you see that part of it in there for the purchase of the Drone and training yeah the U our company uses a lot of drones in agriculture and I'm...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=932s)  _(term: drone, unreviewed)_
+
+- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
   > ...we've had a drone program in East Windsor that's been put together for about seven or eight years now the Drone which is the original drone um is the Optics are older they're seven or eight...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=701s)  _(term: drone, unreviewed)_
 
 - **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
+  > ...depth you can see it's a it's a breakdown of our drone uh s that did the Drone does the Drone program Sergeant uh Julia no she does a fantastic job you'll have all the literature that you have in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=869s)  _(term: drone, unreviewed)_
+
+- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
   > ...Windsor that's been put together for about seven or eight years now the Drone which is the original drone um is the Optics are older they're seven or eight years old drone doesn't fly in inclement...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=704s)  _(term: drone, unreviewed)_
+
+- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
+  > ...there um you'll see some of them are Chinese operated and we don't want to buy a Chinese operated drone and I could get into the particulars P Bowa was there when we were going through the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=880s)  _(term: drone, unreviewed)_
+
+- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
+  > ...work and wasn't working we've lost the ability although we've been successful with our drone program we've lost the ability to fly it during certain conditions not only weather conditions...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=781s)  _(term: drone, unreviewed)_
+
+- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
+  > ...tracks the Drone and it tracks the Handler um that's actually watch working with the Drone moving forward a couple things that I've identified I've been very clear that when I took over as...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=765s)  _(term: drone, unreviewed)_
+
+- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
+  > ...and if we have both of the fire departments have Pilots that get identified we can get more drone deployments so when the officers are it takes two people one to fly a drone and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=808s)  _(term: drone, unreviewed)_
 
 - **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
   > ...which is the original drone um is the Optics are older they're seven or eight years old drone doesn't fly in inclement weather um and it has some restrictions we're in the process of wanting to uh...
@@ -747,12 +869,8 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=716s)  _(term: drone, unreviewed)_
 
 - **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
-  > ...depth you can see it's a it's a breakdown of our drone uh s that did the Drone does the Drone program Sergeant uh Julia no she does a fantastic job you'll have all the literature that you have in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=869s)  _(term: drone, unreviewed)_
-
-- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
-  > ...able to do our scenes vice versa the fire department's fire fighting a firearm they want to get a drone shot of something or bring something in or whatever they can use the police so if...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=826s)  _(term: drone, unreviewed)_
+  > ...cyber attacks and things like that I don't think the East Winds are a Chinese drone would bring down the country but I don't want to take a take a chance so we're gonna Go a different direction so...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=924s)  _(term: drone, unreviewed)_
 
 - **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
   > ...going to try to be doing and I think we're going to be okay with that second part of that is what kind of drone they don't want foreign drones we have a foreign drone um for us to fly it now...
@@ -763,56 +881,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=752s)  _(term: drone, unreviewed)_
 
 - **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
-  > ...whatever they can use the police so if we have greater people that are trained to use a drone lece fire Personnel we can have drone deployments with with that we want to train some people on the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=833s)  _(term: drone, unreviewed)_
-
-- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
-  > ...and if we have both of the fire departments have Pilots that get identified we can get more drone deployments so when the officers are it takes two people one to fly a drone and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=808s)  _(term: drone, unreviewed)_
-
-- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
   > ...obviously one I need to put up in the air but our company will not purchase any D DJI drones because is corre information St stored Chinese servers our company will not do that you have to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=950s)  _(term: drone, unreviewed)_
-
-- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
-  > ...talking about um it's a it's a pretty in depth you can see it's a it's a breakdown of our drone uh s that did the Drone does the Drone program Sergeant uh Julia no she does a fantastic job you'll...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=867s)  _(term: drone, unreviewed)_
 
 - **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
   > ...would track it uh going into like Bradley airspace or wherever it goes it tracks the Drone and it tracks the Handler um that's actually watch working with the Drone moving forward a couple...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=762s)  _(term: drone, unreviewed)_
 
 - **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
-  > ...there um you'll see some of them are Chinese operated and we don't want to buy a Chinese operated drone and I could get into the particulars P Bowa was there when we were going through the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=880s)  _(term: drone, unreviewed)_
-
-- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
-  > ...we're gonna Go a different direction so you see that part of it in there for the purchase of the Drone and training yeah the U our company uses a lot of drones in agriculture and I'm...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=932s)  _(term: drone, unreviewed)_
-
-- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
-  > ...tracks the Drone and it tracks the Handler um that's actually watch working with the Drone moving forward a couple things that I've identified I've been very clear that when I took over as...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=765s)  _(term: drone, unreviewed)_
+  > ...identified we can get more drone deployments so when the officers are it takes two people one to fly a drone and and one person to watch it all the time well if we only have three or four...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=813s)  _(term: drone, unreviewed)_
 
 - **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
   > ...operators The Operators got to take an intense course and they're actually Pilots drone Pilots through the FAA so um I want to train a greater amount of people so the fire departments and I got...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=791s)  _(term: drone, unreviewed)_
-
-- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
-  > ...work and wasn't working we've lost the ability although we've been successful with our drone program we've lost the ability to fly it during certain conditions not only weather conditions...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=781s)  _(term: drone, unreviewed)_
-
-- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
-  > ...cyber attacks and things like that I don't think the East Winds are a Chinese drone would bring down the country but I don't want to take a take a chance so we're gonna Go a different direction so...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=924s)  _(term: drone, unreviewed)_
-
-- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
-  > ...that would be in salary line um in addition to the storage units uh the we've had a drone program in East Windsor that's been put together for about seven or eight years now the Drone...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=698s)  _(term: drone, unreviewed)_
-
-- **[2024-04-16] Board of Finance** -- Board of Finance Tuesday, April 16, 2024
-  > ...go over they can use Chinese Jones as long as it's stored on American server but DJI does not do that doesn't correct so you know the ins and outs of all that and I left some of the details out...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Vy6TI43Mjtk&t=961s)  _(term: drone, unreviewed)_
 
 - **[2023-05-18] Board of Selectmen** -- Board of Selectmen Regular Meeting - May 18, 2023
   > ...equipment violations or we can do some covert surveillance I also included possibly we could use the Drone and do some surveillance with the Drone in the evening or late night hours so it is to...
@@ -821,6 +903,14 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2023-05-18] Board of Selectmen** -- Board of Selectmen Regular Meeting - May 18, 2023
   > ...covert surveillance I also included possibly we could use the Drone and do some surveillance with the Drone in the evening or late night hours so it is to take care of overtime...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zgVJFCh0koA&t=1037s)  _(term: drone, unreviewed)_
+
+- **[2022-07-26] Planning & Zoning Commission** -- Planning and Zoning Commission Meeting - Tuesday, July 26, 2022
+  > ...but there's still only sort of two categories it's an accessory drone or tying out something else and can i just clarify one thing the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=O2n9xpvwEek&t=1414s)  _(term: drone, unreviewed)_
+
+- **[2022-04-21] Board of Selectmen** -- Board of Selectmen Regular Meeting/Special Town Meeting - April 21, 2022
+  > ...statements reviewing the acceptance discussion request regarding the use of the k-9 gun range and drone program i also found a golden meeting on march 13th to follow up on the budget...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5MW5GZLgnOk&t=1637s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -938,6 +1028,18 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### drone
 
+- **[2026-09-14] Broad Brook Fire Commission** -- Town of East Windsor - Broad Brook Fire Department Minutes - 2026-09-14 (minutes)
+  > ...      •   Received one quote for repair of the floor drains and Department of Public Works is
+          looking to replace all the apparatus doors.
+
+      •   There are some operating issues with the drone, and it will be serviced.
+
+      •   The radio project is moving ahead.
+
+      •   The Chief wanted to recognize and thank William Loos for his 70 years of service to
+          the Broad Brook F...
+  [View document ▸](https://www.eastwindsor-ct.gov/AgendaCenter/ViewFile/Minutes/_09142026-659)  _(term: drone, unreviewed)_
+
 - **[2026-03-16] Broad Brook Fire Commission** -- Town of East Windsor - Broad Brook Fire Department Minutes - 2026-03-16 (minutes)
   > ...s of replacing the ceiling tiles in firehouse. The bunk room
    and the secretary office have been completed so far.
@@ -1016,8 +1118,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 7
-- Videos registered: 490 (fetched: 227, no captions: 3)
-- Date range covered: 2017-05-23 to 2026-09-08 (all 490 videos dated)
+- Videos registered: 491 (fetched: 332, no captions: 4)
+- Date range covered: 2017-05-23 to 2026-09-22 (all 491 videos dated)
 
 
 ### Channels
@@ -1031,8 +1133,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| eastwindsor_ct | streams | 2026-09-10 13:27:05.417825 | 209 |
-| eastwindsor_ct | videos | 2026-09-10 13:27:02.191485 | 559 |
+| eastwindsor_ct | streams | 2026-09-25 15:42:48.521213 | 209 |
+| eastwindsor_ct | videos | 2026-09-25 15:42:45.199616 | 561 |
 
 
 ## Registered meeting bodies
@@ -1042,7 +1144,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Board of Finance | budget_finance | True | 121 |
 | Board of Selectmen | council | True | 205 |
 | Board of Education | education | True | 0 |
-| Planning & Zoning Commission | other | True | 130 |
+| Planning & Zoning Commission | other | True | 131 |
 | Town Meeting | other | True | 13 |
 | Zoning Board of Appeals | other | True | 18 |
 | Broad Brook Fire Commission | public_safety | True | 3 |
@@ -1054,8 +1156,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 147 (fetched: 93)
-- Date range covered: 2026-01-05 to 2026-09-14
+- Documents registered: 153 (fetched: 98)
+- Date range covered: 2026-01-05 to 2026-09-30
 
 
 ### Agenda sources
@@ -1076,10 +1178,11 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (3 shown, max 25)
+### Videos with no captions available (4 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Board of Finance Public Hearing - March 25, 2026 | 2026-03-25 |
 | Board of Selectmen Special Meeting - August 29, 2024 | 2024-08-29 |
 | Board of Finance Wednesday, April  19, 2023 | 2023-04-19 |
 | Board of Selectmen Budget Workshop 2/8/18 | 2018-02-08 |
@@ -1124,5 +1227,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:52:30 from East Windsor's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:55:51 from East Windsor's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

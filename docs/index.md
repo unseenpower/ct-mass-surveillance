@@ -64,7 +64,7 @@ so you can check it yourself.
 <span class="tc-name">findings.csv</span>
 <span class="tc-big">CSV</span>
 <span class="tc-lbl">the whole dataset</span>
-<span class="tc-stats">Every finding of mass surveillance technology in Connecticut's public meetings, in one machine-readable file: <!-- stats:start -->5,817 rows, 99 towns, 17 topics<!-- stats:end -->, each linked to the exact second of the meeting video.</span>
+<span class="tc-stats">Every finding of mass surveillance technology in Connecticut's public meetings, in one machine-readable file: <!-- stats:start -->7,004 rows, 101 towns, 18 topics<!-- stats:end -->, each linked to the exact second of the meeting video.</span>
 </a>
 <div class="town-card soon">
 <span class="tc-name">Explainers</span>

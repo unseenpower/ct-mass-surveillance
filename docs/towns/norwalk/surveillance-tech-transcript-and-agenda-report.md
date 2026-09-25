@@ -1,9 +1,9 @@
 # Surveillance-tech report: Norwalk
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,14 +14,15 @@
 
 ## At a glance: Norwalk
 
-<p class="glance-headline"><strong>218 mentions</strong> of surveillance technology in <strong>96</strong> Norwalk meetings, 2020–2026</p>
+<p class="glance-headline"><strong>219 mentions</strong> of surveillance technology in <strong>97</strong> Norwalk meetings, 2020–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">218</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 96 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2020–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2020-09-24 → 2026-08-06</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">219</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 97 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2020–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2020-09-24 → 2026-09-23</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">6</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Cell-site simulators, Doorbell-camera partnerships, Drones, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/norwalk-alpr-searches.html"><span class="gc-big">9,474</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Norwalk police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">98%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">1,190 of 1,214 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">98%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">1,203 of 1,223 meetings</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">33</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
 This report collects every mention of surveillance technology found in **Norwalk**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
@@ -75,7 +76,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 | [Body cameras](#body_camera) | 45 | 26 | 2020-09-24 | 2026-07-09 |
 | [Cell-site simulators](#cell_site_sim) | 1 | 1 | 2023-03-01 | 2023-03-01 |
 | [Doorbell-camera partnerships](#doorbell_partnership) | 2 | 2 | 2023-04-13 | 2023-04-13 |
-| [Drones](#drone) | 58 | 41 | 2021-02-22 | 2026-08-06 |
+| [Drones](#drone) | 59 | 42 | 2021-02-22 | 2026-09-23 |
 | [General surveillance](#surveillance_general) | 19 | 15 | 2021-02-25 | 2026-06-11 |
 
 
@@ -83,9 +84,15 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 <!-- report-polish v1 -->
 
-96 meetings surfaced a finding (96 dated, spanning 2020-09-24 to 2026-08-06; 0 of unknown date, listed last). Newest first.
+97 meetings surfaced a finding (97 dated, spanning 2020-09-24 to 2026-09-23; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-06.*
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+
+### 2026-09-23 -- Board of Education
+
+**BOE Facilities Planning Committee Meeting - September 23, 2026** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0pjU6cdw1vg&t=1383s)  > ...has been spent to date. And if we want to Um, here is a drone photo of the front of the school. Um, in to the left of this photo is the...
 
 ??? note "Earlier meetings (96)"
 
@@ -399,13 +406,13 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
     **Common Council  11-12-2024** _(topics: surveillance_general)_
 
-    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=aQnskKeCq1E&t=3878s)  > ...execute a three-year agreement with ADT a security system for the CCTV and security monitors services for three Beldon Avenue at the total annual cost of...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=aQnskKeCq1E&t=3878s)  > ...execute a three-year agreement with ADT a security system for the CCTV and security monitors services for [address redacted] at the total annual cost of...
 
     **2024-11-06 -- Land Use and Building Management Committee**
 
     **Land Use and Building Management Committee 11-06-2024** _(topics: surveillance_general)_
 
-    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=CxUwljwdFBU&t=1421s)  > ...management item one authorize the mayor Harry W ring to execute an agreement with ADT Security services for the CCTV and security monitoring services at three beldan Avenue at a total cost of...
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=CxUwljwdFBU&t=1421s)  > ...management item one authorize the mayor Harry W ring to execute an agreement with ADT Security services for the CCTV and security monitoring services at [address redacted] at a total cost of...
 
     **2024-10-24 -- Public Safety and General Government Committee**
 
@@ -540,13 +547,13 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
     **Land Use and Building Management Committee 10-4-23** _(topics: drone)_
 
-    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=1txFcap4Bks&t=3872s)  > ...building it's like yeah you guys would be up there washing the windows to see anything yeah if you're a drone under the sky you see it but no not him on the school like Jefferson School with a...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=CjiUIeui0hw&t=3900s)  > ...building it's like you'd have to be up there washing the windows to see anything yeah if you're a drone under the sky you see it but no nothing on the school like Jefferson School with a...
 
     **2023-10-04 -- Land Use and Building Management Committee**
 
     **Land Use and Building Management Committee 10-4-23** _(topics: drone)_
 
-    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=CjiUIeui0hw&t=3900s)  > ...building it's like you'd have to be up there washing the windows to see anything yeah if you're a drone under the sky you see it but no nothing on the school like Jefferson School with a...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=1txFcap4Bks&t=3872s)  > ...building it's like yeah you guys would be up there washing the windows to see anything yeah if you're a drone under the sky you see it but no not him on the school like Jefferson School with a...
 
     **2023-09-18 -- Police Commission**
 
@@ -601,13 +608,13 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
     **Board of Estimate & Taxation 4-3-23** _(topics: drone)_
 
-    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=In3GDgqlf3M&t=1606s)  > ...drones in our large diameter pipes so anything over 36 inches they're able to fly a drone through so it's just another way to televise and assess the condition of large diameter pipes lastly pump...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=EduNK3opczI&t=1640s)  > ...drones in our large diameter pipes so anything over 36 inches they're able to fly a drone through so it's just another way to televise and assess the condition of large diameter pipes lastly pump...
 
     **2023-04-03 -- Board of Estimate and Taxation**
 
     **Board of Estimate & Taxation 4-3-23** _(topics: drone)_
 
-    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=EduNK3opczI&t=1640s)  > ...drones in our large diameter pipes so anything over 36 inches they're able to fly a drone through so it's just another way to televise and assess the condition of large diameter pipes lastly pump...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=In3GDgqlf3M&t=1606s)  > ...drones in our large diameter pipes so anything over 36 inches they're able to fly a drone through so it's just another way to televise and assess the condition of large diameter pipes lastly pump...
 
     **2023-03-08 -- Board of Estimate and Taxation**
 
@@ -666,13 +673,13 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
     **Ordinance Committee 11-15-22** _(topics: drone)_
 
-    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=46ItRN5Q4V8&t=1544s)  > ...perhaps then for the first time we all became acutely aware of the constant drone of leaf blowers from early spring to the late fall months I began to hear from our constituents asking if there...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OD2S38CFe6E&t=1518s)  > ...perhaps then for the first time we all became acutely aware of the constant drone of wheat blowers from early spring to the late fall months I began to hear from our constituents asking if there...
 
     **2022-11-15 -- Ordinance Committee**
 
     **Ordinance Committee 11-15-22** _(topics: drone)_
 
-    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=OD2S38CFe6E&t=1518s)  > ...perhaps then for the first time we all became acutely aware of the constant drone of wheat blowers from early spring to the late fall months I began to hear from our constituents asking if there...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=46ItRN5Q4V8&t=1544s)  > ...perhaps then for the first time we all became acutely aware of the constant drone of leaf blowers from early spring to the late fall months I began to hear from our constituents asking if there...
 
     **2022-10-27 -- Public Safety and General Government Committee**
 
@@ -834,10 +841,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1779s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...that um is being penetrated uh from a security standpoint but it's flock the flock's cloud is being hacked and they can pick up information there or can be be uh be read by other entities. Um,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1925s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
   > ...is it on a discrete database within uh the police department? >> It's maintained within the flock system, the cloud system of flock. When the camera is stationed, it is motion...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1777s)  _(term: alpr_flock, unreviewed)_
 
@@ -846,36 +849,40 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=387s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...is stored on a cloud storage that we we do not own or control, are we able to ascertain that Flock or any other third party vendor also does not share that data?...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3038s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
   > ...the uh uh LPRs operate? Do we do we we capture a license plate number? Is that maintained on a database with flock or is it on a discrete database within uh the police department?...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1767s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...>> We can. Uh so my name is Rob Pratt. I live in Norwok on [address redacted] and I've become aware of flock cameras and the risk they pose to our privacy uh and and general security, especially...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=780s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...of Connecticut legislation attaches the requirements to all LPR contracts. It's just not flock if you use any other company for LPR because there are other companies out there. So, it mandates the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1673s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
   > ...was from a law enforcement agency. It didn't. There was no breach or information leakage from Flock. A law enforcement agency searched a town in Connecticut which...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3059s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...Um, Chief, um, who who actually owns the footage that's that's like collected on Flock? Is it Flock or do we own it as as a city own it? We could download it. We could...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2155s)  _(term: alpr_flock, unreviewed)_
+  > ...is stored on a cloud storage that we we do not own or control, are we able to ascertain that Flock or any other third party vendor also does not share that data?...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3038s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...and we do not need flock as part of that. So, I'm urging you all to basically cut all contracts with flock. Thank you. >> Great. Can you hear me?...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=475s)  _(term: alpr_flock, unreviewed)_
+  > ...authorities, including but not limited to immigration authorities. Right now, I know that Flock has, you know, gone to local governments and talked about how they're careful with data and, you know,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=326s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...of Connecticut legislation attaches the requirements to all LPR contracts. It's just not flock if you use any other company for LPR because there are other companies out there. So, it mandates the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1673s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...can pick up information there or can be be uh be read by other entities. Um, even though flock may say it's it's not uh we've got a secure system, how do we know their system is secure? How do we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1935s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
   > ...department. So, every step, everything that we do needs a policy. We have a five-page policy on the use of our flock camera system. uh which addresses some of the things that I had just said which...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1653s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...their plans. So within a matter of practically 25 minutes, we were able to locate that car on the license plate reader system traveling down East Avenue and the officers were able to intervene...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1275s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...information? So, a car gets stolen in Norwalk and we and and Nor police enters that license plate into flock and he goes and the the the the culprit goes to Fairfield. He's gets on the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3222s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
   > ...enforceable? Well, the information that I have from Flock uh has a 30-day retention within the Noah Police Department. We have we're a clea accredited police...
@@ -886,148 +893,148 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1503s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...authorities, including but not limited to immigration authorities. Right now, I know that Flock has, you know, gone to local governments and talked about how they're careful with data and, you know,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=326s)  _(term: alpr_flock, unreviewed)_
+  > ...going out, whatever, right? I really have concerns just as a normal person about how Flock is collecting data and how they're using data, who they're sharing it with, what they're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=432s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
   > ...for any police officer who was found misusing uh the the flock system. Uh flock system is is not only flock but there are several other vendors within the state...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1498s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...and and prepared. Amazing stuff. Um, simple request, hit the pause button indefinitely on Flock. So, not to bore you with the details about myself, I work for a really big company. I'm in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=510s)  _(term: alpr_flock, unreviewed)_
+  > ...compliance standard. >> Yeah. And then the last thing I wanted to add or ask about was um does Flock give you any statistics on how many uh times they've been um that their...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2042s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...going out, whatever, right? I really have concerns just as a normal person about how Flock is collecting data and how they're using data, who they're sharing it with, what they're...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=432s)  _(term: alpr_flock, unreviewed)_
+  > ...Um, Chief, um, who who actually owns the footage that's that's like collected on Flock? Is it Flock or do we own it as as a city own it? We could download it. We could...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2155s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
   > ...you know, data sharing with federal immigration authorities, right? and Flock has demonstrated in Connecticut, you know, in the town of Windsor and in Bridgeport and in other...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=375s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...footage that's that's like collected on Flock? Is it Flock or do we own it as as a city own it? We could download it. We could while it's there. If we capture...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2155s)  _(term: alpr_flock, unreviewed)_
+  > ...else can get into that cloud. This is where I was going before earlier in my question. It's on the flock cloud someplace. But right now what you're saying is that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3293s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
   > ...kind of answers the question of who owns the data, right? If they're serving a search warrant to flock, they it's their data, not ours. um which I think you know the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3627s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...information? So, a car gets stolen in Norwalk and we and and Nor police enters that license plate into flock and he goes and the the the the culprit goes to Fairfield. He's gets on the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3222s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
   > ...uh after addressing some concerns of this information. The information that is collected by flock is sieges compliant. Sieges compliant is is an accurate criminal justice information...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1346s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...but that data exists on a cloud that we don't don't control. Do we know that flock or any third party vendor also does not share that data? >> Can you repeat that please? um when we...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3009s)  _(term: alpr_flock, unreviewed)_
+  > ...footage that's that's like collected on Flock? Is it Flock or do we own it as as a city own it? We could download it. We could while it's there. If we capture...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2155s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
   > ...um after a shooting six hours earlier in Bridgeport, Connecticut. Uh they had entered his plate into the flock system and it had gone off on Connecticut Avenue and the officers were able to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1211s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...than we haven't had any negative experiences in the city of Norwok using the flock system as a as a police department the past three years. Um we've we just had...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2223s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...know, a number of independent investigations have shown that, you know, Flock just has a complete disregard for data privacy, data access, and cyber security practices a whole. A...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=338s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...can pick up information there or can be be uh be read by other entities. Um, even though flock may say it's it's not uh we've got a secure system, how do we know their system is secure? How do we...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1935s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...So, wouldn't they also have to get your permission in addition to just go into flock and say, "Give me that information." >> When it when it comes to search warrant,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3547s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...else can get into that cloud. This is where I was going before earlier in my question. It's on the flock cloud someplace. But right now what you're saying is that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3293s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...So currently to date in two it's in three years we've had 28 stolen cars located by the flock system. We've had seven warrant arrests uh leads generated on other criminal...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1181s)  _(term: alpr_flock, unreviewed)_
+  > ...but that data exists on a cloud that we don't don't control. Do we know that flock or any third party vendor also does not share that data? >> Can you repeat that please? um when we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3009s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
   > ...that we are going to continue to work that we're doing to make sure no is safe and we do not need flock as part of that. So, I'm urging you all to basically cut all contracts with flock....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=471s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...areas of Rouaitan, entering Rowit and exiting Rowaitan. Um since the implementation of the flock cameras, we have seen practically a 45% uh percentage in the decrease in stolen...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1074s)  _(term: alpr_flock, unreviewed)_
+  > ...and we do not need flock as part of that. So, I'm urging you all to basically cut all contracts with flock. Thank you. >> Great. Can you hear me?...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=475s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...charge of data, privacy, and marketing technology. I'm intimately knowledgeable about Flock, the data they collect, and the risks associated with it. And I can tell you with confidence that this is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=524s)  _(term: alpr_flock, unreviewed)_
+  > ...know, a number of independent investigations have shown that, you know, Flock just has a complete disregard for data privacy, data access, and cyber security practices a whole. A...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=338s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...of give us peace of mind in our home. Um, and I think the same thing kind of with the flock and just from hearing um not only with car burglaries, but also with um with the people with like...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2340s)  _(term: alpr_flock, unreviewed)_
+  > ...So currently to date in two it's in three years we've had 28 stolen cars located by the flock system. We've had seven warrant arrests uh leads generated on other criminal...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1181s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...compliance standard. >> Yeah. And then the last thing I wanted to add or ask about was um does Flock give you any statistics on how many uh times they've been um that their...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2042s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...if they wanted because that's that's for evidentiary rules that that that would have to be served onto Flock. >> Okay. Not us, not Norwok. >> No, that's that's the cloud....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3513s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...>> Okay, then I'll just start. Uh yes, in 2023 the Noah Police Department implemented the flock uh LPR camera system throughout Nor. Currently we have 11 cameras uh throughout the city of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1025s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...any uh LPRs that we captured initially uh would have to be deleted from the flock um cloud uh within 21 days you was previous previously 30 days. So, I guess the question is, how do we know that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1874s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...important purpose of something like tonight. And I think that this continued discussion over issues like flock and surveillance cameras and how data can be used or misused in particular by um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2850s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...reason would they would some law enforcement agency in Texas need to search Windsor's flock camera data uh like a 100,000 times. So that's what I'm hoping to learn. I understand how...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=878s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...I'd be really happy to know what kind of security flock has to protect our data that they're holding for us. But that's that's a that's a question...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3368s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...from that foyer request that over a 100,000 searches were happening were were occurring for the Windsor flock camera data from Texas alone. And I find that uh to be uh rather...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=859s)  _(term: alpr_flock, unreviewed)_
+  > ...So, wouldn't they also have to get your permission in addition to just go into flock and say, "Give me that information." >> When it when it comes to search warrant,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3547s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
   > ...Rhode Island, and Massachusetts. Texas would never pick up a stolen car from Norwalk on flock >> because we don't have an agreement with them. We don't we don't we do not share...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3331s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...that's in FL? They would have to go they would have to serve that warrant on Flock Industries if they wanted because that's that's for evidentiary rules that that that would...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3504s)  _(term: alpr_flock, unreviewed)_
+  > ...and and prepared. Amazing stuff. Um, simple request, hit the pause button indefinitely on Flock. So, not to bore you with the details about myself, I work for a really big company. I'm in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=510s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...our lives are being tracked by technology and I think that um the discussion about flock cameras is as much a discussion about that as it is about um you know these particular...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2650s)  _(term: alpr_flock, unreviewed)_
+  > ...areas of Rouaitan, entering Rowit and exiting Rowaitan. Um since the implementation of the flock cameras, we have seen practically a 45% uh percentage in the decrease in stolen...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1074s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...that um is being penetrated uh from a security standpoint but it's flock the flock's cloud is being hacked and they can pick up information there or can be be uh be read by other entities. Um,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1925s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...of give us peace of mind in our home. Um, and I think the same thing kind of with the flock and just from hearing um not only with car burglaries, but also with um with the people with like...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2340s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...>> Okay, then I'll just start. Uh yes, in 2023 the Noah Police Department implemented the flock uh LPR camera system throughout Nor. Currently we have 11 cameras uh throughout the city of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1025s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...charge of data, privacy, and marketing technology. I'm intimately knowledgeable about Flock, the data they collect, and the risks associated with it. And I can tell you with confidence that this is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=524s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...if they wanted because that's that's for evidentiary rules that that that would have to be served onto Flock. >> Okay. Not us, not Norwok. >> No, that's that's the cloud....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3513s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...I'd be really happy to know what kind of security flock has to protect our data that they're holding for us. But that's that's a that's a question...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3368s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...reason would they would some law enforcement agency in Texas need to search Windsor's flock camera data uh like a 100,000 times. So that's what I'm hoping to learn. I understand how...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=878s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...any uh LPRs that we captured initially uh would have to be deleted from the flock um cloud uh within 21 days you was previous previously 30 days. So, I guess the question is, how do we know that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1874s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...than we haven't had any negative experiences in the city of Norwok using the flock system as a as a police department the past three years. Um we've we just had...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2223s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...from that foyer request that over a 100,000 searches were happening were were occurring for the Windsor flock camera data from Texas alone. And I find that uh to be uh rather...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=859s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...important purpose of something like tonight. And I think that this continued discussion over issues like flock and surveillance cameras and how data can be used or misused in particular by um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2850s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...>> We can. Uh so my name is Rob Pratt. I live in Norwok on [address redacted] and I've become aware of flock cameras and the risk they pose to our privacy uh and and general security, especially...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=780s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
+  > ...that's in FL? They would have to go they would have to serve that warrant on Flock Industries if they wanted because that's that's for evidentiary rules that that that would...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=3504s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
   > ...and I'll try to be brief. Um, and I'll keep it anecdotal. I became aware of a flock camera probably five months after passing by you two times a day walking my dog over on East A and Vanzam right...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=672s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...these concerns. Um, I don't think I think they're incredibly valid and I think Flock has made a lot of really dumb mistakes. Um, and I think that our continued scrutiny needs to cons, you...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2578s)  _(term: alpr_flock, unreviewed)_
+  > ...our lives are being tracked by technology and I think that um the discussion about flock cameras is as much a discussion about that as it is about um you know these particular...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2650s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
   > ...how an army of Ivy League lawyers that I work with get the shivers at night when we talk about flock, I'll be happy to talk to them offline. Thank you. >> Thank you, Mr. Garrett. And just um to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=626s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-23] Public Safety and General Government Committee** -- Public Safety & General Government 04-23-2026
-  > ...their plans. So within a matter of practically 25 minutes, we were able to locate that car on the license plate reader system traveling down East Avenue and the officers were able to intervene...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=1275s)  _(term: alpr_flock, unreviewed)_
+  > ...these concerns. Um, I don't think I think they're incredibly valid and I think Flock has made a lot of really dumb mistakes. Um, and I think that our continued scrutiny needs to cons, you...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=J6whwTdXrz4&t=2578s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-25] Board of Estimate and Taxation** -- Board of Estimate & Taxation 03-25-2026
   > ...save at least $33,000 on the budget within probably the police category. Uh, we do have a contract with Flock Safety Systems. They are automatic license plate readers....
@@ -1038,16 +1045,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=fgNXr6mrf0w&t=5147s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-10-21] Ordinance Committee** -- Ordinance Committee  10-21-2025
+  > ...with charging collection enforcement of fines and chapters. So we unlike the flock system and and again I understand what you're commenting and what you're saying um the flock system of third...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fgNXr6mrf0w&t=5144s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-10-21] Ordinance Committee** -- Ordinance Committee  10-21-2025
   > ...this committee and this council. Um, I don't know if folks have followed um the uh flock um license plate reader issues that have been um sort of slowly rolling out in the news media of late. But um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=fgNXr6mrf0w&t=4937s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-10-21] Ordinance Committee** -- Ordinance Committee  10-21-2025
-  > ...Walsh has been very careful to try to protect our information, but um the flock system was used in Texas to try to um track someone who had uh sought an abortion. The request for that was...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fgNXr6mrf0w&t=4962s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-10-21] Ordinance Committee** -- Ordinance Committee  10-21-2025
   > ...that have been um sort of slowly rolling out in the news media of late. But um Flock, which is the same um system that we use in the city, um I've had long conversations with Chief Walsh, who I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=fgNXr6mrf0w&t=4947s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-10-21] Ordinance Committee** -- Ordinance Committee  10-21-2025
+  > ...Walsh has been very careful to try to protect our information, but um the flock system was used in Texas to try to um track someone who had uh sought an abortion. The request for that was...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fgNXr6mrf0w&t=4962s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-10-21] Ordinance Committee** -- Ordinance Committee  10-21-2025
   > ...country. So there are real potentials for abuse here. This is not theoretical. And to be very clear, Flock was completely dishonest about what had happened. Their initial um press...
@@ -1056,10 +1067,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2025-10-21] Ordinance Committee** -- Ordinance Committee  10-21-2025
   > ...We are in a situation where federal mandates could come down. The data is now being shared. Flock also to be very clear um was participating in a pilot program with the Department of Homeland...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=fgNXr6mrf0w&t=5051s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-10-21] Ordinance Committee** -- Ordinance Committee  10-21-2025
-  > ...with charging collection enforcement of fines and chapters. So we unlike the flock system and and again I understand what you're commenting and what you're saying um the flock system of third...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fgNXr6mrf0w&t=5144s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-10-20] Police Commission** -- Police Commission 10-20-2025
   > ...>> A license plate >> license plate reader. >> A license plate reader. It's >> okay. >> It's an automated camera that will uh if...
@@ -1082,6 +1089,22 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=hzPUgLP1e24&t=1191s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-06-26] Public Safety and General Government Committee** -- Public Safety & General Government 06-26-2025
+  > ...officers to work and coordinate efforts with other interstate and other state and federal agencies. So the flock system is actually countrywide. Um but we have it um other departments around...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=G2IHmubsEao&t=634s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-06-26] Public Safety and General Government Committee** -- Public Safety & General Government 06-26-2025
+  > ...can be Yes. And I I think I think too to another point just like with um the flock safety group is that those safety cameras are going to be there um 247 and I think sometimes on these main thorough...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=G2IHmubsEao&t=1312s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-06-26] Public Safety and General Government Committee** -- Public Safety & General Government 06-26-2025
+  > ...there periodically or do you have to know what the license number is and Well, so that that's what the the Flock camera would pick up the license plate number, but they're not recorded. It's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=G2IHmubsEao&t=786s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-06-26] Public Safety and General Government Committee** -- Public Safety & General Government 06-26-2025
+  > ...non-competitive uh procurement justification form with the flock safety group for payment of hardware and software support of the ALPRs....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=G2IHmubsEao&t=528s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-06-26] Public Safety and General Government Committee** -- Public Safety & General Government 06-26-2025
   > ...at 2 a.m. or if an officer is not driving around in that area, we have some flock we have some fixed units around the city in in predisposition places that will be able to pick up some...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=G2IHmubsEao&t=755s)  _(term: alpr_flock, unreviewed)_
 
@@ -1090,28 +1113,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=G2IHmubsEao&t=577s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-06-26] Public Safety and General Government Committee** -- Public Safety & General Government 06-26-2025
-  > ...there periodically or do you have to know what the license number is and Well, so that that's what the the Flock camera would pick up the license plate number, but they're not recorded. It's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=G2IHmubsEao&t=786s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-06-26] Public Safety and General Government Committee** -- Public Safety & General Government 06-26-2025
-  > ...can be Yes. And I I think I think too to another point just like with um the flock safety group is that those safety cameras are going to be there um 247 and I think sometimes on these main thorough...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=G2IHmubsEao&t=1312s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-06-26] Public Safety and General Government Committee** -- Public Safety & General Government 06-26-2025
   > ...city have New Kanan, Darien, Danbury, Fairfield. They're all incorporating the flock system. So it is a sole source there. So we we are requesting that uh police department utilize the nonpro...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=G2IHmubsEao&t=649s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-06-26] Public Safety and General Government Committee** -- Public Safety & General Government 06-26-2025
   > ...and the common council meeting was attached to the packet. Um so that paid for our first year of the flock. This is flock alprs are safety automatic license plate...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=G2IHmubsEao&t=574s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-06-26] Public Safety and General Government Committee** -- Public Safety & General Government 06-26-2025
-  > ...non-competitive uh procurement justification form with the flock safety group for payment of hardware and software support of the ALPRs....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=G2IHmubsEao&t=528s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-06-26] Public Safety and General Government Committee** -- Public Safety & General Government 06-26-2025
-  > ...officers to work and coordinate efforts with other interstate and other state and federal agencies. So the flock system is actually countrywide. Um but we have it um other departments around...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=G2IHmubsEao&t=634s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-05-19] Police Commission** -- Police Commission 05-19-2025
   > ...keychains inside, our stolen cars would would drop dramatically in this city. uh with the insulation of the license plate reader to detect stolen car activity and other uh um proactive patrols,...
@@ -1122,20 +1129,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=EPsLe9TqHng&t=3396s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-24] Police Commission** -- Police Commission 02-24-2025
-  > ...I'd like to thank both officers and also the addition of our technology that flock uh reader plate License Plate Reader and that they were um instructed in how to use it appropriately and were...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RmdR7a8GAt0&t=304s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-02-24] Police Commission** -- Police Commission 02-24-2025
   > ...had stolen a motor vehicle on the 21st of January uh during the dayshift Noah conine dispatch received a flock license reader notification of a stolen car on Main Avenue officer Daryl located the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RmdR7a8GAt0&t=231s)  _(term: alpr_flock, unreviewed)_
 
-- **[2024-10-24] Public Safety and General Government Committee** -- Public Safety & General Government 10-24-2024
-  > ...stipulates any like um it would be more of um like our flock system that we use like our cameras um for the alpr reader so if we...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6Q_iQNyLvH0&t=6873s)  _(term: alpr_flock, unreviewed)_
+- **[2025-02-24] Police Commission** -- Police Commission 02-24-2025
+  > ...I'd like to thank both officers and also the addition of our technology that flock uh reader plate License Plate Reader and that they were um instructed in how to use it appropriately and were...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RmdR7a8GAt0&t=304s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-10-24] Public Safety and General Government Committee** -- Public Safety & General Government 10-24-2024
   > ...um like our flock system that we use like our cameras um for the alpr reader so if we have stolen cars going by in the area trying to get on I95 or down MLK or you...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=6Q_iQNyLvH0&t=6877s)  _(term: alpr_flock, unreviewed)_
+
+- **[2024-10-24] Public Safety and General Government Committee** -- Public Safety & General Government 10-24-2024
+  > ...stipulates any like um it would be more of um like our flock system that we use like our cameras um for the alpr reader so if we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6Q_iQNyLvH0&t=6873s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-10-21] Police Commission** -- Police Commission 10-21-2024
   > ...project safe neighborhood Grant again that we've received in the past um this helps um our us purchase our flock camera system and we're waiting to hear uh the awards will be announced in...
@@ -1190,20 +1197,24 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=wuHcp526pSE&t=756s)  _(term: body_camera, unreviewed)_
 
 - **[2026-03-03] Board of Estimate and Taxation** -- Board of Estimate & Taxation 03-03-2026
+  > ...embedded into our body cam program. So if an officer doesn't speak the language of it, that body cam has the ability to translate 56 languages. So that is our only new initiative uh currently in this...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bpQtaxvObjk&t=5859s)  _(term: body_camera, unreviewed)_
+
+- **[2026-03-03] Board of Estimate and Taxation** -- Board of Estimate & Taxation 03-03-2026
   > ...um for having a translation service uh embedded into our body cam program. So if an officer doesn't speak the language of it, that body cam has the ability to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bpQtaxvObjk&t=5854s)  _(term: body_camera, unreviewed)_
 
 - **[2026-03-03] Board of Estimate and Taxation** -- Board of Estimate & Taxation 03-03-2026
-  > ...embedded into our body cam program. So if an officer doesn't speak the language of it, that body cam has the ability to translate 56 languages. So that is our only new initiative uh currently in this...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bpQtaxvObjk&t=5859s)  _(term: body_camera, unreviewed)_
+  > ...Uh for the modems to run the body cams, the dash cams which are integrated with the officers uh body cam and their taser. So if they're putting on their license sirens, their body cams are...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bpQtaxvObjk&t=6219s)  _(term: body_camera, unreviewed)_
 
 - **[2026-03-03] Board of Estimate and Taxation** -- Board of Estimate & Taxation 03-03-2026
   > ...that you might have seen in recent news articles and a newspaper. um our current axon body cam program. Uh we are currently in a 90-day test phase um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bpQtaxvObjk&t=5842s)  _(term: body_camera, unreviewed)_
 
-- **[2026-03-03] Board of Estimate and Taxation** -- Board of Estimate & Taxation 03-03-2026
-  > ...Uh for the modems to run the body cams, the dash cams which are integrated with the officers uh body cam and their taser. So if they're putting on their license sirens, their body cams are...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bpQtaxvObjk&t=6219s)  _(term: body_camera, unreviewed)_
+- **[2026-01-26] Police Commission** -- Police Commission 01-26-2026
+  > ...>> go ahead >> deputy chief why don't you explain the what the training in regards to body cam regards to our transition to the uh new axon program to the police commission...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=c-8L3-8voFs&t=1734s)  _(term: body_camera, unreviewed)_
 
 - **[2026-01-26] Police Commission** -- Police Commission 01-26-2026
   > ...officer and the member of the public. U so if they're speaking other than English, the body cam can automatically detect what language is being spoken by the individual and it translates it to...
@@ -1212,10 +1223,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2026-01-26] Police Commission** -- Police Commission 01-26-2026
   > ...please. >> Absolutely. Uh so we train officers refresh them on body cam usage every year. However, um the chief has implemented a new update to our new...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=c-8L3-8voFs&t=1744s)  _(term: body_camera, unreviewed)_
-
-- **[2026-01-26] Police Commission** -- Police Commission 01-26-2026
-  > ...>> go ahead >> deputy chief why don't you explain the what the training in regards to body cam regards to our transition to the uh new axon program to the police commission...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=c-8L3-8voFs&t=1734s)  _(term: body_camera, unreviewed)_
 
 - **[2025-12-15] Police Commission** -- Police Commission 12-15-2025
   > ...English language back to the person that they're speaking to. And it all gets done through the body cam. So, it's gets modulated back. So, uh, there'll be a learning curve. will be providing some...
@@ -1226,12 +1233,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LtU_JYElba0&t=632s)  _(term: body_camera, unreviewed)_
 
 - **[2025-11-17] Police Commission** -- Police Commission 11-17-2025
-  > ...translates it back to the person that we're speaking to. It also gives us the ability to download the body cam and transcript a conversation to transcribe a conversation I should say um from the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PIfyT7shcrY&t=944s)  _(term: body_camera, unreviewed)_
-
-- **[2025-11-17] Police Commission** -- Police Commission 11-17-2025
   > ...languages, automatically translates it for the officer. The officer speaks back into a body cam and then the body cam translates it back to the person that we're speaking to. It also gives us the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PIfyT7shcrY&t=937s)  _(term: body_camera, unreviewed)_
+
+- **[2025-11-17] Police Commission** -- Police Commission 11-17-2025
+  > ...translates it back to the person that we're speaking to. It also gives us the ability to download the body cam and transcript a conversation to transcribe a conversation I should say um from the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PIfyT7shcrY&t=944s)  _(term: body_camera, unreviewed)_
 
 - **[2025-10-20] Police Commission** -- Police Commission 10-20-2025
   > ...regards to gun permits and fingerprints is listed on page three. FOIs remain busy and steady for body cam and police reports. Uh we're averaging probably a half a dozen a day. Uh which...
@@ -1250,36 +1257,36 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=kVARJXxlF0A&t=683s)  _(term: body_camera, unreviewed)_
 
 - **[2024-09-16] Police Commission** -- Police Commission 09-16-2024
-  > ...system that we on boarded after with this new operation budget actually links our next gen system with the body cam system so when we conduct our body cam audits we assure that there's a body cam...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XMvT-qnOiT4&t=1962s)  _(term: body_camera, unreviewed)_
-
-- **[2024-09-16] Police Commission** -- Police Commission 09-16-2024
   > ...this new operation budget actually links our next gen system with the body cam system so when we conduct our body cam audits we assure that there's a body cam for every single call for service so it...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=XMvT-qnOiT4&t=1965s)  _(term: body_camera, unreviewed)_
+
+- **[2024-09-16] Police Commission** -- Police Commission 09-16-2024
+  > ...our next gen system with the body cam system so when we conduct our body cam audits we assure that there's a body cam for every single call for service so it it it Bridges a link between our...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XMvT-qnOiT4&t=1967s)  _(term: body_camera, unreviewed)_
 
 - **[2024-09-16] Police Commission** -- Police Commission 09-16-2024
   > ...for every single call for service so it it it Bridges a link between our dispatch and our body cam so it makes our audits easier that that's that's amazing...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=XMvT-qnOiT4&t=1973s)  _(term: body_camera, unreviewed)_
 
 - **[2024-09-16] Police Commission** -- Police Commission 09-16-2024
-  > ...our next gen system with the body cam system so when we conduct our body cam audits we assure that there's a body cam for every single call for service so it it it Bridges a link between our...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XMvT-qnOiT4&t=1967s)  _(term: body_camera, unreviewed)_
-
-- **[2024-03-18] Police Commission** -- Police Commission 03-18-2024
-  > ...operating budget it'll provide us greater access to provide audits of when officers use the body cam because it actually links the axon body cam system with a dispatch system so we could see...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tvIX0m4DKKw&t=1134s)  _(term: body_camera, unreviewed)_
+  > ...system that we on boarded after with this new operation budget actually links our next gen system with the body cam system so when we conduct our body cam audits we assure that there's a body cam...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XMvT-qnOiT4&t=1962s)  _(term: body_camera, unreviewed)_
 
 - **[2024-03-18] Police Commission** -- Police Commission 03-18-2024
   > ...greater access to provide audits of when officers use the body cam because it actually links the axon body cam system with a dispatch system so we could see both side by side and instead of right...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tvIX0m4DKKw&t=1136s)  _(term: body_camera, unreviewed)_
 
-- **[2024-02-22] Public Safety and General Government Committee** -- Public Safety & General Government 02-22-2024
-  > ...um that does include the proposed Marine Division increase in rent and that does include two Act on body cam programs which will increase accountability and ease management and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gP-2Agxie0Q&t=1347s)  _(term: body_camera, unreviewed)_
+- **[2024-03-18] Police Commission** -- Police Commission 03-18-2024
+  > ...operating budget it'll provide us greater access to provide audits of when officers use the body cam because it actually links the axon body cam system with a dispatch system so we could see...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tvIX0m4DKKw&t=1134s)  _(term: body_camera, unreviewed)_
 
 - **[2024-02-22] Public Safety and General Government Committee** -- Public Safety & General Government 02-22-2024
   > ...the two so it will provide us an inventory on monthly or weekly basis to assure that an officer has a body cam for every single call for service for uh so right now we're do we're using pen...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gP-2Agxie0Q&t=1379s)  _(term: body_camera, unreviewed)_
+
+- **[2024-02-22] Public Safety and General Government Committee** -- Public Safety & General Government 02-22-2024
+  > ...um that does include the proposed Marine Division increase in rent and that does include two Act on body cam programs which will increase accountability and ease management and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gP-2Agxie0Q&t=1347s)  _(term: body_camera, unreviewed)_
 
 - **[2023-11-20] Police Commission** -- Police Commission 11-20-23
   > ...year that's all I I have a question regarding the foi requests of the uh body cam yes uh we we charge for those right we do we charge five doll per DVD okay so want to make sure yes any other...
@@ -1290,32 +1297,32 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JjQfG0EoCQI&t=596s)  _(term: body_camera, unreviewed)_
 
 - **[2023-07-17] Police Commission** -- Police Commission 7-17-23
-  > ...munitions vehicle stop tactics we refresh our body worn camera training and active aggressor building search active shooter training...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=kp48jZD3VFM&t=1343s)  _(term: body_camera, unreviewed)_
-
-- **[2023-07-17] Police Commission** -- Police Commission 7-17-23
   > ...officers uh online training bigotry and bias body worn camera refresher training cultural awareness and diversity principles of Investigation Rape Crisis...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=kp48jZD3VFM&t=1231s)  _(term: body_camera, unreviewed)_
+
+- **[2023-07-17] Police Commission** -- Police Commission 7-17-23
+  > ...munitions vehicle stop tactics we refresh our body worn camera training and active aggressor building search active shooter training...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=kp48jZD3VFM&t=1343s)  _(term: body_camera, unreviewed)_
 
 - **[2023-05-15] Police Commission** -- Police Commission 5-15-23
   > ...Advanced interrogation and interviewing class we spent we sent Detective Taylor body worn camera training uh by Brian Cunningham DUI and wet lab training which is part...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=LP-QAlW-q8w&t=961s)  _(term: body_camera, unreviewed)_
 
 - **[2023-03-08] Board of Estimate and Taxation** -- Board of Estimate & Taxation Budget Review Meeting 3-8-23
-  > ...cameras in the car and we have 181 officers that all have been assigned their own personal body Cam and they use it um all the time and the amount of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=K3YL87bPvwk&t=7310s)  _(term: body_camera, unreviewed)_
-
-- **[2023-03-08] Board of Estimate and Taxation** -- Board of Estimate & Taxation Budget Review Meeting 3-8-23
   > ...contract is upgrade of the body cams which about four years old to the latest generation body Cam and uh upgraded to our electronic control weapon what's commonly referred to as the teaser...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=K3YL87bPvwk&t=7341s)  _(term: body_camera, unreviewed)_
 
-- **[2023-02-22] Public Safety and General Government Committee** -- Public Safety & General Government Special Meeting 2-22-23
-  > ...um it's probably eight pages long um it's it's mimics the estate policy on use of body cam um I could provide that directive uh to you I don't have it with me right now I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QAgYUhAZ7sI&t=2100s)  _(term: body_camera, unreviewed)_
+- **[2023-03-08] Board of Estimate and Taxation** -- Board of Estimate & Taxation Budget Review Meeting 3-8-23
+  > ...cameras in the car and we have 181 officers that all have been assigned their own personal body Cam and they use it um all the time and the amount of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=K3YL87bPvwk&t=7310s)  _(term: body_camera, unreviewed)_
 
 - **[2023-02-22] Public Safety and General Government Committee** -- Public Safety & General Government Special Meeting 2-22-23
   > ...operations are are still decreasing on a monthly and yearly basis um through our body cam program and through our transparency and through our community outreach programs I do believe...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=QAgYUhAZ7sI&t=3203s)  _(term: body_camera, unreviewed)_
+
+- **[2023-02-22] Public Safety and General Government Committee** -- Public Safety & General Government Special Meeting 2-22-23
+  > ...um it's probably eight pages long um it's it's mimics the estate policy on use of body cam um I could provide that directive uh to you I don't have it with me right now I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=QAgYUhAZ7sI&t=2100s)  _(term: body_camera, unreviewed)_
 
 - **[2023-02-22] Public Safety and General Government Committee** -- Public Safety & General Government Special Meeting 2-22-23
   > ...when we review a use of force we view that we read the reports we review the body cam on each incident and uh myself and deputy chief Blake we go over and review it and then as we record it on a...
@@ -1350,12 +1357,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=WbG-0k66ARo&t=4132s)  _(term: body_camera, unreviewed)_
 
 - **[2020-09-24] Public Safety and General Government Committee** -- Health & Public Safety 9-24-2020
-  > ...that the public is interested in they're all posted there and they could be downloaded the body cam policy etc great thank you it's all under f8...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JfJhOfA7WgI&t=3072s)  _(term: body_camera, unreviewed)_
-
-- **[2020-09-24] Public Safety and General Government Committee** -- Health & Public Safety 9-24-2020
   > ...with brenda penn williams from the naacp to sit and review the body cam as a group to show why the officer did what they did and what exactly happened...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JfJhOfA7WgI&t=4262s)  _(term: body_camera, unreviewed)_
+
+- **[2020-09-24] Public Safety and General Government Committee** -- Health & Public Safety 9-24-2020
+  > ...that the public is interested in they're all posted there and they could be downloaded the body cam policy etc great thank you it's all under f8...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JfJhOfA7WgI&t=3072s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -1388,6 +1395,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### drone
 
+- **[2026-09-23] Board of Education** -- BOE Facilities Planning Committee Meeting - September 23, 2026
+  > ...has been spent to date. And if we want to Um, here is a drone photo of the front of the school. Um, in to the left of this photo is the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=0pjU6cdw1vg&t=1383s)  _(term: drone, unreviewed)_
+
 - **[2026-08-06] Economic and Community Development Committee** -- Economic and Community Development Committee 08-06-2026
   > ...You know, the the highlight that we have of their new tenant is uh uh Quantum Cyber. It's the headquarters for a drone manufacturer. You may have read about it in the newspaper. Uh they bought a large...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=YIbI42lhX3Y&t=2621s)  _(term: drone, unreviewed)_
@@ -1405,20 +1416,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=JAf4JR7Gq20&t=1709s)  _(term: drone, unreviewed)_
 
 - **[2026-04-01] Land Use and Building Management Committee** -- Land Use and Building Management Committee 04-01-2026
-  > ...and we'll run through some some photos, which is the more exciting part. >> Here's a a drone image of the school. The center here is the main entrance. You can kind of see the canopy down...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OtlyED2d0GQ&t=8699s)  _(term: drone, unreviewed)_
-
-- **[2026-04-01] Land Use and Building Management Committee** -- Land Use and Building Management Committee 04-01-2026
   > ...building envelope continues to progress. You'll see when we get into the photos, there's a drone image that shows uh the wings closest to the existing school. So, you're looking through the glass...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=OtlyED2d0GQ&t=8506s)  _(term: drone, unreviewed)_
 
-- **[2026-03-25] Board of Education** -- BOE Facilities Planning Committee Meeting - Mar 25, 2026
-  > ...building as part of the the construction phasing. We kind of saw this from the drone image, but these are the openings in the taller ceiling performing arts band...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=isCfOY2hbwE&t=331s)  _(term: drone, unreviewed)_
+- **[2026-04-01] Land Use and Building Management Committee** -- Land Use and Building Management Committee 04-01-2026
+  > ...and we'll run through some some photos, which is the more exciting part. >> Here's a a drone image of the school. The center here is the main entrance. You can kind of see the canopy down...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OtlyED2d0GQ&t=8699s)  _(term: drone, unreviewed)_
 
 - **[2026-03-25] Board of Education** -- BOE Facilities Planning Committee Meeting - Mar 25, 2026
   > ...photos. This one I like to grab the drone photos which aren't always up to date, but as we were saying, the right side, this is the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=isCfOY2hbwE&t=262s)  _(term: drone, unreviewed)_
+
+- **[2026-03-25] Board of Education** -- BOE Facilities Planning Committee Meeting - Mar 25, 2026
+  > ...building as part of the the construction phasing. We kind of saw this from the drone image, but these are the openings in the taller ceiling performing arts band...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=isCfOY2hbwE&t=331s)  _(term: drone, unreviewed)_
 
 - **[2026-03-16] Police Commission** -- Police Commission 03-16-2026
   > ...every uh single officer. Um there was some training on uh taser operations. There was some training for our drone unit. And you'll see that all the officers receive special training on the...
@@ -1501,52 +1512,52 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=S9AX05PC-TY&t=4903s)  _(term: drone, unreviewed)_
 
 - **[2023-10-04] Land Use and Building Management Committee** -- Land Use and Building Management Committee 10-4-23
-  > ...building it's like yeah you guys would be up there washing the windows to see anything yeah if you're a drone under the sky you see it but no not him on the school like Jefferson School with a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1txFcap4Bks&t=3872s)  _(term: drone, unreviewed)_
-
-- **[2023-10-04] Land Use and Building Management Committee** -- Land Use and Building Management Committee 10-4-23
   > ...building it's like you'd have to be up there washing the windows to see anything yeah if you're a drone under the sky you see it but no nothing on the school like Jefferson School with a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=CjiUIeui0hw&t=3900s)  _(term: drone, unreviewed)_
 
-- **[2023-09-18] Police Commission** -- Police Commission 9-18-23
-  > ...losniak officer Serrano and officer we also uh lent them our UAV team our drone team we also uh use the Drone in cooperation with the scuba team and they were out there probably for 60 and 18...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-PtgQskpmps&t=1587s)  _(term: drone, unreviewed)_
+- **[2023-10-04] Land Use and Building Management Committee** -- Land Use and Building Management Committee 10-4-23
+  > ...building it's like yeah you guys would be up there washing the windows to see anything yeah if you're a drone under the sky you see it but no not him on the school like Jefferson School with a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1txFcap4Bks&t=3872s)  _(term: drone, unreviewed)_
 
 - **[2023-09-18] Police Commission** -- Police Commission 9-18-23
   > ...Detective Taylor officer geismer officer losniak officer Serrano and officer we also uh lent them our UAV team our drone team we also uh use the Drone in cooperation with the scuba team and they...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-PtgQskpmps&t=1583s)  _(term: drone, unreviewed)_
 
-- **[2023-04-13] Finance and Claims Committee** -- Finance and Claims Committee 4-13-23
-  > ...larger Interceptor pipes uh any pipe that's 36 inches or larger for inspection so they fly a drone and they're able to inspect the structural integrity and condition of the pipe...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YjQUDv3LcG4&t=4662s)  _(term: drone, unreviewed)_
-
-- **[2023-04-13] Finance and Claims Committee** -- Finance and Claims Committee 4-13-23
-  > ...before it becomes a backup or a sewage spill we've been using or violi has been using drone technology to fly within larger Interceptor pipes uh any pipe that's 36 inches or larger for...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YjQUDv3LcG4&t=4653s)  _(term: drone, unreviewed)_
+- **[2023-09-18] Police Commission** -- Police Commission 9-18-23
+  > ...losniak officer Serrano and officer we also uh lent them our UAV team our drone team we also uh use the Drone in cooperation with the scuba team and they were out there probably for 60 and 18...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-PtgQskpmps&t=1587s)  _(term: drone, unreviewed)_
 
 - **[2023-04-13] Finance and Claims Committee** -- Finance and Claims Committee 4-13-23
   > ...before it becomes a backup or a sewage spill we've been using or violi has been using drone technology to fly within larger Interceptor pipes uh any pipe that's 36 inches or larger for...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fxx6N5mJegw&t=4633s)  _(term: drone, unreviewed)_
 
 - **[2023-04-13] Finance and Claims Committee** -- Finance and Claims Committee 4-13-23
+  > ...before it becomes a backup or a sewage spill we've been using or violi has been using drone technology to fly within larger Interceptor pipes uh any pipe that's 36 inches or larger for...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YjQUDv3LcG4&t=4653s)  _(term: drone, unreviewed)_
+
+- **[2023-04-13] Finance and Claims Committee** -- Finance and Claims Committee 4-13-23
   > ...larger Interceptor pipes uh any pipe that's 36 inches or larger for inspections so they fly a drone and they're able to inspect the structural integrity and condition of the pipe...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fxx6N5mJegw&t=4641s)  _(term: drone, unreviewed)_
 
-- **[2023-04-03] Board of Estimate and Taxation** -- Board of Estimate & Taxation 4-3-23
-  > ...drones in our large diameter pipes so anything over 36 inches they're able to fly a drone through so it's just another way to televise and assess the condition of large diameter pipes lastly pump...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=In3GDgqlf3M&t=1606s)  _(term: drone, unreviewed)_
+- **[2023-04-13] Finance and Claims Committee** -- Finance and Claims Committee 4-13-23
+  > ...larger Interceptor pipes uh any pipe that's 36 inches or larger for inspection so they fly a drone and they're able to inspect the structural integrity and condition of the pipe...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YjQUDv3LcG4&t=4662s)  _(term: drone, unreviewed)_
 
 - **[2023-04-03] Board of Estimate and Taxation** -- Board of Estimate & Taxation 4-3-23
   > ...drones in our large diameter pipes so anything over 36 inches they're able to fly a drone through so it's just another way to televise and assess the condition of large diameter pipes lastly pump...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=EduNK3opczI&t=1640s)  _(term: drone, unreviewed)_
 
-- **[2022-11-15] Ordinance Committee** -- Ordinance Committee 11-15-22
-  > ...perhaps then for the first time we all became acutely aware of the constant drone of leaf blowers from early spring to the late fall months I began to hear from our constituents asking if there...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=46ItRN5Q4V8&t=1544s)  _(term: drone, unreviewed)_
+- **[2023-04-03] Board of Estimate and Taxation** -- Board of Estimate & Taxation 4-3-23
+  > ...drones in our large diameter pipes so anything over 36 inches they're able to fly a drone through so it's just another way to televise and assess the condition of large diameter pipes lastly pump...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=In3GDgqlf3M&t=1606s)  _(term: drone, unreviewed)_
 
 - **[2022-11-15] Ordinance Committee** -- Ordinance Committee 11-15-22
   > ...perhaps then for the first time we all became acutely aware of the constant drone of wheat blowers from early spring to the late fall months I began to hear from our constituents asking if there...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=OD2S38CFe6E&t=1518s)  _(term: drone, unreviewed)_
+
+- **[2022-11-15] Ordinance Committee** -- Ordinance Committee 11-15-22
+  > ...perhaps then for the first time we all became acutely aware of the constant drone of leaf blowers from early spring to the late fall months I began to hear from our constituents asking if there...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=46ItRN5Q4V8&t=1544s)  _(term: drone, unreviewed)_
 
 - **[2022-10-27] Public Safety and General Government Committee** -- Public Safety & General Government 10-27-22
   > ...really need to have proof that we've obtained like for example we can't go out and use Drone footage of something and say ah we spotted this in the backyard we have to physically get on...
@@ -1569,12 +1580,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9RtVAdu28Hk&t=3968s)  _(term: drone, unreviewed)_
 
 - **[2022-02-25] Ordinance Committee** -- Ordinance Committee 2-25-2022
-  > ...to present our proposal we did field observations we actually looked at drone videos of the intersection and determined that the do not block the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qpE1Ai958HY&t=6108s)  _(term: drone, unreviewed)_
-
-- **[2022-02-25] Ordinance Committee** -- Ordinance Committee 2-25-2022
   > ...review some preliminary design plans for this location and they were able to show us some of the drone footage they captured and um of the entire area so it is a project...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=qpE1Ai958HY&t=6650s)  _(term: drone, unreviewed)_
+
+- **[2022-02-25] Ordinance Committee** -- Ordinance Committee 2-25-2022
+  > ...to present our proposal we did field observations we actually looked at drone videos of the intersection and determined that the do not block the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qpE1Ai958HY&t=6108s)  _(term: drone, unreviewed)_
 
 - **[2022-02-15] Ordinance Committee** -- Ordinance Committee Meeting - 02-15-2022
   > ...review some preliminary design plans for this location and they were able to show us some of the drone footage they captured and um of the entire area so it is a project...
@@ -1593,32 +1604,32 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=oYx5Yc5lB7Q&t=1888s)  _(term: drone, unreviewed)_
 
 - **[2021-09-20] Police Commission** -- Police Commission 9-20-2021
-  > ...and then also uh the our um drone the officers operating the drone um in addition to that though i'd like to highlight that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pEt2GgMJhV4&t=1690s)  _(term: drone, unreviewed)_
-
-- **[2021-09-20] Police Commission** -- Police Commission 9-20-2021
   > ...um and then also uh the our um drone the officers operating the drone um in addition to that though i'd like...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=pEt2GgMJhV4&t=1687s)  _(term: drone, unreviewed)_
+
+- **[2021-09-20] Police Commission** -- Police Commission 9-20-2021
+  > ...and then also uh the our um drone the officers operating the drone um in addition to that though i'd like to highlight that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pEt2GgMJhV4&t=1690s)  _(term: drone, unreviewed)_
 
 - **[2021-09-07] Public Works Committee** -- Public Works Committee 9-7-2021 Part 1
   > ...with utilities we use them also when we did some test fit so they can be there and mark on the drone means exactly where the utilities we just did that for the center avenue plymouth area...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=OSf5DHz6OxY&t=2284s)  _(term: drone, unreviewed)_
 
 - **[2021-02-22] Police Commission** -- Police Commission 2-22-2021
-  > ...drone from missing people and things like that so the drone has worked out really well yeah interesting oh i did miss that in the specialized training...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=79FxNLvoqdc&t=3099s)  _(term: drone, unreviewed)_
-
-- **[2021-02-22] Police Commission** -- Police Commission 2-22-2021
-  > ...the specialized training multiple officers trained in flying the drone yeah and that actually takes quite a bit of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=79FxNLvoqdc&t=3108s)  _(term: drone, unreviewed)_
+  > ...its services but not that often and now that we have a very high tech drone for searching and things we've used the drone from missing people and things...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=79FxNLvoqdc&t=3092s)  _(term: drone, unreviewed)_
 
 - **[2021-02-22] Police Commission** -- Police Commission 2-22-2021
   > ...a very high tech drone for searching and things we've used the drone from missing people and things like that so the drone has worked out really well...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=79FxNLvoqdc&t=3096s)  _(term: drone, unreviewed)_
 
 - **[2021-02-22] Police Commission** -- Police Commission 2-22-2021
-  > ...its services but not that often and now that we have a very high tech drone for searching and things we've used the drone from missing people and things...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=79FxNLvoqdc&t=3092s)  _(term: drone, unreviewed)_
+  > ...the specialized training multiple officers trained in flying the drone yeah and that actually takes quite a bit of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=79FxNLvoqdc&t=3108s)  _(term: drone, unreviewed)_
+
+- **[2021-02-22] Police Commission** -- Police Commission 2-22-2021
+  > ...drone from missing people and things like that so the drone has worked out really well yeah interesting oh i did miss that in the specialized training...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=79FxNLvoqdc&t=3099s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -1683,11 +1694,11 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=lXLqqhZS6ZU&t=5006s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-11-12] Common Council** -- Common Council  11-12-2024
-  > ...execute a three-year agreement with ADT a security system for the CCTV and security monitors services for three Beldon Avenue at the total annual cost of...
+  > ...execute a three-year agreement with ADT a security system for the CCTV and security monitors services for [address redacted] at the total annual cost of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=aQnskKeCq1E&t=3878s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-11-06] Land Use and Building Management Committee** -- Land Use and Building Management Committee 11-06-2024
-  > ...management item one authorize the mayor Harry W ring to execute an agreement with ADT Security services for the CCTV and security monitoring services at three beldan Avenue at a total cost of...
+  > ...management item one authorize the mayor Harry W ring to execute an agreement with ADT Security services for the CCTV and security monitoring services at [address redacted] at a total cost of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=CxUwljwdFBU&t=1421s)  _(term: surveillance_general, unreviewed)_
 
 - **[2024-10-08] Common Council** -- Common Council  10-08-2024
@@ -1759,12 +1770,158 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### alpr
 
-*(no mentions)*
+- **[2026-09-14] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-09-14 (other)
+  > ...     119,000     119,000.00            .00            .00    100.0%
+C0578 TACTICAL BALLISTIC HELMETS         18,000          0      18,000      17,975.00            .00          25.00     99.9%
+C0579 LICENSE PLATE READER               30,000          0      30,000      30,405.00            .00        -405.00    101.4%
+C0596 CAMERA INFRASTRUCTURE              33,000          0      33,000      33,0...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=16000,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-05-28] Public Safety and General Government Committee** -- Public Safety and General Government Committee Other - 2026-05-28 (other)
+  > ...ouncil
+                                                    1
+
+
+                                                                                                     Page 3 of 9
+voted to shut down its flock camera system after concerns about privacy and data sharing. State
+investigations have shown that the license plate data collected in Connecticut has been accessed
+by state agencies, including f...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15354,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-25] Board of Estimate and Taxation** -- Board of Estimate & Taxation Minutes - 2026-03-25 (minutes)
+  > ...job maintaining the multimodal program. He suggested looking under every rock
+for savings including possibly saving thirty-three thousand dollars in the police category by
+reviewing the contract with Flock Safety Systems for automatic license plate readers.
+
+Ms. Diane Cece spoke about the burden on homeowners becoming unsustainable and asked the
+Board to take another look at every line item and re...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15080,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety and General Government Committee Minutes - 2026-04-23 (minutes)
+  > ...internal policies, but if
+something is not written into a contract, it’s not guaranteed. In Windsor, CT, the town council
+                                                    1
+voted to shut down its flock camera system after concerns about privacy and data sharing. State
+investigations have shown that the license plate data collected in Connecticut has been accessed
+by state agencies, including f...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15253,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-03] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-08-03 (other)
+  > ...     119,000     119,000.00            .00            .00    100.0%
+C0578 TACTICAL BALLISTIC HELMETS         18,000          0      18,000      17,975.00            .00          25.00     99.9%
+C0579 LICENSE PLATE READER               30,000          0      30,000      30,405.00            .00        -405.00    101.4%
+C0596 CAMERA INFRASTRUCTURE              33,000          0      33,000      33,0...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15792,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety and General Government Committee Other - 2026-04-23 (other)
+  > ... CALL TO ORDER
+
+II.           ROLL CALL
+
+III.          ACCEPTANCE OF MINUTES
+
+       A.     Regular Meeting: March 26, 2026
+
+IV.           PUBLIC PARTICIPATION
+
+V.            DISCUSSION: POLICE DEPT- LICENSE PLATE READER (LPR)
+
+VI.           ADJOURNMENT
+
+
+                                              UPCOMING MEETINGS
+
+
+
+
+                                                                            ...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15090,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-06] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-07-06 (other)
+  > ...     119,000     119,000.00            .00            .00    100.0%
+C0578 TACTICAL BALLISTIC HELMETS         18,000          0      18,000      17,975.00            .00          25.00     99.9%
+C0579 LICENSE PLATE READER               30,000          0      30,000      30,405.00            .00        -405.00    101.4%
+C0596 CAMERA INFRASTRUCTURE              33,000          0      33,000      33,0...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15633,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-23] Public Safety and General Government Committee** -- Public Safety and General Government Committee Agenda - 2026-04-23 (agenda)
+  > ... CALL TO ORDER
+
+II.           ROLL CALL
+
+III.          ACCEPTANCE OF MINUTES
+
+       A.     Regular Meeting: March 26, 2026
+
+IV.           PUBLIC PARTICIPATION
+
+V.            DISCUSSION: POLICE DEPT- LICENSE PLATE READER (LPR)
+
+VI.           ADJOURNMENT
+
+
+                                              UPCOMING MEETINGS...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15089,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-06-01] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-06-01 (other)
+  > ...     119,000     119,000.00            .00            .00    100.0%
+C0578 TACTICAL BALLISTIC HELMETS         18,000          0      18,000      17,975.00            .00          25.00     99.9%
+C0579 LICENSE PLATE READER               30,000          0      30,000      30,405.00            .00        -405.00    101.4%
+C0596 CAMERA INFRASTRUCTURE              33,000          0      33,000      33,0...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15449,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-05-04] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-05-04 (other)
+  > ...     119,000     119,000.00            .00            .00    100.0%
+C0578 TACTICAL BALLISTIC HELMETS         18,000          0      18,000      17,975.00            .00          25.00     99.9%
+C0579 LICENSE PLATE READER               30,000          0      30,000      30,405.00            .00        -405.00    101.4%
+C0596 CAMERA INFRASTRUCTURE              33,000          0      33,000      33,0...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15191,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-06] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-04-06 (other)
+  > ...job maintaining the multimodal program. He suggested looking under every rock
+for savings including possibly saving thirty-three thousand dollars in the police category by
+reviewing the contract with Flock Safety Systems for automatic license plate readers.
+
+Ms. Diane Cece spoke about the burden on homeowners becoming unsustainable and asked the
+Board to take another look at every line item and re...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14999,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-02] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-03-02 (other)
+  > ...     119,000     119,000.00            .00            .00    100.0%
+C0578 TACTICAL BALLISTIC HELMETS         18,000          0      18,000      17,975.00            .00          25.00     99.9%
+C0579 LICENSE PLATE READER               30,000          0      30,000      30,405.00            .00        -405.00    101.4%
+C0596 CAMERA INFRASTRUCTURE              33,000          0      33,000      33,0...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4079,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-09] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-02-09 (other)
+  > ...     119,000     119,000.00            .00            .00    100.0%
+C0578 TACTICAL BALLISTIC HELMETS         18,000          0      18,000      17,975.00            .00          25.00     99.9%
+C0579 LICENSE PLATE READER               30,000          0      30,000      30,405.00            .00        -405.00    101.4%
+C0596 CAMERA INFRASTRUCTURE              33,000          0      33,000      33,0...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2934,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-01-12] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-01-12 (other)
+  > ... 20,000.00             .0%
+C0578 TACTICAL BALLISTIC HELMETS
+                 18,000.00               0.00             18,000.00       17,975.00           0.00              25.00           99.9%
+C0579 LICENSE PLATE READER
+                 30,000.00               0.00             30,000.00       30,405.00           0.00            -405.00          101.4%
+C0581 PROJECTED CROSSWALKS / WARNIN
+         ...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2715,plainText=false))  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
 
-*(no mentions)*
+- **[2026-07-23] Public Safety and General Government Committee** -- Public Safety and General Government Committee Other - 2026-07-23 (other)
+  > ...nnel. All appointments, dates, and
+times, will be scheduled through the BIS website. Links will be provided under the NPD website
+to include all necessary information.
+
+BIS will utilize the NPD owned Idemia Live Scan Machine to capture and electronically transmit
+fingerprint records to the State of Connecticut. NPD will only receive back approved
+applications for Norwalk residents, employees, or p...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15740,plainText=false))  _(term: biometrics_other, unreviewed)_
 
 
 ### body_camera
@@ -1794,12 +1951,381 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### drone
 
-*(no mentions)*
+- **[2026-09-14] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-09-14 (other)
+  > ...rovided below for your review.
+
+
+
+
+                                                                     Page 15 of 83
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 6/30/26
+
+
+
+
+                                                       Page 16 of 83
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               JV Softball Field – 8/1...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=16000,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-09-02] Land Use and Building Management Committee** -- Land Use & Building Management Committee Other - 2026-09-02 (other)
+  > ...rovided below for your review.
+
+
+
+
+                                                                     Page 26 of 42
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 6/30/26
+
+
+
+
+                                                       Page 27 of 42
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               JV Softball Field – 8/1...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15918,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-09-09] Recreation, Parks and Cultural Affairs Committee** -- Recreation, Parks & Cultural Affairs Other - 2026-09-09 (other)
+  > ...led objects, except in areas designated for such activities.
+
+    C.   No Person shall bring or operate within or upon any Park any aircraft, flying machine, balloon, parachute,
+         hand glider, drone, or other apparatus for aviation unless authorized by the Director.
+
+    D. No Person shall go onto the ice on any of the ponds, streams, springs or any other waters, natural or
+       artificia...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15955,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-03-26] Public Safety and General Government Committee** -- Public Safety and General Government Committee Other - 2026-03-26 (other)
+  > ...                           of title 49, United States Code) to benefit public safety.
+                                                                     11. Programs to purchase and operate counter-UAS systems (as defined in section 44801 of
+                                                                         title 49, United States Code) included on the list of technologies established by s...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14931,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-08-03] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-08-03 (other)
+  > ...ovided below for your review.
+
+
+
+
+                                                                     Page 17 of 121
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 6/30/26
+
+
+
+
+                                                       Page 18 of 121
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               JV Softball Field – 7/...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15792,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-08-05] Land Use and Building Management Committee** -- Land Use & Building Management Committee Other - 2026-08-05 (other)
+  > ...rovided below for your review.
+
+
+
+
+                                                                     Page 26 of 40
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 6/30/26
+
+
+
+
+                                                       Page 27 of 40
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               JV Softball Field – 7/2...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15806,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-07-06] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-07-06 (other)
+  > ...ovided below for your review.
+
+
+
+
+                                                                     Page 13 of 115
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 5/13/26
+
+
+
+
+                                                       Page 14 of 115
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 5/13/26
+...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15633,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-07-01] Land Use and Building Management Committee** -- Land Use & Building Management Committee Other - 2026-07-01 (other)
+  > ...rovided below for your review.
+
+
+
+
+                                                                     Page 15 of 29
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 5/13/26
+
+
+
+
+                                                       Page 16 of 29
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 5/13/26
+
+...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15610,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-06-01] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-06-01 (other)
+  > ...ovided below for your review.
+
+
+
+
+                                                                     Page 36 of 106
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 4/1/26
+
+
+
+
+                                                      Page 37 of 106
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 4/1/26
+
+
+
+...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15449,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-06-03] Land Use and Building Management Committee** -- Land Use & Building Management Committee Other - 2026-06-03 (other)
+  > ...rovided below for your review.
+
+
+
+
+                                                                     Page 17 of 33
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 4/1/26
+
+
+
+
+                                                      Page 18 of 33
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 4/1/26
+
+
+
+
+...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15443,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-05-04] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-05-04 (other)
+  > ...vided below for your review.
+
+
+
+
+                                                                     Page 211 of 282
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 4/1/26
+
+
+
+
+                                                      Page 212 of 282
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                         P-TECH Wing, Aux Gym, Pool En...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15191,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-05-06] Land Use and Building Management Committee** -- Land Use & Building Management Committee Other - 2026-05-06 (other)
+  > ...rovided below for your review.
+
+
+
+
+                                                                     Page 28 of 44
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 4/1/26
+
+
+
+
+                                                      Page 29 of 44
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                         P-TECH Wing, Aux Gym, Pool Entr...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15204,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-04-06] Board of Estimate and Taxation** -- Board of Estimate & Taxation Other - 2026-04-06 (other)
+  > ...vided below for your review.
+
+
+
+
+                                                                     Page 120 of 184
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 2/27/26
+
+
+
+
+                                                       Page 121 of 184
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                         Building Envelope at NHS Wi...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14999,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-04-01] Land Use and Building Management Committee** -- Land Use & Building Management Committee Other - 2026-04-01 (other)
+  > ...rovided below for your review.
+
+
+
+
+                                                                     Page 42 of 53
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                               Drone Photo – 2/27/26
+
+
+
+
+                                                       Page 43 of 53
+Norwalk High School / P-TECH
+NEW CONSTRUCTION
+
+
+
+
+                         Building Envelope at NHS Wing...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14993,plainText=false))  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
 
-*(no mentions)*
+- **[2026-07-23] Public Safety and General Government Committee** -- Public Safety and General Government Committee Other - 2026-07-23 (other)
+  > ...                  Applicant Fingerprinting Services
+    1. Agreement
+       This Agreement is entered into as of the date of last signature of the Parties (the “Effective
+       Date”) by and between Biometric Identification Services, LLC (BIS) and the City of Norwalk on
+       behalf of its Police Department (Agency) and sets forth the services that will be provided by BIS
+       to the Agency in...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15740,plainText=false))  _(term: facial_recognition, unreviewed)_
 
 
 ### gunshot_detection
@@ -1824,7 +2350,38 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### purchasing_broker
 
-*(no mentions)*
+- **[2026-07-09] Finance and Claims Committee** -- Finance & Claims Committee Other - 2026-07-09 (other)
+  > ...                         Tax                  0.00
+
+                                                                            Estimate Total (USD)          $211,200.00
+
+
+
+Terms
+About Us https://www.cdwg.com/content/cdwg/en/about/overview.html
+Privacy Policy https://www.cdwg.com/content/cdwg/en/terms-conditions/privacy-notice.html
+Terms and Conditions https://www.cdwg.com/content/cdwg/en/terms-co...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15654,plainText=false))  _(term: purchasing_broker, unreviewed)_
+
+- **[2026-03-12] Finance and Claims Committee** -- Finance & Claims Committee Other - 2026-03-12 (other)
+  > ...                                                                           Page 153 of 154
+                      Sales Contact Info
+
+
+                      Vincent Mulvihill | (866) 773-7348 | vinny@cdwg.com
+
+
+
+Need Help?
+
+
+         My Account                                      Support                       Call 800.800.4239
+
+
+About Us | Privacy Policy | Terms and Conditions
+
+This order is subj...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4157,plainText=false))  _(term: purchasing_broker, unreviewed)_
 
 
 ### rtcc
@@ -1834,7 +2391,19 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### surveillance_general
 
-*(no mentions)*
+- **[2026-02-04] Land Use and Building Management Committee** -- Land Use & Building Management Committee Other - 2026-02-04 (other)
+  > ...y the City of Norwalk, and
+have only included the following as materials as a starting point for the design.
+
+Photovoltaic Module: Solar “panels” located on the roof or ground mounted.
+
+Manufacturer: Hanwha Q CELLS America, Inc.
+Model: Q.PEAK DUO XL-G11
+Wattage: 600W
+Warranty: 12 year product warranty and 25 year linear performance warranty.
+Cells: 156 half cells.
+Physical Size: 95”L x 45”W x 1.38...
+  [View document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2880,plainText=false))  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools
@@ -1862,8 +2431,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 2
 - Active meeting bodies: 15
-- Videos registered: 1214 (fetched: 1190, no captions: 24)
-- Date range covered: 2016-10-11 to 2026-09-09 — **based on the 1210 of 1214 videos that carry a parseable upload date**; the other 4 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 1223 (fetched: 1203, no captions: 19)
+- Date range covered: 2016-10-11 to 2026-09-23 — **based on the 1219 of 1223 videos that carry a parseable upload date**; the other 4 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -1878,38 +2447,38 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| city_of_norwalk | streams | 2026-09-10 12:01:54.624769 | 660 |
-| city_of_norwalk | videos | 2026-09-10 12:01:45.544561 | 2727 |
-| norwalk_public_schools | streams | 2026-09-10 13:43:05.550158 | 66 |
-| norwalk_public_schools | videos | 2026-09-10 13:43:04.006486 | 870 |
+| city_of_norwalk | streams | 2026-09-25 15:29:29.958108 | 660 |
+| city_of_norwalk | videos | 2026-09-25 15:29:20.493568 | 2753 |
+| norwalk_public_schools | streams | 2026-09-25 15:51:50.856303 | 66 |
+| norwalk_public_schools | videos | 2026-09-25 15:51:49.325691 | 876 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Estimate and Taxation | budget_finance | True | 180 |
-| Finance and Claims Committee | budget_finance | True | 90 |
+| Board of Estimate and Taxation | budget_finance | True | 181 |
+| Finance and Claims Committee | budget_finance | True | 91 |
 | Common Council | council | True | 224 |
-| Board of Education | education | True | 26 |
+| Board of Education | education | True | 28 |
 | Ad Hoc Affordable Housing Committee | other | True | 16 |
-| Ad Hoc Sustainability and Resilience Committee | other | True | 37 |
-| Community Services Committee | other | True | 64 |
-| Economic and Community Development Committee | other | True | 73 |
+| Ad Hoc Sustainability and Resilience Committee | other | True | 38 |
+| Community Services Committee | other | True | 65 |
+| Economic and Community Development Committee | other | True | 74 |
 | Land Use and Building Management Committee | other | True | 102 |
-| Ordinance Committee | other | True | 95 |
+| Ordinance Committee | other | True | 96 |
 | Planning Committee | other | True | 22 |
 | Public Works Committee | other | True | 78 |
 | Recreation, Parks and Cultural Affairs Committee | other | True | 73 |
-| Police Commission | public_safety | True | 81 |
+| Police Commission | public_safety | True | 82 |
 | Public Safety and General Government Committee | public_safety | True | 53 |
 
 
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 303 (fetched: 0)
-- Date range covered: 2026-01-08 to 2026-09-14
+- Documents registered: 326 (fetched: 312)
+- Date range covered: 2026-01-08 to 2026-09-29
 
 
 ### Agenda sources
@@ -1935,15 +2504,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (24 shown, max 25)
+### Videos with no captions available (19 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| Recreation, Parks & Cultural Affairs 09-09-2026 | 2026-09-09 |
-| Land Use and Building Management Committee 09-02-2026 | 2026-09-02 |
-| Sustainability and Resilience Task Force Committee 08-20-2026 | 2026-08-20 |
-| Sustainability and Resilience Task Force 08-20-2026 | 2026-08-20 |
-| Police Commission 08-17-2026 | 2026-08-17 |
 | Board Business Meeting - March 31, 2026 | 2026-03-31 |
 | Recreation, Parks & Cultural Affairs 03-11-2026 | 2026-03-11 |
 | Board of Estimate & Taxation 06-02-2025 | 2025-06-02 |
@@ -2004,5 +2568,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:59:58 from Norwalk's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:05:46 from Norwalk's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

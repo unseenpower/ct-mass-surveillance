@@ -1,9 +1,9 @@
 # Surveillance-tech report: East Haddam
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,16 +14,16 @@
 
 ## At a glance: East Haddam
 
-<p class="glance-headline"><strong>47 mentions</strong> of surveillance technology in <strong>25</strong> East Haddam meetings, 2022–2026</p>
+<p class="glance-headline"><strong>49 mentions</strong> of surveillance technology in <strong>27</strong> East Haddam meetings, 2020–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">47</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 25 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2022–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2022-02-22 → 2026-06-09</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">49</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 27 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2020–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2020-07-15 → 2026-06-09</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">7</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Facial recognition, Predictive policing, Purchasing / procurement, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">82%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">1,348 of 1,646 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">89%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">1,464 of 1,654 meetings</span></a>
 </div>
 
-**Not the full history:** transcripts begin **2020-09-10**, but East Haddam's published video archive goes back to **2018-03-20**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+**Not the full history:** transcripts begin **2020-04-21**, but East Haddam's published video archive goes back to **2018-03-20**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 This report collects every mention of surveillance technology found in **East Haddam**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -52,8 +52,8 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
 | [ALPR / Flock](#alpr) | 12 | 4 | 2024-05-23 | 2025-12-08 |
-| [Body cameras](#body_camera) | 1 | 1 | 2024-02-21 | 2024-02-21 |
-| [Drones](#drone) | 29 | 16 | 2022-02-22 | 2026-06-09 |
+| [Body cameras](#body_camera) | 2 | 2 | 2020-07-15 | 2024-02-21 |
+| [Drones](#drone) | 30 | 17 | 2020-07-21 | 2026-06-09 |
 | [Facial recognition](#facial_recognition) | 1 | 1 | 2025-11-05 | 2025-11-05 |
 | [Predictive policing](#predictive_policing) | 1 | 1 | 2022-10-25 | 2022-10-25 |
 | [Purchasing / procurement](#purchasing_broker) | 1 | 1 | 2024-02-29 | 2024-02-29 |
@@ -64,11 +64,11 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 <!-- report-polish v1 -->
 
-25 meetings surfaced a finding (25 dated, spanning 2022-02-22 to 2026-06-09; 0 of unknown date, listed last). Newest first.
+27 meetings surfaced a finding (27 dated, spanning 2020-07-15 to 2026-06-09; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-06-09.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-06-09.*
 
-??? note "Earlier meetings (25)"
+??? note "Earlier meetings (27)"
 
     **2026-06-09 -- Planning & Zoning Commission**
 
@@ -242,6 +242,18 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=H9qf8e8ntik&t=2040s)  > ...no you had it you had you had to redo them but they they produced a ton of water yeah so you know that the drone was just tapping the river there were water tests...
 
+    **2020-07-21 -- Inland Wetlands and Watercourses Commission**
+
+    **Inland Wetlands - 07.21.2020** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ys3632J9gMw&t=160s)  > ...item a continued w20-06 at [address redacted] uh the robert drone excuse me robert doan is the agent marilyn kinsel the owner...
+
+    **2020-07-15 -- Board of Selectmen**
+
+    **Board of Selectmen - 07.15.2020** _(topics: body_camera)_
+
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=5J2HbTmHi6o&t=3846s)  > ...uh the proposals being put forth let through the legislature wouldn't require every police officer to have a body cam so so i think the important part of this is that there is no other from what i've...
+
 
 ## Findings by topic
 
@@ -269,10 +281,6 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4050s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
-  > ...flock cameras. >> That's right. >> Flock. [clears throat] >> Flock. They're actually mocking us by saying it. clock....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4052s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
   > ...>> That's right. >> Flock. [clears throat] >> Flock. They're actually mocking us by saying it. clock. >> Okay, don't believe what he tells you....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4053s)  _(term: alpr_flock, unreviewed)_
 
@@ -285,16 +293,20 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5244s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
+  > ...flock cameras. >> That's right. >> Flock. [clears throat] >> Flock. They're actually mocking us by saying it. clock....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=4052s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
   > ...>> So, so you could be sold or you could be bought. Let's say you could be bought by the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5254s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
-  > ...database. So they they use it and then there's another 1,000 or more currently that pay into flock to access retail and insurance company uh related uh information from the database. So what's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5277s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
   > ...the biggest company, Flock. So, so now they've got all our data right now. I I did some research on Flock and I what I understand is there's over 4,800 law enforcement agencies who pay something...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5260s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-11-05] Public Information Meeting** -- Public Hearing - ATESD Part 1 - 11.5.2025
+  > ...database. So they they use it and then there's another 1,000 or more currently that pay into flock to access retail and insurance company uh related uh information from the database. So what's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=y25y6d_d3cw&t=5277s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-05-23] Redevelopment Agency** -- Redevelopment Agency - 5.23.2024
   > ...right you might want to you I my flock you my flock might well yes but might want to raise the question more...
@@ -311,6 +323,10 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 - **[2024-02-21] Board of Selectmen** -- Board of Selectmen Budget Workshop - Part 2 2.21.2024
   > ...it we'll make a note to I'll bring my body camera or your body cam should get accosted my badge oh don't forget the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=f9DRpn3g2nA&t=6553s)  _(term: body_camera, unreviewed)_
+
+- **[2020-07-15] Board of Selectmen** -- Board of Selectmen - 07.15.2020
+  > ...uh the proposals being put forth let through the legislature wouldn't require every police officer to have a body cam so so i think the important part of this is that there is no other from what i've...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5J2HbTmHi6o&t=3846s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -396,24 +412,24 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2474s)  _(term: drone, unreviewed)_
 
 - **[2024-01-16] Cemetery Committee** -- Cemetery Committee - 1.16.2024
-  > ...it's really good for picking up headstones that type of stuff now we we drone all the time um and you can lay out markers and then do a flight and then...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2330s)  _(term: drone, unreviewed)_
-
-- **[2024-01-16] Cemetery Committee** -- Cemetery Committee - 1.16.2024
   > ...a much cheaper drone flight to locate all the um all the headstones I mean a drone flight's not that expensive and uh they can even just give you a picture you can again you're spending money on...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2479s)  _(term: drone, unreviewed)_
+
+- **[2024-01-16] Cemetery Committee** -- Cemetery Committee - 1.16.2024
+  > ...it's really good for picking up headstones that type of stuff now we we drone all the time um and you can lay out markers and then do a flight and then...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tiZw3uXFKrA&t=2330s)  _(term: drone, unreviewed)_
 
 - **[2023-10-03] Sustainability / Climate Resiliency** -- Sustainability Team - 10.3.2023
   > ...okay I put somebody else in charge there's like spreadsheets and aerial drone pictures and and all kinds of things that I am no longer involved in but...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=hDjLwysFur4&t=3366s)  _(term: drone, unreviewed)_
 
 - **[2023-07-20] Cemetery Committee** -- Cemetery Committee - 7.20.2023
-  > ...they if you need to file for permission okay I don't know offhand I can ask our drone Pilots but I'm not going to be in for the next one...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IhrvF7LCxQI&t=1313s)  _(term: drone, unreviewed)_
-
-- **[2023-07-20] Cemetery Committee** -- Cemetery Committee - 7.20.2023
   > ...I'm going to check with the like dot has some standards on launching and flying from I certainly doing a drone yeah so you'd probably get away with it but technically the dot has standards...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IhrvF7LCxQI&t=1297s)  _(term: drone, unreviewed)_
+
+- **[2023-07-20] Cemetery Committee** -- Cemetery Committee - 7.20.2023
+  > ...they if you need to file for permission okay I don't know offhand I can ask our drone Pilots but I'm not going to be in for the next one...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IhrvF7LCxQI&t=1313s)  _(term: drone, unreviewed)_
 
 - **[2023-03-11] Board of Assessment Appeals** -- Board of Assessment Appeals - Part 1 - 3.11.2023
   > ...built a little angled wall here and and angle it at this point and put it along drone Road in an angled the boom road to the north this property is still down property there's nothing ever said this...
@@ -440,16 +456,20 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fl8I6JfNzL4&t=5137s)  _(term: drone, unreviewed)_
 
 - **[2022-07-05] Conservation Commission** -- Conservation Commission - 7.5.2022
-  > ...is not per is not permitted so what if someone just wants to go and and run their drone up and down and do stuff you know what i mean in the permitted...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fl8I6JfNzL4&t=5209s)  _(term: drone, unreviewed)_
-
-- **[2022-07-05] Conservation Commission** -- Conservation Commission - 7.5.2022
   > ...i think the problem with any drone is it's going to have to be above the level of preserve because...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fl8I6JfNzL4&t=5285s)  _(term: drone, unreviewed)_
+
+- **[2022-07-05] Conservation Commission** -- Conservation Commission - 7.5.2022
+  > ...is not per is not permitted so what if someone just wants to go and and run their drone up and down and do stuff you know what i mean in the permitted...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Fl8I6JfNzL4&t=5209s)  _(term: drone, unreviewed)_
 
 - **[2022-02-22] Planning & Zoning Commission** -- Planning and Zoning - 2.22.2022
   > ...no you had it you had you had to redo them but they they produced a ton of water yeah so you know that the drone was just tapping the river there were water tests...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=H9qf8e8ntik&t=2040s)  _(term: drone, unreviewed)_
+
+- **[2020-07-21] Inland Wetlands and Watercourses Commission** -- Inland Wetlands - 07.21.2020
+  > ...item a continued w20-06 at [address redacted] uh the robert drone excuse me robert doan is the agent marilyn kinsel the owner...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ys3632J9gMw&t=160s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -631,8 +651,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 34
-- Videos registered: 1646 (fetched: 1348, no captions: 21)
-- Date range covered: 2018-03-20 to 2026-09-14 (all 1646 videos dated)
+- Videos registered: 1654 (fetched: 1464, no captions: 22)
+- Date range covered: 2018-03-20 to 2026-09-24 (all 1654 videos dated)
 
 
 ### Channels
@@ -646,8 +666,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| east_haddam_ct | streams | 2026-09-10 13:41:24.246717 | 1417 |
-| east_haddam_ct | videos | 2026-09-10 13:41:05.542516 | 227 |
+| east_haddam_ct | streams | 2026-09-25 15:10:29.354169 | 1423 |
+| east_haddam_ct | videos | 2026-09-25 15:10:09.985119 | 227 |
 
 
 ## Registered meeting bodies
@@ -661,29 +681,29 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Board of Education | education | True | 1 |
 | Agriculture Commission | other | True | 25 |
 | Board of Assessment Appeals | other | True | 7 |
-| Board of Selectmen | other | True | 269 |
+| Board of Selectmen | other | True | 270 |
 | Broadband Committee | other | True | 56 |
 | Cemetery Committee | other | True | 41 |
 | Conservation Commission | other | True | 88 |
 | East Haddam Village Revitalization Committee | other | True | 18 |
-| Economic Development Commission | other | True | 75 |
+| Economic Development Commission | other | True | 76 |
 | Ethics Commission | other | True | 23 |
 | Freedom of Information Workshop | other | True | 3 |
 | Goodspeed Airport Eval Committee | other | True | 6 |
 | Historic District Commission | other | True | 42 |
-| Inland Wetlands and Watercourses Commission | other | True | 82 |
-| Library Committees | other | True | 94 |
+| Inland Wetlands and Watercourses Commission | other | True | 83 |
+| Library Committees | other | True | 95 |
 | Open Space Committee | other | True | 29 |
 | Planning & Zoning Commission | other | True | 144 |
 | Public Information Meeting | other | True | 53 |
 | Recreation Commission | other | True | 32 |
-| Redevelopment Agency | other | True | 59 |
+| Redevelopment Agency | other | True | 61 |
 | Sustainability / Climate Resiliency | other | True | 45 |
 | Swing Bridge Project | other | True | 1 |
 | Town Meeting | other | True | 32 |
 | Tri-Board Meeting | other | True | 3 |
-| USA 250 Celebration Committee | other | True | 14 |
-| Water Pollution Control Authority | other | True | 29 |
+| USA 250 Celebration Committee | other | True | 15 |
+| Water Pollution Control Authority | other | True | 30 |
 | Zoning Board of Appeals | other | True | 38 |
 | Board of Fire Commissioners | public_safety | True | 70 |
 | Moodus Firehouse Committee | public_safety | True | 35 |
@@ -718,14 +738,14 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (21 shown, max 25)
+### Videos with no captions available (22 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| Planning & Zoning Commission - 9.8.2026 | 2026-09-08 |
-| Redevelopment Agency - 8.27.2026 | 2026-08-27 |
 | Redevelopment Agency - 7.9.2026 | 2026-07-09 |
 | Conservation Commission - 7.7.2026 | 2026-07-07 |
+| Moodus Firehouse Building Committee - 5.27.2026 | 2026-05-27 |
+| Moodus Firehouse Building Committee - 5.26.2026 | 2026-05-26 |
 | Planning & Zoning Commission - 5.26.2026 | 2026-05-26 |
 | Recreation Commission - 12.15.2025 | 2025-12-15 |
 | Recreation Commission - 6.16.2025 | 2025-06-16 |
@@ -739,10 +759,11 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Broadband Implementation Committee - 9.22.2023 | 2023-09-22 |
 | Budget Town Meeting -  8.29.2023 | 2023-08-29 |
 | Board of Selectman 8.16.2023 | 2023-08-16 |
-| Budget Public Hearing -  8.16.2023 | 2023-08-16 |
 | Board of Finance -  8.16.2023 | 2023-08-16 |
+| Budget Public Hearing -  8.16.2023 | 2023-08-16 |
 | Redevelopment Agency - 12.8.2022 | 2022-12-08 |
 | Inland Wetlands - 8.16.2022 | 2022-08-16 |
+| East Haddam Village Revitalization Committee - 07.29.2020 | 2020-07-29 |
 
 
 ### Tabs never crawled
@@ -784,5 +805,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:50:34 from East Haddam's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:53:38 from East Haddam's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

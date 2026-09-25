@@ -1,9 +1,9 @@
 # Surveillance-tech report: Plainville
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -21,10 +21,10 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">2019–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2019-04-08 → 2026-08-17</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Doorbell-camera partnerships, Drones</span></a>
 <a class="glance-card" href="../../../analysis/towns/plainville-alpr-searches.html"><span class="gc-big">379</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Plainville police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">72%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">236 of 326 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">82%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">271 of 329 meetings</span></a>
 </div>
 
-**Not the full history:** transcripts begin **2019-04-08**, but Plainville's published video archive goes back to **2017-01-17**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+**Not the full history:** transcripts begin **2018-05-14**, but Plainville's published video archive goes back to **2017-01-17**. Meetings before 2018 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 This report collects every mention of surveillance technology found in **Plainville**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -85,7 +85,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 19 meetings surfaced a finding (19 dated, spanning 2019-04-08 to 2026-08-17; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-17.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-17.*
 
 ??? note "Earlier meetings (19)"
 
@@ -516,8 +516,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 8
-- Videos registered: 326 (fetched: 236, no captions: 1)
-- Date range covered: 2017-01-17 to 2026-09-08 (all 326 videos dated)
+- Videos registered: 329 (fetched: 271, no captions: 1)
+- Date range covered: 2017-01-17 to 2026-09-22 (all 329 videos dated)
 
 
 ### Channels
@@ -531,8 +531,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| nutmeg_tv | streams | 2026-09-10 11:37:23.451548 | 3 |
-| nutmeg_tv | videos | 2026-09-10 11:37:22.711081 | 5289 |
+| nutmeg_tv | streams | 2026-09-25 15:38:33.671540 | 3 |
+| nutmeg_tv | videos | 2026-09-25 15:38:32.776262 | 5316 |
 
 
 ## Registered meeting bodies
@@ -540,11 +540,11 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Town Budget Meeting / Public Hearing | budget_finance | True | 8 |
-| Town Council | council | True | 257 |
+| Town Council | council | True | 258 |
 | Board of Education | education | True | 30 |
 | Charter Revision Commission | other | True | 4 |
 | Inland Wetlands and Watercourses Commission | other | True | 7 |
-| Planning and Zoning Commission | other | True | 13 |
+| Planning and Zoning Commission | other | True | 15 |
 | Water Pollution Control Authority | other | True | 2 |
 | Zoning Board of Appeals | other | True | 5 |
 
@@ -624,5 +624,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:01:17 from Plainville's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:07:15 from Plainville's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

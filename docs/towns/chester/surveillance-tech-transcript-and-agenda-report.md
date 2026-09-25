@@ -1,9 +1,9 @@
 # Surveillance-tech report: Chester
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,17 +14,20 @@
 
 ## At a glance: Chester
 
-<p class="glance-headline"><strong>No surveillance-technology mentions</strong> found yet in 61 transcribed Chester meetings</p>
+<p class="glance-headline"><strong>3 mentions</strong> of surveillance technology in <strong>1</strong> Chester meeting, 2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#coverage-status"><span class="gc-big">84%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">61 of 73 meetings</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">3</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 1 meeting · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2026-09-16 → 2026-09-16</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">97%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">76 of 78 meetings</span></a>
 </div>
-
-**Still incomplete:** 12 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **Chester**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
-**No surveillance-technology mentions have been found in this town's meetings yet.** That is not the same as none existing -- read the coverage note below, and [Gaps and caveats](#gaps-and-caveats), before treating this as an answer about the town.
+Start with [Timeline](#timeline) to read the discussion in order, or [Findings by topic](#findings-by-topic) to jump to one technology.
+
+> Mentions are found by keyword and are **not** individually verified. A mention means the words were spoken at a public meeting -- not that the town uses, bought, or approved the technology. Read the quote and watch the clip before drawing a conclusion.
 
 
 ## Contents
@@ -44,14 +47,26 @@ This report collects every mention of surveillance technology found in **Chester
 
 ## Mentions by topic: first seen / most recent
 
-*No surveillance-technology mentions found in this town's transcribed meetings yet.*
+| Topic | Mentions | Meetings | First seen | Most recent |
+| --- | --- | --- | --- | --- |
+| [ALPR / Flock](#alpr) | 3 | 1 | 2026-09-16 | 2026-09-16 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-No meetings have surfaced a finding yet.
+1 meetings surfaced a finding (1 dated, spanning 2026-09-16 to 2026-09-16; 0 of unknown date, listed last). Newest first.
+
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+
+### 2026-09-16 -- Selectboard
+
+**Selectboard 9/16/26** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=bso7Ts7LYhA&t=9605s)  > ...out a text. So um it has no many people have approached me about flock devices. These are not the flock camera systems. There is no video. There is no recording....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=bso7Ts7LYhA&t=9608s)  > ...So um it has no many people have approached me about flock devices. These are not the flock camera systems. There is no video. There is no recording. There is no listening. It is truly a...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=bso7Ts7LYhA&t=9693s)  > ...They're totally private. They can't be >> in And in fact, they're just the opposite of the flock thing where they're doing gathering information, they're to keep information private....
 
 
 ## Findings by topic
@@ -63,7 +78,17 @@ No meetings have surfaced a finding yet.
 
 ### alpr
 
-*(no findings)*
+- **[2026-09-16] Selectboard** -- Selectboard 9/16/26
+  > ...They're totally private. They can't be >> in And in fact, they're just the opposite of the flock thing where they're doing gathering information, they're to keep information private....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bso7Ts7LYhA&t=9693s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-16] Selectboard** -- Selectboard 9/16/26
+  > ...So um it has no many people have approached me about flock devices. These are not the flock camera systems. There is no video. There is no recording. There is no listening. It is truly a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bso7Ts7LYhA&t=9608s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-16] Selectboard** -- Selectboard 9/16/26
+  > ...out a text. So um it has no many people have approached me about flock devices. These are not the flock camera systems. There is no video. There is no recording....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bso7Ts7LYhA&t=9605s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -268,8 +293,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 73 (fetched: 61, no captions: 2)
-- Date range covered: 2025-08-19 to 2026-09-02 — **based on the 71 of 73 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 78 (fetched: 76, no captions: 2)
+- Date range covered: 2025-08-19 to 2026-09-23 (all 78 videos dated)
 
 
 ### Channels
@@ -283,7 +308,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| chester_ct | videos | 2026-09-10 13:40:46.641388 | 74 |
+| chester_ct | videos | 2026-09-25 16:08:24.230882 | 79 |
 
 
 ## Registered meeting bodies
@@ -291,22 +316,22 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Assessors | budget_finance | True | 1 |
-| Board of Tax Abatement | budget_finance | True | 7 |
+| Board of Tax Abatement | budget_finance | True | 8 |
 | Trustees of Public Funds | budget_finance | True | 3 |
 | Board of Civil Authority | other | True | 1 |
 | Development Review Board | other | True | 5 |
-| Economic Development Commission | other | True | 9 |
-| Housing Commission | other | True | 10 |
-| Planning Commission | other | True | 11 |
-| Selectboard | other | True | 25 |
+| Economic Development Commission | other | True | 10 |
+| Housing Commission | other | True | 11 |
+| Planning Commission | other | True | 12 |
+| Selectboard | other | True | 26 |
 | Town Meeting | other | True | 1 |
 
 
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 16 (fetched: 16)
-- Date range covered: 2026-01-12 to 2026-09-14
+- Documents registered: 18 (fetched: 18)
+- Date range covered: 2026-01-12 to 2026-10-19
 
 
 ### Agenda sources
@@ -378,5 +403,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:48:44 from Chester's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:51:34 from Chester's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

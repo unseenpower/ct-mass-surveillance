@@ -1,9 +1,9 @@
 # Surveillance-tech report: East Hampton
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,11 +20,11 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">43</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 11 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2021–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-03-27 → 2026-06-09</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">55%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">136 of 247 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">55%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">136 of 248 meetings</span></a>
 <a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">6</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
-**Still incomplete:** 111 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+**Still incomplete:** 112 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **East Hampton**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -64,7 +64,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 11 meetings surfaced a finding (11 dated, spanning 2021-03-27 to 2026-06-09; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-06-09.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-06-09.*
 
 ??? note "Earlier meetings (11)"
 
@@ -600,8 +600,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 13
-- Videos registered: 247 (fetched: 136, no captions: 1)
-- Date range covered: 2020-03-24 to 2026-09-08 (all 247 videos dated)
+- Videos registered: 248 (fetched: 136, no captions: 1)
+- Date range covered: 2020-03-24 to 2026-09-22 (all 248 videos dated)
 
 
 ### Channels
@@ -615,8 +615,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| east_hampton_ct | streams | 2026-09-10 11:57:28.618955 | 190 |
-| east_hampton_ct | videos | 2026-09-10 11:57:25.578226 | 62 |
+| east_hampton_ct | streams | 2026-09-25 15:56:46.377083 | 191 |
+| east_hampton_ct | videos | 2026-09-25 15:56:43.277199 | 62 |
 
 
 ## Registered meeting bodies
@@ -628,7 +628,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Clean Energy Task Force | other | True | 1 |
 | Freedom of Information Workshop | other | True | 1 |
 | Planning & Zoning Commission | other | True | 6 |
-| Town Council | other | True | 160 |
+| Town Council | other | True | 161 |
 | Town Meeting | other | True | 1 |
 | Tri-Board Meeting | other | True | 8 |
 | Water Committee | other | True | 1 |
@@ -641,8 +641,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 173 (fetched: 168)
-- Date range covered: 2025-01-06 to 2026-09-08
+- Documents registered: 182 (fetched: 177)
+- Date range covered: 2025-01-06 to 2026-09-29
 
 
 ### Agenda sources
@@ -711,5 +711,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:50:45 from East Hampton's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:53:53 from East Hampton's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

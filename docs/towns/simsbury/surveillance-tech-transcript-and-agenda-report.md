@@ -1,9 +1,9 @@
 # Surveillance-tech report: Simsbury
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,15 +14,15 @@
 
 ## At a glance: Simsbury
 
-<p class="glance-headline"><strong>64 mentions</strong> of surveillance technology in <strong>39</strong> Simsbury meetings, 2018–2026</p>
+<p class="glance-headline"><strong>86 mentions</strong> of surveillance technology in <strong>45</strong> Simsbury meetings, 2015–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">64</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 39 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2018–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2018-03-28 → 2026-08-10</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">86</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 45 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2015–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2015-06-01 → 2026-09-14</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/simsbury-alpr-searches.html"><span class="gc-big">2,716</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Simsbury police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">69%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">1,295 of 1,873 meetings</span></a>
-<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">6</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">84%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">1,577 of 1,881 meetings</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">9</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2012-08-31**, but Simsbury's published video archive goes back to **2011-11-08**. Meetings before 2012 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -74,9 +74,9 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| [ALPR / Flock](#alpr) | 22 | 13 | 2018-09-17 | 2026-08-10 |
+| [ALPR / Flock](#alpr) | 39 | 15 | 2018-09-17 | 2026-09-14 |
 | [Body cameras](#body_camera) | 8 | 8 | 2020-06-22 | 2024-06-10 |
-| [Drones](#drone) | 33 | 22 | 2018-03-28 | 2026-03-18 |
+| [Drones](#drone) | 38 | 26 | 2015-06-01 | 2026-03-18 |
 | [General surveillance](#surveillance_general) | 1 | 1 | 2024-09-10 | 2024-09-10 |
 
 
@@ -84,17 +84,44 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 <!-- report-polish v1 -->
 
-39 meetings surfaced a finding (39 dated, spanning 2018-03-28 to 2026-08-10; 0 of unknown date, listed last). Newest first.
+45 meetings surfaced a finding (45 dated, spanning 2015-06-01 to 2026-09-14; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-10.*
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
 
-??? note "Earlier meetings (39)"
+### 2026-09-14 -- Board of Selectmen
+
+**Board of Selectmen Meeting - September 14, 2026** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1432s)  > ...>> Thank you. Um, I think Nick B come up. Everyone's favorite topic, flock cameras. First, we had just two that were approved and nobody would blame the...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1545s)  > ...communities. We don't need to hear it here. All the issues with flock cameras are wellknown. least of which is this the traffic safety. The fact that they're...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1566s)  > ...required to by the state of Connecticut and many other states across the country. Not flock cameras. They just put a standard solid pole in and help good luck if you happen to hit one. It's...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1780s)  > ...they can track their kids. Uh, another one was, oh, hey, let's put the one of these flock cameras without a breakaway base in front of a kids playground with a splash pad so you can see the kids in...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1824s)  > ...no signage on it because they don't want people knowing where they are and it's not just flock cameras unfortunately. Um this type flock is the name because people associate it with it like Xerox...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1827s)  > ...people knowing where they are and it's not just flock cameras unfortunately. Um this type flock is the name because people associate it with it like Xerox for for example like photocopies um but...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1959s)  > ...report. So, I was going to people have just left so they're not going to hear what I had to say about the flock cameras. And so, we've heard from multiple people or various members of...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1965s)  > ...multiple people or various members of the board. Some of the members of the board have heard um about flock cameras. I've had conversations with the chief and the town manager as have others on...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1979s)  > ...one of the things that we did ask for was that the governor had asked to to optionally not install um, the flock and we have one left to be installed. So, we have actually just asked to to slow that...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=2019s)  > ...of police has promised to come to our next meeting to give um kind of an overview on flock to everybody to make sure that the miss any misinformation um discussion that's going on outside of...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=2046s)  > ...Um I'm including in my first selectman's report two links. One is to pretty much the automated license plate reader policy that the chief has on the town police website and it explains why we...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=2240s)  > ...>> Thank you, Chair. Uh, just a quick thank you to board members who have already engaged with Chief Bolter on the flock issue and uh just out there again for those that haven't had a chance uh to to...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=2553s)  > ...roster. Um they received their t tier one accrediting. Um they uh so with this flock camera issue um they uh offered up on October 1st to change from 30 days that they they keep information to 21...
+
+### 2026-09-14 -- Police Commission
+
+**Police Commission Meeting - September 14, 2026** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=f-tUKr2uTeY&t=751s)  > ...>> I'm moving on to the review of proposed updates to the general orders. As you recall, we have an automated license plate recognition system and a general order that um...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=f-tUKr2uTeY&t=853s)  > ...case number every time that u a search is done through that LPR system. Not only do we require it, but Flock requires it. You can't get any further in the search process without putting in...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=f-tUKr2uTeY&t=882s)  > ...control over because the law changes on October one um and we can't control the retention period. Flock will do that automatically. And then also um it is designating uh all the data confidential...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=f-tUKr2uTeY&t=1011s)  > ...>> Get a motion. Uh, I move to approve effective October 1st the updated or amended automated license plate recognition system general order 41-2....
+
+??? note "Earlier meetings (43)"
 
     **2026-08-10 -- Board of Selectmen**
 
     **Board of Selectmen Meeting - August 10, 2026** _(topics: alpr)_
 
-    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oqK05SdmAdU&t=2182s)  > ...[clears throat] >> Brian Smith, 7 Wintergreen. Um, I'm here today to talk about the flock cameras in town. Uh, I don't know if any of you guys are aware of them or not. Um, but...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oqK05SdmAdU&t=2182s)  > ...[clears throat] >> Brian Smith, [address redacted]. Um, I'm here today to talk about the flock cameras in town. Uh, I don't know if any of you guys are aware of them or not. Um, but...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=oqK05SdmAdU&t=2200s)  > ...the more important thing to me and a lot of other people in town is that we rent the cameras from a company named Flock. Um, and they're actually operating the cameras and doing whatever they want...
 
     **2026-04-08 -- Police Commission**
@@ -349,6 +376,31 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=zmQjGd6I1h0&t=4601s)  > ...point and the other thing that's sort of out there it's more like a line item is tar town a drone and we do know that that's at risk this year but that's generally how we fund small equipment...
 
+    **2017-11-13 -- Board of Selectmen**
+
+    **Board of Selectmen Meeting November 13, 2017** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=w50WAWGCpKQ&t=386s)  > ...Thank You Joan it's been over five minutes it says I'm a Chinese rapid ugly I live in a drone Thank You Joan Allen in the police department could use a drone to surveillance and tracking feet...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=w50WAWGCpKQ&t=390s)  > ...I live in a drone Thank You Joan Allen in the police department could use a drone to surveillance and tracking feet Joan you are speaking be AMA with you have the residents I just want to say...
+
+    **2017-08-14 -- Board of Selectmen**
+
+    **Board of Selectmen Meeting August 14, 2017** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=IrEux_D6yeQ&t=7929s)  > ...indicated that they'll be driving around the neighborhood's in that area they are deep water wind did offer to do a drone oversight of the area so we do anticipate the sighting council members...
+
+    **2017-05-24 -- Board of Finance**
+
+    **Board of Finance Special Meeting May 24, 2017** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=0-hf63crbfg&t=6002s)  > ...TR couldn't I BR the laptop into the room and use a wire and hook it up yeah we have a drone for this robot so should we talk about this stuff maybe and try to get through this while...
+
+    **2015-06-01 -- Zoning Commission**
+
+    **Zoning Commission Meeting June 1, 2015** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=aWfq-9K75YA&t=1320s)  > ...property we're going to sell the property on ironworks Boulevard obviously the shop is there is a drone bar in there is about 17,000 square feet replacing with around 20,000 square feet...
+
 
 ## Findings by topic
 
@@ -359,8 +411,76 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### alpr
 
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Meeting - September 14, 2026
+  > ...people knowing where they are and it's not just flock cameras unfortunately. Um this type flock is the name because people associate it with it like Xerox for for example like photocopies um but...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1827s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Meeting - September 14, 2026
+  > ...>> Thank you. Um, I think Nick B come up. Everyone's favorite topic, flock cameras. First, we had just two that were approved and nobody would blame the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1432s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Meeting - September 14, 2026
+  > ...multiple people or various members of the board. Some of the members of the board have heard um about flock cameras. I've had conversations with the chief and the town manager as have others on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1965s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Meeting - September 14, 2026
+  > ...no signage on it because they don't want people knowing where they are and it's not just flock cameras unfortunately. Um this type flock is the name because people associate it with it like Xerox...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1824s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Meeting - September 14, 2026
+  > ...roster. Um they received their t tier one accrediting. Um they uh so with this flock camera issue um they uh offered up on October 1st to change from 30 days that they they keep information to 21...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=2553s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Police Commission** -- Police Commission Meeting - September 14, 2026
+  > ...>> Get a motion. Uh, I move to approve effective October 1st the updated or amended automated license plate recognition system general order 41-2....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=f-tUKr2uTeY&t=1011s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Meeting - September 14, 2026
+  > ...one of the things that we did ask for was that the governor had asked to to optionally not install um, the flock and we have one left to be installed. So, we have actually just asked to to slow that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1979s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Meeting - September 14, 2026
+  > ...they can track their kids. Uh, another one was, oh, hey, let's put the one of these flock cameras without a breakaway base in front of a kids playground with a splash pad so you can see the kids in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1780s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Police Commission** -- Police Commission Meeting - September 14, 2026
+  > ...>> I'm moving on to the review of proposed updates to the general orders. As you recall, we have an automated license plate recognition system and a general order that um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=f-tUKr2uTeY&t=751s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Meeting - September 14, 2026
+  > ...of police has promised to come to our next meeting to give um kind of an overview on flock to everybody to make sure that the miss any misinformation um discussion that's going on outside of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=2019s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Meeting - September 14, 2026
+  > ...required to by the state of Connecticut and many other states across the country. Not flock cameras. They just put a standard solid pole in and help good luck if you happen to hit one. It's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1566s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Meeting - September 14, 2026
+  > ...communities. We don't need to hear it here. All the issues with flock cameras are wellknown. least of which is this the traffic safety. The fact that they're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1545s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Meeting - September 14, 2026
+  > ...>> Thank you, Chair. Uh, just a quick thank you to board members who have already engaged with Chief Bolter on the flock issue and uh just out there again for those that haven't had a chance uh to to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=2240s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Police Commission** -- Police Commission Meeting - September 14, 2026
+  > ...control over because the law changes on October one um and we can't control the retention period. Flock will do that automatically. And then also um it is designating uh all the data confidential...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=f-tUKr2uTeY&t=882s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Police Commission** -- Police Commission Meeting - September 14, 2026
+  > ...case number every time that u a search is done through that LPR system. Not only do we require it, but Flock requires it. You can't get any further in the search process without putting in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=f-tUKr2uTeY&t=853s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Meeting - September 14, 2026
+  > ...Um I'm including in my first selectman's report two links. One is to pretty much the automated license plate reader policy that the chief has on the town police website and it explains why we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=2046s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Meeting - September 14, 2026
+  > ...report. So, I was going to people have just left so they're not going to hear what I had to say about the flock cameras. And so, we've heard from multiple people or various members of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=M5nP2lXa1u8&t=1959s)  _(term: alpr_flock, unreviewed)_
+
 - **[2026-08-10] Board of Selectmen** -- Board of Selectmen Meeting - August 10, 2026
-  > ...[clears throat] >> Brian Smith, 7 Wintergreen. Um, I'm here today to talk about the flock cameras in town. Uh, I don't know if any of you guys are aware of them or not. Um, but...
+  > ...[clears throat] >> Brian Smith, [address redacted]. Um, I'm here today to talk about the flock cameras in town. Uh, I don't know if any of you guys are aware of them or not. Um, but...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=oqK05SdmAdU&t=2182s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-10] Board of Selectmen** -- Board of Selectmen Meeting - August 10, 2026
@@ -368,12 +488,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=oqK05SdmAdU&t=2200s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-08] Police Commission** -- Police Commission Meeting - April 8, 2026
-  > ...>> Okay. >> Next is general order 41-2, the automated license plate recognition system. Do I have motion to approve that?...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qImsXlvBhLA&t=1013s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-04-08] Police Commission** -- Police Commission Meeting - April 8, 2026
   > ...>> um could you just share with us a little bit for the public about uh what we are doing where the flock does not have the same limitations and how we are addressing that just so we have it on...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=qImsXlvBhLA&t=1090s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-08] Police Commission** -- Police Commission Meeting - April 8, 2026
+  > ...>> Okay. >> Next is general order 41-2, the automated license plate recognition system. Do I have motion to approve that?...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qImsXlvBhLA&t=1013s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-04-08] Police Commission** -- Police Commission Meeting - April 8, 2026
   > ...common with uh NCIC checks and collective furries things like that. So currently flock which is our vendor has provided a popup there every time somebody opens it up uh saying that they...
@@ -392,20 +512,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=x6tCRPUWhbU&t=1133s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-10-18] Police Commission** -- Police Commission Meeting - October 18, 2024
-  > ...things like look at yeah in traffic unregistered vehicles I move to approve the automated license plate recognition system 41-2 effective today October...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=986s)  _(term: alpr_flock, unreviewed)_
+  > ...to give credit to a couple of the lieutenants for U their significant work on this uh alpr system uh policy uh there was nothing to follow there was no State mandate on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=821s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-10-18] Police Commission** -- Police Commission Meeting - October 18, 2024
-  > ...or has a person in there who needs to be checked on um so we have had the uh the flock cameras out there uh now for several months and the um dash cameras out there for several months I'm going...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=808s)  _(term: alpr_flock, unreviewed)_
+  > ...things like look at yeah in traffic unregistered vehicles I move to approve the automated license plate recognition system 41-2 effective today October...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=986s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-10-18] Police Commission** -- Police Commission Meeting - October 18, 2024
   > ...effective October 16 all in favor so the second one is the automated license plate recognition systems um and both of these um devices or or tools...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=723s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-10-18] Police Commission** -- Police Commission Meeting - October 18, 2024
-  > ...to give credit to a couple of the lieutenants for U their significant work on this uh alpr system uh policy uh there was nothing to follow there was no State mandate on...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=821s)  _(term: alpr_flock, unreviewed)_
+  > ...or has a person in there who needs to be checked on um so we have had the uh the flock cameras out there uh now for several months and the um dash cameras out there for several months I'm going...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_D4oqanspxI&t=808s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-10-16] Board of Selectmen** -- Board of Selectmen Meeting - October 16, 2024
   > ...lunch which was great um they've also implemented a new are they signed today a new License Plate Reader so as you drive down the street it automatically takes pictures of your license and looks...
@@ -571,16 +691,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DQlih0q5qBc&t=3056s)  _(term: drone, unreviewed)_
 
 - **[2021-10-07] Open Space Committee** -- Open Space Committee Meeting - October 7, 2021
+  > ...i'm hoping for the um ribbon cutting um of securing somebody who um has a a drone to take a nice uh aerial picture um just trying to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5c2C_lfr1I4&t=509s)  _(term: drone, unreviewed)_
+
+- **[2021-10-07] Open Space Committee** -- Open Space Committee Meeting - October 7, 2021
   > ...picked up by the fire department he's um the photographer for the fire department but he's got a drone and stuff so i'll pitch it to him he hopefully he's not traveling that weekend but he um he does...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5c2C_lfr1I4&t=533s)  _(term: drone, unreviewed)_
 
 - **[2021-10-07] Open Space Committee** -- Open Space Committee Meeting - October 7, 2021
   > ...try to think about um how cool that would look so if anyone knows anybody with a drone uh who's capable of keeping it in the air that would be um let me know...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5c2C_lfr1I4&t=518s)  _(term: drone, unreviewed)_
-
-- **[2021-10-07] Open Space Committee** -- Open Space Committee Meeting - October 7, 2021
-  > ...i'm hoping for the um ribbon cutting um of securing somebody who um has a a drone to take a nice uh aerial picture um just trying to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5c2C_lfr1I4&t=509s)  _(term: drone, unreviewed)_
 
 - **[2021-06-01] Conservation Commission** -- Conservation Commission Meeting - June 1, 2021
   > ...but this is the site that uh we have where this is actually we did a brand new drone flight for this uh site to um check the topography um...
@@ -598,10 +718,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   > ...against some certain areas for uh getting eyes on these problems if accessing an issue would a drone be helpful oh that might work but it's pretty...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=FI6DS1dAW_Y&t=3860s)  _(term: drone, unreviewed)_
 
-- **[2020-07-19] Zoning Commission** -- Zoning Commission Meeting - July 19, 2020
-  > ...with this project what you're looking at on the screen right now is a drone survey of a period in time in which the site was...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-gxiy57sBDA&t=3594s)  _(term: drone, unreviewed)_
-
 - **[2020-07-19] Design Review Board** -- Design Review Board Meeting - July 19, 2020
   > ...far as color we also were able to incorporate the um drone footage around the perimeter so if you're looking at this it looks like real trees around the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=noC6Yg7tVsE&t=1968s)  _(term: drone, unreviewed)_
@@ -610,17 +726,13 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   > ...it looks like real trees around the perimeter well it is it's it's uh it was float flown by zone by drone and we've just kind of uh placed this into the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=noC6Yg7tVsE&t=1977s)  _(term: drone, unreviewed)_
 
+- **[2020-07-19] Zoning Commission** -- Zoning Commission Meeting - July 19, 2020
+  > ...with this project what you're looking at on the screen right now is a drone survey of a period in time in which the site was...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-gxiy57sBDA&t=3594s)  _(term: drone, unreviewed)_
+
 - **[2020-03-09] Board of Selectmen** -- Board of Selectmen Meeting - March 9, 2020
   > ...we don't need to prioritize town aid Road unless one of those projects drops down into town a drone or okay so it's not we just I'm sorry just can you just give us the quick 30...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=w9iXPIUBcz8&t=9171s)  _(term: drone, unreviewed)_
-
-- **[2019-04-15] Zoning Commission** -- Zoning Commission Meeting April 15, 2019
-  > ...with the notion of a balloon but I think there's a better technology out there to join it what do you do you fly the drone to 65 feet yep set it at 65 feet now you get you the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3_PYPV8lnI&t=1874s)  _(term: drone, unreviewed)_
-
-- **[2019-04-15] Zoning Commission** -- Zoning Commission Meeting April 15, 2019
-  > ...things that we need to they were elevated we used a drone with a camera and the drone screen has the elevation of the drone gyroscopes in them to hold them steady they don't move around in...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3_PYPV8lnI&t=1858s)  _(term: drone, unreviewed)_
 
 - **[2019-04-15] Zoning Commission** -- Zoning Commission Meeting April 15, 2019
   > ...set it at 65 feet now you get you the drone yeah the drone takes a picture with the camera it was like a GoPro camera on and it takes either a film a video or you...
@@ -631,8 +743,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3_PYPV8lnI&t=1880s)  _(term: drone, unreviewed)_
 
 - **[2019-04-15] Zoning Commission** -- Zoning Commission Meeting April 15, 2019
+  > ...with the notion of a balloon but I think there's a better technology out there to join it what do you do you fly the drone to 65 feet yep set it at 65 feet now you get you the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3_PYPV8lnI&t=1874s)  _(term: drone, unreviewed)_
+
+- **[2019-04-15] Zoning Commission** -- Zoning Commission Meeting April 15, 2019
   > ...elevated we used a drone with a camera and the drone screen has the elevation of the drone gyroscopes in them to hold them steady they don't move around in the wind like a balloon does etc etc I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3_PYPV8lnI&t=1861s)  _(term: drone, unreviewed)_
+
+- **[2019-04-15] Zoning Commission** -- Zoning Commission Meeting April 15, 2019
+  > ...things that we need to they were elevated we used a drone with a camera and the drone screen has the elevation of the drone gyroscopes in them to hold them steady they don't move around in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3_PYPV8lnI&t=1858s)  _(term: drone, unreviewed)_
 
 - **[2019-04-15] Zoning Commission** -- Zoning Commission Meeting April 15, 2019
   > ...looking at vertical verticality and some things that we need to they were elevated we used a drone with a camera and the drone screen has the elevation of the drone gyroscopes in them to hold...
@@ -641,6 +761,26 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2018-03-28] Board of Finance** -- Board of Finance Special Meeting March 28, 2018
   > ...point and the other thing that's sort of out there it's more like a line item is tar town a drone and we do know that that's at risk this year but that's generally how we fund small equipment...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=zmQjGd6I1h0&t=4601s)  _(term: drone, unreviewed)_
+
+- **[2017-11-13] Board of Selectmen** -- Board of Selectmen Meeting November 13, 2017
+  > ...Thank You Joan it's been over five minutes it says I'm a Chinese rapid ugly I live in a drone Thank You Joan Allen in the police department could use a drone to surveillance and tracking feet...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w50WAWGCpKQ&t=386s)  _(term: drone, unreviewed)_
+
+- **[2017-11-13] Board of Selectmen** -- Board of Selectmen Meeting November 13, 2017
+  > ...I live in a drone Thank You Joan Allen in the police department could use a drone to surveillance and tracking feet Joan you are speaking be AMA with you have the residents I just want to say...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=w50WAWGCpKQ&t=390s)  _(term: drone, unreviewed)_
+
+- **[2017-08-14] Board of Selectmen** -- Board of Selectmen Meeting August 14, 2017
+  > ...indicated that they'll be driving around the neighborhood's in that area they are deep water wind did offer to do a drone oversight of the area so we do anticipate the sighting council members...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IrEux_D6yeQ&t=7929s)  _(term: drone, unreviewed)_
+
+- **[2017-05-24] Board of Finance** -- Board of Finance Special Meeting May 24, 2017
+  > ...TR couldn't I BR the laptop into the room and use a wire and hook it up yeah we have a drone for this robot so should we talk about this stuff maybe and try to get through this while...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=0-hf63crbfg&t=6002s)  _(term: drone, unreviewed)_
+
+- **[2015-06-01] Zoning Commission** -- Zoning Commission Meeting June 1, 2015
+  > ...property we're going to sell the property on ironworks Boulevard obviously the shop is there is a drone bar in there is about 17,000 square feet replacing with around 20,000 square feet...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=aWfq-9K75YA&t=1320s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -709,11 +849,52 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### alpr
 
+- **[2026-09-28] Board of Selectmen** -- Board of Selectmen Agenda - 2026-09-28 (agenda)
+  > ....
+            Friends of the Simsbury Public Library Room, Simsbury Public Library
+                         725 Hopmeadow Street, Simsbury, CT 06070
+
+CALL TO ORDER
+
+PLEDGE OF ALLEGIANCE
+
+PRESENTATION
+License Plate Reader Presentation by Police Chief Nicholas Boulter
+
+PUBLIC AUDIENCE
+ Email townmanager@simsbury-ct.gov by noon on Monday, September 28, 2026 to register
+  to address the Board of Sele...
+  [View document ▸](https://www.simsbury-ct.gov/AgendaCenter/ViewFile/Agenda/_09282026-1449)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Minutes - 2026-09-14 (minutes)
+  > ...OF SIMSBURY – BOARD OF SELECTMEN
+     REGULAR MEETING MINUTES – SEPTEMBER 14, 2026
+                                              Page |2
+
+50
+51   Nicholas Criscitelli, [address redacted], spoke about Flock cameras and leaf blowers.
+52
+53   Paula Rudy, [address redacted], spoke about Flock cameras and leaf blowers.
+54
+55   CONSENT AGENDA (31:37)
+56
+57   Mr. Beal made a motion, effective September 1...
+  [View document ▸](https://www.simsbury-ct.gov/AgendaCenter/ViewFile/Minutes/_09142026-1435)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-14] Board of Selectmen** -- Board of Selectmen Agenda - 2026-09-14 (agenda)
+  > ...e this letter and explained some issues she has
+ 99   been having there. She went through some questions she said she had asked on July 13th.
+100
+101   Brian Smith, [address redacted], spoke about the six flock cameras that we have in Town. He said
+102   we rent these cameras, and they can do whatever they want to with the data they get from
+103   them, even sell the data. He said there are a lot of To...
+  [View document ▸](https://www.simsbury-ct.gov/AgendaCenter/ViewFile/Agenda/_09142026-1435)  _(term: alpr_flock, unreviewed)_
+
 - **[2026-08-10] Board of Selectmen** -- Board of Selectmen Minutes - 2026-08-10 (minutes)
   > ...e this letter and explained some issues she has
  99   been having there. She went through some questions she said she had asked on July 13th.
 100
-101   Brian Smith, 7 Wintergreen, spoke about the six flock cameras that we have in Town. He said
+101   Brian Smith, [address redacted], spoke about the six flock cameras that we have in Town. He said
 102   we rent these cameras, and they can do whatever they want to with the data they get from
 103   them, even sell the data. He said there are a lot of To...
   [View document ▸](https://www.simsbury-ct.gov/AgendaCenter/ViewFile/Minutes/_08102026-1406)  _(term: alpr_flock, unreviewed)_
@@ -861,8 +1042,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 23
-- Videos registered: 1873 (fetched: 1295, no captions: 6)
-- Date range covered: 2011-11-08 to 2026-09-08 — **based on the 1868 of 1873 videos that carry a parseable upload date**; the other 5 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 1881 (fetched: 1577, no captions: 130)
+- Date range covered: 2011-11-08 to 2026-09-22 — **based on the 1876 of 1881 videos that carry a parseable upload date**; the other 5 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -876,19 +1057,19 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| simsbury_community_media | streams | 2026-09-10 13:32:27.392271 | 2 |
-| simsbury_community_media | videos | 2026-09-10 13:32:26.652650 | 5294 |
+| simsbury_community_media | streams | 2026-09-25 16:06:59.439688 | 1 |
+| simsbury_community_media | videos | 2026-09-25 16:06:58.652908 | 5310 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 211 |
+| Board of Finance | budget_finance | True | 212 |
 | Board of Finance, Board of Selectmen, Board of Education Joint Meeting | budget_finance | True | 1 |
-| Board of Education | education | True | 219 |
+| Board of Education | education | True | 221 |
 | Aging & Disability Commission | other | True | 8 |
-| Board of Selectmen | other | True | 373 |
+| Board of Selectmen | other | True | 374 |
 | Charter Revision Commission | other | True | 45 |
 | Clean Energy Task Force | other | True | 18 |
 | Conservation Commission | other | True | 103 |
@@ -896,24 +1077,24 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Economic Development Commission | other | True | 71 |
 | Historic District Commission | other | True | 17 |
 | Juvenile Review Board | other | True | 4 |
-| Library Board | other | True | 26 |
+| Library Board | other | True | 27 |
 | Open Space Committee | other | True | 37 |
 | Planning Commission | other | True | 179 |
 | Public Building Committee | other | True | 49 |
 | Recycling Committee | other | True | 9 |
-| Sustainability Committee | other | True | 34 |
+| Sustainability Committee | other | True | 35 |
 | Technology Task Force | other | True | 19 |
 | Water Pollution Control Authority | other | True | 26 |
 | Zoning Board of Appeals | other | True | 31 |
-| Zoning Commission | other | True | 248 |
-| Police Commission | public_safety | True | 70 |
+| Zoning Commission | other | True | 249 |
+| Police Commission | public_safety | True | 71 |
 
 
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 369 (fetched: 334)
-- Date range covered: 2026-01-05 to 2026-09-16
+- Documents registered: 395 (fetched: 357)
+- Date range covered: 2026-01-05 to 2026-10-05
 
 
 ### Agenda sources
@@ -936,16 +1117,35 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (6 shown, max 25)
+### Videos with no captions available (25 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| Board of Education Meeting - September 8, 2026 | 2026-09-08 |
 | LIVE: Conservation Commission | 2026-08-19 |
 | Board of Education meeting - October 8th, 2019 | 2019-10-08 |
+| Board of Education Meeting May 9, 2017 | 2017-05-09 |
+| Planning Commission Meeting April 25, 2017 | 2017-04-25 |
+| Board of Education Meeting April 25, 2017 | 2017-04-25 |
+| Board of Finance Meeting April 18, 2017 | 2017-04-18 |
+| Board of Finance Public Hearing April 6, 2017 | 2017-04-06 |
+| Board of Education March 28, 2017 | 2017-03-28 |
+| Board of Finance Meeting March 21, 2017 | 2017-03-21 |
+| Planning Commission March 16, 2017 | 2017-03-16 |
+| Board of Selectmen Budget Workshop March 4, 2017 | 2017-03-04 |
+| Board of Selectmen Meeting February 27, 2017 | 2017-02-27 |
+| Planning Commission Meeting February 14, 2017 | 2017-02-14 |
+| Planning Commission Meeting January 24, 2017 | 2017-01-24 |
+| Planning Commission Meeting January 10, 2017 | 2017-01-10 |
+| Board of Selectmen Meeting January 9, 2017 | 2017-01-09 |
+| Planning Commission Meeting December 13, 2016 | 2016-12-13 |
+| Board of Selectmen Meeting December 12, 2016 | 2016-12-12 |
+| Zoning Commission Meeting December 5, 2016 | 2016-12-05 |
+| Board of Selectmen Meeting November 28, 2016 | 2016-11-28 |
+| Planning Commission Meeting November 22, 2016 | 2016-11-22 |
+| Zoning Commission Meeting November 21, 2016 | 2016-11-21 |
 | Conservation Commission/Inland Wetlands and Watercourse Agency Nov.15, 2016 | 2016-11-18 |
-| Board of Selectmen Public Hearing August 29,2016 | 2016-09-01 |
-| Economic Development Commission Meeting January 14. 2016 | 2016-01-14 |
+| Planning Commission Special Meeting November 3, 2016 | 2016-11-03 |
+| Board of Education Meeting October 25, 2016 | 2016-10-25 |
 
 
 ### Tabs never crawled
@@ -987,5 +1187,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:02:28 from Simsbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:08:31 from Simsbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

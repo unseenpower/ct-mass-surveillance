@@ -1,9 +1,9 @@
 # Surveillance-tech report: Stonington
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,14 +14,14 @@
 
 ## At a glance: Stonington
 
-<p class="glance-headline"><strong>23 mentions</strong> of surveillance technology in <strong>14</strong> Stonington meetings, 2020–2026</p>
+<p class="glance-headline"><strong>24 mentions</strong> of surveillance technology in <strong>15</strong> Stonington meetings, 2020–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">23</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 14 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2020–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2020-05-07 → 2026-08-26</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">24</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 15 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2020–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2020-05-07 → 2026-09-09</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Predictive policing, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/stonington-alpr-searches.html"><span class="gc-big">7,434</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Stonington police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">70%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">274 of 390 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">70%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">275 of 391 meetings</span></a>
 </div>
 
 **Still incomplete:** 116 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
@@ -73,7 +73,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| [ALPR / Flock](#alpr) | 11 | 5 | 2021-03-11 | 2026-08-26 |
+| [ALPR / Flock](#alpr) | 12 | 6 | 2021-03-11 | 2026-09-09 |
 | [Body cameras](#body_camera) | 4 | 3 | 2021-03-11 | 2026-03-30 |
 | [Drones](#drone) | 3 | 3 | 2021-03-10 | 2026-03-02 |
 | [Predictive policing](#predictive_policing) | 3 | 3 | 2020-05-07 | 2026-03-04 |
@@ -84,9 +84,15 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 <!-- report-polish v1 -->
 
-14 meetings surfaced a finding (14 dated, spanning 2020-05-07 to 2026-08-26; 0 of unknown date, listed last). Newest first.
+15 meetings surfaced a finding (15 dated, spanning 2020-05-07 to 2026-09-09; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-25** (through 2026-09-10, when this report was generated):
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+
+### 2026-09-09 -- Board of Selectmen
+
+**Board of Selectmen - 09.09.26** _(topics: alpr)_
+
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=AA1Jnoz6nOg&t=54s)  > ...>> Jessica Morrisy Stonington. Uh 43 years. I still want to know what your official stance is regarding data centers, flock, and ICE. >> We are going to cover all those things...
 
 ### 2026-08-26 -- Board of Selectmen
 
@@ -193,33 +199,37 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### alpr
 
-- **[2026-08-26] Board of Selectmen** -- Board of Selectmen - 08.26.26
-  > ...centers, flock, you name it. I'd like to know what your stance is. I understand that flock has been incorporated in the town of Stonington for a couple years now and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jS25JLlbdHg&t=1100s)  _(term: alpr_flock, unreviewed)_
+- **[2026-09-09] Board of Selectmen** -- Board of Selectmen - 09.09.26
+  > ...>> Jessica Morrisy Stonington. Uh 43 years. I still want to know what your official stance is regarding data centers, flock, and ICE. >> We are going to cover all those things...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AA1Jnoz6nOg&t=54s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-08-26] Board of Selectmen** -- Board of Selectmen - 08.26.26
   > ...question, what is the official stance from the town of Stonington on data centers, flock, you name it. I'd like to know what your stance is. I understand that flock has...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=jS25JLlbdHg&t=1095s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-26] Board of Selectmen** -- Board of Selectmen - 08.26.26
+  > ...centers, flock, you name it. I'd like to know what your stance is. I understand that flock has been incorporated in the town of Stonington for a couple years now and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jS25JLlbdHg&t=1100s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-30] Board of Finance** -- Board of Finance - 03.30.26
   > ...Um, we have we have to hire third party people to to find these security vulnerabilities and Flock's very quiet and um secretive about all of their technology which has been shown to be...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1467s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-30] Board of Finance** -- Board of Finance - 03.30.26
-  > ...and many of the the security vulnerabilities that they found uh were were startling and it took Flock a very long time to patch these vulnerabilities and the reaction of the company itself...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1367s)  _(term: alpr_flock, unreviewed)_
+  > ...children have gone from kindergarten all the way through 8th grade now. Um today I wanted to talk about the Flock security cameras. >> Get a little closer to the mic....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1316s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-30] Board of Finance** -- Board of Finance - 03.30.26
-  > ...things but um you uh the electronic founder Fontation did uh a pretty good uh dive into the Flock security cameras and many of the the security vulnerabilities that they found uh were...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1358s)  _(term: alpr_flock, unreviewed)_
+  > ...and many of the the security vulnerabilities that they found uh were were startling and it took Flock a very long time to patch these vulnerabilities and the reaction of the company itself...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1367s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-30] Board of Finance** -- Board of Finance - 03.30.26
   > ...>> Get a little closer to the mic. >> Sure. the flock security cameras um that were approved in the budget in 2022 um kind of during the co uh since then...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1328s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-30] Board of Finance** -- Board of Finance - 03.30.26
-  > ...children have gone from kindergarten all the way through 8th grade now. Um today I wanted to talk about the Flock security cameras. >> Get a little closer to the mic....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1316s)  _(term: alpr_flock, unreviewed)_
+  > ...things but um you uh the electronic founder Fontation did uh a pretty good uh dive into the Flock security cameras and many of the the security vulnerabilities that they found uh were...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=T4htwB4JPTg&t=1358s)  _(term: alpr_flock, unreviewed)_
 
 - **[2024-06-12] Board of Selectmen** -- Board of Selectmen - 06.12.24
   > ...there like a software that doesn't read the license plate yeah so there's a license plate reader component in that and what it does is it takes all the information from that and if it meets...
@@ -480,8 +490,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 20
-- Videos registered: 390 (fetched: 274, no captions: 4)
-- Date range covered: 2020-03-19 to 2026-09-02 (all 390 videos dated)
+- Videos registered: 391 (fetched: 275, no captions: 4)
+- Date range covered: 2020-03-19 to 2026-09-09 (all 391 videos dated)
 
 
 ### Channels
@@ -495,8 +505,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| stonington_ct | streams | 2026-09-10 13:27:53.545701 | 16 |
-| stonington_ct | videos | 2026-09-10 13:27:52.717898 | 479 |
+| stonington_ct | streams | 2026-09-25 15:59:20.321106 | 16 |
+| stonington_ct | videos | 2026-09-25 15:59:19.452241 | 481 |
 
 
 ## Registered meeting bodies
@@ -510,7 +520,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Architectural Design Review Board | other | True | 10 |
 | Beautification Committee | other | True | 4 |
 | Board of Assessment Appeals | other | True | 5 |
-| Board of Selectmen | other | True | 103 |
+| Board of Selectmen | other | True | 104 |
 | Charter Revision Commission | other | True | 20 |
 | Climate Change Task Force | other | True | 10 |
 | Economic Development Commission | other | True | 14 |
@@ -604,5 +614,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:03:33 from Stonington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:10:02 from Stonington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

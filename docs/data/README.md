@@ -6,7 +6,7 @@ Every finding of mass surveillance technology this project has found in
 Connecticut municipal records, in one file. One row per mention.
 
 <!-- stats:start -->
-**5,817 rows · 99 towns · 17 topics · 5,592 from meeting transcripts, 225 from
+**7,004 rows · 101 towns · 18 topics · 6,647 from meeting transcripts, 357 from
 agenda and minutes documents.**
 <!-- stats:end -->
 

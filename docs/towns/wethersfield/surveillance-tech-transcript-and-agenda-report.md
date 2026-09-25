@@ -1,9 +1,9 @@
 # Surveillance-tech report: Wethersfield
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,14 +14,14 @@
 
 ## At a glance: Wethersfield
 
-<p class="glance-headline"><strong>60 mentions</strong> of surveillance technology in <strong>23</strong> Wethersfield meetings, 2019–2026</p>
+<p class="glance-headline"><strong>64 mentions</strong> of surveillance technology in <strong>26</strong> Wethersfield meetings, 2019–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">60</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 23 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2019–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2019-05-07 → 2026-04-22</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">64</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 26 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2019–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2019-05-07 → 2026-09-08</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Predictive policing, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/wethersfield-alpr-searches.html"><span class="gc-big">2,500</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Wethersfield police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">62%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">488 of 783 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">72%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">564 of 785 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2019-05-07**, but Wethersfield's published video archive goes back to **2016-10-04**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -74,21 +74,27 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
 | [ALPR / Flock](#alpr) | 4 | 3 | 2019-05-07 | 2023-11-20 |
-| [Body cameras](#body_camera) | 1 | 1 | 2022-04-21 | 2022-04-21 |
-| [Drones](#drone) | 47 | 12 | 2020-09-01 | 2026-04-22 |
+| [Body cameras](#body_camera) | 3 | 2 | 2020-06-15 | 2022-04-21 |
+| [Drones](#drone) | 48 | 13 | 2020-09-01 | 2026-09-08 |
 | [Predictive policing](#predictive_policing) | 1 | 1 | 2022-12-19 | 2022-12-19 |
-| [General surveillance](#surveillance_general) | 7 | 6 | 2021-04-26 | 2025-04-01 |
+| [General surveillance](#surveillance_general) | 8 | 7 | 2020-05-11 | 2025-04-01 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-23 meetings surfaced a finding (23 dated, spanning 2019-05-07 to 2026-04-22; 0 of unknown date, listed last). Newest first.
+26 meetings surfaced a finding (26 dated, spanning 2019-05-07 to 2026-09-08; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-04-22.*
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
 
-??? note "Earlier meetings (23)"
+### 2026-09-08 -- Town Council
+
+**Town Council Meeting - September 8, 2026** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=WyGr0H10CDA&t=5944s)  > ...eight years. I survived. They they were very gentle on us. Um, and I saw some of the drone footage of the whole day, which was wonderful. And if you haven't seen that, I think the town's website um...
+
+??? note "Earlier meetings (25)"
 
     **2026-04-22 -- Budget Work Session**
 
@@ -259,6 +265,19 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=mYuwpuvCaA4&t=3271s)  > ...it's smithsonian channel they have a show called um ariel america it's like a drone view of the country and episode four was connecticut and...
 
+    **2020-06-15 -- Town Council**
+
+    **June 15, 2020 Town Council** _(topics: body_camera)_
+
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6i1AFQMkY0w&t=1278s)  > ...training in the areas of racial profiling de-escalation body cam usage use of force continuum and comprehensive reporting...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6i1AFQMkY0w&t=7990s)  > ...making the union contracts and use of force policies public creating and making public a robust body cam policy for our cameras that the police...
+
+    **2020-05-11 -- Budget Work Session**
+
+    **May 11, 2020 Budget Workshop (censored version, uncensored version available by request)** _(topics: surveillance_general)_
+
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=tlC-iyeyAsI&t=4357s)  > ...funds every year through our sidewalk program CCTV drainage inspections our pipe inspections when we need to look at drainage issues we have a lot of...
+
     **2019-05-07 -- Town Council**
 
     **Town Council May 6,2019** _(topics: alpr)_
@@ -303,6 +322,14 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   > ...they want anything and anything associated with any significant incident to include body worn camera video now which is a new thing...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_HeKfo6RfEQ&t=5734s)  _(term: body_camera, unreviewed)_
 
+- **[2020-06-15] Town Council** -- June 15, 2020 Town Council
+  > ...training in the areas of racial profiling de-escalation body cam usage use of force continuum and comprehensive reporting...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6i1AFQMkY0w&t=1278s)  _(term: body_camera, unreviewed)_
+
+- **[2020-06-15] Town Council** -- June 15, 2020 Town Council
+  > ...making the union contracts and use of force policies public creating and making public a robust body cam policy for our cameras that the police...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6i1AFQMkY0w&t=7990s)  _(term: body_camera, unreviewed)_
+
 
 ### cad
 
@@ -325,6 +352,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 
 ### drone
+
+- **[2026-09-08] Town Council** -- Town Council Meeting - September 8, 2026
+  > ...eight years. I survived. They they were very gentle on us. Um, and I saw some of the drone footage of the whole day, which was wonderful. And if you haven't seen that, I think the town's website um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WyGr0H10CDA&t=5944s)  _(term: drone, unreviewed)_
 
 - **[2026-04-22] Budget Work Session** -- Budget Work Session  -  April 22, 2026
   > ...maybe. So, we have some staff that are taking classes on that now. Got you. And when did we purchase the drone for? Um I want to say it was maybe a year and a half ago. And everything in technology,...
@@ -355,8 +386,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=u5Huocl26CI&t=1624s)  _(term: drone, unreviewed)_
 
 - **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
-  > ...car on the GPS and on the computer from dispatch and if it's roaming around town then put the Drone up and follow it from the sky simultaneously right for the darts that do work in this situation um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1836s)  _(term: drone, unreviewed)_
+  > ...eight traffic stop attempt in we're going to use the Drone for a multi uh it's going to be a multiuse drone yeah for things like this for car popups for first responder situations to whatever...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1798s)  _(term: drone, unreviewed)_
+
+- **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
+  > ...breakfast as well so they were out there last week getting the training on that but we did get the Drone in we're working with the the company on the EXT software program that helps it deploy um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1763s)  _(term: drone, unreviewed)_
 
 - **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
   > ...darts um okay and then that follows me to my next question is I think that we started our drone program recently we did we did I announced that at the breakfast as well so they were out there...
@@ -367,12 +402,8 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1795s)  _(term: drone, unreviewed)_
 
 - **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
-  > ...eight traffic stop attempt in we're going to use the Drone for a multi uh it's going to be a multiuse drone yeah for things like this for car popups for first responder situations to whatever...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1798s)  _(term: drone, unreviewed)_
-
-- **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
-  > ...breakfast as well so they were out there last week getting the training on that but we did get the Drone in we're working with the the company on the EXT software program that helps it deploy um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1763s)  _(term: drone, unreviewed)_
+  > ...car on the GPS and on the computer from dispatch and if it's roaming around town then put the Drone up and follow it from the sky simultaneously right for the darts that do work in this situation um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1836s)  _(term: drone, unreviewed)_
 
 - **[2025-01-21] Town Council** -- Town Council Meeting - January 21, 2025
   > ...training is done um and we could be deploying it soon and would the would the Drone be effective or used in situations like we see on the number eight traffic stop attempt in we're...
@@ -387,12 +418,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=oJguSbgq0hk&t=1771s)  _(term: drone, unreviewed)_
 
 - **[2024-04-29] Budget Work Session** -- Budget Work Session - April 29, 2024
-  > ...government software and the Drone equipment on CNF okay I would say for the Drone the biggest benefit would probably be for the assessor's office to be able to perform checks where they...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=3006s)  _(term: drone, unreviewed)_
-
-- **[2024-04-29] Budget Work Session** -- Budget Work Session - April 29, 2024
   > ...this so now if we want to get the drones aside from having we this field can say it has a drone we can look forward to an extra 5 hours of sidewalk inspection five five hours more to design roads and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=2981s)  _(term: drone, unreviewed)_
+
+- **[2024-04-29] Budget Work Session** -- Budget Work Session - April 29, 2024
+  > ...government software and the Drone equipment on CNF okay I would say for the Drone the biggest benefit would probably be for the assessor's office to be able to perform checks where they...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=kj2Yc6-wf8o&t=3006s)  _(term: drone, unreviewed)_
 
 - **[2024-04-29] Budget Work Session** -- Budget Work Session - April 29, 2024
   > ...don't know how to say this otherwise like the business case for it so I hear that the Drone equipment software and training can do this it can do that it can do this but what's like the business...
@@ -427,56 +458,32 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=10rido9W-p0&t=5572s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...you know workers comp claim that's gonna cost the town more where i could put the drone up in the air see from a distance where we don't you won't even see it i i mean you can't see if they go up...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=509s)  _(term: drone, unreviewed)_
-
-- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...here just to fly it that does not occur there has to be a specific reason so when it comes to liability of a drone and that's already been...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=482s)  _(term: drone, unreviewed)_
-
-- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...vehicles with uh with vehicles as opposed to having a drone go up high and watch where those vehicles are going you're you're avoiding potential loss...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=693s)  _(term: drone, unreviewed)_
-
-- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...you're you're avoiding potential loss and liability uh using that drone as opposed to human resources i guess it's probably the best way to put it so...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=703s)  _(term: drone, unreviewed)_
-
-- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...has a pretty seamless ability to add aircraft liability coverage for drone operation based upon there being faa certifications...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=586s)  _(term: drone, unreviewed)_
+  > ...town or the city of chicopee massachusetts acquiring an underwater drone which will be used for search and rescue operations in two of the rivers...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=636s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
   > ...and it i only have one but i want to enhance our drone program but it's heavy regulated it's a lot of policies that go along with it and like i said...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=529s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...with that they're very heavily mandated to the faa you have to license through them i mean even when we put a drone up in the air we have to call bradley and ask for permission put that drone in the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=453s)  _(term: drone, unreviewed)_
+  > ...has a pretty seamless ability to add aircraft liability coverage for drone operation based upon there being faa certifications...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=586s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...them i mean even when we put a drone up in the air we have to call bradley and ask for permission put that drone in the air so it's not like it's something that's just like oh we just buy it radio...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=456s)  _(term: drone, unreviewed)_
+  > ...you know workers comp claim that's gonna cost the town more where i could put the drone up in the air see from a distance where we don't you won't even see it i i mean you can't see if they go up...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=509s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...this subject and actually had a law enforcement um uh person from the town of vernon flying a drone in our parking lot um but what was interesting is just this past week there was news about the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=625s)  _(term: drone, unreviewed)_
-
-- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...applications as well so um you know in chief medina at any point if there's ever a need to consult about the drone operations or whatnot we are we are certainly open open to doing so thank...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=659s)  _(term: drone, unreviewed)_
+  > ...and the proper training and depending on the type in size drone like there were some dgi phantoms that between the um the accessory package sometimes thermal...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=597s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
   > ...physical body there and have eyes on the scene i would rather do that and lose a drone that was an officer through injury or you know workers comp claim that's gonna...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=503s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...town or the city of chicopee massachusetts acquiring an underwater drone which will be used for search and rescue operations in two of the rivers...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=636s)  _(term: drone, unreviewed)_
-
-- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...air so it's not like it's something that's just like oh we just buy it radio shack and put up here we have a drone it's heavily regulated there's a lot of federal laws that are regulations that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=462s)  _(term: drone, unreviewed)_
+  > ...this subject and actually had a law enforcement um uh person from the town of vernon flying a drone in our parking lot um but what was interesting is just this past week there was news about the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=625s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
   > ...and they realize that they're more of a tool they're an asset because when i can send a drone into an area and not put a physical body there and have eyes on the scene i would rather do that and lose a...
@@ -487,8 +494,32 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=476s)  _(term: drone, unreviewed)_
 
 - **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
-  > ...and the proper training and depending on the type in size drone like there were some dgi phantoms that between the um the accessory package sometimes thermal...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=597s)  _(term: drone, unreviewed)_
+  > ...applications as well so um you know in chief medina at any point if there's ever a need to consult about the drone operations or whatnot we are we are certainly open open to doing so thank...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=659s)  _(term: drone, unreviewed)_
+
+- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
+  > ...air so it's not like it's something that's just like oh we just buy it radio shack and put up here we have a drone it's heavily regulated there's a lot of federal laws that are regulations that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=462s)  _(term: drone, unreviewed)_
+
+- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
+  > ...you're you're avoiding potential loss and liability uh using that drone as opposed to human resources i guess it's probably the best way to put it so...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=703s)  _(term: drone, unreviewed)_
+
+- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
+  > ...them i mean even when we put a drone up in the air we have to call bradley and ask for permission put that drone in the air so it's not like it's something that's just like oh we just buy it radio...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=456s)  _(term: drone, unreviewed)_
+
+- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
+  > ...with that they're very heavily mandated to the faa you have to license through them i mean even when we put a drone up in the air we have to call bradley and ask for permission put that drone in the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=453s)  _(term: drone, unreviewed)_
+
+- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
+  > ...vehicles with uh with vehicles as opposed to having a drone go up high and watch where those vehicles are going you're you're avoiding potential loss...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=693s)  _(term: drone, unreviewed)_
+
+- **[2022-02-17] Insurance Committee** -- Insurance Committee   February 17, 2022
+  > ...here just to fly it that does not occur there has to be a specific reason so when it comes to liability of a drone and that's already been...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IAt4xkhvfO4&t=482s)  _(term: drone, unreviewed)_
 
 - **[2021-05-03] Kycia Farm Committee** -- Kycia Farm Committee Meeting - May 3, 2021
   > ...barn and be a close proximity to the school um and then we also brought in some of the overhead drone footage i think for people who haven't seen it in its entirety that's a nice you know a...
@@ -499,12 +530,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=J-dmnUTdsvg&t=3235s)  _(term: drone, unreviewed)_
 
 - **[2020-11-02] Kycia Farm Committee** -- Kycia Farm Committee   November 2, 2020
-  > ...documentation would be really helpful so we could send the video clip from the drone so you can get an overview and uh our gis system is online weathersfield map geo so you could...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OfS6XIDY1e4&t=452s)  _(term: drone, unreviewed)_
-
-- **[2020-11-02] Kycia Farm Committee** -- Kycia Farm Committee   November 2, 2020
   > ...doing put our minutes put a link to our minutes on there and you know let people see the drone video and you know talk to them even even to announce that the university of hartford...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=OfS6XIDY1e4&t=1426s)  _(term: drone, unreviewed)_
+
+- **[2020-11-02] Kycia Farm Committee** -- Kycia Farm Committee   November 2, 2020
+  > ...documentation would be really helpful so we could send the video clip from the drone so you can get an overview and uh our gis system is online weathersfield map geo so you could...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OfS6XIDY1e4&t=452s)  _(term: drone, unreviewed)_
 
 - **[2020-09-08] Kycia Farm Committee** -- September 8, 2020 Kycia Farm Meeting
   > ...the opportunities that the farm will will um present maybe getting another drone video we'll have to have you know there's a beautiful one up there but maybe getting...
@@ -581,6 +612,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2021-04-26] Budget Work Session** -- Budget Workshop April 26, 2021
   > ...possible because we tend to spend spend quite a bit of it cctv drainage inspections that is just inspecting pipes when we have drainage issues...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=t2l8XduYm-o&t=2798s)  _(term: surveillance_general, unreviewed)_
+
+- **[2020-05-11] Budget Work Session** -- May 11, 2020 Budget Workshop (censored version, uncensored version available by request)
+  > ...funds every year through our sidewalk program CCTV drainage inspections our pipe inspections when we need to look at drainage issues we have a lot of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tlC-iyeyAsI&t=4357s)  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools
@@ -710,8 +745,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 21
-- Videos registered: 783 (fetched: 488, no captions: 52)
-- Date range covered: 2016-10-04 to 2026-09-08 (all 783 videos dated)
+- Videos registered: 785 (fetched: 564, no captions: 53)
+- Date range covered: 2016-10-04 to 2026-09-22 (all 785 videos dated)
 
 
 ### Channels
@@ -725,8 +760,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| wgtv | streams | 2026-09-10 11:39:10.289257 | 360 |
-| wgtv | videos | 2026-09-10 11:39:05.222470 | 552 |
+| wgtv | streams | 2026-09-25 15:23:37.941858 | 362 |
+| wgtv | videos | 2026-09-25 15:23:32.187314 | 553 |
 
 
 ## Registered meeting bodies
@@ -735,7 +770,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | --- | --- | --- | --- |
 | Budget Work Session | budget_finance | True | 19 |
 | OPEB Trust Committee | budget_finance | True | 4 |
-| Town Council | council | True | 226 |
+| Town Council | council | True | 227 |
 | Board of Education | education | True | 207 |
 | Bike Ped Committee | other | True | 7 |
 | Charter Revision Commission | other | True | 2 |
@@ -748,7 +783,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Kycia Farm Committee | other | True | 14 |
 | Library Board | other | True | 10 |
 | Parks and Recreation Advisory Board | other | True | 5 |
-| Planning and Zoning Commission | other | True | 178 |
+| Planning and Zoning Commission | other | True | 179 |
 | Redevelopment Agency | other | True | 11 |
 | Shade Tree Commission | other | True | 8 |
 | Veterans Commission | other | True | 5 |
@@ -762,8 +797,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 186 (fetched: 182)
-- Date range covered: 2025-01-15 to 2026-09-22
+- Documents registered: 207 (fetched: 203)
+- Date range covered: 2025-01-15 to 2026-10-13
 
 
 ### Agenda sources
@@ -789,7 +824,6 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | title | upload_date |
 | --- | --- |
-| Town Council Meeting - September 8, 2026 | 2026-09-08 |
 | PLANNING AND ZONING COMMISSION   -  July 21, 2026 | 2026-07-21 |
 | Board of Education Meeting  -  April 28, 2026 | 2026-04-28 |
 | Town Council Meeting - February 2, 2026 | 2026-02-02 |
@@ -814,6 +848,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | PLANNING AND ZONING COMMISSION - TUESDAY, JUNE 6, 2023 | 2023-06-06 |
 | May 16, 2023 - PLANNING AND ZONING | 2023-05-16 |
 | May 16, 2023 - PLANNING AND ZONING | 2023-05-16 |
+| March 28, 2023 - Board of Education Meeting | 2023-03-28 |
 
 
 ### Tabs never crawled
@@ -855,5 +890,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:05:31 from Wethersfield's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:11:58 from Wethersfield's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

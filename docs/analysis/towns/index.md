@@ -16,7 +16,7 @@ this** tab.
     search count is higher, and a department absent from this list has not been
     shown to search less — it means no released log happens to record it.
 
-    For example, as of {{PUBLISHED_DATE}}, West Hartford has not released its
+    For example, as of September 25, 2026, West Hartford has not released its
     own audit log. So its page shows only the West Hartford searches that also
     reached a camera in one of the six towns that have (Darien, Farmington,
     Manchester, North Haven, Waterford and Windsor). A typical West Hartford

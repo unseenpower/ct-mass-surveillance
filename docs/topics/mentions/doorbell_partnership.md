@@ -1,6 +1,6 @@
 # Doorbell-camera partnerships: every mention, every town
 
-_Generated 2026-09-10T18:09:55 — 28 mentions across 15 towns, 2020-03-12 to 2026-08-17._
+_Generated 2026-09-25T17:14:10 — 28 mentions across 15 towns, 2020-03-12 to 2026-08-17._
 
 
 Formal partnerships between police departments and consumer doorbell-camera networks such as Ring.
@@ -23,21 +23,21 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Berlin](../../towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 78% | 2024-02-21 | 2026-08-17 |
+| [Berlin](../../towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 83% | 2024-02-21 | 2026-08-17 |
 | [Brookfield](../../towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 94% | 2020-10-08 | 2023-10-12 |
-| [Darien](../../towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 82% | 2021-06-22 | 2023-05-16 |
-| [Orange](../../towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 98% | 2025-08-26 | 2026-08-13 |
-| [Hartford](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2022-08-16 | 2026-04-12 |
+| [Darien](../../towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 90% | 2021-06-22 | 2023-05-16 |
+| [Orange](../../towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 99% | 2025-08-26 | 2026-08-13 |
+| [Hartford](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 96% | 2022-08-16 | 2026-04-12 |
 | [Milford](../../towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 95% | 2022-04-25 | 2022-06-06 |
 | [Norwalk](../../towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 98% | 2023-04-13 | 2023-04-13 |
 | [East Lyme](../../towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 95% | 2020-11-12 | 2020-11-12 |
-| [Kent](../../towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 74% | 2024-07-10 | 2024-07-10 |
-| [New Canaan](../../towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 84% | 2026-01-22 | 2026-01-22 |
+| [Kent](../../towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 82% | 2024-07-10 | 2024-07-10 |
+| [New Canaan](../../towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 89% | 2026-01-22 | 2026-01-22 |
 | [New Haven](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 91% | 2021-06-02 | 2021-06-02 |
-| [Newington](../../towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 73% | 2024-09-18 | 2024-09-18 |
-| [Plainville](../../towns/plainville/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 72% | 2020-03-12 | 2020-03-12 |
+| [Newington](../../towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 74% | 2024-09-18 | 2024-09-18 |
+| [Plainville](../../towns/plainville/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 82% | 2020-03-12 | 2020-03-12 |
 | [Wallingford](../../towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 90% | 2023-08-15 | 2023-08-15 |
-| [Westport](../../towns/westport/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 69% | 2025-06-23 | 2025-06-23 |
+| [Westport](../../towns/westport/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 81% | 2025-06-23 | 2025-06-23 |
 
 ## Receipts
 

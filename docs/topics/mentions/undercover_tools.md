@@ -1,9 +1,6 @@
-# AI data fusion: every mention, every town
+# Undercover tools: every mention, every town
 
-_Generated 2026-09-25T17:14:12 — 1 mentions across 1 towns, 2026-03-16 to 2026-03-16._
-
-
-Platforms that combine multiple data sources with AI analysis.
+_Generated 2026-09-25T17:14:12 — 1 mentions across 1 towns, 2026-03-04 to 2026-03-04._
 
 
 > **These are unreviewed keyword matches, not verified claims.** Each receipt below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous — "drone" can mean a bee, "flock" a bird — and auto-captions mis-transcribe. **Follow the timestamped link and listen before citing anything here.**
@@ -23,16 +20,16 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [South Windsor](../../towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2026-03-16 | 2026-03-16 |
+| [Bristol](../../towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 77% | 2026-03-04 | 2026-03-04 |
 
 ## Receipts
 
 _Most recent first within each town. Every line links to the exact second of the meeting video._
 
 
-### South Windsor — 1 mention
+### Bristol — 1 mention
 
-- **[2026-03-16] Town Council** — Town Council Regular Meeting - March 16, 2026
-  > …over time, and record where they're going. All of that gets fed into their Flock Nova analytics platform, which infers what they're doing and who they're doing those things with.…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=na7vGQk44nc&t=2515s)  _(term: `ai_data_fusion`)_
+- **[2026-03-04] (unassigned body)** — Board of Finance Other - 2026-03-04
+  > …543000 TECHNOLOGY REPAIRS 1.00 1,500.00 1,500.00 0012110 543000 CALLYO - A LAW ENFORCEMENT TECH GROUP - COVERT MIC FOR NET 1.00 4,475.00 4,475.00 0012110 543000 AIMS - PARKI…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11790,plainText=false))  _(agenda/minutes · term: `undercover_tools`)_
 

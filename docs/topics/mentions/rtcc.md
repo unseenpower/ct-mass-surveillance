@@ -1,6 +1,6 @@
 # Real-time crime centres: every mention, every town
 
-_Generated 2026-09-10T18:09:46 — 58 mentions across 7 towns, 2021-11-23 to 2026-07-23._
+_Generated 2026-09-25T17:14:06 — 71 mentions across 9 towns, 2021-11-23 to 2026-09-15._
 
 
 Real-time crime centres — control rooms that fuse many camera and data feeds into one live operational picture, often via platforms such as Axon's Fusus.
@@ -23,20 +23,41 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [New Haven](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **22** | 5 | 13 | 91% | 2021-11-23 | 2026-05-19 |
-| [Waterbury](../../towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **21** | · | 12 | 86% | 2022-06-02 | 2026-07-23 |
+| [New Haven](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **26** | 5 | 14 | 91% | 2021-11-23 | 2026-09-15 |
+| [Waterbury](../../towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **21** | · | 12 | 85% | 2022-06-02 | 2026-07-23 |
+| [Bristol](../../towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **7** | 7 | 7 | 77% | 2026-03-04 | 2026-05-12 |
 | [Fairfield](../../towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 4 | 98% | 2023-11-15 | 2026-04-07 |
-| [Hartford](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 95% | 2024-04-16 | 2024-10-10 |
+| [Hartford](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 96% | 2024-04-16 | 2024-10-10 |
 | [Bridgeport](../../towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 1 | 90% | 2026-05-02 | 2026-05-02 |
+| Stamford ⁽ⁿᵖ⁾ | **2** | · | 1 | 62% | 2024-08-29 | 2024-08-29 |
 | [Danbury](../../towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 16% | 2026-03-03 | 2026-03-03 |
 | [West Hartford](../../towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 93% | 2026-03-31 | 2026-03-31 |
+
+⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
+
 
 ## Receipts
 
 _Most recent first within each town. Every line links to the exact second of the meeting video._
 
 
-### New Haven — 22 mentions
+### New Haven — 26 mentions
+
+- **[2026-09-15] Public Safety Committee** — BoA Public Safety Committee
+  > …will alert when certain cameras find that vehicle, right? and they can notify the the real-time crime center. Hey, this vehicle is in the area. The important part is it's our data,…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pnsZrgU5ARM&t=4939s)  _(term: `rtcc`)_
+
+- **[2026-09-15] Public Safety Committee** — BoA Public Safety Committee
+  > …talking about what the flock conversation is and what we have the ability to do at our real-time crime center. And to be even further with that the license plate data…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pnsZrgU5ARM&t=4987s)  _(term: `rtcc`)_
+
+- **[2026-09-15] Public Safety Committee** — BoA Public Safety Committee
+  > …out, they do an assessment, and you can grant your private camera access to the PD's real-time crime center. Um, we've had very good results with it. Um, because it's increased our number of…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pnsZrgU5ARM&t=5155s)  _(term: `rtcc`)_
+
+- **[2026-09-15] Public Safety Committee** — BoA Public Safety Committee
+  > …have it, right? It's only the cameras which they grant us access and it provides the PD, especially the Realtime Crime Center, which is at [address redacted], the wall of screens that we can…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=pnsZrgU5ARM&t=5204s)  _(term: `rtcc`)_
 
 - **[2026-05-19] Public Safety Committee** — BoA Public Safety Committee 5/19/2026
   > …deploy officers? >> Yes, sir. So, we have the real-time crime center. We have an analyst and we have officers that that staff the…
@@ -70,24 +91,8 @@ _Most recent first within each town. Every line links to the exact second of the
   > …working. And on a daily basis, I hear officers asking for help from the real-time crime center. That is exactly what we need, that type of communication. So, um, with having a…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5IktEoIkXXs&t=6507s)  _(term: `rtcc`)_
 
-- **[2025-09-08] Finance Committee** — BoA Finance Committee 9/8/2025
-  > …department to oversee and evaluate the work performance of the crime analysts that are currently in the real-time crime center. Um, they would also train department personnel in crime analysis,…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5IktEoIkXXs&t=6525s)  _(term: `rtcc`)_
 
-- **[2024-11-19] Public Safety Committee** — BoA Public Safety Committee 11/19/2024
-  > …to 11 half million still getting the same great stuff but this this allows us to first of all act on merch with fusus fusus is our big um connection to the canas of the city…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_Hn2ASL8BR0&t=2572s)  _(term: `rtcc`)_
-
-- **[2024-11-19] Public Safety Committee** — BoA Public Safety Committee 11/19/2024
-  > …same great stuff but this this allows us to first of all act on merch with fusus fusus is our big um connection to the canas of the city now that they work with Aon part of Aon…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_Hn2ASL8BR0&t=2576s)  _(term: `rtcc`)_
-
-- **[2024-11-19] Public Safety Committee** — BoA Public Safety Committee 11/19/2024
-  > …we won't be paying Fus anymore we we contract with Aon for all those services and fusus has been reced it's connecting our cameras to um our real time Prim Center to our residents to our…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_Hn2ASL8BR0&t=2588s)  _(term: `rtcc`)_
-
-
-_10 further mentions in New Haven not shown here — all of them are in [New Haven's full report](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)._
+_14 further mentions in New Haven not shown here — all of them are in [New Haven's full report](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Waterbury — 21 mentions
@@ -142,6 +147,37 @@ _10 further mentions in New Haven not shown here — all of them are in [New Hav
 
 
 _9 further mentions in Waterbury not shown here — all of them are in [Waterbury's full report](../../towns/waterbury/surveillance-tech-transcript-and-agenda-report.md)._
+
+
+### Bristol — 7 mentions
+
+- **[2026-05-12] (unassigned body)** — City Council Other - 2026-05-12
+  > …e to Taser 10, and adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead drones, and two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone detection device), 250 Fusus CCTV Streams, Auror- Retail Crime Hub. Said items to be covered for five years, effective June 2026, for a total price of $4,030,952.09. I further move to authorize the…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12485,plainText=false))  _(agenda/minutes · term: `rtcc`)_
+
+- **[2026-04-28] (unassigned body)** — Board of Finance Other - 2026-04-28
+  > …a “covered foreign entity.” Axon drones meet this statutory requirement because they are U.S.-made technology. The package also includes Axon Assistant Body-Worn Camera translation capabilities, the Fusus CCTV integration system, 13 Axon License Plate Recognition (LPR) units that integrate within the existing Axon ecosystem, and the Auror Retail Crime Hub System. Respectfully, Mark R. Mor…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12299,plainText=false))  _(agenda/minutes · term: `rtcc`)_
+
+- **[2026-04-14] (unassigned body)** — City Council Minutes - 2026-04-14
+  > …e to Taser 10, and adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead drones, and two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone detection device), 250 Fusus CCTV Streams, Auror- Retail Crime Hub. Said items to be covered for five years, effective June 2026, for a total price of $4,030,952.09. I further move to authorize the…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12491,plainText=false))  _(agenda/minutes · term: `rtcc`)_
+
+- **[2026-04-14] (unassigned body)** — City Council Other - 2026-04-14
+  > …adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead drones, and two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone detection device), 250 Fusus CCTV Streams, Auror- Retail Crime Hub. Said items to be covered for five years, effective June 2026, for a total price of $4,030,952.09. I further move to authorize the Mayor o…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12208,plainText=false))  _(agenda/minutes · term: `rtcc`)_
+
+- **[2026-04-14] (unassigned body)** — City Council Agenda - 2026-04-14
+  > …adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead drones, and two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone detection device), 250 Fusus CCTV Streams, Auror- Retail Crime Hub. Said items to be covered for five years, effective June 2026, for a total price of $4,030,952.09. I further move to authorize the Mayor o…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12207,plainText=false))  _(agenda/minutes · term: `rtcc`)_
+
+- **[2026-03-25] (unassigned body)** — Board of Finance Other - 2026-03-25
+  > …quickly and proper • Additional Fleet 3 system for a new patrol vehicle (Dash camera) Real-Time Crime Intelligence • Fusus Real-Time Crime Center (RTCC) integration supporting up to 250 AI video streams • Auror Retail Crime Intelligence Hub for coordinated retail theft investigations…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12017,plainText=false))  _(agenda/minutes · term: `rtcc`)_
+
+- **[2026-03-04] (unassigned body)** — Board of Finance Other - 2026-03-04
+  > …data (e.g., phone extractions, CCTV, social media). Transition to a fully paperless records and reporting system to improve efficiency and reduce environmental impact. Incorporate real-time crime center (RTCC) technologies that utilize LPRs, drones, CCTV, and AI analytics for enhanced situational awareness. Remain current with emerging law enforcement technology trend…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11790,plainText=false))  _(agenda/minutes · term: `rtcc`)_
 
 
 ### Fairfield — 6 mentions
@@ -203,6 +239,17 @@ _9 further mentions in Waterbury not shown here — all of them are in [Waterbur
 - **[2026-05-02] Budget and Appropriations Committee** — 04.30. 2026 Budget & Appropriations Committee Meeting
   > …much better. So if we could ever get back to that, that would be >> Hi, I'm Melanie. I'm within the real time crime center. Um, assistant chief closing and I have kind of been trying…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5623s)  _(term: `rtcc`)_
+
+
+### Stamford — 2 mentions
+
+- **[2024-08-29] Board of Representatives** — BOR Public Safety & Health Committee Meeting
+  > …I mean, fusion is a common term that's used nationally for these hubs of information intelligence. Also, you'll hear the term real-time crime center, et cetera. You know, it's, it's all about intelligence, information, and sharing analysis, et cetera. As some large fusion centers have crime analysts built in, they are more robust.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/14307)  [jump to 22:50 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_ed8fc1f8-667a-11ef-9b71-005056a89546.mp4#t=1370)  _(term: `rtcc`)_
+
+- **[2024-08-29] Board of Representatives** — BOR Public Safety & Health Committee Meeting
+  > …I'm Campbell. Um, I have to say that personally, um, I, I, I believe, you know, like we, in New York City, we call it real time crime center. And I, and it was, it was done around some, sometime 2005. And I know that New York City paid millions of dollars to actually create the center.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/14307)  [jump to 37:00 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_ed8fc1f8-667a-11ef-9b71-005056a89546.mp4#t=2220)  _(term: `rtcc`)_
 
 
 ### Danbury — 1 mention

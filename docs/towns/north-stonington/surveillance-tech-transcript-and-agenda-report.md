@@ -1,9 +1,9 @@
 # Surveillance-tech report: North Stonington
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,17 +14,17 @@
 
 ## At a glance: North Stonington
 
-<p class="glance-headline"><strong>54 mentions</strong> of surveillance technology in <strong>18</strong> North Stonington meetings, 2024–2026</p>
+<p class="glance-headline"><strong>58 mentions</strong> of surveillance technology in <strong>19</strong> North Stonington meetings, 2023–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">54</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 18 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2024–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-06-18 → 2026-03-30</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">58</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 19 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2023–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2023-02-01 → 2026-03-30</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">43%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">193 of 449 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">59%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">265 of 451 meetings</span></a>
 <a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">8</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
-**Still incomplete:** 256 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+**Still incomplete:** 186 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **North Stonington**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -53,18 +53,18 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
 | [ALPR / Flock](#alpr) | 51 | 15 | 2025-02-04 | 2026-03-30 |
-| [Drones](#drone) | 3 | 3 | 2024-06-18 | 2026-02-04 |
+| [Drones](#drone) | 7 | 4 | 2023-02-01 | 2026-02-04 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-18 meetings surfaced a finding (18 dated, spanning 2024-06-18 to 2026-03-30; 0 of unknown date, listed last). Newest first.
+19 meetings surfaced a finding (19 dated, spanning 2023-02-01 to 2026-03-30; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-03-30.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-03-30.*
 
-??? note "Earlier meetings (18)"
+??? note "Earlier meetings (19)"
 
     **2026-03-30 -- Board of Selectmen**
 
@@ -210,6 +210,15 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=agZan7w6EqI&t=3460s)  > ...messing yeah so this is can you pull that up that's a great picture that drone picture of the field is great make sure Zoom can see it as well yeah what what platform are they who I I know I...
 
+    **2023-02-01 -- Board of Finance**
+
+    **Board of Finance meeting February 1, 2023** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=-5CfzyxVofU&t=7458s)  > ...who was next Bill Rooker why ask it uh Road Chief do we have a drone heat-seeking drone we have five lakes in town...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=-5CfzyxVofU&t=7460s)  > ...Bill Rooker why ask it uh Road Chief do we have a drone heat-seeking drone we have five lakes in town um Lake of Isles Long Lake Billings blue...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=-5CfzyxVofU&t=7501s)  > ...victim and when one Department showed up with a heat-seeking drone I believe the person was found within five minutes or thereabouts...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=-5CfzyxVofU&t=7544s)  > ...okay I'm sorry I had misinformation from the state trooper that said it was each heat-seeking drone but uh the fact remains uh do you have sufficient equipment to find a drowning...
+
 
 ## Findings by topic
 
@@ -233,12 +242,12 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=O7yKUzd8fLo&t=2737s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-30] Board of Selectmen** -- Board of Selectmen Special Meeting March 30, 2026
-  > ...that the state and I'll talk to Jay about this the state can can get their act together on these flock cameras and why don't they why don't they just endorse them and and have the state...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=O7yKUzd8fLo&t=1600s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-30] Board of Selectmen** -- Board of Selectmen Special Meeting March 30, 2026
   > ...arrest. Can you punch that in there and whenever you know whenever that license plate crosses a flock camera, can you That was the idea. And I think that was the idea that Jason was getting across...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=O7yKUzd8fLo&t=2887s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-30] Board of Selectmen** -- Board of Selectmen Special Meeting March 30, 2026
+  > ...that the state and I'll talk to Jay about this the state can can get their act together on these flock cameras and why don't they why don't they just endorse them and and have the state...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=O7yKUzd8fLo&t=1600s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-30] Board of Selectmen** -- Board of Selectmen Special Meeting March 30, 2026
   > ...>> No, I mean I think that I Oh, sorry. Um, just one thing. I did tell Bob I am pretty passionate about the flock cameras. >> I am as well. So, I really want to make...
@@ -249,6 +258,10 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kku0yimVEp4&t=8030s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-23] Board of Finance** -- Board of Finance Meeting March 23, 2026
+  > ...presented uh Senate Bill number four, an act concerning consumer privacy as it relates to flock data cameras. That that to me is where I am on on the data piece of it. So it's it's beyond the cost. The...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kku0yimVEp4&t=8184s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-23] Board of Finance** -- Board of Finance Meeting March 23, 2026
   > ...for bags would ever happen would ever work in the town of Northstone. >> If you were going to put a flock camera, it would be one to go up the attic for [laughter] stickers....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kku0yimVEp4&t=10098s)  _(term: alpr_flock, unreviewed)_
 
@@ -256,13 +269,13 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   > ...um and I won't get into the details but there are other states accessing Connecticut flock data um currently and that just doesn't sit well with me personally. So until that's resolved and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kku0yimVEp4&t=8167s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-03-23] Board of Finance** -- Board of Finance Meeting March 23, 2026
-  > ...presented uh Senate Bill number four, an act concerning consumer privacy as it relates to flock data cameras. That that to me is where I am on on the data piece of it. So it's it's beyond the cost. The...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Kku0yimVEp4&t=8184s)  _(term: alpr_flock, unreviewed)_
-
 - **[2026-03-18] Board of Finance** -- Board of Finance Meeting March 18, 2026
   > ...and still includes placeholder line items that weren't used last year, along with new spending on flock cameras, additional fire staffing, and continued road work....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=95SPBfNh6LQ&t=274s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-17] Board of Selectmen** -- Board of Selectmen Meeting March 17, 2026
+  > ...um I don't know. I I'm leaning more last year I I was kind of a little bit indifferent to the flock cameras, I think, given um some of the things in town. Um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Gq5PSw0UTS0&t=2356s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-17] Board of Selectmen** -- Board of Selectmen Meeting March 17, 2026
   > ...I think she made the motion and I second and then we went back to another discussion. We're talking about flock cameras. I don't know if we really >> I think we did, but we can do it again....
@@ -273,92 +286,76 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Gq5PSw0UTS0&t=2284s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-17] Board of Selectmen** -- Board of Selectmen Meeting March 17, 2026
-  > ...um I don't know. I I'm leaning more last year I I was kind of a little bit indifferent to the flock cameras, I think, given um some of the things in town. Um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Gq5PSw0UTS0&t=2356s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-17] Board of Selectmen** -- Board of Selectmen Meeting March 17, 2026
   > ...>> they're just ideas. >> I don't know how I feel. I know that I heard the discussion on the flock cameras and I know the controversy um and maybe it's just in light of some...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Gq5PSw0UTS0&t=2334s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-09] Board of Finance** -- Board of Finance Meeting March 9, 2026
-  > ...presentation, right? How does how does everyone feel about the flock cameras? It's 7,300 in this budget. >> Flock cameras....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=B7JnmEqdpUQ&t=4221s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-09] Board of Finance** -- Board of Finance Meeting March 9, 2026
-  > ...question. I'm not a fan >> of >> the flock cameras. I I I know Jason's I know he's passionate about it. I heard the description. There's a lot of things...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=B7JnmEqdpUQ&t=5058s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-09] Board of Finance** -- Board of Finance Meeting March 9, 2026
-  > ...the flock cameras? It's 7,300 in this budget. >> Flock cameras. >> Yeah. When the triple McCarthy came and >> I still don't understand why state of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=B7JnmEqdpUQ&t=4226s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-09] Board of Finance** -- Board of Finance Meeting March 9, 2026
   > ...>> Yes. >> Just to for everybody else's feelings of with the flock back to the flock cameras instead of two, can we start off with one and see how that tracks and have him...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=B7JnmEqdpUQ&t=5041s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-09] Board of Finance** -- Board of Finance Meeting March 9, 2026
-  > ...of the state that was taking them to court over that. Okay, the flock cameras and let's see this side got 12,000 on there and I didn't know if...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=B7JnmEqdpUQ&t=769s)  _(term: alpr_flock, unreviewed)_
+  > ...the flock cameras? It's 7,300 in this budget. >> Flock cameras. >> Yeah. When the triple McCarthy came and >> I still don't understand why state of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=B7JnmEqdpUQ&t=4226s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-09] Board of Finance** -- Board of Finance Meeting March 9, 2026
+  > ...presentation, right? How does how does everyone feel about the flock cameras? It's 7,300 in this budget. >> Flock cameras....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=B7JnmEqdpUQ&t=4221s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-09] Board of Finance** -- Board of Finance Meeting March 9, 2026
   > ...>> I still don't understand why state of Connecticut doesn't >> The only question I had for the flock cameras was state of Connecticut has for DOT has cameras at most of the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=B7JnmEqdpUQ&t=4234s)  _(term: alpr_flock, unreviewed)_
 
+- **[2026-03-09] Board of Finance** -- Board of Finance Meeting March 9, 2026
+  > ...of the state that was taking them to court over that. Okay, the flock cameras and let's see this side got 12,000 on there and I didn't know if...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=B7JnmEqdpUQ&t=769s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-09] Board of Finance** -- Board of Finance Meeting March 9, 2026
+  > ...question. I'm not a fan >> of >> the flock cameras. I I I know Jason's I know he's passionate about it. I heard the description. There's a lot of things...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=B7JnmEqdpUQ&t=5058s)  _(term: alpr_flock, unreviewed)_
+
 - **[2026-03-03] Board of Selectmen** -- Board of Selectmen Meeting March 3, 2026
-  > ...Go ahead. >> I mean I know it's not the fire the flock traffic cameras. >> Yep. >> We're I understand that we we heard the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tB4LT6aChJA&t=5343s)  _(term: alpr_flock, unreviewed)_
+  > ...>> Yeah. >> Okay. And so at this point, you okay with leaving flock on there for now? >> I was okay. I just I hadn't got my packet till today. I mean, I was a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tB4LT6aChJA&t=5619s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-03] Board of Selectmen** -- Board of Selectmen Meeting March 3, 2026
   > ...>> Thank you. >> Uh it says flock out is only done with land acquisition fund. Land ac Oh, land acquisition fund. So we did not fund the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tB4LT6aChJA&t=8046s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-03] Board of Selectmen** -- Board of Selectmen Meeting March 3, 2026
+  > ...Go ahead. >> I mean I know it's not the fire the flock traffic cameras. >> Yep. >> We're I understand that we we heard the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tB4LT6aChJA&t=5343s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-03] Board of Selectmen** -- Board of Selectmen Meeting March 3, 2026
   > ...we if we're really up against it and we have to eliminate more things from our budget. So So Flock is still in as of today and and during the capital land acquisition fund is part of the capital....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tB4LT6aChJA&t=8079s)  _(term: alpr_flock, unreviewed)_
 
-- **[2026-03-03] Board of Selectmen** -- Board of Selectmen Meeting March 3, 2026
-  > ...>> Yeah. >> Okay. And so at this point, you okay with leaving flock on there for now? >> I was okay. I just I hadn't got my packet till today. I mean, I was a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tB4LT6aChJA&t=5619s)  _(term: alpr_flock, unreviewed)_
-
 - **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
-  > ...Monto. So here I'm here tonight to uh speak about Flock cameras and I wanted to thank Bob for letting me come here and just to uh shed some light on some of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=307s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
-  > ...repair if damaged, who's whose fix is that? Is that on the town or on the flock themselves? >> Okay. So, I had asked that question and I said, "What happens?" Because if you...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=1041s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
-  > ...>> Um [snorts] when the officer was up here talking about the the flock and it sounds like he wants to put him over by 95 184...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=11063s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
-  > ...Um, so back in uh early spring of last year, Bob and I went to a uh meeting that was put on by Flock in uh the town of Rocky Hill. And you're asking what Flock is. Flock is a if you...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=345s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
-  > ...around. Um, and I know if you have any questions, again, Kristen Donahghue from Flock is more than willing to help out with any of that information. >> I have a couple um just follow-up...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=1671s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
-  > ...that was put on by Flock in uh the town of Rocky Hill. And you're asking what Flock is. Flock is a if you go into certain towns you might notice attached to certain poles...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=350s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
-  > ...go into certain towns you might notice attached to certain poles there um it's an automated license plate reader which collects data um motor vehicle data license plates date and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=358s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
-  > ...is back in maybe uh early spring. Uh Bob and I had gone to um a meeting put on by Flock and [snorts] Flock is just I'm sorry just to make sure this the mic is going to be at you and if you're going...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=324s)  _(term: alpr_flock, unreviewed)_
+  > ...questions, please let me know. If there's any questions now, I you please ask. Um, I spoke to uh Flock and she said that uh the representative said if there's anything that she could do,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=855s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
   > ...people are concerned about. Estimated cost. I had spoke to a representative from Flock yesterday. her name is uh Christine uh Donnu and I I told her that I was going to give a uh a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=647s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
-  > ...questions, please let me know. If there's any questions now, I you please ask. Um, I spoke to uh Flock and she said that uh the representative said if there's anything that she could do,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=855s)  _(term: alpr_flock, unreviewed)_
+  > ...go into certain towns you might notice attached to certain poles there um it's an automated license plate reader which collects data um motor vehicle data license plates date and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=358s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
+  > ...repair if damaged, who's whose fix is that? Is that on the town or on the flock themselves? >> Okay. So, I had asked that question and I said, "What happens?" Because if you...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=1041s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
+  > ...Um, so back in uh early spring of last year, Bob and I went to a uh meeting that was put on by Flock in uh the town of Rocky Hill. And you're asking what Flock is. Flock is a if you...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=345s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
+  > ...Monto. So here I'm here tonight to uh speak about Flock cameras and I wanted to thank Bob for letting me come here and just to uh shed some light on some of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=307s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
+  > ...>> Um [snorts] when the officer was up here talking about the the flock and it sounds like he wants to put him over by 95 184...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=11063s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
   > ...description. our dispatcher, our state police dispatcher will enter that information into the flock database and they can go and they can search those within those parameters to see did that...
@@ -367,6 +364,18 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 - **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
   > ...>> Awesome. How you doing? Mike Ogden Carol at Lake Road. Uh couple comments I want to make. one is relative to the flock cameras. The numbers the trooper was throwing out just didn't make sense. I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=11156s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
+  > ...is back in maybe uh early spring. Uh Bob and I had gone to um a meeting put on by Flock and [snorts] Flock is just I'm sorry just to make sure this the mic is going to be at you and if you're going...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=324s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
+  > ...that was put on by Flock in uh the town of Rocky Hill. And you're asking what Flock is. Flock is a if you go into certain towns you might notice attached to certain poles...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=350s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-02-18] Board of Finance** -- Board of Finance Meeting February 18, 2026
+  > ...around. Um, and I know if you have any questions, again, Kristen Donahghue from Flock is more than willing to help out with any of that information. >> I have a couple um just follow-up...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=KYy_9i5Ci_c&t=1671s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-20] Board of Selectmen** -- Board of Selectmen Meeting January 20, 2026
   > ...coming uh the rec recreation commission uh the resident troopers asked if he can come and talk about flock cameras again this year because he's adamant that it's something that we should have and he...
@@ -385,20 +394,20 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=W-u9WloXstE&t=1479s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-18] Board of Selectmen** -- Board of Selectmen Meeting  March 18, 2025
-  > ...did did have a comment last night and it had me think one of the lines in our budget is about flock cameras I was not aware and I confirmed this today that an individual could buy a flock camera...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=W-u9WloXstE&t=1472s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-03-18] Board of Selectmen** -- Board of Selectmen Meeting  March 18, 2025
   > ...someone they don't like spouse whatever but they can once they have it they they get into the entire flock system and the town isn't doesn't have the ability we can do it through the state...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=W-u9WloXstE&t=1493s)  _(term: alpr_flock, unreviewed)_
 
-- **[2025-03-17] Board of Finance** -- Board of Finance Meeting March 17, 2025
-  > ...want to do it and they were the only ones if we could contractually say with flock only the State Police in our town will have access to that data and we're not going to allow firstperson user...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PITkNySQPkE&t=6776s)  _(term: alpr_flock, unreviewed)_
+- **[2025-03-18] Board of Selectmen** -- Board of Selectmen Meeting  March 18, 2025
+  > ...did did have a comment last night and it had me think one of the lines in our budget is about flock cameras I was not aware and I confirmed this today that an individual could buy a flock camera...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=W-u9WloXstE&t=1472s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-17] Board of Finance** -- Board of Finance Meeting March 17, 2025
   > ...b2615 uh proposed General government or or school budget I think it's under like Public Safety the cameras flock cameras um my question would be to anyone on the board does anyone know...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=PITkNySQPkE&t=6362s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-03-17] Board of Finance** -- Board of Finance Meeting March 17, 2025
+  > ...want to do it and they were the only ones if we could contractually say with flock only the State Police in our town will have access to that data and we're not going to allow firstperson user...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PITkNySQPkE&t=6776s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-03-17] Board of Finance** -- Board of Finance Meeting March 17, 2025
   > ...troopers for the state of Connecticut and they invited any CEOs that wanted to go to it to go to it so I went and flock is actually a uh a private company that handles cameras all throughout the...
@@ -417,12 +426,12 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gLQAb9FDVdo&t=8476s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-04] Board of Selectmen** -- Board of Selectmen Meeting February 4, 2025
-  > ...had been to a seminar these are these cameras are the this company called flock puts them up they put them in all the towns they're not for speeding they're not for...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gLQAb9FDVdo&t=8489s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-02-04] Board of Selectmen** -- Board of Selectmen Meeting February 4, 2025
   > ...again all right we can talk about it more if you want I can have some from flock come in and talk to us too but it's it's up to you I mean it's not something I'm I definitely gonna as I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gLQAb9FDVdo&t=8675s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-02-04] Board of Selectmen** -- Board of Selectmen Meeting February 4, 2025
+  > ...had been to a seminar these are these cameras are the this company called flock puts them up they put them in all the towns they're not for speeding they're not for...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gLQAb9FDVdo&t=8489s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -468,6 +477,22 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 - **[2024-06-18] Board of Selectmen** -- Board of Selectmen Meeting June 18, 2024
   > ...messing yeah so this is can you pull that up that's a great picture that drone picture of the field is great make sure Zoom can see it as well yeah what what platform are they who I I know I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=agZan7w6EqI&t=3460s)  _(term: drone, unreviewed)_
+
+- **[2023-02-01] Board of Finance** -- Board of Finance meeting February 1, 2023
+  > ...victim and when one Department showed up with a heat-seeking drone I believe the person was found within five minutes or thereabouts...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-5CfzyxVofU&t=7501s)  _(term: drone, unreviewed)_
+
+- **[2023-02-01] Board of Finance** -- Board of Finance meeting February 1, 2023
+  > ...Bill Rooker why ask it uh Road Chief do we have a drone heat-seeking drone we have five lakes in town um Lake of Isles Long Lake Billings blue...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-5CfzyxVofU&t=7460s)  _(term: drone, unreviewed)_
+
+- **[2023-02-01] Board of Finance** -- Board of Finance meeting February 1, 2023
+  > ...who was next Bill Rooker why ask it uh Road Chief do we have a drone heat-seeking drone we have five lakes in town...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-5CfzyxVofU&t=7458s)  _(term: drone, unreviewed)_
+
+- **[2023-02-01] Board of Finance** -- Board of Finance meeting February 1, 2023
+  > ...okay I'm sorry I had misinformation from the state trooper that said it was each heat-seeking drone but uh the fact remains uh do you have sufficient equipment to find a drowning...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-5CfzyxVofU&t=7544s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -740,8 +765,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 449 (fetched: 193, no captions: 8)
-- Date range covered: 2020-01-13 to 2026-09-02 (all 449 videos dated)
+- Videos registered: 451 (fetched: 265, no captions: 13)
+- Date range covered: 2020-01-13 to 2026-09-15 — **based on the 450 of 451 videos that carry a parseable upload date**; the other 1 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -755,8 +780,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| nosto_public_meetings | streams | 2026-09-10 12:07:15.393843 | 441 |
-| nosto_public_meetings | videos | 2026-09-10 12:07:08.983109 | 67 |
+| nosto_public_meetings | streams | 2026-09-25 15:45:27.819243 | 443 |
+| nosto_public_meetings | videos | 2026-09-25 15:45:21.412953 | 68 |
 
 
 ## Registered meeting bodies
@@ -765,10 +790,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 137 |
 | Tax Relief Committee | budget_finance | True | 4 |
-| Board of Selectmen | council | True | 173 |
+| Board of Selectmen | council | True | 174 |
 | Board of Education | education | True | 75 |
 | Economic Development Commission | other | True | 2 |
-| Planning and Zoning Commission | other | True | 12 |
+| Planning and Zoning Commission | other | True | 13 |
 | Public Hearing | other | True | 5 |
 | Sustainability Committee | other | True | 18 |
 | Town Meeting | other | True | 19 |
@@ -778,8 +803,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 210 (fetched: 193)
-- Date range covered: 2026-01-05 to 2026-09-10
+- Documents registered: 238 (fetched: 214)
+- Date range covered: 2026-01-05 to 2026-09-28
 
 
 ### Agenda sources
@@ -805,7 +830,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (8 shown, max 25)
+### Videos with no captions available (13 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
@@ -816,6 +841,11 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Board of Finance Special Meeting | 2024-03-27 |
 | Board of Finance 3.13.24 | 2024-03-13 |
 | Board of Selectmen February 20, 2024 | 2024-02-20 |
+| Board of Selectmen December 12, 2023 | 2023-12-12 |
+| Board of Finance October 18, 2023 | 2023-10-18 |
+| August 9, 2023 - Regular BOE | 2023-08-09 |
+| Board of Selectmen January 10, 2023 | 2023-01-10 |
+| Board of Selectmen meeting December 13, 2022 | 2022-12-13 |
 | BOE | 2020-08-13 |
 
 
@@ -858,5 +888,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:59:36 from North Stonington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:05:16 from North Stonington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

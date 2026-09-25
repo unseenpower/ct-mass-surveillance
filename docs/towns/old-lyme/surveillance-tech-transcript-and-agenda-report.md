@@ -1,9 +1,9 @@
 # Surveillance-tech report: Old Lyme
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,13 +14,13 @@
 
 ## At a glance: Old Lyme
 
-<p class="glance-headline"><strong>102 mentions</strong> of surveillance technology in <strong>48</strong> Old Lyme meetings, 2022–2026</p>
+<p class="glance-headline"><strong>124 mentions</strong> of surveillance technology in <strong>60</strong> Old Lyme meetings, 2021–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">102</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 48 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2022–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2022-01-12 → 2026-08-11</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">124</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 60 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2021–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-03-02 → 2026-09-14</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Predictive policing</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">71%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">631 of 893 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">81%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">732 of 901 meetings</span></a>
 <a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">5</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
@@ -53,8 +53,8 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
 | [ALPR / Flock](#alpr) | 19 | 9 | 2022-07-13 | 2026-08-11 |
-| [Body cameras](#body_camera) | 16 | 9 | 2022-01-18 | 2023-09-05 |
-| [Drones](#drone) | 66 | 32 | 2022-01-12 | 2026-08-11 |
+| [Body cameras](#body_camera) | 21 | 11 | 2021-03-16 | 2023-09-05 |
+| [Drones](#drone) | 83 | 43 | 2021-03-02 | 2026-09-14 |
 | [Predictive policing](#predictive_policing) | 1 | 1 | 2022-09-12 | 2022-09-12 |
 
 
@@ -62,11 +62,17 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 <!-- report-polish v1 -->
 
-48 meetings surfaced a finding (48 dated, spanning 2022-01-12 to 2026-08-11; 0 of unknown date, listed last). Newest first.
+60 meetings surfaced a finding (60 dated, spanning 2021-03-02 to 2026-09-14; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-11.*
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
 
-??? note "Earlier meetings (48)"
+### 2026-09-14 -- Historic District Commission
+
+**Historic District Commission Meeting 9/14/26** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_uwzvG6fHfE&t=1375s)  > ...funds in order to redo the roof. And we had a vendor come out. He did a whole walkthrough. He did a drone, all of these things. And he came to us and said, "I don't know if you guys knew...
+
+??? note "Earlier meetings (59)"
 
     **2026-08-11 -- Road and Public Safety Committee**
 
@@ -410,6 +416,82 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=86gYGtmeMCo&t=2839s)  > ...just do all of it yeah it's kind of like the whole drone effort where yes...
 
+    **2021-06-14 -- Zoning Commission**
+
+    **Zoning Commission Meeting Recording 6.14.2021** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=m6s0zYJvDPA&t=7264s)  > ...uh they just uh so there's a shop uh hovering from a drone hovering over the river of the house so that addition would be kind of in...
+
+    **2021-05-27 -- Board of Selectmen**
+
+    **Board of Selectmen Special Meeting Recording 5.27.2021** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ekGbpGKt_Q4&t=2814s)  > ...this position this soon it's i flew my drone over the over the river right during the dredging after the dredging and you can clearly see...
+
+    **2021-05-14 -- Open Space Commission**
+
+    **Open Space Meeting 5.14.2021** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=-bTusmzjsSQ&t=2105s)  > ...come out uh and take extensive video footage with a drone of where the the flooding was taking place and we were trying to...
+
+    **2021-05-11 -- Harbor Management Commission**
+
+    **Harbor Management Commission Meeting Recording 5.11.2021** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=-RX3I41Xzu8&t=2025s)  > ...think so okay aerial photographs from the drone that i presented to the commission i've never seen those yet so put it down...
+
+    **2021-05-04 -- Conservation Commission**
+
+    **Conservation Commission Meeting Recording 5.4.2021** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=WhjBlSNou94&t=3024s)  > ...um put cameras there and we're monitoring the beaver activity we had a drone flight done which shows us the whole area overlaid with gis so we can see...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=WhjBlSNou94&t=3629s)  > ...i i just i just don't want to speculate but we will certainly keep you informed we'll be putting the drone presentation um on the um website and we'll have pictures and everything...
+
+    **2021-04-09 -- Open Space Commission**
+
+    **Open Space Commission Meeting Recording 4.9.2021** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6HhqbyGJ9E&t=77s)  > ...okay um i just want to mention that yesterday we did have the ames drone flight and andrea will go into it more detail um i'm sure and as part of that rockfall...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6HhqbyGJ9E&t=104s)  > ...approve the um authorization for me to pay sixteen hundred dollars for the drone flight which will be put on our web page and will be...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6HhqbyGJ9E&t=141s)  > ...installed so i have another question you said 1600 for the drone yeah flight and the because 1500 was mentioned in the budget...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6HhqbyGJ9E&t=4971s)  > ...um uh uh the fence clearing the drone will have the bench um we'll have something on birthday even...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6HhqbyGJ9E&t=5062s)  > ...ahead gary i i i had a quick question uh andrea how did the drone flight go did you guys get to see the footage or were they able to uh...
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6HhqbyGJ9E&t=5080s)  > ...pan down and they'll give us some free pictures you know free for you know standalone pictures and then the drone um to the opposite side uh heading south towards 95 on...
+
+    **2021-04-05 -- Board of Selectmen**
+
+    **Board of Selectmen Meeting Recording 4.5.2021** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Lkh17Bbo8J0&t=6219s)  > ...this board thought about that and then secondly i put proposal together maybe six months ago for a drone show and i wasn't sure if you guys have looked into that...
+
+    **2021-03-23 -- Board of Finance**
+
+    **Board of Finance Meeting Recording 3.23.2021** _(topics: body_camera)_
+
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3HaDyvoyS00&t=4057s)  > ...the colonel of the state police we're not doing dash cam stars we're not doing body cam storage so we're going to lose the body cam storage too or dash cam rather...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3HaDyvoyS00&t=4060s)  > ...state police we're not doing dash cam stars we're not doing body cam storage so we're going to lose the body cam storage too or dash cam rather no but the dashboard the letter...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3HaDyvoyS00&t=4132s)  > ...first yeah and then have them in nukes by july 1. so the body cam is purchasing the body cans do we need to we did that yeah...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=3HaDyvoyS00&t=5607s)  > ...that are good for the community like body cams body cams tennis courts or body cam storage all right we've got a motion on the...
+
+    **2021-03-16 -- Board of Finance**
+
+    **Board of Finance Meeting Recording 3.16.2021** _(topics: body_camera, drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=TjUBcTK9gc8&t=1366s)  > ...we will be actively doing the artist trail and expending money for we have a drone um uh bill that i have to pay and enough signs and things like that so...
+    - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=TjUBcTK9gc8&t=6573s)  > ...have anything new well michelle if we could under other business because police body cam as well we need to deal with if we could have both of these...
+
+    **2021-03-12 -- Open Space Commission**
+
+    **Open Space Commission Meeting Recording 3.12.2021** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=95_ULXzvmOg&t=5554s)  > ...we explicitly wrote into our grant that we would use a drone to determine exactly uh where the waters are rising from those dams and if they are...
+
+    **2021-03-02 -- Conservation Commission**
+
+    **Conservation Commission Meeting Recording 3.2.2021** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=F_B2T3R9PGw&t=1365s)  > ...we're not going to be able to do it so that's why these gis levels and a drone flight would be you know appropriate at that point...
+
 
 ## Findings by topic
 
@@ -433,24 +515,28 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=sBwwyFQtHBI&t=2830s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-10] Road and Public Safety Committee** -- Road & Public Safety Committee Meeting 3/10/26
-  > ...differently and the data concerns are not the same. You all are scared about Flock and what data they're sharing. This is not owned and operated by Flock." But it's like, well, if the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=sBwwyFQtHBI&t=2955s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-10] Road and Public Safety Committee** -- Road & Public Safety Committee Meeting 3/10/26
   > ...Flock and what data they're sharing. This is not owned and operated by Flock." But it's like, well, if the technology behind the two devices is the same, it doesn't really matter if they...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=sBwwyFQtHBI&t=2959s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-10] Road and Public Safety Committee** -- Road & Public Safety Committee Meeting 3/10/26
+  > ...differently and the data concerns are not the same. You all are scared about Flock and what data they're sharing. This is not owned and operated by Flock." But it's like, well, if the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=sBwwyFQtHBI&t=2955s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-08-14] Road and Public Safety Committee** -- Road and Public Safety Committee Meeting August 2025
   > ...it's the data protections and safeties and particularly who the manufacturer is because if it's flock is manufacturing, >> I think what suggests Sophie is you jot down your questions....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=KxQT5dr0gIk&t=4286s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-11] Board of Finance** -- Board of Finance Meeting February 11, 2025
+  > ...and it it does dissuade if they are adult eggs then they don't hatch and the flock moves on and we've done this here in town yeah 20 years ago well it was on the board of when we did it the woman...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8l9TRYPL-A8&t=1184s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-02-11] Board of Finance** -- Board of Finance Meeting February 11, 2025
   > ...with deep on this is there some way to identify the flock versus like the I'm sure there's a billion of them over in eastline like do some of them come or do they stay with...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=8l9TRYPL-A8&t=1073s)  _(term: alpr_flock, unreviewed)_
 
-- **[2025-02-11] Board of Finance** -- Board of Finance Meeting February 11, 2025
-  > ...and it it does dissuade if they are adult eggs then they don't hatch and the flock moves on and we've done this here in town yeah 20 years ago well it was on the board of when we did it the woman...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8l9TRYPL-A8&t=1184s)  _(term: alpr_flock, unreviewed)_
+- **[2025-02-04] Board of Finance** -- Board of Finance Regular Meeting Feb 4 2025
+  > ...at a Rogers Lake Authority meeting and it's they're all over the lake as well so it's a big flock that's all over that area and they've been doing this process informally for years now Dick...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=k9Yrhb9vd_E&t=1091s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-02-04] Board of Finance** -- Board of Finance Regular Meeting Feb 4 2025
   > ...mean I'm not thinking about this as specific to Hayes Park because this flock lives in a pound woods and I was at a Rogers Lake Authority meeting and it's they're all over the lake as well...
@@ -460,9 +546,13 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   > ...it's a hard argument also doing townwoods and well he's doing that flock which lives everywhere right so you can't really separate it that $331,000 number that is inclusive of...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=k9Yrhb9vd_E&t=393s)  _(term: alpr_flock, unreviewed)_
 
-- **[2025-02-04] Board of Finance** -- Board of Finance Regular Meeting Feb 4 2025
-  > ...at a Rogers Lake Authority meeting and it's they're all over the lake as well so it's a big flock that's all over that area and they've been doing this process informally for years now Dick...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=k9Yrhb9vd_E&t=1091s)  _(term: alpr_flock, unreviewed)_
+- **[2025-01-08] Rogers Lake Authority** -- Rogers Lake Authority Regular Meeting January 8, 2025
+  > ...um included in the past some measures to control the flock primarily using dogs to harass the flock it's illegal to kill them um and certainly I don't want to see any of the animals times but we've...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=exm-ZNLeFmU&t=1434s)  _(term: alpr_flock, unreviewed)_
+
+- **[2025-01-08] Rogers Lake Authority** -- Rogers Lake Authority Regular Meeting January 8, 2025
+  > ...they have um included in the past some measures to control the flock primarily using dogs to harass the flock it's illegal to kill them um and certainly I don't want to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=exm-ZNLeFmU&t=1432s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-01-08] Rogers Lake Authority** -- Rogers Lake Authority Regular Meeting January 8, 2025
   > ...between start to be constructed Finance for both L line and I'd like to see some consideration for uh flock control submitt from I be talking to...
@@ -473,20 +563,12 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=exm-ZNLeFmU&t=2498s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-01-08] Rogers Lake Authority** -- Rogers Lake Authority Regular Meeting January 8, 2025
-  > ...effective but not one thing by itself will typically work have to be Contin process until flock ultimately disperses and leaves of the dog...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=exm-ZNLeFmU&t=1892s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-01-08] Rogers Lake Authority** -- Rogers Lake Authority Regular Meeting January 8, 2025
-  > ...they have um included in the past some measures to control the flock primarily using dogs to harass the flock it's illegal to kill them um and certainly I don't want to...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=exm-ZNLeFmU&t=1432s)  _(term: alpr_flock, unreviewed)_
-
-- **[2025-01-08] Rogers Lake Authority** -- Rogers Lake Authority Regular Meeting January 8, 2025
   > ...with Parks they reluctantly hired the dogs and when they did hire them the flock left yes um it's something that needs to be continuous though and I know it can...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=exm-ZNLeFmU&t=1477s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-01-08] Rogers Lake Authority** -- Rogers Lake Authority Regular Meeting January 8, 2025
-  > ...um included in the past some measures to control the flock primarily using dogs to harass the flock it's illegal to kill them um and certainly I don't want to see any of the animals times but we've...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=exm-ZNLeFmU&t=1434s)  _(term: alpr_flock, unreviewed)_
+  > ...effective but not one thing by itself will typically work have to be Contin process until flock ultimately disperses and leaves of the dog...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=exm-ZNLeFmU&t=1892s)  _(term: alpr_flock, unreviewed)_
 
 - **[2025-01-06] Board of Selectmen** -- Board of Selectman Regular Meeting January 6, 2025
   > ...we're comfortable with is this something we want to go down the road on uh the flock system of license blate readers some towns swear by it some towns hate it and think it's...
@@ -545,16 +627,16 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=A1_W2NZUQk0&t=4824s)  _(term: body_camera, unreviewed)_
 
 - **[2022-10-18] Board of Finance** -- Board of Finance meeting October 18, 2022
+  > ...all the bills so yeah I think the ewc must be a body worn camera I think yeah [Music]...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8PiDokNpNPk&t=8002s)  _(term: body_camera, unreviewed)_
+
+- **[2022-10-18] Board of Finance** -- Board of Finance meeting October 18, 2022
   > ...be carried over a second time I don't think it's for the right thing because there's a body cam cam and then there's in vehicle cameras dashboard cam dash cam for different things...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=8PiDokNpNPk&t=7892s)  _(term: body_camera, unreviewed)_
 
 - **[2022-10-18] Board of Finance** -- Board of Finance meeting October 18, 2022
   > ...that's part of what I don't know it is God this one this is 9300 you could say body cam another vehicle equipment I mean there's just initials on there that we assume mean body camera right we...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=8PiDokNpNPk&t=8765s)  _(term: body_camera, unreviewed)_
-
-- **[2022-10-18] Board of Finance** -- Board of Finance meeting October 18, 2022
-  > ...all the bills so yeah I think the ewc must be a body worn camera I think yeah [Music]...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8PiDokNpNPk&t=8002s)  _(term: body_camera, unreviewed)_
 
 - **[2022-02-01] Board of Finance** -- Board of Finance Meeting Recording 2.1.2022
   > ...[Applause] and we're still having a little debate about the police body cam and cam storage we think we're a good...
@@ -567,6 +649,26 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 - **[2022-01-18] Board of Finance** -- Board of Finance Meeting Recording 1.18.2022
   > ...in capital you'll see the um the police have to do a big it project for the body cam storage and it's like a 70 thousand dollar project and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DD3MDjd2vNg&t=4272s)  _(term: body_camera, unreviewed)_
+
+- **[2021-03-23] Board of Finance** -- Board of Finance Meeting Recording 3.23.2021
+  > ...state police we're not doing dash cam stars we're not doing body cam storage so we're going to lose the body cam storage too or dash cam rather no but the dashboard the letter...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3HaDyvoyS00&t=4060s)  _(term: body_camera, unreviewed)_
+
+- **[2021-03-23] Board of Finance** -- Board of Finance Meeting Recording 3.23.2021
+  > ...that are good for the community like body cams body cams tennis courts or body cam storage all right we've got a motion on the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3HaDyvoyS00&t=5607s)  _(term: body_camera, unreviewed)_
+
+- **[2021-03-23] Board of Finance** -- Board of Finance Meeting Recording 3.23.2021
+  > ...the colonel of the state police we're not doing dash cam stars we're not doing body cam storage so we're going to lose the body cam storage too or dash cam rather...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3HaDyvoyS00&t=4057s)  _(term: body_camera, unreviewed)_
+
+- **[2021-03-23] Board of Finance** -- Board of Finance Meeting Recording 3.23.2021
+  > ...first yeah and then have them in nukes by july 1. so the body cam is purchasing the body cans do we need to we did that yeah...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=3HaDyvoyS00&t=4132s)  _(term: body_camera, unreviewed)_
+
+- **[2021-03-16] Board of Finance** -- Board of Finance Meeting Recording 3.16.2021
+  > ...have anything new well michelle if we could under other business because police body cam as well we need to deal with if we could have both of these...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TjUBcTK9gc8&t=6573s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -591,6 +693,14 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ### drone
 
+- **[2026-09-14] Historic District Commission** -- Historic District Commission Meeting 9/14/26
+  > ...funds in order to redo the roof. And we had a vendor come out. He did a whole walkthrough. He did a drone, all of these things. And he came to us and said, "I don't know if you guys knew...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_uwzvG6fHfE&t=1375s)  _(term: drone, unreviewed)_
+
+- **[2026-08-11] Road and Public Safety Committee** -- Road and Public Safety Committee Meeting 8/11/26
+  > ...the utilitarian use of that but I'm not sure what else they would capture when they have a drone flying over my house >> that's not their priority at that point they'll be just like...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=K-N8qaJLLwE&t=3218s)  _(term: drone, unreviewed)_
+
 - **[2026-08-11] Road and Public Safety Committee** -- Road and Public Safety Committee Meeting 8/11/26
   > ...they could find out exactly where they were. Someone said somebody's drawn on the river, they could have the drone exactly where that was. And and that was basically turned down by the mayor...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=K-N8qaJLLwE&t=3200s)  _(term: drone, unreviewed)_
@@ -599,9 +709,13 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   > ...totally huge number of violations in town. Um, one of the things he wanted to do was get a drone that was going to be for basically emergency rescue things. If...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=K-N8qaJLLwE&t=3188s)  _(term: drone, unreviewed)_
 
-- **[2026-08-11] Road and Public Safety Committee** -- Road and Public Safety Committee Meeting 8/11/26
-  > ...the utilitarian use of that but I'm not sure what else they would capture when they have a drone flying over my house >> that's not their priority at that point they'll be just like...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=K-N8qaJLLwE&t=3218s)  _(term: drone, unreviewed)_
+- **[2026-07-27] Board of Selectmen** -- Board of Selectmen Special Meeting 7/27/26
+  > ...there because of High Hopes and the Forces. But um they also asked if we could consider a laser light or a drone show. Um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yeAAwg0lLgM&t=113s)  _(term: drone, unreviewed)_
+
+- **[2026-07-27] Board of Selectmen** -- Board of Selectmen Special Meeting 7/27/26
+  > ...>> So, that's that's a burden, and I'm wondering if we can begin a discussion and look into uh drone show light show type things uh because that's proven to be very...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yeAAwg0lLgM&t=2913s)  _(term: drone, unreviewed)_
 
 - **[2026-07-27] Board of Selectmen** -- Board of Selectmen Special Meeting 7/27/26
   > ...the footage of Boston's uh America 250 celebration, they had a pretty awesome drone show, and I know Saybrook just did one. >> Mhm....
@@ -610,14 +724,6 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 - **[2026-07-27] Board of Selectmen** -- Board of Selectmen Special Meeting 7/27/26
   > ...since, you know, we're a year out now, we can at least start a discussion about considering a drone show for that particular event. Um or or something like that, and price it out and uh get...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=yeAAwg0lLgM&t=2963s)  _(term: drone, unreviewed)_
-
-- **[2026-07-27] Board of Selectmen** -- Board of Selectmen Special Meeting 7/27/26
-  > ...there because of High Hopes and the Forces. But um they also asked if we could consider a laser light or a drone show. Um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yeAAwg0lLgM&t=113s)  _(term: drone, unreviewed)_
-
-- **[2026-07-27] Board of Selectmen** -- Board of Selectmen Special Meeting 7/27/26
-  > ...>> So, that's that's a burden, and I'm wondering if we can begin a discussion and look into uh drone show light show type things uh because that's proven to be very...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yeAAwg0lLgM&t=2913s)  _(term: drone, unreviewed)_
 
 - **[2026-06-09] Zoning Commission** -- Zoning Commission Regular Meeting June 8
   > ...consideration shall be given to back filling the shoulder be behind the curb with crush drone and grading uh at a slope towards the base of the rock face uh rock face I'm sorry rock cut with...
@@ -640,20 +746,20 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DINvgsrfPS0&t=1958s)  _(term: drone, unreviewed)_
 
 - **[2026-03-11] Rogers Lake Authority** -- Rogers Lake Authority Regular Meeting 3/11/26
-  > ...issue of the depth. I don't know if any of you got a chance to look, but they there's a like a drone picture of a boat going by that leaves a trail of disturbed...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cym7_Ws4rKk&t=3993s)  _(term: drone, unreviewed)_
-
-- **[2026-03-11] Rogers Lake Authority** -- Rogers Lake Authority Regular Meeting 3/11/26
-  > ...>> I've used a drone against them. >> I got a little drone I can put in the water gun. >> I've done that, too. >> Yeah. And those...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cym7_Ws4rKk&t=4889s)  _(term: drone, unreviewed)_
+  > ...>> He gets his little remote control boat out there. I >> I've used a drone against them. >> I got a little drone I can put in the water gun....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cym7_Ws4rKk&t=4886s)  _(term: drone, unreviewed)_
 
 - **[2026-03-11] Rogers Lake Authority** -- Rogers Lake Authority Regular Meeting 3/11/26
   > ...uh drone thing. It's amphibious >> drone thing. orange >> painted like a >> dragon...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=cym7_Ws4rKk&t=4856s)  _(term: drone, unreviewed)_
 
 - **[2026-03-11] Rogers Lake Authority** -- Rogers Lake Authority Regular Meeting 3/11/26
-  > ...>> He gets his little remote control boat out there. I >> I've used a drone against them. >> I got a little drone I can put in the water gun....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cym7_Ws4rKk&t=4886s)  _(term: drone, unreviewed)_
+  > ...>> I've used a drone against them. >> I got a little drone I can put in the water gun. >> I've done that, too. >> Yeah. And those...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cym7_Ws4rKk&t=4889s)  _(term: drone, unreviewed)_
+
+- **[2026-03-11] Rogers Lake Authority** -- Rogers Lake Authority Regular Meeting 3/11/26
+  > ...issue of the depth. I don't know if any of you got a chance to look, but they there's a like a drone picture of a boat going by that leaves a trail of disturbed...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cym7_Ws4rKk&t=3993s)  _(term: drone, unreviewed)_
 
 - **[2026-03-11] Rogers Lake Authority** -- Rogers Lake Authority Regular Meeting 3/11/26
   > ...There. Apparently the school has one. I don't know. There is this robot uh drone thing. It's amphibious >> drone thing. orange...
@@ -676,12 +782,12 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7ApfLKiRej0&t=924s)  _(term: drone, unreviewed)_
 
 - **[2025-03-12] Open Space Commission** -- Open Space Commission Meeting March 12, 2025
-  > ...a high school student who did some work for us back when he was in high school and he did some some drone flights and images of Ames. uh and Andrea contacted him and asked him if he could use the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9CC0GQO-rus&t=3545s)  _(term: drone, unreviewed)_
-
-- **[2025-03-12] Open Space Commission** -- Open Space Commission Meeting March 12, 2025
   > ...you Russell if you discussed it with Steve is is uh we had Nancy Merritt do some uh work for us in mapping drone mapping and so forth and she said that she gave us the files to begin to be as...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=9CC0GQO-rus&t=3474s)  _(term: drone, unreviewed)_
+
+- **[2025-03-12] Open Space Commission** -- Open Space Commission Meeting March 12, 2025
+  > ...a high school student who did some work for us back when he was in high school and he did some some drone flights and images of Ames. uh and Andrea contacted him and asked him if he could use the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9CC0GQO-rus&t=3545s)  _(term: drone, unreviewed)_
 
 - **[2024-12-16] Board of Selectmen** -- Board of Selectmen Regular Meeting December 16, 2024
   > ...a non part is an issue uh there's widespread concern about uh coordinated drone activity off the coast um and oversensitive areas and uh I know that uh the town of that the state has sent...
@@ -696,20 +802,24 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rtH3Z7vHa_k&t=1897s)  _(term: drone, unreviewed)_
 
 - **[2024-05-08] Open Space Commission** -- Open Space Commission Meeting of May 8, 2024
-  > ...stilling images and she did video and she did the video as at the slowest speed the Drone could fly I guess last time it looked like it was just Trucking right along the land and was really hard...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DHHltYx6DcM&t=1304s)  _(term: drone, unreviewed)_
+  > ...own notes and yeah I sent you guys all this in an email but just um the Drone The nany Merck did the Drone work for Fairy landing on Friday and then Saturday I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DHHltYx6DcM&t=5530s)  _(term: drone, unreviewed)_
 
 - **[2024-05-08] Open Space Commission** -- Open Space Commission Meeting of May 8, 2024
-  > ...and yeah I sent you guys all this in an email but just um the Drone The nany Merck did the Drone work for Fairy landing on Friday and then Saturday I guess she and she said it went great on...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DHHltYx6DcM&t=5533s)  _(term: drone, unreviewed)_
+  > ...stilling images and she did video and she did the video as at the slowest speed the Drone could fly I guess last time it looked like it was just Trucking right along the land and was really hard...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DHHltYx6DcM&t=1304s)  _(term: drone, unreviewed)_
 
 - **[2024-05-08] Open Space Commission** -- Open Space Commission Meeting of May 8, 2024
   > ...research for an flown a couple Dron flights at F landing and and we did a a drone flight Saturday at bar here um so this is this is the parking lot when the trail comes in here um there was a a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DHHltYx6DcM&t=1226s)  _(term: drone, unreviewed)_
 
 - **[2024-05-08] Open Space Commission** -- Open Space Commission Meeting of May 8, 2024
-  > ...own notes and yeah I sent you guys all this in an email but just um the Drone The nany Merck did the Drone work for Fairy landing on Friday and then Saturday I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DHHltYx6DcM&t=5530s)  _(term: drone, unreviewed)_
+  > ...and yeah I sent you guys all this in an email but just um the Drone The nany Merck did the Drone work for Fairy landing on Friday and then Saturday I guess she and she said it went great on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DHHltYx6DcM&t=5533s)  _(term: drone, unreviewed)_
+
+- **[2024-04-10] Open Space Commission** -- Open Space Commission Meeting April 10, 2024
+  > ...he was located in Old Line he said that you're not supposed to love the Drone a drone out of your site when you're flying so she would want to have somebody maybe on one of the trails or...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=e05ohbPLeMI&t=5238s)  _(term: drone, unreviewed)_
 
 - **[2024-04-10] Open Space Commission** -- Open Space Commission Meeting April 10, 2024
   > ...did a lot of work for Noah flying drones he was located in Old Line he said that you're not supposed to love the Drone a drone out of your site when you're flying so she would want to have...
@@ -718,10 +828,6 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 - **[2024-04-10] Open Space Commission** -- Open Space Commission Meeting April 10, 2024
   > ...don't know I'm having remembering her name uh is going to come back and do her drone flyover for the spring foliage at um um a fairy Landing her she's shooting for some...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=e05ohbPLeMI&t=5158s)  _(term: drone, unreviewed)_
-
-- **[2024-04-10] Open Space Commission** -- Open Space Commission Meeting April 10, 2024
-  > ...he was located in Old Line he said that you're not supposed to love the Drone a drone out of your site when you're flying so she would want to have somebody maybe on one of the trails or...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=e05ohbPLeMI&t=5238s)  _(term: drone, unreviewed)_
 
 - **[2024-04-10] Open Space Commission** -- Open Space Commission Meeting April 10, 2024
   > ...going to be pretty simple she the the the uh as I recall from from we considered drone use on open space a long time ago we had a gentleman uh who did a lot of work for Noah flying drones...
@@ -744,22 +850,6 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=xdBBD0rbxJc&t=799s)  _(term: drone, unreviewed)_
 
 - **[2023-11-08] Open Space Commission** -- Open Space Commission Meeting of November 8, 2023
-  > ...could also get a little boat and just paddle out to the middle of the pond and launch the Drone from there you know I like the way you guys think great this is why we have such a A Creative Group I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CkdzoHM66mQ&t=3079s)  _(term: drone, unreviewed)_
-
-- **[2023-11-08] Open Space Commission** -- Open Space Commission Meeting of November 8, 2023
-  > ...that I mean as it is we I was just sort of going to I had framed it that we were paying her for two drone flights one of which would be accomplished in the spring simply because that's and and I I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CkdzoHM66mQ&t=3048s)  _(term: drone, unreviewed)_
-
-- **[2023-11-08] Open Space Commission** -- Open Space Commission Meeting of November 8, 2023
-  > ...maybe it's several people in this room but we had at one point uh investigated whether to have drone use uh on open space land and we had uh I know maybe May that recalls his name we had a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CkdzoHM66mQ&t=3094s)  _(term: drone, unreviewed)_
-
-- **[2023-11-08] Open Space Commission** -- Open Space Commission Meeting of November 8, 2023
-  > ...project is on the list before we let's let's finish up on on if you you want to talk about the Drone okay well I was going to get to that but as just a quick thing on the frag...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CkdzoHM66mQ&t=2579s)  _(term: drone, unreviewed)_
-
-- **[2023-11-08] Open Space Commission** -- Open Space Commission Meeting of November 8, 2023
   > ...through we the Drone issue um so we were we had hired Merck to do mapping as well as drone photography of the site and I had that was another thing I had been in conversation with deep folks about and...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=CkdzoHM66mQ&t=2708s)  _(term: drone, unreviewed)_
 
@@ -768,24 +858,40 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=CkdzoHM66mQ&t=2700s)  _(term: drone, unreviewed)_
 
 - **[2023-11-08] Open Space Commission** -- Open Space Commission Meeting of November 8, 2023
-  > ...drones and so forth I remember he was telling me that the the Faba regulation is that drone always has to be within your eyesight h so okay she can't fly up above the fragm and then down the P...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CkdzoHM66mQ&t=3111s)  _(term: drone, unreviewed)_
-
-- **[2023-11-08] Open Space Commission** -- Open Space Commission Meeting of November 8, 2023
   > ...not about photographing they were talking about safety and number has to do with having a drone on state props from that guy was running back and forth on...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=CkdzoHM66mQ&t=2804s)  _(term: drone, unreviewed)_
+
+- **[2023-11-08] Open Space Commission** -- Open Space Commission Meeting of November 8, 2023
+  > ...maybe it's several people in this room but we had at one point uh investigated whether to have drone use uh on open space land and we had uh I know maybe May that recalls his name we had a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CkdzoHM66mQ&t=3094s)  _(term: drone, unreviewed)_
 
 - **[2023-11-08] Open Space Commission** -- Open Space Commission Meeting of November 8, 2023
   > ...send you the the the the response that we had from Deep which basically listed a series of reasons why drone use was forok so something I'm missing here why why is the state involved from flying...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=CkdzoHM66mQ&t=2882s)  _(term: drone, unreviewed)_
 
-- **[2023-09-13] Open Space Commission** -- Open Space Commission Meeting September 13, 2023
-  > ...invasive control and she also has a drone and she's going to do a couple drone flights to kind of provide images of the ferry landing area that her student intern Nick Force...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tXe6sCubYJg&t=3413s)  _(term: drone, unreviewed)_
+- **[2023-11-08] Open Space Commission** -- Open Space Commission Meeting of November 8, 2023
+  > ...could also get a little boat and just paddle out to the middle of the pond and launch the Drone from there you know I like the way you guys think great this is why we have such a A Creative Group I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CkdzoHM66mQ&t=3079s)  _(term: drone, unreviewed)_
+
+- **[2023-11-08] Open Space Commission** -- Open Space Commission Meeting of November 8, 2023
+  > ...that I mean as it is we I was just sort of going to I had framed it that we were paying her for two drone flights one of which would be accomplished in the spring simply because that's and and I I...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CkdzoHM66mQ&t=3048s)  _(term: drone, unreviewed)_
+
+- **[2023-11-08] Open Space Commission** -- Open Space Commission Meeting of November 8, 2023
+  > ...drones and so forth I remember he was telling me that the the Faba regulation is that drone always has to be within your eyesight h so okay she can't fly up above the fragm and then down the P...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CkdzoHM66mQ&t=3111s)  _(term: drone, unreviewed)_
+
+- **[2023-11-08] Open Space Commission** -- Open Space Commission Meeting of November 8, 2023
+  > ...project is on the list before we let's let's finish up on on if you you want to talk about the Drone okay well I was going to get to that but as just a quick thing on the frag...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CkdzoHM66mQ&t=2579s)  _(term: drone, unreviewed)_
 
 - **[2023-09-13] Open Space Commission** -- Open Space Commission Meeting September 13, 2023
   > ...guidelines for Native planting and invasive control and she also has a drone and she's going to do a couple drone flights to kind of provide images of the ferry landing area...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=tXe6sCubYJg&t=3412s)  _(term: drone, unreviewed)_
+
+- **[2023-09-13] Open Space Commission** -- Open Space Commission Meeting September 13, 2023
+  > ...invasive control and she also has a drone and she's going to do a couple drone flights to kind of provide images of the ferry landing area that her student intern Nick Force...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=tXe6sCubYJg&t=3413s)  _(term: drone, unreviewed)_
 
 - **[2023-08-07] Board of Selectmen** -- Board of Selectmen Meeting of August 7, 2023
   > ...get back to you but then after that we need is it is it really overgrown like you can't get a drone in there or someone's friends I had to go to get the kayak you have to go under and you have...
@@ -808,20 +914,20 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=E4hTZOlwfs8&t=5482s)  _(term: drone, unreviewed)_
 
 - **[2023-04-05] Economic Development Commission** -- Economic Development Commission Meeting April 5, 2023
-  > ...wall River and you know on stand-up paddle boards kayaks right and like a drone shot of that with the black hole wow they're doing a fantastic job black olive marketing their their place uh you...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=E4hTZOlwfs8&t=3837s)  _(term: drone, unreviewed)_
-
-- **[2023-04-05] Economic Development Commission** -- Economic Development Commission Meeting April 5, 2023
   > ...or video that's another thing we could do like a drone or some video um the video I'm personally I'm a little...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=E4hTZOlwfs8&t=3797s)  _(term: drone, unreviewed)_
 
-- **[2023-03-21] Board of Finance** -- Board of Finance March 21, 2023
-  > ...phones how much well rockfall would be for for basically uh periphery stuff helping with the Drone or educational program whatever the main just the amount to shoot for is is Deep's uh new...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ffnKRm3vFeA&t=1535s)  _(term: drone, unreviewed)_
+- **[2023-04-05] Economic Development Commission** -- Economic Development Commission Meeting April 5, 2023
+  > ...wall River and you know on stand-up paddle boards kayaks right and like a drone shot of that with the black hole wow they're doing a fantastic job black olive marketing their their place uh you...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=E4hTZOlwfs8&t=3837s)  _(term: drone, unreviewed)_
 
 - **[2023-03-21] Board of Finance** -- Board of Finance March 21, 2023
   > ...and we helped involve them and really kind of make it a classrooms and we're going to take some drone Fellers see this is what it used to be and you know hopefully in a couple years this is what...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ffnKRm3vFeA&t=527s)  _(term: drone, unreviewed)_
+
+- **[2023-03-21] Board of Finance** -- Board of Finance March 21, 2023
+  > ...phones how much well rockfall would be for for basically uh periphery stuff helping with the Drone or educational program whatever the main just the amount to shoot for is is Deep's uh new...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ffnKRm3vFeA&t=1535s)  _(term: drone, unreviewed)_
 
 - **[2022-12-14] Open Space Commission** -- Open Space Commission meeting December 14, 2022
   > ...the herbicide treatment and removal of the phragmity was 51 plant material planting labor drone um I...
@@ -854,6 +960,70 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 - **[2022-01-12] Economic Development Commission** -- Economic Development Commission Meeting Recording 1.12.2022
   > ...just do all of it yeah it's kind of like the whole drone effort where yes...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=86gYGtmeMCo&t=2839s)  _(term: drone, unreviewed)_
+
+- **[2021-06-14] Zoning Commission** -- Zoning Commission Meeting Recording 6.14.2021
+  > ...uh they just uh so there's a shop uh hovering from a drone hovering over the river of the house so that addition would be kind of in...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=m6s0zYJvDPA&t=7264s)  _(term: drone, unreviewed)_
+
+- **[2021-05-27] Board of Selectmen** -- Board of Selectmen Special Meeting Recording 5.27.2021
+  > ...this position this soon it's i flew my drone over the over the river right during the dredging after the dredging and you can clearly see...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ekGbpGKt_Q4&t=2814s)  _(term: drone, unreviewed)_
+
+- **[2021-05-14] Open Space Commission** -- Open Space Meeting 5.14.2021
+  > ...come out uh and take extensive video footage with a drone of where the the flooding was taking place and we were trying to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-bTusmzjsSQ&t=2105s)  _(term: drone, unreviewed)_
+
+- **[2021-05-11] Harbor Management Commission** -- Harbor Management Commission Meeting Recording 5.11.2021
+  > ...think so okay aerial photographs from the drone that i presented to the commission i've never seen those yet so put it down...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-RX3I41Xzu8&t=2025s)  _(term: drone, unreviewed)_
+
+- **[2021-05-04] Conservation Commission** -- Conservation Commission Meeting Recording 5.4.2021
+  > ...um put cameras there and we're monitoring the beaver activity we had a drone flight done which shows us the whole area overlaid with gis so we can see...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WhjBlSNou94&t=3024s)  _(term: drone, unreviewed)_
+
+- **[2021-05-04] Conservation Commission** -- Conservation Commission Meeting Recording 5.4.2021
+  > ...i i just i just don't want to speculate but we will certainly keep you informed we'll be putting the drone presentation um on the um website and we'll have pictures and everything...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WhjBlSNou94&t=3629s)  _(term: drone, unreviewed)_
+
+- **[2021-04-09] Open Space Commission** -- Open Space Commission Meeting Recording 4.9.2021
+  > ...okay um i just want to mention that yesterday we did have the ames drone flight and andrea will go into it more detail um i'm sure and as part of that rockfall...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6HhqbyGJ9E&t=77s)  _(term: drone, unreviewed)_
+
+- **[2021-04-09] Open Space Commission** -- Open Space Commission Meeting Recording 4.9.2021
+  > ...pan down and they'll give us some free pictures you know free for you know standalone pictures and then the drone um to the opposite side uh heading south towards 95 on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6HhqbyGJ9E&t=5080s)  _(term: drone, unreviewed)_
+
+- **[2021-04-09] Open Space Commission** -- Open Space Commission Meeting Recording 4.9.2021
+  > ...ahead gary i i i had a quick question uh andrea how did the drone flight go did you guys get to see the footage or were they able to uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6HhqbyGJ9E&t=5062s)  _(term: drone, unreviewed)_
+
+- **[2021-04-09] Open Space Commission** -- Open Space Commission Meeting Recording 4.9.2021
+  > ...approve the um authorization for me to pay sixteen hundred dollars for the drone flight which will be put on our web page and will be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6HhqbyGJ9E&t=104s)  _(term: drone, unreviewed)_
+
+- **[2021-04-09] Open Space Commission** -- Open Space Commission Meeting Recording 4.9.2021
+  > ...installed so i have another question you said 1600 for the drone yeah flight and the because 1500 was mentioned in the budget...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6HhqbyGJ9E&t=141s)  _(term: drone, unreviewed)_
+
+- **[2021-04-09] Open Space Commission** -- Open Space Commission Meeting Recording 4.9.2021
+  > ...um uh uh the fence clearing the drone will have the bench um we'll have something on birthday even...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=g6HhqbyGJ9E&t=4971s)  _(term: drone, unreviewed)_
+
+- **[2021-04-05] Board of Selectmen** -- Board of Selectmen Meeting Recording 4.5.2021
+  > ...this board thought about that and then secondly i put proposal together maybe six months ago for a drone show and i wasn't sure if you guys have looked into that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Lkh17Bbo8J0&t=6219s)  _(term: drone, unreviewed)_
+
+- **[2021-03-16] Board of Finance** -- Board of Finance Meeting Recording 3.16.2021
+  > ...we will be actively doing the artist trail and expending money for we have a drone um uh bill that i have to pay and enough signs and things like that so...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TjUBcTK9gc8&t=1366s)  _(term: drone, unreviewed)_
+
+- **[2021-03-12] Open Space Commission** -- Open Space Commission Meeting Recording 3.12.2021
+  > ...we explicitly wrote into our grant that we would use a drone to determine exactly uh where the waters are rising from those dams and if they are...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=95_ULXzvmOg&t=5554s)  _(term: drone, unreviewed)_
+
+- **[2021-03-02] Conservation Commission** -- Conservation Commission Meeting Recording 3.2.2021
+  > ...we're not going to be able to do it so that's why these gis levels and a drone flight would be you know appropriate at that point...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=F_B2T3R9PGw&t=1365s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -1073,8 +1243,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 24
-- Videos registered: 893 (fetched: 631, no captions: 8)
-- Date range covered: 2020-01-07 to 2026-09-08 (all 893 videos dated)
+- Videos registered: 901 (fetched: 730, no captions: 11)
+- Date range covered: 2020-01-07 to 2026-09-21 (all 901 videos dated)
 
 
 ### Channels
@@ -1088,7 +1258,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| old_lyme_ct | videos | 2026-09-10 12:06:35.312545 | 959 |
+| old_lyme_ct | videos | 2026-09-25 15:52:55.473909 | 967 |
 
 
 ## Registered meeting bodies
@@ -1096,36 +1266,36 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | American Rescue Plan Committee | budget_finance | True | 22 |
-| Board of Finance | budget_finance | True | 97 |
+| Board of Finance | budget_finance | True | 98 |
 | Affordable Housing Commission | other | True | 56 |
-| Board of Selectmen | other | True | 147 |
+| Board of Selectmen | other | True | 148 |
 | Community Connectivity Grant Committee | other | True | 43 |
 | Conservation Commission | other | True | 13 |
 | Economic Development Commission | other | True | 59 |
 | Ethics Commission | other | True | 5 |
 | Halls Road Committee | other | True | 21 |
 | Harbor Management Commission | other | True | 8 |
-| Historic District Commission | other | True | 52 |
+| Historic District Commission | other | True | 53 |
 | Inland Wetlands Commission | other | True | 23 |
 | Lymes' Senior Center Building Committee | other | True | 27 |
-| Open Space Commission | other | True | 55 |
+| Open Space Commission | other | True | 56 |
 | Parks and Recreation Commission | other | True | 47 |
 | Planning Commission | other | True | 18 |
-| Rogers Lake Authority | other | True | 34 |
+| Rogers Lake Authority | other | True | 35 |
 | Sound View Commission | other | True | 11 |
 | Sustainable Old Lyme | other | True | 9 |
 | Tree Commission | other | True | 9 |
 | WPCA | other | True | 77 |
-| Zoning Board of Appeals | other | True | 15 |
-| Zoning Commission | other | True | 37 |
+| Zoning Board of Appeals | other | True | 16 |
+| Zoning Commission | other | True | 39 |
 | Road and Public Safety Committee | public_safety | True | 8 |
 
 
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 393 (fetched: 389)
-- Date range covered: 2026-01-05 to 2026-09-23
+- Documents registered: 417 (fetched: 413)
+- Date range covered: 2026-01-05 to 2026-10-13
 
 
 ### Agenda sources
@@ -1148,7 +1318,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (8 shown, max 25)
+### Videos with no captions available (11 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
@@ -1160,6 +1330,9 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Affordable Housing Commission Special Meeting of May 21, 2024 | 2024-05-21 |
 | Board of Selectmen Special Meeting 7.15.2022 | 2022-07-15 |
 | Board of Finance Meeting Recording 5.3.2022 | 2022-05-03 |
+| Harbor Management Commission Meeting Recording 4.13.2021 | 2021-04-13 |
+| Planning Commission Meeting Recording 3.11.2021 | 2021-03-11 |
+| Lymes' Senior Center Building Committee Meeting Recording 3.10.2021 | 2021-03-10 |
 
 
 ### Tabs never crawled
@@ -1203,5 +1376,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:00:27 from Old Lyme's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:06:17 from Old Lyme's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

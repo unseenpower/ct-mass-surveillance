@@ -1,9 +1,9 @@
 # Surveillance-tech report: Windsor
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -21,11 +21,11 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">2024–2025</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-04-16 → 2025-05-20</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras</span></a>
 <a class="glance-card" href="../../../analysis/towns/windsor-alpr-searches.html"><span class="gc-big">23,988</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Windsor police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">49%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">65 of 132 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">51%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">69 of 135 meetings</span></a>
 <a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">6</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
-**Still incomplete:** 67 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+**Still incomplete:** 66 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **Windsor**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -84,7 +84,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 3 meetings surfaced a finding (3 dated, spanning 2024-04-16 to 2025-05-20; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2025-05-20.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2025-05-20.*
 
 ??? note "Earlier meetings (3)"
 
@@ -387,8 +387,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 8
-- Videos registered: 132 (fetched: 65, no captions: 10)
-- Date range covered: 2015-09-15 to 2026-06-16 (all 132 videos dated)
+- Videos registered: 135 (fetched: 69, no captions: 10)
+- Date range covered: 2015-09-15 to 2026-09-15 (all 135 videos dated)
 
 
 ### Channels
@@ -402,8 +402,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| win_tv | streams | 2026-09-10 11:56:49.506264 | 166 |
-| win_tv | videos | 2026-09-10 11:56:46.678476 | 1908 |
+| win_tv | streams | 2026-09-25 15:44:06.071982 | 168 |
+| win_tv | videos | 2026-09-25 15:44:03.169851 | 1915 |
 
 
 ## Registered meeting bodies
@@ -411,7 +411,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Town Council | council | True | 0 |
-| Board of Education | education | True | 126 |
+| Board of Education | education | True | 129 |
 | Commission on Aging and Persons with Disabilities | other | True | 2 |
 | Conservation Commission | other | True | 3 |
 | Human Relations Commission | other | True | 1 |
@@ -426,7 +426,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 126 (fetched: 107)
+- Documents registered: 131 (fetched: 111)
 - Date range covered: 2026-01-05 to 2026-12-21
 
 
@@ -506,5 +506,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:05:41 from Windsor's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:12:08 from Windsor's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

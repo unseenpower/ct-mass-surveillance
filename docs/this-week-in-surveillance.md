@@ -1,15 +1,15 @@
 # This Week in Surveillance — Connecticut
 
-_Last updated 24 September 2026 at 12:05 PM EDT. Covering the 7 days to 24 September 2026._
+_Last updated 25 September 2026 at 5:20 PM EDT. Covering the 7 days to 25 September 2026._
 
 ## Headlines
 
-- **[Meetings held in the last 7 days](#meetings-held-in-the-last-7-days)** — 54 mention(s) across 6 town(s) — South Windsor, New Canaan, West Hartford
+- **[Meetings held in the last 7 days](#meetings-held-in-the-last-7-days)** — 69 mention(s) across 13 town(s) — South Windsor, West Hartford, North Branford
 - **[Additional towns covered in the tracker this week](#additional-towns-covered-in-the-tracker-this-week)** — 3 town(s) entered the tracker
-- **[New signal: topics appearing for the first time in towns already being watched](#new-signal-topics-appearing-for-the-first-time-in-towns-already-being-watched)** — 13 town/topic pairing(s) — Andover (Drones), Berlin (Purchasing / procurement)
+- **[New signal: topics appearing for the first time in towns already being watched](#new-signal-topics-appearing-for-the-first-time-in-towns-already-being-watched)** — 6 town/topic pairing(s) — Andover (Drones), Bristol (Gunshot detection)
 - **[In the news](#in-the-news)** — no new items; most recent sweep on file ran 2026-08-23
-- **[Coming up](#coming-up)** — 10 scheduled meeting(s)
-- **[Volume surfaced this week, by topic](#volume-surfaced-this-week-by-topic)** — 469 mentions across 12 topics — ALPR / Flock 289, Drones 101, General surveillance 39
+- **[Coming up](#coming-up)** — 12 scheduled meeting(s)
+- **[Volume surfaced this week, by topic](#volume-surfaced-this-week-by-topic)** — 232 mentions across 10 topics — ALPR / Flock 88, Drones 84, General surveillance 32
 
 
 > **Unreviewed keyword matches, not verified claims.** Every item below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous and auto-captions mis-transcribe. Follow the timestamped link and listen before citing anything.
@@ -19,9 +19,9 @@ _Last updated 24 September 2026 at 12:05 PM EDT. Covering the 7 days to 24 Septe
 
 ## Meetings held in the last 7 days
 
-_344 mentions newly surfaced in this window, from 4,366 meeting transcripts added across 132 keyword scans._
+_157 mentions newly surfaced in this window, from 4,433 meeting transcripts added across 138 keyword scans._
 
-_54 mention(s) across 6 town(s) — the genuinely current slice._
+_69 mention(s) across 13 town(s) — the genuinely current slice._
 
 
 ### [South Windsor](towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
@@ -47,6 +47,24 @@ _54 mention(s) across 6 town(s) — the genuinely current slice._
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7-ncTLq4jHg&t=5567s)  _(term: `alpr_flock`, 4 matches in this stretch)_
 
 
+### [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
+
+- **[2026-09-22] Town Council** — Town Council Minutes - 2026-09-22
+  > …or Cantor, Councilors Harris, Lazarus, Lyons, McGinnis, Deputy Mayor Polun, Walters, Wang and Wenograd 2. Communications A. Cory Manento, [address redacted], addressing the Council on the Town's use of ALPR Cameras Cory Manento addressed the Council on the Town's use of ALPR Cameras 3. Adjournment Without Objection, Mo…
+  [Open document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7585,plainText=false))  _(agenda/minutes · term: `alpr_flock`, 7 matches in this stretch)_
+
+- **[2026-09-22] Town Council** — Town Council Meeting of September 22, 2026
+  > …these cameras only read license plates and that's all they're doing. But in fact on Flock's own website um they say that their existing infrastructure collects speed data.…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EDADKFdOvxI&t=868s)  _(term: `alpr_flock`)_
+
+
+### [North Branford](towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) — Drones
+
+- **[2026-09-23] Conservation & Inland Wetlands & Watercourses Agency** — North Branford Conservation & Inland Wetlands & Watercourses 9/23/26
+  > …any kind of um observation of the area either by drone or otherwise to make sure nothing is done until an application is submitted…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NBvr-FFRK-A&t=246s)  _(term: `drone`, 2 matches in this stretch)_
+
+
 ### [New Canaan](towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) — Purchasing / procurement
 
 - **[2026-09-22] Board of Selectmen** — Board of Selectmen Meeting September 22, 2026
@@ -54,11 +72,11 @@ _54 mention(s) across 6 town(s) — the genuinely current slice._
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Ydp0jPKOuek&t=320s)  _(term: `purchasing_broker`, 2 matches in this stretch)_
 
 
-### [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
+### [Rocky Hill](towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) — Drones
 
-- **[2026-09-22] Town Council** — Town Council Minutes - 2026-09-22
-  > …or Cantor, Councilors Harris, Lazarus, Lyons, McGinnis, Deputy Mayor Polun, Walters, Wang and Wenograd 2. Communications A. Cory Manento, [address redacted], addressing the Council on the Town's use of ALPR Cameras Cory Manento addressed the Council on the Town's use of ALPR Cameras 3. Adjournment Without Objection, Motio…
-  [Open document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7585,plainText=false))  _(agenda/minutes · term: `alpr_flock`, 2 matches in this stretch)_
+- **[2026-09-22] Town Council** — Town Council - September  22 , 2026
+  > …meeting. Um, from Fire Chief Gary, he came in to this email came in today. The RF RHFD drone squad has been requested by Weathersfield PD to attend the next…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XXZL_I9TajY&t=2155s)  _(term: `drone`, 2 matches in this stretch)_
 
 
 ### [Lebanon](towns/lebanon/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
@@ -68,6 +86,34 @@ _54 mention(s) across 6 town(s) — the genuinely current slice._
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=p2Legiiav3I&t=4772s)  _(term: `alpr_flock`, 2 matches in this stretch)_
 
 
+### [Mansfield](towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
+
+- **[2026-09-28] Town Council** — Town Council Agenda - 2026-09-28
+  > …ged local 98 - 99 accost commuters R. Pasquill - Too many drivers blow through stop signs - Deranged locals accost commuters H. Uses and Abuses of ALPR's (Automatic License Plate Readers) 100 - 102 J. Valus - Uses and abuses of ALPR&#39;s - Automatic License Plate Readers 12. FUTURE AGENDAS 13. EXECUTIVE SES…
+  [Open document ▸](https://ct-mansfield.civicplus.com/AgendaCenter/ViewFile/Agenda/_09282026-17815)  _(agenda/minutes · term: `alpr_flock`)_
+
+
+### [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
+
+- **[2026-09-28] Board of Selectmen** — Board of Selectmen Agenda - 2026-09-28
+  > …. Friends of the Simsbury Public Library Room, Simsbury Public Library 725 Hopmeadow Street, Simsbury, CT 06070 CALL TO ORDER PLEDGE OF ALLEGIANCE PRESENTATION License Plate Reader Presentation by Police Chief Nicholas Boulter PUBLIC AUDIENCE  Email townmanager@simsbury-ct.gov by noon on Monday, September 28, 2026 to …
+  [Open document ▸](https://www.simsbury-ct.gov/AgendaCenter/ViewFile/Agenda/_09282026-1449)  _(agenda/minutes · term: `alpr_flock`)_
+
+
+### [Cromwell](towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
+
+- **[2026-09-24] Planning & Zoning Commission** — Town of Cromwell Planning & Zoning Commission Special Meeting 09-24-2026
+  > …back and that's what you should just accept." If that was the case, nobody'd be unhappy with flock. Nobody would be unhappy with the way that data centers are are affecting communities in New…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4CDN3VRCDUI&t=3695s)  _(term: `alpr_flock`)_
+
+
+### [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) — Drones
+
+- **[2026-09-23] Board of Education** — BOE Facilities Planning Committee Meeting - September 23, 2026
+  > …has been spent to date. And if we want to Um, here is a drone photo of the front of the school. Um, in to the left of this photo is the…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=0pjU6cdw1vg&t=1383s)  _(term: `drone`)_
+
+
 ### [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
 
 - **[2026-09-22] Town Council** — Groton Town Council Committee of the Whole - 9/22/26
@@ -75,11 +121,18 @@ _54 mention(s) across 6 town(s) — the genuinely current slice._
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=nN94JuasYhs&t=365s)  _(term: `alpr_flock`)_
 
 
-### [Bethel](towns/bethel/surveillance-tech-transcript-and-agenda-report.md) — Drones
+### [Wallingford](towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) — Drones
 
-- **[2026-09-17] Board of Finance** — Board of Finance Special Meeting - 09/17/2026
-  > …our like hazmat house and this is like I know Stony Hill has somebody that's getting trained in like drone rescue stuff, you know, like there's like you don't necessarily just because we have…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=FT8p14q1OmI&t=513s)  _(term: `drone`)_
+- **[2026-09-22] Town Council** — Town Council - Regular Meeting - Tuesday, September 22, 2026
+  > …who may work a specialized program. So for example like a 3D printing program or a robotics um or uh a drone program for example. So, and we do have a wide range of volunteers as well, um, that…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=kKprfH1HlWs&t=3059s)  _(term: `drone`)_
+
+
+### [Norwich](towns/norwich/surveillance-tech-transcript-and-agenda-report.md) — Predictive policing
+
+- **[2026-09-21] City Council** — 2026-09-21 Council Meeting
+  > …Industrial Center. The session will be available both virtually and in person at Foundry 66. And that concludes my report for this evening. >> Thank you, John. John, I was also…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lwX7btQYvI&t=572s)  _(term: `predictive_policing`)_
 
 
 ## Additional towns covered in the tracker this week
@@ -95,7 +148,7 @@ _3 town(s) entered the tracker this week — their meeting transcripts were down
 
 ## New signal: topics appearing for the first time in towns already being watched
 
-_13 town/topic pairing(s). These towns already had transcripts in the corpus before this window, so a first appearance here is not simply the effect of new coverage._
+_6 town/topic pairing(s). These towns already had transcripts in the corpus before this window, so a first appearance here is not simply the effect of new coverage._
 
 
 ### [Andover](towns/andover/surveillance-tech-transcript-and-agenda-report.md) — Drones (1 mention)
@@ -103,13 +156,6 @@ _13 town/topic pairing(s). These towns already had transcripts in the corpus bef
 - **[2026-09-15] Planning and Zoning Commission** — Planning and Zoning- Regular Meeting 9.15.26
   > …loop. So I know what that place looks like. It's it's either like this or it's wet or it's a drone. >> Remember you're on >> reported. We don't want to be…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=fhtUUbGN19g&t=9275s)  _(term: `drone`)_
-
-
-### [Berlin](towns/berlin/surveillance-tech-transcript-and-agenda-report.md) — Purchasing / procurement (1 mention)
-
-- **[2026-09-01] Town Council** — Town Council 2026 09 01
-  > …251 to purchase 4 Janet theme vault 2041 Eeries security camera servers from Insight Public Sector in the amount not to exceed $17,800. >> Thank you. Second.…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rkZcSwYsqQA&t=2724s)  _(term: `purchasing_broker`)_
 
 
 ### [Bristol](towns/bristol/surveillance-tech-transcript-and-agenda-report.md) — Gunshot detection (1 mention)
@@ -145,48 +191,6 @@ _13 town/topic pairing(s). These towns already had transcripts in the corpus bef
 - **[2026-03-04] (unassigned body)** — Board of Finance Other - 2026-03-04
   > …543000 TECHNOLOGY REPAIRS 1.00 1,500.00 1,500.00 0012110 543000 CALLYO - A LAW ENFORCEMENT TECH GROUP - COVERT MIC FOR NET 1.00 4,475.00 4,475.00 0012110 543000 AIMS - PARKI…
   [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11790,plainText=false))  _(agenda/minutes · term: `undercover_tools`)_
-
-
-### [Chester](towns/chester/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock (3 mentions)
-
-- **[2026-09-16] Selectboard** — Selectboard 9/16/26
-  > …out a text. So um it has no many people have approached me about flock devices. These are not the flock camera systems. There is no video. There is no recording.…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=bso7Ts7LYhA&t=9605s)  _(term: `alpr_flock`, 3 matches in this stretch)_
-
-
-### [Milford](towns/milford/surveillance-tech-transcript-and-agenda-report.md) — General surveillance (1 mention)
-
-- **[2026-08-27] Board of Aldermen** — Board of Aldermen Special Meeting 08/27/2026
-  > …>> Many many of us have a ring cam around our house. Many of us have a surveillance camera around our house. Is there going to be a you know I gave EXCUSE ME EXCUSE ME I gave the courtesy…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UpmNRic4chc&t=1794s)  _(term: `surveillance_general`)_
-
-
-### [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) — Other biometrics (1 mention)
-
-- **[2026-07-23] Public Safety and General Government Committee** — Public Safety and General Government Committee Other - 2026-07-23
-  > …nnel. All appointments, dates, and times, will be scheduled through the BIS website. Links will be provided under the NPD website to include all necessary information. BIS will utilize the NPD owned Idemia Live Scan Machine to capture and electronically transmit fingerprint records to the State of Connecticut. NPD will…
-  [Open document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15740,plainText=false))  _(agenda/minutes · term: `biometrics_other`)_
-
-
-### [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) — Facial recognition (1 mention)
-
-- **[2026-07-23] Public Safety and General Government Committee** — Public Safety and General Government Committee Other - 2026-07-23
-  > …Applicant Fingerprinting Services 1. Agreement This Agreement is entered into as of the date of last signature of the Parties (the “Effective Date”) by and between Biometric Identification Services, LLC (BIS) and the City of Norwalk on behalf of its Police Department (Agency) and sets forth the services that will be pr…
-  [Open document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15740,plainText=false))  _(agenda/minutes · term: `facial_recognition`)_
-
-
-### [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) — Purchasing / procurement (2 mentions)
-
-- **[2026-07-09] Finance and Claims Committee** — Finance & Claims Committee Other - 2026-07-09
-  > …Tax 0.00 Estimate Total (USD) $211,200.00 Terms About Us https://www.cdwg.com/content/cdwg/en/about/overview.html Privacy Policy https://www.cdwg.com/content/cdwg/en/terms-conditions/privacy-notice.html Terms and Conditions https://www.cdwg.com/content/cdwg/en/terms-co…
-  [Open document ▸](https://norwalkct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15654,plainText=false))  _(agenda/minutes · term: `purchasing_broker`, 2 matches in this stretch)_
-
-
-### [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) — Mobile forensics (1 mention)
-
-- **[2026-08-04] Public Safety Committee** — Public Safety Committee Other - 2026-08-04
-  > …to custody. • Detective Division ▪ During the week of June 1-5, 2026, West Hartford Police hosted Detectives from different parts of the country for Cellebrite Certified Operator for Inseyets and Cellebrite Certified Physical Analyst for Inseyets Bundle – This is a dual certification class that teaches…
-  [Open document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7469,plainText=false))  _(agenda/minutes · term: `mobile_forensics`)_
 
 
 ## In the news
@@ -258,11 +262,15 @@ From a weekly sweep of municipal agendas, minutes, packets, CTDOT filings and ne
 
 _Meetings the towns have already scheduled, at bodies that have raised surveillance before:_
 
-- **2026-09-25** — [Old Saybrook](towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md): [Historic District Commission](https://www.youtube.com/watch?v=_Qtvq2Gcsw4)
-
 - **2026-09-27** — [North Branford](towns/north-branford/surveillance-tech-transcript-and-agenda-report.md): [Board of Education](https://www.youtube.com/watch?v=bpWPVK38gMA)
 
 - **2026-09-28** — [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Disability Commission](https://www.youtube.com/watch?v=BRirIm5ZLTg)
+
+- **2026-09-28** — [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Board of Health](https://www.youtube.com/watch?v=7VM9KMaPz78)
+
+- **2026-09-28** — [Fairfield](towns/fairfield/surveillance-tech-transcript-and-agenda-report.md): [Representative Town Meeting](https://www.youtube.com/watch?v=pS1lj7U49J8)
+
+- **2026-09-28** — [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Select Board](https://www.youtube.com/watch?v=DZ4MEx2cik8)
 
 - **2026-09-29** — [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Conservation Commission](https://www.youtube.com/watch?v=-9AFo1jYaiY)
 
@@ -286,20 +294,18 @@ The full watch list — every body that keeps returning to the subject, and when
 
 | Topic | Newly surfaced | Towns |
 | --- | --- | --- |
-| [ALPR / Flock](topics/mentions/alpr.md) | 289 | 14 |
-| [Drones](topics/mentions/drone.md) | 101 | 11 |
-| [General surveillance](topics/mentions/surveillance_general.md) | 39 | 6 |
-| [Body cameras](topics/mentions/body_camera.md) | 9 | 3 |
-| [Facial recognition](topics/mentions/facial_recognition.md) | 9 | 4 |
+| [ALPR / Flock](topics/mentions/alpr.md) | 88 | 11 |
+| [Drones](topics/mentions/drone.md) | 84 | 8 |
+| [General surveillance](topics/mentions/surveillance_general.md) | 32 | 3 |
 | [Real-time crime centres](topics/mentions/rtcc.md) | 9 | 2 |
-| [Purchasing / procurement](topics/mentions/purchasing_broker.md) | 7 | 4 |
-| [Predictive policing](topics/mentions/predictive_policing.md) | 2 | 2 |
-| [Mobile forensics](topics/mentions/mobile_forensics.md) | 1 | 1 |
+| [Body cameras](topics/mentions/body_camera.md) | 8 | 2 |
+| [Purchasing / procurement](topics/mentions/purchasing_broker.md) | 5 | 3 |
+| [Predictive policing](topics/mentions/predictive_policing.md) | 3 | 3 |
+| [Undercover tools](topics/mentions/undercover_tools.md) | 1 | 1 |
+| [Facial recognition](topics/mentions/facial_recognition.md) | 1 | 1 |
 | [Gunshot detection](topics/mentions/gunshot_detection.md) | 1 | 1 |
-| Undercover tools | 1 | 1 |
-| [Other biometrics](topics/mentions/biometrics_other.md) | 1 | 1 |
 
 ---
 
-[Meetings to watch](meetings-to-watch.md) · Full per-technology reports: [docs/topics/mentions/](topics/mentions/README.md) · Every town side by side: [cross-town matrix](cross-town-matrix.md)
+[Meetings to watch](meetings-to-watch.md) · Full per-technology reports: [topic reports](topics/mentions/README.md) · Every town side by side: [cross-town matrix](cross-town-matrix.md)
 

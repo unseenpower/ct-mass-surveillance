@@ -1,6 +1,6 @@
 # Predictive policing: every mention, every town
 
-_Generated 2026-09-10T18:09:32 — 114 mentions across 34 towns, 2012-08-22 to 2026-09-03._
+_Generated 2026-09-25T17:13:59 — 145 mentions across 42 towns, 2012-08-22 to 2026-09-21._
 
 
 Systems that attempt to forecast where crime will occur or who will be involved.
@@ -23,40 +23,48 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Rocky Hill](../../towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | **22** | · | 10 | 47% | 2022-11-22 | 2026-07-02 |
+| [Rocky Hill](../../towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md) | **26** | · | 13 | 59% | 2022-11-22 | 2026-07-02 |
+| [Norwich](../../towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | **14** | · | 14 | 65% | 2022-10-03 | 2026-09-21 |
 | [Fairfield](../../towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 6 | 98% | 2018-10-03 | 2026-07-16 |
-| [Norwich](../../towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 8 | 54% | 2024-01-16 | 2026-02-02 |
-| [New Britain](../../towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **7** | 5 | 7 | 32% | 2017-04-26 | 2023-05-19 |
+| [Groton](../../towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 8 | 88% | 2019-04-02 | 2026-09-03 |
+| [New Britain](../../towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **8** | 5 | 8 | 34% | 2017-04-26 | 2023-05-19 |
+| [Guilford](../../towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 5 | 84% | 2014-11-19 | 2025-09-08 |
+| [Darien](../../towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 4 | 90% | 2019-10-30 | 2024-12-17 |
 | [Killingly](../../towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 4 | 64% | 2024-04-09 | 2026-05-12 |
-| [Darien](../../towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 82% | 2023-09-19 | 2024-12-17 |
-| [Groton](../../towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 5 | 82% | 2022-10-03 | 2026-09-03 |
 | [Ansonia](../../towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 4 | 96% | 2020-07-07 | 2025-02-12 |
-| [Guilford](../../towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 79% | 2019-11-06 | 2025-09-08 |
-| [New Canaan](../../towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 84% | 2024-06-18 | 2024-07-12 |
+| [New Canaan](../../towns/new-canaan/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 2 | 89% | 2024-06-18 | 2024-07-12 |
 | [Cromwell](../../towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 1 | 99% | 2025-03-18 | 2025-03-18 |
+| [New Milford](../../towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 62% | 2020-02-28 | 2026-05-11 |
+| [North Haven](../../towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 28% | 2020-08-03 | 2023-04-03 |
 | [South Windsor](../../towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 97% | 2026-03-16 | 2026-04-06 |
 | [Stonington](../../towns/stonington/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 70% | 2020-05-07 | 2026-03-04 |
+| [Ashford](../../towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 65% | 2020-05-29 | 2022-10-03 |
 | [East Hampton](../../towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | **2** | 2 | 2 | 55% | 2026-01-13 | 2026-05-06 |
-| [Farmington](../../towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 67% | 2024-11-18 | 2024-11-18 |
+| [Farmington](../../towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 77% | 2024-11-18 | 2024-11-18 |
 | [Ledyard](../../towns/ledyard/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 44% | 2012-08-22 | 2013-06-30 |
-| [Mansfield](../../towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 78% | 2023-01-26 | 2026-06-22 |
-| [New Milford](../../towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 44% | 2020-02-28 | 2026-05-11 |
-| [North Haven](../../towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 23% | 2023-02-27 | 2023-04-03 |
-| [Plainfield](../../towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 62% | 2021-05-03 | 2023-08-08 |
+| [Mansfield](../../towns/mansfield/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 86% | 2023-01-26 | 2026-06-22 |
+| [North Branford](../../towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 77% | 2018-01-25 | 2018-02-01 |
+| [Plainfield](../../towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 72% | 2021-05-03 | 2023-08-08 |
+| Stamford ⁽ⁿᵖ⁾ | **2** | · | 2 | 62% | 2021-04-21 | 2024-03-20 |
 | [Watertown](../../towns/watertown/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 78% | 2021-08-05 | 2023-02-10 |
-| [Andover](../../towns/andover/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 49% | 2025-11-19 | 2025-11-19 |
-| [Ashford](../../towns/ashford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 49% | 2020-05-29 | 2020-05-29 |
-| [Bethany](../../towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 70% | 2026-05-06 | 2026-05-06 |
+| [Andover](../../towns/andover/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 64% | 2025-11-19 | 2025-11-19 |
+| [Berlin](../../towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 83% | 2026-06-02 | 2026-06-02 |
+| [Bethany](../../towns/bethany/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 85% | 2026-05-06 | 2026-05-06 |
 | [Bloomfield](../../towns/bloomfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 20% | 2018-09-11 | 2018-09-11 |
+| [Bolton](../../towns/bolton/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 62% | 2023-09-05 | 2023-09-05 |
+| [Bristol](../../towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **1** | 1 | 1 | 77% | 2026-02-26 | 2026-02-26 |
 | [Brookfield](../../towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 94% | 2023-06-26 | 2023-06-26 |
-| [East Haddam](../../towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 82% | 2022-10-25 | 2022-10-25 |
+| [East Haddam](../../towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 89% | 2022-10-25 | 2022-10-25 |
 | Essex ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-02-03 | 2026-02-03 |
 | [Granby](../../towns/granby/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2024-08-21 | 2024-08-21 |
-| [Griswold](../../towns/griswold/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 86% | 2024-09-25 | 2024-09-25 |
-| [Killingworth](../../towns/killingworth/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 71% | 2026-07-20 | 2026-07-20 |
+| [Griswold](../../towns/griswold/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 85% | 2024-09-25 | 2024-09-25 |
+| [Killingworth](../../towns/killingworth/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 72% | 2026-07-20 | 2026-07-20 |
 | [New Haven](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 91% | 2026-06-30 | 2026-06-30 |
-| [Old Lyme](../../towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 71% | 2022-09-12 | 2022-09-12 |
-| [Wethersfield](../../towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 62% | 2022-12-19 | 2022-12-19 |
+| [Old Lyme](../../towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 81% | 2022-09-12 | 2022-09-12 |
+| [Portland](../../towns/portland/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 66% | 2019-12-18 | 2019-12-18 |
+| [Somers](../../towns/somers/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 69% | 2021-09-02 | 2021-09-02 |
+| [Westport](../../towns/westport/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 81% | 2023-09-19 | 2023-09-19 |
+| [Wethersfield](../../towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 72% | 2022-12-19 | 2022-12-19 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -66,7 +74,7 @@ _No human review has been applied to any mention in this file._
 _Most recent first within each town. Every line links to the exact second of the meeting video._
 
 
-### Rocky Hill — 22 mentions
+### Rocky Hill — 26 mentions
 
 - **[2026-07-02] Affordable Housing Committee** — Affordable Housing Committee - July 2, 2026
   > …Well, >> how about we, you know, demand these the people that own um the old foundry property either develop it or give it to us, you know? I mean, cuz that's prime…
@@ -117,7 +125,61 @@ _Most recent first within each town. Every line links to the exact second of the
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=bDC7VA00tdQ&t=1171s)  _(term: `predictive_policing`)_
 
 
-_10 further mentions in Rocky Hill not shown here — all of them are in [Rocky Hill's full report](../../towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md)._
+_14 further mentions in Rocky Hill not shown here — all of them are in [Rocky Hill's full report](../../towns/rocky-hill/surveillance-tech-transcript-and-agenda-report.md)._
+
+
+### Norwich — 14 mentions
+
+- **[2026-09-21] City Council** — 2026-09-21 Council Meeting
+  > …Industrial Center. The session will be available both virtually and in person at Foundry 66. And that concludes my report for this evening. >> Thank you, John. John, I was also…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9lwX7btQYvI&t=572s)  _(term: `predictive_policing`)_
+
+- **[2026-02-02] City Council** — 2026-02-02 Council Meeting
+  > …annual meeting. In addition, a city council goal setting session was held on Saturday, January 31st, 2026 at Foundry 66. The session included invited department…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IBBV7wViKE0&t=2440s)  _(term: `predictive_policing`)_
+
+- **[2026-01-20] City Council** — 2026-01-20 Council Meeting
+  > …where we had multiple, you know, public outreach meetings. We we held things at Foundry 66. We had an online presence with the Envision website, the city's public outreach website, and then we met…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YIMTAIioh3s&t=2541s)  _(term: `predictive_policing`)_
+
+- **[2025-05-12] Budget Hearing** — 2025-05-12 Budget Hearing
+  > …learned. I've also seen the city grow with my own eyes. When I had my office at Foundry 66, working alongside NCDC, I've witnessed a transformation of downtown Norwich firsthand. More than…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NKzYD2HZUQU&t=3000s)  _(term: `predictive_policing`)_
+
+- **[2025-04-16] Budget Hearing** — 2025-04-16 Budget Hearing
+  > …down a he's down an individual and you can see that um when when we're at NCDC um and foundry, you can see the impact of being down one person. Yep.…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wzEomQgC7b4&t=2699s)  _(term: `predictive_policing`)_
+
+- **[2025-02-03] City Council** — 2025-02-03 Council Meeting
+  > …tonight thank you the city council's goal setting information Workshop was held at Foundry 66 on SE on Saturday uh January 25th for the city council and invited…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dSRE55eGmNc&t=5647s)  _(term: `predictive_policing`)_
+
+- **[2024-10-22] Commission on the City Plan** — 2024-10-22 Commission on the City Plan
+  > …would be entering the facility all employees will park in our pre-designed tenant parking spots at 66 Foundry um and no traffic pattern should be affected and um number eight we have…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SVLo8lBOlw0&t=6961s)  _(term: `predictive_policing`)_
+
+- **[2024-02-05] City Council** — 2024-02-05 Council Meeting
+  > …workshop on September SE on Saturday January 27th at Foundry 66 for the council invited City department heads and ncdc president Kevin Brown…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4tSYWKvKwJQ&t=1250s)  _(term: `predictive_policing`)_
+
+- **[2024-01-16] City Council** — 2024-01-16 Council Meeting
+  > …anybody else we can still get to between now and tomorrow at 7 o'clock will come to The Foundry and we will discuss with them how they will be able to apply for this Gap micro Grant just to help them…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_m6etLLz8lY&t=2710s)  _(term: `predictive_policing`)_
+
+- **[2023-06-05] City Council** — 2023-06-05 Council Meeting
+  > …senior center and on June 24th there will be two sessions 5 PM and 6 p.m at Foundry 66. the format of the meeting is a brief overview presentation of the draft bocd and then soliciting input…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yiLnJHUpN6g&t=1165s)  _(term: `predictive_policing`)_
+
+- **[2023-01-03] City Council** — 2023-01-03 - Council Meeting
+  > …recipient of last year and I currently own Norwich camera company down downtown North Franklin greater part of Foundry and mcdc the grant money that we received really was more…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=v02NM4KBOos&t=7044s)  _(term: `predictive_policing`)_
+
+- **[2022-11-21] City Council** — 2022-11-21 - Council Meeting
+  > …have a meeting in um this room where we all we used to have them at Foundry 66 you sit around and you talk about whatever please summarize…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=VGgNfoK_K1E&t=538s)  _(term: `predictive_policing`)_
+
+
+_2 further mentions in Norwich not shown here — all of them are in [Norwich's full report](../../towns/norwich/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### Fairfield — 11 mentions
@@ -167,42 +229,42 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=IOygqmx5s6Y&t=1834s)  _(term: `predictive_policing`)_
 
 
-### Norwich — 8 mentions
+### Groton — 8 mentions
 
-- **[2026-02-02] City Council** — 2026-02-02 Council Meeting
-  > …annual meeting. In addition, a city council goal setting session was held on Saturday, January 31st, 2026 at Foundry 66. The session included invited department…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=IBBV7wViKE0&t=2440s)  _(term: `predictive_policing`)_
+- **[2026-09-03] Beautification Committee** — Groton Beautification Committee - 9/3/26
+  > …a uh somebody that can actually cut a piece to those specifications, a foundry or plasma art cutter hopefully in the area somewhere. Yeah, I could do that.…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vHtKuoS--I4&t=359s)  _(term: `predictive_policing`)_
 
-- **[2026-01-20] City Council** — 2026-01-20 Council Meeting
-  > …where we had multiple, you know, public outreach meetings. We we held things at Foundry 66. We had an online presence with the Envision website, the city's public outreach website, and then we met…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=YIMTAIioh3s&t=2541s)  _(term: `predictive_policing`)_
+- **[2025-06-24] Town Council** — Groton Town Council Committee of the Whole and Town Council - 6/24/25
+  > …a piece of artwork in our community which is sorely lacking. And um, thank you to the um, Noank Foundry and artist studio. Um, they were the ones that actually manufactured it and created it.…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oAw-Bqj09rc&t=607s)  _(term: `predictive_policing`)_
 
-- **[2025-05-12] Budget Hearing** — 2025-05-12 Budget Hearing
-  > …learned. I've also seen the city grow with my own eyes. When I had my office at Foundry 66, working alongside NCDC, I've witnessed a transformation of downtown Norwich firsthand. More than…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NKzYD2HZUQU&t=3000s)  _(term: `predictive_policing`)_
+- **[2024-10-15] Historic District Commission** — Groton Historic District Commission - 10/15/24
+  > …the river oh they own that one yeah you know where I'm talking about yeah by The Foundry yep I I don't sorry do you have anything else that's…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jJMqHwy-fVY&t=854s)  _(term: `predictive_policing`)_
 
-- **[2025-04-16] Budget Hearing** — 2025-04-16 Budget Hearing
-  > …down a he's down an individual and you can see that um when when we're at NCDC um and foundry, you can see the impact of being down one person. Yep.…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=wzEomQgC7b4&t=2699s)  _(term: `predictive_policing`)_
+- **[2023-04-11] Planning and Zoning Commission** — Groton Planning and Zoning Commission - 4/11/23
+  > …sweetheart that's right and this is located right behind The Foundry Crossing witnessing the sequence spicers yep…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2Tl5340WbVQ&t=2375s)  _(term: `predictive_policing`)_
 
-- **[2025-02-03] City Council** — 2025-02-03 Council Meeting
-  > …tonight thank you the city council's goal setting information Workshop was held at Foundry 66 on SE on Saturday uh January 25th for the city council and invited…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dSRE55eGmNc&t=5647s)  _(term: `predictive_policing`)_
+- **[2022-10-03] Conservation Commission** — Groton Conservation Commission 10/3/22
+  > …last couple days I got to note that one of the speakers at Conn College a Doug Foundry tell me yeah yeah actually had it appeared I didn't read his talk…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q6HL7GrFcTY&t=1450s)  _(term: `predictive_policing`)_
 
-- **[2024-10-22] Commission on the City Plan** — 2024-10-22 Commission on the City Plan
-  > …would be entering the facility all employees will park in our pre-designed tenant parking spots at 66 Foundry um and no traffic pattern should be affected and um number eight we have…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=SVLo8lBOlw0&t=6961s)  _(term: `predictive_policing`)_
+- **[2020-04-04] Representative Town Meeting** — Groton RTM Committees FYE 2021 Budget Session 4.4.20
+  > …all those in favor raise your hand and say aye representative gotham thank you any opposed any abstentions…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1vf8w5HMHQk&t=16037s)  _(term: `predictive_policing`)_
 
-- **[2024-02-05] City Council** — 2024-02-05 Council Meeting
-  > …workshop on September SE on Saturday January 27th at Foundry 66 for the council invited City department heads and ncdc president Kevin Brown…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4tSYWKvKwJQ&t=1250s)  _(term: `predictive_policing`)_
+- **[2019-10-08] Town Council Committee of the Whole** — Groton Town Council C.O.W. - 10/8/19
+  > …I would like to be sure that we don't have limited access for the people of Gotham for instance it will be available to the people who've gotten on Saturday mornings from 10:00 to 11:00 and on…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=s_9x_pnOlsc&t=3645s)  _(term: `predictive_policing`)_
 
-- **[2024-01-16] City Council** — 2024-01-16 Council Meeting
-  > …anybody else we can still get to between now and tomorrow at 7 o'clock will come to The Foundry and we will discuss with them how they will be able to apply for this Gap micro Grant just to help them…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_m6etLLz8lY&t=2710s)  _(term: `predictive_policing`)_
+- **[2019-04-02] Town Council** — Groton Town Council - 4/2/19
+  > …process of planning for reviewing approving and implementing TIF districts and whereas the city of Gotham point to tiffith advisory committee and Economic Development Commission voted to…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Is5eoZEQx1Y&t=2575s)  _(term: `predictive_policing`)_
 
 
-### New Britain — 7 mentions
+### New Britain — 8 mentions
 
 - **[2023-05-19] Consolidated Subcommittee** — Consolidated Subcommittee Budget Meeting
   > …school where I started my career at Manchester High School they still had a Foundry uh we don't we don't melt metal anymore in high schools but I think uh kind of out with the old Indian with the…
@@ -224,6 +286,10 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
   > …crete Products, dlogee@unitedconcrete.com or dtopa@untiedconcrete.com or RFreer@unitedconcrete.com or Jamesd@untedconcrete.com or alina@unitedconcrete.com or JDuffy@unitedconcrete.com 4. Neenah Foundry, Neenah.pricing@neenahenterprises.com 5. Campbell Foundry Company, ken@campbellfoundry.com 6. Cerilli Construction, cerilliconstruction@gmail.com 7. Cromwell Concrete Products, chris@cromwellc…
   [Open document ▸](https://newbritain.granicus.com/AgendaViewer.php?view_id=1&clip_id=260)  _(agenda/minutes · term: `predictive_policing`)_
 
+- **[2018-06-26] Common Council** — New Britain Common Council Special Public Hearing - 6/26/18
+  > …why I'm here thank you areare merry Palantir and Peter Davis very writings Ward [address redacted] Bristol Connecticut first of all I'd…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=74BUH3Ft91c&t=8933s)  _(term: `predictive_policing`)_
+
 - **[2017-09-13] Common Council** — Common Council Minutes - 2017-09-13
   > …s; h. m. Other noncombustible demolition debris. (4) Miscellaneous materials, including, but not limited to, the following: a. Ashes; b. Asphalt; c. Foundry sand; d. Offal; e. Pressurized containers; f. Sealed drums; g. Tar; h. Fused plastic resin. (5) Motor vehicles/machinery, inclu…
   [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=124&doc_id=8ed3dd75-f091-11e7-a872-00505691de41)  _(agenda/minutes · term: `predictive_policing`)_
@@ -231,6 +297,64 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
 - **[2017-04-26] Common Council** — Common Council Regular Meeting Minutes - 2017-04-26
   > …y Director of the Public Works Department, Utilities Division, is recommending the bid be awarded to HD Supply Waterworks of New Britain, CT for the Manhole Cover items and Manhole Frame, to Campbell Foundry Company of North Haven, CT for the Manhole Riser Ring Items and to United Concrete of Yalesville, CT for the Catch Basin Items who were the lowest bidders and met all of the bid specifications…
   [Open document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=86&doc_id=22ecccbf-51f9-11e7-b9a7-00219ba2f017)  _(agenda/minutes · term: `predictive_policing`)_
+
+
+### Guilford — 7 mentions
+
+- **[2025-09-08] Parks and Recreation** — Parks and Recreation Commission Sept 8, 2025
+  > …>> So, >> it would be really cool if I put those guys in the old foundry right over there on Graves Avenue. That ugly brick building that's just sitting there old…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EXDxs_IVZ38&t=2714s)  _(term: `predictive_policing`)_
+
+- **[2022-06-15] Planning and Zoning Commission** — Planning and Zoning 6/15/22
+  > …property for periodic inspections six prior to the dedication of land a foundry survey shall be performed which marks all of the corners of the to be deeded property with hard markers…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cpBJSm8gNzQ&t=7469s)  _(term: `predictive_policing`)_
+
+- **[2019-11-06] Planning and Zoning Commission** — PZC 11/6/19
+  > …property town garage and small this property the town garage in small foundry all located on or near Boston Post Road our remaining evidence of the industrial mix that existed down that…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eQnJDy-29iM&t=593s)  _(term: `predictive_policing`)_
+
+- **[2019-11-06] Planning and Zoning Commission** — PZC 11/6/19
+  > …the town centre historic district there are several bre habilitated carriage houses and two small foundry buildings all now in residential use the level of detail presented was not sufficient for…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eQnJDy-29iM&t=660s)  _(term: `predictive_policing`)_
+
+- **[2015-02-18] Planning and Zoning Commission** — Planning and Zoning 2/18/15
+  > …units per acre which is equivalent to one qu acre zoning matching the adjacent neighborhood for comparison The Foundry con have 6 and 1/2 units per acre and…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OBhk5E1-CLY&t=1315s)  _(term: `predictive_policing`)_
+
+- **[2015-02-18] Planning and Zoning Commission** — Planning and Zoning 2/18/15
+  > …visible than what you see right now which is a very pleasant thing for the uh fairis Foundry building okay so Guilford precedence what might be an appropriate after you after you've said…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OBhk5E1-CLY&t=3260s)  _(term: `predictive_policing`)_
+
+- **[2014-11-19] Planning and Zoning Commission** — Planning and Zoning Commission 11/19/14
+  > …it really doesn't give you an idea about how big it is or the proximity to The Foundry license and I did send an email to Reggie and voiced my concerns and also asked for…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=WQc7G3gVbzo&t=4271s)  _(term: `predictive_policing`)_
+
+
+### Darien — 6 mentions
+
+- **[2024-12-17] Architectural Review Board** — Architectural Review Bd  12-17-2024
+  > …standard so I pushed really hard for them to also have another vendor which is reliance Foundry but the funny part is it's like apple versus Macintosh or whatever you want to call it like they…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nofZsq-dMw0&t=2009s)  _(term: `predictive_policing`)_
+
+- **[2024-12-17] Architectural Review Board** — Architectural Review Bd  12-17-2024
+  > …well what can you make what can we really make work here so they said relance Foundry said if you want something a little different from the plain old M which is really kind of the…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nofZsq-dMw0&t=2023s)  _(term: `predictive_policing`)_
+
+- **[2024-12-17] Architectural Review Board** — Architectural Review Bd  12-17-2024
+  > …exactly and it's like 6 and 58 around so these covers will all fit the Reliance Foundry inside Ballard so you can have whatever one of these and it'll be good it'll be okay but what I was saying the…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nofZsq-dMw0&t=2165s)  _(term: `predictive_policing`)_
+
+- **[2024-10-15] Architectural Review Board** — Architectural Review Board  10-15-2024
+  > …Magnolia clothing hello and welcome good evening everyone my name is Brian Collin from Gotham signs and Graphics um here uh to discuss a proposed sign for Magnolia which is a a…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xe2NtLYP_zk&t=1101s)  _(term: `predictive_policing`)_
+
+- **[2023-09-19] Architectural Review Board** — Architectural Review Bd  9-19-2023
+  > …we're going with the building standard the um the extreme standard need a Foundry uh great okay okay just as long as it's all um…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=K-BIIVdJiJI&t=4992s)  _(term: `predictive_policing`)_
+
+- **[2019-10-30] Planning & Zoning Commission** — Planning & Zoning Commission   10-30-19
+  > …campers great might meet personally and everyone could speak for themselves my big concern is the Kim Gotham's gone from forty eight to eighty five I want to know dates the parking permits to…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=noMpdHsXeso&t=6874s)  _(term: `predictive_policing`)_
 
 
 ### Killingly — 6 mentions
@@ -260,52 +384,6 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=eJJPfgvNQgA&t=13863s)  _(term: `predictive_policing`)_
 
 
-### Darien — 5 mentions
-
-- **[2024-12-17] Architectural Review Board** — Architectural Review Bd  12-17-2024
-  > …standard so I pushed really hard for them to also have another vendor which is reliance Foundry but the funny part is it's like apple versus Macintosh or whatever you want to call it like they…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nofZsq-dMw0&t=2009s)  _(term: `predictive_policing`)_
-
-- **[2024-12-17] Architectural Review Board** — Architectural Review Bd  12-17-2024
-  > …well what can you make what can we really make work here so they said relance Foundry said if you want something a little different from the plain old M which is really kind of the…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nofZsq-dMw0&t=2023s)  _(term: `predictive_policing`)_
-
-- **[2024-12-17] Architectural Review Board** — Architectural Review Bd  12-17-2024
-  > …exactly and it's like 6 and 58 around so these covers will all fit the Reliance Foundry inside Ballard so you can have whatever one of these and it'll be good it'll be okay but what I was saying the…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nofZsq-dMw0&t=2165s)  _(term: `predictive_policing`)_
-
-- **[2024-10-15] Architectural Review Board** — Architectural Review Board  10-15-2024
-  > …Magnolia clothing hello and welcome good evening everyone my name is Brian Collin from Gotham signs and Graphics um here uh to discuss a proposed sign for Magnolia which is a a…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xe2NtLYP_zk&t=1101s)  _(term: `predictive_policing`)_
-
-- **[2023-09-19] Architectural Review Board** — Architectural Review Bd  9-19-2023
-  > …we're going with the building standard the um the extreme standard need a Foundry uh great okay okay just as long as it's all um…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=K-BIIVdJiJI&t=4992s)  _(term: `predictive_policing`)_
-
-
-### Groton — 5 mentions
-
-- **[2026-09-03] Beautification Committee** — Groton Beautification Committee - 9/3/26
-  > …a uh somebody that can actually cut a piece to those specifications, a foundry or plasma art cutter hopefully in the area somewhere. Yeah, I could do that.…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vHtKuoS--I4&t=359s)  _(term: `predictive_policing`)_
-
-- **[2025-06-24] Town Council** — Groton Town Council Committee of the Whole and Town Council - 6/24/25
-  > …a piece of artwork in our community which is sorely lacking. And um, thank you to the um, Noank Foundry and artist studio. Um, they were the ones that actually manufactured it and created it.…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oAw-Bqj09rc&t=607s)  _(term: `predictive_policing`)_
-
-- **[2024-10-15] Historic District Commission** — Groton Historic District Commission - 10/15/24
-  > …the river oh they own that one yeah you know where I'm talking about yeah by The Foundry yep I I don't sorry do you have anything else that's…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jJMqHwy-fVY&t=854s)  _(term: `predictive_policing`)_
-
-- **[2023-04-11] Planning and Zoning Commission** — Groton Planning and Zoning Commission - 4/11/23
-  > …sweetheart that's right and this is located right behind The Foundry Crossing witnessing the sequence spicers yep…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2Tl5340WbVQ&t=2375s)  _(term: `predictive_policing`)_
-
-- **[2022-10-03] Conservation Commission** — Groton Conservation Commission 10/3/22
-  > …last couple days I got to note that one of the speakers at Conn College a Doug Foundry tell me yeah yeah actually had it appeared I didn't read his talk…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q6HL7GrFcTY&t=1450s)  _(term: `predictive_policing`)_
-
-
 ### Ansonia — 4 mentions
 
 - **[2025-02-12] Board of Aldermen** — Ansonia Connecticut Board of Aldermen
@@ -323,25 +401,6 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
 - **[2020-07-07] Board of Aldermen** — Ansonia Connecticut Board of Aldermen
   > …this project and go out to rebid in the market that we were in we have Foundry bids end up to be a higher number a tree bid because sometimes the low bidders would back…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=L6HPW0zJNeo&t=8472s)  _(term: `predictive_policing`)_
-
-
-### Guilford — 4 mentions
-
-- **[2025-09-08] Parks and Recreation** — Parks and Recreation Commission Sept 8, 2025
-  > …>> So, >> it would be really cool if I put those guys in the old foundry right over there on Graves Avenue. That ugly brick building that's just sitting there old…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EXDxs_IVZ38&t=2714s)  _(term: `predictive_policing`)_
-
-- **[2022-06-15] Planning and Zoning Commission** — Planning and Zoning 6/15/22
-  > …property for periodic inspections six prior to the dedication of land a foundry survey shall be performed which marks all of the corners of the to be deeded property with hard markers…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=cpBJSm8gNzQ&t=7469s)  _(term: `predictive_policing`)_
-
-- **[2019-11-06] Planning and Zoning Commission** — PZC 11/6/19
-  > …property town garage and small this property the town garage in small foundry all located on or near Boston Post Road our remaining evidence of the industrial mix that existed down that…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eQnJDy-29iM&t=593s)  _(term: `predictive_policing`)_
-
-- **[2019-11-06] Planning and Zoning Commission** — PZC 11/6/19
-  > …the town centre historic district there are several bre habilitated carriage houses and two small foundry buildings all now in residential use the level of detail presented was not sufficient for…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eQnJDy-29iM&t=660s)  _(term: `predictive_policing`)_
 
 
 ### New Canaan — 4 mentions
@@ -378,6 +437,36 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_MYXrLBhMoY&t=5105s)  _(term: `predictive_policing`)_
 
 
+### New Milford — 3 mentions
+
+- **[2026-05-11] Town Council** — Town Council Regular Meeting / May 11, 2026 / New Milford, CT
+  > …J&J Collision and Repair. West Street Power. the New Milford Foundry, the Bleachery, Mitchell Oil. These are just to name a few that are in the aquifer.…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ubxr0Fth57E&t=5752s)  _(term: `predictive_policing`)_
+
+- **[2021-10-25] Town Council** — LIVE New Milford Town Council Regular Meeting | October 25th, 2021
+  > …for our future use it was known as the milford water company it was managed by the milford foundry and sold the united water company the united water company put this…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PM9O4s4WTv8&t=3625s)  _(term: `predictive_policing`)_
+
+- **[2020-02-28] Joint Budget Hearing** — 27 Feb Budget Meeting
+  > …thousand dollars therefore an imprudent manner not to do that the board decided and we once again people of Gotham my name is work with the town bring forward helps everyone here on…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oc9U663KpYI&t=4195s)  _(term: `predictive_policing`)_
+
+
+### North Haven — 3 mentions
+
+- **[2023-04-03] Planning & Zoning Commission** — North Haven Planning & Zoning 4/03/23
+  > …manufacturing too you know you you mentioned Massimo and you say there's a Foundry down there that makes manhole covers you know the retail market for the manual covers is is pretty limited…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=v3n0zRl5_As&t=956s)  _(term: `predictive_policing`)_
+
+- **[2023-02-27] Town Meeting** — North Haven Special Town Meeting 02/27/2023
+  > …the town does hereby approve the construction of England Bandstand on the North Haven Foundry at 19. well that should not be there yes 19 Church Street right 19 Church Street…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZzyUwmzpLXc&t=934s)  _(term: `predictive_policing`)_
+
+- **[2020-08-03] Planning & Zoning Commission** — Planning & Zoning - 08/03/2020
+  > …this uh uh owner then there's snow shelf all along here there's the curb cut to campbell foundry and then there's area here there's um some…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1lNBWn2ecr8&t=1202s)  _(term: `predictive_policing`)_
+
+
 ### South Windsor — 3 mentions
 
 - **[2026-04-06] Town Council** — Town Council Regular Meeting - April 6, 2026
@@ -406,6 +495,17 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
 - **[2020-05-07] Board of Selectmen** — Town of Stonington Board of Selectmen - Special Meeting with UCONN Students - 5/7/20
   > …than 10 which are indicated by the red hashes and are found underneath a former foundry of the mill building to the right are the non hazardous areas which are indicated by blue hashes and they're…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=R77V4Z-neLg&t=523s)  _(term: `predictive_policing`)_
+
+
+### Ashford — 2 mentions
+
+- **[2022-10-03] Our Town Our Future** — Our Town Our Future, October 3, 2022
+  > …I don't think it was a shoe factory behind a church there there was um some type of a Foundry but there was also a blacksmith shop and the Westford Bottleworks down on waterfall on the…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eeE4tST7XS4&t=402s)  _(term: `predictive_policing`)_
+
+- **[2020-05-29] Board of Finance** — Ashford Board of Finance Special Meeting 2020 0506
+  > …May 20th 2020 to be held virtually I need a I need a motion and a second this is Gotham I'll make a motion that we increase their budget by the 90,000 like we discussed…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=21vdM58TgGM&t=11639s)  _(term: `predictive_policing`)_
 
 
 ### East Hampton — 2 mentions
@@ -452,26 +552,15 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ji0xREgHboU&t=534s)  _(term: `predictive_policing`)_
 
 
-### New Milford — 2 mentions
+### North Branford — 2 mentions
 
-- **[2026-05-11] Town Council** — Town Council Regular Meeting / May 11, 2026 / New Milford, CT
-  > …J&J Collision and Repair. West Street Power. the New Milford Foundry, the Bleachery, Mitchell Oil. These are just to name a few that are in the aquifer.…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ubxr0Fth57E&t=5752s)  _(term: `predictive_policing`)_
+- **[2018-02-01] Planning & Zoning Commission** — North Branford Planning and Zoning Meeting - 02/01/2018
+  > …leave out agricultural festivals cuz just seem to be hung up on that take that out a foundry can't they make conducts special agricultural events such as farm such as…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=V92O9OXyy6k&t=2206s)  _(term: `predictive_policing`)_
 
-- **[2020-02-28] Joint Budget Hearing** — 27 Feb Budget Meeting
-  > …thousand dollars therefore an imprudent manner not to do that the board decided and we once again people of Gotham my name is work with the town bring forward helps everyone here on…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oc9U663KpYI&t=4195s)  _(term: `predictive_policing`)_
-
-
-### North Haven — 2 mentions
-
-- **[2023-04-03] Planning & Zoning Commission** — North Haven Planning & Zoning 4/03/23
-  > …manufacturing too you know you you mentioned Massimo and you say there's a Foundry down there that makes manhole covers you know the retail market for the manual covers is is pretty limited…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=v3n0zRl5_As&t=956s)  _(term: `predictive_policing`)_
-
-- **[2023-02-27] Town Meeting** — North Haven Special Town Meeting 02/27/2023
-  > …the town does hereby approve the construction of England Bandstand on the North Haven Foundry at 19. well that should not be there yes 19 Church Street right 19 Church Street…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZzyUwmzpLXc&t=934s)  _(term: `predictive_policing`)_
+- **[2018-01-25] Board of Education** — North Branford Board of Education Budget Meeting - 01/25/2018
+  > …you probably know which areas won't be is much renovation as others and there may be Gotham's it could be renovator left intact that's when the rest of it is renovated and I throw the number of a…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=2fWgYcWBQuw&t=3412s)  _(term: `predictive_policing`)_
 
 
 ### Plainfield — 2 mentions
@@ -483,6 +572,17 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
 - **[2021-05-03] Town Meeting / Budget Hearing** — May 3, 2021 Budget Hearing
   > …increased poverty um this is you know we're not uh gotham city or new york or whatever i mean this burden is shouldered by everybody who lives…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZZ39JGSBI4o&t=889s)  _(term: `predictive_policing`)_
+
+
+### Stamford — 2 mentions
+
+- **[2024-03-20] (unassigned body)** — Parks & Recreation Commission Regular Meeting & Public Hearing
+  > …if the business is closed before then so we're going to start a regular meeting um so the first person under new business would be lynn colatrella the chair for stanford downtown and we're reviewing um man with children at the foundry that was donated to the stamp uh to the stanford arts and cultural commission lynn Thank you. Hi, everybody. I'm here as the chair of the Arts and Culture Commission…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/13882)  [jump to 3:25 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_b7d5d7f5-7ed0-4052-a4b3-a14702cbd039.mp4#t=205)  _(term: `predictive_policing`)_
+
+- **[2021-04-21] (unassigned body)** — Parks & Recreation Commission Meeting
+  > …Okay, that's all for me. The QR code. What would you want, well, can you send me a letter or an email as to what you exactly want, and then I will check with the foundry or the company that will be doing it to let, let you know what, what we're going to be doing. We will do that. We would just like to, we would just like to make a motion, and with the stipulations, who would like to make a motion?…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/10408)  [jump to 20:04 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_c361ad06-3bfb-481c-9712-ff72bf0be2b4.mp4#t=1204)  _(term: `predictive_policing`)_
 
 
 ### Watertown — 2 mentions
@@ -503,11 +603,11 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=S8M_S9gb7Nw&t=507s)  _(term: `predictive_policing`)_
 
 
-### Ashford — 1 mention
+### Berlin — 1 mention
 
-- **[2020-05-29] Board of Finance** — Ashford Board of Finance Special Meeting 2020 0506
-  > …May 20th 2020 to be held virtually I need a I need a motion and a second this is Gotham I'll make a motion that we increase their budget by the 90,000 like we discussed…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=21vdM58TgGM&t=11639s)  _(term: `predictive_policing`)_
+- **[2026-06-02] Wetlands Commission** — Wetlands Commission 2026 06 02
+  > …apply for um like make an application cuz um we had uh part of the uh back foundry surveyed again and um Mrs. Mr. Kowski wants to put a wooden…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=um0xy8HsMPU&t=2065s)  _(term: `predictive_policing`)_
 
 
 ### Bethany — 1 mention
@@ -522,6 +622,20 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
 - **[2018-09-11] Town Council** — Town Council Sept. 11 2018
   > …helping and same so we do do those type things councillor McCleary councillor Gotham 11 man thank you for your presentation Lorna's right and I say listen we're at…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=R9PkZeJuSY4&t=684s)  _(term: `predictive_policing`)_
+
+
+### Bolton — 1 mention
+
+- **[2023-09-05] Board of Selectmen** — Bolton Board of Selectmen: September 5, 2023
+  > …we do have a question thank you Adam and I'd open for questions sure um what is The Foundry state fund and how much is in it there's about 70 000 and I apologize I don't have the exact…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=iD0yO-buz9Q&t=1242s)  _(term: `predictive_policing`)_
+
+
+### Bristol — 1 mention
+
+- **[2026-02-26] (unassigned body)** — Planning Commission Other - 2026-02-26
+  > …#R-3404 AS MANUFACTURED BY THE "NEENAH FOUNDRY…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11768,plainText=false))  _(agenda/minutes · term: `predictive_policing`)_
 
 
 ### Brookfield — 1 mention
@@ -578,6 +692,27 @@ _10 further mentions in Rocky Hill not shown here — all of them are in [Rocky 
 - **[2022-09-12] Historic District Commission** — Historic District Commission meeting September 12, 2022
   > …delineation the the the the you know your your metal edging to the approved parking Foundry through the tree I know but the concern to him is is there's there's three three…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=2r-YlOthkYQ&t=3907s)  _(term: `predictive_policing`)_
+
+
+### Portland — 1 mention
+
+- **[2019-12-18] Board of Selectmen** — Portland CT | Board of Selectmen | 12-18-19
+  > …their addiction that night right and they this the skating area not surely all silver here in Gotham so we gave the Town Hall where we actually right…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oolzSbW8goA&t=1548s)  _(term: `predictive_policing`)_
+
+
+### Somers — 1 mention
+
+- **[2021-09-02] Board of Selectmen** — Reg BOS Meeting 9/2/2021
+  > …that total amount i don't know exactly what i don't want is the foundry and say hey why'd you spend 38 thousand dollars on a credit card…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=uOpPpXEspGs&t=2939s)  _(term: `predictive_policing`)_
+
+
+### Westport — 1 mention
+
+- **[2023-09-19] Planning Board** — Planning Board September 19, 2023
+  > …boundaries was issued the problem I have is to look off to the left you see your Foundry of 248 feet that that's an old boundary that was turned down by the board when he had…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=uxCGVxOFoAo&t=3399s)  _(term: `predictive_policing`)_
 
 
 ### Wethersfield — 1 mention

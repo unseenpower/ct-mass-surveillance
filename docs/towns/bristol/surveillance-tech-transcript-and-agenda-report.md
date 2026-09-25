@@ -1,9 +1,9 @@
 # Surveillance-tech report: Bristol
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -21,10 +21,11 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">2021–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-09-14 → 2026-09-08</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Facial recognition, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/bristol-alpr-searches.html"><span class="gc-big">8,017</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Bristol police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">76%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">183 of 241 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">77%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">188 of 245 meetings</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">71</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
-**Not the full history:** transcripts begin **2019-05-14**, but Bristol's published video archive goes back to **2016-01-12**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+**Not the full history:** transcripts begin **2019-03-12**, but Bristol's published video archive goes back to **2016-01-12**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 This report collects every mention of surveillance technology found in **Bristol**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -86,7 +87,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 12 meetings surfaced a finding (12 dated, spanning 2021-09-14 to 2026-09-08; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-25** (through 2026-09-10, when this report was generated):
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
 
 ### 2026-09-08 -- City Council
 
@@ -702,7 +703,253 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### alpr
 
-*(no mentions)*
+- **[2026-05-26] (unassigned body)** -- Board of Finance Other - 2026-05-26 (other)
+  > ...ture reductions (excluding capital outlay)
+ that exceeded $50,000:
+       • Police Department’s budget reduced $568,920 with an overtime reduction of $250,000
+           and $50,000 reduction for the Flock Drone System
+       • A vacancy factor was applied to Police Patrol (2 positions), and Public Works Streets
+           Division (1 position).
+       • Fire Department was reduced by all of the a...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12594,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-04] (unassigned body)** -- Board of Finance Other - 2026-03-04 (other)
+  > ...   543000   SAMSARA 40 GPS UNITS - OFFICER SAFETY                                                                                                1.00         12,460.00    12,460.00
+0012110   543000   FLOCK SAFETY PROGRAM - SMART CAMERA TECHNOLOGY DESIGNED TO ALERT POLICE                                                             14.00          3,000.00    42,000.00
+                   WHEN A STOLE...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11790,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-25] (unassigned body)** -- Board of Finance Other - 2026-03-25 (other)
+  > ...enhance officer safety, real-time intelligence, and crime prevention while reducing
+overall cost compared to purchasing the technologies individually.
+
+
+Original Proposal
+My original proposal for the Flock Dock 3 DFR in FY 2027 consisted of (1) Drone for an annual
+cost of $50,000. The Flock Dock3 allowed for flying at a maximum flight ceiling of 200 feet. Per
+FAA regulations, to legally fly up to ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12017,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-01] (unassigned body)** -- Board of Finance Minutes - 2026-04-01 (minutes)
+  > ...ture reductions (excluding capital outlay)
+ that exceeded $50,000:
+       • Police Department’s budget reduced $568,920 with an overtime reduction of $250,000
+           and $50,000 reduction for the Flock Drone System
+       • A vacancy factor was applied to Police Patrol (2 positions), and Public Works Streets
+           Division (1 position).
+       • Fire Department was reduced by all of the a...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12396,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-28] (unassigned body)** -- Board of Finance Other - 2026-04-28 (other)
+  > ...ture reductions (excluding capital outlay)
+ that exceeded $50,000:
+       • Police Department’s budget reduced $568,920 with an overtime reduction of $250,000
+           and $50,000 reduction for the Flock Drone System
+       • A vacancy factor was applied to Police Patrol (2 positions), and Public Works Streets
+           Division (1 position).
+       • Fire Department was reduced by all of the a...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12299,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-18] (unassigned body)** -- Board of Park Commissioners Other - 2026-03-18 (other)
+  > ...     b. Located at Skatepark, rotary, arch, etc
+     7. Trail cams in lower traffic problem areas
+     8. Emergency Call Stations in larger parks
+     9. Alarms in pools and on the gates
+     10. Car license plate reader
+     11. Barbed Wire on the top of fences
+     12. Motion sensitive lighting
+
+
+
+                                    Staffing, Presence, & Patrols
+     1. Police Presence
+         ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11916,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-01-20] (unassigned body)** -- Board of Police Commissioners Other - 2026-01-20 (other)
+  > ...ii. Press Release-Valero Robbery
+Chief Morello praised the Criminal Investigation Department and the Patrol Division for their hard work
+on the Valero Robbery.
+
+iii. Recovered Stolen Motor Vehicles – FLOCK
+Chief Morello reviewed the FLOCK's success in recovering stolen motor vehicles.
+
+iv. RAFFS Radio System
+Commissioner Kilbourne moved to ALLOW CAPITAL REGION COUNCIL TO INSTALL AN
+ANTENNA ON OUR ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9330,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-05-19] (unassigned body)** -- Board of Police Commissioners Other - 2026-05-19 (other)
+  > ...d yet)
+                      New Britain – September
+
+Entry Level Testing – Closed May 4, 2026 to apply
+Applications Received: 80
+Attended Written Exam (administered on May 7 and May 12): 61
+
+
+FILE 1 FLOCK ARREST
+Stolen MV Arrest 26-18467
+
+On 05/08/26 at 0116 hours, Bristol Dispatch received a 911 call from a local business on Middle
+Street reporting a stolen motor vehicle. Bristol Police met with...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12531,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-06-16] (unassigned body)** -- Board of Police Commissioners Agenda - 2026-06-16 (agenda)
+  > ...   Old Business
+
+     a.   Chief Morello
+
+     b.   Police Commissioners
+9.   New Business
+
+     a.   Chief Morello
+
+          i.     Chief's Report
+
+          ii.    Axon Camera Proposal to replace Flock cameras
+
+          iii.   Project "Hero Hotline"
+
+          iv.    Honor Them Community Ball Hockey Initiative
+
+     b.   Police Commissioners
+
+10. Executive Session
+
+     a.   To discuss a cand...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12771,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-06-16] (unassigned body)** -- Board of Police Commissioners Other - 2026-06-16 (other)
+  > ...                                                                  Page 1
+9.   New Business
+
+     a.   Chief Morello
+
+          i.     Chief's Report
+
+          ii.    Axon Camera Proposal to replace Flock cameras
+
+          iii.   Project "Hero Hotline"
+
+          iv.    Honor Them Community Ball Hockey Initiative
+
+     b.   Police Commissioners
+
+10. Executive Session
+
+     a.   To discuss a cand...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12772,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-21] (unassigned body)** -- Board of Police Commissioners Minutes - 2026-07-21 (minutes)
+  > ...pressed that he is against speed cameras and would like the
+language on speed cameras removed from the ordinance.
+
+Sarah Payeno, [address redacted], expressed that she is against the red light cameras and FLOCK cameras.
+
+Dave Tomsley, [address redacted], asked that the language on speed cameras be removed from the
+ordinance.
+
+Robert Cochran, [address redacted], is against red light and speed cameras and wou...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13095,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-18] (unassigned body)** -- Board of Police Commissioners Other - 2026-08-18 (other)
+  > ...pressed that he is against speed cameras and would like the
+language on speed cameras removed from the ordinance.
+
+Sarah Payeno, [address redacted], expressed that she is against the red light cameras and FLOCK cameras.
+
+Dave Tomsley, [address redacted], asked that the language on speed cameras be removed from the
+ordinance.
+
+Robert Cochran, [address redacted], is against red light and speed cameras and wou...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13224,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-18] (unassigned body)** -- Board of Police Commissioners Minutes - 2026-08-18 (minutes)
+  > ...                                    VOTE: UNANIMOUSLY PASSED
+6. CORRESPONDENCE
+None
+
+7. COMMITTEE MINUTES
+None
+
+8. OLD BUSINESS
+a. Chief Morello
+i. LPR Transparency Portal
+Chief Morello reviewed the Flock transparency portal, which is located on the City of Bristol Police
+Department’s website under Useful Resources: Bristol CT PD Transparency Portal.
+
+b. Police Commissioners
+i. Response from Corp...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13289,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-12] (unassigned body)** -- City Council Minutes - 2026-08-12 (minutes)
+  > ...uncil meeting held on July 14,
+2026.
+
+3.      PUBLIC PARTICIPATION
+
+        Correspondence from Mathew Biadun, [address redacted] – Mr. Biadun’s letter cites examples of
+concerning situations involving the Flock camera brand. He further urges Bristol not to allow its
+surveillance systems to aid federal agencies, and to consider other license plate reader suppliers.
+
+        Gabby Carrano, [address redacted]. ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13243,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-02] (unassigned body)** -- Conservation Commission/ Inland Wetlands & Watercourses Agency Other - 2026-03-02 (other)
+  > ...ENSION - SUITE 311
+    CONDITIONS AND/OR MEANS AND METHODS. SUCH ITEMS MAY INCLUDE, BUT ARE NOT LIMITED TO: ADDITIONAL FOREBAYS, BASINS, OR UPSTREAM STRUCTURAL
+    CONTROLS, THE USE OF FLOCCULANTS OF FLOCK LOGS TO DECREASE SEDIMENT, DISCHARGE MANAGEMENT SUCH AS ADDITIONAL ARMORING AND FILTERING                                                                                                         ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11760,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-04-06] (unassigned body)** -- Conservation Commission/ Inland Wetlands & Watercourses Agency Other - 2026-04-06 (other)
+  > ...ENSION - SUITE 311
+    CONDITIONS AND/OR MEANS AND METHODS. SUCH ITEMS MAY INCLUDE, BUT ARE NOT LIMITED TO: ADDITIONAL FOREBAYS, BASINS, OR UPSTREAM STRUCTURAL
+    CONTROLS, THE USE OF FLOCCULANTS OF FLOCK LOGS TO DECREASE SEDIMENT, DISCHARGE MANAGEMENT SUCH AS ADDITIONAL ARMORING AND FILTERING                                                                                                         ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12129,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-08-06] (unassigned body)** -- Economic and Community Development Other - 2026-08-06 (other)
+  > ...arm, Perkins Pure
+Maple Sugar House, Ridge Runner Soaps, Tonn’s Marketplace, Twin Pines Farm, Lollipops
+K.I.S.S., Connecticut Soap and Candles, Litchfield Distillery, LaFamiglia Tedesco, Vue Brewing,
+Flock & Flour, Wilson Wild Fern & Flora, Halian’s Creations, Sicilian Squeeze and Passion
+Bakery.
+
+
+Customers visiting the market are asked to access the vendor parking area from Willis Street
+via Sou...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13109,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-07-21] (unassigned body)** -- Police Commission Minutes - 2026-07-21 (minutes)
+  > ...Lt., one Sgt., and two officers. Once we have adequate staffing, Chief Morello
+would like to increase the number in traffic by two, so we have a six-officer division.
+
+A discussion was held regarding FLOCK cameras. It was suggested that bullet point information regarding
+FLOCK cameras be posted on the Police Department’s website.
+
+
+6. ADJOURNMENT
+Commissioner Lemieux made a motion to ADJOURN, Seco...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13084,plainText=false))  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-25] (unassigned body)** -- Board of Finance Other - 2026-03-25 (other)
+  > ...                                1        60            $313.70       $258.90      $258.90        $15,534.00             $0.00               $15,534.00
+A la Carte Hardware
+72036                        AXON FLEET 3 - STANDARD 2 CAMERA KIT              36                                    $2,695.00         $0.00           $0.00             $0.00                   $0.00
+                             A...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12017,plainText=false))  _(term: alpr_vendor, unreviewed)_
+
+- **[2026-04-28] (unassigned body)** -- Board of Finance Other - 2026-04-28 (other)
+  > ...urs of battery operation per shift (even in recording mode)
+       • LED lights to show current battery level and operating mode
+       • 143-degree lens
+       • Includes Axon Signal technology
+
+    Axon Fleet 3 Camera
+       • High-definition Dual-View Camera with panoramic field of view, 12x zoom, and AI
+           processing for automatic license plate reader (ALPR)
+       • High-definition In...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12299,plainText=false))  _(term: alpr_vendor, unreviewed)_
 
 
 ### biometrics_other
@@ -712,7 +959,35 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### body_camera
 
-*(no mentions)*
+- **[2026-03-04] (unassigned body)** -- Board of Finance Other - 2026-03-04 (other)
+  > ...sault, sexual assault, financial crimes, computer crimes, identity theft
+         and arson.
+         Train internal Crisis Intervention Team to properly respond to mental health crises.
+    Continue body worn camera and electronic control device program.
+    Obtain new grant funding to assist in furthering the Police Department’s mission.
+    Increase the agency's Social Media engagement.
+    Re-...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11790,plainText=false))  _(term: body_camera, unreviewed)_
+
+- **[2026-03-25] (unassigned body)** -- Board of Finance Other - 2026-03-25 (other)
+  > ...ation of the program value which may result in additional fees or credits
+ due to or from Axon.
+
+ The parties agree that Axon is applying a Transfer Balance of $318,352.50.
+
+ 100% discounted Fleet 3, body-worn camera and docking station hardware contained in this quote reflects a TAP replacement for hardware purchased under existing quotes
+ aforementioned above. All TAP obligations from this contr...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12017,plainText=false))  _(term: body_camera, unreviewed)_
+
+- **[2026-04-28] (unassigned body)** -- Board of Finance Other - 2026-04-28 (other)
+  > ...r using
+drones manufactured by or connected to a “covered foreign entity.” Axon drones meet this statutory
+requirement because they are U.S.-made technology.
+
+The package also includes Axon Assistant Body-Worn Camera translation capabilities, the Fusus CCTV
+integration system, 13 Axon License Plate Recognition (LPR) units that integrate within the existing Axon
+ecosystem, and the Auror Retail Crim...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12299,plainText=false))  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -737,7 +1012,209 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### drone
 
-*(no mentions)*
+- **[2026-05-26] (unassigned body)** -- Board of Finance Other - 2026-05-26 (other)
+  > ...eductions (excluding capital outlay)
+ that exceeded $50,000:
+       • Police Department’s budget reduced $568,920 with an overtime reduction of $250,000
+           and $50,000 reduction for the Flock Drone System
+       • A vacancy factor was applied to Police Patrol (2 positions), and Public Works Streets
+           Division (1 position).
+       • Fire Department was reduced by all of the associa...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12594,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-03-04] (unassigned body)** -- Board of Finance Other - 2026-03-04 (other)
+  > ...42,000.00
+                   WHEN A STOLEN OR OTHERWISE WANTED VEHICLE ENTERS BRISTOL. INCLUDES 14 LEASED CAMERAS, SOFTWARE AND CLOUD STORAGE.
+
+0012110   543000   FLOCK SAFETY PROGRAM FIRST RESPONDER DRONE - 2 YEAR CONTRACT                                                                         1.00         50,000.00    50,000.00
+0012110   543000   STARCHASE TECHNOLOGY - GPS THAT ATTACHES TO A FLE...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11790,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-03-25] (unassigned body)** -- Board of Finance Other - 2026-03-25 (other)
+  > ...ECT:     Axon Proposal
+
+
+At the Police Board meeting on March 17, 2026, it was voted to:
+“REFER TO THE BOARD OF FINANCE FOR CHIEF MORELLO TO DO A PRESENTATION PROPOSING
+THE NEW AXON PACKAGE INCLUDING DRONE TECHNOLOGY FOR THE DEPARTMENT.”
+
+
+Thank you.
+
+
+
+
+             “To protect and serve the community with integrity and professionalism”
+
+                                                           ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12017,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-04-01] (unassigned body)** -- Board of Finance Minutes - 2026-04-01 (minutes)
+  > ...eductions (excluding capital outlay)
+ that exceeded $50,000:
+       • Police Department’s budget reduced $568,920 with an overtime reduction of $250,000
+           and $50,000 reduction for the Flock Drone System
+       • A vacancy factor was applied to Police Patrol (2 positions), and Public Works Streets
+           Division (1 position).
+       • Fire Department was reduced by all of the associa...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12396,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-04-28] (unassigned body)** -- Board of Finance Other - 2026-04-28 (other)
+  > ...eductions (excluding capital outlay)
+ that exceeded $50,000:
+       • Police Department’s budget reduced $568,920 with an overtime reduction of $250,000
+           and $50,000 reduction for the Flock Drone System
+       • A vacancy factor was applied to Police Patrol (2 positions), and Public Works Streets
+           Division (1 position).
+       • Fire Department was reduced by all of the associa...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12299,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-05-28] (unassigned body)** -- Board of Fire Commissioners Other - 2026-05-28 (other)
+  > ...                                      FIRE CHIEF
+
+
+  Stations and Facilities:
+
+  April 1 Station 3 fully occupied and in service.
+
+  Station 3 placed on the market
+
+  Station 4 and 5 were surveyed by Skydio for possible drone base station placement
+
+  Meetings and Public Functions:
+
+  Monthly meeting with Staff and FMO
+
+  Presented the Department’s Capital Budget request to the Board of Finance-$3...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12613,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-05-28] (unassigned body)** -- Board of Fire Commissioners Minutes - 2026-05-28 (minutes)
+  > ...l monthly reports.
+      b. Chief Hart noted that Station 4 and Station 5 will have docking stations for drones
+         installed and that 21 members of the department have expressed interest in the drone
+         program.
+
+7. COMMITTEE REPORTS
+     a. Fire Station 3 Building Committee
+               • Chief Hart shared that the Grand Opening Ceremony was a success and well
+                   att...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12938,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-06-25] (unassigned body)** -- Board of Fire Commissioners Other - 2026-06-25 (other)
+  > ...l monthly reports.
+      b. Chief Hart noted that Station 4 and Station 5 will have docking stations for drones
+         installed and that 21 members of the department have expressed interest in the drone
+         program.
+
+7. COMMITTEE REPORTS
+     a. Fire Station 3 Building Committee
+               • Chief Hart shared that the Grand Opening Ceremony was a success and well
+                   att...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12849,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-07-23] (unassigned body)** -- Board of Fire Commissioners Other - 2026-07-23 (other)
+  > ... at Station 4 as an available spare.
+      Southern New England Fire Protection inspected the apparatus fire extinguishers.
+Fire Stations/Facilities
+      David Oakes and the electrician wiring the drone dock were at Station 4 to survey the
+         location for wiring the drone dock.
+      Public Works, Freddy and Willy, repaired the relief valve on the rear spigot at Station4.
+      C&E Appl...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13038,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-08-27] (unassigned body)** -- Board of Fire Commissioners Other - 2026-08-27 (other)
+  > ...f service.
+      MES completed Self Contained Breathing Apparatus (SCBA) testing and all SCBA bottles
+         were hydro- tested.
+Fire Stations/Facilities
+      AB-MEE completed the wiring for the Drone Docking Station on the roof of Station 4.
+      On July 28, the Drone and Drone Dock were delivered and installed.
+      A&J Generator serviced the house generator at Station 4.
+Miscellaneous
+...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13300,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-07-15] (unassigned body)** -- Board of Park Commissioners Other - 2026-07-15 (other)
+  > ..._______
+This agreement serves as an understanding between The City of Bristol Board of Parks Commissioners
+and Wings Of A Dove LLC (“Operator”) with regard to the use of an unmanned aircraft system
+(“Drone”) within the City of Bristol’s Park System.
+Purpose and Terms
+The City of Bristol’s Board of Parks Commissioners has approved Wings Of A Dove use of the drone in
+Page Park (649 King Street, Bris...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12977,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-03-17] (unassigned body)** -- Board of Police Commissioners Minutes - 2026-03-17 (minutes)
+  > ...e Axon assistant. Chief Morello will ask Axon for a quote.
+
+Commissioner Lemieux moved to REFER TO THE BOARD OF FINANCE FOR CHIEF MORELLO
+TO DO A PRESENTATION PROPOSING THE NEW AXON PACKAGE INCLUDING DRONE
+TECHNOLOGY FOR THE DEPARTMENT, Seconded by Commissioner Lewis.
+
+                                      VOTE: PASSED
+6 – yes
+1 - no
+
+ii. Board of Finance Request
+Council Member Tyler moved to APPR...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12034,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-05-21] (unassigned body)** -- Board of Public Works Other - 2026-05-21 (other)
+  > ...e spring site visits with Department and Division Heads at City Buildings for coordination
+       purposes and planning communication, as requested
+    • Manager Oakes to work with Bristol Police and Skydio Staff pertaining to site visits and
+       coordination for future BPD Drone Dock Station installations at City Hall, Fire House #4 and Fire
+       House #5
+    • Facilities Staff to clear out ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12546,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-06-18] (unassigned body)** -- Board of Public Works Other - 2026-06-18 (other)
+  > ...es Staff relating to large volume Bristol Fire
+       Department testing over several days at City Hall
+    • Manager Oakes working in conjunction with Bristol Police Staff on future placement of (3) Skydio
+       Drone Stations and AXON Dedrone Tower System at City Hall, Fire House #4 & Fire House #5
+       (work includes conducting site visits with vendors, installing power and data conduits to ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12792,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-07-16] (unassigned body)** -- Board of Public Works Other - 2026-07-16 (other)
+  > ...tol-Burlington Health Department (BBHD), Phase Zero Design and
+       Public Works Staff each Wednesday
+    • Manager Oakes working in conjunction with Bristol Police Staff on future placement of (3) Skydio
+       Drone Stations and AXON Dedrone Tower System at City Hall, Fire House #4 & Fire House #5
+       (AB-MEE began installing power and data conduits to rooftops at Fire House #4 and City Hal...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12999,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-04-14] (unassigned body)** -- City Council Agenda - 2026-04-14 (agenda)
+  > ...pgrades to all currently contracted Axon products, including State-mandated Body
+         Worn and Vehicle dash cameras, and interview room cameras. Upgrade to Taser 10,
+         and adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead drones, and
+         two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone
+         detection device), 250 Fusus CCTV Streams...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12207,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-04-14] (unassigned body)** -- City Council Other - 2026-04-14 (other)
+  > ...pgrades to all currently contracted Axon products, including State-mandated Body
+         Worn and Vehicle dash cameras, and interview room cameras. Upgrade to Taser 10,
+         and adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead drones, and
+         two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone
+         detection device), 250 Fusus CCTV Streams...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12208,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-04-14] (unassigned body)** -- City Council Minutes - 2026-04-14 (minutes)
+  > ..., which provides upgrades to all currently contracted
+Axon products, including State-mandated Body Worn and Vehicle dash cameras, and interview room
+cameras. Upgrade to Taser 10, and adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead
+drones, and two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone
+detection device), 250 Fusus CCTV Streams, Auror- Retail Cr...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12491,plainText=false))  _(term: drone, unreviewed)_
+
+- **[2026-05-12] (unassigned body)** -- City Council Other - 2026-05-12 (other)
+  > ..., which provides upgrades to all currently contracted
+Axon products, including State-mandated Body Worn and Vehicle dash cameras, and interview room
+cameras. Upgrade to Taser 10, and adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead
+drones, and two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone
+detection device), 250 Fusus CCTV Streams, Auror- Retail Cr...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12485,plainText=false))  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -747,7 +1224,17 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### gunshot_detection
 
-*(no mentions)*
+- **[2026-04-28] (unassigned body)** -- Board of Finance Other - 2026-04-28 (other)
+  > ...era (DVR)
+         • Improved video quality with reduced motion blur and better low-light performance
+         • Multi-mic audio—four built-in microphones
+         • Wireless upload option
+         • Gunshot detection and alerts
+         • Streaming audio and video capability (requires the Axon Respond operations
+            platform)
+         • “Find my camera” feature
+         • Verbal transcrip...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12299,plainText=false))  _(term: gunshot_detection, unreviewed)_
 
 
 ### mobile_forensics
@@ -762,27 +1249,332 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### predictive_policing
 
-*(no mentions)*
+- **[2026-02-26] (unassigned body)** -- Planning Commission Other - 2026-02-26 (other)
+  > ...                                                                                                                                                                 #R-3404 AS MANUFACTURED BY THE "NEENAH FOUNDRY
+                                                                                                                                                                                                ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11768,plainText=false))  _(term: predictive_policing, unreviewed)_
 
 
 ### purchasing_broker
 
-*(no mentions)*
+- **[2026-03-10] (unassigned body)** -- Board of Finance Other - 2026-03-10 (other)
+  > ...                                                                 Chicago, IL 60675-1515
+
+
+
+
+                      Sales Contact Info
+
+
+                      Vincent Mulvihill | (866) 773-7348 | vinny@cdwg.com
+
+
+
+Need Help?
+
+
+         My Account                                      Support                                       Call 800.800.4239
+
+
+About Us | Privacy Policy | Terms and Conditions
+
+Th...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11868,plainText=false))  _(term: purchasing_broker, unreviewed)_
+
+- **[2026-03-10] (unassigned body)** -- Joint Meeting of the City Council and Board of Finance Other - 2026-03-10 (other)
+  > ...                                                                 Chicago, IL 60675-1515
+
+
+
+
+                      Sales Contact Info
+
+
+                      Vincent Mulvihill | (866) 773-7348 | vinny@cdwg.com
+
+
+
+Need Help?
+
+
+         My Account                                      Support                                       Call 800.800.4239
+
+
+About Us | Privacy Policy | Terms and Conditions
+
+Th...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11872,plainText=false))  _(term: purchasing_broker, unreviewed)_
 
 
 ### rtcc
 
-*(no mentions)*
+- **[2026-03-04] (unassigned body)** -- Board of Finance Other - 2026-03-04 (other)
+  > ...data (e.g., phone
+     extractions, CCTV, social media).
+     Transition to a fully paperless records and reporting system to improve efficiency and reduce environmental
+     impact.
+     Incorporate real-time crime center (RTCC) technologies that utilize LPRs, drones, CCTV, and AI analytics for
+     enhanced situational awareness.
+     Remain current with emerging law enforcement technology trend...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11790,plainText=false))  _(term: rtcc, unreviewed)_
+
+- **[2026-03-25] (unassigned body)** -- Board of Finance Other - 2026-03-25 (other)
+  > ...quickly and proper
+                           • Additional Fleet 3 system for a new patrol vehicle (Dash camera)
+
+
+                           Real-Time Crime Intelligence
+                           • Fusus Real-Time Crime Center (RTCC) integration supporting up to 250 AI video streams
+                           • Auror Retail Crime Intelligence Hub for coordinated retail theft investigations
+
+
+   ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12017,plainText=false))  _(term: rtcc, unreviewed)_
+
+- **[2026-04-28] (unassigned body)** -- Board of Finance Other - 2026-04-28 (other)
+  > ...a “covered foreign entity.” Axon drones meet this statutory
+requirement because they are U.S.-made technology.
+
+The package also includes Axon Assistant Body-Worn Camera translation capabilities, the Fusus CCTV
+integration system, 13 Axon License Plate Recognition (LPR) units that integrate within the existing Axon
+ecosystem, and the Auror Retail Crime Hub System.
+
+Respectfully,
+
+
+
+    Mark R. Mor...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12299,plainText=false))  _(term: rtcc, unreviewed)_
+
+- **[2026-04-14] (unassigned body)** -- City Council Agenda - 2026-04-14 (agenda)
+  > ... adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead drones, and
+         two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone
+         detection device), 250 Fusus CCTV Streams, Auror- Retail Crime Hub. Said items to
+         be covered for five years, effective June 2026, for a total price of $4,030,952.09. I
+         further move to authorize the Mayor o...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12207,plainText=false))  _(term: rtcc, unreviewed)_
+
+- **[2026-04-14] (unassigned body)** -- City Council Other - 2026-04-14 (other)
+  > ... adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead drones, and
+         two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone
+         detection device), 250 Fusus CCTV Streams, Auror- Retail Crime Hub. Said items to
+         be covered for five years, effective June 2026, for a total price of $4,030,952.09. I
+         further move to authorize the Mayor o...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12208,plainText=false))  _(term: rtcc, unreviewed)_
+
+- **[2026-04-14] (unassigned body)** -- City Council Minutes - 2026-04-14 (minutes)
+  > ...e to Taser 10, and adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead
+drones, and two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone
+detection device), 250 Fusus CCTV Streams, Auror- Retail Crime Hub. Said items to be covered for
+five years, effective June 2026, for a total price of $4,030,952.09. I further move to authorize the
+                        ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12491,plainText=false))  _(term: rtcc, unreviewed)_
+
+- **[2026-05-12] (unassigned body)** -- City Council Other - 2026-05-12 (other)
+  > ...e to Taser 10, and adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead
+drones, and two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone
+detection device), 250 Fusus CCTV Streams, Auror- Retail Crime Hub. Said items to be covered for
+five years, effective June 2026, for a total price of $4,030,952.09. I further move to authorize the
+
+
+
+
+                     ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12485,plainText=false))  _(term: rtcc, unreviewed)_
 
 
 ### surveillance_general
 
-*(no mentions)*
+- **[2026-03-04] (unassigned body)** -- Board of Finance Other - 2026-03-04 (other)
+  > ...ctive policing, threat assessment, and
+     smarter resource allocation.
+     Establish a Digital Evidence Unit to manage and process increasing volumes of digital data (e.g., phone
+     extractions, CCTV, social media).
+     Transition to a fully paperless records and reporting system to improve efficiency and reduce environmental
+     impact.
+     Incorporate real-time crime center (RTCC) techno...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11790,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-03-25] (unassigned body)** -- Board of Finance Other - 2026-03-25 (other)
+  > ...OFFICER SAFETY PLAN T10 PREMIUM    102610   AXON COMMUNITY LINK                                    110        07/01/2026            06/30/2031
+OFFICER SAFETY PLAN T10 PREMIUM    102642   AXON FUSUS - CCTV AI STREAMS                           250        07/01/2026            06/30/2031
+
+               Page 6                                                                                            ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12017,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-04-28] (unassigned body)** -- Board of Finance Other - 2026-04-28 (other)
+  > ...ered foreign entity.” Axon drones meet this statutory
+requirement because they are U.S.-made technology.
+
+The package also includes Axon Assistant Body-Worn Camera translation capabilities, the Fusus CCTV
+integration system, 13 Axon License Plate Recognition (LPR) units that integrate within the existing Axon
+ecosystem, and the Auror Retail Crime Hub System.
+
+Respectfully,
+
+
+
+    Mark R. Morello
+
+...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12299,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-02-19] (unassigned body)** -- Board of Public Works Other - 2026-02-19 (other)
+  > ...il.
+
+Main Library Site Access System Upgrades $25,000
+The Main Library currently has a security camera system which covers the building. In the past year, a
+single side door entrance was put onto the Avigilon site access system to allow for Library Staff to gain
+access prior to open public hours at the Main Library. The FY25-26 funding would expand coverage the
+site access system to include sensit...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9627,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-04-16] (unassigned body)** -- Board of Public Works Other - 2026-04-16 (other)
+  > ...in the coming months.
+
+Main Library Site Access System Upgrades $25,000
+The Main Library currently has a security camera system which covers the building. A single side door
+entrance was put onto the Avigilon site access system to allow for Library Staff to gain access prior to open
+public hours at the Main Library. The FY25-26 funding would expand coverage the site access system to
+include sensit...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12234,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-03-19] (unassigned body)** -- Board of Public Works Other - 2026-03-19 (other)
+  > ...le.
+
+Main Library Site Access System Upgrades $25,000
+The Main Library currently has a security camera system which covers the building. In the past year, a
+single side door entrance was put onto the Avigilon site access system to allow for Library Staff to gain
+access prior to open public hours at the Main Library. The FY25-26 funding would expand coverage the
+site access system to include sensit...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11945,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-05-21] (unassigned body)** -- Board of Public Works Other - 2026-05-21 (other)
+  > ...and re-assembled a surplus cable weight machine from
+       81 Church Avenue to Chippens Hill Middle School to be used within their existing weight room
+    • IT Staff to reclaim data server rack and Avigilon control box and site access card readers from [address redacted] (Avigilon system will be repurposed at Manross Library when site access is
+       installed later this year)
+    • Manage...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12546,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-06-18] (unassigned body)** -- Board of Public Works Other - 2026-06-18 (other)
+  > ... areas of City Hall where future art frames will be installed to showcase local Bristol student’s
+       artwork from all Board of Education grade levels
+    • IT Staff reclaimed data server rack and Avigilon control box and site access card readers from [address redacted] (Avigilon system will be repurposed at Manross Library when site access is
+       installed later this year)
+    • Collec...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12792,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-01-15] (unassigned body)** -- Board of Public Works Other - 2026-01-15 (other)
+  > ...il.
+
+Main Library Site Access System Upgrades $25,000
+The Main Library currently has a security camera system which covers the building. In the past year, a
+single side door entrance was put onto the Avigilon site access system to allow for Library Staff to gain
+access prior to open public hours at the Main Library. The FY25-26 funding would expand coverage the
+site access system to include sensit...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9240,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-04-14] (unassigned body)** -- City Council Agenda - 2026-04-14 (agenda)
+  > ...13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead drones, and
+         two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone
+         detection device), 250 Fusus CCTV Streams, Auror- Retail Crime Hub. Said items to
+         be covered for five years, effective June 2026, for a total price of $4,030,952.09. I
+         further move to authorize the Mayor or Acti...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12207,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-04-14] (unassigned body)** -- City Council Other - 2026-04-14 (other)
+  > ...13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead drones, and
+         two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone
+         detection device), 250 Fusus CCTV Streams, Auror- Retail Crime Hub. Said items to
+         be covered for five years, effective June 2026, for a total price of $4,030,952.09. I
+         further move to authorize the Mayor or Acti...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12208,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-04-14] (unassigned body)** -- City Council Minutes - 2026-04-14 (minutes)
+  > ...aser 10, and adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead
+drones, and two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone
+detection device), 250 Fusus CCTV Streams, Auror- Retail Crime Hub. Said items to be covered for
+five years, effective June 2026, for a total price of $4,030,952.09. I further move to authorize the
+                              ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12491,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-05-12] (unassigned body)** -- City Council Other - 2026-05-12 (other)
+  > ...aser 10, and adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead
+drones, and two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone
+detection device), 250 Fusus CCTV Streams, Auror- Retail Crime Hub. Said items to be covered for
+five years, effective June 2026, for a total price of $4,030,952.09. I further move to authorize the
+
+
+
+
+                           ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12485,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-01-22] (unassigned body)** -- Fire Station 3 Building Committee Other - 2026-01-22 (other)
+  > ...omm - Labor                           18,500                14,800                 2,200                0             17,000      92%            1,500                   850
+         336 AV, Security, CCTV, Access - Material           55,000                55,000                     0                0             55,000     100%                0                 2,750
+         337 AV, Security, CCTV...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9358,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-04-23] (unassigned body)** -- General Other - 2026-04-23 (other)
+  > ...    --- 08 Special Systems ---
+6760           Aiphone intercom monitor panel                                       1     QUOTE 7               0.00       1.00 E          1.00
+6768           Aiphone / Avigilon Power supply                                      1     QUOTE 7               0.00       1.76 E          1.76
+                   --- 08 Special Systems Total ---                              ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12290,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-03-25] (unassigned body)** -- Historic District Commission Other - 2026-03-25 (other)
+  > ...                  Page 13
+     Mcneal, Scott-
+
+[address redacted]
+
+      Annual Usage
+        null kWh
+Service Provided by:
+Eversource (Formerly
+       CL&P)
+
+
+
+
+    3.69 kW System
+9 Hanwha - Q.PEAK
+DUO BLK ML-G10.C
+ plus 410 Modules
+Estimated Production:
+      null kWh
+ Usage Offset: N/A
+
+
+
+
+Scott McNeal (Feb 16, 2026 20:28:20 EST)
+
+
+
+
+                                           3...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11956,plainText=false))  _(term: surveillance_general, unreviewed)_
+
+- **[2026-05-27] (unassigned body)** -- Historic District Commission Other - 2026-05-27 (other)
+  > ...                                          AC SYSTEM SIZE:     5.76kW
+                                            MODULE COUNT:       16
+                                            MODULES USED:       HANWHA 410
+                                            MODULE SPEC #:       Q.PEAK DUO BLK ML-G10.C+ 410
+                                            UTILITY COMPANY:    EVERSOURCE
+                    ...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12592,plainText=false))  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools
 
-*(no mentions)*
+- **[2026-03-04] (unassigned body)** -- Board of Finance Other - 2026-03-04 (other)
+  > ...   543000   TECHNOLOGY REPAIRS                                                                                                                   1.00          1,500.00     1,500.00
+0012110   543000   CALLYO - A LAW ENFORCEMENT TECH GROUP - COVERT MIC FOR NET                                                                           1.00          4,475.00     4,475.00
+0012110   543000   AIMS - PARKI...
+  [View document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11790,plainText=false))  _(term: undercover_tools, unreviewed)_
 
 
 ### vehicle_forensics
@@ -805,8 +1597,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 2
 - Active meeting bodies: 8
-- Videos registered: 241 (fetched: 183, no captions: 1)
-- Date range covered: 2016-01-12 to 2026-09-09 (all 241 videos dated)
+- Videos registered: 245 (fetched: 188, no captions: 2)
+- Date range covered: 2016-01-12 to 2026-09-23 (all 245 videos dated)
 
 
 ### Channels
@@ -821,30 +1613,30 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| bristol_public_schools | streams | 2026-09-10 11:59:31.094466 | 2 |
-| bristol_public_schools | videos | 2026-09-10 11:59:30.350322 | 135 |
-| nutmeg_tv | streams | 2026-09-10 11:37:23.451548 | 3 |
-| nutmeg_tv | videos | 2026-09-10 11:37:22.711081 | 5289 |
+| bristol_public_schools | streams | 2026-09-25 15:57:12.076281 | 2 |
+| bristol_public_schools | videos | 2026-09-25 15:57:11.292421 | 139 |
+| nutmeg_tv | streams | 2026-09-25 15:38:33.671540 | 3 |
+| nutmeg_tv | videos | 2026-09-25 15:38:32.776262 | 5316 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Education |  | True | 82 |
+| Board of Education |  | True | 83 |
 | City Council |  | True | 111 |
-| Finance & Operations Committee |  | True | 16 |
+| Finance & Operations Committee |  | True | 17 |
 | Labor Relations Committee |  | True | 1 |
-| Policy Committee |  | True | 13 |
+| Policy Committee |  | True | 14 |
 | School Safety Committee |  | True | 4 |
-| School, Family & Community Partnerships |  | True | 8 |
+| School, Family & Community Partnerships |  | True | 9 |
 | Student Achievement & Outcomes Committee |  | True | 6 |
 
 
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 841 (fetched: 0)
+- Documents registered: 841 (fetched: 770)
 - Date range covered: 2026-01-05 to 2026-09-09
 
 
@@ -863,10 +1655,11 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (1 shown, max 25)
+### Videos with no captions available (2 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| 09/09/2026 Regular School Safety Committee Meeting | 2026-09-09 |
 | 04-04-25 Special Board of Education Meeting | 2025-04-04 |
 
 
@@ -909,5 +1702,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:48:03 from Bristol's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:50:44 from Bristol's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

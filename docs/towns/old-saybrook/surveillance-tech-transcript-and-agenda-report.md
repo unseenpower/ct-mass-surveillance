@@ -1,9 +1,9 @@
 # Surveillance-tech report: Old Saybrook
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,7 +20,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">60</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 22 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2025–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2025-01-28 → 2026-08-24</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">3</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">99%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">342 of 345 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">99%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">349 of 351 meetings</span></a>
 <a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">11</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
@@ -63,7 +63,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 22 meetings surfaced a finding (22 dated, spanning 2025-01-28 to 2026-08-24; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-24.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-24.*
 
 ??? note "Earlier meetings (22)"
 
@@ -800,8 +800,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 21
-- Videos registered: 345 (fetched: 342, no captions: 1)
-- Date range covered: 2021-02-03 to 2026-09-10 (all 345 videos dated)
+- Videos registered: 351 (fetched: 349, no captions: 1)
+- Date range covered: 2021-02-03 to 2026-09-25 (all 351 videos dated)
 
 
 ### Channels
@@ -815,26 +815,26 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| old_saybrook_ct | streams | 2026-09-10 11:56:02.574869 | 2 |
-| old_saybrook_ct | videos | 2026-09-10 11:56:01.848330 | 415 |
+| old_saybrook_ct | streams | 2026-09-25 15:11:46.616818 | 2 |
+| old_saybrook_ct | videos | 2026-09-25 15:11:45.835450 | 428 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 32 |
+| Board of Finance | budget_finance | True | 33 |
 | Joint Board of Selectmen & Board of Finance | budget_finance | True | 0 |
-| Pension and Benefits Board | budget_finance | True | 15 |
-| Architectural Review Board | other | True | 23 |
+| Pension and Benefits Board | budget_finance | True | 16 |
+| Architectural Review Board | other | True | 24 |
 | Board of Selectmen | other | True | 41 |
 | Conservation Commission | other | True | 22 |
 | Economic Development Commission | other | True | 16 |
 | Ethics Commission | other | True | 1 |
-| Harbor Management Commission | other | True | 17 |
-| Historic District Commission | other | True | 13 |
+| Harbor Management Commission | other | True | 18 |
+| Historic District Commission | other | True | 14 |
 | Inland Wetlands, Watercourses & Aquifer Protection Agency | other | True | 15 |
-| Mariner's Way Redevelopment Committee | other | True | 21 |
+| Mariner's Way Redevelopment Committee | other | True | 22 |
 | Parks and Recreation Commission | other | True | 17 |
 | Planning Commission | other | True | 26 |
 | Preserve Ad Hoc Subcommittee | other | True | 11 |
@@ -852,8 +852,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 320 (fetched: 306)
-- Date range covered: 2026-01-06 to 2026-09-16
+- Documents registered: 363 (fetched: 349)
+- Date range covered: 2026-01-06 to 2026-09-28
 
 
 ### Agenda sources
@@ -921,5 +921,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:00:40 from Old Saybrook's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:06:32 from Old Saybrook's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

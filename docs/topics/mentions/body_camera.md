@@ -1,6 +1,6 @@
 # Body cameras: every mention, every town
 
-_Generated 2026-09-10T18:08:17 — 449 mentions across 52 towns, 2015-04-23 to 2026-08-12._
+_Generated 2026-09-25T17:13:28 — 507 mentions across 53 towns, 2015-04-23 to 2026-09-16._
 
 
 Officer-worn cameras, and the retention, release and redaction policies that govern their footage.
@@ -23,58 +23,59 @@ _No human review has been applied to any mention in this file._
 
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
+| Stamford ⁽ⁿᵖ⁾ | **56** | · | 26 | 62% | 2015-04-23 | 2025-09-03 |
 | [Norwalk](../../towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) | **45** | · | 26 | 98% | 2020-09-24 | 2026-07-09 |
-| [Darien](../../towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **34** | 1 | 14 | 82% | 2020-08-17 | 2026-08-10 |
+| [Darien](../../towns/darien/surveillance-tech-transcript-and-agenda-report.md) | **34** | 1 | 14 | 90% | 2020-08-17 | 2026-08-10 |
 | [New Haven](../../towns/new-haven/surveillance-tech-transcript-and-agenda-report.md) | **32** | 14 | 21 | 91% | 2015-07-06 | 2026-05-21 |
 | [East Lyme](../../towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) | **31** | 6 | 21 | 95% | 2020-07-20 | 2026-03-09 |
 | [Fairfield](../../towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **29** | · | 17 | 98% | 2018-08-15 | 2025-10-15 |
 | [Milford](../../towns/milford/surveillance-tech-transcript-and-agenda-report.md) | **24** | 1 | 13 | 95% | 2017-05-10 | 2026-02-17 |
+| [Old Lyme](../../towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | **21** | · | 11 | 81% | 2021-03-16 | 2023-09-05 |
 | [Brookfield](../../towns/brookfield/surveillance-tech-transcript-and-agenda-report.md) | **17** | · | 6 | 94% | 2022-04-13 | 2026-03-17 |
-| Stamford ⁽ⁿᵖ⁾ | **17** | · | 9 | 11% | 2015-04-23 | 2025-09-03 |
-| [Old Lyme](../../towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md) | **16** | · | 9 | 71% | 2022-01-18 | 2023-09-05 |
 | [West Hartford](../../towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) | **15** | · | 10 | 93% | 2020-07-08 | 2026-06-02 |
-| [Groton](../../towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **12** | · | 8 | 82% | 2020-06-23 | 2026-08-04 |
-| [Hartford](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 5 | 95% | 2019-05-01 | 2023-04-12 |
-| [Plainfield](../../towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | **10** | · | 6 | 62% | 2022-03-30 | 2026-03-26 |
-| [North Haven](../../towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **9** | · | 2 | 23% | 2026-02-18 | 2026-02-18 |
-| [Guilford](../../towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 6 | 79% | 2017-12-20 | 2025-11-13 |
-| [Kent](../../towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 5 | 74% | 2022-01-03 | 2023-02-08 |
+| [Groton](../../towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **13** | · | 9 | 88% | 2019-04-16 | 2026-08-04 |
+| [Hartford](../../towns/hartford/surveillance-tech-transcript-and-agenda-report.md) | **11** | · | 5 | 96% | 2019-05-01 | 2023-04-12 |
+| [Bristol](../../towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **10** | 3 | 7 | 77% | 2021-09-14 | 2026-08-12 |
+| [Plainfield](../../towns/plainfield/surveillance-tech-transcript-and-agenda-report.md) | **10** | · | 6 | 72% | 2022-03-30 | 2026-03-26 |
+| [Berlin](../../towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **9** | · | 8 | 83% | 2024-01-17 | 2026-09-16 |
+| [North Haven](../../towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) | **9** | · | 2 | 28% | 2026-02-18 | 2026-02-18 |
+| [Guilford](../../towns/guilford/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 6 | 84% | 2017-12-20 | 2025-11-13 |
+| [Kent](../../towns/kent/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 5 | 82% | 2022-01-03 | 2023-02-08 |
 | Middletown ⁽ⁿᵖ⁾ | **8** | · | 5 | 19% | 2020-07-20 | 2024-03-18 |
-| [Simsbury](../../towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 8 | 69% | 2020-06-22 | 2024-06-10 |
+| [North Branford](../../towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 6 | 77% | 2018-01-16 | 2026-04-14 |
+| [Simsbury](../../towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) | **8** | · | 8 | 84% | 2020-06-22 | 2024-06-10 |
 | [Ansonia](../../towns/ansonia/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 6 | 96% | 2020-09-14 | 2026-02-11 |
-| [Berlin](../../towns/berlin/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 6 | 78% | 2024-01-17 | 2026-04-15 |
-| [Bristol](../../towns/bristol/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 4 | 76% | 2021-09-14 | 2026-08-12 |
-| [Seymour](../../towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 5 | 83% | 2020-08-24 | 2024-11-20 |
+| [Seymour](../../towns/seymour/surveillance-tech-transcript-and-agenda-report.md) | **7** | · | 5 | 84% | 2020-08-24 | 2024-11-20 |
 | [East Hartford](../../towns/east-hartford/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 1 | 100% | 2025-06-03 | 2025-06-03 |
 | [Killingly](../../towns/killingly/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 1 | 64% | 2024-04-06 | 2024-04-06 |
-| [North Branford](../../towns/north-branford/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 5 | 71% | 2026-02-17 | 2026-04-14 |
 | [Wallingford](../../towns/wallingford/surveillance-tech-transcript-and-agenda-report.md) | **6** | · | 5 | 90% | 2020-06-23 | 2026-06-09 |
-| [Farmington](../../towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 67% | 2020-03-12 | 2024-02-27 |
-| [Newington](../../towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 73% | 2022-05-25 | 2025-08-27 |
-| [Norwich](../../towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 54% | 2024-09-16 | 2026-07-20 |
+| [Farmington](../../towns/farmington/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 77% | 2020-03-12 | 2024-02-27 |
+| [Newington](../../towns/newington/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 3 | 74% | 2022-05-25 | 2025-08-27 |
+| [Norwich](../../towns/norwich/surveillance-tech-transcript-and-agenda-report.md) | **5** | · | 4 | 65% | 2024-09-16 | 2026-07-20 |
 | [Bridgeport](../../towns/bridgeport/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 1 | 90% | 2026-05-02 | 2026-05-02 |
 | [Danbury](../../towns/danbury/surveillance-tech-transcript-and-agenda-report.md) | **4** | 1 | 3 | 16% | 2021-04-23 | 2026-01-06 |
-| [Plainville](../../towns/plainville/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 72% | 2020-07-20 | 2021-03-10 |
+| [Plainville](../../towns/plainville/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 82% | 2020-07-20 | 2021-03-10 |
 | [Stonington](../../towns/stonington/surveillance-tech-transcript-and-agenda-report.md) | **4** | · | 3 | 70% | 2021-03-11 | 2026-03-30 |
-| [Bethel](../../towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 76% | 2021-08-17 | 2024-08-06 |
+| [Bethel](../../towns/bethel/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 84% | 2021-08-17 | 2024-08-06 |
 | [East Hampton](../../towns/east-hampton/surveillance-tech-transcript-and-agenda-report.md) | **3** | 1 | 3 | 55% | 2022-08-10 | 2026-06-09 |
-| [New Britain](../../towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 32% | 2022-11-10 | 2024-06-27 |
-| [Waterbury](../../towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 86% | 2020-09-21 | 2025-04-22 |
-| [Cheshire](../../towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 46% | 2022-03-29 | 2022-03-29 |
-| [Naugatuck](../../towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 58% | 2024-03-04 | 2024-03-04 |
+| [New Britain](../../towns/new-britain/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 34% | 2022-11-10 | 2024-06-27 |
+| [Somers](../../towns/somers/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 3 | 69% | 2022-03-31 | 2022-07-26 |
+| [Waterbury](../../towns/waterbury/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 85% | 2020-09-21 | 2025-04-22 |
+| [Wethersfield](../../towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | **3** | · | 2 | 72% | 2020-06-15 | 2022-04-21 |
+| [Cheshire](../../towns/cheshire/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 63% | 2022-03-29 | 2022-03-29 |
+| [East Haddam](../../towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 2 | 89% | 2020-07-15 | 2024-02-21 |
+| [Naugatuck](../../towns/naugatuck/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 59% | 2024-03-04 | 2024-03-04 |
 | [Old Saybrook](../../towns/old-saybrook/surveillance-tech-transcript-and-agenda-report.md) | **2** | 1 | 2 | 99% | 2025-01-28 | 2026-04-27 |
 | [Southington](../../towns/southington/surveillance-tech-transcript-and-agenda-report.md) | **2** | · | 1 | 97% | 2026-02-26 | 2026-02-26 |
-| [Windsor](../../towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | **2** | 1 | 2 | 49% | 2024-04-16 | 2026-04-20 |
+| [Windsor](../../towns/windsor/surveillance-tech-transcript-and-agenda-report.md) | **2** | 1 | 2 | 51% | 2024-04-16 | 2026-04-20 |
 | Beacon Falls ⁽ⁿᵖ⁾ | **1** | 1 | 1 | — | 2026-08-10 | 2026-08-10 |
 | [Cromwell](../../towns/cromwell/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 99% | 2025-08-13 | 2025-08-13 |
-| [East Haddam](../../towns/east-haddam/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 82% | 2024-02-21 | 2024-02-21 |
-| [Monroe](../../towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 67% | 2020-06-08 | 2020-06-08 |
-| [New Milford](../../towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 44% | 2020-06-07 | 2020-06-07 |
+| [Monroe](../../towns/monroe/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 81% | 2020-06-08 | 2020-06-08 |
+| [New Milford](../../towns/new-milford/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 62% | 2020-06-07 | 2020-06-07 |
 | [Newtown](../../towns/newtown/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 100% | — | — |
-| [Orange](../../towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2026-04-09 | 2026-04-09 |
+| [Orange](../../towns/orange/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 99% | 2026-04-09 | 2026-04-09 |
 | [South Windsor](../../towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 97% | 2021-12-06 | 2021-12-06 |
-| [Westport](../../towns/westport/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 69% | 2025-01-14 | 2025-01-14 |
-| [Wethersfield](../../towns/wethersfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 62% | 2022-04-21 | 2022-04-21 |
+| [Westport](../../towns/westport/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 81% | 2025-01-14 | 2025-01-14 |
 
 ⁽ⁿᵖ⁾ = that town's full report is generated but not yet published, so there is nothing to link to yet.
 
@@ -82,6 +83,60 @@ _No human review has been applied to any mention in this file._
 ## Receipts
 
 _Most recent first within each town. Every line links to the exact second of the meeting video._
+
+
+### Stamford — 56 mentions
+
+- **[2025-09-03] Police Commission** — September 2, 2025
+  > …Uh, so that should be, you know, hammered out in the next couple of weeks and we don't see any foreseeable issues. But what I will say, commissioner, is that, um, look at the, one way to look at it is, is the feed of the drone. Any electronic feed that comes off of that drone or comes in from that drone is going to be very similar to our, um, body worn camera protocols. Right. So it's very strict.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/15305)  [jump to 41:39 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_0c75087f-3be4-4d2b-ace5-7fbe7ee4fb40.mp4/playlist.m3u8#t=2499)  _(term: `body_camera`)_
+
+- **[2025-01-08] Police Commission** — January 7, 2025
+  > …So that would be sustained. What we do have a few times is that, um, a citizen's complaint will come in and it might be unfounded or not sustained. However, during the course of the investigation, we might find something else out, like body-worn camera they forgot to turn on. So that even though it wasn't part of the citizen's complaint, we sustain that part of it. So that happens.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/14647)  [jump to 11:51 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_c04b445e-f4ac-46bb-8bb0-da7badc40126.mp4/playlist.m3u8#t=711)  _(term: `body_camera`)_
+
+- **[2024-03-27] Board of Representatives** — 03272024 Joint BOF/BOR Fiscal Committee FY24/25 Special Budget Meeting - Presentation Night 4
+  > …two is I don't recall that this board has ever seen the new contract has, and maybe, maybe I missed it, but has this, has the board of finance and the board of representatives ever seen the new contract that you've, um, you're formed with this, this organization that provides the support for the body worn camera, body worn cameras. In reference for the body worn cameras, we did apply for reimburse…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/13908)  [jump to 20:45 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_98312693-ecf1-11ee-98bb-0050569183fa.mp4#t=1245)  _(term: `body_camera`)_
+
+- **[2023-12-14] (unassigned body)** — 12142023 BOF Regular Monthly Meeting
+  > …and dash cameras, one has a three-year time horizon, one has a four-year time horizon, and one has a five-year time horizon currently. So if we go with a five-year option, we would basically be extending the dash cam contract by two years and the body-worn camera contract by one year. The interview room contract already has five years on it. So we wouldn't be fully renewing the contract. We would …
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/13602)  [jump to 41:47 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_57b8f02b-9b57-11ee-a93d-0050569183fa.mp4#t=2507)  _(term: `body_camera`)_
+
+- **[2023-12-14] (unassigned body)** — 12142023 BOF Regular Monthly Meeting
+  > …- Or do it for the two years, just to see what the difference is. - Again, the problem is that we must, it would be extraordinarily difficult for the police department to have a separate body worn camera vendor from its dash cam camera vendor, because they rely on the network shared data storage solution that is provided by Axon, and which is unfortunately, I think, from our perspective, an indust…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/13602)  [jump to 43:20 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_57b8f02b-9b57-11ee-a93d-0050569183fa.mp4#t=2600)  _(term: `body_camera`)_
+
+- **[2023-12-14] (unassigned body)** — 12142023 BOF Regular Monthly Meeting
+  > …to follow that standard? - Proprietary standard, I assume. - Yes, it's a proprietary standard owned by Axon. - It's not an open standard, it's a proprietary standard. - So other body worn camera vendors don't actually write to that standard? - They would have to provide their own, or we would have to provide a data storage solution. And it is not, my understanding is that the current solution that…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/13602)  [jump to 44:09 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_57b8f02b-9b57-11ee-a93d-0050569183fa.mp4#t=2649)  _(term: `body_camera`)_
+
+- **[2023-12-14] (unassigned body)** — 12142023 BOF Regular Monthly Meeting
+  > …the other two are in the middle of their terms. But whatever it is, it's five years from tomorrow. Is that what you meant to say? - It's five years. However, we currently have, we are under contract through fiscal 26, I believe, for the body worn camera contract currently. So they would be replacing an existing contract with a couple of years left on it into the five years. - Sure. So, but we're b…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/13602)  [jump to 45:23 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_57b8f02b-9b57-11ee-a93d-0050569183fa.mp4#t=2723)  _(term: `body_camera`)_
+
+- **[2022-06-23] Board of Representatives** — BOR State & Commerce Committee Meeting
+  > …police officers, it's definitely a behavioral modification tool. The officers have told me when they are encountering a resident, uh, they let them know that the body worn cat, that they have a body worn camera, uh, and people change. And it's a world where everything is on, uh, tick tock. Uh, everything is going out through social media.…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11835)  [jump to 1:05:47 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_23857972-41fc-478d-a376-10d46a01c3c8.mp4#t=3947)  _(term: `body_camera`)_
+
+- **[2022-06-20] Board of Representatives** — BOR Operations Committee Meeting
+  > …Peter Gemme: You know they're not the technical experts in evaluating in a lot of the technical items. Peter Gemme: So for major projects. Peter Gemme: You know, either having a body cam or increasing number of inspectors will not really have an impact. Peter Gemme: For one or two family dwellings. Peter Gemme: You know whichever activity small projects or maybe kitchen renovation or bathroom reno…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11816)  [jump to 1:09:55 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_c1da3ccf-097e-4e9a-b798-14758bd9023b.mp4#t=4195)  _(term: `body_camera`)_
+
+- **[2022-05-02] Board of Representatives** — BOR Regular Board Meeting
+  > …Item 6, F31.044, $266,302, this goes along with item 7, it's additional appropriation through the grants budget for the total amount for body worn cameras for the purchase of 75 additional body worn cameras and licensing for the police department and for the body worn camera personnel to attend training. 50% grant funded for $133,151 in federal funds and $133,151 in local funds approved by committ…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11681)  [jump to 35:50 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_17f9d195-fb77-465f-9376-cb803470a410.mp4#t=2150)  _(term: `body_camera`)_
+
+- **[2022-05-02] Board of Representatives** — BOR Regular Board Meeting
+  > …approved by committee 9-01. Corresponding to that is the city portion of this, F31.046 for $133,151, that's the additional appropriation from the operating budget, city share of body worn camera grant funding sources contingency approved by committee 9-0-1. Item 8 was withdrawn. Item 9 was withdrawn due to not being considered by the Board of Finance. Item 10, F31.051 grants resolution authorizing…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11681)  [jump to 36:24 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_17f9d195-fb77-465f-9376-cb803470a410.mp4#t=2184)  _(term: `body_camera`)_
+
+- **[2022-04-25] Board of Representatives** — BOR Fiscal Committee Meeting
+  > …That passes 10-0-0. Item 6. F-31.044, $266,302. Additional appropriation grants budget. Body-worn cameras. Purchase of 75 additional body-worn cameras and licensing for the police department and for body-worn camera personnel to attend training. 50% grant funded. $133,151 federal funds and $133,151 in local funds. It's approved by the Board of Finance 6-0-0. Ms. Carpenter or Chief Shaw?…
+  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11650)  [jump to 15:17 ▸](https://archive-video.granicus.com/cityofstamford/cityofstamford_bd9318ec-2d36-4c31-8f2b-759b0edc4700.mp4#t=917)  _(term: `body_camera`)_
+
+
+_44 further mentions in Stamford not shown here — all of them are in Stamford's full report (not yet published)._
 
 
 ### Norwalk — 45 mentions
@@ -408,6 +463,60 @@ _17 further mentions in Fairfield not shown here — all of them are in [Fairfie
 _12 further mentions in Milford not shown here — all of them are in [Milford's full report](../../towns/milford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
+### Old Lyme — 21 mentions
+
+- **[2023-09-05] Board of Selectmen** — Board of Selectmen Meeting of September 5, 2023
+  > …so the one thing that I I saw in here it says they trained for the uh the body cam system body cam storage that's a lot of camera stores films…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_C1cpkctAxw&t=4300s)  _(term: `body_camera`)_
+
+- **[2023-09-05] Board of Selectmen** — Board of Selectmen Meeting of September 5, 2023
+  > …says they trained for the uh the body cam system body cam storage that's a lot of camera stores films in here it says the times are respond to…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_C1cpkctAxw&t=4303s)  _(term: `body_camera`)_
+
+- **[2023-09-05] Board of Selectmen** — Board of Selectmen Meeting of September 5, 2023
+  > …police will be solely responsible for fulfilling the foa request for dashboard camera and BWC body worn camera data generated by Town officers and by State Police employees to include…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_C1cpkctAxw&t=4336s)  _(term: `body_camera`)_
+
+- **[2023-03-28] Board of Finance** — Board of Finance March 28, 2023
+  > …allowing the municipality to have access all access to their p25 radio system at no cost just like the body cam yeah I mean I know we have no control over that yeah but they do…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eftQmlGesFQ&t=5101s)  _(term: `body_camera`)_
+
+- **[2023-03-21] Board of Finance** — Board of Finance March 21, 2023
+  > …budget um our big ticket items um specifically the body cam infrastructure support um which is…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ffnKRm3vFeA&t=8395s)  _(term: `body_camera`)_
+
+- **[2023-03-21] Board of Finance** — Board of Finance March 21, 2023
+  > …undertaking some new initiatives yeah some of it will be Tim some of the infrastructure support for the body cam continues year over year and that's it licensing that's uh supportive of…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ffnKRm3vFeA&t=8951s)  _(term: `body_camera`)_
+
+- **[2023-03-15] Board of Finance** — Board of Finance Meeting of March 15, 2023
+  > …number of initiatives the significant one that folks are probably aware of the police body cam uh infrastructure which uh has had a lot of activity of late…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CH9271cG074&t=478s)  _(term: `body_camera`)_
+
+- **[2023-03-15] Board of Finance** — Board of Finance Meeting of March 15, 2023
+  > …state police to to what we'll be handling uh through the town as far as the body cam uh cameras footage retention uh reaction that kind of activity so a lot of forward-looking…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CH9271cG074&t=510s)  _(term: `body_camera`)_
+
+- **[2023-03-07] Board of Finance** — Board of Finance Meeting March 7, 2023
+  > …the last piece if you want to defer that is the board of selectman talked about the body cam um storage Hardware that stuff and…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gq2Fv7lowIM&t=12159s)  _(term: `body_camera`)_
+
+- **[2023-03-06] Board of Selectmen** — Board of Selectmen Regular Meeting of March 6, 2023 (with correct thumbnail)
+  > …this uh make a motion to recommend to the board of Finance to move forward and continue the police body cam boost body dash cam hardware and software project…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=A1_W2NZUQk0&t=4824s)  _(term: `body_camera`)_
+
+- **[2022-10-18] Board of Finance** — Board of Finance meeting October 18, 2022
+  > …be carried over a second time I don't think it's for the right thing because there's a body cam cam and then there's in vehicle cameras dashboard cam dash cam for different things…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8PiDokNpNPk&t=7892s)  _(term: `body_camera`)_
+
+- **[2022-10-18] Board of Finance** — Board of Finance meeting October 18, 2022
+  > …all the bills so yeah I think the ewc must be a body worn camera I think yeah [Music]…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8PiDokNpNPk&t=8002s)  _(term: `body_camera`)_
+
+
+_9 further mentions in Old Lyme not shown here — all of them are in [Old Lyme's full report](../../towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md)._
+
+
 ### Brookfield — 17 mentions
 
 - **[2026-03-17] Board of Finance** — 2026-03-17 Board of Finance Special Meeting
@@ -460,114 +569,6 @@ _12 further mentions in Milford not shown here — all of them are in [Milford's
 
 
 _5 further mentions in Brookfield not shown here — all of them are in [Brookfield's full report](../../towns/brookfield/surveillance-tech-transcript-and-agenda-report.md)._
-
-
-### Stamford — 17 mentions
-
-- **[2025-09-03] Police Commission** — September 2, 2025
-  > …Uh, so that should be, you know, hammered out in the next couple of weeks and we don't see any foreseeable issues. But what I will say, commissioner, is that, um, look at the, one way to look at it is, is the feed of the drone. Any electronic feed that comes off of that drone or comes in from that drone is going to be very similar to our, um, body worn camera protocols. Right. So it's very strict.…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/15305)  [jump to 41:39 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_0c75087f-3be4-4d2b-ace5-7fbe7ee4fb40.mp4/playlist.m3u8#t=2499)  _(term: `body_camera`)_
-
-- **[2025-01-08] Police Commission** — January 7, 2025
-  > …So that would be sustained. What we do have a few times is that, um, a citizen's complaint will come in and it might be unfounded or not sustained. However, during the course of the investigation, we might find something else out, like body-worn camera they forgot to turn on. So that even though it wasn't part of the citizen's complaint, we sustain that part of it. So that happens.…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/14647)  [jump to 11:51 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_c04b445e-f4ac-46bb-8bb0-da7badc40126.mp4/playlist.m3u8#t=711)  _(term: `body_camera`)_
-
-- **[2022-02-08] Police Commission** — February 7, 2022
-  > …He was later airlifted to Yale to Haven where they were thankfully able to reattach his arm. The latest information is that he's undergoing physical therapy and they expect him to make it full recovery. As you can imagine, the body cam footage of this incident was extremely difficult to watch. The officers jumped into action right away without hesitation. Despite an extremely traumatic situation i…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11305)  [jump to 3:04 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_28662ce4-77a6-4b67-9c08-775d5d14c562.mp4/playlist.m3u8#t=184)  _(term: `body_camera`)_
-
-- **[2021-11-09] Police Commission** — November 8, 2021
-  > …Sergeant Barber Gallo: What we have is that we're also going to be approached the house by himself and the office is going to be made. Sergeant Barber Gallo: And the time of the night also plays a role in this because he was right in the floor and he went in there by himself and he heard the strings of the bear. Sergeant Barber Gallo: Subsequently, you're going to see a video of him from his body-…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/11042)  [jump to 4:05 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_84a8e552-045d-4f0c-a645-75ce11c49713.mp4/playlist.m3u8#t=245)  _(term: `body_camera`)_
-
-- **[2020-08-14] Police Commission** — August 10, 2020 Meeting
-  > …So, it's right around $200,000 for the first 70 cars. Adding additional storage would be about $70,000. Additionally, they're adding a body-worn camera. They haven't stipulated exactly who else has to wear it besides patrol, but they are making some language that may have more people, almost every officer carrying it.…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/9562)  [jump to 5:54 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_8fdb68de-c589-49a0-adce-3cd944cf1693.mp4/playlist.m3u8#t=354)  _(term: `body_camera`)_
-
-- **[2020-08-14] Police Commission** — August 10, 2020 Meeting
-  > …some language that may have more people, almost every officer carrying it. That would probably be another $47,000. The storage for both the body-worn camera and the dash camera would be about $100,000. The question would be, will we hire another technician? Because the amount of video storage we would be having in our request, that would be determined.…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/9562)  [jump to 6:12 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_8fdb68de-c589-49a0-adce-3cd944cf1693.mp4/playlist.m3u8#t=372)  _(term: `body_camera`)_
-
-- **[2020-08-14] Police Commission** — August 10, 2020 Meeting
-  > …We have multiple complaints coming in, uh, internally. I've already started an administrative inquiry. We're combing over, um, hours upon hours of body-worn camera. And, you know, uh, and that's where we are right now. It's premature to, to go much further in that.…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/9562)  [jump to 37:56 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_8fdb68de-c589-49a0-adce-3cd944cf1693.mp4/playlist.m3u8#t=2276)  _(term: `body_camera`)_
-
-- **[2020-08-14] Police Commission** — August 10, 2020 Meeting
-  > …We're still waiting on that ourselves. We were waiting. Currently we have a, a, a freedom of information request looking for the video, but normally when there's an arrest, uh, the, the prosecutor's the one who has to decide whether or not that body worn camera could be released. So, I mean, we're, we still won't even, we haven't even looked at it all ourselves. I mean, I started on Sunday, the Se…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/9562)  [jump to 42:55 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_8fdb68de-c589-49a0-adce-3cd944cf1693.mp4/playlist.m3u8#t=2575)  _(term: `body_camera`)_
-
-- **[2020-08-14] Police Commission** — August 10, 2020 Meeting
-  > …He's got a long way to go. Okay. So in addition to the body cam that you're viewing footage, was, was there also the, uh, city street cameras that has recordings of the incident? We haven't got that far yet, but there'll be some intersections that may have that. There's, you know, we're getting some of the clips that people have posted online.…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/9562)  [jump to 43:22 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_8fdb68de-c589-49a0-adce-3cd944cf1693.mp4/playlist.m3u8#t=2602)  _(term: `body_camera`)_
-
-- **[2020-08-14] Police Commission** — August 10, 2020 Meeting
-  > …We haven't got that far yet, but there'll be some intersections that may have that. There's, you know, we're getting some of the clips that people have posted online. And it's very interesting, quite honestly, to take one of those videos and then look at the officer's body worn camera. Completely different view sometimes. All right.…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/9562)  [jump to 43:43 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_8fdb68de-c589-49a0-adce-3cd944cf1693.mp4/playlist.m3u8#t=2623)  _(term: `body_camera`)_
-
-- **[2020-05-05] Police Commission** — May 4, 2020 Meeting
-  > …Okay. That would be great. Uh, lastly, um, how are we doing with the camera training for Supervisors and bringing them up to date? Are you talking about the body worn camera training? Yes, sir. Uh, it's going well. So what happens is the supervisors are randomly checking some videos.…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/9256)  [jump to 46:09 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_f6f1c00b-ddaa-4e1b-80c9-0811186c5ccf.mp4/playlist.m3u8#t=2769)  _(term: `body_camera`)_
-
-- **[2020-01-10] Camera Review Committee** — Camera Review Committee - part 1
-  > …children, to come closer to the camera. But that's something that they believe that they have worked out. And then just the NFI, the Stamford Police Department, utilizes a body-worn camera program. It provides video footage of the encounters between the police and the residents out here in the city of Stamford. That's an excellent program, a program that was a long time in the coming.…
-  [Watch ▸](https://cityofstamford.granicus.com/player/clip/8940)  [jump to 5:12 ▸](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:archive/cityofstamford/cityofstamford_46ab0093-73c3-4703-8c7c-f48b739c4bbc.mp4/playlist.m3u8#t=312)  _(term: `body_camera`)_
-
-
-_5 further mentions in Stamford not shown here — all of them are in Stamford's full report (not yet published)._
-
-
-### Old Lyme — 16 mentions
-
-- **[2023-09-05] Board of Selectmen** — Board of Selectmen Meeting of September 5, 2023
-  > …so the one thing that I I saw in here it says they trained for the uh the body cam system body cam storage that's a lot of camera stores films…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_C1cpkctAxw&t=4300s)  _(term: `body_camera`)_
-
-- **[2023-09-05] Board of Selectmen** — Board of Selectmen Meeting of September 5, 2023
-  > …says they trained for the uh the body cam system body cam storage that's a lot of camera stores films in here it says the times are respond to…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_C1cpkctAxw&t=4303s)  _(term: `body_camera`)_
-
-- **[2023-09-05] Board of Selectmen** — Board of Selectmen Meeting of September 5, 2023
-  > …police will be solely responsible for fulfilling the foa request for dashboard camera and BWC body worn camera data generated by Town officers and by State Police employees to include…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_C1cpkctAxw&t=4336s)  _(term: `body_camera`)_
-
-- **[2023-03-28] Board of Finance** — Board of Finance March 28, 2023
-  > …allowing the municipality to have access all access to their p25 radio system at no cost just like the body cam yeah I mean I know we have no control over that yeah but they do…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=eftQmlGesFQ&t=5101s)  _(term: `body_camera`)_
-
-- **[2023-03-21] Board of Finance** — Board of Finance March 21, 2023
-  > …budget um our big ticket items um specifically the body cam infrastructure support um which is…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ffnKRm3vFeA&t=8395s)  _(term: `body_camera`)_
-
-- **[2023-03-21] Board of Finance** — Board of Finance March 21, 2023
-  > …undertaking some new initiatives yeah some of it will be Tim some of the infrastructure support for the body cam continues year over year and that's it licensing that's uh supportive of…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ffnKRm3vFeA&t=8951s)  _(term: `body_camera`)_
-
-- **[2023-03-15] Board of Finance** — Board of Finance Meeting of March 15, 2023
-  > …number of initiatives the significant one that folks are probably aware of the police body cam uh infrastructure which uh has had a lot of activity of late…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CH9271cG074&t=478s)  _(term: `body_camera`)_
-
-- **[2023-03-15] Board of Finance** — Board of Finance Meeting of March 15, 2023
-  > …state police to to what we'll be handling uh through the town as far as the body cam uh cameras footage retention uh reaction that kind of activity so a lot of forward-looking…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=CH9271cG074&t=510s)  _(term: `body_camera`)_
-
-- **[2023-03-07] Board of Finance** — Board of Finance Meeting March 7, 2023
-  > …the last piece if you want to defer that is the board of selectman talked about the body cam um storage Hardware that stuff and…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=gq2Fv7lowIM&t=12159s)  _(term: `body_camera`)_
-
-- **[2023-03-06] Board of Selectmen** — Board of Selectmen Regular Meeting of March 6, 2023 (with correct thumbnail)
-  > …this uh make a motion to recommend to the board of Finance to move forward and continue the police body cam boost body dash cam hardware and software project…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=A1_W2NZUQk0&t=4824s)  _(term: `body_camera`)_
-
-- **[2022-10-18] Board of Finance** — Board of Finance meeting October 18, 2022
-  > …be carried over a second time I don't think it's for the right thing because there's a body cam cam and then there's in vehicle cameras dashboard cam dash cam for different things…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8PiDokNpNPk&t=7892s)  _(term: `body_camera`)_
-
-- **[2022-10-18] Board of Finance** — Board of Finance meeting October 18, 2022
-  > …all the bills so yeah I think the ewc must be a body worn camera I think yeah [Music]…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=8PiDokNpNPk&t=8002s)  _(term: `body_camera`)_
-
-
-_4 further mentions in Old Lyme not shown here — all of them are in [Old Lyme's full report](../../towns/old-lyme/surveillance-tech-transcript-and-agenda-report.md)._
 
 
 ### West Hartford — 15 mentions
@@ -624,7 +625,7 @@ _4 further mentions in Old Lyme not shown here — all of them are in [Old Lyme'
 _3 further mentions in West Hartford not shown here — all of them are in [West Hartford's full report](../../towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md)._
 
 
-### Groton — 12 mentions
+### Groton — 13 mentions
 
 - **[2026-08-04] Town Council** — Groton Town Council - 8/4/26
   > …records division, Freedom of Information Act requests, and the successful implementation of the department's body worn camera program. And whereas Mr. Stroll became recognized a recognized…
@@ -675,6 +676,9 @@ _3 further mentions in West Hartford not shown here — all of them are in [West
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DIUI7rk2k_w&t=10280s)  _(term: `body_camera`)_
 
 
+_1 further mention in Groton not shown here — all of them are in [Groton's full report](../../towns/groton/surveillance-tech-transcript-and-agenda-report.md)._
+
+
 ### Hartford — 11 mentions
 
 - **[2023-04-12] Operation, Management, Budget & Government Accountability Committee** — City of Hartford Budget Hearing New April 12th 2023
@@ -722,6 +726,49 @@ _3 further mentions in West Hartford not shown here — all of them are in [West
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=i_UudfwK8cU&t=4717s)  _(term: `body_camera`)_
 
 
+### Bristol — 10 mentions
+
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …into a better situation with Axon, which is a coordinated uh network that the chief can speak to for our body cam, our dashboard cam. Um there are drones involved and there are other pieces that…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2153s)  _(term: `body_camera`)_
+
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …you respond to a medical call or criminal incident within someone's home and body cam is activated and you come in and you see people in the privacy of their homes…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2845s)  _(term: `body_camera`)_
+
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …see people in the privacy of their homes and you're recording, what happens to that? the body cam >> that information is stored on on on the cloud the Saxon network…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2858s)  _(term: `body_camera`)_
+
+- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
+  > …an FOI request absolutely not >> okay has there ever been any significant breaches with leaks of body cam of people in vulnerable moments >> not in personal…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2874s)  _(term: `body_camera`)_
+
+- **[2026-04-28] (unassigned body)** — Board of Finance Other - 2026-04-28
+  > …r using drones manufactured by or connected to a “covered foreign entity.” Axon drones meet this statutory requirement because they are U.S.-made technology. The package also includes Axon Assistant Body-Worn Camera translation capabilities, the Fusus CCTV integration system, 13 Axon License Plate Recognition (LPR) units that integrate within the existing Axon ecosystem, and the Auror Retail Crim…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12299,plainText=false))  _(agenda/minutes · term: `body_camera`)_
+
+- **[2026-04-14] City Council** — Bristol City Council Meeting - 04/14/26
+  > …that you said about we will also have the feature of language translation that will be available through body cam. So we can choose a language and be able to communicate with people more so than we…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4492s)  _(term: `body_camera`)_
+
+- **[2026-03-25] (unassigned body)** — Board of Finance Other - 2026-03-25
+  > …ation of the program value which may result in additional fees or credits due to or from Axon. The parties agree that Axon is applying a Transfer Balance of $318,352.50. 100% discounted Fleet 3, body-worn camera and docking station hardware contained in this quote reflects a TAP replacement for hardware purchased under existing quotes aforementioned above. All TAP obligations from this contr…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12017,plainText=false))  _(agenda/minutes · term: `body_camera`)_
+
+- **[2026-03-04] (unassigned body)** — Board of Finance Other - 2026-03-04
+  > …sault, sexual assault, financial crimes, computer crimes, identity theft and arson. Train internal Crisis Intervention Team to properly respond to mental health crises. Continue body worn camera and electronic control device program. Obtain new grant funding to assist in furthering the Police Department’s mission. Increase the agency's Social Media engagement. Re-…
+  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11790,plainText=false))  _(agenda/minutes · term: `body_camera`)_
+
+- **[2022-03-08] City Council** — Bristol City Council Meeting - 03/08/22
+  > …well another part of the law that came out when we rolled out the uh body cam camera system it was for our front line officers the officers that are on the…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Zd8RbinJ6FQ&t=4406s)  _(term: `body_camera`)_
+
+- **[2021-09-14] City Council** — Bristol City Council Meeting - 9/14/21
+  > …vehicle dashboard cameras for all our police vehicles expanding upon our body-worn camera system and all other types of equipment so that we can meet our our goals…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=arzXaSd6caE&t=3197s)  _(term: `body_camera`)_
+
+
 ### Plainfield — 10 mentions
 
 - **[2026-03-26] Board of Finance** — Plainfield Board of Finance Meeting – March 25 Live Stream
@@ -763,6 +810,45 @@ _3 further mentions in West Hartford not shown here — all of them are in [West
 - **[2022-03-30] Board of Finance** — March 30, 2022 Board of Finance Meeting
   > …motion dsp basically what that is used for that's used to ex when somebody requests a body cam footage there's a lot some things i have to…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=b95AWL0liyI&t=1673s)  _(term: `body_camera`)_
+
+
+### Berlin — 9 mentions
+
+- **[2026-09-16] Police Commission** — Police Commission 2026 09 16
+  > …sure we see this to certain extent agencies are seeing such a increase in FOI requests for body cam and what's happening is you know sometimes there's a six eightmonth uh backlog and then…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rZogwQKZJ7o&t=3286s)  _(term: `body_camera`)_
+
+- **[2026-05-26] Police Commission** — Police Commission Special 2026 05 26
+  > …on April 23rd. Bullet point CGS 29-6D. Body worn camera activation requirements during public enforcement contracts. In parentheses, Gould did not activate his…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jW9OvFD2HmA&t=487s)  _(term: `body_camera`)_
+
+- **[2026-04-15] Police Commission** — Police Commission 2026-04-15
+  > …first four hours are free. First four hours of work. So, they ask for a five hour body cam video For first four hours is on us and then…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=sid2yPsEPFI&t=2637s)  _(term: `body_camera`)_
+
+- **[2025-03-06] Board of Finance** — 3 6 2025 Board of Finance Budget Meeting #2
+  > …that's downstairs that you don't have where they're asking for going back six years on all body cam footage but they don't tell you they don't have to tell you why so they're just saying we want…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=825s)  _(term: `body_camera`)_
+
+- **[2025-03-06] Board of Finance** — 3 6 2025 Board of Finance Budget Meeting #2
+  > …don't tell you they don't have to tell you why so they're just saying we want to know about all the body cam footage all the department camera footage your cell block footage luckily we don't keep…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=831s)  _(term: `body_camera`)_
+
+- **[2025-02-06] Board of Finance** — Joint Board of Finance Town Council Budget Meeting 2-6-2025
+  > …well they get a lot of foyer requests and a lot of those stem around pieces of the body cam footage so they want to bring somebody in maybe a retired police officer somebody can understand how to…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yH9OMUbXOrQ&t=3105s)  _(term: `body_camera`)_
+
+- **[2024-12-18] Police Commission** — Police Commission 2024 12 18
+  > …aftermath haven't even got to that one yet yeah all right we're already getting requests for all the body cam footage from frh that's a legislature issue that maybe we could bring up the Don when…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Yd2CnxNR4ac&t=2454s)  _(term: `body_camera`)_
+
+- **[2024-02-21] Police Commission** — Police Commission 2024-02-21
+  > …there is they're trying to determine exactly what has to be redacted in that uh body cam footage that's a problem uh who they state is making a determination what no the lawyers that…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3784s)  _(term: `body_camera`)_
+
+- **[2024-01-17] Police Commission** — Police Commission 2024-01-17
+  > …budget request for this year we requested a part-time person to do our body cam redactions for all the fois and I know that's going to end up getting cut because the bus are too high and how…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zgHh4qJe7H4&t=1602s)  _(term: `body_camera`)_
 
 
 ### North Haven — 9 mentions
@@ -909,6 +995,41 @@ _3 further mentions in West Hartford not shown here — all of them are in [West
   [Watch ▸](https://middletown.granicus.com/player/clip/1295)  [jump to 1:49:16 ▸](https://archive-video.granicus.com/middletown/middletown_4362f050-139e-4240-a0e5-010e8440beef.mp4#t=6556)  _(term: `body_camera`)_
 
 
+### North Branford — 8 mentions
+
+- **[2026-04-14] Town Council** — NB Town Council Budget Workshop 4/14/26
+  > …on the police budget was the um Axon contract which is for taser um and body cam contract. Um and there's a $75,000 that contract was already voted on by…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NHsH_AU6nuI&t=2840s)  _(term: `body_camera`)_
+
+- **[2026-04-14] Town Council** — Town Council - Budget Workshop 04/14/2026
+  > …on the police budget was the um Axon contract which is for taser um and body cam contract. Um and there's a $75,000 that contract was already voted on by…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4_sFIUZVAFE&t=2840s)  _(term: `body_camera`)_
+
+- **[2026-03-03] Town Council** — NB Town Council Budget Workshop 3/3/26
+  > …who wasn't at he wasn't at the on the council after that meeting, but that was for the extra money for the axon body cam uh project. So, um, we believe we have funding sources for that that won't…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5WX61YkMpLw&t=2241s)  _(term: `body_camera`)_
+
+- **[2026-02-17] Town Council** — WPCA & Town Council Meeting 2/17/26
+  > …Um, it's broken down. Most of these things that we have or we already have in our body cam program. It's just continuing that such as autotagging. anytime an officer goes there um to a…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RBFw5P2XtpI&t=7881s)  _(term: `body_camera`)_
+
+- **[2026-02-17] Town Council** — WPCA & Town Council Meeting 02/17/2026
+  > …Um, it's broken down. Most of these things that we have or we already have in our body cam program. It's just continuing that such as autotagging. anytime an officer goes there um to a…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjtapcIB8c4&t=7881s)  _(term: `body_camera`)_
+
+- **[2026-02-17] Town Council** — WPCA & Town Council Meeting 2/17/26
+  > …not just buying the equipment. It's also all of the all of >> Yeah. All these things are insured. Body cam goes down, we send it out, we got another one coming coming back to us…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RBFw5P2XtpI&t=8282s)  _(term: `body_camera`)_
+
+- **[2018-01-16] Town Council** — North Branford Town Council Meeting - 01/16/2018
+  > …a standard in police work every agency around us has some type of camera system the only one that's not using a body cam right now is Guilford but they have in-car with a mic setup we're actually…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nKLKzhAXB28&t=1148s)  _(term: `body_camera`)_
+
+- **[2018-01-16] Town Council** — North Branford Town Council Meeting - 01/16/2018
+  > …that individual if it wasn't this is strictly from the chief's mouth if it wasn't for their body cam footage with the witness statements they had on scene they would have four officers federally…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=nKLKzhAXB28&t=1284s)  _(term: `body_camera`)_
+
+
 ### Simsbury — 8 mentions
 
 - **[2024-06-10] Board of Selectmen** — Board of Selectmen Meeting - June 10, 2024
@@ -973,68 +1094,6 @@ _3 further mentions in West Hartford not shown here — all of them are in [West
 - **[2020-09-14] Board of Aldermen** — Ansonia Connecticut Board of Aldermen
   > …i guess finances pricing moving forward we are waiting for some stuff from our our body cam uh company they've had some questions for us we've answered those so i don't have anything uh specific right…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4wXVi0jTXJU&t=1426s)  _(term: `body_camera`)_
-
-
-### Berlin — 7 mentions
-
-- **[2026-04-15] Police Commission** — Police Commission 2026-04-15
-  > …first four hours are free. First four hours of work. So, they ask for a five hour body cam video For first four hours is on us and then…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=sid2yPsEPFI&t=2637s)  _(term: `body_camera`)_
-
-- **[2025-03-06] Board of Finance** — 3 6 2025 Board of Finance Budget Meeting #2
-  > …that's downstairs that you don't have where they're asking for going back six years on all body cam footage but they don't tell you they don't have to tell you why so they're just saying we want…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=825s)  _(term: `body_camera`)_
-
-- **[2025-03-06] Board of Finance** — 3 6 2025 Board of Finance Budget Meeting #2
-  > …don't tell you they don't have to tell you why so they're just saying we want to know about all the body cam footage all the department camera footage your cell block footage luckily we don't keep…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r_RINu0FhCI&t=831s)  _(term: `body_camera`)_
-
-- **[2025-02-06] Board of Finance** — Joint Board of Finance Town Council Budget Meeting 2-6-2025
-  > …well they get a lot of foyer requests and a lot of those stem around pieces of the body cam footage so they want to bring somebody in maybe a retired police officer somebody can understand how to…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=yH9OMUbXOrQ&t=3105s)  _(term: `body_camera`)_
-
-- **[2024-12-18] Police Commission** — Police Commission 2024 12 18
-  > …aftermath haven't even got to that one yet yeah all right we're already getting requests for all the body cam footage from frh that's a legislature issue that maybe we could bring up the Don when…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Yd2CnxNR4ac&t=2454s)  _(term: `body_camera`)_
-
-- **[2024-02-21] Police Commission** — Police Commission 2024-02-21
-  > …there is they're trying to determine exactly what has to be redacted in that uh body cam footage that's a problem uh who they state is making a determination what no the lawyers that…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZopJQ-kztxY&t=3784s)  _(term: `body_camera`)_
-
-- **[2024-01-17] Police Commission** — Police Commission 2024-01-17
-  > …budget request for this year we requested a part-time person to do our body cam redactions for all the fois and I know that's going to end up getting cut because the bus are too high and how…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=zgHh4qJe7H4&t=1602s)  _(term: `body_camera`)_
-
-
-### Bristol — 7 mentions
-
-- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
-  > …into a better situation with Axon, which is a coordinated uh network that the chief can speak to for our body cam, our dashboard cam. Um there are drones involved and there are other pieces that…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2153s)  _(term: `body_camera`)_
-
-- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
-  > …you respond to a medical call or criminal incident within someone's home and body cam is activated and you come in and you see people in the privacy of their homes…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2845s)  _(term: `body_camera`)_
-
-- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
-  > …see people in the privacy of their homes and you're recording, what happens to that? the body cam >> that information is stored on on on the cloud the Saxon network…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2858s)  _(term: `body_camera`)_
-
-- **[2026-08-12] City Council** — Bristol City Council Meeting - 08/12/26
-  > …an FOI request absolutely not >> okay has there ever been any significant breaches with leaks of body cam of people in vulnerable moments >> not in personal…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DN3x8idO3qc&t=2874s)  _(term: `body_camera`)_
-
-- **[2026-04-14] City Council** — Bristol City Council Meeting - 04/14/26
-  > …that you said about we will also have the feature of language translation that will be available through body cam. So we can choose a language and be able to communicate with people more so than we…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=1yT5Snq5H0w&t=4492s)  _(term: `body_camera`)_
-
-- **[2022-03-08] City Council** — Bristol City Council Meeting - 03/08/22
-  > …well another part of the law that came out when we rolled out the uh body cam camera system it was for our front line officers the officers that are on the…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Zd8RbinJ6FQ&t=4406s)  _(term: `body_camera`)_
-
-- **[2021-09-14] City Council** — Bristol City Council Meeting - 9/14/21
-  > …vehicle dashboard cameras for all our police vehicles expanding upon our body-worn camera system and all other types of equipment so that we can meet our our goals…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=arzXaSd6caE&t=3197s)  _(term: `body_camera`)_
 
 
 ### Seymour — 7 mentions
@@ -1120,33 +1179,6 @@ _3 further mentions in West Hartford not shown here — all of them are in [West
 - **[2024-04-06] Town Council** — Town Council  Special Meeting - Budget Presentation - April 6, 2024 - Part 2 of 2
   > …should be part of the services provided Unfortunately they you know have still maintained that the dash and body cam security uh storage and maintenance of that storage is born that cost is born…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=XFYp7LDzXHw&t=1248s)  _(term: `body_camera`)_
-
-
-### North Branford — 6 mentions
-
-- **[2026-04-14] Town Council** — NB Town Council Budget Workshop 4/14/26
-  > …on the police budget was the um Axon contract which is for taser um and body cam contract. Um and there's a $75,000 that contract was already voted on by…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NHsH_AU6nuI&t=2840s)  _(term: `body_camera`)_
-
-- **[2026-04-14] Town Council** — Town Council - Budget Workshop 04/14/2026
-  > …on the police budget was the um Axon contract which is for taser um and body cam contract. Um and there's a $75,000 that contract was already voted on by…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=4_sFIUZVAFE&t=2840s)  _(term: `body_camera`)_
-
-- **[2026-03-03] Town Council** — NB Town Council Budget Workshop 3/3/26
-  > …who wasn't at he wasn't at the on the council after that meeting, but that was for the extra money for the axon body cam uh project. So, um, we believe we have funding sources for that that won't…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5WX61YkMpLw&t=2241s)  _(term: `body_camera`)_
-
-- **[2026-02-17] Town Council** — WPCA & Town Council Meeting 2/17/26
-  > …Um, it's broken down. Most of these things that we have or we already have in our body cam program. It's just continuing that such as autotagging. anytime an officer goes there um to a…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RBFw5P2XtpI&t=7881s)  _(term: `body_camera`)_
-
-- **[2026-02-17] Town Council** — WPCA & Town Council Meeting 02/17/2026
-  > …Um, it's broken down. Most of these things that we have or we already have in our body cam program. It's just continuing that such as autotagging. anytime an officer goes there um to a…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=UjtapcIB8c4&t=7881s)  _(term: `body_camera`)_
-
-- **[2026-02-17] Town Council** — WPCA & Town Council Meeting 2/17/26
-  > …not just buying the equipment. It's also all of the all of >> Yeah. All these things are insured. Body cam goes down, we send it out, we got another one coming coming back to us…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RBFw5P2XtpI&t=8282s)  _(term: `body_camera`)_
 
 
 ### Wallingford — 6 mentions
@@ -1366,6 +1398,21 @@ _3 further mentions in West Hartford not shown here — all of them are in [West
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=7NIeUA7hZDA&t=1152s)  _(term: `body_camera`)_
 
 
+### Somers — 3 mentions
+
+- **[2022-07-26] Board of Finance** — Board of Finance - Regular Meeting - 7/26/2022
+  > …again nothing will be done until till work begins there the police body cam as of today should be 100 operational from my…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=t0R_tPx3WiQ&t=3590s)  _(term: `body_camera`)_
+
+- **[2022-05-24] Board of Finance** — Board of Finance Regular Meeting - 5/24/2022
+  > …what i said was they were making a contribution towards the body cam okay so that's well that reduces that's what the paper says architecture…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=OXQ-J5boRDU&t=2085s)  _(term: `body_camera`)_
+
+- **[2022-03-31] Board of Finance** — Board of Finance Special Meeting - 3/31/2022
+  > …a modem and a docking station inside the police station when the cars pulled in it downloaded when the body cam sat down it downloaded and that was ours that's the way to do it here's a retirement…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=7rulneEfOto&t=2505s)  _(term: `body_camera`)_
+
+
 ### Waterbury — 3 mentions
 
 - **[2025-04-22] Board of Aldermen** — Waterbury Board of Aldermen Second Meeting with Department Heads - April 22, 2025
@@ -1381,6 +1428,21 @@ _3 further mentions in West Hartford not shown here — all of them are in [West
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=HR3pHrqPSCA&t=2257s)  _(term: `body_camera`)_
 
 
+### Wethersfield — 3 mentions
+
+- **[2022-04-21] Town Council** — Town Council Special Meeting - April 21, 2022
+  > …they want anything and anything associated with any significant incident to include body worn camera video now which is a new thing…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_HeKfo6RfEQ&t=5734s)  _(term: `body_camera`)_
+
+- **[2020-06-15] Town Council** — June 15, 2020 Town Council
+  > …training in the areas of racial profiling de-escalation body cam usage use of force continuum and comprehensive reporting…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6i1AFQMkY0w&t=1278s)  _(term: `body_camera`)_
+
+- **[2020-06-15] Town Council** — June 15, 2020 Town Council
+  > …making the union contracts and use of force policies public creating and making public a robust body cam policy for our cameras that the police…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6i1AFQMkY0w&t=7990s)  _(term: `body_camera`)_
+
+
 ### Cheshire — 2 mentions
 
 - **[2022-03-29] Town Council** — Town Council Budget Workshop 3/29/22
@@ -1390,6 +1452,17 @@ _3 further mentions in West Hartford not shown here — all of them are in [West
 - **[2022-03-29] Town Council** — Town Council Budget Workshop 3/29/22
   > …makes sense to have all of the um functions um compatible the the car camera and the body cam and i like the idea that there is a license plate um reader in every corner i think that's…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4DqEaz1kP-I&t=5737s)  _(term: `body_camera`)_
+
+
+### East Haddam — 2 mentions
+
+- **[2024-02-21] Board of Selectmen** — Board of Selectmen Budget Workshop - Part 2 2.21.2024
+  > …it we'll make a note to I'll bring my body camera or your body cam should get accosted my badge oh don't forget the…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=f9DRpn3g2nA&t=6553s)  _(term: `body_camera`)_
+
+- **[2020-07-15] Board of Selectmen** — Board of Selectmen - 07.15.2020
+  > …uh the proposals being put forth let through the legislature wouldn't require every police officer to have a body cam so so i think the important part of this is that there is no other from what i've…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=5J2HbTmHi6o&t=3846s)  _(term: `body_camera`)_
 
 
 ### Naugatuck — 2 mentions
@@ -1450,13 +1523,6 @@ _3 further mentions in West Hartford not shown here — all of them are in [West
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=3Mkexy151jQ&t=4875s)  _(term: `body_camera`)_
 
 
-### East Haddam — 1 mention
-
-- **[2024-02-21] Board of Selectmen** — Board of Selectmen Budget Workshop - Part 2 2.21.2024
-  > …it we'll make a note to I'll bring my body camera or your body cam should get accosted my badge oh don't forget the…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=f9DRpn3g2nA&t=6553s)  _(term: `body_camera`)_
-
-
 ### Monroe — 1 mention
 
 - **[2020-06-08] Town Council** — Town of Monroe Ct Town Council Meeting June 8th 2020
@@ -1497,11 +1563,4 @@ _3 further mentions in West Hartford not shown here — all of them are in [West
 - **[2025-01-14] Finance Committee** — Finance Committee   January 14, 2025
   > …and moving forward um I did have just a a quick follow-up question on the the issue with the the body cam footage storage uh so I was curious you mentioned that at first they were it was…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=C9lCxwv6_aQ&t=5481s)  _(term: `body_camera`)_
-
-
-### Wethersfield — 1 mention
-
-- **[2022-04-21] Town Council** — Town Council Special Meeting - April 21, 2022
-  > …they want anything and anything associated with any significant incident to include body worn camera video now which is a new thing…
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=_HeKfo6RfEQ&t=5734s)  _(term: `body_camera`)_
 

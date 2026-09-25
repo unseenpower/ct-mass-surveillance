@@ -1,6 +1,6 @@
 # Surveillance topics: all towns, by technology
 
-_Generated 2026-09-10T18:10:03._
+_Generated 2026-09-25T17:14:12._
 
 
 Each file gathers every Connecticut town's mentions of one technology into a single document, with a timestamped link to the exact second of the meeting video for each. The [cross-town matrix](../../cross-town-matrix.md) is the count-only overview of the same data; the per-town reports under [`docs/towns/`](../../towns/) are the complete record for any one town.
@@ -18,20 +18,21 @@ _These files are generated automatically. No human review has been applied to an
 
 | Topic | Mentions | Towns |
 | --- | --- | --- |
-| [Drones](drone.md) | 2,571 | 87 |
-| [ALPR / Flock](alpr.md) | 2,047 | 79 |
-| [Body cameras](body_camera.md) | 449 | 52 |
-| [General surveillance](surveillance_general.md) | 389 | 49 |
-| [Facial recognition](facial_recognition.md) | 162 | 30 |
-| [Predictive policing](predictive_policing.md) | 114 | 34 |
-| [Gunshot detection](gunshot_detection.md) | 77 | 4 |
-| [Real-time crime centres](rtcc.md) | 58 | 7 |
-| [Purchasing / procurement](purchasing_broker.md) | 30 | 7 |
+| [Drones](drone.md) | 2,886 | 89 |
+| [ALPR / Flock](alpr.md) | 2,579 | 81 |
+| [Body cameras](body_camera.md) | 507 | 53 |
+| [General surveillance](surveillance_general.md) | 465 | 54 |
+| [Facial recognition](facial_recognition.md) | 187 | 35 |
+| [Predictive policing](predictive_policing.md) | 145 | 42 |
+| [Gunshot detection](gunshot_detection.md) | 78 | 5 |
+| [Real-time crime centres](rtcc.md) | 71 | 9 |
+| [Purchasing / procurement](purchasing_broker.md) | 37 | 10 |
 | [Doorbell-camera partnerships](doorbell_partnership.md) | 28 | 15 |
-| [Other biometrics](biometrics_other.md) | 9 | 6 |
+| [Other biometrics](biometrics_other.md) | 10 | 7 |
+| [Cell-site simulators](cell_site_sim.md) | 8 | 6 |
 | [Data brokers](data_broker.md) | 8 | 1 |
-| [Cell-site simulators](cell_site_sim.md) | 7 | 5 |
+| [Mobile forensics](mobile_forensics.md) | 3 | 2 |
 | [Computer-aided dispatch](cad.md) | 2 | 1 |
-| [Mobile forensics](mobile_forensics.md) | 2 | 1 |
 | [OSINT / social-media monitoring](osint_social_monitor.md) | 2 | 2 |
 | [AI data fusion](ai_data_fusion.md) | 1 | 1 |
+| [Undercover tools](undercover_tools.md) | 1 | 1 |

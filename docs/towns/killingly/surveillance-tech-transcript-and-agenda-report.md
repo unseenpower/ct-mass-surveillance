@@ -1,9 +1,9 @@
 # Surveillance-tech report: Killingly
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,7 +20,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">33</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 13 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2024–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-02-06 → 2026-09-08</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Facial recognition, Predictive policing</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">64%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">195 of 304 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">64%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">198 of 307 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2023-01-11**, but Killingly's published video archive goes back to **2021-03-08**. Meetings before 2023 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -64,7 +64,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 13 meetings surfaced a finding (13 dated, spanning 2024-02-06 to 2026-09-08; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-25** (through 2026-09-10, when this report was generated):
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
 
 ### 2026-09-08 -- Town Council
 
@@ -503,8 +503,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 7
-- Videos registered: 304 (fetched: 195, no captions: 2)
-- Date range covered: 2021-03-08 to 2026-09-08 (all 304 videos dated)
+- Videos registered: 307 (fetched: 198, no captions: 2)
+- Date range covered: 2021-03-08 to 2026-09-21 (all 307 videos dated)
 
 
 ### Channels
@@ -518,8 +518,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| killingly_ct | streams | 2026-09-10 11:40:41.038456 | 63 |
-| killingly_ct | videos | 2026-09-10 11:40:39.566021 | 245 |
+| killingly_ct | streams | 2026-09-25 15:25:15.155687 | 67 |
+| killingly_ct | videos | 2026-09-25 15:25:13.510832 | 245 |
 
 
 ## Registered meeting bodies
@@ -527,8 +527,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Town Meeting / Budget Hearing | budget_finance | True | 14 |
-| Inland Wetlands & Watercourses Commission | other | True | 31 |
-| Planning & Zoning Commission | other | True | 54 |
+| Inland Wetlands & Watercourses Commission | other | True | 33 |
+| Planning & Zoning Commission | other | True | 55 |
 | Town Council | other | True | 177 |
 | Vision Committee | other | True | 15 |
 | Zoning Board of Appeals | other | True | 13 |
@@ -611,5 +611,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:55:19 from Killingly's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:59:13 from Killingly's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

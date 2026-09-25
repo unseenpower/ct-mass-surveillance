@@ -1,9 +1,9 @@
 # Surveillance-tech report: Ellington
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,7 +20,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">2</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 1 meeting · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2026-03-25 → 2026-03-25</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">36%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">33 of 92 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">37%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">34 of 93 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2022-10-27**, but Ellington's published video archive goes back to **2020-04-22**. Meetings before 2022 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -60,7 +60,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 1 meetings surfaced a finding (1 dated, spanning 2026-03-25 to 2026-03-25; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-03-25.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-03-25.*
 
 ??? note "Earlier meetings (1)"
 
@@ -292,8 +292,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 3
-- Videos registered: 92 (fetched: 33, no captions: 2)
-- Date range covered: 2020-04-22 to 2026-08-26 (all 92 videos dated)
+- Videos registered: 93 (fetched: 34, no captions: 2)
+- Date range covered: 2020-04-22 to 2026-09-23 (all 93 videos dated)
 
 
 ### Channels
@@ -307,8 +307,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| ellington_boe_ct | streams | 2026-09-10 13:35:22.583296 | 117 |
-| ellington_boe_ct | videos | 2026-09-10 13:35:20.617573 | 346 |
+| ellington_boe_ct | streams | 2026-09-25 16:02:22.186815 | 118 |
+| ellington_boe_ct | videos | 2026-09-25 16:02:19.936611 | 347 |
 
 
 ## Registered meeting bodies
@@ -316,7 +316,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 0 |
-| Board of Education | education | True | 92 |
+| Board of Education | education | True | 93 |
 | Board of Selectmen | other | True | 0 |
 
 
@@ -398,5 +398,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:52:43 from Ellington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:56:07 from Ellington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

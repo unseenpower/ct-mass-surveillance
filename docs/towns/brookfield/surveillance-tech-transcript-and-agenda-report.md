@@ -1,9 +1,9 @@
 # Surveillance-tech report: Brookfield
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,14 +14,14 @@
 
 ## At a glance: Brookfield
 
-<p class="glance-headline"><strong>77 mentions</strong> of surveillance technology in <strong>32</strong> Brookfield meetings, 2020–2026</p>
+<p class="glance-headline"><strong>84 mentions</strong> of surveillance technology in <strong>33</strong> Brookfield meetings, 2020–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">77</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 32 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2020–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2020-10-08 → 2026-09-09</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">84</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 33 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2020–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2020-10-08 → 2026-09-10</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">6</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Doorbell-camera partnerships, Drones, Predictive policing, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/brookfield-alpr-searches.html"><span class="gc-big">824</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Brookfield police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">94%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">499 of 532 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">94%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">504 of 536 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2020-05-07**, but Brookfield's published video archive goes back to **2018-05-15**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -73,10 +73,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| [ALPR / Flock](#alpr) | 11 | 5 | 2023-03-06 | 2026-09-09 |
+| [ALPR / Flock](#alpr) | 14 | 5 | 2023-03-06 | 2026-09-09 |
 | [Body cameras](#body_camera) | 17 | 6 | 2022-04-13 | 2026-03-17 |
 | [Doorbell-camera partnerships](#doorbell_partnership) | 3 | 3 | 2020-10-08 | 2023-10-12 |
-| [Drones](#drone) | 43 | 18 | 2022-02-07 | 2026-06-25 |
+| [Drones](#drone) | 47 | 19 | 2022-02-07 | 2026-09-10 |
 | [Predictive policing](#predictive_policing) | 1 | 1 | 2023-06-26 | 2023-06-26 |
 | [General surveillance](#surveillance_general) | 2 | 1 | 2025-08-04 | 2025-08-04 |
 
@@ -85,17 +85,29 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 <!-- report-polish v1 -->
 
-32 meetings surfaced a finding (32 dated, spanning 2020-10-08 to 2026-09-09; 0 of unknown date, listed last). Newest first.
+33 meetings surfaced a finding (33 dated, spanning 2020-10-08 to 2026-09-10; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-25** (through 2026-09-10, when this report was generated):
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+
+### 2026-09-10 -- Planning and Zoning Commission
+
+**2026-09-10 Planning and Zoning Commission Meeting** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=L2JF2_8y1FI&t=2880s)  > ...electricity, water, sound, you know, >> sound is a big one. >> Yeah. Because a drone, you know, now, you know, that that can go pretty far just the drone of some of those things....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=L2JF2_8y1FI&t=2885s)  > ...>> Yeah. Because a drone, you know, now, you know, that that can go pretty far just the drone of some of those things. Um, and I don't, you know, and other uses could have noxious chemicals and...
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=L2JF2_8y1FI&t=2890s)  > ...from stick was like crazy. >> Yeah. >> And so that was just going to be used for storage. >> Storage. Yeah. Oh, absolutely. Yeah....
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=L2JF2_8y1FI&t=2893s)  > ...>> Yeah. >> And so that was just going to be used for storage. >> Storage. Yeah. Oh, absolutely. Yeah. >> I And uh...
 
 ### 2026-09-09 -- Board of Finance
 
 **2026-09-09 Board of Finance Meeting** _(topics: alpr)_
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=2675s)  > ...an individual so that's not a countdown that's a hope in a way I would you left money money in the in the police budget for flock cameras Um I'm I'm not that's not the what they were using for the other cameras cameras for like...
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=2686s)  > ...cameras Um I'm I'm not that's not the what they were using for the other cameras cameras for like the town hall not flock we used that for this was this was the park cameras I thought no the park cameras were in a capital...
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=2695s)  > ...park cameras I thought no the park cameras were in a capital project that the flock you were worried about and you said that fair answer contingent on um oh more info more them having policies and procedures I...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=2675s)  > ...>> Dian's getting it all. >> I haven't taken us there yet, please. >> So you can say it. >> Dian's getting it. So you can say it. >> Okay....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=2686s)  > ...>> Dian's getting it. So you can say it. >> Okay. Thank you. >> Of course. >> D...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=2695s)  > ...>> Of course. >> D and Kim Bossy. Awesome. Okay. All right....
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=7103s)  > ...that's a hope >> in a way. I would. You left money in the in the police budget for flock cameras. Um I'm not 15,000. >> That's not the I thought we were using...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=7112s)  > ...>> That's not the I thought we were using them for the other cameras for like the town hall, not flock. We used that for this. This was the park cameras. I thought...
+- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=7121s)  > ...>> no the park cameras were in a capital project >> that the flock you were worried about and you said that >> fair answer...
 
 ??? note "Earlier meetings (31)"
 
@@ -339,20 +351,40 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 ### alpr
 
 - **[2026-09-09] Board of Finance** -- 2026-09-09 Board of Finance Meeting
-  > ...park cameras I thought no the park cameras were in a capital project that the flock you were worried about and you said that fair answer contingent on um oh more info more them having policies and procedures I...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=2695s)  _(term: alpr_flock, unreviewed)_
+  > ...>> That's not the I thought we were using them for the other cameras for like the town hall, not flock. We used that for this. This was the park cameras. I thought...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=7112s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-09] Board of Finance** -- 2026-09-09 Board of Finance Meeting
-  > ...cameras Um I'm I'm not that's not the what they were using for the other cameras cameras for like the town hall not flock we used that for this was this was the park cameras I thought no the park cameras were in a capital...
+  > ...>> no the park cameras were in a capital project >> that the flock you were worried about and you said that >> fair answer...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=7121s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-09] Board of Finance** -- 2026-09-09 Board of Finance Meeting
+  > ...>> Dian's getting it all. >> I haven't taken us there yet, please. >> So you can say it. >> Dian's getting it. So you can say it. >> Okay....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=2675s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-09] Board of Finance** -- 2026-09-09 Board of Finance Meeting
+  > ...>> Dian's getting it. So you can say it. >> Okay. Thank you. >> Of course. >> D...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=2686s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-09-09] Board of Finance** -- 2026-09-09 Board of Finance Meeting
-  > ...an individual so that's not a countdown that's a hope in a way I would you left money money in the in the police budget for flock cameras Um I'm I'm not that's not the what they were using for the other cameras cameras for like...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=2675s)  _(term: alpr_flock, unreviewed)_
+  > ...>> Of course. >> D and Kim Bossy. Awesome. Okay. All right....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=2695s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-09-09] Board of Finance** -- 2026-09-09 Board of Finance Meeting
+  > ...that's a hope >> in a way. I would. You left money in the in the police budget for flock cameras. Um I'm not 15,000. >> That's not the I thought we were using...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=qWm18gWy2ZQ&t=7103s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-05-14] Planning and Zoning Commission** -- 2026-05-14 Planning and Zoning Commission Meeting
   > ...pay for their car wash or they may be part of the monthly car wash plan. So license plate reader lets them go through the car wash. They then come into the south end of the tunnel. They...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=0UhZyrBqrvQ&t=4531s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-18] Board of Finance** -- 2026-03-18 Board of Finance Special Meeting
+  > ...enforcement unit must implement a policy that meets or exceeds the requirements set forth in the ALPR model policy. And for just quick for anyone who's listening, ALPR going forward is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=X7fcl0AseAk&t=3471s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-03-18] Board of Finance** -- 2026-03-18 Board of Finance Special Meeting
+  > ...>> Still fluid. Here's there is no way right now this data is the town's data. It is kept on flock servers. It is they somebody a rogue actor somewhere sends us a request that has the four pieces of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=X7fcl0AseAk&t=3784s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-03-18] Board of Finance** -- 2026-03-18 Board of Finance Special Meeting
   > ...set forth in the ALPR model policy. And for just quick for anyone who's listening, ALPR going forward is automatic license plate reader. So I'm just gonna So you go through the whole...
@@ -365,14 +397,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2026-03-18] Board of Finance** -- 2026-03-18 Board of Finance Special Meeting
   > ...requirements and saying hey these are the things we're going to request to get our data that not flock manages but Brookfield police manages. So, if we're able to do our own mutual operating...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=X7fcl0AseAk&t=3637s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-18] Board of Finance** -- 2026-03-18 Board of Finance Special Meeting
-  > ...>> Still fluid. Here's there is no way right now this data is the town's data. It is kept on flock servers. It is they somebody a rogue actor somewhere sends us a request that has the four pieces of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=X7fcl0AseAk&t=3784s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-03-18] Board of Finance** -- 2026-03-18 Board of Finance Special Meeting
-  > ...enforcement unit must implement a policy that meets or exceeds the requirements set forth in the ALPR model policy. And for just quick for anyone who's listening, ALPR going forward is...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=X7fcl0AseAk&t=3471s)  _(term: alpr_flock, unreviewed)_
 
 - **[2023-04-03] Zoning Board of Appeals** -- 2023-04-03 Zoning Board of Appeals
   > ...uh former owner and director of the Ada um she writes in support of Samantha flock flock look sorry and the Academy of Arts and the collaboration with St Joseph's Church...
@@ -395,10 +419,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=NiwFqoeZDZw&t=7383s)  _(term: body_camera, unreviewed)_
 
 - **[2026-03-17] Board of Finance** -- 2026-03-17 Board of Finance Special Meeting
-  > ...>> Okay. Good. >> Because we agree on cyber security, the body cam, >> the body cam and the we all agreed on proactive. They're all proactive...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NiwFqoeZDZw&t=5318s)  _(term: body_camera, unreviewed)_
-
-- **[2026-03-17] Board of Finance** -- 2026-03-17 Board of Finance Special Meeting
   > ...>> Because we agree on cyber security, the body cam, >> the body cam and the we all agreed on proactive. They're all proactive preventative....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=NiwFqoeZDZw&t=5318s)  _(term: body_camera, unreviewed)_
 
@@ -414,29 +434,33 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   > ...>> What's 18,000? >> The body cam. The body cam. Yeah, >> that's the oneear price for the body cam is 6,700. >> The body cam was already in though...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=NiwFqoeZDZw&t=7375s)  _(term: body_camera, unreviewed)_
 
+- **[2026-03-17] Board of Finance** -- 2026-03-17 Board of Finance Special Meeting
+  > ...>> Okay. Good. >> Because we agree on cyber security, the body cam, >> the body cam and the we all agreed on proactive. They're all proactive...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=NiwFqoeZDZw&t=5318s)  _(term: body_camera, unreviewed)_
+
 - **[2026-03-10] Board of Finance** -- 2026-03-10 Board of Finance Special Meeting
   > ...>> The the person we have working part-time is is really really good. >> The spire marshal with the body cam. >> Yeah, they would help that. Is that also going to need it support that?...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=MLNWJpQpK_Q&t=702s)  _(term: body_camera, unreviewed)_
-
-- **[2026-03-09] Board of Finance** -- 2026-03-09 Board of Finance Special Meeting
-  > ...>> while we're deliberating, can he just call like New Milford who I know the fire marshall has the body cam and get a copy? He has >> done that and there new me's comfortable...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=5827s)  _(term: body_camera, unreviewed)_
-
-- **[2026-03-09] Board of Finance** -- 2026-03-09 Board of Finance Special Meeting
-  > ...guys in there because you got to block out kids faces. >> The only time I've had requests for body cam footage, if we have it, is for investigations and complaints,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=643s)  _(term: body_camera, unreviewed)_
-
-- **[2026-03-09] Board of Finance** -- 2026-03-09 Board of Finance Special Meeting
-  > ...checking this. If I go into your apartment, does your neighbor have the right to request that body cam footage? I don't think so. >> Not in Not in a residential....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=271s)  _(term: body_camera, unreviewed)_
 
 - **[2026-03-09] Board of Finance** -- 2026-03-09 Board of Finance Special Meeting
   > ...When you go to do that next annual inspection, you've got the next year's body cam video. You don't but everything complies you can get rid of the year before is...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=659s)  _(term: body_camera, unreviewed)_
 
 - **[2026-03-09] Board of Finance** -- 2026-03-09 Board of Finance Special Meeting
+  > ...guys in there because you got to block out kids faces. >> The only time I've had requests for body cam footage, if we have it, is for investigations and complaints,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=643s)  _(term: body_camera, unreviewed)_
+
+- **[2026-03-09] Board of Finance** -- 2026-03-09 Board of Finance Special Meeting
   > ...are walking to people's apartments, right? >> You are putting a body cam on. We want to have those policies and procedures locked down. Who can see them? Can...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=5814s)  _(term: body_camera, unreviewed)_
+
+- **[2026-03-09] Board of Finance** -- 2026-03-09 Board of Finance Special Meeting
+  > ...checking this. If I go into your apartment, does your neighbor have the right to request that body cam footage? I don't think so. >> Not in Not in a residential....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=271s)  _(term: body_camera, unreviewed)_
+
+- **[2026-03-09] Board of Finance** -- 2026-03-09 Board of Finance Special Meeting
+  > ...>> while we're deliberating, can he just call like New Milford who I know the fire marshall has the body cam and get a copy? He has >> done that and there new me's comfortable...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=r-7WAerSf3E&t=5827s)  _(term: body_camera, unreviewed)_
 
 - **[2024-09-03] Board of Selectmen** -- 2024-09-03 Board of Selectmen Meeting
   > ...for uh body cam video it takes about an hour and a half to uh redact and edit every single half an hour of body cam video three or four police officers can show up at any one incident it is...
@@ -491,6 +515,22 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### drone
 
+- **[2026-09-10] Planning and Zoning Commission** -- 2026-09-10 Planning and Zoning Commission Meeting
+  > ...>> Yeah. Because a drone, you know, now, you know, that that can go pretty far just the drone of some of those things. Um, and I don't, you know, and other uses could have noxious chemicals and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L2JF2_8y1FI&t=2885s)  _(term: drone, unreviewed)_
+
+- **[2026-09-10] Planning and Zoning Commission** -- 2026-09-10 Planning and Zoning Commission Meeting
+  > ...>> Yeah. >> And so that was just going to be used for storage. >> Storage. Yeah. Oh, absolutely. Yeah. >> I And uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L2JF2_8y1FI&t=2893s)  _(term: drone, unreviewed)_
+
+- **[2026-09-10] Planning and Zoning Commission** -- 2026-09-10 Planning and Zoning Commission Meeting
+  > ...from stick was like crazy. >> Yeah. >> And so that was just going to be used for storage. >> Storage. Yeah. Oh, absolutely. Yeah....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L2JF2_8y1FI&t=2890s)  _(term: drone, unreviewed)_
+
+- **[2026-09-10] Planning and Zoning Commission** -- 2026-09-10 Planning and Zoning Commission Meeting
+  > ...electricity, water, sound, you know, >> sound is a big one. >> Yeah. Because a drone, you know, now, you know, that that can go pretty far just the drone of some of those things....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=L2JF2_8y1FI&t=2880s)  _(term: drone, unreviewed)_
+
 - **[2026-06-25] Planning and Zoning Commission** -- 2026-06-25 Planning and Zoning Commission Meeting
   > ...you're not above a certain, you know, noise sound pressure level, but the drone could, you know, drive someone crazy, I think. >> Um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=s4JglDCgcC8&t=1845s)  _(term: drone, unreviewed)_
@@ -520,20 +560,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=5yT011xemBc&t=9078s)  _(term: drone, unreviewed)_
 
 - **[2024-09-09] Inland Wetlands Commission** -- 2024-09-09 Inland Wetlands Commission
-  > ...know uh this doesn't show that much uh there is a video on here this is a drone picture of the deposited material again it's it would be worth looking...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vXrbssk8P70&t=8938s)  _(term: drone, unreviewed)_
-
-- **[2024-09-09] Inland Wetlands Commission** -- 2024-09-09 Inland Wetlands Commission
-  > ...to support that the the 2019 picture shows you where the stream used to be I then have a drone photo from this month showing where the new stream location which which are these pictures you're...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vXrbssk8P70&t=7382s)  _(term: drone, unreviewed)_
+  > ...in and out but they did move some of those themselves if you don't mind I do have the the drone images um so I don't know how many so this may be that picture that's in our...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vXrbssk8P70&t=8846s)  _(term: drone, unreviewed)_
 
 - **[2024-09-09] Inland Wetlands Commission** -- 2024-09-09 Inland Wetlands Commission
   > ...for me to share information on what the current conditions are if I had a photo I have I have photos I have Drone footage do you have a picture of here looking this way to your pile of rocks I...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vXrbssk8P70&t=8551s)  _(term: drone, unreviewed)_
 
 - **[2024-09-09] Inland Wetlands Commission** -- 2024-09-09 Inland Wetlands Commission
-  > ...in and out but they did move some of those themselves if you don't mind I do have the the drone images um so I don't know how many so this may be that picture that's in our...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vXrbssk8P70&t=8846s)  _(term: drone, unreviewed)_
+  > ...to support that the the 2019 picture shows you where the stream used to be I then have a drone photo from this month showing where the new stream location which which are these pictures you're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vXrbssk8P70&t=7382s)  _(term: drone, unreviewed)_
+
+- **[2024-09-09] Inland Wetlands Commission** -- 2024-09-09 Inland Wetlands Commission
+  > ...know uh this doesn't show that much uh there is a video on here this is a drone picture of the deposited material again it's it would be worth looking...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vXrbssk8P70&t=8938s)  _(term: drone, unreviewed)_
 
 - **[2024-03-07] Board of Finance** -- 2024-03-07 Board of Finance Budget Meeting
   > ...support what was 5, 5,000 so it's not expensive well it's 5,000 for the Drone it's 5,000 for the software right $500 28 29,000 for everything you want right 23 635 and 5...
@@ -572,12 +612,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=R5KLIcz14pA&t=965s)  _(term: drone, unreviewed)_
 
 - **[2023-03-15] Board of Finance** -- 2023-03-15 Board of Finance Meeting
-  > ...we took I thought we took that drone out no we didn't okay there was a request for the dive team for 2700 for the Drone an underwater drone chairs and some other equipment so that's like a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=R5KLIcz14pA&t=967s)  _(term: drone, unreviewed)_
-
-- **[2023-03-15] Board of Finance** -- 2023-03-15 Board of Finance Meeting
   > ...no we didn't okay there was a request for the dive team for 2700 for the Drone an underwater drone chairs and some other equipment so that's like a one-time purchase yeah 700 what other...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=R5KLIcz14pA&t=971s)  _(term: drone, unreviewed)_
+
+- **[2023-03-15] Board of Finance** -- 2023-03-15 Board of Finance Meeting
+  > ...we took I thought we took that drone out no we didn't okay there was a request for the dive team for 2700 for the Drone an underwater drone chairs and some other equipment so that's like a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=R5KLIcz14pA&t=967s)  _(term: drone, unreviewed)_
 
 - **[2023-03-09] Zoning Commission** -- 2023-03-09 Zoning Commission Meeting
   > ...um they're not parking on social property they don't accept drone photos none of that is correct because that was clarified to me this week by Ms hodza...
@@ -596,12 +636,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=pmGg2Kkk8Hc&t=3153s)  _(term: drone, unreviewed)_
 
 - **[2022-05-23] Board of Finance** -- 2022-05-23 Board of Finance Special Meeting
+  > ...so then our next item is old business the police department outside services drone request um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ii3diG6oESA&t=1334s)  _(term: drone, unreviewed)_
+
+- **[2022-05-23] Board of Finance** -- 2022-05-23 Board of Finance Special Meeting
   > ...drones and other associated software and equipment to inaugurate the uas program within the police department do i have a second a second okay...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ii3diG6oESA&t=1457s)  _(term: drone, unreviewed)_
 
-- **[2022-05-23] Board of Finance** -- 2022-05-23 Board of Finance Special Meeting
-  > ...so then our next item is old business the police department outside services drone request um...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ii3diG6oESA&t=1334s)  _(term: drone, unreviewed)_
+- **[2022-04-13] Board of Finance** -- 2022-04-13 Board of Finance Budget Meeting
+  > ...at this stage i don't know if the answers to the recurring cost on the drone is because all right...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jsELfrJZgE0&t=4257s)  _(term: drone, unreviewed)_
 
 - **[2022-04-13] Board of Finance** -- 2022-04-13 Board of Finance Budget Meeting
   > ...of the drones and other associated software and equipment to inaugurate the uas program within the police department as outlined in the memo dated january 5th 2022. do i have a second second okay...
@@ -610,10 +654,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2022-04-13] Board of Finance** -- 2022-04-13 Board of Finance Budget Meeting
   > ...uh yeah exactly all right on to the uh transfer request so the pd drone request so i'll make a motion that the board of finance approved the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=jsELfrJZgE0&t=4204s)  _(term: drone, unreviewed)_
-
-- **[2022-04-13] Board of Finance** -- 2022-04-13 Board of Finance Budget Meeting
-  > ...at this stage i don't know if the answers to the recurring cost on the drone is because all right...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=jsELfrJZgE0&t=4257s)  _(term: drone, unreviewed)_
 
 - **[2022-03-14] Board of Finance** -- 2022-03-14 Board of Finance Budget Meeting
   > ...before that that um um we did one last month for drone 17 240 000 um plus any profits from this year and i...
@@ -628,32 +668,32 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=AW1CcljFvQs&t=6764s)  _(term: drone, unreviewed)_
 
 - **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
-  > ...old business there's none okay we are on to the police drone right now uh the board of selectmen approved this at...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=5482s)  _(term: drone, unreviewed)_
-
-- **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
-  > ...an faa license that has to be uh acquired by whoever's going to operate the drone but i think your biggest concern should be...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=6741s)  _(term: drone, unreviewed)_
-
-- **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
-  > ...services funds for the purchase of drones and other associated software and equipment to inaugurate the uas program within the police department as outlined in the memo dated january 5th...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=5600s)  _(term: drone, unreviewed)_
-
-- **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
-  > ...but i think your biggest concern should be in the event that that drone malfunctions and hits a car or goes through a window...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=6745s)  _(term: drone, unreviewed)_
-
-- **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
-  > ...you know these things the faa licenses obviously because they don't want the drone flying in airspace where there's aircraft they also have you know limitations on...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=6763s)  _(term: drone, unreviewed)_
+  > ...five six figure five figures and and and i know i know that you know drone i mean drone pilots for instance there's full-time drum but i don't think we would need that but but what what's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=5639s)  _(term: drone, unreviewed)_
 
 - **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
   > ...thank you uh you got a request in front of you tonight for uh from the police department for uh drone surveillance i think it's a great idea um i just want to make you aware of the fact that there...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=99s)  _(term: drone, unreviewed)_
 
 - **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
-  > ...five six figure five figures and and and i know i know that you know drone i mean drone pilots for instance there's full-time drum but i don't think we would need that but but what what's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=5639s)  _(term: drone, unreviewed)_
+  > ...but i think your biggest concern should be in the event that that drone malfunctions and hits a car or goes through a window...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=6745s)  _(term: drone, unreviewed)_
+
+- **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
+  > ...an faa license that has to be uh acquired by whoever's going to operate the drone but i think your biggest concern should be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=6741s)  _(term: drone, unreviewed)_
+
+- **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
+  > ...old business there's none okay we are on to the police drone right now uh the board of selectmen approved this at...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=5482s)  _(term: drone, unreviewed)_
+
+- **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
+  > ...you know these things the faa licenses obviously because they don't want the drone flying in airspace where there's aircraft they also have you know limitations on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=6763s)  _(term: drone, unreviewed)_
+
+- **[2022-02-09] Board of Finance** -- 2022-02-09 Board of Finance Meeting
+  > ...services funds for the purchase of drones and other associated software and equipment to inaugurate the uas program within the police department as outlined in the memo dated january 5th...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=-G_-50rvfCs&t=5600s)  _(term: drone, unreviewed)_
 
 - **[2022-02-07] Board of Selectmen** -- 2022-02-07 Board of Selectmen Meeting
   > ...for the purchase of the drones and the other associated software and equipment to inaugurate the uas program within our brookfield police department oh second that...
@@ -704,12 +744,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 ### surveillance_general
 
 - **[2025-08-04] Board of Selectmen** -- 2025-08-04 Board of Selectmen Meeting
-  > ...security of the ballot box is the responsibility of the town clerk and there is one surveillance camera on the ballot box 24 hours per day. This this whole section is kind of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Id7r3q9BX7E&t=4995s)  _(term: surveillance_general, unreviewed)_
-
-- **[2025-08-04] Board of Selectmen** -- 2025-08-04 Board of Selectmen Meeting
   > ...>> it's the town clerks. Then why are we talking about absentee ballots and the one surveillance camera on the ballot box 24 hours per day? We don't have a camera on that box 24 hours a day....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Id7r3q9BX7E&t=5054s)  _(term: surveillance_general, unreviewed)_
+
+- **[2025-08-04] Board of Selectmen** -- 2025-08-04 Board of Selectmen Meeting
+  > ...security of the ballot box is the responsibility of the town clerk and there is one surveillance camera on the ballot box 24 hours per day. This this whole section is kind of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Id7r3q9BX7E&t=4995s)  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools
@@ -839,8 +879,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 8
-- Videos registered: 532 (fetched: 498, no captions: 12)
-- Date range covered: 2018-05-15 to 2026-09-09 (all 532 videos dated)
+- Videos registered: 536 (fetched: 504, no captions: 12)
+- Date range covered: 2018-05-15 to 2026-09-24 (all 536 videos dated)
 
 
 ### Channels
@@ -854,8 +894,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| brookfield_ct | streams | 2026-09-10 13:50:47.069949 | 671 |
-| brookfield_ct | videos | 2026-09-10 13:50:37.934032 | 100 |
+| brookfield_ct | streams | 2026-09-25 15:17:04.565630 | 675 |
+| brookfield_ct | videos | 2026-09-25 15:16:54.507099 | 100 |
 
 
 ## Registered meeting bodies
@@ -864,10 +904,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 114 |
 | Board of Selectmen | council | True | 75 |
-| Inland Wetlands Commission | other | True | 104 |
+| Inland Wetlands Commission | other | True | 105 |
 | Planning Commission | other | True | 65 |
-| Planning and Zoning Commission | other | True | 14 |
-| Zoning Board of Appeals | other | True | 59 |
+| Planning and Zoning Commission | other | True | 16 |
+| Zoning Board of Appeals | other | True | 60 |
 | Zoning Commission | other | True | 100 |
 | Police Commission | public_safety | True | 1 |
 
@@ -954,5 +994,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:48:15 from Brookfield's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:50:56 from Brookfield's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

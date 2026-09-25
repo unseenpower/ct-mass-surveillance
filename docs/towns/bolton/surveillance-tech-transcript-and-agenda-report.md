@@ -1,9 +1,9 @@
 # Surveillance-tech report: Bolton
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,13 +14,13 @@
 
 ## At a glance: Bolton
 
-<p class="glance-headline"><strong>1 mention</strong> of surveillance technology in <strong>1</strong> Bolton meeting, 2025</p>
+<p class="glance-headline"><strong>3 mentions</strong> of surveillance technology in <strong>3</strong> Bolton meetings, 2022–2025</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">1</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 1 meeting · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2025</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2025-12-11 → 2025-12-11</span></a>
-<a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">37%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">90 of 243 meetings</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">3</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 3 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2022–2025</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2022-10-04 → 2025-12-11</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones, Predictive policing</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">62%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">152 of 245 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2020-09-17**, but Bolton's published video archive goes back to **2015-11-10**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -51,24 +51,37 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| [Drones](#drone) | 1 | 1 | 2025-12-11 | 2025-12-11 |
+| [Drones](#drone) | 2 | 2 | 2022-10-04 | 2025-12-11 |
+| [Predictive policing](#predictive_policing) | 1 | 1 | 2023-09-05 | 2023-09-05 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-1 meetings surfaced a finding (1 dated, spanning 2025-12-11 to 2025-12-11; 0 of unknown date, listed last). Newest first.
+3 meetings surfaced a finding (3 dated, spanning 2022-10-04 to 2025-12-11; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2025-12-11.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2025-12-11.*
 
-??? note "Earlier meetings (1)"
+??? note "Earlier meetings (3)"
 
     **2025-12-11 -- Board of Education**
 
     **Bolton Board of Education - December 11, 2025** _(topics: drone)_
 
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=_zeHSW0HYRM&t=3110s)  > ...logistics were discussed >> for it being a Saturday, it was decided that people would get their own drone. That was offered as an additional piece though. Yes. Perfect....
+
+    **2023-09-05 -- Board of Selectmen**
+
+    **Bolton Board of Selectmen: September 5, 2023** _(topics: predictive_policing)_
+
+    - `predictive_policing` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iD0yO-buz9Q&t=1242s)  > ...we do have a question thank you Adam and I'd open for questions sure um what is The Foundry state fund and how much is in it there's about 70 000 and I apologize I don't have the exact...
+
+    **2022-10-04 -- Board of Selectmen**
+
+    **Bolton Board of Selectmen: October 4, 2022** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=sDmCv8FLHhM&t=7111s)  > ...then we can consider it but you make a valid point anybody who wants to do that as a private person and fly a drone over every once in a while to see what's going on and then report it to the state...
 
 
 ## Findings by topic
@@ -119,6 +132,10 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   > ...logistics were discussed >> for it being a Saturday, it was decided that people would get their own drone. That was offered as an additional piece though. Yes. Perfect....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=_zeHSW0HYRM&t=3110s)  _(term: drone, unreviewed)_
 
+- **[2022-10-04] Board of Selectmen** -- Bolton Board of Selectmen: October 4, 2022
+  > ...then we can consider it but you make a valid point anybody who wants to do that as a private person and fly a drone over every once in a while to see what's going on and then report it to the state...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=sDmCv8FLHhM&t=7111s)  _(term: drone, unreviewed)_
+
 
 ### facial_recognition
 
@@ -142,7 +159,9 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ### predictive_policing
 
-*(no findings)*
+- **[2023-09-05] Board of Selectmen** -- Bolton Board of Selectmen: September 5, 2023
+  > ...we do have a question thank you Adam and I'd open for questions sure um what is The Foundry state fund and how much is in it there's about 70 000 and I apologize I don't have the exact...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=iD0yO-buz9Q&t=1242s)  _(term: predictive_policing, unreviewed)_
 
 
 ### purchasing_broker
@@ -287,8 +306,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 6
-- Videos registered: 243 (fetched: 90, no captions: 0)
-- Date range covered: 2015-11-10 to 2026-09-01 (all 243 videos dated)
+- Videos registered: 245 (fetched: 152, no captions: 0)
+- Date range covered: 2015-11-10 to 2026-09-17 (all 245 videos dated)
 
 
 ### Channels
@@ -302,15 +321,15 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| cvc | videos | 2026-09-10 13:45:36.835112 | 2033 |
+| cvc | videos | 2026-09-25 16:03:38.861278 | 2045 |
 
 
 ## Registered meeting bodies
 
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
-| Board of Finance | budget_finance | True | 65 |
-| Board of Education | education | True | 75 |
+| Board of Finance | budget_finance | True | 66 |
+| Board of Education | education | True | 76 |
 | Board of Selectmen | other | True | 96 |
 | Charter Revision Commission | other | True | 5 |
 | Inland Wetlands Commission | other | True | 1 |
@@ -390,5 +409,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:47:42 from Bolton's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:49:59 from Bolton's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

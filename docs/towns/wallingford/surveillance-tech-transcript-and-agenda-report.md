@@ -1,9 +1,9 @@
 # Surveillance-tech report: Wallingford
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,14 +14,14 @@
 
 ## At a glance: Wallingford
 
-<p class="glance-headline"><strong>61 mentions</strong> of surveillance technology in <strong>25</strong> Wallingford meetings, 2017–2026</p>
+<p class="glance-headline"><strong>62 mentions</strong> of surveillance technology in <strong>26</strong> Wallingford meetings, 2017–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">61</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 25 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2017–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2017-11-27 → 2026-06-09</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">62</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 26 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2017–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2017-11-27 → 2026-09-22</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Doorbell-camera partnerships, Drones, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/wallingford-alpr-searches.html"><span class="gc-big">3,242</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Wallingford police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">90%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">477 of 532 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">90%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">479 of 533 meetings</span></a>
 </div>
 
 This report collects every mention of surveillance technology found in **Wallingford**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
@@ -74,7 +74,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 | [ALPR / Flock](#alpr) | 8 | 8 | 2017-11-27 | 2023-04-11 |
 | [Body cameras](#body_camera) | 6 | 5 | 2020-06-23 | 2026-06-09 |
 | [Doorbell-camera partnerships](#doorbell_partnership) | 1 | 1 | 2023-08-15 | 2023-08-15 |
-| [Drones](#drone) | 33 | 9 | 2020-08-13 | 2026-04-14 |
+| [Drones](#drone) | 34 | 10 | 2020-08-13 | 2026-09-22 |
 | [General surveillance](#surveillance_general) | 13 | 3 | 2022-04-19 | 2026-03-24 |
 
 
@@ -82,9 +82,15 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 <!-- report-polish v1 -->
 
-25 meetings surfaced a finding (25 dated, spanning 2017-11-27 to 2026-06-09; 0 of unknown date, listed last). Newest first.
+26 meetings surfaced a finding (26 dated, spanning 2017-11-27 to 2026-09-22; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-06-09.*
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+
+### 2026-09-22 -- Town Council
+
+**Town Council - Regular Meeting - Tuesday, September 22, 2026** _(topics: drone)_
+
+- `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=kKprfH1HlWs&t=3059s)  > ...who may work a specialized program. So for example like a 3D printing program or a robotics um or uh a drone program for example. So, and we do have a wide range of volunteers as well, um, that...
 
 ??? note "Earlier meetings (25)"
 
@@ -373,6 +379,10 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### drone
 
+- **[2026-09-22] Town Council** -- Town Council - Regular Meeting - Tuesday, September 22, 2026
+  > ...who may work a specialized program. So for example like a 3D printing program or a robotics um or uh a drone program for example. So, and we do have a wide range of volunteers as well, um, that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=kKprfH1HlWs&t=3059s)  _(term: drone, unreviewed)_
+
 - **[2026-04-14] Town Council** -- Town Council - Regular Meeting - Tuesday, April 14, 2026
   > ...in different aspects of law enforcement. That is have a sustained drone program. So, we have multiple officers that are trained on drones to use at different times, but...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=qo2413vx1sU&t=3531s)  _(term: drone, unreviewed)_
@@ -382,104 +392,104 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=uDn9JkZ_os0&t=2709s)  _(term: drone, unreviewed)_
 
 - **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
-  > ...drone. Um, I seek a bid waiver because uh Brink uh the things that come with the drone as far as live monitoring, two-way communication, it's it's something that's a sole propriety of...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4723s)  _(term: drone, unreviewed)_
+  > ...a team in, they will do reconnaissance first with the drone and then leave the drone up in the air so they can do overwatch, you know, as people are coming in because the drone operator can...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5125s)  _(term: drone, unreviewed)_
 
 - **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
   > ...for the agency. We have one drone that we purchased a couple years ago. Um it's not a top-end drone, you know, it was suitable for, you know, missing persons. um but it's not able to hover very long....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4684s)  _(term: drone, unreviewed)_
 
 - **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
-  > ...wouldn't be um something that was feasible under the grant. So I sat down with my drone operators. Um it is a need for the agency. We have one drone that we purchased a couple years ago. Um it's...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4676s)  _(term: drone, unreviewed)_
+  > ...sort of disturbance that we have to send a team in, they will do reconnaissance first with the drone and then leave the drone up in the air so they can do overwatch, you know, as people are...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5123s)  _(term: drone, unreviewed)_
 
 - **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
   > ...happen in Milford Police Department, there's a company called Skyo, which will automatically uh dispatch a drone to the incident. So, if you call 911 and saying, you know, you got a had a car...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4981s)  _(term: drone, unreviewed)_
 
 - **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
-  > ...drone up in the air so they can do overwatch, you know, as people are coming in because the drone operator can see if someone pops out of first floor window as teams going in. So, as you...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5128s)  _(term: drone, unreviewed)_
+  > ...a residence or do something you know we would have the appropriate paperwork to do so but this drone would give you the capability to actually make entry before a physical person does to to not only...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5181s)  _(term: drone, unreviewed)_
 
 - **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
   > ...took our whole agency to put that large scale parade on so we were able to deploy the drone and follow the the vendor that got kicked out of the parade um to his car and make sure he left um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4958s)  _(term: drone, unreviewed)_
 
 - **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
-  > ...a team in, they will do reconnaissance first with the drone and then leave the drone up in the air so they can do overwatch, you know, as people are coming in because the drone operator can...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5125s)  _(term: drone, unreviewed)_
-
-- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
-  > ...situation? Would it be used for public events like that too? Yes. So our our drone operator is all FAA certified. So they have it, you know, they've gone through the liability classes. They know...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4934s)  _(term: drone, unreviewed)_
-
-- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
-  > ...sort of disturbance that we have to send a team in, they will do reconnaissance first with the drone and then leave the drone up in the air so they can do overwatch, you know, as people are...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5123s)  _(term: drone, unreviewed)_
-
-- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
   > ...circumstances. So, if I know for a fact that our South Central SWAT team has a full drone squad, right? So, they know what they're allowed to do. If we go in under exit circumstances, we have a...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5112s)  _(term: drone, unreviewed)_
-
-- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
-  > ...this is a one-stop shop as far as going to Brink and knowing that, you know, your $35,000 drone is covered. As far as costwise, this money was given to us uh through the state. an account was...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4739s)  _(term: drone, unreviewed)_
-
-- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
-  > ...Are you able to just use it if you have a suspicion of something or how does how does it So, we would use a drone in that respect if there's exiting circumstances. So, if I know for a fact...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5103s)  _(term: drone, unreviewed)_
-
-- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
-  > ...have an advanced uh certification which allows them to fly at altitudes where you can't even see the drone. Um, so if our goal was to be covert, then we wouldn't probably, you know, advertise...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5060s)  _(term: drone, unreviewed)_
-
-- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
-  > ...a residence or do something you know we would have the appropriate paperwork to do so but this drone would give you the capability to actually make entry before a physical person does to to not only...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5181s)  _(term: drone, unreviewed)_
-
-- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
-  > ...feasible under the grant. So I sat down with my drone operators. Um it is a need for the agency. We have one drone that we purchased a couple years ago. Um it's not a top-end drone, you know, it was...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4679s)  _(term: drone, unreviewed)_
 
 - **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
   > ...accident on North K Road um along with the police uh and fire apparatus that'll be sent, the drone will be dispatched, GPS location to the scene, beat everybody there and be able to triage...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4994s)  _(term: drone, unreviewed)_
 
 - **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
-  > ...a house. It has two-way communications, thermal imaging. So, it's a phenomenal drone. Um, I seek a bid waiver because uh Brink uh the things that come with the drone as far as live monitoring,...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4716s)  _(term: drone, unreviewed)_
+  > ...Are you able to just use it if you have a suspicion of something or how does how does it So, we would use a drone in that respect if there's exiting circumstances. So, if I know for a fact...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5103s)  _(term: drone, unreviewed)_
+
+- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
+  > ...drone up in the air so they can do overwatch, you know, as people are coming in because the drone operator can see if someone pops out of first floor window as teams going in. So, as you...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5128s)  _(term: drone, unreviewed)_
+
+- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
+  > ...this is a one-stop shop as far as going to Brink and knowing that, you know, your $35,000 drone is covered. As far as costwise, this money was given to us uh through the state. an account was...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4739s)  _(term: drone, unreviewed)_
+
+- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
+  > ...feasible under the grant. So I sat down with my drone operators. Um it is a need for the agency. We have one drone that we purchased a couple years ago. Um it's not a top-end drone, you know, it was...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4679s)  _(term: drone, unreviewed)_
+
+- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
+  > ...please. Mr. Chairman, I move we approve a transfer in the amount of $35,000 from overtime account to the capital drone account. Second. Okay. Motion made second. Any discussion on the motion?...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5219s)  _(term: drone, unreviewed)_
+
+- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
+  > ...drone. Um, I seek a bid waiver because uh Brink uh the things that come with the drone as far as live monitoring, two-way communication, it's it's something that's a sole propriety of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4723s)  _(term: drone, unreviewed)_
 
 - **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
   > ...so we posted signs all all around that park that say that you're it is so with the drone you wouldn't have that because it's not in a fixed location correct and and so our our pilots operate they have...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5045s)  _(term: drone, unreviewed)_
 
 - **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
-  > ...please. Mr. Chairman, I move we approve a transfer in the amount of $35,000 from overtime account to the capital drone account. Second. Okay. Motion made second. Any discussion on the motion?...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5219s)  _(term: drone, unreviewed)_
+  > ...situation? Would it be used for public events like that too? Yes. So our our drone operator is all FAA certified. So they have it, you know, they've gone through the liability classes. They know...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4934s)  _(term: drone, unreviewed)_
 
-- **[2023-04-10] Town Council** -- Town Council - Special Meeting - Budget Public Hearing - April 10, 2023
-  > ...drone we identified an officer that we're gonna uh certify on the use of the Drone so we'd have two drone officers so I do have money for a drone right now my current fiscal year in the Drone that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mH7amDBPrRc&t=4021s)  _(term: drone, unreviewed)_
+- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
+  > ...a house. It has two-way communications, thermal imaging. So, it's a phenomenal drone. Um, I seek a bid waiver because uh Brink uh the things that come with the drone as far as live monitoring,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4716s)  _(term: drone, unreviewed)_
+
+- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
+  > ...have an advanced uh certification which allows them to fly at altitudes where you can't even see the drone. Um, so if our goal was to be covert, then we wouldn't probably, you know, advertise...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=5060s)  _(term: drone, unreviewed)_
+
+- **[2025-06-10] Town Council** -- Town Council - Regular Meeting - Tuesday, June 10, 2025
+  > ...wouldn't be um something that was feasible under the grant. So I sat down with my drone operators. Um it is a need for the agency. We have one drone that we purchased a couple years ago. Um it's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=q4U23RaQreM&t=4676s)  _(term: drone, unreviewed)_
 
 - **[2023-04-10] Town Council** -- Town Council - Special Meeting - Budget Public Hearing - April 10, 2023
   > ...not because this fiscal had moved money uh into a fund to purchase a second drone we identified an officer that we're gonna uh certify on the use of the Drone so we'd have two drone officers so...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mH7amDBPrRc&t=4016s)  _(term: drone, unreviewed)_
 
 - **[2023-04-10] Town Council** -- Town Council - Special Meeting - Budget Public Hearing - April 10, 2023
-  > ...Drone so we'd have two drone officers so I do have money for a drone right now my current fiscal year in the Drone that you had was recently used for that rescue off of the cliff or...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mH7amDBPrRc&t=4025s)  _(term: drone, unreviewed)_
+  > ...we're gonna uh certify on the use of the Drone so we'd have two drone officers so I do have money for a drone right now my current fiscal year in the Drone that you had was recently used for that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mH7amDBPrRc&t=4023s)  _(term: drone, unreviewed)_
+
+- **[2023-04-10] Town Council** -- Town Council - Special Meeting - Budget Public Hearing - April 10, 2023
+  > ...drone we identified an officer that we're gonna uh certify on the use of the Drone so we'd have two drone officers so I do have money for a drone right now my current fiscal year in the Drone that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mH7amDBPrRc&t=4021s)  _(term: drone, unreviewed)_
+
+- **[2023-04-10] Town Council** -- Town Council - Special Meeting - Budget Public Hearing - April 10, 2023
+  > ...thereabouts right it was highly successful it was very successful the Drone um is is exponential in the manner that it allows us to do...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mH7amDBPrRc&t=4036s)  _(term: drone, unreviewed)_
 
 - **[2023-04-10] Town Council** -- Town Council - Special Meeting - Budget Public Hearing - April 10, 2023
   > ...to help our officers in blue is great I just think that that these things like the Drone and like um Atlas one we shouldn't have to be...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=mH7amDBPrRc&t=4062s)  _(term: drone, unreviewed)_
 
 - **[2023-04-10] Town Council** -- Town Council - Special Meeting - Budget Public Hearing - April 10, 2023
-  > ...we're gonna uh certify on the use of the Drone so we'd have two drone officers so I do have money for a drone right now my current fiscal year in the Drone that you had was recently used for that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mH7amDBPrRc&t=4023s)  _(term: drone, unreviewed)_
-
-- **[2023-04-10] Town Council** -- Town Council - Special Meeting - Budget Public Hearing - April 10, 2023
-  > ...thereabouts right it was highly successful it was very successful the Drone um is is exponential in the manner that it allows us to do...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mH7amDBPrRc&t=4036s)  _(term: drone, unreviewed)_
+  > ...Drone so we'd have two drone officers so I do have money for a drone right now my current fiscal year in the Drone that you had was recently used for that rescue off of the cliff or...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=mH7amDBPrRc&t=4025s)  _(term: drone, unreviewed)_
 
 - **[2022-10-11] Town Council** -- Town Council - Regular Meeting -  Tuesday, October 11th, 2022
   > ...person I don't want to keep banging in this drone but one of the biggest issues our town is facing is just in the last 10 years...
@@ -490,12 +500,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=210gthAhe6w&t=4700s)  _(term: drone, unreviewed)_
 
 - **[2021-09-27] Board of Education** -- Board of Education Meeting - September 27, 2021
-  > ...the funds provide curriculum to train students in drone flight and actually become faa certified drone pilots with this grant we purchased some...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RLlBGe-1cqM&t=3505s)  _(term: drone, unreviewed)_
-
-- **[2021-09-27] Board of Education** -- Board of Education Meeting - September 27, 2021
   > ...science program and technology education the funds provide curriculum to train students in drone flight and actually become faa certified drone pilots...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=RLlBGe-1cqM&t=3503s)  _(term: drone, unreviewed)_
+
+- **[2021-09-27] Board of Education** -- Board of Education Meeting - September 27, 2021
+  > ...the funds provide curriculum to train students in drone flight and actually become faa certified drone pilots with this grant we purchased some...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=RLlBGe-1cqM&t=3505s)  _(term: drone, unreviewed)_
 
 - **[2021-06-21] Board of Education** -- Special Board of Education Meeting - June 21, 2021
   > ...so that course will move forward at leyman hall high school for the drone program dealing with the ag science program we also received a grant through the...
@@ -544,36 +554,40 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 ### surveillance_general
 
 - **[2026-03-24] Town Council** -- Town Council - Regular Meeting - Tuesday, March 24, 2026
-  > ...award. Uh pricing, uh it is the CCTV truck is approximately $298,000. Uh there is a $20,000 trade-in for the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=1974s)  _(term: surveillance_general, unreviewed)_
-
-- **[2026-03-24] Town Council** -- Town Council - Regular Meeting - Tuesday, March 24, 2026
-  > ...items that people unfortunately do dispose of to the sanitary sewer run the gamut. Um overall, the CCTV truck provides the sewer division with the ability to monitor the sanitary sewer...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=1894s)  _(term: surveillance_general, unreviewed)_
+  > ...maintenance program as well as our future capital projects as well. Um the current CCTV truck, uh the camera and the tractor have become obsolete. Um the sewer division is having difficulty...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=1915s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-03-24] Town Council** -- Town Council - Regular Meeting - Tuesday, March 24, 2026
   > ...let's move on. Uh item six, please. I make a motion to approve a bid waiver to purchase a CCTV truck via state contract consortium as requested by the sewer division....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=1779s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-03-24] Town Council** -- Town Council - Regular Meeting - Tuesday, March 24, 2026
-  > ...extended periods of time. That leaves the sewer division with the inability um to perform CCTV of the sanitary sewer, but also to respond to emergencies if the camera were to be down....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=1937s)  _(term: surveillance_general, unreviewed)_
-
-- **[2026-03-24] Town Council** -- Town Council - Regular Meeting - Tuesday, March 24, 2026
-  > ...maintenance program as well as our future capital projects as well. Um the current CCTV truck, uh the camera and the tractor have become obsolete. Um the sewer division is having difficulty...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=1915s)  _(term: surveillance_general, unreviewed)_
+  > ...consortium. And so, I'll review how the sewer division uses the CCTV truck for. Um it is first used for our preventative maintenance program identifying and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=1833s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-03-24] Town Council** -- Town Council - Regular Meeting - Tuesday, March 24, 2026
   > ...commission and then bring it forth to the town council for approval based on the specification of CCTV CCTV truck that the sewer division would like. That's where we are....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=3005s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-03-24] Town Council** -- Town Council - Regular Meeting - Tuesday, March 24, 2026
+  > ...money, about $7,500. So, this was well planned. The CCTV truck that the sewer division is looking at meets the specifications for Wallingford sewer division needs....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=2262s)  _(term: surveillance_general, unreviewed)_
+
+- **[2026-03-24] Town Council** -- Town Council - Regular Meeting - Tuesday, March 24, 2026
   > ...future capital projects such as pipe repairs or sanitary sewer replacement. And then we also use the CCTV truck for responding to emergencies such as blockages, uh root intrusions, or other...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=1878s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-03-24] Town Council** -- Town Council - Regular Meeting - Tuesday, March 24, 2026
-  > ...consortium. And so, I'll review how the sewer division uses the CCTV truck for. Um it is first used for our preventative maintenance program identifying and...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=1833s)  _(term: surveillance_general, unreviewed)_
+  > ...items that people unfortunately do dispose of to the sanitary sewer run the gamut. Um overall, the CCTV truck provides the sewer division with the ability to monitor the sanitary sewer...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=1894s)  _(term: surveillance_general, unreviewed)_
+
+- **[2026-03-24] Town Council** -- Town Council - Regular Meeting - Tuesday, March 24, 2026
+  > ...extended periods of time. That leaves the sewer division with the inability um to perform CCTV of the sanitary sewer, but also to respond to emergencies if the camera were to be down....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=1937s)  _(term: surveillance_general, unreviewed)_
+
+- **[2026-03-24] Town Council** -- Town Council - Regular Meeting - Tuesday, March 24, 2026
+  > ...award. Uh pricing, uh it is the CCTV truck is approximately $298,000. Uh there is a $20,000 trade-in for the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=1974s)  _(term: surveillance_general, unreviewed)_
 
 - **[2026-03-24] Town Council** -- Town Council - Regular Meeting - Tuesday, March 24, 2026
   > ...$298,000. Uh there is a $20,000 trade-in for the existing CCTV truck leading a net of 278. And then Sourcewell is offering 4% off...
@@ -582,10 +596,6 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 - **[2026-03-24] Town Council** -- Town Council - Regular Meeting - Tuesday, March 24, 2026
   > ...I would have to go back to our sewer division leadership and ask that question. I do know the current CCTV truck that we do have does not have that capability and we had a robust...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=2373s)  _(term: surveillance_general, unreviewed)_
-
-- **[2026-03-24] Town Council** -- Town Council - Regular Meeting - Tuesday, March 24, 2026
-  > ...money, about $7,500. So, this was well planned. The CCTV truck that the sewer division is looking at meets the specifications for Wallingford sewer division needs....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Xwc0zouVHYE&t=2262s)  _(term: surveillance_general, unreviewed)_
 
 - **[2023-05-17] Board of Education** -- Special Board of Education Meeting - May 17, 2023
   > ...these extremely low sections because then it gets an inequity across the board whether it's for our CCTV two level classes and or our honors or AP classes so that's where we are you know...
@@ -723,8 +733,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 2
 - Active meeting bodies: 3
-- Videos registered: 532 (fetched: 477, no captions: 55)
-- Date range covered: 2016-01-04 to 2026-09-08 — **based on the 530 of 532 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 533 (fetched: 479, no captions: 54)
+- Date range covered: 2016-01-04 to 2026-09-22 — **based on the 531 of 533 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -739,10 +749,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| wallingford_government_media | streams | 2026-09-10 11:53:22.239902 | 361 |
-| wallingford_government_media | videos | 2026-09-10 11:53:16.995703 | 627 |
-| wallingford_ps | streams | 2026-09-10 11:53:46.509315 | 308 |
-| wallingford_ps | videos | 2026-09-10 11:53:41.707984 | 245 |
+| wallingford_government_media | streams | 2026-09-25 15:22:30.370157 | 364 |
+| wallingford_government_media | videos | 2026-09-25 15:22:24.568084 | 628 |
+| wallingford_ps | streams | 2026-09-25 15:40:51.152594 | 310 |
+| wallingford_ps | videos | 2026-09-25 15:40:46.352825 | 245 |
 
 
 ## Registered meeting bodies
@@ -750,7 +760,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Ordinance Committee | council | True | 0 |
-| Town Council | council | True | 319 |
+| Town Council | council | True | 320 |
 | Board of Education | education | True | 213 |
 
 
@@ -789,7 +799,6 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | title | upload_date |
 | --- | --- |
-| Board of Education Meeting - August 24, 2026 | 2026-08-24 |
 | Board of Education Meeting - June 22, 2026 | 2026-06-22 |
 | Special Board of Education Meeting - May 18, 2026 | 2026-05-18 |
 | Special Board of Education Meeting - December 3, 2025 | 2025-12-03 |
@@ -814,6 +823,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Special Board of Education Meeting - March 30, 2021 | 2021-03-30 |
 | Town Council - Regular Meeting - January 26, 2021 | 2021-01-26 |
 | Town Council - Regular Meeting - January 12, 2021 | 2021-01-12 |
+| Town Council - Regular Meeting - December 8, 2020 | 2020-12-08 |
 
 
 ### Tabs never crawled
@@ -855,5 +865,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:04:07 from Wallingford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:10:38 from Wallingford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

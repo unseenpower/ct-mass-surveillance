@@ -1,9 +1,9 @@
 # Surveillance-tech report: Cornwall
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,13 +14,13 @@
 
 ## At a glance: Cornwall
 
-<p class="glance-headline"><strong>2 mentions</strong> of surveillance technology in <strong>1</strong> Cornwall meeting, 2015</p>
+<p class="glance-headline"><strong>4 mentions</strong> of surveillance technology in <strong>3</strong> Cornwall meetings, 2015–2022</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">2</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 1 meeting · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2015</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2015-10-21 → 2015-10-21</span></a>
-<a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">22%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">70 of 322 meetings</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">4</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 3 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2015–2022</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2015-10-21 → 2022-11-16</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones, General surveillance</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">53%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">170 of 322 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2015-09-03**, but Cornwall's published video archive goes back to **2010-05-17**. Meetings before 2015 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -51,18 +51,31 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
-| [Drones](#drone) | 2 | 1 | 2015-10-21 | 2015-10-21 |
+| [Drones](#drone) | 3 | 2 | 2015-10-21 | 2022-11-16 |
+| [General surveillance](#surveillance_general) | 1 | 1 | 2022-01-24 | 2022-01-24 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-1 meetings surfaced a finding (1 dated, spanning 2015-10-21 to 2015-10-21; 0 of unknown date, listed last). Newest first.
+3 meetings surfaced a finding (3 dated, spanning 2015-10-21 to 2022-11-16; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2015-10-21.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2022-11-16.*
 
-??? note "Earlier meetings (1)"
+??? note "Earlier meetings (3)"
+
+    **2022-11-16 -- Wastewater Committee**
+
+    **west Cornwall CT wastewater committee possiable site view 11 16 22 4pm** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GIFjt0m1DWY&t=557s)  > ...something documentation of that being done at all yeah things being more flood drone Cloud than they used to be yeah you're right you could probably make it...
+
+    **2022-01-24 -- Board of Selectmen**
+
+    **Cornwall ct Special Board of Selectman's meeting 1 24 22 730pm** _(topics: surveillance_general)_
+
+    - `surveillance_general` [Watch on YouTube ▸](https://www.youtube.com/watch?v=GoaHVHsELrw&t=1921s)  > ...just to protect ourselves a little bit and that's kind of all i have um so on the surveillance camera jim do you um because we do have money i mean that's i...
 
     **2015-10-21 -- Board of Selectmen**
 
@@ -116,6 +129,10 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ### drone
 
+- **[2022-11-16] Wastewater Committee** -- west Cornwall CT wastewater committee possiable site view 11 16 22 4pm
+  > ...something documentation of that being done at all yeah things being more flood drone Cloud than they used to be yeah you're right you could probably make it...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=GIFjt0m1DWY&t=557s)  _(term: drone, unreviewed)_
+
 - **[2015-10-21] Board of Selectmen** -- Cornwall CT's selectman's meeting102015
   > ...Cornwall taking pictures of cover bridge and all glory this week U so if you see a drone we're not being uh invaded or anything um where was she from she's from the Connecticut Tourism...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=gwzcRBCnHYs&t=125s)  _(term: drone, unreviewed)_
@@ -162,7 +179,9 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ### surveillance_general
 
-*(no findings)*
+- **[2022-01-24] Board of Selectmen** -- Cornwall ct Special Board of Selectman's meeting 1 24 22 730pm
+  > ...just to protect ourselves a little bit and that's kind of all i have um so on the surveillance camera jim do you um because we do have money i mean that's i...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=GoaHVHsELrw&t=1921s)  _(term: surveillance_general, unreviewed)_
 
 
 ### undercover_tools
@@ -292,7 +311,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 8
-- Videos registered: 322 (fetched: 70, no captions: 6)
+- Videos registered: 322 (fetched: 170, no captions: 6)
 - Date range covered: 2010-05-17 to 2026-07-28 — **based on the 317 of 322 videos that carry a parseable upload date**; the other 5 are undated, so the real corpus may extend beyond this range in either direction
 
 
@@ -307,7 +326,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| cornwall_ct | videos | 2026-09-10 13:34:23.325116 | 987 |
+| cornwall_ct | videos | 2026-09-25 15:50:49.924935 | 987 |
 
 
 ## Registered meeting bodies
@@ -406,5 +425,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:49:11 from Cornwall's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:52:07 from Cornwall's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

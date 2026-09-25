@@ -1,9 +1,9 @@
 # Surveillance-tech report: Waterbury
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,7 +20,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">68</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 35 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2017–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2017-09-11 → 2026-09-09</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Real-time crime centres, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">86%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">444 of 519 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">86%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">446 of 521 meetings</span></a>
 </div>
 
 **Still incomplete:** 75 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
@@ -64,7 +64,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 35 meetings surfaced a finding (35 dated, spanning 2017-09-11 to 2026-09-09; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-25** (through 2026-09-10, when this report was generated):
+**Since 2026-08-26** (through 2026-09-25, when this report was generated):
 
 ### 2026-09-09 -- Board of Aldermen
 
@@ -788,8 +788,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 2
 - Active meeting bodies: 6
-- Videos registered: 519 (fetched: 444, no captions: 14)
-- Date range covered: 2017-07-27 to 2026-09-09 — **based on the 513 of 519 videos that carry a parseable upload date**; the other 6 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 521 (fetched: 445, no captions: 15)
+- Date range covered: 2017-07-27 to 2026-09-21 — **based on the 515 of 521 videos that carry a parseable upload date**; the other 6 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -804,10 +804,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| city_of_waterbury | streams | 2026-09-10 13:36:58.215656 | 195 |
-| city_of_waterbury | videos | 2026-09-10 13:36:54.961252 | 117 |
-| waterbury_boe | streams | 2026-09-10 12:00:53.483824 | 145 |
-| waterbury_boe | videos | 2026-09-10 12:00:50.965915 | 205 |
+| city_of_waterbury | streams | 2026-09-25 15:17:32.899115 | 196 |
+| city_of_waterbury | videos | 2026-09-25 15:17:29.444990 | 117 |
+| waterbury_boe | streams | 2026-09-25 15:08:34.600096 | 146 |
+| waterbury_boe | videos | 2026-09-25 15:08:32.069911 | 205 |
 
 
 ## Registered meeting bodies
@@ -815,8 +815,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Finance and Audit Review Commission | budget_finance | True | 0 |
-| Board of Aldermen | council | True | 260 |
-| Board of Education | education | True | 258 |
+| Board of Aldermen | council | True | 261 |
+| Board of Education | education | True | 259 |
 | Board of Public Works | other | True | 0 |
 | Charter Revision Commission | other | True | 1 |
 | Board of Police Commissioners | public_safety | True | 0 |
@@ -855,10 +855,11 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (14 shown, max 25)
+### Videos with no captions available (15 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| Waterbury Board of Aldermen Meeting - September 21, 2026 | 2026-09-21 |
 | Waterbury Board of Education Workshop - September 3, 2026 | 2026-09-03 |
 | Waterbury Board of Education Workshop - June 4, 2026 | 2026-06-04 |
 | Waterbury Board of Aldermen Third Special Department Heads Meeting - May 14, 2026 | 2026-05-14 |
@@ -914,5 +915,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:04:20 from Waterbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:10:49 from Waterbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

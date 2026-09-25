@@ -1,9 +1,9 @@
 # Surveillance-tech report: Bridgeport
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,7 +20,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">24</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 5 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2026-01-20 → 2026-08-03</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Real-time crime centres</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">90%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">142 of 158 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">90%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">147 of 163 meetings</span></a>
 </div>
 
 This report collects every mention of surveillance technology found in **Bridgeport**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
@@ -61,7 +61,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 5 meetings surfaced a finding (5 dated, spanning 2026-01-20 to 2026-08-03; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-03.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-03.*
 
 ??? note "Earlier meetings (5)"
 
@@ -109,7 +109,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=842s)  > ...am deeply concerned about the safety of Bridgeport residents if this city contracts with Flock, a company that is building a quite dangerous mass surveillance infrastructure nationwide....
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=877s)  > ...Bridgeport with a large and proud immigrant community, that alone should be enough to not contract with flock. On top of that, the system has links to stalking by police officers, data...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=891s)  > ...women forced to cross state lines to have an abortion. Um, as the city considers using Flock, other cities across the nation are actually cancelling or suspending their work with...
-    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=906s)  > ...Cruz. So to the members of our city council, your community is imploring you to not join this flock. [applause] Uh Liam Conway, five Thorn Place. Uh my...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=906s)  > ...Cruz. So to the members of our city council, your community is imploring you to not join this flock. [applause] Uh Liam Conway, [address redacted]. Uh my...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=945s)  > ...opportunity to attend the committee meeting discussing the introduction of Flock. And before and after, I spent time speaking to folks my age about the proposal and every person said the same...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=966s)  > ...in Bridgeport. Want to thrive here in Bridgeport. We cannot do that while living in fear. Whether a flock of police brutality, of future surveillance plans, or of ICE who have already...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=985s)  > ...youth from the city, especially those who do not look like myself, when voting on flock or any future surveillance proposals. We say no. [applause]...
@@ -157,7 +157,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=945s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
-  > ...Cruz. So to the members of our city council, your community is imploring you to not join this flock. [applause] Uh Liam Conway, five Thorn Place. Uh my...
+  > ...Cruz. So to the members of our city council, your community is imploring you to not join this flock. [applause] Uh Liam Conway, [address redacted]. Uh my...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=906s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
@@ -417,8 +417,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 2
 - Active meeting bodies: 11
-- Videos registered: 158 (fetched: 142, no captions: 16)
-- Date range covered: 2016-04-05 to 2026-09-08 — **based on the 146 of 158 videos that carry a parseable upload date**; the other 12 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 163 (fetched: 146, no captions: 16)
+- Date range covered: 2016-04-05 to 2026-09-21 — **based on the 151 of 163 videos that carry a parseable upload date**; the other 12 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -433,10 +433,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| bridgeport_public_schools | streams | 2026-09-10 11:51:56.547175 | 381 |
-| bridgeport_public_schools | videos | 2026-09-10 11:51:51.255194 | 43 |
-| city_of_bridgeport | streams | 2026-09-10 11:35:21.376552 | 46 |
-| city_of_bridgeport | videos | 2026-09-10 11:35:20.224823 | 397 |
+| bridgeport_public_schools | streams | 2026-09-25 15:09:41.316780 | 383 |
+| bridgeport_public_schools | videos | 2026-09-25 15:09:35.743714 | 44 |
+| city_of_bridgeport | streams | 2026-09-25 15:18:03.310135 | 48 |
+| city_of_bridgeport | videos | 2026-09-25 15:18:01.969681 | 398 |
 
 
 ## Registered meeting bodies
@@ -444,8 +444,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Budget and Appropriations Committee | budget_finance | True | 16 |
-| City Council | council | True | 37 |
-| Board of Education | education | True | 77 |
+| City Council | council | True | 39 |
+| Board of Education | education | True | 80 |
 | Contracts Committee | other | True | 24 |
 | Economic and Community Development and Environment Committee | other | True | 0 |
 | Education and Social Services Committee | other | True | 0 |
@@ -462,8 +462,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Agenda/minutes coverage
 
 - Agenda sources registered: 1
-- Documents registered: 8 (fetched: 8)
-- Date range covered: 2026-04-21 to 2026-08-03
+- Documents registered: 9 (fetched: 9)
+- Date range covered: 2026-04-21 to 2026-10-05
 
 
 ### Agenda sources
@@ -492,7 +492,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | title | upload_date |
 | --- | --- |
-| City of Bridgeport City Council Meeting - 09.08.2026 | 2026-09-08 |
+| City of Bridgeport City Council Meeting - 09.21.2026 | 2026-09-21 |
 | Virtual Special Meeting of the Bridgeport Board of Education Mon 8/17/2026 | 2026-08-17 |
 | City of Bridgeport City Council Meeting - 12.1.2025 | 2025-12-01 |
 | BBOE Personnel & Contracts Committee, Tuesday, August 22, 2023 6:00 PM | 2023-08-22 |
@@ -549,5 +549,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:47:50 from Bridgeport's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:50:09 from Bridgeport's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

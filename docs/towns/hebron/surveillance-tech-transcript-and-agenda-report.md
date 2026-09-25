@@ -1,9 +1,9 @@
 # Surveillance-tech report: Hebron
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,16 +14,16 @@
 
 ## At a glance: Hebron
 
-<p class="glance-headline"><strong>1 mention</strong> of surveillance technology in <strong>1</strong> Hebron meeting, 2026</p>
+<p class="glance-headline"><strong>10 mentions</strong> of surveillance technology in <strong>4</strong> Hebron meetings, 2022–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">1</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 1 meeting · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2026-04-23 → 2026-04-23</span></a>
-<a class="glance-card" href="#findings-by-topic"><span class="gc-big">1</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Drones</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">37%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">57 of 154 meetings</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">10</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 4 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2022–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2022-05-19 → 2026-04-23</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">63%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">98 of 155 meetings</span></a>
 </div>
 
-**Not the full history:** transcripts begin **2024-01-04**, but Hebron's published video archive goes back to **2019-10-03**. Meetings before 2024 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+**Not the full history:** transcripts begin **2022-03-17**, but Hebron's published video archive goes back to **2019-10-03**. Meetings before 2022 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 This report collects every mention of surveillance technology found in **Hebron**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -51,6 +51,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
+| [ALPR / Flock](#alpr) | 9 | 3 | 2022-05-19 | 2023-10-19 |
 | [Drones](#drone) | 1 | 1 | 2026-04-23 | 2026-04-23 |
 
 
@@ -58,17 +59,41 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 <!-- report-polish v1 -->
 
-1 meetings surfaced a finding (1 dated, spanning 2026-04-23 to 2026-04-23; 0 of unknown date, listed last). Newest first.
+4 meetings surfaced a finding (4 dated, spanning 2022-05-19 to 2026-04-23; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-04-23.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-04-23.*
 
-??? note "Earlier meetings (1)"
+??? note "Earlier meetings (4)"
 
     **2026-04-23 -- Town Council**
 
     **Hebron Town Council - April 23, 2026** _(topics: drone)_
 
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=xdhPAVh3pdw&t=4209s)  > ...I did go down there at one more I did go down there and flew and flew my drone because you really need to see this site. That's the salt shed....
+
+    **2023-10-19 -- Board of Selectmen**
+
+    **Hebron Board of Selectmen: October 19, 2023** _(topics: alpr)_
+
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6DnwwGQE9nc&t=1493s)  > ...costs were okay I think we're going to be okay it was the license plate it was the License Plate Reader okay see you remember I remember cartoons from a hundred years ago...
+
+    **2023-09-21 -- Board of Selectmen**
+
+    **Hebron Board of Selectmen: September 21, 2023** _(topics: alpr)_
+
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6Q-vFJ4b1uo&t=1846s)  > ...recommended for funding that would be the priest Police Department License Plate Reader mlpr and the amount of 1919 the balance can be moved into the...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6Q-vFJ4b1uo&t=2126s)  > ...a gentleman's motion uh using the information right there that you remove the License Plate Reader to mlpr in the amount of nineteen thousand nine hundred nineteen dollars and the balance be...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6Q-vFJ4b1uo&t=2165s)  > ...uh which was unnecessary or not to be used uh for the police department License Plate Reader uh program the mlpr um...
+
+    **2022-05-19 -- Board of Selectmen**
+
+    **Hebron Board of Selectmen - May 19, 2022** _(topics: alpr)_
+
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iTTPummdKY0&t=3592s)  > ...concerning access to the vehicle-related information in the ncic system for the license plate reader project so as you know we've approved the purchase...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iTTPummdKY0&t=3610s)  > ...we enjoy right now a license plate reader because it's on our resident trooper's car i've been informed by bryce that the...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iTTPummdKY0&t=3658s)  > ...vehicle-related information in ncic system for the license plate reader project this agreement has been reviewed by the town attorney and should be approved to...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iTTPummdKY0&t=3666s)  > ...town attorney and should be approved to allow the town to implement new technology of the license plate reader then there's a proposed motion okay i'll read the motion and open it up...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=iTTPummdKY0&t=3694s)  > ...concerning access to vehicle related information in the ncic system for the license plate reader project and authorize andrew j tyranny town manager to sign the agreement on...
 
 
 ## Findings by topic
@@ -80,7 +105,41 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 ### alpr
 
-*(no findings)*
+- **[2023-10-19] Board of Selectmen** -- Hebron Board of Selectmen: October 19, 2023
+  > ...costs were okay I think we're going to be okay it was the license plate it was the License Plate Reader okay see you remember I remember cartoons from a hundred years ago...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6DnwwGQE9nc&t=1493s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-09-21] Board of Selectmen** -- Hebron Board of Selectmen: September 21, 2023
+  > ...uh which was unnecessary or not to be used uh for the police department License Plate Reader uh program the mlpr um...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6Q-vFJ4b1uo&t=2165s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-09-21] Board of Selectmen** -- Hebron Board of Selectmen: September 21, 2023
+  > ...a gentleman's motion uh using the information right there that you remove the License Plate Reader to mlpr in the amount of nineteen thousand nine hundred nineteen dollars and the balance be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6Q-vFJ4b1uo&t=2126s)  _(term: alpr_flock, unreviewed)_
+
+- **[2023-09-21] Board of Selectmen** -- Hebron Board of Selectmen: September 21, 2023
+  > ...recommended for funding that would be the priest Police Department License Plate Reader mlpr and the amount of 1919 the balance can be moved into the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6Q-vFJ4b1uo&t=1846s)  _(term: alpr_flock, unreviewed)_
+
+- **[2022-05-19] Board of Selectmen** -- Hebron Board of Selectmen - May 19, 2022
+  > ...concerning access to vehicle related information in the ncic system for the license plate reader project and authorize andrew j tyranny town manager to sign the agreement on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=iTTPummdKY0&t=3694s)  _(term: alpr_flock, unreviewed)_
+
+- **[2022-05-19] Board of Selectmen** -- Hebron Board of Selectmen - May 19, 2022
+  > ...town attorney and should be approved to allow the town to implement new technology of the license plate reader then there's a proposed motion okay i'll read the motion and open it up...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=iTTPummdKY0&t=3666s)  _(term: alpr_flock, unreviewed)_
+
+- **[2022-05-19] Board of Selectmen** -- Hebron Board of Selectmen - May 19, 2022
+  > ...vehicle-related information in ncic system for the license plate reader project this agreement has been reviewed by the town attorney and should be approved to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=iTTPummdKY0&t=3658s)  _(term: alpr_flock, unreviewed)_
+
+- **[2022-05-19] Board of Selectmen** -- Hebron Board of Selectmen - May 19, 2022
+  > ...we enjoy right now a license plate reader because it's on our resident trooper's car i've been informed by bryce that the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=iTTPummdKY0&t=3610s)  _(term: alpr_flock, unreviewed)_
+
+- **[2022-05-19] Board of Selectmen** -- Hebron Board of Selectmen - May 19, 2022
+  > ...concerning access to the vehicle-related information in the ncic system for the license plate reader project so as you know we've approved the purchase...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=iTTPummdKY0&t=3592s)  _(term: alpr_flock, unreviewed)_
 
 
 ### biometrics_other
@@ -287,8 +346,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 3
-- Videos registered: 154 (fetched: 57, no captions: 2)
-- Date range covered: 2019-10-03 to 2026-09-03 (all 154 videos dated)
+- Videos registered: 155 (fetched: 98, no captions: 2)
+- Date range covered: 2019-10-03 to 2026-09-17 (all 155 videos dated)
 
 
 ### Channels
@@ -302,7 +361,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| cvc | videos | 2026-09-10 13:45:36.835112 | 2033 |
+| cvc | videos | 2026-09-25 16:03:38.861278 | 2045 |
 
 
 ## Registered meeting bodies
@@ -311,7 +370,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 11 |
 | Board of Selectmen | other | True | 128 |
-| Town Council | other | True | 15 |
+| Town Council | other | True | 16 |
 
 
 ## Agenda/minutes coverage
@@ -391,5 +450,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:55:01 from Hebron's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:58:51 from Hebron's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

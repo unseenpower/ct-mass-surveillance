@@ -1,9 +1,9 @@
 # Surveillance-tech report: Bethany
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,7 +20,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">15</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 6 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2025–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2025-10-07 → 2026-08-19</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones, Facial recognition, Predictive policing</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">70%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">133 of 190 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">85%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">164 of 192 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2024-01-02**, but Bethany's published video archive goes back to **2022-10-18**. Meetings before 2024 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -63,7 +63,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 6 meetings surfaced a finding (6 dated, spanning 2025-10-07 to 2026-08-19; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-08-19.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-19.*
 
 ??? note "Earlier meetings (6)"
 
@@ -379,8 +379,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 190 (fetched: 133, no captions: 5)
-- Date range covered: 2022-10-18 to 2026-09-08 (all 190 videos dated)
+- Videos registered: 192 (fetched: 164, no captions: 4)
+- Date range covered: 2022-10-18 to 2026-09-16 (all 192 videos dated)
 
 
 ### Channels
@@ -394,8 +394,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| bethany_ct | streams | 2026-09-10 13:40:12.169797 | 94 |
-| bethany_ct | videos | 2026-09-10 13:40:10.360800 | 102 |
+| bethany_ct | streams | 2026-09-25 16:09:30.596607 | 96 |
+| bethany_ct | videos | 2026-09-25 16:09:28.572109 | 102 |
 
 
 ## Registered meeting bodies
@@ -404,14 +404,14 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 52 |
 | Annual/Special Town Meeting | other | True | 3 |
-| Board of Selectmen | other | True | 70 |
+| Board of Selectmen | other | True | 71 |
 | Conservation Commission | other | True | 1 |
 | Housing Advisory Committee | other | True | 14 |
 | Inland Wetlands Commission | other | True | 10 |
 | Parks & Recreation Commission | other | True | 21 |
 | Planning & Zoning Commission | other | True | 13 |
 | Solid Waste & Recycling Committee | other | True | 2 |
-| Zoning Board of Appeals | other | True | 4 |
+| Zoning Board of Appeals | other | True | 5 |
 
 
 ## Agenda/minutes coverage
@@ -439,11 +439,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (5 shown, max 25)
+### Videos with no captions available (4 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| 09/08/2026 Board of Finance | Bethany, CT | 2026-09-08 |
 | 04/13/2026 Zoning Board of Appeals | Bethany, CT | 2026-04-13 |
 | 02/25/2026 Parks & Recreation Commission | Bethany, CT | 2026-02-25 |
 | 02/10/2026 Board of Finance | Bethany, CT | 2026-02-10 |
@@ -489,5 +488,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:47:17 from Bethany's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:49:29 from Bethany's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

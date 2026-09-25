@@ -1,9 +1,9 @@
 # Surveillance-tech report: Seymour
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,7 +20,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">45</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 35 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2015–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2015-06-03 → 2026-03-05</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Other biometrics, Body cameras, Drones, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">83%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">419 of 503 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">84%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">421 of 504 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2015-06-03**, but Seymour's published video archive goes back to **2014-04-15**. Meetings before 2015 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -64,7 +64,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 35 meetings surfaced a finding (35 dated, spanning 2015-06-03 to 2026-03-05; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-03-05.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-03-05.*
 
 ??? note "Earlier meetings (35)"
 
@@ -167,7 +167,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
     **Board of Selectmen 20200707** _(topics: alpr)_
 
-    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=415s)  > ...should you have any questions please do not hesitate to contact me again that shouldn't Dana flock our tax collector so with that I will entertain a motion to move eight Francis Drive off the...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=415s)  > ...should you have any questions please do not hesitate to contact me again that shouldn't Dana flock our tax collector so with that I will entertain a motion to move [address redacted] off the...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=495s)  > ...is B [address redacted] and again it is the same recommendation from our tax payer Dana flock she is recommending that we abate the following delinquent real estate taxes for Grand list 2013 14 15...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=532s)  > ...so at this point I'll entertain a motion to approve the recommendation from Dana flock as presented so move move motion by Al second by Trish is there any discussion okay...
 
@@ -327,7 +327,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=WiGbAe13Jkw&t=180s)  _(term: alpr_flock, unreviewed)_
 
 - **[2020-07-08] Board of Selectmen** -- Board of Selectmen 20200707
-  > ...should you have any questions please do not hesitate to contact me again that shouldn't Dana flock our tax collector so with that I will entertain a motion to move eight Francis Drive off the...
+  > ...should you have any questions please do not hesitate to contact me again that shouldn't Dana flock our tax collector so with that I will entertain a motion to move [address redacted] off the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=FXJHIlXXjP0&t=415s)  _(term: alpr_flock, unreviewed)_
 
 - **[2020-07-08] Board of Selectmen** -- Board of Selectmen 20200707
@@ -673,8 +673,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 18
-- Videos registered: 503 (fetched: 419, no captions: 20)
-- Date range covered: 2014-04-15 to 2026-09-01 (all 503 videos dated)
+- Videos registered: 504 (fetched: 421, no captions: 19)
+- Date range covered: 2014-04-15 to 2026-09-15 (all 504 videos dated)
 
 
 ### Channels
@@ -688,8 +688,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| seymour_ct | streams | 2026-09-10 13:49:06.742309 | 150 |
-| seymour_ct | videos | 2026-09-10 13:49:03.931822 | 416 |
+| seymour_ct | streams | 2026-09-25 15:36:21.365036 | 151 |
+| seymour_ct | videos | 2026-09-25 15:36:14.907011 | 416 |
 
 
 ## Registered meeting bodies
@@ -698,7 +698,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 30 |
 | Budget Hearing / State of the Town | budget_finance | True | 53 |
-| Board of Selectmen | council | True | 294 |
+| Board of Selectmen | council | True | 295 |
 | Board of Education | education | True | 1 |
 | Board of Assessment Appeals | other | True | 8 |
 | Board of Public Works | other | True | 12 |
@@ -744,11 +744,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (20 shown, max 25)
+### Videos with no captions available (19 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
-| BOS Regular Meeting 09012026 | 2026-09-01 |
 | Board of Selectpersons 20230620 | 2023-06-21 |
 | Board of Selectpersons 20230516 | 2023-05-17 |
 | Board of Selectmen 20220921 | 2022-09-22 |
@@ -809,5 +808,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T18:02:04 from Seymour's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T17:08:11 from Seymour's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

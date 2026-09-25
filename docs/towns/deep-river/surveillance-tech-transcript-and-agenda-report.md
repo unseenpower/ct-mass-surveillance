@@ -1,9 +1,9 @@
 # Surveillance-tech report: Deep River
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,16 +14,16 @@
 
 ## At a glance: Deep River
 
-<p class="glance-headline"><strong>3 mentions</strong> of surveillance technology in <strong>2</strong> Deep River meetings, 2021–2024</p>
+<p class="glance-headline"><strong>4 mentions</strong> of surveillance technology in <strong>3</strong> Deep River meetings, 2021–2024</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">3</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 2 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2021–2024</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-10-12 → 2024-12-12</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">4</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 3 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2021–2024</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-05-25 → 2024-12-12</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">2</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">51%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">134 of 262 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">59%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">154 of 262 meetings</span></a>
 </div>
 
-**Not the full history:** transcripts begin **2021-08-24**, but Deep River's published video archive goes back to **2017-03-27**. Meetings before 2021 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+**Not the full history:** transcripts begin **2020-11-10**, but Deep River's published video archive goes back to **2017-03-27**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
 
 This report collects every mention of surveillance technology found in **Deep River**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -52,18 +52,18 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 | Topic | Mentions | Meetings | First seen | Most recent |
 | --- | --- | --- | --- | --- |
 | [ALPR / Flock](#alpr) | 2 | 1 | 2024-12-12 | 2024-12-12 |
-| [Drones](#drone) | 1 | 1 | 2021-10-12 | 2021-10-12 |
+| [Drones](#drone) | 2 | 2 | 2021-05-25 | 2021-10-12 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-2 meetings surfaced a finding (2 dated, spanning 2021-10-12 to 2024-12-12; 0 of unknown date, listed last). Newest first.
+3 meetings surfaced a finding (3 dated, spanning 2021-05-25 to 2024-12-12; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2024-12-12.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2024-12-12.*
 
-??? note "Earlier meetings (2)"
+??? note "Earlier meetings (3)"
 
     **2024-12-12 -- Planning & Zoning Commission**
 
@@ -77,6 +77,12 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
     **Deep River Town Meetings - October 12 2021** _(topics: drone)_
 
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=4F28VVEUJQw&t=3093s)  > ...completed it's done okay all right or actually i'm not sure if that's done so my drone is done and mitchell is done they're going to come back and do that curbing i'm assuming that they did they...
+
+    **2021-05-25 -- Board of Selectmen**
+
+    **Deep River Town Meeting - May 25 2021** _(topics: drone)_
+
+    - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=JWGXB0qiq-w&t=3424s)  > ...on most of these are motor vehicles and if you're in a band and you have a drum uh we tax your drone uh you can't put leans on those kind of things...
 
 
 ## Findings by topic
@@ -132,6 +138,10 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 - **[2021-10-12] Board of Selectmen** -- Deep River Town Meetings - October 12 2021
   > ...completed it's done okay all right or actually i'm not sure if that's done so my drone is done and mitchell is done they're going to come back and do that curbing i'm assuming that they did they...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4F28VVEUJQw&t=3093s)  _(term: drone, unreviewed)_
+
+- **[2021-05-25] Board of Selectmen** -- Deep River Town Meeting - May 25 2021
+  > ...on most of these are motor vehicles and if you're in a band and you have a drum uh we tax your drone uh you can't put leans on those kind of things...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=JWGXB0qiq-w&t=3424s)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -301,7 +311,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 2
 - Active meeting bodies: 7
-- Videos registered: 262 (fetched: 134, no captions: 0)
+- Videos registered: 262 (fetched: 154, no captions: 0)
 - Date range covered: 2017-03-27 to 2026-08-19 (all 262 videos dated)
 
 
@@ -317,9 +327,9 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| deep_river_ct | videos | 2026-09-10 13:34:41.161026 | 91 |
-| vsctv | streams | 2026-09-10 13:26:38.282919 | 1 |
-| vsctv | videos | 2026-09-10 13:26:37.502399 | 3373 |
+| deep_river_ct | videos | 2026-09-25 16:01:25.978184 | 91 |
+| vsctv | streams | 2026-09-25 15:58:49.710156 | 1 |
+| vsctv | videos | 2026-09-25 15:58:48.968223 | 3374 |
 
 
 ## Registered meeting bodies
@@ -415,5 +425,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:50:17 from Deep River's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:53:18 from Deep River's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

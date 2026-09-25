@@ -1,9 +1,9 @@
 # Surveillance-tech report: Killingworth
 
 <!-- freshness -->
-!!! info "Mentions current to 10 September 2026"
+!!! info "Mentions current to 25 September 2026"
 
-    This report covers meetings processed up to **2026-09-10**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,7 +20,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">24</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 17 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2020–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2020-04-22 → 2026-07-27</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">3</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones, Predictive policing</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">71%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">283 of 396 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">72%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">286 of 399 meetings</span></a>
 </div>
 
 **Still incomplete:** 113 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
@@ -62,7 +62,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 17 meetings surfaced a finding (17 dated, spanning 2020-04-22 to 2026-07-27; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention between 2026-08-25 and 2026-09-10, when this report was generated. The most recent was 2026-07-27.*
+*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-07-27.*
 
 ??? note "Earlier meetings (17)"
 
@@ -480,8 +480,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 396 (fetched: 283, no captions: 2)
-- Date range covered: 2020-04-13 to 2026-07-27 — **based on the 394 of 396 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
+- Videos registered: 399 (fetched: 286, no captions: 2)
+- Date range covered: 2020-04-13 to 2026-09-10 — **based on the 397 of 399 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
 
 
 ### Channels
@@ -495,7 +495,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| killingworth_ct | videos | 2026-09-10 12:03:57.482253 | 469 |
+| killingworth_ct | videos | 2026-09-25 15:45:57.300040 | 474 |
 
 
 ## Registered meeting bodies
@@ -503,13 +503,13 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Board of Finance | budget_finance | True | 42 |
-| Board of Selectmen | council | True | 136 |
+| Board of Selectmen | council | True | 138 |
 | Charter Revision Commission | other | True | 53 |
 | Committee on Aging | other | True | 5 |
 | Conservation Commission | other | True | 36 |
 | Ethics Committee | other | True | 10 |
 | Fair Rent Commission | other | True | 4 |
-| Planning & Zoning Commission | other | True | 72 |
+| Planning & Zoning Commission | other | True | 73 |
 | Public Health Agency | other | True | 27 |
 | Zoning Board of Appeals | other | True | 11 |
 
@@ -588,5 +588,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-10T17:55:27 from Killingworth's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-25T16:59:22 from Killingworth's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

@@ -1,6 +1,6 @@
 # OSINT / social-media monitoring: every mention, every town
 
-_Generated 2026-09-10T18:10:02 — 2 mentions across 2 towns, 2022-09-06 to 2024-08-28._
+_Generated 2026-09-25T17:14:12 — 2 mentions across 2 towns, 2022-09-06 to 2024-08-28._
 
 
 Open-source-intelligence and social-media monitoring tools.
@@ -24,7 +24,7 @@ _No human review has been applied to any mention in this file._
 | Town | Mentions | From agendas | Meetings | Coverage | First | Most recent |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Fairfield](../../towns/fairfield/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 98% | 2024-08-28 | 2024-08-28 |
-| [Groton](../../towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 82% | 2022-09-06 | 2022-09-06 |
+| [Groton](../../towns/groton/surveillance-tech-transcript-and-agenda-report.md) | **1** | · | 1 | 88% | 2022-09-06 | 2022-09-06 |
 
 ## Receipts
 
