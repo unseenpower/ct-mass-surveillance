@@ -1,9 +1,9 @@
 # Surveillance-tech report: Hartford
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,11 +14,11 @@
 
 ## At a glance: Hartford
 
-<p class="glance-headline"><strong>128 mentions</strong> of surveillance technology in <strong>31</strong> Hartford meetings, 2018–2026</p>
+<p class="glance-headline"><strong>160 mentions</strong> of surveillance technology in <strong>33</strong> Hartford meetings, 2018–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">128</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 31 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2018–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2018-09-10 → 2026-04-22</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">160</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 33 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2018–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2018-09-10 → 2026-08-20</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">8</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Doorbell-camera partnerships, Drones, Facial recognition, Gunshot detection, Real-time crime centres, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/hartford-alpr-searches.html"><span class="gc-big">16,067</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Hartford police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
 <a class="glance-card" href="#coverage-status"><span class="gc-big">96%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">463 of 483 meetings</span></a>
@@ -77,7 +77,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 | [Drones](#drone) | 16 | 11 | 2018-09-10 | 2025-04-24 |
 | [Facial recognition](#facial_recognition) | 79 | 10 | 2022-06-13 | 2023-03-21 |
 | [Gunshot detection](#gunshot_detection) | 8 | 2 | 2019-05-07 | 2024-04-16 |
-| [Real-time crime centres](#rtcc) | 4 | 2 | 2024-04-16 | 2024-10-10 |
+| [Real-time crime centres](#rtcc) | 36 | 7 | 2018-09-24 | 2026-08-20 |
 | [General surveillance](#surveillance_general) | 2 | 1 | 2023-09-21 | 2023-09-21 |
 
 
@@ -85,11 +85,17 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 <!-- report-polish v1 -->
 
-31 meetings surfaced a finding (31 dated, spanning 2018-09-10 to 2026-04-22; 0 of unknown date, listed last). Newest first.
+33 meetings surfaced a finding (33 dated, spanning 2018-09-10 to 2026-08-20; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-04-22.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2026-08-20.*
 
-??? note "Earlier meetings (31)"
+??? note "Earlier meetings (33)"
+
+    **2026-08-20 -- Quality of Life and Public Safety Committee**
+
+    **City of Hartford Quality of Life & Public Safety Committee Meeting August 20th, 2026** _(topics: rtcc)_
+
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=AJrW1ickOb4&t=691s)  > ...across Connecticut. The intel center in general in the state of Connecticut, it's a primary uh fusion center. It brings together local, state, and federal partners, analyzes intelligence...
 
     **2026-04-22 -- Operation, Management, Budget & Government Accountability Committee**
 
@@ -105,8 +111,9 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
     **2025-06-13 -- Quality of Life and Public Safety Committee**
 
-    **City of Hartford Quality of Life & Public Safety Committee Meeting** _(topics: alpr)_
+    **City of Hartford Quality of Life & Public Safety Committee Meeting** _(topics: alpr, rtcc)_
 
+    - `rtcc` [Watch on YouTube ▸](https://www.youtube.com/watch?v=16mHI-gZG30&t=1140s)  > ...of arrest, uh, 20 of them were 17 and under uh, for for age group. So far this year, our capital city command center has processed over 4,700 requests and uh which has obviously...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=16mHI-gZG30&t=1298s)  > ...if we have any suspected stolen plates, suspect vehicles, stuff like that. They're preloaded into the license plate reader, and if they hit on the reader, we get an alert. Uh and then on the flip...
 
     **2025-04-24 -- Operation, Management, Budget & Government Accountability Committee**
@@ -156,10 +163,11 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
     **2023-04-12 -- Operation, Management, Budget & Government Accountability Committee**
 
-    **City of Hartford Budget Hearing New April 12th 2023** _(topics: alpr, body_camera)_
+    **City of Hartford Budget Hearing New April 12th 2023** _(topics: alpr, body_camera, rtcc)_
 
     - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9Se-JDSudJA&t=10520s)  > ...the the backlog and the number the difference that has happened in the last couple years is the body worn camera footage in the C4 camera footage and camera footage the foi request they used...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9Se-JDSudJA&t=12064s)  > ...and I was highly impressed with the technology there and I know by having the License Plate Reader that was very helpful with accidents you know it didn't run accidents so I was hoping...
+    - `rtcc` [Watch on YouTube ▸](https://www.youtube.com/watch?v=9Se-JDSudJA&t=13029s)  > ...Intervention Program Grant the two million Grant there is a program called fusis that I can share more information about at Public Safety or Offline that encourages Atlanta Georgia uses this...
 
     **2023-03-21 -- Quality of Life and Public Safety Committee**
 
@@ -361,11 +369,45 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rcS7zDS7TPs&t=23s)  > ...until October 29 2018 that would be item number 5 defined contribution plan item number 6 residency item number 7 drone policy and reports item number 8 executive pay plan item number 9 drones...
 
+    **2018-09-26 -- Committee of the Whole**
+
+    **City of Hartford Committee of the Whole Meeting September 26, 2018** _(topics: rtcc)_
+
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5745s)  > ...certain council members voted to approve reimbursement of sixty thousand dollars for well we going to the fusion centers can you explain a little bit more about how the fusion centers operate and and...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5752s)  > ...for well we going to the fusion centers can you explain a little bit more about how the fusion centers operate and and what the role is of the Hartford police officer who's assigned the liaison to a...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5762s)  > ...what the role is of the Hartford police officer who's assigned the liaison to a fusion center and what impact does that have on the undocumented community in Hartford and as well as activists to...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5799s)  > ...state is mandated by federal law to have a huge infusion center and basically what a fusion center is is an intelligence gathering unit that protects the state that disseminates...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5821s)  > ...informational dissemination unit by they're not allowed to actually investigate I oversaw the state fusion center of my time with the State Police and I can tell you that the folks who...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5830s)  > ...center of my time with the State Police and I can tell you that the folks who are signed to the fusion center do not investigate all they do is gather information and disseminate it to law...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5856s)  > ...there at the federal level there have been arrests made against undocumented individuals because of fusion Center findings but bringing it closer to home we've personally seen activists who've...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5868s)  > ...findings but bringing it closer to home we've personally seen activists who've been targeted for a fusion center activity but I do have another question [Music]...
+
     **2018-09-24 -- Court of Common Council**
 
-    **City of Hartford Council Meeting September 24, 2018** _(topics: drone)_
+    **City of Hartford Council Meeting September 24, 2018** _(topics: drone, rtcc)_
 
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=3244s)  > ...regulating the used data management and storage of the data recorded by the unmanned aerial vehicles item number 25 quality of life and Public Safety Committee with accompany...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4176s)  > ...particular grant on item number 26 so for those who are unaware there is there are fusion centers and fusion centers is comprised of state local and federal partners that work together along with...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4192s)  > ...the Division of Emergency Management and homeland security and State Police and so fusion centers started off for those who are not aware they started off because of 9/11 right so it was a policy...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4213s)  > ...prevent terrorism and so whether that's external terrorism internal terrorism the whole point of the fusion center and with that to create these intelligence centers to have a better way to track...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4272s)  > ...handed out okay so each one of the council members you've received more information about fusion centers the first page is right on the ACLU website so concerns about fusion centers among...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4278s)  > ...information about fusion centers the first page is right on the ACLU website so concerns about fusion centers among the concerns is that at a fusion center there's lack of transparency in terms of...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4283s)  > ...first page is right on the ACLU website so concerns about fusion centers among the concerns is that at a fusion center there's lack of transparency in terms of what data is being retained what data is...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4302s)  > ...being extracted and for what purposes so it as ACLU highlights here the private sector can participate so some fusion centers incorporate have incorporated private sector corporations into the...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4329s)  > ...private corporations just to give you an example there's also data mining that happens at fusion center centers so federal fusion center guidelines encourage wholesale data collection and...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4331s)  > ...example there's also data mining that happens at fusion center centers so federal fusion center guidelines encourage wholesale data collection and data manipulation process that also...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4359s)  > ...apply and which agency is awesome Ultima we responsible for the activities of the fusion center participants all of that coupled in with the fact that not just are we talking about the undocumented...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4389s)  > ...the lines of communication and and the the data or the information that we receive is very limited about fusion centers what's to say that an activist is not targeted for posting an item on...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4409s)  > ...what-have-you and so a the line gets very blurry about how in Hartford our fusion Center is carrying out that information and it's not just about people's privacy but it goes beyond that...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4431s)  > ...such a very big West Indian population it goes on to a concern of what happens then when fusion centers are being used as a way for the federal government to in this case potentially by liaison from...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4489s)  > ...she attended because she is a member of that committee the fusion center was kind of glossed over so the detailed information and this is a summary of it because there's...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4496s)  > ...over so the detailed information and this is a summary of it because there's more in terms of concerns about fusion centers this was not brought up in that meeting if that was her concern and that...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4520s)  > ...received from Homeland Security this is from 2013 this you know it's just goes to show that the fusion centers do cooperate with ice in the case of North Carolina where these are success stories...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4553s)  > ...is how is ice how is the federal government taking this information and how how are the fusion fusion centers operating so for me personally based on the information that we've gotten...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4580s)  > ...concerns just want to add for the point of clarification to the audience and the viewing public that fusion centers did not come up in our discussion at the quality level public safety meeting and...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4669s)  > ...the individuals as well Thank You councilman Councilwoman winch this isn't about you know the fusion center this is about one of our employees who we sent to work on that behalf and they're...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4872s)  > ...invite the public to come out in in numbers indicating what do they think about data sharing and fusion centers and I'm so grateful for my council colleague and some others who came up...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=5000s)  > ...want to acknowledge the concerns of my council colleagues that have brought issues up regarding the notion of fusion centers and I do think that is something that we should be concerned with and...
 
     **2018-09-10 -- Court of Common Council**
 
@@ -490,32 +532,32 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 ### drone
 
 - **[2025-04-24] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY2026 Budget Hearing: FCY, S.R, & MHIS April 24th, 2025 Live Stream
-  > ...play the games, but we're going to have actual programs where they can come in and learn how to fly a drone and then race drones, which then relates to jobs down the road. Um, which relates to the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vZTMYQp2GVM&t=6512s)  _(term: drone, unreviewed)_
-
-- **[2025-04-24] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY2026 Budget Hearing: FCY, S.R, & MHIS April 24th, 2025 Live Stream
   > ...gaming. Uh it's more than just coming in and playing video games. Um there's going to be drone pilot program that goes along with it. There's podcasting. There's it's a whole um uh creation....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=vZTMYQp2GVM&t=6441s)  _(term: drone, unreviewed)_
+
+- **[2025-04-24] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY2026 Budget Hearing: FCY, S.R, & MHIS April 24th, 2025 Live Stream
+  > ...play the games, but we're going to have actual programs where they can come in and learn how to fly a drone and then race drones, which then relates to jobs down the road. Um, which relates to the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=vZTMYQp2GVM&t=6512s)  _(term: drone, unreviewed)_
 
 - **[2025-04-15] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY2026 Budget Hearing: Hartford Police Department April 15th, 2025 Live Stream
   > ...also get us out of these following cars. Whereas the suspect bails from a car, the drone can follow that person rather than um um having officers just use 20 30 officers and and surround...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=fC6p8tWhgKI&t=1859s)  _(term: drone, unreviewed)_
 
 - **[2025-04-15] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY2026 Budget Hearing: Hartford Police Department April 15th, 2025 Live Stream
-  > ...um into the general fund as the grants run out. Um, and it includes um $64,000 for a drone first responder program, which is um goes with our technology...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fC6p8tWhgKI&t=1343s)  _(term: drone, unreviewed)_
-
-- **[2025-04-15] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY2026 Budget Hearing: Hartford Police Department April 15th, 2025 Live Stream
   > ...give? Yeah, I can write it down. Okay. And then just out of curiosity, the 64,000 for the drone first responder, can you explain that to me? So, as we move in um to technology, um...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=fC6p8tWhgKI&t=1810s)  _(term: drone, unreviewed)_
 
-- **[2023-01-04] Planning, Economic Development & Housing Committee** -- City of Hartford Planning, Economic Development & Housing Committee Meeting January 4th 2023
-  > ...and option four considers the site as a future base for Aviation Technology drone and automated vehicle text testing we'll discuss the pros and cons of each of these options...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XridoFQOkiY&t=2994s)  _(term: drone, unreviewed)_
+- **[2025-04-15] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY2026 Budget Hearing: Hartford Police Department April 15th, 2025 Live Stream
+  > ...um into the general fund as the grants run out. Um, and it includes um $64,000 for a drone first responder program, which is um goes with our technology...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=fC6p8tWhgKI&t=1343s)  _(term: drone, unreviewed)_
 
 - **[2023-01-04] Planning, Economic Development & Housing Committee** -- City of Hartford Planning, Economic Development & Housing Committee Meeting January 4th 2023
   > ...airports for unmanned aircraft testing which support aeronautical research drone testing and infrastructure developments many universities including the...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=XridoFQOkiY&t=3329s)  _(term: drone, unreviewed)_
+
+- **[2023-01-04] Planning, Economic Development & Housing Committee** -- City of Hartford Planning, Economic Development & Housing Committee Meeting January 4th 2023
+  > ...and option four considers the site as a future base for Aviation Technology drone and automated vehicle text testing we'll discuss the pros and cons of each of these options...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=XridoFQOkiY&t=2994s)  _(term: drone, unreviewed)_
 
 - **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
   > ...reporting of use for civilian oversight i mean there are so reporting of use the drone policy is a good one there i mean that's every time that thing goes up it's an incident number through the faa...
@@ -597,132 +639,132 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=3gAwYRq8eAA&t=1182s)  _(term: facial_recognition, unreviewed)_
 
 - **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...to to take facial recognition based on stats that you have that they do not use facial recognition until it is federally approved thank you madam president for that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=3135s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...of identification and whereas since there's no contact required for facial recognition like there is with fingerprinting or other security...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=325s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...instilling uh public confidence um with our within our constituency on how we're using the facial recognition facial record facial recognition technology...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=3164s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...and i guess i want to know what do we if we want to be able to use facial recognition technology in a way that is effective and useful but also...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=1212s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...our within our constituency on how we're using the facial recognition facial record facial recognition technology in a way that is effective but not...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=3166s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...and councilman lebron brought this up that it is still the case that most facial recognition technology works worse...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=1187s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...frame it correctly will be great benefit and let's remember you know the facial recognition is not there to you know we're looking at incidents like...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=3019s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...uh chief may correct me from our we would hand that out to every patrol officer on the street to have a facial recognition system on their phone or anything...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2695s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...an oversight that incorporates public voices should be used regarding the use and assessment effectiveness of facial recognition technology and that there are no current uh federal guidelines...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=694s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...provide for the public the opportunity to understand where the department is in terms of its use of facial recognition technology but also the goal of ultimately...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=3152s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...having a presentation by councilman nick lebron on a resolution that he authored for facial recognition and um and also we have a uh an expert...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=128s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...the chair of the uh house committee on oversight and reform and uh if and when facial recognition technology starts being utilized public engagement should be...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=682s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...haven't done that yet just to be clear this was not we haven't made any overt moves um towards going towards facial recognition uh we do have enough technology here in the city where the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=1881s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...solvability now that investigation is propelled and launched and jump started with a name a suspect same as a facial recognition hit we have something like this we get a facial recognition we get...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2226s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
   > ...um and again from the new york um civil liberties union uh in terms of privacy there's less concern with facial recognition technology is used for limited purposes such as...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=635s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...facial recognition detroit is a good example of really good um really good examples of using facial recognition and a couple really bad ones where they you know they made an...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2040s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...well give me one second to read the resolutions okay so uh whereas facial recognition is a biometric technology that uses distinguished distinguishable...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=281s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...to come and um discuss this item and we did not get any uh contact back but um facial recognition technology is not 100 accurate while it is an algorithm issue...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=550s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...includes investigation includes evidence and that part of it has to be accompanied with facial recognition and i think i and the chief and the...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=1437s)  _(term: facial_recognition, unreviewed)_
 
 - **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
   > ...offers automatic and seamless verification and whereas while the auger algorithms that steer the facial recognition technology are effective to different degrees it is...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=338s)  _(term: facial_recognition, unreviewed)_
 
 - **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...of a residential burglary with a really clean shot at that face um this is an example where facial recognition could help propel this investigation...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2140s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...make sure that we fall in line with the state and federal government on what their protocols are as far as facial recognition so this is what we're having yes yeah and i...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=1734s)  _(term: facial_recognition, unreviewed)_
+  > ...frame it correctly will be great benefit and let's remember you know the facial recognition is not there to you know we're looking at incidents like...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=3019s)  _(term: facial_recognition, unreviewed)_
 
 - **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
   > ...is it to kind of in a way um give some input on the policy to to hpd or is it to to take facial recognition based on stats that you have that they do not use facial recognition until it is federally...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=3130s)  _(term: facial_recognition, unreviewed)_
 
 - **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...the transparency that we've had with all of our technology would be the same with facial recognition so i don't see any problem with with with that i mean...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2925s)  _(term: facial_recognition, unreviewed)_
+  > ...facial recognition detroit is a good example of really good um really good examples of using facial recognition and a couple really bad ones where they you know they made an...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2040s)  _(term: facial_recognition, unreviewed)_
 
 - **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...the first ones um you know to be you know dip on our toes and fit in the facial recognition world as a law enforcement agency if this is something that you know that we were looking...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2748s)  _(term: facial_recognition, unreviewed)_
+  > ...to to take facial recognition based on stats that you have that they do not use facial recognition until it is federally approved thank you madam president for that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=3135s)  _(term: facial_recognition, unreviewed)_
 
 - **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...checks and balances would apply to getting a facial recognition candidate photo back on a search so again uh...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2528s)  _(term: facial_recognition, unreviewed)_
+  > ...provide for the public the opportunity to understand where the department is in terms of its use of facial recognition technology but also the goal of ultimately...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=3152s)  _(term: facial_recognition, unreviewed)_
 
 - **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...again here at big letters i highly blue the information in the response to this facial recognition request is provided as an investigative investigative lead only it is not to be considered as a...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2368s)  _(term: facial_recognition, unreviewed)_
+  > ...instilling uh public confidence um with our within our constituency on how we're using the facial recognition facial record facial recognition technology...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=3164s)  _(term: facial_recognition, unreviewed)_
 
 - **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...investigative leave the analysts collecting this facial recognition search has already met the legal requirements to investigate the subject...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2335s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...and the doj actually did a privacy impact assessment on this unit to see how they were using facial recognition um was it governed by policy what was the storage and retention like who has...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2259s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
-  > ...with a name a suspect same as a facial recognition hit we have something like this we get a facial recognition we get a hit we get a name we get a mug shot it just is going to launch an investigation...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2230s)  _(term: facial_recognition, unreviewed)_
+  > ...haven't done that yet just to be clear this was not we haven't made any overt moves um towards going towards facial recognition uh we do have enough technology here in the city where the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=1881s)  _(term: facial_recognition, unreviewed)_
 
 - **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
   > ...and to address uh councilman mitchum about the misidentification this is actually the exact facial recognition hit on this would be the exact same as when we showed for a homicide...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2195s)  _(term: facial_recognition, unreviewed)_
 
 - **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...uh chief may correct me from our we would hand that out to every patrol officer on the street to have a facial recognition system on their phone or anything...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2695s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...make sure that we fall in line with the state and federal government on what their protocols are as far as facial recognition so this is what we're having yes yeah and i...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=1734s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...our within our constituency on how we're using the facial recognition facial record facial recognition technology in a way that is effective but not...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=3166s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...includes investigation includes evidence and that part of it has to be accompanied with facial recognition and i think i and the chief and the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=1437s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...with a name a suspect same as a facial recognition hit we have something like this we get a facial recognition we get a hit we get a name we get a mug shot it just is going to launch an investigation...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2230s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...solvability now that investigation is propelled and launched and jump started with a name a suspect same as a facial recognition hit we have something like this we get a facial recognition we get...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2226s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...and i guess i want to know what do we if we want to be able to use facial recognition technology in a way that is effective and useful but also...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=1212s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...and the doj actually did a privacy impact assessment on this unit to see how they were using facial recognition um was it governed by policy what was the storage and retention like who has...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2259s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...having a presentation by councilman nick lebron on a resolution that he authored for facial recognition and um and also we have a uh an expert...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=128s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...and councilman lebron brought this up that it is still the case that most facial recognition technology works worse...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=1187s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
   > ...got him this would have uh this was a really clean shot from a store camera where facial recognition came into play same with here this was a uh burglaries...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2161s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...an oversight that incorporates public voices should be used regarding the use and assessment effectiveness of facial recognition technology and that there are no current uh federal guidelines...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=694s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...investigative leave the analysts collecting this facial recognition search has already met the legal requirements to investigate the subject...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2335s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...the chair of the uh house committee on oversight and reform and uh if and when facial recognition technology starts being utilized public engagement should be...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=682s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...the first ones um you know to be you know dip on our toes and fit in the facial recognition world as a law enforcement agency if this is something that you know that we were looking...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2748s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...well give me one second to read the resolutions okay so uh whereas facial recognition is a biometric technology that uses distinguished distinguishable...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=281s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...again here at big letters i highly blue the information in the response to this facial recognition request is provided as an investigative investigative lead only it is not to be considered as a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2368s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...of a residential burglary with a really clean shot at that face um this is an example where facial recognition could help propel this investigation...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2140s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...to come and um discuss this item and we did not get any uh contact back but um facial recognition technology is not 100 accurate while it is an algorithm issue...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=550s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...of identification and whereas since there's no contact required for facial recognition like there is with fingerprinting or other security...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=325s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...checks and balances would apply to getting a facial recognition candidate photo back on a search so again uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2528s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
+  > ...the transparency that we've had with all of our technology would be the same with facial recognition so i don't see any problem with with with that i mean...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=2925s)  _(term: facial_recognition, unreviewed)_
 
 - **[2022-08-16] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting August 16, 2022
   > ...floating above their head and their date of birth and it's recognizing people facial recognition doesn't really recognize people it just matches a picture of someone to a known...
@@ -853,12 +895,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=DSH_1SC84B0&t=317s)  _(term: facial_recognition, unreviewed)_
 
 - **[2022-08-08] Court of Common Council** -- City of Hartford Council Meeting August 08, 2022
-  > ...and item 5.4 quality life and public safety committee communication concerning a resolution regarding facial recognition technology has been made and properly second are...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=O4NiBAT_k28&t=637s)  _(term: facial_recognition, unreviewed)_
-
-- **[2022-08-08] Court of Common Council** -- City of Hartford Council Meeting August 08, 2022
   > ...item 5.3 quality of life and public safety committee with a company resolution regarding facial recognition technology and item 5.4 quality life and public...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=O4NiBAT_k28&t=630s)  _(term: facial_recognition, unreviewed)_
+
+- **[2022-08-08] Court of Common Council** -- City of Hartford Council Meeting August 08, 2022
+  > ...and item 5.4 quality life and public safety committee communication concerning a resolution regarding facial recognition technology has been made and properly second are...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=O4NiBAT_k28&t=637s)  _(term: facial_recognition, unreviewed)_
 
 - **[2022-07-19] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting July 19, 2022
   > ...is a resolution introduced by councilman nick lebron uh regarding facial recognition technology which was item six on the june 13 2022 agenda uh since he...
@@ -876,8 +918,8 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 ### gunshot_detection
 
 - **[2024-04-16] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY 24-25 Budget Hearing April 16th, 2024 Live Stream
-  > ...mean they weren't they were spending all this money and they weren't responding to the shotspotter activations which I mean I guess from a budgetary perspective you could say that that...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghcBvp8Z57A&t=7305s)  _(term: gunshot_detection, unreviewed)_
+  > ...data that would show how many shots fired calls were called in pre-shot spotter vers and even with shotspotter uh we have data that shows you know of the you know 100% of shot spotter...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghcBvp8Z57A&t=7407s)  _(term: gunshot_detection, unreviewed)_
 
 - **[2024-04-16] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY 24-25 Budget Hearing April 16th, 2024 Live Stream
   > ...find this in the budget but I didn't on short notice what do we spend what's in the budget this year for shotspotter like the what we pay to the company do we have that close to...
@@ -888,20 +930,20 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghcBvp8Z57A&t=3350s)  _(term: gunshot_detection, unreviewed)_
 
 - **[2024-04-16] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY 24-25 Budget Hearing April 16th, 2024 Live Stream
-  > ...what exactly does that mean so as I you know one of the one of the Technologies I mentioned here was shotspotter so that allows us to we found out when we went to shotspotter that only about 18 to 20%...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghcBvp8Z57A&t=3345s)  _(term: gunshot_detection, unreviewed)_
+  > ...officers responded to a shot spotter activation U you know and somebody was shot um which is not shotspotter's fault I think that's an officer training issue um what I can tell you we don't have any...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghcBvp8Z57A&t=7319s)  _(term: gunshot_detection, unreviewed)_
 
 - **[2024-04-16] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY 24-25 Budget Hearing April 16th, 2024 Live Stream
   > ...cameras now uh and from a shooting perspective a lot of that is directed by shotspotter um you know as far as a cost benefit analysis we haven't done that uh data Beyond um you know citizen caller...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghcBvp8Z57A&t=7450s)  _(term: gunshot_detection, unreviewed)_
 
 - **[2024-04-16] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY 24-25 Budget Hearing April 16th, 2024 Live Stream
-  > ...data that would show how many shots fired calls were called in pre-shot spotter vers and even with shotspotter uh we have data that shows you know of the you know 100% of shot spotter...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghcBvp8Z57A&t=7407s)  _(term: gunshot_detection, unreviewed)_
+  > ...mean they weren't they were spending all this money and they weren't responding to the shotspotter activations which I mean I guess from a budgetary perspective you could say that that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghcBvp8Z57A&t=7305s)  _(term: gunshot_detection, unreviewed)_
 
 - **[2024-04-16] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY 24-25 Budget Hearing April 16th, 2024 Live Stream
-  > ...officers responded to a shot spotter activation U you know and somebody was shot um which is not shotspotter's fault I think that's an officer training issue um what I can tell you we don't have any...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghcBvp8Z57A&t=7319s)  _(term: gunshot_detection, unreviewed)_
+  > ...what exactly does that mean so as I you know one of the one of the Technologies I mentioned here was shotspotter so that allows us to we found out when we went to shotspotter that only about 18 to 20%...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghcBvp8Z57A&t=3345s)  _(term: gunshot_detection, unreviewed)_
 
 - **[2019-05-07] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY 2019-2020 Recommended Budget Hearing May 07, 2019
   > ...overall budget yeah give or take yeah alright do you support the help to support the ShotSpotter infrastructure were HPD yes yeah what analysis do you run for them we basically look at it at...
@@ -930,6 +972,14 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### rtcc
 
+- **[2026-08-20] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life & Public Safety Committee Meeting August 20th, 2026
+  > ...across Connecticut. The intel center in general in the state of Connecticut, it's a primary uh fusion center. It brings together local, state, and federal partners, analyzes intelligence...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=AJrW1ickOb4&t=691s)  _(term: fusion_center, unreviewed)_
+
+- **[2025-06-13] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life & Public Safety Committee Meeting
+  > ...of arrest, uh, 20 of them were 17 and under uh, for for age group. So far this year, our capital city command center has processed over 4,700 requests and uh which has obviously...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=16mHI-gZG30&t=1140s)  _(term: rtcc, unreviewed)_
+
 - **[2024-10-10] Quality of Life and Public Safety Committee** -- City of Hartford Quality of Life and Public Safety Committee Meeting Oct 10, 2024
   > ...arrests uh they recovered 214 stolen vehicles in 2024 thus far and the uh realtime crime Center uh the capital city Command Center rc4 has processed 7,000 requests so those requests come...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rxYHGgAFwfc&t=2971s)  _(term: rtcc, unreviewed)_
@@ -939,12 +989,132 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rxYHGgAFwfc&t=2927s)  _(term: rtcc, unreviewed)_
 
 - **[2024-04-16] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY 24-25 Budget Hearing April 16th, 2024 Live Stream
+  > ...um what I can tell you we don't have any uh you know analysis our crime our real-time crime Center has been doing analysis on impacts of cameras um you know our researcher and uh Sergeant...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghcBvp8Z57A&t=7330s)  _(term: rtcc, unreviewed)_
+
+- **[2024-04-16] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY 24-25 Budget Hearing April 16th, 2024 Live Stream
   > ...um that are experimental so some of these companies because we're so advanced in the real-time crime Center world are coming to us to kind of beta test some of these cameras um and we...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghcBvp8Z57A&t=5798s)  _(term: rtcc, unreviewed)_
 
-- **[2024-04-16] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford FY 24-25 Budget Hearing April 16th, 2024 Live Stream
-  > ...um what I can tell you we don't have any uh you know analysis our crime our real-time crime Center has been doing analysis on impacts of cameras um you know our researcher and uh Sergeant...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=ghcBvp8Z57A&t=7330s)  _(term: rtcc, unreviewed)_
+- **[2023-04-12] Operation, Management, Budget & Government Accountability Committee** -- City of Hartford Budget Hearing New April 12th 2023
+  > ...Intervention Program Grant the two million Grant there is a program called fusis that I can share more information about at Public Safety or Offline that encourages Atlanta Georgia uses this...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9Se-JDSudJA&t=13029s)  _(term: rtcc, unreviewed)_
+
+- **[2018-09-26] Committee of the Whole** -- City of Hartford Committee of the Whole Meeting September 26, 2018
+  > ...certain council members voted to approve reimbursement of sixty thousand dollars for well we going to the fusion centers can you explain a little bit more about how the fusion centers operate and and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5745s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-26] Committee of the Whole** -- City of Hartford Committee of the Whole Meeting September 26, 2018
+  > ...state is mandated by federal law to have a huge infusion center and basically what a fusion center is is an intelligence gathering unit that protects the state that disseminates...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5799s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-26] Committee of the Whole** -- City of Hartford Committee of the Whole Meeting September 26, 2018
+  > ...informational dissemination unit by they're not allowed to actually investigate I oversaw the state fusion center of my time with the State Police and I can tell you that the folks who...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5821s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-26] Committee of the Whole** -- City of Hartford Committee of the Whole Meeting September 26, 2018
+  > ...for well we going to the fusion centers can you explain a little bit more about how the fusion centers operate and and what the role is of the Hartford police officer who's assigned the liaison to a...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5752s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-26] Committee of the Whole** -- City of Hartford Committee of the Whole Meeting September 26, 2018
+  > ...findings but bringing it closer to home we've personally seen activists who've been targeted for a fusion center activity but I do have another question [Music]...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5868s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-26] Committee of the Whole** -- City of Hartford Committee of the Whole Meeting September 26, 2018
+  > ...center of my time with the State Police and I can tell you that the folks who are signed to the fusion center do not investigate all they do is gather information and disseminate it to law...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5830s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-26] Committee of the Whole** -- City of Hartford Committee of the Whole Meeting September 26, 2018
+  > ...there at the federal level there have been arrests made against undocumented individuals because of fusion Center findings but bringing it closer to home we've personally seen activists who've...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5856s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-26] Committee of the Whole** -- City of Hartford Committee of the Whole Meeting September 26, 2018
+  > ...what the role is of the Hartford police officer who's assigned the liaison to a fusion center and what impact does that have on the undocumented community in Hartford and as well as activists to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=LUD2hoOnWxw&t=5762s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...concerns just want to add for the point of clarification to the audience and the viewing public that fusion centers did not come up in our discussion at the quality level public safety meeting and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4580s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...invite the public to come out in in numbers indicating what do they think about data sharing and fusion centers and I'm so grateful for my council colleague and some others who came up...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4872s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...the Division of Emergency Management and homeland security and State Police and so fusion centers started off for those who are not aware they started off because of 9/11 right so it was a policy...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4192s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...particular grant on item number 26 so for those who are unaware there is there are fusion centers and fusion centers is comprised of state local and federal partners that work together along with...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4176s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...the individuals as well Thank You councilman Councilwoman winch this isn't about you know the fusion center this is about one of our employees who we sent to work on that behalf and they're...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4669s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...prevent terrorism and so whether that's external terrorism internal terrorism the whole point of the fusion center and with that to create these intelligence centers to have a better way to track...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4213s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...over so the detailed information and this is a summary of it because there's more in terms of concerns about fusion centers this was not brought up in that meeting if that was her concern and that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4496s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...handed out okay so each one of the council members you've received more information about fusion centers the first page is right on the ACLU website so concerns about fusion centers among...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4272s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...information about fusion centers the first page is right on the ACLU website so concerns about fusion centers among the concerns is that at a fusion center there's lack of transparency in terms of...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4278s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...first page is right on the ACLU website so concerns about fusion centers among the concerns is that at a fusion center there's lack of transparency in terms of what data is being retained what data is...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4283s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...being extracted and for what purposes so it as ACLU highlights here the private sector can participate so some fusion centers incorporate have incorporated private sector corporations into the...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4302s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...private corporations just to give you an example there's also data mining that happens at fusion center centers so federal fusion center guidelines encourage wholesale data collection and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4329s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...example there's also data mining that happens at fusion center centers so federal fusion center guidelines encourage wholesale data collection and data manipulation process that also...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4331s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...apply and which agency is awesome Ultima we responsible for the activities of the fusion center participants all of that coupled in with the fact that not just are we talking about the undocumented...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4359s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...the lines of communication and and the the data or the information that we receive is very limited about fusion centers what's to say that an activist is not targeted for posting an item on...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4389s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...want to acknowledge the concerns of my council colleagues that have brought issues up regarding the notion of fusion centers and I do think that is something that we should be concerned with and...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=5000s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...what-have-you and so a the line gets very blurry about how in Hartford our fusion Center is carrying out that information and it's not just about people's privacy but it goes beyond that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4409s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...such a very big West Indian population it goes on to a concern of what happens then when fusion centers are being used as a way for the federal government to in this case potentially by liaison from...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4431s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...she attended because she is a member of that committee the fusion center was kind of glossed over so the detailed information and this is a summary of it because there's...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4489s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...received from Homeland Security this is from 2013 this you know it's just goes to show that the fusion centers do cooperate with ice in the case of North Carolina where these are success stories...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4520s)  _(term: fusion_center, unreviewed)_
+
+- **[2018-09-24] Court of Common Council** -- City of Hartford Council Meeting September 24, 2018
+  > ...is how is ice how is the federal government taking this information and how how are the fusion fusion centers operating so for me personally based on the information that we've gotten...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=j1-VvJ7pG1A&t=4553s)  _(term: fusion_center, unreviewed)_
 
 
 ### surveillance_general
@@ -1100,8 +1270,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| hpa_tv | streams | 2026-09-25 15:35:21.087125 | 252 |
-| hpa_tv | videos | 2026-09-25 15:35:17.001941 | 989 |
+| hpa_tv | streams | 2026-09-27 14:33:25.025017 | 252 |
+| hpa_tv | videos | 2026-09-27 14:33:20.996965 | 989 |
 
 
 ## Registered meeting bodies
@@ -1216,5 +1386,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T16:58:43 from Hartford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:27:35 from Hartford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

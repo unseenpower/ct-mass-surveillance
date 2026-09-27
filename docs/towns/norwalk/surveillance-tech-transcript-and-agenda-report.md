@@ -1,9 +1,9 @@
 # Surveillance-tech report: Norwalk
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -86,7 +86,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 97 meetings surfaced a finding (97 dated, spanning 2020-09-24 to 2026-09-23; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+**Since 2026-08-28** (through 2026-09-27, when this report was generated):
 
 ### 2026-09-23 -- Board of Education
 
@@ -2447,10 +2447,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| city_of_norwalk | streams | 2026-09-25 15:29:29.958108 | 660 |
-| city_of_norwalk | videos | 2026-09-25 15:29:20.493568 | 2753 |
-| norwalk_public_schools | streams | 2026-09-25 15:51:50.856303 | 66 |
-| norwalk_public_schools | videos | 2026-09-25 15:51:49.325691 | 876 |
+| city_of_norwalk | streams | 2026-09-27 14:31:17.945278 | 660 |
+| city_of_norwalk | videos | 2026-09-27 14:31:08.401151 | 2753 |
+| norwalk_public_schools | streams | 2026-09-27 14:38:49.714671 | 66 |
+| norwalk_public_schools | videos | 2026-09-27 14:38:48.227254 | 876 |
 
 
 ## Registered meeting bodies
@@ -2568,5 +2568,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:05:46 from Norwalk's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:40:58 from Norwalk's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

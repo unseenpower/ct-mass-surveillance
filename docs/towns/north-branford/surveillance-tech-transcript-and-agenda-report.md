@@ -1,9 +1,9 @@
 # Surveillance-tech report: North Branford
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,7 +20,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">76</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 54 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2017–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2017-10-03 → 2026-09-23</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">6</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Facial recognition, Predictive policing, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">78%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">675 of 870 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">78%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">677 of 870 meetings</span></a>
 <a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">2</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
@@ -66,7 +66,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 54 meetings surfaced a finding (54 dated, spanning 2017-10-03 to 2026-09-23; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+**Since 2026-08-28** (through 2026-09-27, when this report was generated):
 
 ### 2026-09-23 -- Conservation & Inland Wetlands & Watercourses Agency
 
@@ -935,7 +935,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 870 (fetched: 674, no captions: 21)
+- Videos registered: 870 (fetched: 676, no captions: 22)
 - Date range covered: 2011-12-13 to 2026-09-27 (all 870 videos dated)
 
 
@@ -950,8 +950,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| totoket_tv | streams | 2026-09-25 15:07:12.892227 | 132 |
-| totoket_tv | videos | 2026-09-25 15:07:10.204304 | 973 |
+| totoket_tv | streams | 2026-09-27 14:19:33.234449 | 132 |
+| totoket_tv | videos | 2026-09-27 14:19:30.595076 | 973 |
 
 
 ## Registered meeting bodies
@@ -1005,10 +1005,11 @@ _Everything below describes the corpus and its limits, rather than what was foun
 ## Gaps and caveats
 
 
-### Videos with no captions available (21 shown, max 25)
+### Videos with no captions available (22 shown, max 25)
 
 | title | upload_date |
 | --- | --- |
+| North Branford Conservation & Inland Wetlands & Watercourses 9/23/26 | 2026-09-23 |
 | Town Council Budget Workshop 03/10/2026 | 2026-03-10 |
 | Town Council Budget Workshop 03/03/2026 | 2026-03-03 |
 | North Branford Town Council 09/17/2024 | 2024-09-17 |
@@ -1020,8 +1021,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | North Branford Town Council Meeting - 09/04/2018 | 2018-09-04 |
 | North Branford Planning & Zoning Meeting - 07/12/2018 | 2018-07-12 |
 | North Branford Planning & Zoning Meeting - 04/05/2018 | 2018-04-05 |
-| North Branford Planning & Zoning Meeting - 04/20/2017 PT.1 | 2017-04-20 |
 | North Branford Planning & Zoning Meeting - 04/20/2017 PT.2 | 2017-04-20 |
+| North Branford Planning & Zoning Meeting - 04/20/2017 PT.1 | 2017-04-20 |
 | North Branford Planning and Zoning Special Meeting - 04/06/2017 | 2017-04-06 |
 | North Branford Town Council - 04/04/2017 | 2017-04-04 |
 | North Branford Town Council  Budget Meeting - 04/04/2017 | 2017-04-04 |
@@ -1071,5 +1072,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:04:44 from North Branford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:39:47 from North Branford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

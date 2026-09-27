@@ -1,9 +1,9 @@
 # Surveillance-tech report: New Milford
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -64,7 +64,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 25 meetings surfaced a finding (25 dated, spanning 2020-02-28 to 2026-09-14; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+**Since 2026-08-28** (through 2026-09-27, when this report was generated):
 
 ### 2026-09-14 -- Town Council
 
@@ -728,8 +728,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| town_of_new_milford | streams | 2026-09-25 15:28:19.776844 | 267 |
-| town_of_new_milford | videos | 2026-09-25 15:28:15.613345 | 234 |
+| town_of_new_milford | streams | 2026-09-27 14:30:31.811005 | 267 |
+| town_of_new_milford | videos | 2026-09-27 14:30:27.517828 | 234 |
 
 
 ## Registered meeting bodies
@@ -825,5 +825,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:03:56 from New Milford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:38:52 from New Milford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

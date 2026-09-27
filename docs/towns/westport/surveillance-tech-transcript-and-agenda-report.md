@@ -1,9 +1,9 @@
 # Surveillance-tech report: Westport
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -86,7 +86,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 42 meetings surfaced a finding (42 dated, spanning 2023-05-16 to 2026-08-24; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-24.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2026-08-24.*
 
 ??? note "Earlier meetings (42)"
 
@@ -950,8 +950,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| westport_gov_tv | streams | 2026-09-25 15:14:18.503393 | 369 |
-| westport_gov_tv | videos | 2026-09-25 15:14:13.150665 | 791 |
+| westport_gov_tv | streams | 2026-09-27 14:25:49.019816 | 369 |
+| westport_gov_tv | videos | 2026-09-27 14:25:43.681195 | 791 |
 
 
 ## Registered meeting bodies
@@ -1065,5 +1065,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:11:44 from Westport's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T16:09:05 from Westport's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

@@ -1,9 +1,9 @@
 # Surveillance-tech report: Somers
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -62,7 +62,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 21 meetings surfaced a finding (21 dated, spanning 2021-09-02 to 2026-08-18; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-18.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2026-08-18.*
 
 ??? note "Earlier meetings (21)"
 
@@ -625,7 +625,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| somers_camera | streams | 2026-09-25 15:14:51.792459 | 640 |
+| somers_camera | streams | 2026-09-27 14:25:58.134701 | 640 |
 
 
 ## Registered meeting bodies
@@ -744,5 +744,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:08:41 from Somers's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:47:53 from Somers's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

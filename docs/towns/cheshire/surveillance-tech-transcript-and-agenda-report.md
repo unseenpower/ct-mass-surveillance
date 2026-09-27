@@ -1,9 +1,9 @@
 # Surveillance-tech report: Cheshire
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -21,7 +21,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">2022–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2022-03-29 → 2026-08-04</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">6</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Cell-site simulators, Drones, Facial recognition, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/cheshire-alpr-searches.html"><span class="gc-big">16,600</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Cheshire police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">63%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">281 of 443 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">64%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">282 of 444 meetings</span></a>
 </div>
 
 **Still incomplete:** 162 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
@@ -87,7 +87,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 26 meetings surfaced a finding (26 dated, spanning 2022-03-29 to 2026-08-04; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-04.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2026-08-04.*
 
 ??? note "Earlier meetings (26)"
 
@@ -874,8 +874,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 7
-- Videos registered: 443 (fetched: 281, no captions: 1)
-- Date range covered: 2018-03-14 to 2026-09-22 (all 443 videos dated)
+- Videos registered: 444 (fetched: 282, no captions: 1)
+- Date range covered: 2018-03-14 to 2026-09-24 (all 444 videos dated)
 
 
 ### Channels
@@ -889,8 +889,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| cheshire_ch14 | streams | 2026-09-25 15:24:47.269388 | 538 |
-| cheshire_ch14 | videos | 2026-09-25 15:24:39.379584 | 88 |
+| cheshire_ch14 | streams | 2026-09-27 14:29:40.064723 | 538 |
+| cheshire_ch14 | videos | 2026-09-27 14:29:32.100446 | 89 |
 
 
 ## Registered meeting bodies
@@ -899,7 +899,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | --- | --- | --- | --- |
 | Town Council | council | True | 231 |
 | Energy Commission | other | True | 20 |
-| Next Generation School Building Committee | other | True | 75 |
+| Next Generation School Building Committee | other | True | 76 |
 | Planning and Zoning Commission | other | True | 109 |
 | Retirement Board | other | True | 6 |
 | Water Pollution Control Authority | other | True | 2 |
@@ -980,5 +980,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T16:51:25 from Cheshire's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:12:33 from Cheshire's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

@@ -1,9 +1,9 @@
 # Surveillance-tech report: Ledyard
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -25,6 +25,8 @@
 </div>
 
 **Still incomplete:** 770 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+
+**Meetings in progress:** we are in the process of adding Ledyard's public meetings. Ledyard's meetings are not on YouTube, so each recording has to be downloaded and transcribed from its audio, which takes a little longer than towns whose meetings are captioned on YouTube. More meetings will appear here as they are transcribed.
 
 This report collects every mention of surveillance technology found in **Ledyard**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -85,7 +87,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 15 meetings surfaced a finding (15 dated, spanning 2012-08-22 to 2026-01-12; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-01-12.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2026-01-12.*
 
 ??? note "Earlier meetings (15)"
 
@@ -482,8 +484,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| ledyard_ct | streams | 2026-09-25 15:46:30.039839 | 18 |
-| ledyard_ct | videos | 2026-09-25 15:46:29.133873 | 562 |
+| ledyard_ct | streams | 2026-09-27 14:37:40.688816 | 18 |
+| ledyard_ct | videos | 2026-09-27 14:37:39.797259 | 562 |
 | ledyard_granicus | Default View - Granicus Content | 2026-09-06 14:08:55.398671 | 947 |
 
 
@@ -609,5 +611,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T16:59:40 from Ledyard's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T16:27:59 from Ledyard's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

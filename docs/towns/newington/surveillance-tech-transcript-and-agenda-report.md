@@ -1,9 +1,9 @@
 # Surveillance-tech report: Newington
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -88,7 +88,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 37 meetings surfaced a finding (37 dated, spanning 2021-10-20 to 2026-09-08; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+**Since 2026-08-28** (through 2026-09-27, when this report was generated):
 
 ### 2026-09-08 -- Mayor & Town Council
 
@@ -952,8 +952,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| newington_ct | streams | 2026-09-25 15:20:03.714689 | 1131 |
-| newington_ct | videos | 2026-09-25 15:19:47.900988 | 116 |
+| newington_ct | streams | 2026-09-27 14:27:18.489276 | 1131 |
+| newington_ct | videos | 2026-09-27 14:27:02.839477 | 116 |
 
 
 ## Registered meeting bodies
@@ -1080,5 +1080,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:04:14 from Newington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:39:12 from Newington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

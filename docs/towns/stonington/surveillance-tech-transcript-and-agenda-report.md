@@ -1,9 +1,9 @@
 # Surveillance-tech report: Stonington
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -86,7 +86,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 15 meetings surfaced a finding (15 dated, spanning 2020-05-07 to 2026-09-09; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+**Since 2026-08-28** (through 2026-09-27, when this report was generated):
 
 ### 2026-09-09 -- Board of Selectmen
 
@@ -94,14 +94,14 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=AA1Jnoz6nOg&t=54s)  > ...>> Jessica Morrisy Stonington. Uh 43 years. I still want to know what your official stance is regarding data centers, flock, and ICE. >> We are going to cover all those things...
 
-### 2026-08-26 -- Board of Selectmen
+??? note "Earlier meetings (14)"
 
-**Board of Selectmen - 08.26.26** _(topics: alpr)_
+    **2026-08-26 -- Board of Selectmen**
 
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=jS25JLlbdHg&t=1095s)  > ...question, what is the official stance from the town of Stonington on data centers, flock, you name it. I'd like to know what your stance is. I understand that flock has...
-- `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=jS25JLlbdHg&t=1100s)  > ...centers, flock, you name it. I'd like to know what your stance is. I understand that flock has been incorporated in the town of Stonington for a couple years now and...
+    **Board of Selectmen - 08.26.26** _(topics: alpr)_
 
-??? note "Earlier meetings (13)"
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=jS25JLlbdHg&t=1095s)  > ...question, what is the official stance from the town of Stonington on data centers, flock, you name it. I'd like to know what your stance is. I understand that flock has...
+    - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=jS25JLlbdHg&t=1100s)  > ...centers, flock, you name it. I'd like to know what your stance is. I understand that flock has been incorporated in the town of Stonington for a couple years now and...
 
     **2026-03-30 -- Board of Finance**
 
@@ -505,8 +505,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| stonington_ct | streams | 2026-09-25 15:59:20.321106 | 16 |
-| stonington_ct | videos | 2026-09-25 15:59:19.452241 | 481 |
+| stonington_ct | streams | 2026-09-27 14:40:42.915820 | 16 |
+| stonington_ct | videos | 2026-09-27 14:40:41.964337 | 481 |
 
 
 ## Registered meeting bodies
@@ -614,5 +614,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:10:02 from Stonington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:53:16 from Stonington's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

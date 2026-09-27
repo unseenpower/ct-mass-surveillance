@@ -1,9 +1,9 @@
 # Surveillance-tech report: Griswold
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -61,7 +61,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 2 meetings surfaced a finding (2 dated, spanning 2024-09-25 to 2025-11-26; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2025-11-26.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2025-11-26.*
 
 ??? note "Earlier meetings (2)"
 
@@ -326,7 +326,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| griswold_ct | streams | 2026-09-25 15:09:07.265019 | 152 |
+| griswold_ct | streams | 2026-09-27 14:19:03.431159 | 152 |
 
 
 ## Registered meeting bodies
@@ -422,5 +422,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T16:56:57 from Griswold's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:24:10 from Griswold's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 
