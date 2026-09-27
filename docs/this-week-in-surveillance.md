@@ -1,15 +1,15 @@
 # This Week in Surveillance — Connecticut
 
-_Last updated 25 September 2026 at 5:20 PM EDT. Covering the 7 days to 25 September 2026._
+_Last updated 27 September 2026 at 7:36 PM EDT. Covering the 7 days to 27 September 2026._
 
 ## Headlines
 
-- **[Meetings held in the last 7 days](#meetings-held-in-the-last-7-days)** — 69 mention(s) across 13 town(s) — South Windsor, West Hartford, North Branford
+- **[Meetings held in the last 7 days](#meetings-held-in-the-last-7-days)** — 70 mention(s) across 14 town(s) — South Windsor, West Hartford, North Branford
 - **[Additional towns covered in the tracker this week](#additional-towns-covered-in-the-tracker-this-week)** — 3 town(s) entered the tracker
-- **[New signal: topics appearing for the first time in towns already being watched](#new-signal-topics-appearing-for-the-first-time-in-towns-already-being-watched)** — 6 town/topic pairing(s) — Andover (Drones), Bristol (Gunshot detection)
-- **[In the news](#in-the-news)** — no new items; most recent sweep on file ran 2026-08-23
-- **[Coming up](#coming-up)** — 12 scheduled meeting(s)
-- **[Volume surfaced this week, by topic](#volume-surfaced-this-week-by-topic)** — 232 mentions across 10 topics — ALPR / Flock 88, Drones 84, General surveillance 32
+- **[New signal: topics appearing for the first time in towns already being watched](#new-signal-topics-appearing-for-the-first-time-in-towns-already-being-watched)** — 9 town/topic pairing(s) — Andover (Drones), Bristol (Predictive policing)
+- **[In the news](#in-the-news)** — 93 item(s) added by this week's sweep; latest: Bristol — Official notice schedules an October 6 public hearing on amendments to Bristol Code Chapter 14, Article IV…
+- **[Coming up](#coming-up)** — 4 confirmed agenda item(s); 12 scheduled meeting(s)
+- **[Volume surfaced this week, by topic](#volume-surfaced-this-week-by-topic)** — 321 mentions across 9 topics — Real-time crime centres 122, Drones 81, ALPR / Flock 78
 
 
 > **Unreviewed keyword matches, not verified claims.** Every item below is a place in the public record where a search term appeared in a meeting's auto-generated captions. Keywords are ambiguous and auto-captions mis-transcribe. Follow the timestamped link and listen before citing anything.
@@ -19,9 +19,9 @@ _Last updated 25 September 2026 at 5:20 PM EDT. Covering the 7 days to 25 Septem
 
 ## Meetings held in the last 7 days
 
-_157 mentions newly surfaced in this window, from 4,433 meeting transcripts added across 138 keyword scans._
+_274 mentions newly surfaced in this window, from 4,515 meeting transcripts added across 150 keyword scans._
 
-_69 mention(s) across 13 town(s) — the genuinely current slice._
+_70 mention(s) across 14 town(s) — the genuinely current slice._
 
 
 ### [South Windsor](towns/south-windsor/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
@@ -49,9 +49,9 @@ _69 mention(s) across 13 town(s) — the genuinely current slice._
 
 ### [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md) — ALPR / Flock
 
-- **[2026-09-22] Town Council** — Town Council Minutes - 2026-09-22
-  > …or Cantor, Councilors Harris, Lazarus, Lyons, McGinnis, Deputy Mayor Polun, Walters, Wang and Wenograd 2. Communications A. Cory Manento, [address redacted], addressing the Council on the Town's use of ALPR Cameras Cory Manento addressed the Council on the Town's use of ALPR Cameras 3. Adjournment Without Objection, Mo…
-  [Open document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7585,plainText=false))  _(agenda/minutes · term: `alpr_flock`, 7 matches in this stretch)_
+- **[2026-09-22] Town Council** — Town Council Agenda - 2026-09-22
+  > …tive: Comcast Channel 5 and Frontier TV Channel 6098, YouTube as well as www.whctv.org 1. Call to Order 2. Communications A. Cory Manento, [address redacted], addressing the Council on the Town's use of ALPR Cameras 3. Adjournment Anyone requiring auxiliary aid or service for effective communication or modification of …
+  [Open document ▸](https://westhartfordct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7563,plainText=false))  _(agenda/minutes · term: `alpr_flock`, 7 matches in this stretch)_
 
 - **[2026-09-22] Town Council** — Town Council Meeting of September 22, 2026
   > …these cameras only read license plates and that's all they're doing. But in fact on Flock's own website um they say that their existing infrastructure collects speed data.…
@@ -107,6 +107,13 @@ _69 mention(s) across 13 town(s) — the genuinely current slice._
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=4CDN3VRCDUI&t=3695s)  _(term: `alpr_flock`)_
 
 
+### State of Connecticut — ALPR / Flock
+
+- **[2026-09-24] Police Officer Standards and Training Council** — Agenda -- agenda-92426.pdf
+  > …amily Violence. [address redacted], Meriden Connecticut 06450 – (203) 427-2622 AN AFFIRMATIVE ACTION/EQUAL OPPORTUNITY EMPLOYER B. SECTION 14 OF PUBLIC ACT 26-14 – AUTOMATED LICENSE PLATE READER SYSTEMS AND DATA – MODEL POLICY 1. Considera on and adop on of a Model Policy Governing Law Enforcement Agency Acquisi on and…
+  [Open document ▸](https://portal.ct.gov/post/-/media/despp-beta/pdf/post/meetings/council/2026/agenda-92426.pdf)  _(agenda/minutes · term: `alpr_flock`)_
+
+
 ### [Norwalk](towns/norwalk/surveillance-tech-transcript-and-agenda-report.md) — Drones
 
 - **[2026-09-23] Board of Education** — BOE Facilities Planning Committee Meeting - September 23, 2026
@@ -142,13 +149,13 @@ _3 town(s) entered the tracker this week — their meeting transcripts were down
 
 | Town | Mentions found | Top topics |
 | --- | --- | --- |
-| Stamford | 331 | Drones (156), General surveillance (57), Body cameras (56) |
-| Middletown | 226 | Drones (154), ALPR / Flock (62), Body cameras (8) |
+| [Stamford](towns/stamford/surveillance-tech-transcript-and-agenda-report.md) | 392 | Drones (181), General surveillance (57), Body cameras (56) |
+| [Middletown](towns/middletown/surveillance-tech-transcript-and-agenda-report.md) | 227 | Drones (154), ALPR / Flock (62), Body cameras (8) |
 | [East Hartford](towns/east-hartford/surveillance-tech-transcript-and-agenda-report.md) | 77 | Drones (51), ALPR / Flock (11), Body cameras (6) |
 
 ## New signal: topics appearing for the first time in towns already being watched
 
-_6 town/topic pairing(s). These towns already had transcripts in the corpus before this window, so a first appearance here is not simply the effect of new coverage._
+_9 town/topic pairing(s). These towns already had transcripts in the corpus before this window, so a first appearance here is not simply the effect of new coverage._
 
 
 ### [Andover](towns/andover/surveillance-tech-transcript-and-agenda-report.md) — Drones (1 mention)
@@ -156,13 +163,6 @@ _6 town/topic pairing(s). These towns already had transcripts in the corpus befo
 - **[2026-09-15] Planning and Zoning Commission** — Planning and Zoning- Regular Meeting 9.15.26
   > …loop. So I know what that place looks like. It's it's either like this or it's wet or it's a drone. >> Remember you're on >> reported. We don't want to be…
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=fhtUUbGN19g&t=9275s)  _(term: `drone`)_
-
-
-### [Bristol](towns/bristol/surveillance-tech-transcript-and-agenda-report.md) — Gunshot detection (1 mention)
-
-- **[2026-04-28] (unassigned body)** — Board of Finance Other - 2026-04-28
-  > …era (DVR) • Improved video quality with reduced motion blur and better low-light performance • Multi-mic audio—four built-in microphones • Wireless upload option • Gunshot detection and alerts • Streaming audio and video capability (requires the Axon Respond operations platform) • “Find my camera” feature • Verbal tran…
-  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12299,plainText=false))  _(agenda/minutes · term: `gunshot_detection`)_
 
 
 ### [Bristol](towns/bristol/surveillance-tech-transcript-and-agenda-report.md) — Predictive policing (1 mention)
@@ -179,13 +179,6 @@ _6 town/topic pairing(s). These towns already had transcripts in the corpus befo
   [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11868,plainText=false))  _(agenda/minutes · term: `purchasing_broker`, 2 matches in this stretch)_
 
 
-### [Bristol](towns/bristol/surveillance-tech-transcript-and-agenda-report.md) — Real-time crime centres (7 mentions)
-
-- **[2026-05-12] (unassigned body)** — City Council Other - 2026-05-12
-  > …e to Taser 10, and adds 13 LPR’s, 3 Skydio Drones as First Responder, 3 Patrol lead drones, and two Tactical Drones, 3 Axon Dedrone (drone radars), 1 Axon Dedrone Beyond (drone detection device), 250 Fusus CCTV Streams, Auror- Retail Crime Hub. Said items to be covered for five years, effective June 2026, for a total p…
-  [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12485,plainText=false))  _(agenda/minutes · term: `rtcc`, 7 matches in this stretch)_
-
-
 ### [Bristol](towns/bristol/surveillance-tech-transcript-and-agenda-report.md) — Undercover tools (1 mention)
 
 - **[2026-03-04] (unassigned body)** — Board of Finance Other - 2026-03-04
@@ -193,65 +186,140 @@ _6 town/topic pairing(s). These towns already had transcripts in the corpus befo
   [Open document ▸](https://bristolct.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11790,plainText=false))  _(agenda/minutes · term: `undercover_tools`)_
 
 
+### [East Lyme](towns/east-lyme/surveillance-tech-transcript-and-agenda-report.md) — Real-time crime centres (2 mentions)
+
+- **[2018-04-04] Board of Selectmen** — East Lyme, CT Board of Selectmen Meeting 04/04/2018 - Part 2 of 4
+  > …just this i've read through this but just it's the counter terrorist fusion center for the state of connecticut all the partners federal state local are involved in it i will be…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TGSOwyvRlwg&t=1619s)  _(term: `fusion_center`, 2 matches in this stretch)_
+
+
+### [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md) — Real-time crime centres (3 mentions)
+
+- **[2022-04-04] Conservation Commission** — Groton Conservation Commission 4/4/22
+  > …absolutely meets the state and federal requirements so let's let's so the fusion center aren't going to good that's a different thing entirely that that's not generating power for a power…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=oEov90JHk58&t=1256s)  _(term: `fusion_center`)_
+
+- **[2020-06-23] Town Council Committee of the Whole** — Groton Town Council C.O.W. and Groton Resource Recovery Authority 6/23/20
+  > …years my last positions were the director of terrorism i directed the fusion center and i was also the commanding officer of the emergency services unit before i…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=DIUI7rk2k_w&t=4320s)  _(term: `fusion_center`, 2 matches in this stretch)_
+
+
+### [Milford](towns/milford/surveillance-tech-transcript-and-agenda-report.md) — Real-time crime centres (5 mentions)
+
+- **[2026-08-03] Board of Aldermen** — Board Of Aldermen 08/03/2026
+  > …one dated March 2026, months after the readers began operating. The city's real-time information center page links to that policy in Fox portals, but not the contracts, procurement records, or a…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=1469s)  _(term: `rtcc`, 2 matches in this stretch)_
+
+- **[2026-08-03] Board of Aldermen** — Board Of Aldermen 08/03/2026
+  > …like to know according to the chief Melo um letter, it talks about a highly controlled environment inside our real time information center. Uh, so I'm curious uh where exactly that is. I know…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=2106s)  _(term: `rtcc`, 2 matches in this stretch)_
+
+- **[2026-08-03] Board of Aldermen** — Board Of Aldermen 08/03/2026
+  > …when we put this system in place is I put together the strictest policy in Connecticut. We this real time information center you're hearing. The reason we did that was I don't want…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=9AD0qAHeAEc&t=12417s)  _(term: `rtcc`)_
+
+
+### [North Haven](towns/north-haven/surveillance-tech-transcript-and-agenda-report.md) — Real-time crime centres (1 mention)
+
+- **[2022-03-22] Police Commission** — Police Commissioners 03-22-2022
+  > …town we communicate between them and our partners at the fusion center through ctek as far as any alerts that that are broadcast as far as any attacks…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=dobJYkPEHx8&t=1460s)  _(term: `fusion_center`)_
+
+
+### [Simsbury](towns/simsbury/surveillance-tech-transcript-and-agenda-report.md) — Real-time crime centres (1 mention)
+
+- **[2024-09-09] Board of Selectmen** — Board of Selectmen Meeting - September 9, 2024
+  > …oper opting into there include the Connecticut in uh Counter Intelligence Center or Intelligence Center a fusion Center a citizen Corp cyber security it makes us eligible for…
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=EmZG1heQ3OI&t=3315s)  _(term: `fusion_center`)_
+
+
 ## In the news
 
-_No new items this week: the most recent agenda-watch sweep on file ran **2026-08-23**. Shown below is the latest confirmed activity it recorded, which has not changed since. This section refreshes when a newer sweep is imported._
+_93 item(s) added by this week's agenda-watch sweep._
 
 
-- **[2026-09-01] Manchester** — Purchasing / Board of Directors
+- **[2026-10-06] Bristol** — Ordinance Committee / City Council
 
-  Manchester is soliciting implementation services for ATESD with a September 1 deadline; this is separate from the August 25 school-bus stop-arm camera solicitation.
+  Official notice schedules an October 6 public hearing on amendments to Bristol Code Chapter 14, Article IV, governing automated red-light traffic enforcement safety devices.
 
-  [Source](https://www.manchesterct.gov/files/assets/public/v/2/bod/2026/april-2026-agenda-1.pdf) · _Confirmed procurement lead_ · _Automated Traffic Enforcement Safety Devices procurement_
-
-
-- **[2026-09-01] Stamford** — City / Vision Zero implementation
-
-  Stamford plans to launch 14 school-zone speed cameras in September 2026 with a 45-day warning period before fines.
-
-  [Source](https://www.stamfordadvocate.com/news/article/stamford-ct-speed-cameras-start-22375221.php) · _Confirmed implementation schedule_ · _Speed cameras / ATESD_
+  [Source](https://www.bristolct.gov/m/newsflash/Home/Detail/1745) · _Confirmed_ · _Red-light cameras / ATESD ordinance amendment_
 
 
-- **[2026-08-25] Manchester** — Purchasing / Board implementation follow-up
+- **[2026-10-06] Bristol** — City Council Ordinance Committee
 
-  Manchester has a separate solicitation for school-bus stop-arm camera enforcement equipment and services, due August 25, 2026. The April Board agenda separately discussed School Bus Violation Enforcement Systems (Stop-Arm Cameras).
+  Bristol scheduled an October 6 public hearing on proposed amendments to Code Chapter 14, Article IV, Division 1 governing automated red-light traffic enforcement safety devices.
 
-  [Source](https://www.manchesterct.gov/files/assets/public/v/2/bod/2026/april-2026-agenda-1.pdf) · _Confirmed camera program / procurement lead_ · _School Bus Stop-Arm Camera Enforcement_
-
-
-- **[2026-08-12] Columbia** — Town Meeting
-
-  Official town document calls an August 12 Town Meeting on the proposed automated traffic enforcement/speed-camera matter.
-
-  [Source](https://www.columbiact.gov/media/34131) · _Confirmed upcoming action_ · _Speed cameras / ATESD ordinance_
+  [Source](https://www.bristolctwatersewer.gov/m/newsflash/Home/Detail/1745) · _Confirmed_ · _Red-light cameras / ATESD ordinance_
 
 
-- **[2026-08-05] Newtown** — Legislative Council
+- **[2026-09-28] Vernon** — Town / Police Department
 
-  Legislative Council unanimously supported drafting a resolution opposing Flock cameras, referred the issue to ordinance committee, and discussed asking selectmen to cancel the contract.
+  Vernon reports nearly 100 potential illegal school-bus passing violations in the first three school days. Five cameras are mounted on each of 37 buses.
 
-  [Source](https://www.newstimes.com/news/article/newtown-ct-flock-camera-moratorium-22378819.php) · _Confirmed council action_ · _ALPR / Flock moratorium_
-
-
-- **[2026-08-04] Bristol** — Ordinance Committee
-
-  Bristol lists an Ordinance Committee meeting for Tuesday, August 4, 2026, at 5:00 p.m. The committee previously advanced automated traffic enforcement legislation and the Police Commission is actively tracking the red-light-camera RFP, but no August 4 agenda text was available in this run.
-
-  _Confirmed meeting / topic unconfirmed_ · _Upcoming ATESD ordinance oversight_
+  [Source](https://www.vernon-ct.gov/article/3112596) · _Confirmed active program_ · _School bus stop-arm cameras_
 
 
-- **[2026-08-04] Bridgeport** — City administration / City Council policy context
+- **[2026-09-17] North Haven** — Police Department / ATESD program
 
-  Bridgeport officials cooled or paused speed-camera plans after earlier identifying priority intersections, citing privacy concerns and public resistance.
+  North Haven is preparing six automated speed-enforcement cameras near North Haven Middle School and Ridge Road Elementary School. Police cited nearly 12,000 speeding incidents in a five-day study.
 
-  [Source](https://www.ctpost.com/news/article/bridgeport-ct-speed-camera-plan-22367683.php) · _Confirmed current status_ · _Speed cameras / ATESD_
+  [Source](https://www.nhregister.com/news/article/north-haven-speeding-incidents-speed-cameras-22434695.php) · _Confirmed_ · _Speed cameras / ATESD implementation_
 
 
-- **[2026-08-04] Cheshire** — Town Council
+- **[2026-09-16] East Lyme** — Board of Selectmen
 
-  Dozens of residents urged Cheshire officials to stop using Flock license plate readers during the August 4 Town Council meeting.
+  Board of Selectmen held a public hearing on a proposed five-location automated speed-camera plan, including school-zone and Route 1 locations. After mixed public testimony, the board delayed sending the plan to CTDOT.
 
-  [Source](https://www.nbcconnecticut.com/news/local/debate-over-flock-license-plate-readers-reaches-cheshire-town-council/3761714/) · _Confirmed meeting discussion_ · _ALPR / Flock public policy debate_
+  [Source](https://eltownhall.com/first-selectmans-office/public-hearing-automated-traffic-enforcement-safety-device-program/) · _Confirmed_ · _Speed cameras / ATESD plan_
+
+
+- **[2026-09-16] Groton** — City of Groton Police / ATESD program
+
+  City of Groton activated three automated speed cameras at Mitchell Street, Thames Street, and Clarence B. Sharp Highway. A 30-day warning period began with activation.
+
+  [Source](https://www.wfsb.com/2026/09/17/speed-cameras-now-active-three-groton-locations/) · _Confirmed_ · _Speed cameras / ATESD activation_
+
+
+- **[2026-09-15] Norwalk** — Police Department
+
+  Norwalk Police launched a public Flock Transparency Portal for its ALPR program. Current reporting says the portal launched September 1 and lists 11 cameras with 21-day retention.
+
+  [Source](https://www.norwalkct.gov/4011/NPD-FLOCK-Transparency-Portal) · _Confirmed_ · _Flock ALPR transparency / system disclosure_
+
+
+- **[2026-09-15] Newtown** — Newtown Public Schools / Police Department
+
+  Newtown launched BusPatrol stop-arm camera technology across all 56 school buses after Legislative Council approval in May.
+
+  [Source](https://www.newstimes.com/news/article/newtown-school-bus-stop-arm-cameras-22431157.php) · _Confirmed_ · _School-bus stop-arm camera enforcement_
+
+
+- **[2026-09-15] Newtown** — Police Department / school-bus safety program
+
+  Newtown police announced rollout of AI-powered stop-arm cameras across the school-bus fleet beginning September 15; installation is expected to take about two weeks.
+
+  [Source](https://patch.com/connecticut/newtown/ai-cameras-coming-newtown-school-buses-fines-follow) · _Confirmed deployment announcement_ · _School bus stop-arm cameras_
+
+
+- **[2026-09-15] New Haven** — Mayor / Transportation Department
+
+  New Haven activated seven ATESD locations—six red-light and one speed camera—on September 15. The first 30 days are warnings; eight additional approved locations are planned as permits are issued.
+
+  [Source](https://www.aol.com/articles/haven-activate-red-light-cameras-222546000.html) · _Confirmed_ · _Red-light and speed cameras / ATESD activation_
+
+
+- **[2026-09-15] New Haven** — Mayor / Transportation Department
+
+  New Haven will activate seven ATESD cameras on September 15: six red-light cameras and one speed camera. Eight additional approved locations are planned as permits are issued.
+
+  [Source](https://www.aol.com/articles/haven-activate-red-light-cameras-222546000.html) · _Confirmed_ · _Red-light and speed cameras / ATESD activation_
+
+
+- **[2026-09-14] Milford** — Board of Aldermen
+
+  Board of Aldermen voted 9-6 against immediate termination of the city's surveillance cameras and retained the partial pause/review framework adopted in August.
+
+  [Source](https://www.ctinsider.com/news/article/milford-flock-cameras-aldermen-board-vote-22431340.php) · _Confirmed_ · _Flock/ALPR policy review_
 
 
 From a weekly sweep of municipal agendas, minutes, packets, CTDOT filings and news coverage, contributed to this project. An LLM-assisted sweep: official documents are marked confirmed, news and portal-only items are leads, and every row's own confidence label is printed above. Verify before citing.
@@ -259,18 +327,26 @@ From a weekly sweep of municipal agendas, minutes, packets, CTDOT filings and ne
 
 ## Coming up
 
+_Surveillance technology confirmed on a published agenda:_
+
+- **2026-09-28** — [Vernon](towns/vernon/surveillance-tech-transcript-and-agenda-report.md): [BusPatrol school-bus stop-arm camera warning period approaches end; $250 camera-based citations are expected after the introductory period.](https://www.ctpublic.org/news/2026-09-08/ct-towns-are-installing-license-plate-reading-cameras-on-school-buses) _(Immediate)_
+
+- **2026-10-06** — [Bristol](towns/bristol/surveillance-tech-transcript-and-agenda-report.md): [Public hearing on amendments to automated red-light traffic-enforcement ordinance.](https://www.bristolctwatersewer.gov/m/newsflash/Home/Detail/1745) _(High)_
+
+- **2026-10-15** — [Groton](towns/groton/surveillance-tech-transcript-and-agenda-report.md): [Approximate end of 30-day warning period for three newly activated speed cameras.](https://www.wfsb.com/2026/09/17/speed-cameras-now-active-three-groton-locations/) _(High)_
+
+- **2026-10-15** — [New Haven](towns/new-haven/surveillance-tech-transcript-and-agenda-report.md): [Initial seven ATESD locations scheduled to begin civil fines after 30-day warning period.](https://www.aol.com/articles/haven-activate-red-light-cameras-222546000.html) _(High)_
+
 
 _Meetings the towns have already scheduled, at bodies that have raised surveillance before:_
 
-- **2026-09-27** — [North Branford](towns/north-branford/surveillance-tech-transcript-and-agenda-report.md): [Board of Education](https://www.youtube.com/watch?v=bpWPVK38gMA)
+- **2026-09-28** — [Fairfield](towns/fairfield/surveillance-tech-transcript-and-agenda-report.md): [Representative Town Meeting](https://www.youtube.com/watch?v=pS1lj7U49J8)
 
 - **2026-09-28** — [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Disability Commission](https://www.youtube.com/watch?v=BRirIm5ZLTg)
 
-- **2026-09-28** — [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Board of Health](https://www.youtube.com/watch?v=7VM9KMaPz78)
-
-- **2026-09-28** — [Fairfield](towns/fairfield/surveillance-tech-transcript-and-agenda-report.md): [Representative Town Meeting](https://www.youtube.com/watch?v=pS1lj7U49J8)
-
 - **2026-09-28** — [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Select Board](https://www.youtube.com/watch?v=DZ4MEx2cik8)
+
+- **2026-09-28** — [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Board of Health](https://www.youtube.com/watch?v=7VM9KMaPz78)
 
 - **2026-09-29** — [Westport](towns/westport/surveillance-tech-transcript-and-agenda-report.md): [Conservation Commission](https://www.youtube.com/watch?v=-9AFo1jYaiY)
 
@@ -286,6 +362,8 @@ _Meetings the towns have already scheduled, at bodies that have raised surveilla
 
 - **2026-10-21** — [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Community Planning and Economic Development Committee](https://www.youtube.com/watch?v=SOBrp0Exk7E)
 
+- **2026-10-27** — [West Hartford](towns/west-hartford/surveillance-tech-transcript-and-agenda-report.md): [Town Council](https://www.youtube.com/watch?v=spLVuBB1vks)
+
 
 The full watch list — every body that keeps returning to the subject, and when it typically meets — is in [Meetings to watch](meetings-to-watch.md).
 
@@ -294,16 +372,15 @@ The full watch list — every body that keeps returning to the subject, and when
 
 | Topic | Newly surfaced | Towns |
 | --- | --- | --- |
-| [ALPR / Flock](topics/mentions/alpr.md) | 88 | 11 |
-| [Drones](topics/mentions/drone.md) | 84 | 8 |
-| [General surveillance](topics/mentions/surveillance_general.md) | 32 | 3 |
-| [Real-time crime centres](topics/mentions/rtcc.md) | 9 | 2 |
-| [Body cameras](topics/mentions/body_camera.md) | 8 | 2 |
-| [Purchasing / procurement](topics/mentions/purchasing_broker.md) | 5 | 3 |
-| [Predictive policing](topics/mentions/predictive_policing.md) | 3 | 3 |
+| [Real-time crime centres](topics/mentions/rtcc.md) | 122 | 13 |
+| [Drones](topics/mentions/drone.md) | 81 | 8 |
+| [ALPR / Flock](topics/mentions/alpr.md) | 78 | 11 |
+| [General surveillance](topics/mentions/surveillance_general.md) | 18 | 2 |
+| [Body cameras](topics/mentions/body_camera.md) | 11 | 2 |
+| [Purchasing / procurement](topics/mentions/purchasing_broker.md) | 4 | 2 |
+| [Computer-aided dispatch](topics/mentions/cad.md) | 4 | 1 |
+| [Predictive policing](topics/mentions/predictive_policing.md) | 2 | 2 |
 | [Undercover tools](topics/mentions/undercover_tools.md) | 1 | 1 |
-| [Facial recognition](topics/mentions/facial_recognition.md) | 1 | 1 |
-| [Gunshot detection](topics/mentions/gunshot_detection.md) | 1 | 1 |
 
 ---
 
