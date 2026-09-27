@@ -1,9 +1,9 @@
 # Surveillance-tech report: Naugatuck
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -63,7 +63,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 7 meetings surfaced a finding (7 dated, spanning 2022-02-10 to 2026-08-04; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-04.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2026-08-04.*
 
 ??? note "Earlier meetings (7)"
 
@@ -405,9 +405,9 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| naugatuck_borough | videos | 2026-09-25 16:08:00.614111 | 226 |
-| naugatuck_schools | streams | 2026-09-25 15:59:47.943042 | 158 |
-| naugatuck_schools | videos | 2026-09-25 15:59:45.018869 | 96 |
+| naugatuck_borough | videos | 2026-09-27 14:23:03.557043 | 226 |
+| naugatuck_schools | streams | 2026-09-27 14:40:47.811410 | 158 |
+| naugatuck_schools | videos | 2026-09-27 14:40:44.811433 | 96 |
 
 
 ## Registered meeting bodies
@@ -507,5 +507,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:02:25 from Naugatuck's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:35:49 from Naugatuck's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

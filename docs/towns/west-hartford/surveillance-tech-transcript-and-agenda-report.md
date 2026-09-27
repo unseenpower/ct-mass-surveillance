@@ -1,9 +1,9 @@
 # Surveillance-tech report: West Hartford
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -86,7 +86,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 52 meetings surfaced a finding (52 dated, spanning 2017-05-16 to 2026-09-22; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+**Since 2026-08-28** (through 2026-09-27, when this report was generated):
 
 ### 2026-09-22 -- Town Council
 
@@ -1449,8 +1449,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| whci | streams | 2026-09-25 15:21:53.432357 | 3783 |
-| whci | videos | 2026-09-25 15:21:00.390078 | 2480 |
+| whci | streams | 2026-09-27 14:28:40.078466 | 3783 |
+| whci | videos | 2026-09-27 14:27:50.006053 | 2480 |
 
 
 ## Registered meeting bodies
@@ -1574,5 +1574,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:11:31 from West Hartford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T16:05:22 from West Hartford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

@@ -1,9 +1,9 @@
 # Surveillance-tech report: Mansfield
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -64,7 +64,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 34 meetings surfaced a finding (34 dated, spanning 2022-01-10 to 2026-08-10; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-10.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2026-08-10.*
 
 ??? note "Earlier meetings (34)"
 
@@ -809,8 +809,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| mansfield_ct_stream | streams | 2026-09-25 15:11:15.250022 | 408 |
-| mansfield_ct_stream | videos | 2026-09-25 15:11:09.707349 | 1061 |
+| mansfield_ct_stream | streams | 2026-09-27 14:24:22.451625 | 408 |
+| mansfield_ct_stream | videos | 2026-09-27 14:24:16.674903 | 1061 |
 
 
 ## Registered meeting bodies
@@ -933,5 +933,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:00:13 from Mansfield's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:32:11 from Mansfield's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

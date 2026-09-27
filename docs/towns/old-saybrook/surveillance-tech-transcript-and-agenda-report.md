@@ -1,9 +1,9 @@
 # Surveillance-tech report: Old Saybrook
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -63,7 +63,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 22 meetings surfaced a finding (22 dated, spanning 2025-01-28 to 2026-08-24; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-24.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2026-08-24.*
 
 ??? note "Earlier meetings (22)"
 
@@ -815,8 +815,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| old_saybrook_ct | streams | 2026-09-25 15:11:46.616818 | 2 |
-| old_saybrook_ct | videos | 2026-09-25 15:11:45.835450 | 428 |
+| old_saybrook_ct | streams | 2026-09-27 14:24:29.442513 | 2 |
+| old_saybrook_ct | videos | 2026-09-27 14:24:28.596651 | 428 |
 
 
 ## Registered meeting bodies
@@ -921,5 +921,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:06:32 from Old Saybrook's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:41:55 from Old Saybrook's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

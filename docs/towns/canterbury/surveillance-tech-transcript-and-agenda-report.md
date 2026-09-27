@@ -1,9 +1,9 @@
 # Surveillance-tech report: Canterbury
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -60,7 +60,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 2 meetings surfaced a finding (2 dated, spanning 2023-09-13 to 2026-03-17; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-03-17.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2026-03-17.*
 
 ??? note "Earlier meetings (2)"
 
@@ -327,8 +327,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| canterbury_ct | streams | 2026-09-25 15:34:17.609824 | 148 |
-| canterbury_ct | videos | 2026-09-25 15:34:15.047056 | 101 |
+| canterbury_ct | streams | 2026-09-27 14:33:06.312885 | 148 |
+| canterbury_ct | videos | 2026-09-27 14:33:03.692488 | 101 |
 
 
 ## Registered meeting bodies
@@ -420,5 +420,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T16:51:12 from Canterbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:12:01 from Canterbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

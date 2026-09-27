@@ -1,9 +1,9 @@
 # Surveillance-tech report: New Britain
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -22,10 +22,12 @@
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">6</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">Body cameras, Drones, Facial recognition, Predictive policing, Purchasing / procurement, General surveillance</span></a>
 <a class="glance-card" href="../../../analysis/towns/new-britain-alpr-searches.html"><span class="gc-big">3,026</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by New Britain police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
 <a class="glance-card" href="#coverage-status"><span class="gc-big">34%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">299 of 871 meetings</span></a>
-<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">17</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">12</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2018-05-21**, but New Britain's published video archive goes back to **2017-01-11**. Meetings before 2018 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
+**Meetings in progress:** we are in the process of adding New Britain's public meetings. New Britain's meetings are not on YouTube, so each recording has to be downloaded and transcribed from its audio, which takes a little longer than towns whose meetings are captioned on YouTube. More meetings will appear here as they are transcribed.
 
 This report collects every mention of surveillance technology found in **New Britain**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -88,7 +90,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 12 meetings surfaced a finding (12 dated, spanning 2018-06-26 to 2025-08-14; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2025-08-14.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2025-08-14.*
 
 ??? note "Earlier meetings (12)"
 
@@ -457,54 +459,7 @@ Mayor Erin E. Stewart October 14, 2021.
 
 ### predictive_policing
 
-- **[2017-04-26] Common Council** -- Common Council Regular Meeting Minutes - 2017-04-26 (minutes)
-  > ...y
-Director of the Public Works Department, Utilities Division, is recommending the bid be awarded to HD
-Supply Waterworks of New Britain, CT for the Manhole Cover items and Manhole Frame, to Campbell
-Foundry Company of North Haven, CT for the Manhole Riser Ring Items and to United Concrete of
-Yalesville, CT for the Catch Basin Items who were the lowest bidders and met all of the bid specifications...
-  [View document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=86&doc_id=22ecccbf-51f9-11e7-b9a7-00219ba2f017)  _(term: predictive_policing, unreviewed)_
-
-- **[2019-05-22] Common Council** -- Common Council Regular Meeting Agenda - 2019-05-22 (agenda)
-  > ...crete Products, dlogee@unitedconcrete.com or dtopa@untiedconcrete.com or
-   RFreer@unitedconcrete.com or Jamesd@untedconcrete.com or
-   alina@unitedconcrete.com or JDuffy@unitedconcrete.com
-4. Neenah Foundry, Neenah.pricing@neenahenterprises.com
-5. Campbell Foundry Company, ken@campbellfoundry.com
-6. Cerilli Construction, cerilliconstruction@gmail.com
-7. Cromwell Concrete Products, chris@cromwellc...
-  [View document ▸](https://newbritain.granicus.com/AgendaViewer.php?view_id=1&clip_id=260)  _(term: predictive_policing, unreviewed)_
-
-- **[2020-06-10] Common Council** -- Common Council Regular Meeting Minutes - 2020-06-10 (minutes)
-  > ...REAS, The Deputy Director of the Public Works Department, Utilities Division, is recommending
-the bid be awarded to Core and Main of New Britain, CT. for the 1” and 1 ½” Manhole Riser Ring, to
-Neenah Foundry Company of Neenah, WI for the Manhole Cover, Storm, Sanitary, Frame and 2” Riser
-Ring, Connecticut Precast Corporation of Monroe, CT. for all of the Catch Basin Items who were the
-lowest bidde...
-  [View document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=371&doc_id=728497a1-e0bc-11ea-9419-0050569183fa)  _(term: predictive_policing, unreviewed)_
-
-- **[2022-06-22] Common Council** -- Common Council Regular Meeting Minutes - 2022-06-22 (minutes)
-  > ...e Catch Basins items and Core
-and Main of New Britain, CT. for the Manhole Cover, Items, who submitted the lowest bids and met all of
-the bid specifications for the Highway Castings items. The Neenah Foundry Company of Neenah, WI.
-had submitted the lower bid for the Manhole Cover items but their Manhole Cover items that they
-submitted a bid for did not meet the Public Works, Utilities Division’s s...
-  [View document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=624&doc_id=d5d54f1e-1342-11ed-b1ab-0050569183fa)  _(term: predictive_policing, unreviewed)_
-
-- **[2017-09-13] Common Council** -- Common Council Minutes - 2017-09-13 (minutes)
-  > ...s;
-          h. m. Other noncombustible demolition debris.
-     (4) Miscellaneous materials, including, but not limited to, the following:
-          a.   Ashes;
-          b.   Asphalt;
-          c.   Foundry sand;
-          d.   Offal;
-          e.   Pressurized containers;
-          f.   Sealed drums;
-          g.   Tar;
-          h.   Fused plastic resin.
-     (5) Motor vehicles/machinery, inclu...
-  [View document ▸](https://newbritain.granicus.com/MinutesViewer.php?view_id=1&clip_id=124&doc_id=8ed3dd75-f091-11e7-a872-00505691de41)  _(term: predictive_policing, unreviewed)_
+*(no mentions)*
 
 
 ### purchasing_broker
@@ -601,13 +556,13 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| conbct | streams | 2026-09-25 15:29:57.142984 | 198 |
-| conbct | videos | 2026-09-25 15:29:53.460098 | 25 |
-| csdnb | streams | 2026-09-25 15:54:12.231212 | 155 |
-| csdnb | videos | 2026-09-25 15:54:09.509270 | 162 |
+| conbct | streams | 2026-09-27 14:31:23.146320 | 198 |
+| conbct | videos | 2026-09-27 14:31:18.991975 | 25 |
+| csdnb | streams | 2026-09-27 14:39:15.633147 | 155 |
+| csdnb | videos | 2026-09-27 14:39:12.917189 | 162 |
 | new_britain_granicus | New Britain CT - Granicus Content | 2026-09-06 11:48:18.144951 | 564 |
-| nutmeg_tv | streams | 2026-09-25 15:38:33.671540 | 3 |
-| nutmeg_tv | videos | 2026-09-25 15:38:32.776262 | 5316 |
+| nutmeg_tv | streams | 2026-09-27 14:35:23.264189 | 3 |
+| nutmeg_tv | videos | 2026-09-27 14:35:22.454635 | 5318 |
 
 
 ## Registered meeting bodies
@@ -714,5 +669,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:02:41 from New Britain's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T16:33:07 from New Britain's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

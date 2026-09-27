@@ -1,9 +1,9 @@
 # Surveillance-tech report: Danbury
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,18 +14,20 @@
 
 ## At a glance: Danbury
 
-<p class="glance-headline"><strong>26 mentions</strong> of surveillance technology in <strong>15</strong> Danbury meetings, 2021–2026</p>
+<p class="glance-headline"><strong>28 mentions</strong> of surveillance technology in <strong>16</strong> Danbury meetings, 2021–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">26</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 15 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2021–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-04-23 → 2026-08-26</span></a>
-<a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Purchasing / procurement</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">28</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 16 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2021–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-01-27 → 2026-08-26</span></a>
+<a class="glance-card" href="#findings-by-topic"><span class="gc-big">5</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Purchasing / procurement, Real-time crime centres</span></a>
 <a class="glance-card" href="../../../analysis/towns/danbury-alpr-searches.html"><span class="gc-big">2,099</span><span class="gc-lbl">licence-plate searches</span><span class="gc-detail">by Danbury police, in six towns&#x27; released Flock logs · open the dashboard</span></a>
 <a class="glance-card" href="#coverage-status"><span class="gc-big">16%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">327 of 2,076 meetings</span></a>
 <a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">8</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2020-05-05**, but Danbury's published video archive goes back to **2012-11-19**. Meetings before 2020 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
+
+**Meetings in progress:** we are in the process of adding Danbury's public meetings. Danbury's meetings are not on YouTube, so each recording has to be downloaded and transcribed from its audio, which takes a little longer than towns whose meetings are captioned on YouTube. More meetings will appear here as they are transcribed.
 
 This report collects every mention of surveillance technology found in **Danbury**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -78,23 +80,24 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 | [Body cameras](#body_camera) | 3 | 2 | 2021-04-23 | 2021-05-07 |
 | [Drones](#drone) | 15 | 7 | 2024-03-27 | 2026-08-26 |
 | [Purchasing / procurement](#purchasing_broker) | 3 | 3 | 2024-06-05 | 2024-10-23 |
+| [Real-time crime centres](#rtcc) | 2 | 1 | 2021-01-27 | 2021-01-27 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-15 meetings surfaced a finding (15 dated, spanning 2021-04-23 to 2026-08-26; 0 of unknown date, listed last). Newest first.
+16 meetings surfaced a finding (16 dated, spanning 2021-01-27 to 2026-08-26; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2026-08-26.*
 
-### 2026-08-26 -- Environmental Impact Commission
+??? note "Earlier meetings (16)"
 
-**EIC Meeting 8/26/26** _(topics: drone)_
+    **2026-08-26 -- Environmental Impact Commission**
 
-- `drone` [Watch ▸](https://danbury.granicus.com/player/clip/3810)  [jump to 27:48 ▸](https://archive-video.granicus.com/danbury/danbury_1129906b-0ccf-4d85-82fe-b0e0c391b0b4.mp4#t=1668)  > ...and a lot of my days are spent explaining to people that it's private property such as we'll go down that road as we do it documented um public works is helping us by doing drone flights over in certain areas and go up and just look over the house into it and if there's things that are blocking it then i'm sending them nov so they have to do it obviously the complaints are that isn't it the city's...
+    **EIC Meeting 8/26/26** _(topics: drone)_
 
-??? note "Earlier meetings (14)"
+    - `drone` [Watch ▸](https://danbury.granicus.com/player/clip/3810)  [jump to 27:48 ▸](https://archive-video.granicus.com/danbury/danbury_1129906b-0ccf-4d85-82fe-b0e0c391b0b4.mp4#t=1668)  > ...and a lot of my days are spent explaining to people that it's private property such as we'll go down that road as we do it documented um public works is helping us by doing drone flights over in certain areas and go up and just look over the house into it and if there's things that are blocking it then i'm sending them nov so they have to do it obviously the complaints are that isn't it the city's...
 
     **2026-08-12 -- Environmental Impact Commission**
 
@@ -191,6 +194,13 @@ Six Connecticut towns have released the Flock audit log of every search run agai
     - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Sckc1KxD3aE&t=1553s)  > ...i heard you mentioned earlier about um when a taser is activated automatically turns on the body cam what i want to know is if the body cam is turned on would it automatically...
     - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=Sckc1KxD3aE&t=1555s)  > ...when a taser is activated automatically turns on the body cam what i want to know is if the body cam is turned on would it automatically tether it to the camera in the patrol...
 
+    **2021-01-27 -- Ad Hoc Committees**
+
+    **Ad Hoc - CTIC** _(topics: rtcc)_
+
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6pJU4iqbWv4&t=299s)  > ...what's going on here which is the use of an officer for purposes of this connecticut fusion center the officer from danbury is the regional...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=6pJU4iqbWv4&t=863s)  > ...qualified law enforcement officer as a regional intelligence liaison officer with the ctic fusion center connecticut intelligence center location to be his or her newly assigned...
+
 
 ## Findings by topic
 
@@ -234,12 +244,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=8ZmFoiem0lI&t=10550s)  _(term: body_camera, unreviewed)_
 
 - **[2021-04-23] Ad Hoc Committees** -- Ad Hoc Health, Public Safety
-  > ...i heard you mentioned earlier about um when a taser is activated automatically turns on the body cam what i want to know is if the body cam is turned on would it automatically...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Sckc1KxD3aE&t=1553s)  _(term: body_camera, unreviewed)_
-
-- **[2021-04-23] Ad Hoc Committees** -- Ad Hoc Health, Public Safety
   > ...when a taser is activated automatically turns on the body cam what i want to know is if the body cam is turned on would it automatically tether it to the camera in the patrol...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=Sckc1KxD3aE&t=1555s)  _(term: body_camera, unreviewed)_
+
+- **[2021-04-23] Ad Hoc Committees** -- Ad Hoc Health, Public Safety
+  > ...i heard you mentioned earlier about um when a taser is activated automatically turns on the body cam what i want to know is if the body cam is turned on would it automatically...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=Sckc1KxD3aE&t=1553s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -297,16 +307,16 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch ▸](https://danbury.granicus.com/player/clip/2999)  [jump to 3:19 ▸](https://archive-video.granicus.com/danbury/danbury_7b1e78a2-ca21-4606-8dc0-5d1be86d0922.mp4#t=199)  _(term: drone, unreviewed)_
 
 - **[2024-12-04] Board of Award** -- December 4,2024 Board of Awards
+  > ...Moving on, item number three. Purchase a new Axon Air Photokite Sigma Mobile Tethered Drone, Department of Emergency Management. And for the record, Mr. Kozemecki submitted a requisition. This is made out to Axon Enterprises. This is to purchase a subject drone. Total quoted cost $37,078. Axon quoted this drone per their current sourceable government cooperative contract. And along with the requisition, Mr. Kozemecki included the sole source justification, which indicated...
+  [Watch ▸](https://danbury.granicus.com/player/clip/2999)  [jump to 3:10 ▸](https://archive-video.granicus.com/danbury/danbury_7b1e78a2-ca21-4606-8dc0-5d1be86d0922.mp4#t=190)  _(term: drone, unreviewed)_
+
+- **[2024-12-04] Board of Award** -- December 4,2024 Board of Awards
   > ...justification along with the sourceable contract would satisfy the city's and ARPA requirements. Motion. So make a motion to award the drone purchase of the tethered drone, which is very specified, to emergency public safety services, to Axon, based on the sole source information I provide, along with the source, the source will contract the contingent on PK....
   [Watch ▸](https://danbury.granicus.com/player/clip/2999)  [jump to 3:50 ▸](https://archive-video.granicus.com/danbury/danbury_7b1e78a2-ca21-4606-8dc0-5d1be86d0922.mp4#t=230)  _(term: drone, unreviewed)_
 
 - **[2024-12-04] Board of Award** -- December 4,2024 Board of Awards
   > ...All right. Motion carried unanimously. Moving on, item number three. Purchase a new Axon Air Photokite Sigma Mobile Tethered Drone, Department of Emergency Management. And for the record, Mr. Kozemecki submitted a requisition. This is made out to Axon Enterprises. This is to purchase a subject drone. Total quoted cost $37,078. Axon quoted this drone per their current sourceable government cooperative contract. And along...
   [Watch ▸](https://danbury.granicus.com/player/clip/2999)  [jump to 3:04 ▸](https://archive-video.granicus.com/danbury/danbury_7b1e78a2-ca21-4606-8dc0-5d1be86d0922.mp4#t=184)  _(term: drone, unreviewed)_
-
-- **[2024-12-04] Board of Award** -- December 4,2024 Board of Awards
-  > ...Moving on, item number three. Purchase a new Axon Air Photokite Sigma Mobile Tethered Drone, Department of Emergency Management. And for the record, Mr. Kozemecki submitted a requisition. This is made out to Axon Enterprises. This is to purchase a subject drone. Total quoted cost $37,078. Axon quoted this drone per their current sourceable government cooperative contract. And along with the requisition, Mr. Kozemecki included the sole source justification, which indicated...
-  [Watch ▸](https://danbury.granicus.com/player/clip/2999)  [jump to 3:10 ▸](https://archive-video.granicus.com/danbury/danbury_7b1e78a2-ca21-4606-8dc0-5d1be86d0922.mp4#t=190)  _(term: drone, unreviewed)_
 
 - **[2024-10-24] Zoning Board of Appeals** -- October 24, 2024 Zoning Board of Appeals
   > ...motion made by mr revis seconded by mr delusion all in favor aye aye okay uh okay uh let's see here what we have left here nothing application 24-16 drone no old business no new business we need adjournment now go home early you're the chairman can we just um clearly state on the record um about the um application for 333 main oh so he was bro you mean...
@@ -317,12 +327,12 @@ Six Connecticut towns have released the Flock audit log of every search run agai
   [Watch ▸](https://danbury.granicus.com/player/clip/2708)  [jump to 1:55 ▸](https://archive-video.granicus.com/danbury/danbury_1d8a3d1f-eea5-11ee-b231-0050569183fa.mp4#t=115)  _(term: drone, unreviewed)_
 
 - **[2024-03-27] Board of Award** -- March 27, 2024 Board of Award
-  > ...item. Purchase drone with related accessories, software, and support for the construction services department. And for the record, we received a requisition from construction services. This is made out to Skydio. This is to purchase the subject items. The total quoted cost was $26,290.73. And Skydio quoted this package for their current tips, which is the interlocal purchasing system cooperative contract that we belong to contract award. So, Mr. Hughes, we make a motion that we award to Skydio the purchase of the drones and...
-  [Watch ▸](https://danbury.granicus.com/player/clip/2708)  [jump to 1:37 ▸](https://archive-video.granicus.com/danbury/danbury_1d8a3d1f-eea5-11ee-b231-0050569183fa.mp4#t=97)  _(term: drone, unreviewed)_
-
-- **[2024-03-27] Board of Award** -- March 27, 2024 Board of Award
   > ...going to be removing item number five, which was the purchase of new 2024 Chevrolet 2500 double cab four by four trucks for the fire department. So that item will be removed. Moving on to the first item. Purchase drone with related accessories, software, and support for the construction services department. And for the record, we received a requisition from construction services. This is made out to Skydio. This is to purchase the subject items. The total quoted cost was $26,290.73. And Skydio quoted...
   [Watch ▸](https://danbury.granicus.com/player/clip/2708)  [jump to 1:23 ▸](https://archive-video.granicus.com/danbury/danbury_1d8a3d1f-eea5-11ee-b231-0050569183fa.mp4#t=83)  _(term: drone, unreviewed)_
+
+- **[2024-03-27] Board of Award** -- March 27, 2024 Board of Award
+  > ...item. Purchase drone with related accessories, software, and support for the construction services department. And for the record, we received a requisition from construction services. This is made out to Skydio. This is to purchase the subject items. The total quoted cost was $26,290.73. And Skydio quoted this package for their current tips, which is the interlocal purchasing system cooperative contract that we belong to contract award. So, Mr. Hughes, we make a motion that we award to Skydio the purchase of the drones and...
+  [Watch ▸](https://danbury.granicus.com/player/clip/2708)  [jump to 1:37 ▸](https://archive-video.granicus.com/danbury/danbury_1d8a3d1f-eea5-11ee-b231-0050569183fa.mp4#t=97)  _(term: drone, unreviewed)_
 
 
 ### facial_recognition
@@ -367,7 +377,13 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 ### rtcc
 
-*(no findings)*
+- **[2021-01-27] Ad Hoc Committees** -- Ad Hoc - CTIC
+  > ...what's going on here which is the use of an officer for purposes of this connecticut fusion center the officer from danbury is the regional...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6pJU4iqbWv4&t=299s)  _(term: fusion_center, unreviewed)_
+
+- **[2021-01-27] Ad Hoc Committees** -- Ad Hoc - CTIC
+  > ...qualified law enforcement officer as a regional intelligence liaison officer with the ctic fusion center connecticut intelligence center location to be his or her newly assigned...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=6pJU4iqbWv4&t=863s)  _(term: fusion_center, unreviewed)_
 
 
 ### surveillance_general
@@ -660,8 +676,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| city_of_danbury | streams | 2026-09-25 15:52:18.924435 | 44 |
-| city_of_danbury | videos | 2026-09-25 15:52:17.638251 | 87 |
+| city_of_danbury | streams | 2026-09-27 14:38:52.812916 | 44 |
+| city_of_danbury | videos | 2026-09-27 14:38:51.470067 | 87 |
 | danbury_granicus | Danbury Video Archives - Granicus Content | 2026-09-06 00:03:16.495278 | 2040 |
 
 
@@ -770,5 +786,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T16:52:41 from Danbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T16:21:38 from Danbury's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

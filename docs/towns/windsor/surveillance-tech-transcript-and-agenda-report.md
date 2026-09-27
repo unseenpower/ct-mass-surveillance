@@ -1,9 +1,9 @@
 # Surveillance-tech report: Windsor
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -84,7 +84,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 3 meetings surfaced a finding (3 dated, spanning 2024-04-16 to 2025-05-20; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2025-05-20.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2025-05-20.*
 
 ??? note "Earlier meetings (3)"
 
@@ -402,8 +402,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| win_tv | streams | 2026-09-25 15:44:06.071982 | 168 |
-| win_tv | videos | 2026-09-25 15:44:03.169851 | 1915 |
+| win_tv | streams | 2026-09-27 14:37:12.237802 | 168 |
+| win_tv | videos | 2026-09-27 14:37:09.423919 | 1915 |
 
 
 ## Registered meeting bodies
@@ -506,5 +506,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:12:08 from Windsor's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T16:13:09 from Windsor's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

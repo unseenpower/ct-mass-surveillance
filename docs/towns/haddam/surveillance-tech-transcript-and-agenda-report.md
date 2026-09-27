@@ -1,9 +1,9 @@
 # Surveillance-tech report: Haddam
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -292,8 +292,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| vsctv | streams | 2026-09-25 15:58:49.710156 | 1 |
-| vsctv | videos | 2026-09-25 15:58:48.968223 | 3374 |
+| vsctv | streams | 2026-09-27 14:40:35.014342 | 1 |
+| vsctv | videos | 2026-09-27 14:40:34.192947 | 3374 |
 
 
 ## Registered meeting bodies
@@ -385,5 +385,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T16:57:34 from Haddam's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:24:53 from Haddam's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

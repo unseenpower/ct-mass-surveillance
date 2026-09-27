@@ -1,9 +1,9 @@
 # Surveillance-tech report: Hebron
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -61,7 +61,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 4 meetings surfaced a finding (4 dated, spanning 2022-05-19 to 2026-04-23; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-04-23.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2026-04-23.*
 
 ??? note "Earlier meetings (4)"
 
@@ -361,7 +361,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| cvc | videos | 2026-09-25 16:03:38.861278 | 2045 |
+| cvc | videos | 2026-09-27 14:20:59.571991 | 2046 |
 
 
 ## Registered meeting bodies
@@ -450,5 +450,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T16:58:51 from Hebron's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:28:02 from Hebron's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

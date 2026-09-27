@@ -1,9 +1,9 @@
 # Surveillance-tech report: Vernon
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -82,7 +82,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 1 meetings surfaced a finding (1 dated, spanning 2026-09-15 to 2026-09-15; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+**Since 2026-08-28** (through 2026-09-27, when this report was generated):
 
 ### 2026-09-15 -- Town Council
 
@@ -322,8 +322,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| vernon_ct | streams | 2026-09-25 15:44:31.536291 | 56 |
-| vernon_ct | videos | 2026-09-25 15:44:30.212391 | 85 |
+| vernon_ct | streams | 2026-09-27 14:37:15.168455 | 56 |
+| vernon_ct | videos | 2026-09-27 14:37:13.860855 | 85 |
 
 
 ## Registered meeting bodies
@@ -438,5 +438,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:10:26 from Vernon's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T16:00:42 from Vernon's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 
