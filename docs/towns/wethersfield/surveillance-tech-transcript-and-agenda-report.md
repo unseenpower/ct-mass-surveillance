@@ -1,9 +1,9 @@
 # Surveillance-tech report: Wethersfield
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -86,7 +86,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 26 meetings surfaced a finding (26 dated, spanning 2019-05-07 to 2026-09-08; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+**Since 2026-08-28** (through 2026-09-27, when this report was generated):
 
 ### 2026-09-08 -- Town Council
 
@@ -760,8 +760,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| wgtv | streams | 2026-09-25 15:23:37.941858 | 362 |
-| wgtv | videos | 2026-09-25 15:23:32.187314 | 553 |
+| wgtv | streams | 2026-09-27 14:29:09.655389 | 362 |
+| wgtv | videos | 2026-09-27 14:29:17.358141 | 553 |
 
 
 ## Registered meeting bodies
@@ -890,5 +890,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:11:58 from Wethersfield's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T16:09:21 from Wethersfield's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

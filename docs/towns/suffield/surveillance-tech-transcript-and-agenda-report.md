@@ -1,9 +1,9 @@
 # Surveillance-tech report: Suffield
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,7 +20,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">4</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 3 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2025–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2025-03-19 → 2026-06-09</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">3</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones, Facial recognition</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">90%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">104 of 116 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">90%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">106 of 118 meetings</span></a>
 </div>
 
 **Not the full history:** transcripts begin **2019-02-28**, but Suffield's published video archive goes back to **2018-09-26**. Meetings before 2019 are not yet transcribed, so this report cannot say what was discussed then. Older meetings are still being added.
@@ -62,7 +62,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 3 meetings surfaced a finding (3 dated, spanning 2025-03-19 to 2026-06-09; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-06-09.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2026-06-09.*
 
 ??? note "Earlier meetings (3)"
 
@@ -310,8 +310,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 2
 - Active meeting bodies: 10
-- Videos registered: 116 (fetched: 104, no captions: 0)
-- Date range covered: 2018-09-26 to 2026-09-02 (all 116 videos dated)
+- Videos registered: 118 (fetched: 106, no captions: 0)
+- Date range covered: 2018-09-26 to 2026-09-16 (all 118 videos dated)
 
 
 ### Channels
@@ -326,8 +326,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| suffield_sunlight | videos | 2026-09-25 15:48:59.064466 | 156 |
-| suffield_town_govt | videos | 2026-09-25 16:04:26.357198 | 19 |
+| suffield_sunlight | videos | 2026-09-27 14:38:15.793107 | 158 |
+| suffield_town_govt | videos | 2026-09-27 14:21:02.443006 | 19 |
 
 
 ## Registered meeting bodies
@@ -335,7 +335,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | body_name | category | active | video_count |
 | --- | --- | --- | --- |
 | Town Meeting / Budget | budget_finance | True | 13 |
-| Board of Selectmen | council | True | 57 |
+| Board of Selectmen | council | True | 58 |
 | Board of Education | education | True | 1 |
 | Charter Revision Commission | other | True | 13 |
 | Economic Development Commission | other | True | 2 |
@@ -343,7 +343,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 | Permanent Building Commission | other | True | 4 |
 | Planning and Zoning Commission | other | True | 3 |
 | Retirement Commission | other | True | 1 |
-| Fire Commission | public_safety | True | 2 |
+| Fire Commission | public_safety | True | 3 |
 
 
 ## Agenda/minutes coverage
@@ -420,5 +420,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:10:10 from Suffield's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:54:37 from Suffield's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

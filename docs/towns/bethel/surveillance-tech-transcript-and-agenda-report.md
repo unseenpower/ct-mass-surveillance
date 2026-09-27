@@ -1,9 +1,9 @@
 # Surveillance-tech report: Bethel
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,10 +20,10 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">56</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 29 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2020–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2020-04-20 → 2026-09-17</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">84%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">837 of 997 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">84%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">838 of 997 meetings</span></a>
 </div>
 
-**Still incomplete:** 160 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
+**Still incomplete:** 159 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
 
 This report collects every mention of surveillance technology found in **Bethel**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
 
@@ -63,7 +63,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 29 meetings surfaced a finding (29 dated, spanning 2020-04-20 to 2026-09-17; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+**Since 2026-08-28** (through 2026-09-27, when this report was generated):
 
 ### 2026-09-17 -- Board of Finance
 
@@ -699,7 +699,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 13
-- Videos registered: 997 (fetched: 837, no captions: 2)
+- Videos registered: 997 (fetched: 838, no captions: 2)
 - Date range covered: 2016-03-03 to 2026-09-24 — **based on the 995 of 997 videos that carry a parseable upload date**; the other 2 are undated, so the real corpus may extend beyond this range in either direction
 
 
@@ -714,8 +714,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| bethel_ct | streams | 2026-09-25 15:06:31.297119 | 31 |
-| bethel_ct | videos | 2026-09-25 15:06:30.185682 | 1124 |
+| bethel_ct | streams | 2026-09-27 14:19:49.785706 | 31 |
+| bethel_ct | videos | 2026-09-27 14:19:48.548319 | 1124 |
 
 
 ## Registered meeting bodies
@@ -813,5 +813,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T16:49:40 from Bethel's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:08:08 from Bethel's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

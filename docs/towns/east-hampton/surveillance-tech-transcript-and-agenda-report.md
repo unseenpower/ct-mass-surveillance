@@ -1,9 +1,9 @@
 # Surveillance-tech report: East Hampton
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -21,7 +21,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">2021–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2021-03-27 → 2026-06-09</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, General surveillance</span></a>
 <a class="glance-card" href="#coverage-status"><span class="gc-big">55%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">136 of 248 meetings</span></a>
-<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">6</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
+<a class="glance-card" href="#agendaminutes-mentions-unreviewed----live-keyword-scan-no-human-review-queue-yet"><span class="gc-big">4</span><span class="gc-lbl">agenda &amp; minutes mentions</span><span class="gc-detail">keyword scan, not yet reviewed</span></a>
 </div>
 
 **Still incomplete:** 112 known meetings are not yet transcribed, so an absence here is not proof a topic never came up.
@@ -64,7 +64,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 11 meetings surfaced a finding (11 dated, spanning 2021-03-27 to 2026-06-09; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-06-09.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2026-06-09.*
 
 ??? note "Earlier meetings (11)"
 
@@ -539,25 +539,7 @@ connection with use of force investigations, not disciplinary inve...
 
 ### predictive_policing
 
-- **[2026-01-13] Town Council** -- Town Council Agenda - 2026-01-13 (agenda)
-  > ...partment.
-   •   December was a busy month for teen and adult programming at the Library. In addition to regular
-       monthly programs, the Library hosted a Music in the Library event featuring the Foundry Saxophone
-       Quartet, a new session of Paint & Pastries, a Taylor Swift–themed craft night, a Lunch Bunch reunion,
-       and a Percy Jackson–themed escape room.
-   •   Ms. Lancelot attend...
-  [View document ▸](https://www.easthamptonct.gov/AgendaCenter/ViewFile/Agenda/_01132026-380)  _(term: predictive_policing, unreviewed)_
-
-- **[2026-05-06] Planning & Zoning Commission** -- Planning & Zoning Commission Minutes - 2026-05-06 (minutes)
-  > ...y and tax base.
-
-William House, property owner briefly provided a historical overview of commercial activity
-that had historically occurred on the property for many decades including: an ice house, a
-foundry, poultry farming, and Christmas tree farming.
-
-Attorney Barber additionally stated that no current contract or specific commercial user was
-proposed for the property at this time, and that the...
-  [View document ▸](https://www.easthamptonct.gov/AgendaCenter/ViewFile/Minutes/_05062026-486)  _(term: predictive_policing, unreviewed)_
+*(no mentions)*
 
 
 ### purchasing_broker
@@ -615,8 +597,8 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| east_hampton_ct | streams | 2026-09-25 15:56:46.377083 | 191 |
-| east_hampton_ct | videos | 2026-09-25 15:56:43.277199 | 62 |
+| east_hampton_ct | streams | 2026-09-27 14:39:41.977302 | 191 |
+| east_hampton_ct | videos | 2026-09-27 14:39:38.881975 | 62 |
 
 
 ## Registered meeting bodies
@@ -711,5 +693,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T16:53:53 from East Hampton's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:16:06 from East Hampton's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

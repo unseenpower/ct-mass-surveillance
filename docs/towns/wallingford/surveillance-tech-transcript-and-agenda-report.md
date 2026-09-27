@@ -1,9 +1,9 @@
 # Surveillance-tech report: Wallingford
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -84,7 +84,7 @@ Six Connecticut towns have released the Flock audit log of every search run agai
 
 26 meetings surfaced a finding (26 dated, spanning 2017-11-27 to 2026-09-22; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+**Since 2026-08-28** (through 2026-09-27, when this report was generated):
 
 ### 2026-09-22 -- Town Council
 
@@ -749,10 +749,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| wallingford_government_media | streams | 2026-09-25 15:22:30.370157 | 364 |
-| wallingford_government_media | videos | 2026-09-25 15:22:24.568084 | 628 |
-| wallingford_ps | streams | 2026-09-25 15:40:51.152594 | 310 |
-| wallingford_ps | videos | 2026-09-25 15:40:46.352825 | 245 |
+| wallingford_government_media | streams | 2026-09-27 14:28:54.271453 | 364 |
+| wallingford_government_media | videos | 2026-09-27 14:28:48.835251 | 628 |
+| wallingford_ps | streams | 2026-09-27 14:36:11.228252 | 310 |
+| wallingford_ps | videos | 2026-09-27 14:36:06.651857 | 245 |
 
 
 ## Registered meeting bodies
@@ -865,5 +865,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T17:10:38 from Wallingford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T16:02:04 from Wallingford's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

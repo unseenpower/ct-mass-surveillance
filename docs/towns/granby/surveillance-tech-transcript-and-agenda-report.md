@@ -1,9 +1,9 @@
 # Surveillance-tech report: Granby
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -20,7 +20,7 @@
 <a class="glance-card" href="#timeline"><span class="gc-big">15</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 10 meetings · read the timeline</span></a>
 <a class="glance-card" href="#timeline"><span class="gc-big">2024–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2024-03-18 → 2026-09-09</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Drones, Predictive policing, General surveillance</span></a>
-<a class="glance-card" href="#coverage-status"><span class="gc-big">98%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">274 of 279 meetings</span></a>
+<a class="glance-card" href="#coverage-status"><span class="gc-big">99%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">275 of 279 meetings</span></a>
 </div>
 
 This report collects every mention of surveillance technology found in **Granby**'s recorded public meetings -- automatically transcribed, then keyword-scanned. Each mention below links straight to the moment in the source video, so anything here can be checked against the recording itself.
@@ -61,7 +61,7 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
 10 meetings surfaced a finding (10 dated, spanning 2024-03-18 to 2026-09-09; 0 of unknown date, listed last). Newest first.
 
-**Since 2026-08-26** (through 2026-09-25, when this report was generated):
+**Since 2026-08-28** (through 2026-09-27, when this report was generated):
 
 ### 2026-09-09 -- Inland Wetlands & Watercourses Commission
 
@@ -397,7 +397,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 - Channels registered: 1
 - Active meeting bodies: 10
-- Videos registered: 279 (fetched: 274, no captions: 2)
+- Videos registered: 279 (fetched: 275, no captions: 2)
 - Date range covered: 2014-11-20 to 2026-09-22 (all 279 videos dated)
 
 
@@ -412,7 +412,7 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| gctv16 | videos | 2026-09-25 15:08:03.353670 | 796 |
+| gctv16 | videos | 2026-09-27 14:20:00.893501 | 796 |
 
 
 ## Registered meeting bodies
@@ -508,5 +508,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T16:56:49 from Granby's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:22:49 from Granby's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 

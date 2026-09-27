@@ -1,9 +1,9 @@
 # Surveillance-tech report: Bridgeport
 
 <!-- freshness -->
-!!! info "Mentions current to 25 September 2026"
+!!! info "Mentions current to 27 September 2026"
 
-    This report covers meetings processed up to **2026-09-25**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
+    This report covers meetings processed up to **2026-09-27**. Anything newer shows up first in [This Week in Surveillance](../../this-week-in-surveillance.md).
 <!-- /freshness -->
 
 <!-- flockoff -->
@@ -14,11 +14,11 @@
 
 ## At a glance: Bridgeport
 
-<p class="glance-headline"><strong>24 mentions</strong> of surveillance technology in <strong>5</strong> Bridgeport meetings, 2026</p>
+<p class="glance-headline"><strong>35 mentions</strong> of surveillance technology in <strong>7</strong> Bridgeport meetings, 2025–2026</p>
 
 <div class="glance-grid">
-<a class="glance-card" href="#timeline"><span class="gc-big">24</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 5 meetings · read the timeline</span></a>
-<a class="glance-card" href="#timeline"><span class="gc-big">2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2026-01-20 → 2026-08-03</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">35</span><span class="gc-lbl">mentions</span><span class="gc-detail">across 7 meetings · read the timeline</span></a>
+<a class="glance-card" href="#timeline"><span class="gc-big">2025–2026</span><span class="gc-lbl">first to latest mention</span><span class="gc-detail">2025-02-12 → 2026-08-03</span></a>
 <a class="glance-card" href="#findings-by-topic"><span class="gc-big">4</span><span class="gc-lbl">technologies discussed</span><span class="gc-detail">ALPR / Flock, Body cameras, Drones, Real-time crime centres</span></a>
 <a class="glance-card" href="#coverage-status"><span class="gc-big">90%</span><span class="gc-lbl">of known meetings transcribed</span><span class="gc-detail">147 of 163 meetings</span></a>
 </div>
@@ -52,18 +52,18 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 | [ALPR / Flock](#alpr) | 11 | 3 | 2026-01-20 | 2026-04-25 |
 | [Body cameras](#body_camera) | 4 | 1 | 2026-05-02 | 2026-05-02 |
 | [Drones](#drone) | 6 | 3 | 2026-01-20 | 2026-08-03 |
-| [Real-time crime centres](#rtcc) | 3 | 1 | 2026-05-02 | 2026-05-02 |
+| [Real-time crime centres](#rtcc) | 14 | 3 | 2025-02-12 | 2026-05-02 |
 
 
 ## Timeline
 
 <!-- report-polish v1 -->
 
-5 meetings surfaced a finding (5 dated, spanning 2026-01-20 to 2026-08-03; 0 of unknown date, listed last). Newest first.
+7 meetings surfaced a finding (7 dated, spanning 2025-02-12 to 2026-08-03; 0 of unknown date, listed last). Newest first.
 
-*No meetings with a mention in the 30 days before 2026-09-25. The most recent was 2026-08-03.*
+*No meetings with a mention in the 30 days before 2026-09-27. The most recent was 2026-08-03.*
 
-??? note "Earlier meetings (5)"
+??? note "Earlier meetings (7)"
 
     **2026-08-03 -- City Council**
 
@@ -78,20 +78,34 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 
     **04.30. 2026 Budget & Appropriations Committee Meeting** _(topics: body_camera, drone, rtcc)_
 
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=4690s)  > ...which covers our booking area, internal affairs, our detective bureau. We have them in TNT task forces, fusion center, a training academy, special services, administrative services, property room,...
     - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5159s)  > ...accountability where it becomes uh, we're talking about transparency laws, body cam, dash cam, all those things. All of those things are very very expensive. But we have to integrate our...
     - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5165s)  > ...All of those things are very very expensive. But we have to integrate our MVTs with our body cam systems, dash cam systems, um upgrading to Windows 11. We've done that um everywhere we can....
     - `rtcc` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5316s)  > ...as as my normal day job. Um but then u Melody comes in with when it comes to our real time crime center. So we'll talk about some of that. We have an an unfortunate expense that...
     - `drone` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5484s)  > ...it's a compliance and it's actually a federal law. >> You say image. So that's like a drone. >> No. Um we have to share information from case file. So there might be video from...
     - `rtcc` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5584s)  > ...>> Okay. I mean I can explain some of this to you if you want but for that. So for real time crime center I'll turn it over to Melanie. >> Before Melanie goes I just wanted to...
     - `rtcc` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5623s)  > ...much better. So if we could ever get back to that, that would be >> Hi, I'm Melanie. I'm within the real time crime center. Um, assistant chief closing and I have kind of been trying...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5699s)  > ...officers. It improves the response time. Um detects gunshots immediately letting the fusion center know and patrol officers know um the exact location of where shots are being fired. Um, but we...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5815s)  > ...They have strong investigative skills. A lot of times they will contact the fusion center to look for video footage of crimes that they're investigating. For court purposes, it's pretty much...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5848s)  > ...Bassi High School a few months ago that after he received 911 calls, officers working in the fusion center at that day and time were able to quickly identify a suspect. We had a description out patrol...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5871s)  > ...several 911 calls about a individual waving a firearm in the area of Stratford and Union Fusion Center operators were able to get eyes on the suspect and relay same thing, suspect...
     - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=6269s)  > ...opposed to consent cuz consent you withdraw at any time. You have to review body cam. There's a lot that goes into this. Now, even after the case is done, there's unavoidable. These aren't...
     - `body_camera` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=9513s)  > ...>> You mean our body cameras? >> Your body cameras are outdated. There's two additional levels now of body cam. >> Yeah, there's some body cameras that I like to that that are out now that uh...
+    - `rtcc` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=9574s)  > ...>> Okay. All right. So, there's no name. >> It's the same thing. I'd like to >> They're real time crime centers. We just added that fusion center. Ultimately, what it is is a real time....
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=9576s)  > ...>> It's the same thing. I'd like to >> They're real time crime centers. We just added that fusion center. Ultimately, what it is is a real time. >> All right. Lastly,...
 
     **2026-04-25 -- Budget and Appropriations Committee**
 
     **04.25.2026 Budget & Appropriations Committee Meeting** _(topics: alpr)_
 
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=ZgYaWg0a5Qg&t=4025s)  > ...starting >> people are starting to sue towns >> for for allowing those license plate reader companies to share their data with ICE and DHS and it's they found six...
+
+    **2026-04-18 -- Budget and Appropriations Committee**
+
+    **04.18.2026 Budget & Appropriations Committee Meeting** _(topics: rtcc)_
+
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=TeY_d5G4cBo&t=5898s)  > ...We realized we need another powerful generator to fund the fusion center, which is a key thing for public safety. There is congressional...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=TeY_d5G4cBo&t=6985s)  > ...Here, yeah, supporting the redundancy of the uh failover for the EOC, ECC, and fusion center. The PSAP, you know. The request, that's something that...
 
     **2026-02-05 -- Board of Education**
 
@@ -113,6 +127,13 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=945s)  > ...opportunity to attend the committee meeting discussing the introduction of Flock. And before and after, I spent time speaking to folks my age about the proposal and every person said the same...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=966s)  > ...in Bridgeport. Want to thrive here in Bridgeport. We cannot do that while living in fear. Whether a flock of police brutality, of future surveillance plans, or of ICE who have already...
     - `alpr_flock` [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=985s)  > ...youth from the city, especially those who do not look like myself, when voting on flock or any future surveillance proposals. We say no. [applause]...
+
+    **2025-02-12 -- Board of Education**
+
+    **In Person Special Meeting of the Bridgeport Board of Education Tuesday, February 11** _(topics: rtcc)_
+
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PAI8IbNsGBA&t=2019s)  > ...Bridgeport that monitors our school system and our buildings we have the fusion Center and we have the EOC that monitors the same thing so if that alarm goes off right now guess what it goes to...
+    - `fusion_center` [Watch on YouTube ▸](https://www.youtube.com/watch?v=PAI8IbNsGBA&t=2029s)  > ...monitors the same thing so if that alarm goes off right now guess what it goes to SRO to Alabama back at the fusion Center where it could be already dropped off so if you look at that budget like I've...
 
 
 ## Findings by topic
@@ -137,20 +158,20 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=w7qB0Magnkw&t=1765s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
-  > ...strongly urge you to onhold the committee's rejection of the proposal contract with flock safety and expansion of police drone civilians in the Bridgeport. Our community care deeply...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=637s)  _(term: alpr_flock, unreviewed)_
+  > ...am deeply concerned about the safety of Bridgeport residents if this city contracts with Flock, a company that is building a quite dangerous mass surveillance infrastructure nationwide....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=842s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
   > ...youth from the city, especially those who do not look like myself, when voting on flock or any future surveillance proposals. We say no. [applause]...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=985s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
-  > ...am deeply concerned about the safety of Bridgeport residents if this city contracts with Flock, a company that is building a quite dangerous mass surveillance infrastructure nationwide....
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=842s)  _(term: alpr_flock, unreviewed)_
-
-- **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
   > ...in Bridgeport. Want to thrive here in Bridgeport. We cannot do that while living in fear. Whether a flock of police brutality, of future surveillance plans, or of ICE who have already...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=966s)  _(term: alpr_flock, unreviewed)_
+
+- **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
+  > ...strongly urge you to onhold the committee's rejection of the proposal contract with flock safety and expansion of police drone civilians in the Bridgeport. Our community care deeply...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=rmDyzuWaFg4&t=637s)  _(term: alpr_flock, unreviewed)_
 
 - **[2026-01-20] City Council** -- City of Bridgeport City Council Meeting - 1.20.2026
   > ...opportunity to attend the committee meeting discussing the introduction of Flock. And before and after, I spent time speaking to folks my age about the proposal and every person said the same...
@@ -177,20 +198,20 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 ### body_camera
 
 - **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
-  > ...>> You mean our body cameras? >> Your body cameras are outdated. There's two additional levels now of body cam. >> Yeah, there's some body cameras that I like to that that are out now that uh...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=9513s)  _(term: body_camera, unreviewed)_
-
-- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
-  > ...opposed to consent cuz consent you withdraw at any time. You have to review body cam. There's a lot that goes into this. Now, even after the case is done, there's unavoidable. These aren't...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=6269s)  _(term: body_camera, unreviewed)_
+  > ...accountability where it becomes uh, we're talking about transparency laws, body cam, dash cam, all those things. All of those things are very very expensive. But we have to integrate our...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5159s)  _(term: body_camera, unreviewed)_
 
 - **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
   > ...All of those things are very very expensive. But we have to integrate our MVTs with our body cam systems, dash cam systems, um upgrading to Windows 11. We've done that um everywhere we can....
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5165s)  _(term: body_camera, unreviewed)_
 
 - **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
-  > ...accountability where it becomes uh, we're talking about transparency laws, body cam, dash cam, all those things. All of those things are very very expensive. But we have to integrate our...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5159s)  _(term: body_camera, unreviewed)_
+  > ...opposed to consent cuz consent you withdraw at any time. You have to review body cam. There's a lot that goes into this. Now, even after the case is done, there's unavoidable. These aren't...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=6269s)  _(term: body_camera, unreviewed)_
+
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+  > ...>> You mean our body cameras? >> Your body cameras are outdated. There's two additional levels now of body cam. >> Yeah, there's some body cameras that I like to that that are out now that uh...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=9513s)  _(term: body_camera, unreviewed)_
 
 
 ### cad
@@ -220,16 +241,16 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=931s)  _(term: drone, unreviewed)_
 
 - **[2026-08-03] City Council** -- City of Bridgeport City Council Meeting - 08.03.2026
+  > ...company only recently shifted from cancer diagnostics to defense drone manufacturing. And its drone subsidiary just was established this May. So, although the company has stated its...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=933s)  _(term: drone, unreviewed)_
+
+- **[2026-08-03] City Council** -- City of Bridgeport City Council Meeting - 08.03.2026
   > ...doing business with the manufacturing company because they already make the material there that the drone will be utilizing. So, sometimes, you know, when peo- And...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=4050s)  _(term: drone, unreviewed)_
 
 - **[2026-08-03] City Council** -- City of Bridgeport City Council Meeting - 08.03.2026
   > ...So, it was a private sale. It did not come through OPED. We didn't have a say so in it. Um, secondly, the drone company had already been doing business with the manufacturing...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=4041s)  _(term: drone, unreviewed)_
-
-- **[2026-08-03] City Council** -- City of Bridgeport City Council Meeting - 08.03.2026
-  > ...company only recently shifted from cancer diagnostics to defense drone manufacturing. And its drone subsidiary just was established this May. So, although the company has stated its...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=llWQk2C8gFk&t=933s)  _(term: drone, unreviewed)_
 
 - **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
   > ...it's a compliance and it's actually a federal law. >> You say image. So that's like a drone. >> No. Um we have to share information from case file. So there might be video from...
@@ -273,16 +294,60 @@ Start with [Timeline](#timeline) to read the discussion in order, or [Findings b
 ### rtcc
 
 - **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+  > ...>> Okay. All right. So, there's no name. >> It's the same thing. I'd like to >> They're real time crime centers. We just added that fusion center. Ultimately, what it is is a real time....
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=9574s)  _(term: rtcc, unreviewed)_
+
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+  > ...much better. So if we could ever get back to that, that would be >> Hi, I'm Melanie. I'm within the real time crime center. Um, assistant chief closing and I have kind of been trying...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5623s)  _(term: rtcc, unreviewed)_
+
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+  > ...which covers our booking area, internal affairs, our detective bureau. We have them in TNT task forces, fusion center, a training academy, special services, administrative services, property room,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=4690s)  _(term: fusion_center, unreviewed)_
+
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+  > ...officers. It improves the response time. Um detects gunshots immediately letting the fusion center know and patrol officers know um the exact location of where shots are being fired. Um, but we...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5699s)  _(term: fusion_center, unreviewed)_
+
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+  > ...They have strong investigative skills. A lot of times they will contact the fusion center to look for video footage of crimes that they're investigating. For court purposes, it's pretty much...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5815s)  _(term: fusion_center, unreviewed)_
+
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+  > ...Bassi High School a few months ago that after he received 911 calls, officers working in the fusion center at that day and time were able to quickly identify a suspect. We had a description out patrol...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5848s)  _(term: fusion_center, unreviewed)_
+
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+  > ...several 911 calls about a individual waving a firearm in the area of Stratford and Union Fusion Center operators were able to get eyes on the suspect and relay same thing, suspect...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5871s)  _(term: fusion_center, unreviewed)_
+
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
   > ...>> Okay. I mean I can explain some of this to you if you want but for that. So for real time crime center I'll turn it over to Melanie. >> Before Melanie goes I just wanted to...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5584s)  _(term: rtcc, unreviewed)_
+
+- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
+  > ...>> It's the same thing. I'd like to >> They're real time crime centers. We just added that fusion center. Ultimately, what it is is a real time. >> All right. Lastly,...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=9576s)  _(term: fusion_center, unreviewed)_
 
 - **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
   > ...as as my normal day job. Um but then u Melody comes in with when it comes to our real time crime center. So we'll talk about some of that. We have an an unfortunate expense that...
   [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5316s)  _(term: rtcc, unreviewed)_
 
-- **[2026-05-02] Budget and Appropriations Committee** -- 04.30. 2026 Budget & Appropriations Committee Meeting
-  > ...much better. So if we could ever get back to that, that would be >> Hi, I'm Melanie. I'm within the real time crime center. Um, assistant chief closing and I have kind of been trying...
-  [Watch on YouTube ▸](https://www.youtube.com/watch?v=d3lV50QSYNw&t=5623s)  _(term: rtcc, unreviewed)_
+- **[2026-04-18] Budget and Appropriations Committee** -- 04.18.2026 Budget & Appropriations Committee Meeting
+  > ...Here, yeah, supporting the redundancy of the uh failover for the EOC, ECC, and fusion center. The PSAP, you know. The request, that's something that...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TeY_d5G4cBo&t=6985s)  _(term: fusion_center, unreviewed)_
+
+- **[2026-04-18] Budget and Appropriations Committee** -- 04.18.2026 Budget & Appropriations Committee Meeting
+  > ...We realized we need another powerful generator to fund the fusion center, which is a key thing for public safety. There is congressional...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=TeY_d5G4cBo&t=5898s)  _(term: fusion_center, unreviewed)_
+
+- **[2025-02-12] Board of Education** -- In Person Special Meeting of the Bridgeport Board of Education Tuesday, February 11
+  > ...monitors the same thing so if that alarm goes off right now guess what it goes to SRO to Alabama back at the fusion Center where it could be already dropped off so if you look at that budget like I've...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PAI8IbNsGBA&t=2029s)  _(term: fusion_center, unreviewed)_
+
+- **[2025-02-12] Board of Education** -- In Person Special Meeting of the Bridgeport Board of Education Tuesday, February 11
+  > ...Bridgeport that monitors our school system and our buildings we have the fusion Center and we have the EOC that monitors the same thing so if that alarm goes off right now guess what it goes to...
+  [Watch on YouTube ▸](https://www.youtube.com/watch?v=PAI8IbNsGBA&t=2019s)  _(term: fusion_center, unreviewed)_
 
 
 ### surveillance_general
@@ -433,10 +498,10 @@ _Everything below describes the corpus and its limits, rather than what was foun
 
 | channel_id | tab | last_crawled_at | video_count |
 | --- | --- | --- | --- |
-| bridgeport_public_schools | streams | 2026-09-25 15:09:41.316780 | 383 |
-| bridgeport_public_schools | videos | 2026-09-25 15:09:35.743714 | 44 |
-| city_of_bridgeport | streams | 2026-09-25 15:18:03.310135 | 48 |
-| city_of_bridgeport | videos | 2026-09-25 15:18:01.969681 | 398 |
+| bridgeport_public_schools | streams | 2026-09-27 14:19:15.368859 | 383 |
+| bridgeport_public_schools | videos | 2026-09-27 14:19:09.562560 | 44 |
+| city_of_bridgeport | streams | 2026-09-27 14:26:51.303669 | 48 |
+| city_of_bridgeport | videos | 2026-09-27 14:26:50.030460 | 398 |
 
 
 ## Registered meeting bodies
@@ -549,5 +614,5 @@ The filename's leading date is the meeting date, so a hit tells you which meetin
 ---
 
 
-_Generated 2026-09-25T16:50:09 from Bridgeport's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
+_Generated 2026-09-27T15:10:24 from Bridgeport's meeting transcripts and agenda documents. Home addresses spoken during public comment are redacted; see the archive MANIFEST for what that means._
 
