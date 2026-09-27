@@ -43,6 +43,18 @@ single document with a timestamped link to the exact second of the meeting
 video for each. Start here to read what a dozen towns said about ALPR
 without opening a dozen town reports.
 
+## Questions, corrections and feedback
+
+Every page on the site has a **Questions? Feedback?** button, and there is a
+[feedback page](docs/feedback.md). Two ways to reach us:
+
+- **Email [flockoff.io@proton.me](mailto:flockoff.io@proton.me)**: private,
+  and no account needed.
+- **[Open an issue](https://github.com/unseenpower/ct-mass-surveillance/issues/new/choose)**:
+  ask a question, report an error or suggest a town or document. Issues are
+  public, so please don't name private individuals or post anyone's personal
+  details. If a page identifies a private person, email us instead.
+
 ## Layout
 
 - `docs/towns/<town-slug>/` — every document, filed by the town it's about.

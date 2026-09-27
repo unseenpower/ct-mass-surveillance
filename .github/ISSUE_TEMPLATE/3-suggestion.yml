@@ -1,0 +1,27 @@
+name: Suggest a town, topic or document
+description: A meeting, town, technology or public record the site should cover.
+title: "Suggestion: "
+labels: [suggestion]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This is public.** Please don't name private individuals or post
+        anyone's contact details. Have records you'd rather not share publicly?
+        Email **flockoff.io@proton.me**.
+  - type: input
+    id: page
+    attributes:
+      label: Related page (optional)
+      placeholder: https://unseenpower.github.io/ct-mass-surveillance/...
+  - type: input
+    id: town
+    attributes:
+      label: Town (if any)
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What should be added?
+      description: Links to meeting videos, agendas, FOIA responses or news coverage help most.
+    validations:
+      required: true

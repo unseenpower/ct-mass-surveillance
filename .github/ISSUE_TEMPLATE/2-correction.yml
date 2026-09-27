@@ -1,0 +1,34 @@
+name: Report an error or correction
+description: A figure, quote, link or town attribution on the site is wrong or out of date.
+title: "Correction: "
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you — corrections are how this record stays trustworthy.
+
+        **This is public.** Please don't name private individuals or post
+        anyone's contact details, plate numbers or addresses. If the error is
+        that the site itself names or identifies a private person, **don't
+        repeat the details here** — email **flockoff.io@proton.me** with the
+        page link and we'll remove it.
+  - type: input
+    id: page
+    attributes:
+      label: Page with the error
+      placeholder: https://unseenpower.github.io/ct-mass-surveillance/...
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What's wrong?
+      description: Quote the text or figure, and say what it should be.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: A link to a meeting video, document or FOIA response that shows the correct version, if you have one.

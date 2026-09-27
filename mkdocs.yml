@@ -9,6 +9,8 @@ edit_uri: ""
 
 theme:
   name: material
+  # overrides/main.html adds the "Questions? Feedback?" button to every page.
+  custom_dir: overrides
   # Material's default pulls Roboto from fonts.googleapis.com and
   # fonts.gstatic.com, which sends every reader's IP address and User-Agent
   # to Google on every page load. On a site about mass surveillance that is
@@ -68,6 +70,7 @@ extra_css:
 
 extra_javascript:
   - javascripts/dashboard-modal.js
+  - javascripts/feedback.js
 
 extra:
   social:

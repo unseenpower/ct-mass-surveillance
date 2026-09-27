@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Email us instead (no GitHub account needed)
+    url: mailto:flockoff.io@proton.me
+    about: >-
+      Anything posted here is public and tied to your GitHub account. If you'd
+      rather not be named, email flockoff.io@proton.me.
+  - name: Take action — flockoff.io
+    url: https://flockoff.io
+    about: What you can do about surveillance in your town.
