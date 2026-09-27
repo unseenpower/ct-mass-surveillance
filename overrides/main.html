@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{#- A "Questions?" button pinned to the corner of every page. It is rendered
+    inside the content block, so instant navigation swaps it with the page and
+    ?from= always names the page the reader is on — no JavaScript needed. -#}
+{% block content %}
+  {{ super() }}
+  {% if page and page.url != "feedback/" %}
+    <a class="fb-fab" href="{{ 'feedback/' | url }}?from={{ (config.site_url ~ page.url) | urlencode }}"
+       title="Ask a question, report an error or send feedback">
+      {% include ".icons/material/comment-question-outline.svg" %}
+      <span>Questions?<span class="fb-long"> Feedback?</span></span>
+    </a>
+  {% endif %}
+{% endblock %}

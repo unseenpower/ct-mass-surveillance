@@ -20,6 +20,7 @@ so you can check it yourself.
 
 [Look at your town's police searches →](analysis/towns/index.md){ .md-button .md-button--primary }
 [Find your town in the matrix](cross-town-matrix.md){ .md-button }
+[Questions? Spotted an error? Tell us](feedback.md){ .md-button }
 
 ## What's here
 

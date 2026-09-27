@@ -1,0 +1,29 @@
+name: Ask a question
+description: Not sure what something on the site means, or where to find it? Ask here.
+title: "Question: "
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This is public.** Everything you write here, and your GitHub username,
+        can be seen by anyone. Please don't name private individuals or post
+        anyone's contact details, plate numbers or addresses — including your own.
+        Would rather stay anonymous? Email **flockoff.io@proton.me** instead.
+  - type: input
+    id: page
+    attributes:
+      label: Which page is this about?
+      description: Paste the link, or leave blank if it's a general question.
+      placeholder: https://unseenpower.github.io/ct-mass-surveillance/...
+  - type: input
+    id: town
+    attributes:
+      label: Town (if any)
+      placeholder: e.g. West Hartford
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
