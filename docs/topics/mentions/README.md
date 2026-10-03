@@ -18,10 +18,12 @@ _These files are generated automatically. No human review has been applied to an
 
 | Topic | Mentions | Towns |
 | --- | --- | --- |
+| [Red-light and speed cameras](traffic_cameras.md) | 3,458 | 84 |
 | [Drones](drone.md) | 2,886 | 89 |
 | [ALPR / Flock](alpr.md) | 2,579 | 81 |
 | [Body cameras](body_camera.md) | 507 | 53 |
 | [General surveillance](surveillance_general.md) | 465 | 54 |
+| [School-bus cameras](school_bus_cameras.md) | 238 | 34 |
 | [Facial recognition](facial_recognition.md) | 187 | 35 |
 | [Predictive policing](predictive_policing.md) | 145 | 42 |
 | [Gunshot detection](gunshot_detection.md) | 78 | 5 |
